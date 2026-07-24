@@ -1,0 +1,650 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "cf8a5200d2088aa0",
+  "generatedAt": "2026-07-24T12:34:57.874Z",
+  "categories": [
+    {
+      "id": "tofu",
+      "name": "豆腐",
+      "keywords": [
+        "豆腐"
+      ],
+      "videoCount": 95,
+      "dataPath": "categories/tofu.json"
+    },
+    {
+      "id": "beef",
+      "name": "牛",
+      "keywords": [
+        "牛"
+      ],
+      "videoCount": 156,
+      "dataPath": "categories/beef.json"
+    },
+    {
+      "id": "lamb",
+      "name": "羊",
+      "keywords": [
+        "羊"
+      ],
+      "videoCount": 88,
+      "dataPath": "categories/lamb.json"
+    },
+    {
+      "id": "pork",
+      "name": "豬",
+      "keywords": [
+        "豬"
+      ],
+      "videoCount": 55,
+      "dataPath": "categories/pork.json"
+    },
+    {
+      "id": "chicken",
+      "name": "雞",
+      "keywords": [
+        "雞"
+      ],
+      "videoCount": 247,
+      "dataPath": "categories/chicken.json"
+    },
+    {
+      "id": "duck",
+      "name": "鴨",
+      "keywords": [
+        "鴨"
+      ],
+      "videoCount": 62,
+      "dataPath": "categories/duck.json"
+    },
+    {
+      "id": "egg",
+      "name": "蛋",
+      "keywords": [
+        "蛋"
+      ],
+      "videoCount": 129,
+      "dataPath": "categories/egg.json"
+    },
+    {
+      "id": "fish",
+      "name": "魚",
+      "keywords": [
+        "魚"
+      ],
+      "videoCount": 293,
+      "dataPath": "categories/fish.json"
+    },
+    {
+      "id": "squid",
+      "name": "魷魚",
+      "keywords": [
+        "魷魚"
+      ],
+      "videoCount": 12,
+      "dataPath": "categories/squid.json"
+    },
+    {
+      "id": "cuttlefish",
+      "name": "花枝",
+      "keywords": [
+        "花枝"
+      ],
+      "videoCount": 3,
+      "dataPath": "categories/cuttlefish.json"
+    },
+    {
+      "id": "rice",
+      "name": "飯",
+      "keywords": [
+        "飯"
+      ],
+      "videoCount": 136,
+      "dataPath": "categories/rice.json"
+    },
+    {
+      "id": "taro",
+      "name": "芋",
+      "keywords": [
+        "芋"
+      ],
+      "videoCount": 34,
+      "dataPath": "categories/taro.json"
+    },
+    {
+      "id": "shrimp-or-baihua",
+      "name": "蝦 或 百花",
+      "keywords": [
+        "蝦",
+        "百花"
+      ],
+      "videoCount": 131,
+      "dataPath": "categories/shrimp-or-baihua.json"
+    },
+    {
+      "id": "meatball",
+      "name": "丸子",
+      "keywords": [
+        "丸子"
+      ],
+      "videoCount": 14,
+      "dataPath": "categories/meatball.json"
+    },
+    {
+      "id": "kou-rou",
+      "name": "扣肉",
+      "keywords": [
+        "扣肉"
+      ],
+      "videoCount": 27,
+      "dataPath": "categories/kou-rou.json"
+    },
+    {
+      "id": "thick-soup",
+      "name": "羹",
+      "keywords": [
+        "羹"
+      ],
+      "videoCount": 26,
+      "dataPath": "categories/thick-soup.json"
+    },
+    {
+      "id": "yu-xiang",
+      "name": "魚香",
+      "keywords": [
+        "魚香"
+      ],
+      "videoCount": 19,
+      "dataPath": "categories/yu-xiang.json"
+    },
+    {
+      "id": "tomato-sauce",
+      "name": "茄汁",
+      "keywords": [
+        "茄汁"
+      ],
+      "videoCount": 7,
+      "dataPath": "categories/tomato-sauce.json"
+    },
+    {
+      "id": "vinegar-glaze",
+      "name": "醋溜",
+      "keywords": [
+        "醋溜"
+      ],
+      "videoCount": 8,
+      "dataPath": "categories/vinegar-glaze.json"
+    },
+    {
+      "id": "homestyle",
+      "name": "家常",
+      "keywords": [
+        "家常"
+      ],
+      "videoCount": 43,
+      "dataPath": "categories/homestyle.json"
+    },
+    {
+      "id": "noodle",
+      "name": "麵",
+      "keywords": [
+        "麵"
+      ],
+      "videoCount": 131,
+      "dataPath": "categories/noodle.json"
+    },
+    {
+      "id": "yuan-yang",
+      "name": "鴛鴦",
+      "keywords": [
+        "鴛鴦"
+      ],
+      "videoCount": 6,
+      "dataPath": "categories/yuan-yang.json"
+    },
+    {
+      "id": "vegetarian",
+      "name": "素",
+      "keywords": [
+        "素"
+      ],
+      "videoCount": 36,
+      "dataPath": "categories/vegetarian.json"
+    },
+    {
+      "id": "pork-ribs",
+      "name": "排骨",
+      "keywords": [
+        "排骨"
+      ],
+      "videoCount": 44,
+      "dataPath": "categories/pork-ribs.json"
+    },
+    {
+      "id": "three-delicacies",
+      "name": "三鮮",
+      "keywords": [
+        "三鮮"
+      ],
+      "videoCount": 15,
+      "dataPath": "categories/three-delicacies.json"
+    },
+    {
+      "id": "wuxi",
+      "name": "無錫",
+      "keywords": [
+        "無錫"
+      ],
+      "videoCount": 5,
+      "dataPath": "categories/wuxi.json"
+    },
+    {
+      "id": "fresh-milk",
+      "name": "鮮奶",
+      "keywords": [
+        "鮮奶"
+      ],
+      "videoCount": 2,
+      "dataPath": "categories/fresh-milk.json"
+    },
+    {
+      "id": "minced-crisp",
+      "name": "鬆",
+      "keywords": [
+        "鬆"
+      ],
+      "videoCount": 18,
+      "dataPath": "categories/minced-crisp.json"
+    },
+    {
+      "id": "fu-yung",
+      "name": "芙蓉",
+      "keywords": [
+        "芙蓉"
+      ],
+      "videoCount": 13,
+      "dataPath": "categories/fu-yung.json"
+    },
+    {
+      "id": "jade",
+      "name": "翡翠",
+      "keywords": [
+        "翡翠"
+      ],
+      "videoCount": 12,
+      "dataPath": "categories/jade.json"
+    },
+    {
+      "id": "bird-nest",
+      "name": "雀巢",
+      "keywords": [
+        "雀巢"
+      ],
+      "videoCount": 1,
+      "dataPath": "categories/bird-nest.json"
+    },
+    {
+      "id": "sweet-sour",
+      "name": "糖醋",
+      "keywords": [
+        "糖醋"
+      ],
+      "videoCount": 11,
+      "dataPath": "categories/sweet-sour.json"
+    },
+    {
+      "id": "braised-or-roasted",
+      "name": "紅燒 或 燒",
+      "keywords": [
+        "紅燒",
+        "燒"
+      ],
+      "videoCount": 159,
+      "dataPath": "categories/braised-or-roasted.json"
+    },
+    {
+      "id": "oyster",
+      "name": "蚵",
+      "keywords": [
+        "蚵"
+      ],
+      "videoCount": 14,
+      "dataPath": "categories/oyster.json"
+    },
+    {
+      "id": "trotter",
+      "name": "蹄",
+      "keywords": [
+        "蹄"
+      ],
+      "videoCount": 26,
+      "dataPath": "categories/trotter.json"
+    },
+    {
+      "id": "eel",
+      "name": "鰻",
+      "keywords": [
+        "鰻"
+      ],
+      "videoCount": 24,
+      "dataPath": "categories/eel.json"
+    },
+    {
+      "id": "shredded-pork",
+      "name": "肉絲",
+      "keywords": [
+        "肉絲"
+      ],
+      "videoCount": 9,
+      "dataPath": "categories/shredded-pork.json"
+    },
+    {
+      "id": "honey-glazed",
+      "name": "蜜汁",
+      "keywords": [
+        "蜜汁"
+      ],
+      "videoCount": 4,
+      "dataPath": "categories/honey-glazed.json"
+    },
+    {
+      "id": "minced-paste",
+      "name": "茸",
+      "keywords": [
+        "茸"
+      ],
+      "videoCount": 14,
+      "dataPath": "categories/minced-paste.json"
+    },
+    {
+      "id": "black-bean",
+      "name": "豉",
+      "keywords": [
+        "豉"
+      ],
+      "videoCount": 25,
+      "dataPath": "categories/black-bean.json"
+    },
+    {
+      "id": "jiang-bao",
+      "name": "醬爆",
+      "keywords": [
+        "醬爆"
+      ],
+      "videoCount": 9,
+      "dataPath": "categories/jiang-bao.json"
+    },
+    {
+      "id": "velvet-stir-fry",
+      "name": "滑炒",
+      "keywords": [
+        "滑炒"
+      ],
+      "videoCount": 1,
+      "dataPath": "categories/velvet-stir-fry.json"
+    },
+    {
+      "id": "baked",
+      "name": "焗",
+      "keywords": [
+        "焗"
+      ],
+      "videoCount": 18,
+      "dataPath": "categories/baked.json"
+    },
+    {
+      "id": "five-spice",
+      "name": "五香",
+      "keywords": [
+        "五香"
+      ],
+      "videoCount": 11,
+      "dataPath": "categories/five-spice.json"
+    },
+    {
+      "id": "kidney-flower",
+      "name": "腰花",
+      "keywords": [
+        "腰花"
+      ],
+      "videoCount": 5,
+      "dataPath": "categories/kidney-flower.json"
+    },
+    {
+      "id": "yipin",
+      "name": "一品",
+      "keywords": [
+        "一品"
+      ],
+      "videoCount": 7,
+      "dataPath": "categories/yipin.json"
+    },
+    {
+      "id": "century-egg",
+      "name": "皮蛋",
+      "keywords": [
+        "皮蛋"
+      ],
+      "videoCount": 6,
+      "dataPath": "categories/century-egg.json"
+    },
+    {
+      "id": "duck-egg",
+      "name": "鴨蛋",
+      "keywords": [
+        "鴨蛋"
+      ],
+      "videoCount": 0,
+      "dataPath": "categories/duck-egg.json"
+    },
+    {
+      "id": "blanched",
+      "name": "白灼",
+      "keywords": [
+        "白灼"
+      ],
+      "videoCount": 6,
+      "dataPath": "categories/blanched.json"
+    },
+    {
+      "id": "shredded-chicken",
+      "name": "雞絲",
+      "keywords": [
+        "雞絲"
+      ],
+      "videoCount": 17,
+      "dataPath": "categories/shredded-chicken.json"
+    },
+    {
+      "id": "west-lake",
+      "name": "西湖",
+      "keywords": [
+        "西湖"
+      ],
+      "videoCount": 4,
+      "dataPath": "categories/west-lake.json"
+    },
+    {
+      "id": "lychee",
+      "name": "荔枝",
+      "keywords": [
+        "荔枝"
+      ],
+      "videoCount": 5,
+      "dataPath": "categories/lychee.json"
+    },
+    {
+      "id": "crystal",
+      "name": "水晶",
+      "keywords": [
+        "水晶"
+      ],
+      "videoCount": 8,
+      "dataPath": "categories/crystal.json"
+    },
+    {
+      "id": "crispy-soy",
+      "name": "豆酥",
+      "keywords": [
+        "豆酥"
+      ],
+      "videoCount": 3,
+      "dataPath": "categories/crispy-soy.json"
+    },
+    {
+      "id": "crispy-skin",
+      "name": "脆皮",
+      "keywords": [
+        "脆皮"
+      ],
+      "videoCount": 15,
+      "dataPath": "categories/crispy-skin.json"
+    },
+    {
+      "id": "fragrant-crisp",
+      "name": "香酥",
+      "keywords": [
+        "香酥"
+      ],
+      "videoCount": 14,
+      "dataPath": "categories/fragrant-crisp.json"
+    },
+    {
+      "id": "jujube",
+      "name": "棗",
+      "keywords": [
+        "棗"
+      ],
+      "videoCount": 6,
+      "dataPath": "categories/jujube.json"
+    },
+    {
+      "id": "three-cup",
+      "name": "三杯",
+      "keywords": [
+        "三杯"
+      ],
+      "videoCount": 7,
+      "dataPath": "categories/three-cup.json"
+    },
+    {
+      "id": "guo-ta",
+      "name": "鍋塌",
+      "keywords": [
+        "鍋塌"
+      ],
+      "videoCount": 7,
+      "dataPath": "categories/guo-ta.json"
+    },
+    {
+      "id": "drunken",
+      "name": "醉",
+      "keywords": [
+        "醉"
+      ],
+      "videoCount": 12,
+      "dataPath": "categories/drunken.json"
+    },
+    {
+      "id": "eggplant",
+      "name": "茄",
+      "keywords": [
+        "茄"
+      ],
+      "videoCount": 30,
+      "dataPath": "categories/eggplant.json"
+    },
+    {
+      "id": "tofu-skin",
+      "name": "腐皮",
+      "keywords": [
+        "腐皮"
+      ],
+      "videoCount": 9,
+      "dataPath": "categories/tofu-skin.json"
+    },
+    {
+      "id": "liu-sauce",
+      "name": "溜",
+      "keywords": [
+        "溜"
+      ],
+      "videoCount": 25,
+      "dataPath": "categories/liu-sauce.json"
+    },
+    {
+      "id": "water-boiled",
+      "name": "水煮",
+      "keywords": [
+        "水煮"
+      ],
+      "videoCount": 11,
+      "dataPath": "categories/water-boiled.json"
+    },
+    {
+      "id": "mala",
+      "name": "麻辣",
+      "keywords": [
+        "麻辣"
+      ],
+      "videoCount": 36,
+      "dataPath": "categories/mala.json"
+    },
+    {
+      "id": "mixed-vegetables",
+      "name": "合菜",
+      "keywords": [
+        "合菜"
+      ],
+      "videoCount": 1,
+      "dataPath": "categories/mixed-vegetables.json"
+    },
+    {
+      "id": "goose",
+      "name": "鵝",
+      "keywords": [
+        "鵝"
+      ],
+      "videoCount": 10,
+      "dataPath": "categories/goose.json"
+    },
+    {
+      "id": "potsticker",
+      "name": "鍋貼",
+      "keywords": [
+        "鍋貼"
+      ],
+      "videoCount": 11,
+      "dataPath": "categories/potsticker.json"
+    },
+    {
+      "id": "xiang-ling",
+      "name": "響鈴",
+      "keywords": [
+        "響鈴"
+      ],
+      "videoCount": 3,
+      "dataPath": "categories/xiang-ling.json"
+    },
+    {
+      "id": "cabbage",
+      "name": "高麗",
+      "keywords": [
+        "高麗",
+        "高麗菜"
+      ],
+      "videoCount": 6,
+      "dataPath": "categories/cabbage.json"
+    },
+    {
+      "id": "others",
+      "name": "其他",
+      "keywords": [
+        "其他",
+        "未分類"
+      ],
+      "videoCount": 1835,
+      "dataPath": "categories/others.json"
+    }
+  ]
+}
