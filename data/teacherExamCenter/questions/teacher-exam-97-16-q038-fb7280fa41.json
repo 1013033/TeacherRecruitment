@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q038-fb7280fa41",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 38 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-23261",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "服務員須注意酒與酒杯的搭配，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Beer - Pilsner"
+      },
+      {
+        "id": "B",
+        "text": "Brandy - Snifter"
+      },
+      {
+        "id": "C",
+        "text": "Champagne - Champagne Flute"
+      },
+      {
+        "id": "D",
+        "text": "Whiskey - Whiskey Sour Glass。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：champagne、brandy"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "服務員須注意酒與酒杯的搭配，下列何者錯誤？ Beer - Pilsner Brandy - Snifter Champagne - Champagne Flute Whiskey - Whiskey Sour Glass。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2516
+  }
+}

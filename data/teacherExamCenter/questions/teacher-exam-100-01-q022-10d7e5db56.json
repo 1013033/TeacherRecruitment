@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q022-10d7e5db56",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 22 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-14793",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "西餐發展歷史中，最早建立廚房人員編制制度的人物是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "卡雷姆（Antoine Carême）"
+      },
+      {
+        "id": "B",
+        "text": "艾思考菲（Auguste Escoffier）"
+      },
+      {
+        "id": "C",
+        "text": "費南得波伊特（Fernand Point）"
+      },
+      {
+        "id": "D",
+        "text": "羅傑佛吉（Roger Vergé）。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐發展歷史中，最早建立廚房人員編制制度的人物是： 卡雷姆（Antoine Carême） 艾思考菲（Auguste Escoffier） 費南得波伊特（Fernand Point） 羅傑佛吉（Roger Vergé）。 其他：待人工審核 待人工審核",
+    "sequence": 119
+  }
+}

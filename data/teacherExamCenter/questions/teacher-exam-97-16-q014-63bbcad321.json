@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q014-63bbcad321",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 14 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-30967",
+    "paperTitle": "選擇題：每題 1 分",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何者屬於 “Bus Boy” 的主要職務內容？",
+    "options": [
+      {
+        "id": "A",
+        "text": "帶位及點菜"
+      },
+      {
+        "id": "B",
+        "text": "負責點酒"
+      },
+      {
+        "id": "C",
+        "text": "收拾客人用畢之餐盤"
+      },
+      {
+        "id": "D",
+        "text": "結帳收錢。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者屬於 “Bus Boy” 的主要職務內容？ 帶位及點菜 負責點酒 收拾客人用畢之餐盤 結帳收錢。 其他：待人工審核 待人工審核",
+    "sequence": 2609
+  }
+}

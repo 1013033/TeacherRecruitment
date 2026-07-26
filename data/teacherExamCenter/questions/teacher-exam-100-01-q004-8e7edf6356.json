@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q004-8e7edf6356",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 4 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-12531",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "製造德國白葡萄酒之主要葡萄品種為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Semillon"
+      },
+      {
+        "id": "B",
+        "text": "Sauvignon Blanc"
+      },
+      {
+        "id": "C",
+        "text": "Riesling"
+      },
+      {
+        "id": "D",
+        "text": "Silvaner。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、riesling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "製造德國白葡萄酒之主要葡萄品種為： Semillon Sauvignon Blanc Riesling Silvaner。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 101
+  }
+}

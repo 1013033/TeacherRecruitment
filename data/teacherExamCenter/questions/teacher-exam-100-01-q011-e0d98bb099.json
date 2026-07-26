@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q011-e0d98bb099",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 11 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-1819",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "有關三槽式餐具洗滌殺菌設備之敘述何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一槽稱為浸泡槽"
+      },
+      {
+        "id": "B",
+        "text": "第二槽稱為沖洗槽"
+      },
+      {
+        "id": "C",
+        "text": "第三槽為消毒槽"
+      },
+      {
+        "id": "D",
+        "text": "清潔劑應添加於第一槽。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關三槽式餐具洗滌殺菌設備之敘述何者為非？ 第一槽稱為浸泡槽 第二槽稱為沖洗槽 第三槽為消毒槽 清潔劑應添加於第一槽。 其他：待人工審核 待人工審核",
+    "sequence": 11
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q014-fabece6fd9",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 14 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-5242",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "請選出正確的答案組合：a. 鷹粟粉－澄粉；b. 粉皮－綠豆；c. 碗粿－蓬萊米粉；d. 油條－高筋麵粉；e. 甜八寶粥－圓糯米？",
+    "options": [
+      {
+        "id": "A",
+        "text": "be"
+      },
+      {
+        "id": "B",
+        "text": "abe"
+      },
+      {
+        "id": "C",
+        "text": "bde"
+      },
+      {
+        "id": "D",
+        "text": "bcde。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請選出正確的答案組合：a. 鷹粟粉－澄粉；b. 粉皮－綠豆；c. 碗粿－蓬萊米粉；d. 油條－高筋麵粉；e. 甜八寶粥－圓糯米？ be abe bde bcde。 其他：待人工審核 待人工審核",
+    "sequence": 206
+  }
+}

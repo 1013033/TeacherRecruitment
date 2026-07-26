@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q020-3486d3be19",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 20 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-6185",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "製作16.6公斤麵包麵糰時需使用10公斤麵粉，其中6.5公斤用於中種麵糰中，請問中種全麵糰所用麵粉比例為",
+    "options": [
+      {
+        "id": "A",
+        "text": "60/80"
+      },
+      {
+        "id": "B",
+        "text": "65/35"
+      },
+      {
+        "id": "C",
+        "text": "70/30"
+      },
+      {
+        "id": "D",
+        "text": "50/50。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "製作16.6公斤麵包麵糰時需使用10公斤麵粉，其中6.5公斤用於中種麵糰中，請問中種全麵糰所用麵粉比例為 60/80 65/35 70/30 50/50。 其他：待人工審核 待人工審核",
+    "sequence": 1562
+  }
+}

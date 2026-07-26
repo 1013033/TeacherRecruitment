@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q008-071593f1fe",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 8 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-5516",
+    "paperTitle": "一、單選題（80%）",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "旅館為了保護及延長床墊的使用壽命，必須每隔多久將床 making a bed？（註：應指翻床轉向）",
+    "options": [
+      {
+        "id": "A",
+        "text": "每月"
+      },
+      {
+        "id": "B",
+        "text": "每季"
+      },
+      {
+        "id": "C",
+        "text": "每半年"
+      },
+      {
+        "id": "D",
+        "text": "每年。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館為了保護及延長床墊的使用壽命，必須每隔多久將床 making a bed？（註：應指翻床轉向） 每月 每季 每半年 每年。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2826
+  }
+}

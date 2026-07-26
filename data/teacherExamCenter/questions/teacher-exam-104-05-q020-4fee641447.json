@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q020-4fee641447",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 20 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-2731",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 20,
+    "questionType": "multiple-choice",
+    "prompt": "下列哪種葡萄是屬於白葡萄品種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shiraz"
+      },
+      {
+        "id": "B",
+        "text": "Zinfandel"
+      },
+      {
+        "id": "C",
+        "text": "Muscat"
+      },
+      {
+        "id": "D",
+        "text": "Sauvignon Blanc。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪種葡萄是屬於白葡萄品種？ Shiraz Zinfandel Muscat Sauvignon Blanc。 其他：待人工審核 待人工審核",
+    "sequence": 597
+  }
+}

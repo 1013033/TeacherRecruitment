@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q022-2a59052c5c",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 22 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-27730",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "「魚香茄子」菜名的意義，何者正確？a.說明本菜使用的材料是茄子 b.魚香代表其原料之一 c.魚香代表烹調方式 d.可看了解產地",
+    "options": [
+      {
+        "id": "A",
+        "text": "a, b"
+      },
+      {
+        "id": "B",
+        "text": "a, c"
+      },
+      {
+        "id": "C",
+        "text": "a, d"
+      },
+      {
+        "id": "D",
+        "text": "b, d"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「魚香茄子」菜名的意義，何者正確？a.說明本菜使用的材料是茄子 b.魚香代表其原料之一 c.魚香代表烹調方式 d.可看了解產地 a, b a, c a, d b, d 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1867
+  }
+}

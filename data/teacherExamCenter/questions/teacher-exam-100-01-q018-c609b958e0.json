@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q018-c609b958e0",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 18 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-2516",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列何者非釀造香檳酒所規定使用之法定葡萄品種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pinot Noir"
+      },
+      {
+        "id": "B",
+        "text": "Pinot Meunier"
+      },
+      {
+        "id": "C",
+        "text": "Semillon"
+      },
+      {
+        "id": "D",
+        "text": "Chardonnay。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳、pinot、chardonnay"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者非釀造香檳酒所規定使用之法定葡萄品種？ Pinot Noir Pinot Meunier Semillon Chardonnay。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 18
+  }
+}

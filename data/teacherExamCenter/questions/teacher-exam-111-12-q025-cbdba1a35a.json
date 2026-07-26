@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q025-cbdba1a35a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 25 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-3927",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "下列哪一道菜餚上桌同時或菜餚上桌前不需要擺上糖盅？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Banana"
+      },
+      {
+        "id": "B",
+        "text": "Florida Cocktail"
+      },
+      {
+        "id": "C",
+        "text": "Melon"
+      },
+      {
+        "id": "D",
+        "text": "Fruit Salad"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一道菜餚上桌同時或菜餚上桌前不需要擺上糖盅？ Banana Florida Cocktail Melon Fruit Salad 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1712
+  }
+}

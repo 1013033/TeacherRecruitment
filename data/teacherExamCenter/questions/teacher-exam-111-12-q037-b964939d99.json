@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q037-b964939d99",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 37 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-23231",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 37,
+    "questionType": "multiple-choice",
+    "prompt": "依據「食品良好衛生規範準則」，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "倉儲作業應遵行先進後出之原則... (應為先進先出)"
+      },
+      {
+        "id": "B",
+        "text": "低溫食品之理貨及裝卸，應於攝氏十五度以下場所迅速進行"
+      },
+      {
+        "id": "C",
+        "text": "販賣場所之光線應達到二百米燭光以上，使用之光源，不得改變食品之顏色"
+      },
+      {
+        "id": "D",
+        "text": "食品之熱藏，溫度應保持在攝氏七十度以上... (應為 60℃ 以上)"
+      },
+      {
+        "id": "E",
+        "text": "...應貯放於攝氏零度以下之冷藏櫃內... (應為 7℃ 以下冷藏或冷凍)"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據「食品良好衛生規範準則」，下列敘述何者正確？ 倉儲作業應遵行先進後出之原則... (應為先進先出) 低溫食品之理貨及裝卸，應於攝氏十五度以下場所迅速進行 販賣場所之光線應達到二百米燭光以上，使用之光源，不得改變食品之顏色 食品之熱藏，溫度應保持在攝氏七十度以上... (應為 60℃ 以上) ...應貯放於攝氏零度以下之冷藏櫃內... (應為 7℃ 以下冷藏或冷凍) 其他：待人工審核 待人工審核",
+    "sequence": 1832
+  }
+}

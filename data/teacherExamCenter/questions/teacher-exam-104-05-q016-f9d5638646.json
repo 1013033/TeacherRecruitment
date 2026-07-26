@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q016-f9d5638646",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 16 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-19697",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "郭董想要使用飯店 valet parking 的服務，可透過下列哪一個部門或單位協助？",
+    "options": [
+      {
+        "id": "A",
+        "text": "accounting"
+      },
+      {
+        "id": "B",
+        "text": "concierge"
+      },
+      {
+        "id": "C",
+        "text": "room service"
+      },
+      {
+        "id": "D",
+        "text": "uniform and linen room."
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "郭董想要使用飯店 valet parking 的服務，可透過下列哪一個部門或單位協助？ accounting concierge room service uniform and linen room. 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 749
+  }
+}

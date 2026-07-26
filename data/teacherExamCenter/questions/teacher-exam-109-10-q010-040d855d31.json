@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q010-040d855d31",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 10 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-1332",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "「推車鋪設檯布、擺放桌花、鹽、胡椒瓶等，推至指定地點，可將兩側摺疊桌面展開成一個圓形餐桌」以上說明是何種服務推車？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flambe Trolley"
+      },
+      {
+        "id": "B",
+        "text": "Room service"
+      },
+      {
+        "id": "C",
+        "text": "Beef wagon"
+      },
+      {
+        "id": "D",
+        "text": "Gueridon。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：beef、lamb"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "「推車鋪設檯布、擺放桌花、鹽、胡椒瓶等，推至指定地點，可將兩側摺疊桌面展開成一個圓形餐桌」以上說明是何種服務推車？ Flambe Trolley Room service Beef wagon Gueridon。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1524
+  }
+}

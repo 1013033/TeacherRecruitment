@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q065-cbcd6f666d",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 65 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-12372",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 65,
+    "questionType": "single-choice",
+    "prompt": "各類葡萄酒的適飲溫度由高至低分別是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "紅酒 > 甜白酒 > 氣泡酒 > 薄酒萊新酒"
+      },
+      {
+        "id": "B",
+        "text": "紅酒 > 薄酒萊新酒 > 氣泡酒 > 甜白酒"
+      },
+      {
+        "id": "C",
+        "text": "薄酒萊新酒 > 紅酒 > 甜白酒 > 氣泡酒"
+      },
+      {
+        "id": "D",
+        "text": "氣泡酒 > 薄酒萊新酒 > 甜白酒 > 紅酒。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒、白酒、薄酒萊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "各類葡萄酒的適飲溫度由高至低分別是： 紅酒 > 甜白酒 > 氣泡酒 > 薄酒萊新酒 紅酒 > 薄酒萊新酒 > 氣泡酒 > 甜白酒 薄酒萊新酒 > 紅酒 > 甜白酒 > 氣泡酒 氣泡酒 > 薄酒萊新酒 > 甜白酒 > 紅酒。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 670
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q013-416aa19fcf",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 13 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-1897",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "在西餐餐桌擺設中，下列哪些餐具擺放在展示盤（show plate）的左側？甲. 魚叉；乙. 牛排刀；丙. 蠔叉；丁. 湯匙。",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "甲、丁"
+      },
+      {
+        "id": "D",
+        "text": "乙、丙、丁。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "在西餐餐桌擺設中，下列哪些餐具擺放在展示盤（show plate）的左側？甲. 魚叉；乙. 牛排刀；丙. 蠔叉；丁. 湯匙。 甲 甲、丙 甲、丁 乙、丙、丁。 其他：待人工審核 待人工審核",
+    "sequence": 515
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q004-8060f89301",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 4 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-777",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列哪些人員屬於「Housekeeping Department」之組織編制？ 甲、Sewer 乙、Porter 丙、Linen Staff 丁、Room Maid 戊、Florist 己、Room Clerk Agent",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、丙、丁、戊"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙、丁、己"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、丁、戊、己"
+      },
+      {
+        "id": "D",
+        "text": "甲、丙、丁、戊。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪些人員屬於「Housekeeping Department」之組織編制？ 甲、Sewer 乙、Porter 丙、Linen Staff 丁、Room Maid 戊、Florist 己、Room Clerk Agent 甲、乙、丙、丁、戊 甲、丙、丁、己 乙、丙、丁、戊、己 甲、丙、丁、戊。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 405
+  }
+}

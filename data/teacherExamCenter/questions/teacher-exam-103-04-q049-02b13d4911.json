@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q049-02b13d4911",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 49 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-7974",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "下列何種廚房格局是將烹飪設備集中於廚房中央，可有利於瓦斯、電力、通風設備等管線的安裝整合？",
+    "options": [
+      {
+        "id": "A",
+        "text": "直線式排列"
+      },
+      {
+        "id": "B",
+        "text": "L型排列"
+      },
+      {
+        "id": "C",
+        "text": "面對面平行排列"
+      },
+      {
+        "id": "D",
+        "text": "背對背平行排列。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何種廚房格局是將烹飪設備集中於廚房中央，可有利於瓦斯、電力、通風設備等管線的安裝整合？ 直線式排列 L型排列 面對面平行排列 背對背平行排列。 其他：待人工審核 待人工審核",
+    "sequence": 576
+  }
+}

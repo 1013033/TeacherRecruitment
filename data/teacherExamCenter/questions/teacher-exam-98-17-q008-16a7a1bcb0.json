@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q008-16a7a1bcb0",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 8 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-1247",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "以下何者不屬於會議觀光 MICE 之旅客？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meeting"
+      },
+      {
+        "id": "B",
+        "text": "Incentive"
+      },
+      {
+        "id": "C",
+        "text": "Conversation"
+      },
+      {
+        "id": "D",
+        "text": "Exhibition"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、mice"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下何者不屬於會議觀光 MICE 之旅客？ Meeting Incentive Conversation Exhibition 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2666
+  }
+}

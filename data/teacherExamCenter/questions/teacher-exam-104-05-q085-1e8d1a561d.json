@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q085-1e8d1a561d",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 85 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-14146",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 85,
+    "questionType": "single-choice",
+    "prompt": "製作橡木桶的橡木，並不使用下列哪個國家或地區的橡木？",
+    "options": [
+      {
+        "id": "A",
+        "text": "德國"
+      },
+      {
+        "id": "B",
+        "text": "美洲地區"
+      },
+      {
+        "id": "C",
+        "text": "斯洛維尼亞"
+      },
+      {
+        "id": "D",
+        "text": "法國。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "製作橡木桶的橡木，並不使用下列哪個國家或地區的橡木？ 德國 美洲地區 斯洛維尼亞 法國。 其他：待人工審核 待人工審核",
+    "sequence": 690
+  }
+}

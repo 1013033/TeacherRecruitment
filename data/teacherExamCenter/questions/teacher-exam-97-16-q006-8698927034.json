@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q006-8698927034",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 6 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-4317",
+    "paperTitle": "一、單選題（50 題每題 2 分共 100 分）",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "航空公司要求旅客在旅途中須做何種承諾，以確保機位？",
+    "options": [
+      {
+        "id": "A",
+        "text": "重訂位手續"
+      },
+      {
+        "id": "B",
+        "text": "再確認手續"
+      },
+      {
+        "id": "C",
+        "text": "無須確認手續"
+      },
+      {
+        "id": "D",
+        "text": "以上皆是。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "航空公司要求旅客在旅途中須做何種承諾，以確保機位？ 重訂位手續 再確認手續 無須確認手續 以上皆是。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2326
+  }
+}

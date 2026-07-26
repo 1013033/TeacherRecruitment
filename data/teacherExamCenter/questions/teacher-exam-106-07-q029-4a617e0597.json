@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q029-4a617e0597",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 29 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-5844",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "開啟紅、白葡萄酒瓶塞的順序，試予以排列之。甲、從切口往瓶口方向將封籤剝除 乙、將支撐桿卡住瓶口後拉提 丙、打開開瓶器小刀，沿瓶唇上方劃刀 丁、將螺旋鑽扶正垂直，轉入軟木塞內 戊、打開螺旋鑽和支撐桿，將螺旋鑽插入軟木塞 己、放開支撐桿，左右扭轉軟木塞至拔出",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲 → 丙 → 乙 → 丁 → 戊 → 己"
+      },
+      {
+        "id": "B",
+        "text": "丙 → 甲 → 戊 → 丁 → 乙 → 己"
+      },
+      {
+        "id": "C",
+        "text": "丁 → 戊 → 乙 → 甲 → 丙 → 己"
+      },
+      {
+        "id": "D",
+        "text": "戊 → 己 → 乙 → 丁 → 丙 → 甲。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "開啟紅、白葡萄酒瓶塞的順序，試予以排列之。甲、從切口往瓶口方向將封籤剝除 乙、將支撐桿卡住瓶口後拉提 丙、打開開瓶器小刀，沿瓶唇上方劃刀 丁、將螺旋鑽扶正垂直，轉入軟木塞內 戊、打開螺旋鑽和支撐桿，將螺旋鑽插入軟木塞 己、放開支撐桿，左右扭轉軟木塞至拔出 甲 → 丙 → 乙 → 丁 → 戊 → 己 丙 → 甲 → 戊 → 丁 → 乙 → 己 丁 → 戊 → 乙 → 甲 → 丙 → 己 戊 → 己 → 乙 → 丁 → 丙 → 甲。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1106
+  }
+}

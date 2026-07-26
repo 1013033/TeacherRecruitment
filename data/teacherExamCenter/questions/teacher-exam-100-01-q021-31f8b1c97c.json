@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q021-31f8b1c97c",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 21 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-14713",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "中餐筵席席開一圓桌，當「無主賓，主人成對」時，男主人應坐於那一個席位？",
+    "options": [
+      {
+        "id": "A",
+        "text": "A 席"
+      },
+      {
+        "id": "B",
+        "text": "B 席"
+      },
+      {
+        "id": "C",
+        "text": "H 席"
+      },
+      {
+        "id": "D",
+        "text": "G 席。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "中餐筵席席開一圓桌，當「無主賓，主人成對」時，男主人應坐於那一個席位？ A 席 B 席 H 席 G 席。 其他：待人工審核 待人工審核",
+    "sequence": 118
+  }
+}

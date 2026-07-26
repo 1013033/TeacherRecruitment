@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q068-c6b0629257",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 68 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-14434",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 68,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種酒（類）較適合於餐後飲用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Champagne Brut"
+      },
+      {
+        "id": "B",
+        "text": "Campari"
+      },
+      {
+        "id": "C",
+        "text": "Dry Vermouth"
+      },
+      {
+        "id": "D",
+        "text": "Grand Marnier"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一種酒（類）較適合於餐後飲用？ Champagne Brut Campari Dry Vermouth Grand Marnier 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2438
+  }
+}

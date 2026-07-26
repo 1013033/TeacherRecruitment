@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q009-9f41112958",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 9 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-12747",
+    "paperTitle": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
+    "questionNumber": 9,
+    "questionType": "multiple-choice",
+    "prompt": "有關雞尾酒與其調製時所需使用器具的搭配，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "天蠍座(scorpion): blender"
+      },
+      {
+        "id": "B",
+        "text": "藍鳥(blue bird): shaker"
+      },
+      {
+        "id": "C",
+        "text": "威士忌酸酒(whisky sour): mixing glass"
+      },
+      {
+        "id": "D",
+        "text": "天使之吻(angel's kiss): mixing glass。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌、whisky"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關雞尾酒與其調製時所需使用器具的搭配，下列何者正確？ 天蠍座(scorpion): blender 藍鳥(blue bird): shaker 威士忌酸酒(whisky sour): mixing glass 天使之吻(angel's kiss): mixing glass。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1037
+  }
+}

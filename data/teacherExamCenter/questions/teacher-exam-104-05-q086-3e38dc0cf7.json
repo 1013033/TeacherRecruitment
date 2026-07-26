@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q086-3e38dc0cf7",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 86 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-14215",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 86,
+    "questionType": "single-choice",
+    "prompt": "下列法國香檳酒甜度最高者為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doux"
+      },
+      {
+        "id": "B",
+        "text": "Brut"
+      },
+      {
+        "id": "C",
+        "text": "Demi-Sec"
+      },
+      {
+        "id": "D",
+        "text": "Sec."
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列法國香檳酒甜度最高者為何？ Doux Brut Demi-Sec Sec. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 691
+  }
+}

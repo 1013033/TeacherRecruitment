@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q091-e8e85f0404",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 91 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-14628",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 91,
+    "questionType": "single-choice",
+    "prompt": "酒單中 Whisky 應以哪個產地佔多數，以迎合市場需求？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bourbon"
+      },
+      {
+        "id": "B",
+        "text": "Canadian"
+      },
+      {
+        "id": "C",
+        "text": "Japanese"
+      },
+      {
+        "id": "D",
+        "text": "Scotch."
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：whisky"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "酒單中 Whisky 應以哪個產地佔多數，以迎合市場需求？ Bourbon Canadian Japanese Scotch. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 696
+  }
+}

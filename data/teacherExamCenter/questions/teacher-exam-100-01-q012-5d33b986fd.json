@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q012-5d33b986fd",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 12 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-18778",
+    "paperTitle": "一、選擇題（1 題 1 分，共 20 分）",
+    "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "『華航精緻旅遊---香港迪士尼三天二夜，含機票及住宿』請問以上之行程，應是屬於何種旅遊產品？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Backpack Travel"
+      },
+      {
+        "id": "B",
+        "text": "Business Travel"
+      },
+      {
+        "id": "C",
+        "text": "Special Interest Tour"
+      },
+      {
+        "id": "D",
+        "text": "By Pass Product。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票、旅遊、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "『華航精緻旅遊---香港迪士尼三天二夜，含機票及住宿』請問以上之行程，應是屬於何種旅遊產品？ Backpack Travel Business Travel Special Interest Tour By Pass Product。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 152
+  }
+}

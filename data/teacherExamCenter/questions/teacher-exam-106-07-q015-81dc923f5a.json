@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q015-81dc923f5a",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 15 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-28400",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "顧客於高餐大附中實習餐廳享用菜餚，包括 Goose Liver、Escargot in Shell、Minestrone、Seabass Fillet à la Mornay、Soufflé glacé au Grand-Marnier，請問所需準備餐具為何？ 甲、Salad Fork 乙、Fish Knife 丙、Oyster Fork 丁、Butter Knife 戊、Dessert Spoon 己、Snail Tongs 庚、Table Spoon 辛、Soup Spoon",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙丁戊庚"
+      },
+      {
+        "id": "B",
+        "text": "甲乙丙丁戊辛"
+      },
+      {
+        "id": "C",
+        "text": "甲乙丁戊己辛"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丁戊己庚。"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：salad、escargot"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "顧客於高餐大附中實習餐廳享用菜餚，包括 Goose Liver、Escargot in Shell、Minestrone、Seabass Fillet à la Mornay、Soufflé glacé au Grand-Marnier，請問所需準備餐具為何？ 甲、Salad Fork 乙、Fish Knife 丙、Oyster Fork 丁、Butter Knife 戊、Dessert Spoon 己、Snail Tongs 庚、Table Spoon 辛、Soup Spoon 甲乙丙丁戊庚 甲乙丙丁戊辛 甲乙丁戊己辛 甲乙丁戊己庚。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1294
+  }
+}

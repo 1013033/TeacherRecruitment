@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q002-c3c7c738a5",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 2 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-370",
+    "paperTitle": "一、單選題(每題2分,共40分)",
+    "schoolName": "未標示學校",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "因為倫敦的房價高,所以曉萱和凱莉想要選擇便宜的住宿,以下哪一種住宿可能最不符合他們的需求？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Luxury hotel"
+      },
+      {
+        "id": "B",
+        "text": "Guest house"
+      },
+      {
+        "id": "C",
+        "text": "B&B"
+      },
+      {
+        "id": "D",
+        "text": "Pension"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "因為倫敦的房價高,所以曉萱和凱莉想要選擇便宜的住宿,以下哪一種住宿可能最不符合他們的需求？ Luxury hotel Guest house B&B Pension 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1362
+  }
+}

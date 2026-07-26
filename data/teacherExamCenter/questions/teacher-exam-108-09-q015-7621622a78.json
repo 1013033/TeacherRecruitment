@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q015-7621622a78",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 15 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-6061",
+    "paperTitle": "二、選擇題(每題1分,共40分)",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "在法國白蘭地的標示中 Fine Champagne,意指所使用的葡萄產區的葡萄不得低於50%的是哪一區？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Grande Champagne"
+      },
+      {
+        "id": "B",
+        "text": "Petite Champagne"
+      },
+      {
+        "id": "C",
+        "text": "Borderies"
+      },
+      {
+        "id": "D",
+        "text": "Fins Bois。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白蘭地、champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "在法國白蘭地的標示中 Fine Champagne,意指所使用的葡萄產區的葡萄不得低於50%的是哪一區？ Grande Champagne Petite Champagne Borderies Fins Bois。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1444
+  }
+}

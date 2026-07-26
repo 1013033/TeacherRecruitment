@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q024-2ec1824a63",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 24 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-6122",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "下列哪種雞尾酒以Vodka為基酒？甲、Black Russian乙、Mai Tai丙、Screw Driver丁、Bloody Mary戊、Daiquiri",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲丙"
+      },
+      {
+        "id": "B",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲丙丁戊"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、black russian"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪種雞尾酒以Vodka為基酒？甲、Black Russian乙、Mai Tai丙、Screw Driver丁、Bloody Mary戊、Daiquiri 甲丙 甲乙丙 甲丙丁 甲丙丁戊 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2074
+  }
+}

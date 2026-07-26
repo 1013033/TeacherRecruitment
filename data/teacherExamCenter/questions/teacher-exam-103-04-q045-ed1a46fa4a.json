@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q045-ed1a46fa4a",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 45 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-7672",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 Gallon = 3785cc"
+      },
+      {
+        "id": "B",
+        "text": "1 Jigger = 45cc"
+      },
+      {
+        "id": "C",
+        "text": "1 Tea Spoon = 5cc"
+      },
+      {
+        "id": "D",
+        "text": "1 Cup = 454g。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者為非？ 1 Gallon = 3785cc 1 Jigger = 45cc 1 Tea Spoon = 5cc 1 Cup = 454g。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 572
+  }
+}

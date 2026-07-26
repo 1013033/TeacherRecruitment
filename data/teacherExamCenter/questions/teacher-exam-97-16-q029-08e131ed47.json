@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q029-08e131ed47",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 29 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-6169",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "下列哪些人員屬於餐飲部之組織編制？甲、Maitre d'Hôte；乙、Hostess；丙、Bell Boy；丁、Housekeeper",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、maitre"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪些人員屬於餐飲部之組織編制？甲、Maitre d'Hôte；乙、Hostess；丙、Bell Boy；丁、Housekeeper 甲、乙 乙、丙 乙、丁 丙、丁。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2349
+  }
+}

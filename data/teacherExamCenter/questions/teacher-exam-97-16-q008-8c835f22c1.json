@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q008-8c835f22c1",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 8 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-17850",
+    "paperTitle": "一、選擇題",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "我國綜合旅行社設立規定，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "資本額不得少於 2000 萬元"
+      },
+      {
+        "id": "B",
+        "text": "增設分公司需增資 150 萬元"
+      },
+      {
+        "id": "C",
+        "text": "保證金不得少於 1000 萬元"
+      },
+      {
+        "id": "D",
+        "text": "須有旅行業經理人至少 4 人以上"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國綜合旅行社設立規定，下列何者有誤？ 資本額不得少於 2000 萬元 增設分公司需增資 150 萬元 保證金不得少於 1000 萬元 須有旅行業經理人至少 4 人以上 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2466
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q007-3b0c126c41",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 7 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-9679",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "現場烹調（Flambé）火燄薄餅（Crêpes Suzette）時，其服務流程：a.以小火讓砂糖溶解呈焦糖顏色，b.將酒加熱，順著香吉士螺旋皮將之淋下，c.放入香吉士皮絲及果肉，d.放入薄餅皮，e.放入柳橙汁及檸檬汁 依烹調順序應為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "abcde"
+      },
+      {
+        "id": "B",
+        "text": "abdec"
+      },
+      {
+        "id": "C",
+        "text": "aedcb"
+      },
+      {
+        "id": "D",
+        "text": "bcdae。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、lamb"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "現場烹調（Flambé）火燄薄餅（Crêpes Suzette）時，其服務流程：a.以小火讓砂糖溶解呈焦糖顏色，b.將酒加熱，順著香吉士螺旋皮將之淋下，c.放入香吉士皮絲及果肉，d.放入薄餅皮，e.放入柳橙汁及檸檬汁 依烹調順序應為？ abcde abdec aedcb bcdae。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 73
+  }
+}

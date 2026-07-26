@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q001-7d551d870a",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 1 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-5797",
+    "paperTitle": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種旅行業不需要安排領隊人員？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綜合旅行業"
+      },
+      {
+        "id": "B",
+        "text": "甲種旅行業"
+      },
+      {
+        "id": "C",
+        "text": "乙種旅行業"
+      },
+      {
+        "id": "D",
+        "text": "以上皆可。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪一種旅行業不需要安排領隊人員？ 綜合旅行業 甲種旅行業 乙種旅行業 以上皆可。 其他：待人工審核 待人工審核",
+    "sequence": 2218
+  }
+}

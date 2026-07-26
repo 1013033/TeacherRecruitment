@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q012-93b0117620",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 12 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-8092",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "Let's café 旗艦店，是以咖啡館為主，以超商為輔的複合式咖啡館，請問是由哪一家超商所發起？",
+    "options": [
+      {
+        "id": "A",
+        "text": "全家"
+      },
+      {
+        "id": "B",
+        "text": "7-11"
+      },
+      {
+        "id": "C",
+        "text": "萊爾富"
+      },
+      {
+        "id": "D",
+        "text": "全聯。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Let's café 旗艦店，是以咖啡館為主，以超商為輔的複合式咖啡館，請問是由哪一家超商所發起？ 全家 7-11 萊爾富 全聯。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1584
+  }
+}

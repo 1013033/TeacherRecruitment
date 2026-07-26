@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q017-7c648d0dfc",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 17 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-17310",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列何者依序為中華航空 / 菲律賓航空 / 中國東方航空的航空代碼？",
+    "options": [
+      {
+        "id": "A",
+        "text": "CX / BR / CZ"
+      },
+      {
+        "id": "B",
+        "text": "CI / 9P / MU"
+      },
+      {
+        "id": "C",
+        "text": "CX / PR / CZ"
+      },
+      {
+        "id": "D",
+        "text": "CI / PR / MU."
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者依序為中華航空 / 菲律賓航空 / 中國東方航空的航空代碼？ CX / BR / CZ CI / 9P / MU CX / PR / CZ CI / PR / MU. 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 722
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q010-e7e0af6c54",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 10 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-14604",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "美國麥當勞所創立的提供標準化飲食與快速服務的 Q. S. C. V. 下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Q - Quick"
+      },
+      {
+        "id": "B",
+        "text": "S - Service"
+      },
+      {
+        "id": "C",
+        "text": "C - Cleanliness"
+      },
+      {
+        "id": "D",
+        "text": "V - Value。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "美國麥當勞所創立的提供標準化飲食與快速服務的 Q. S. C. V. 下列何者錯誤？ Q - Quick S - Service C - Cleanliness V - Value。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 492
+  }
+}

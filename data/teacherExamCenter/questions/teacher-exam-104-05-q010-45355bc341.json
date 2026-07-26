@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q010-45355bc341",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 10 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-23889",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "美式和法式餐桌佈設分別是以下列何者來定位餐具的擺設？",
+    "options": [
+      {
+        "id": "A",
+        "text": "前者是展示盤，後者是口布"
+      },
+      {
+        "id": "B",
+        "text": "前者是口布，後者是展示盤"
+      },
+      {
+        "id": "C",
+        "text": "前者是麵包盤，後者是花瓶"
+      },
+      {
+        "id": "D",
+        "text": "前者是花瓶，後者是麵包盤。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "美式和法式餐桌佈設分別是以下列何者來定位餐具的擺設？ 前者是展示盤，後者是口布 前者是口布，後者是展示盤 前者是麵包盤，後者是花瓶 前者是花瓶，後者是麵包盤。 其他：待人工審核 待人工審核",
+    "sequence": 782
+  }
+}

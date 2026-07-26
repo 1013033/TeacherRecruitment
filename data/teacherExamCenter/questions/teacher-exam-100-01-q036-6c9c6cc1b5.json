@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q036-6c9c6cc1b5",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 36 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-8269",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "所謂「時差失調」，英文用語稱為甚麼？",
+    "options": [
+      {
+        "id": "A",
+        "text": "jet lag"
+      },
+      {
+        "id": "B",
+        "text": "flight lost"
+      },
+      {
+        "id": "C",
+        "text": "time difference"
+      },
+      {
+        "id": "D",
+        "text": "time gap。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：時差、jet lag、flight"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "所謂「時差失調」，英文用語稱為甚麼？ jet lag flight lost time difference time gap。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 61
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q039-27e627d8bc",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 39 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8538",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "有關德國葡萄酒的敘述,下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "以出產白酒為主"
+      },
+      {
+        "id": "B",
+        "text": "會在酒標上標示葡萄的品種名,而且該葡萄品種的使用比率最少含85%以上"
+      },
+      {
+        "id": "C",
+        "text": "其葡萄酒的酒精濃度一般比法國的酒精濃度較高"
+      },
+      {
+        "id": "D",
+        "text": "德國的葡萄園大都集中在萊茵河附近。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、白酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關德國葡萄酒的敘述,下列何者錯誤？ 以出產白酒為主 會在酒標上標示葡萄的品種名,而且該葡萄品種的使用比率最少含85%以上 其葡萄酒的酒精濃度一般比法國的酒精濃度較高 德國的葡萄園大都集中在萊茵河附近。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1468
+  }
+}

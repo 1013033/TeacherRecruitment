@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q010-2b5993909f",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 10 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-4186",
+    "paperTitle": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "\"grate some cheese\" 是將起司做何處理。",
+    "options": [
+      {
+        "id": "A",
+        "text": "焗烤"
+      },
+      {
+        "id": "B",
+        "text": "磨粉"
+      },
+      {
+        "id": "C",
+        "text": "加入香料"
+      },
+      {
+        "id": "D",
+        "text": "切成丁狀。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "\"grate some cheese\" 是將起司做何處理。 焗烤 磨粉 加入香料 切成丁狀。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 537
+  }
+}

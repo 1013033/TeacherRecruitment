@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q013-2a3d0d03c7",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 13 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-1325",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是凱撒沙拉會使用到的材料？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anchovy"
+      },
+      {
+        "id": "B",
+        "text": "Chopped Bacon"
+      },
+      {
+        "id": "C",
+        "text": "Crepes"
+      },
+      {
+        "id": "D",
+        "text": "Croutons。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：沙拉、anchovy、crepes"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是凱撒沙拉會使用到的材料？ Anchovy Chopped Bacon Crepes Croutons。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2281
+  }
+}

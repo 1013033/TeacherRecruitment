@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q038-cf70f213c2",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 38 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-11785",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "某膳食供應機構的固定成本為 25 萬，而變動成本佔售價的 75%，請問其營業額應達多少才會有 20 萬元的利潤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "60 萬元"
+      },
+      {
+        "id": "B",
+        "text": "120 萬元"
+      },
+      {
+        "id": "C",
+        "text": "180 萬元"
+      },
+      {
+        "id": "D",
+        "text": "240 萬元"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "某膳食供應機構的固定成本為 25 萬，而變動成本佔售價的 75%，請問其營業額應達多少才會有 20 萬元的利潤？ 60 萬元 120 萬元 180 萬元 240 萬元 其他：待人工審核 待人工審核",
+    "sequence": 2408
+  }
+}

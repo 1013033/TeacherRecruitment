@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q001-ee43e27eba",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 1 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-4477",
+    "paperTitle": "餐飲管理科 筆試試題",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "餐飲組織架構中，下列何者不屬於maître d'hôtel（含）以上的職級？",
+    "options": [
+      {
+        "id": "A",
+        "text": "manager"
+      },
+      {
+        "id": "B",
+        "text": "captain"
+      },
+      {
+        "id": "C",
+        "text": "apprentice"
+      },
+      {
+        "id": "D",
+        "text": "assistant manager."
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲組織架構中，下列何者不屬於maître d'hôtel（含）以上的職級？ manager captain apprentice assistant manager. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 606
+  }
+}

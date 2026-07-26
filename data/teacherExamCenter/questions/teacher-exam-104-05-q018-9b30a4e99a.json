@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q018-9b30a4e99a",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 18 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-24936",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "在旅館中，執行客房樓層清潔的基層員工是",
+    "options": [
+      {
+        "id": "A",
+        "text": "公清員 (Public Area Cleaner)"
+      },
+      {
+        "id": "B",
+        "text": "房務員 (Housekeeper)"
+      },
+      {
+        "id": "C",
+        "text": "樓層領班 (Floor Captain)"
+      },
+      {
+        "id": "D",
+        "text": "布巾管理員 (Linen Staff)。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、房務、housekeeper"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在旅館中，執行客房樓層清潔的基層員工是 公清員 (Public Area Cleaner) 房務員 (Housekeeper) 樓層領班 (Floor Captain) 布巾管理員 (Linen Staff)。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 790
+  }
+}

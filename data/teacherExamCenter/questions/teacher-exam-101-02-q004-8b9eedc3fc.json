@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q004-8b9eedc3fc",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 4 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-13802",
+    "paperTitle": "一、單選題（每題2分，共50分）",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "中國菜因地域不同，而形成各大菜系，下列菜系與所屬菜餚名稱的配對，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "閩菜－京醬肉絲、拔絲芋頭、涮羊肉"
+      },
+      {
+        "id": "B",
+        "text": "浙菜－紅糟肉、燕丸、芋泥"
+      },
+      {
+        "id": "C",
+        "text": "粵菜－京都排骨、滑蛋蝦仁、叉燒肉"
+      },
+      {
+        "id": "D",
+        "text": "川菜－東坡肉、燒划水、龍井蝦仁。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：羊肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中國菜因地域不同，而形成各大菜系，下列菜系與所屬菜餚名稱的配對，何者正確？ 閩菜－京醬肉絲、拔絲芋頭、涮羊肉 浙菜－紅糟肉、燕丸、芋泥 粵菜－京都排骨、滑蛋蝦仁、叉燒肉 川菜－東坡肉、燒划水、龍井蝦仁。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 303
+  }
+}

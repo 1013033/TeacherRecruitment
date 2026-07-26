@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q056-f867e47999",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 56 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-11464",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 56,
+    "questionType": "single-choice",
+    "prompt": "依消費者需求為客人量身訂做的產品，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "可依顧客預算排定天數"
+      },
+      {
+        "id": "B",
+        "text": "又稱為訂製式、剪裁式旅遊"
+      },
+      {
+        "id": "C",
+        "text": "是 Wholesaler 的產品"
+      },
+      {
+        "id": "D",
+        "text": "英文稱為 Tailor Made Tour."
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依消費者需求為客人量身訂做的產品，下列何者有誤？ 可依顧客預算排定天數 又稱為訂製式、剪裁式旅遊 是 Wholesaler 的產品 英文稱為 Tailor Made Tour. 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 661
+  }
+}

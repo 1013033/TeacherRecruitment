@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q001-00f79bfe29",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 1 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-12469",
+    "paperTitle": "第二部分：複選題（每題 2 分，共 10 分，全對才給分）",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 1,
+    "questionType": "multiple-choice",
+    "prompt": "關於中餐的烹調法，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "「羹」指的是料少汁多"
+      },
+      {
+        "id": "B",
+        "text": "「貼」做法與煎相同，但只煎一面"
+      },
+      {
+        "id": "C",
+        "text": "「煸」俗稱小油鍋"
+      },
+      {
+        "id": "D",
+        "text": "「高麗炸」是利用蛋黃製成麵糊，將材料掛糊油炸。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、煎、炸"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中餐的烹調法，下列何者正確？ 「羹」指的是料少汁多 「貼」做法與煎相同，但只煎一面 「煸」俗稱小油鍋 「高麗炸」是利用蛋黃製成麵糊，將材料掛糊油炸。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1149
+  }
+}

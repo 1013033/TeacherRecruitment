@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q084-02d5001c3f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 84 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-14060",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 84,
+    "questionType": "single-choice",
+    "prompt": "在使用三槽式洗滌設備時，第一槽清洗應使用攝氏幾度的水溫？",
+    "options": [
+      {
+        "id": "A",
+        "text": "33~39°C"
+      },
+      {
+        "id": "B",
+        "text": "43~49°C"
+      },
+      {
+        "id": "C",
+        "text": "53~59°C"
+      },
+      {
+        "id": "D",
+        "text": "63~69°C。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "在使用三槽式洗滌設備時，第一槽清洗應使用攝氏幾度的水溫？ 33~39°C 43~49°C 53~59°C 63~69°C。 其他：待人工審核 待人工審核",
+    "sequence": 689
+  }
+}

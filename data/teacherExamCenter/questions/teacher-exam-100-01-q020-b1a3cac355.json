@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q020-b1a3cac355",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 20 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-2715",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "客人單點煙燻鮭魚時，通常會附上的配料有那些？甲、Tomato 乙、Lemon 丙、Onion 丁、Caper 戊、Anchovy",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "C",
+        "text": "丙丁戊"
+      },
+      {
+        "id": "D",
+        "text": "甲丙戊。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：anchovy"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "客人單點煙燻鮭魚時，通常會附上的配料有那些？甲、Tomato 乙、Lemon 丙、Onion 丁、Caper 戊、Anchovy 甲乙丙 乙丙丁 丙丁戊 甲丙戊。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 20
+  }
+}

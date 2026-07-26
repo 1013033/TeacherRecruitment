@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q008-1c7afee92a",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 8 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-14376",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "馬德里、米蘭、莫斯科、慕尼黑的城市代號依序為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "MAD、MIL、MOW、MUC"
+      },
+      {
+        "id": "B",
+        "text": "MAD、MLO、MWO、MCU"
+      },
+      {
+        "id": "C",
+        "text": "MUC、MIL、MOW、MAD"
+      },
+      {
+        "id": "D",
+        "text": "MCU、MAD、MLO、MWO。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "馬德里、米蘭、莫斯科、慕尼黑的城市代號依序為？ MAD、MIL、MOW、MUC MAD、MLO、MWO、MCU MUC、MIL、MOW、MAD MCU、MAD、MLO、MWO。 其他：待人工審核 待人工審核",
+    "sequence": 490
+  }
+}

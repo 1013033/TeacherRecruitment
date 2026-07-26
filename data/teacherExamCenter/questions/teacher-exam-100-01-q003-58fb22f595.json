@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q003-58fb22f595",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 3 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-936",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "關於修正美式計價方式（MAP）旅館，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "房租含早餐"
+      },
+      {
+        "id": "B",
+        "text": "房租含早餐、中餐"
+      },
+      {
+        "id": "C",
+        "text": "房租含早餐、晚餐"
+      },
+      {
+        "id": "D",
+        "text": "房租不含早餐、中餐、晚餐。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於修正美式計價方式（MAP）旅館，下列何者正確？ 房租含早餐 房租含早餐、中餐 房租含早餐、晚餐 房租不含早餐、中餐、晚餐。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q023-04aac383c6",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 23 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-3699",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "某海鮮餐廳購買馬頭魚 20 條（每條 8 兩重），購進價格每 100 克 30 元，經前處理與切割後可食部分剩 5 公斤，請問切割耗損率為多少？",
+    "options": [
+      {
+        "id": "A",
+        "text": "26.7%"
+      },
+      {
+        "id": "B",
+        "text": "20.3%"
+      },
+      {
+        "id": "C",
+        "text": "16.7%"
+      },
+      {
+        "id": "D",
+        "text": "25%"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某海鮮餐廳購買馬頭魚 20 條（每條 8 兩重），購進價格每 100 克 30 元，經前處理與切割後可食部分剩 5 公斤，請問切割耗損率為多少？ 26.7% 20.3% 16.7% 25% 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1710
+  }
+}

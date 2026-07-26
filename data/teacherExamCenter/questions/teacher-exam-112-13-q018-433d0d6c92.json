@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q018-433d0d6c92",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 18 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-11149",
+    "paperTitle": "二、選擇題（複選題）每題1分，共4分",
+    "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "questionNumber": 18,
+    "questionType": "multiple-choice",
+    "prompt": "房務人員客房清潔流程，下列何者較不適宜？",
+    "options": [
+      {
+        "id": "C",
+        "text": "浴室清潔 → 收拾環境 → 床鋪整理 → 地毯吸塵。"
+      },
+      {
+        "id": "D",
+        "text": "起居室 → 浴室 → 臥房。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "房務人員客房清潔流程，下列何者較不適宜？ 浴室清潔 → 收拾環境 → 床鋪整理 → 地毯吸塵。 起居室 → 浴室 → 臥房。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1965
+  }
+}

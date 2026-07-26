@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q011-f62cf48521",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 11 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-19467",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "一般喜慶場合常見的香檳塔通常是以下列何種杯子堆疊而成？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Champagne Trumpet"
+      },
+      {
+        "id": "B",
+        "text": "Pilsner Glass"
+      },
+      {
+        "id": "C",
+        "text": "Champagne Saucer"
+      },
+      {
+        "id": "D",
+        "text": "Champagne Flute"
+      },
+      {
+        "id": "E",
+        "text": "Champagne Tulip"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳、champagne、rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "一般喜慶場合常見的香檳塔通常是以下列何種杯子堆疊而成？ Champagne Trumpet Pilsner Glass Champagne Saucer Champagne Flute Champagne Tulip 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1806
+  }
+}

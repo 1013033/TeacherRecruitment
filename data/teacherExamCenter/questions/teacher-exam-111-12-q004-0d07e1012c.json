@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q004-0d07e1012c",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 4 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-25855",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "禁食肉、魚、奶、蛋類，為下列何種顧客餐食偏好？",
+    "options": [
+      {
+        "id": "A",
+        "text": "基督教"
+      },
+      {
+        "id": "B",
+        "text": "素食者"
+      },
+      {
+        "id": "C",
+        "text": "天主教"
+      },
+      {
+        "id": "D",
+        "text": "伊斯蘭教"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "禁食肉、魚、奶、蛋類，為下列何種顧客餐食偏好？ 基督教 素食者 天主教 伊斯蘭教 其他：待人工審核 待人工審核",
+    "sequence": 1849
+  }
+}

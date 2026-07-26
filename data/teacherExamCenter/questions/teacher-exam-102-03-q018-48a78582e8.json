@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q018-48a78582e8",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 18 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-12913",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "使用在沙司中，除了高湯之外，還有幾種當稠化劑的成份，下列何者並非稠化劑：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Egg yolk"
+      },
+      {
+        "id": "B",
+        "text": "Liaison"
+      },
+      {
+        "id": "C",
+        "text": "Roux"
+      },
+      {
+        "id": "D",
+        "text": "Hot Cereals。"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：高湯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "使用在沙司中，除了高湯之外，還有幾種當稠化劑的成份，下列何者並非稠化劑： Egg yolk Liaison Roux Hot Cereals。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 480
+  }
+}

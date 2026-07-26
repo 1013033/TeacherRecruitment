@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q012-1306226468",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 12 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-16026",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "西餐餐桌佈設，單點下列菜餚，請問有幾道是需要附 Finger bowl？ 甲、artichokes 乙、snails in shells 丙、oyster 丁、mussel 戊、asparagus",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐餐桌佈設，單點下列菜餚，請問有幾道是需要附 Finger bowl？ 甲、artichokes 乙、snails in shells 丙、oyster 丁、mussel 戊、asparagus 2 3 4 5 其他：待人工審核 待人工審核",
+    "sequence": 1191
+  }
+}

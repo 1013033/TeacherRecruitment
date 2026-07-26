@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q024-c192754588",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 24 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-35806",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "關於台東海岸景點的敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "烏石鼻位於長濱南方，是著名的磯釣場"
+      },
+      {
+        "id": "B",
+        "text": "三仙台是由離岸小島、奇石和珊瑚礁海岸所構成"
+      },
+      {
+        "id": "C",
+        "text": "金樽以擁有黑色柱狀安山岩海岬最為著名"
+      },
+      {
+        "id": "D",
+        "text": "泰源幽谷以峭壁斷崖峽谷著稱。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於台東海岸景點的敘述何者錯誤？ 烏石鼻位於長濱南方，是著名的磯釣場 三仙台是由離岸小島、奇石和珊瑚礁海岸所構成 金樽以擁有黑色柱狀安山岩海岬最為著名 泰源幽谷以峭壁斷崖峽谷著稱。 其他：待人工審核 待人工審核",
+    "sequence": 920
+  }
+}

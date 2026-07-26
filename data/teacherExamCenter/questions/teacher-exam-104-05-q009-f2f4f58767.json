@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q009-f2f4f58767",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 9 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-22230",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "製作丙級檢定中煎烤火腿乳酪三明治依規定使用的是何種乳酪",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gruyère"
+      },
+      {
+        "id": "B",
+        "text": "Cheddar"
+      },
+      {
+        "id": "C",
+        "text": "Mozzarella"
+      },
+      {
+        "id": "D",
+        "text": "Brie."
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煎、烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "製作丙級檢定中煎烤火腿乳酪三明治依規定使用的是何種乳酪 Gruyère Cheddar Mozzarella Brie. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 768
+  }
+}

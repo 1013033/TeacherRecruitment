@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q023-666d7d69b1",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 23 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-4809",
+    "paperTitle": "二、複選題（每題2分，全對才給分，共8分）",
+    "schoolName": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+    "questionNumber": 23,
+    "questionType": "multiple-choice",
+    "prompt": "菜系是指一定區域內，因物產、氣候、飲食習慣不同，演變出相似的烹調技藝及口味，請選出下列正確的菜系特色？",
+    "options": [
+      {
+        "id": "A",
+        "text": "川菜享“一菜一格，百湯百味”美喻。著名川菜：麻婆豆腐、水煮牛肉、紅煨魚翅、宮保雞丁、魚香肉絲"
+      },
+      {
+        "id": "B",
+        "text": "“上有天堂，下有蘇杭”，浙菜多與西湖有關，當地誕生許多美食家，如：高謙、李漁、袁枚。名菜有：西湖醋魚、龍井蝦仁、生燻大黃魚、宋嫂魚羹"
+      },
+      {
+        "id": "C",
+        "text": "魯菜為八大之首，擅長湯品熬煮，由濟南、膠東、孔府菜組成，著名菜為油爆雙脆、神仙鴨子、一品鍋"
+      },
+      {
+        "id": "D",
+        "text": "粵菜“不問鳥獸蟲蛇、無不食之”，涵蓋廣州菜、廣東菜及東江菜。著名菜有蠔油牛肉、烤乳豬、奶油焗白菜、京都排骨、東江鹽焗雞。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、煮、烤、牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "菜系是指一定區域內，因物產、氣候、飲食習慣不同，演變出相似的烹調技藝及口味，請選出下列正確的菜系特色？ 川菜享“一菜一格，百湯百味”美喻。著名川菜：麻婆豆腐、水煮牛肉、紅煨魚翅、宮保雞丁、魚香肉絲 “上有天堂，下有蘇杭”，浙菜多與西湖有關，當地誕生許多美食家，如：高謙、李漁、袁枚。名菜有：西湖醋魚、龍井蝦仁、生燻大黃魚、宋嫂魚羹 魯菜為八大之首，擅長湯品熬煮，由濟南、膠東、孔府菜組成，著名菜為油爆雙脆、神仙鴨子、一品鍋 粵菜“不問鳥獸蟲蛇、無不食之”，涵蓋廣州菜、廣東菜及東江菜。著名菜有蠔油牛肉、烤乳豬、奶油焗白菜、京都排骨、東江鹽焗雞。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 991
+  }
+}

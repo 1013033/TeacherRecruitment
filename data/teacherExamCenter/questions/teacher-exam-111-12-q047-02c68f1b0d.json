@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q047-02c68f1b0d",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 47 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-31957",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "Server: What side dishes would you like with your beef burger? Evan:",
+    "options": [
+      {
+        "id": "A",
+        "text": "I don't like beef burger."
+      },
+      {
+        "id": "B",
+        "text": "I like some French fries to come with my beef burger."
+      },
+      {
+        "id": "C",
+        "text": "The beef burger is undercooked."
+      },
+      {
+        "id": "D",
+        "text": "I'd like it medium-rare."
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：beef"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Server: What side dishes would you like with your beef burger? Evan: I don't like beef burger. I like some French fries to come with my beef burger. The beef burger is undercooked. I'd like it medium-rare. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1893
+  }
+}

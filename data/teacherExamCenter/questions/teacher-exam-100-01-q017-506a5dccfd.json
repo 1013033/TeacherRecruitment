@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q017-506a5dccfd",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 17 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-10805",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "從法國進口葡萄酒，其標籤上若有「Appellation Margaux Contrôlée」的字樣，表示這瓶酒的等級為",
+    "options": [
+      {
+        "id": "A",
+        "text": "優良地區的葡萄酒"
+      },
+      {
+        "id": "B",
+        "text": "地區葡萄酒"
+      },
+      {
+        "id": "C",
+        "text": "法定產區葡萄酒"
+      },
+      {
+        "id": "D",
+        "text": "日常餐酒。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "從法國進口葡萄酒，其標籤上若有「Appellation Margaux Contrôlée」的字樣，表示這瓶酒的等級為 優良地區的葡萄酒 地區葡萄酒 法定產區葡萄酒 日常餐酒。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 83
+  }
+}

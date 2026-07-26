@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q036-2dc4d0ab25",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 36 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-6918",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "奶油（Butter）中含量僅次於油脂的成份為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蛋白質"
+      },
+      {
+        "id": "B",
+        "text": "無機鹽"
+      },
+      {
+        "id": "C",
+        "text": "乳醣"
+      },
+      {
+        "id": "D",
+        "text": "水份。 (3/4)"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "奶油（Butter）中含量僅次於油脂的成份為何？ 蛋白質 無機鹽 乳醣 水份。 (3/4) 其他：待人工審核 待人工審核",
+    "sequence": 563
+  }
+}

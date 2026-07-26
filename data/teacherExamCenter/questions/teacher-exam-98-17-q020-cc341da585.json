@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q020-cc341da585",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 20 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-3281",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "Debbie: Pan American Reservation. Debbie speaking. Louis: I'd reserved my flight to Taiwan two weeks ago. Debbie: Yes, May I have your flight number and date, please? Louis: Flight 305, departing on April 2 from Los Angeles. Debbie: April 2, flight 305. And your name? Louis: Louis Chen. I'll spell out the last name for you. C-H-E-N. Debbie: $\\underline{\\quad(A)\\quad}$",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thank you. Yes, Mr. Chen, your flight is confirmed."
+      },
+      {
+        "id": "B",
+        "text": "It should be ready in about ten minutes."
+      },
+      {
+        "id": "C",
+        "text": "Yes, Mr. Chen. May I have your ticket and passport, please?"
+      },
+      {
+        "id": "D",
+        "text": "Let's see. Yes, here's a size four. Would you like to try it on?"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：passport、ticket、flight"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Debbie: Pan American Reservation. Debbie speaking. Louis: I'd reserved my flight to Taiwan two weeks ago. Debbie: Yes, May I have your flight number and date, please? Louis: Flight 305, departing on April 2 from Los Angeles. Debbie: April 2, flight 305. And your name? Louis: Louis Chen. I'll spell out the last name for you. C-H-E-N. Debbie: $\\underline{\\quad(A)\\quad}$ Thank you. Yes, Mr. Chen, your flight is confirmed. It should be ready in about ten minutes. Yes, Mr. Chen. May I have your ticket and passport, please? Let's see. Yes, here's a size four. Would you like to try it on? 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2678
+  }
+}

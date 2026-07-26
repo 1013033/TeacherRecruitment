@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q005-7679669bdc",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 5 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-11691",
+    "paperTitle": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "遊客人數或使用水準超過某個數量時，就會影響遊客的感受，減低遊客滿意度，這是應用哪一種概念？",
+    "options": [
+      {
+        "id": "A",
+        "text": "生態承載量"
+      },
+      {
+        "id": "B",
+        "text": "實質承載量"
+      },
+      {
+        "id": "C",
+        "text": "社會承載量"
+      },
+      {
+        "id": "D",
+        "text": "經濟承載量。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "遊客人數或使用水準超過某個數量時，就會影響遊客的感受，減低遊客滿意度，這是應用哪一種概念？ 生態承載量 實質承載量 社會承載量 經濟承載量。 其他：待人工審核 待人工審核",
+    "sequence": 2147
+  }
+}

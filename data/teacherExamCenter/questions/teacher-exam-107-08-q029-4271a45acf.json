@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q029-4271a45acf",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 29 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-4231",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "甲、蒸物；乙、刺身；丙、揚物；丁、吸物；上述日式料理上菜的順序應為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丁丙甲"
+      },
+      {
+        "id": "B",
+        "text": "丁乙丙甲"
+      },
+      {
+        "id": "C",
+        "text": "乙丁甲丙"
+      },
+      {
+        "id": "D",
+        "text": "丁乙甲丙。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "甲、蒸物；乙、刺身；丙、揚物；丁、吸物；上述日式料理上菜的順序應為？ 乙丁丙甲 丁乙丙甲 乙丁甲丙 丁乙甲丙。 其他：待人工審核 待人工審核",
+    "sequence": 1340
+  }
+}

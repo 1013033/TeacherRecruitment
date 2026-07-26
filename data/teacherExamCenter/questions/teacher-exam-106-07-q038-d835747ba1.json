@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q038-d835747ba1",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 38 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-7369",
+    "paperTitle": "二、複選題（全對才給分）",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 38,
+    "questionType": "multiple-choice",
+    "prompt": "請問下列哪幾種餐具隸屬於 Stemware 的範疇？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Whisky Glass"
+      },
+      {
+        "id": "B",
+        "text": "Sherry Glass"
+      },
+      {
+        "id": "C",
+        "text": "Snifter"
+      },
+      {
+        "id": "D",
+        "text": "Beer Mug。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：whisky、sherry"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問下列哪幾種餐具隸屬於 Stemware 的範疇？ Whisky Glass Sherry Glass Snifter Beer Mug。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1115
+  }
+}

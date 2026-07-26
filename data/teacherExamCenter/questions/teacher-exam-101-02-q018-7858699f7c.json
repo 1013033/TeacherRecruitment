@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q018-7858699f7c",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 18 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-2480",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "法國法定葡萄酒，從高至低排列，可分為哪四種等級",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vins de Table → V.D.Q.S. → A.O.C. → Vins de Pays"
+      },
+      {
+        "id": "B",
+        "text": "A.O.C. → V.D.Q.S. → Vins de Pays → Vins de Table"
+      },
+      {
+        "id": "C",
+        "text": "V.D.Q.S. → Vins de Pays → A.O.C. → Vins de Table"
+      },
+      {
+        "id": "D",
+        "text": "A.O.C. → Vins de Table → V.D.Q.S. → Vins de Pays。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "法國法定葡萄酒，從高至低排列，可分為哪四種等級 Vins de Table → V.D.Q.S. → A.O.C. → Vins de Pays A.O.C. → V.D.Q.S. → Vins de Pays → Vins de Table V.D.Q.S. → Vins de Pays → A.O.C. → Vins de Table A.O.C. → Vins de Table → V.D.Q.S. → Vins de Pays。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 178
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q037-b9f4d37276",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 37 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-6959",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "豬肉中下列何者肉質最佳？",
+    "options": [
+      {
+        "id": "A",
+        "text": "背脊肉"
+      },
+      {
+        "id": "B",
+        "text": "排骨肉"
+      },
+      {
+        "id": "C",
+        "text": "五花肉"
+      },
+      {
+        "id": "D",
+        "text": "腰內肉"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "豬肉中下列何者肉質最佳？ 背脊肉 排骨肉 五花肉 腰內肉 其他：待人工審核 待人工審核",
+    "sequence": 2087
+  }
+}

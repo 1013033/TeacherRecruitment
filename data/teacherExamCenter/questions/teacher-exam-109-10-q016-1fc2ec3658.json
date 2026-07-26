@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q016-1fc2ec3658",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 16 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-5479",
+    "paperTitle": "一、單選題（共20題，每題2分）",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "以下有關中國菜系統敘述，何者為正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "中國西方菜以湖南菜為代表"
+      },
+      {
+        "id": "B",
+        "text": "中國地方菜蔥蒜區是指西北"
+      },
+      {
+        "id": "C",
+        "text": "一般而言，中國南方吃米，北方吃麵"
+      },
+      {
+        "id": "D",
+        "text": "中國地方菜沿黃河流域指的是江浙菜"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "以下有關中國菜系統敘述，何者為正確的？ 中國西方菜以湖南菜為代表 中國地方菜蔥蒜區是指西北 一般而言，中國南方吃米，北方吃麵 中國地方菜沿黃河流域指的是江浙菜 其他：待人工審核 待人工審核",
+    "sequence": 1558
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q041-36c84ffbbb",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 41 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-9450",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "我國普通護照的期限是多少年？（註：現行成年人為 10 年）",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 年"
+      },
+      {
+        "id": "B",
+        "text": "5 年"
+      },
+      {
+        "id": "C",
+        "text": "3 年"
+      },
+      {
+        "id": "D",
+        "text": "沒有年限。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國普通護照的期限是多少年？（註：現行成年人為 10 年） 10 年 5 年 3 年 沒有年限。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2757
+  }
+}

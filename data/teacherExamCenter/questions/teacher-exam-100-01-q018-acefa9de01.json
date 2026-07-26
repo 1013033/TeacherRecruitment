@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q018-acefa9de01",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 18 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-14049",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下述西餐傳統菜單（classic menu），請依上菜順序排列 甲、Hors D'oeuvre Froid；乙、Rôti；丙、Potage；丁、Poisson；戊、Entremets；己、Sorbets；庚、Entree Chaude",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→丙→庚→丁→己→乙→戊"
+      },
+      {
+        "id": "B",
+        "text": "甲→丙→己→丁→乙→戊→庚"
+      },
+      {
+        "id": "C",
+        "text": "甲→丙→丁→庚→己→乙→戊"
+      },
+      {
+        "id": "D",
+        "text": "甲→乙→丙→丁→戊→己→庚。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單、menu"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下述西餐傳統菜單（classic menu），請依上菜順序排列 甲、Hors D'oeuvre Froid；乙、Rôti；丙、Potage；丁、Poisson；戊、Entremets；己、Sorbets；庚、Entree Chaude 甲→丙→庚→丁→己→乙→戊 甲→丙→己→丁→乙→戊→庚 甲→丙→丁→庚→己→乙→戊 甲→乙→丙→丁→戊→己→庚。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 115
+  }
+}

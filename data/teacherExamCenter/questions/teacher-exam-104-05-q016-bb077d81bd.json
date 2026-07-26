@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q016-bb077d81bd",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 16 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-2442",
+    "paperTitle": "二、複選題（每題2分，全對才給分，共10分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 16,
+    "questionType": "multiple-choice",
+    "prompt": "適合安裝於客房的探測器種類有",
+    "options": [
+      {
+        "id": "A",
+        "text": "差動式探測器"
+      },
+      {
+        "id": "B",
+        "text": "定溫式探測器"
+      },
+      {
+        "id": "C",
+        "text": "偵煙式探測器"
+      },
+      {
+        "id": "D",
+        "text": "火焰式探測器。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "適合安裝於客房的探測器種類有 差動式探測器 定溫式探測器 偵煙式探測器 火焰式探測器。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 593
+  }
+}

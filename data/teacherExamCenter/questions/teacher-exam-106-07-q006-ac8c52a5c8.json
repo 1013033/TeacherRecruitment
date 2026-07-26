@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q006-ac8c52a5c8",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 6 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-9690",
+    "paperTitle": "第一部分：單選題（每題 2 分，共 40 分）",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "I would like to confirm my flight to Chicago on Friday.",
+    "options": [
+      {
+        "id": "A",
+        "text": "May I have your Estimated Time of Arrival?"
+      },
+      {
+        "id": "B",
+        "text": "Sure. Please provide me with a copy of your passport."
+      },
+      {
+        "id": "C",
+        "text": "Could you give me your Passenger Name Record?"
+      },
+      {
+        "id": "D",
+        "text": "I'm sorry. All the flights have been booked。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：passport、flight"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "I would like to confirm my flight to Chicago on Friday. May I have your Estimated Time of Arrival? Sure. Please provide me with a copy of your passport. Could you give me your Passenger Name Record? I'm sorry. All the flights have been booked。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1134
+  }
+}

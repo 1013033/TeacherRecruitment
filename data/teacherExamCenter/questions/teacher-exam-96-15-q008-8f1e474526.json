@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q008-8f1e474526",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 8 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-749",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲科)",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "關於餐飲業的經營狀況，下列哪一種組合的獲利性最低？甲：食物成本提高乙：營業額增加丙：餐廳租金降低丁：飲料收入降低",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲和丙"
+      },
+      {
+        "id": "B",
+        "text": "甲和丁"
+      },
+      {
+        "id": "C",
+        "text": "乙和丙"
+      },
+      {
+        "id": "D",
+        "text": "乙和丁。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於餐飲業的經營狀況，下列哪一種組合的獲利性最低？甲：食物成本提高乙：營業額增加丙：餐廳租金降低丁：飲料收入降低 甲和丙 甲和丁 乙和丙 乙和丁。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2170
+  }
+}

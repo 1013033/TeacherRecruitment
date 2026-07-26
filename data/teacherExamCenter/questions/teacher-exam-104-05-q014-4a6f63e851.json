@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q014-4a6f63e851",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 14 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-17008",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "關於糯米茄，下列何者敘述正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "顏色淺紫"
+      },
+      {
+        "id": "B",
+        "text": "加熱後茄皮粗硬"
+      },
+      {
+        "id": "C",
+        "text": "口感軟綿"
+      },
+      {
+        "id": "D",
+        "text": "尾部為圓形。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於糯米茄，下列何者敘述正確？ 顏色淺紫 加熱後茄皮粗硬 口感軟綿 尾部為圓形。 其他：待人工審核 待人工審核",
+    "sequence": 719
+  }
+}

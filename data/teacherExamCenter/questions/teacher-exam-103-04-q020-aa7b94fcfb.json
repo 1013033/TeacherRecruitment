@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q020-aa7b94fcfb",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 20 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-5228",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "口布的主要用途為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "擦拭玻璃杯與餐具"
+      },
+      {
+        "id": "B",
+        "text": "鋪於桌面與檯布中間，以避免檯布滑動"
+      },
+      {
+        "id": "C",
+        "text": "提供給客人擦拭或防止弄髒衣服"
+      },
+      {
+        "id": "D",
+        "text": "又稱臂巾，為服務人員於服務工作時使用。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "口布的主要用途為何？ 擦拭玻璃杯與餐具 鋪於桌面與檯布中間，以避免檯布滑動 提供給客人擦拭或防止弄髒衣服 又稱臂巾，為服務人員於服務工作時使用。 其他：待人工審核 待人工審核",
+    "sequence": 547
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q001-f1770fc34d",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 1 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-7413",
+    "paperTitle": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "觀光系統(Tourism system)中，所謂「觀光媒體」指的是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "觀光客"
+      },
+      {
+        "id": "B",
+        "text": "觀光資源"
+      },
+      {
+        "id": "C",
+        "text": "領隊及導遊"
+      },
+      {
+        "id": "D",
+        "text": "觀光據點之文化傳統。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "觀光系統(Tourism system)中，所謂「觀光媒體」指的是？ 觀光客 觀光資源 領隊及導遊 觀光據點之文化傳統。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2093
+  }
+}

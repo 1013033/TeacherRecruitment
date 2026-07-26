@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q035-38b4b4bca3",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 35 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-5851",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 35,
+    "questionType": "multiple-choice",
+    "prompt": "小莊為某旅行社簽約之自由領隊，某次帶團到法國，該團一律安排在飯店中用早餐；團員於第二天晚上自費觀看遠近馳名之麗都秀，隔天並安排非 Flambé 之 Side Table Service。請問下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "該團之服務餐點中有可能出現 Crêpe Suzette、Black Pepper Steak。"
+      },
+      {
+        "id": "B",
+        "text": "小莊應為 Free Lance。"
+      },
+      {
+        "id": "C",
+        "text": "飯店房價是以 Bermuda Plan 報價。"
+      },
+      {
+        "id": "D",
+        "text": "麗都秀屬於 Optional Tour。"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "小莊為某旅行社簽約之自由領隊，某次帶團到法國，該團一律安排在飯店中用早餐；團員於第二天晚上自費觀看遠近馳名之麗都秀，隔天並安排非 Flambé 之 Side Table Service。請問下列敘述何者正確？ 該團之服務餐點中有可能出現 Crêpe Suzette、Black Pepper Steak。 小莊應為 Free Lance。 飯店房價是以 Bermuda Plan 報價。 麗都秀屬於 Optional Tour。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1722
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q003-5449133b87",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 3 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-433",
+    "paperTitle": "一、單選題（每題2分，共30分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列有關於旁桌服務的技法，哪一道菜不需使用「Making」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Caesar Salad"
+      },
+      {
+        "id": "B",
+        "text": "Steak Tartar"
+      },
+      {
+        "id": "C",
+        "text": "Shrimp Cocktail"
+      },
+      {
+        "id": "D",
+        "text": "Avocado Shrimp。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關於旁桌服務的技法，哪一道菜不需使用「Making」？ Caesar Salad Steak Tartar Shrimp Cocktail Avocado Shrimp。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1517
+  }
+}

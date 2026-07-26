@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q018-80b2eb2924",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 18 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-5687",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "旅館經營方式一般可分為自資自營、租賃經營、加盟連鎖與管理契約，此四種方式對業主（Owner）及經營者（Operator）均各有其優缺點。請問下列何者為租賃經營對業主的主要優點？",
+    "options": [
+      {
+        "id": "A",
+        "text": "經營獨立，不需受限受制於他人"
+      },
+      {
+        "id": "B",
+        "text": "可享有全球性的訂房系統與行銷資源"
+      },
+      {
+        "id": "C",
+        "text": "不論旅館經營好壞，均有固定收益"
+      },
+      {
+        "id": "D",
+        "text": "可以共享堅強的品牌形象與經營口碑。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅館經營方式一般可分為自資自營、租賃經營、加盟連鎖與管理契約，此四種方式對業主（Owner）及經營者（Operator）均各有其優缺點。請問下列何者為租賃經營對業主的主要優點？ 經營獨立，不需受限受制於他人 可享有全球性的訂房系統與行銷資源 不論旅館經營好壞，均有固定收益 可以共享堅強的品牌形象與經營口碑。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 210
+  }
+}

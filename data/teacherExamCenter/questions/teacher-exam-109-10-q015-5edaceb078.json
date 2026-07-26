@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q015-5edaceb078",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 15 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-8431",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "香檳標籤上標示 Blanc de blancs，表示它是用何種葡萄釀的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Riesling"
+      },
+      {
+        "id": "B",
+        "text": "Pinot Noir"
+      },
+      {
+        "id": "C",
+        "text": "Chardonnay"
+      },
+      {
+        "id": "D",
+        "text": "Pinot Blanc。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳、pinot、chardonnay、riesling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "香檳標籤上標示 Blanc de blancs，表示它是用何種葡萄釀的？ Riesling Pinot Noir Chardonnay Pinot Blanc。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1587
+  }
+}

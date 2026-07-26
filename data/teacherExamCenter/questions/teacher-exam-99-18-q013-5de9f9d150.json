@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q013-5de9f9d150",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 13 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-14708",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "所謂「Multiple Occupancy」是指",
+    "options": [
+      {
+        "id": "A",
+        "text": "重複訂房"
+      },
+      {
+        "id": "B",
+        "text": "有兩位以上的房客住在同一間"
+      },
+      {
+        "id": "C",
+        "text": "住房率達兩位數字"
+      },
+      {
+        "id": "D",
+        "text": "將同一間客房重複安排給不同的房客住宿。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、訂房、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "所謂「Multiple Occupancy」是指 重複訂房 有兩位以上的房客住在同一間 住房率達兩位數字 將同一間客房重複安排給不同的房客住宿。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2912
+  }
+}

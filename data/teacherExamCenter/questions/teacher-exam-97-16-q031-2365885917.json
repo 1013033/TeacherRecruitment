@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q031-2365885917",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 31 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-22527",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "西餐餐桌擺設之順序，下列何者是正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "底盤→麵包盤→奶油刀→餐刀→餐叉"
+      },
+      {
+        "id": "B",
+        "text": "底盤→刀、庫、匙→麵包盤、奶油刀→水杯（註：原文為刀、叉、匙）"
+      },
+      {
+        "id": "C",
+        "text": "口布→水杯→刀、叉、匙"
+      },
+      {
+        "id": "D",
+        "text": "刀、叉、匙→麵包盤→底盤→水杯。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐餐桌擺設之順序，下列何者是正確的？ 底盤→麵包盤→奶油刀→餐刀→餐叉 底盤→刀、庫、匙→麵包盤、奶油刀→水杯（註：原文為刀、叉、匙） 口布→水杯→刀、叉、匙 刀、叉、匙→麵包盤→底盤→水杯。 其他：待人工審核 待人工審核",
+    "sequence": 2509
+  }
+}

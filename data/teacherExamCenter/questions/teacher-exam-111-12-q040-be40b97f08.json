@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q040-be40b97f08",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 40 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-30200",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "A franchise is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A privately owned restaurant"
+      },
+      {
+        "id": "B",
+        "text": "A restaurant that has a branded product that the owner promotes, markets and sells under a specific contract."
+      },
+      {
+        "id": "C",
+        "text": "A chain restaurant owned by the parent company"
+      },
+      {
+        "id": "D",
+        "text": "A family run chain of restaurants with one or more family owners."
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：restaurant"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "A franchise is: A privately owned restaurant A restaurant that has a branded product that the owner promotes, markets and sells under a specific contract. A chain restaurant owned by the parent company A family run chain of restaurants with one or more family owners. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1886
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q003-db9c70d23e",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 3 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-4706",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "負責爐邊雜事、材料傳遞、掌控上菜順序、排盤等工作的中餐廚房師傅為何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "打荷"
+      },
+      {
+        "id": "B",
+        "text": "候鑊"
+      },
+      {
+        "id": "C",
+        "text": "墩子"
+      },
+      {
+        "id": "D",
+        "text": "紅案。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "負責爐邊雜事、材料傳遞、掌控上菜順序、排盤等工作的中餐廚房師傅為何者？ 打荷 候鑊 墩子 紅案。 其他：待人工審核 待人工審核",
+    "sequence": 28
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q028-68f013e6a3",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 28 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-15575",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "金門牌白蘭地每瓶 1 夸特（Quart），每杯標準容量是 1 盎司（Ounces），溢出或多量之數是 2 盎司。請問 KHC 牌白蘭地可賣出的杯數是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 杯"
+      },
+      {
+        "id": "B",
+        "text": "24 杯"
+      },
+      {
+        "id": "C",
+        "text": "28 杯"
+      },
+      {
+        "id": "D",
+        "text": "30 杯。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白蘭地"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "金門牌白蘭地每瓶 1 夸特（Quart），每杯標準容量是 1 盎司（Ounces），溢出或多量之數是 2 盎司。請問 KHC 牌白蘭地可賣出的杯數是： 20 杯 24 杯 28 杯 30 杯。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 125
+  }
+}

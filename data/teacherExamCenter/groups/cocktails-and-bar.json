@@ -1,0 +1,4888 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "concept": {
+    "id": "cocktails-and-bar",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "label": "雞尾酒、吧檯器具與調製",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-100-01-q016-2115cfca4c",
+      "teacher-exam-100-01-q025-0170439e08",
+      "teacher-exam-101-02-q001-f2d4100670",
+      "teacher-exam-101-02-q015-37b49436f7",
+      "teacher-exam-101-02-q001-ef4800aec8",
+      "teacher-exam-102-03-q011-32337dad38",
+      "teacher-exam-102-03-q015-f566686e9b",
+      "teacher-exam-102-03-q019-aed880feff",
+      "teacher-exam-102-03-q015-5c9407e91b",
+      "teacher-exam-102-03-q004-502cb5f64f",
+      "teacher-exam-103-04-q014-c8588fda67",
+      "teacher-exam-103-04-q032-2e1bb32eee",
+      "teacher-exam-104-05-q004-2533bdaef6",
+      "teacher-exam-104-05-q081-dff7d075a8",
+      "teacher-exam-104-05-q093-3da7359570",
+      "teacher-exam-104-05-q098-4653fe0188",
+      "teacher-exam-104-05-q100-d0fa23c77f",
+      "teacher-exam-104-05-q026-4be5923bb1",
+      "teacher-exam-104-05-q050-d5439d96b3",
+      "teacher-exam-104-05-q039-f7152f0340",
+      "teacher-exam-105-06-q013-ecdc864e54",
+      "teacher-exam-105-06-q014-ef8b4023af",
+      "teacher-exam-105-06-q001-a233870109",
+      "teacher-exam-105-06-q010-b2ff70ccbe",
+      "teacher-exam-105-06-q001-5886017fd8",
+      "teacher-exam-106-07-q012-79d4acb29a",
+      "teacher-exam-106-07-q001-94553592a8",
+      "teacher-exam-106-07-q003-490d5f251a",
+      "teacher-exam-106-07-q016-5bf6696119",
+      "teacher-exam-106-07-q085-ef8229cec4",
+      "teacher-exam-106-07-q091-77bd9b192c",
+      "teacher-exam-106-07-q019-e49261961e",
+      "teacher-exam-108-09-q001-20398d1458",
+      "teacher-exam-108-09-q003-a0a585c6b3",
+      "teacher-exam-108-09-q004-c17030fddb",
+      "teacher-exam-108-09-q012-77a0bea215",
+      "teacher-exam-108-09-q013-21df2e73de",
+      "teacher-exam-108-09-q002-59cf50ce15",
+      "teacher-exam-108-09-q014-bd82c0f50b",
+      "teacher-exam-108-09-q019-0f0c62ea93",
+      "teacher-exam-108-09-q022-1e7d5ddf2f",
+      "teacher-exam-108-09-q028-ebf4522ea8",
+      "teacher-exam-108-09-q008-e2b8723c0d",
+      "teacher-exam-108-09-q012-e95b1fbb81",
+      "teacher-exam-108-09-q013-191b539fcb",
+      "teacher-exam-109-10-q017-214e42d818",
+      "teacher-exam-109-10-q007-ceec5ade7f",
+      "teacher-exam-110-11-q005-9462b1c9e1",
+      "teacher-exam-110-11-q001-96a60dc2e2",
+      "teacher-exam-111-12-q025-cbdba1a35a",
+      "teacher-exam-111-12-q044-995dfa11cb",
+      "teacher-exam-111-12-q045-3313748359",
+      "teacher-exam-111-12-q047-a6b5e4384e",
+      "teacher-exam-111-12-q038-d7b47f7867",
+      "teacher-exam-112-13-q031-b1905f2e4a",
+      "teacher-exam-112-13-q007-6310cbdf56",
+      "teacher-exam-94-14-q024-2ec1824a63",
+      "teacher-exam-96-15-q022-4c6adf6472",
+      "teacher-exam-97-16-q016-e5aee53767",
+      "teacher-exam-97-16-q018-5bf2d1518b",
+      "teacher-exam-97-16-q027-9157db2d6e",
+      "teacher-exam-97-16-q009-d9ef373411",
+      "teacher-exam-97-16-q070-3ea62e8288",
+      "teacher-exam-97-16-q019-ce6ae2ad9a",
+      "teacher-exam-97-16-q030-32dbe869f9",
+      "teacher-exam-97-16-q040-92f48783a8",
+      "teacher-exam-97-16-q022-0ed00699d0",
+      "teacher-exam-98-17-q011-bcb2dcfb09",
+      "teacher-exam-99-18-q037-4be216fd60",
+      "teacher-exam-99-18-q070-aec3a737de",
+      "teacher-exam-99-18-q007-f07e4b5d90",
+      "teacher-exam-99-18-q002-977abe800e"
+    ],
+    "years": [
+      94,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "publisherBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、b52"
+      },
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、martini、black russian、singapore sling"
+      },
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：調酒、goblet"
+      },
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      },
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      },
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、cocktail"
+      },
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：cocktail"
+      },
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、martini"
+      }
+    ],
+    "reviewStatus": "draft",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-100-01-q016-2115cfca4c",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 16 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5935",
+      "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "下列哪一種雞尾酒的調製方法不是使用「Layer」來調製？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pousse Café"
+        },
+        {
+          "id": "B",
+          "text": "B52 Bomber"
+        },
+        {
+          "id": "C",
+          "text": "Kir Royal"
+        },
+        {
+          "id": "D",
+          "text": "Rainbow。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、b52"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列哪一種雞尾酒的調製方法不是使用「Layer」來調製？ Pousse Café B52 Bomber Kir Royal Rainbow。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 41
+    },
+    {
+      "id": "teacher-exam-100-01-q025-0170439e08",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 25 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-6847",
+      "paperTitle": "未標示試卷",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 25,
+      "questionType": "single-choice",
+      "prompt": "下列哪一款雞尾酒之基酒，不同於其他三款？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Black Russian"
+        },
+        {
+          "id": "B",
+          "text": "Perfect martini"
+        },
+        {
+          "id": "C",
+          "text": "Pink lady"
+        },
+        {
+          "id": "D",
+          "text": "Singapore sling。"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、martini、black russian、singapore sling"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列哪一款雞尾酒之基酒，不同於其他三款？ Black Russian Perfect martini Pink lady Singapore sling。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 50
+    },
+    {
+      "id": "teacher-exam-101-02-q001-f2d4100670",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 1 題",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-2978",
+      "paperTitle": "一、填充題（每格2分，共20分）",
+      "schoolName": "未標示學校",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "You may have to fill out registration card when you check in a hotel. 2. 酒吧專業術語中，攪拌法所需器皿『刻度調酒杯』和『隔冰器』的英文分別是 Mixing Glass、Strainer。 3. 餐廳的玻璃器皿中，『高腳杯』的英文是 Goblet。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒、goblet"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "You may have to fill out registration card when you check in a hotel. 2. 酒吧專業術語中，攪拌法所需器皿『刻度調酒杯』和『隔冰器』的英文分別是 Mixing Glass、Strainer。 3. 餐廳的玻璃器皿中，『高腳杯』的英文是 Goblet。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 181
+    },
+    {
+      "id": "teacher-exam-104-05-q004-2533bdaef6",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 4 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-677",
+      "paperTitle": "未標示試卷",
+      "schoolName": "未標示學校",
+      "questionNumber": 4,
+      "questionType": "single-choice",
+      "prompt": "下列各組雞尾酒，何者的基酒是相同的？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flying Grasshopper / Screwdriver"
+        },
+        {
+          "id": "B",
+          "text": "Old Fashioned / Kamikaze"
+        },
+        {
+          "id": "C",
+          "text": "Pink Lady / Manhattan"
+        },
+        {
+          "id": "D",
+          "text": "Cuba Libre / Black Russian。"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、manhattan、black russian"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列各組雞尾酒，何者的基酒是相同的？ Flying Grasshopper / Screwdriver Old Fashioned / Kamikaze Pink Lady / Manhattan Cuba Libre / Black Russian。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 581
+    },
+    {
+      "id": "teacher-exam-110-11-q001-96a60dc2e2",
+      "sourceYear": 110,
+      "sourceLabel": "110 年第 1 題",
+      "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+      "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-7695",
+      "paperTitle": "三、翻譯（共4分）",
+      "schoolName": "未標示學校",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "The Manhattan Clam chowder is not as rich as baked mushroom soup with puff pastry. 翻譯：曼哈頓蛤蜊巧巴達湯（或譯：曼哈頓蛤蜊濃湯）不如酥皮烤蘑菇濃湯那麼濃郁。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：manhattan"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "The Manhattan Clam chowder is not as rich as baked mushroom soup with puff pastry. 翻譯：曼哈頓蛤蜊巧巴達湯（或譯：曼哈頓蛤蜊濃湯）不如酥皮烤蘑菇濃湯那麼濃郁。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1686
+    },
+    {
+      "id": "teacher-exam-110-11-q005-9462b1c9e1",
+      "sourceYear": 110,
+      "sourceLabel": "110 年第 5 題",
+      "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+      "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-836",
+      "paperTitle": "未標示試卷",
+      "schoolName": "未標示學校",
+      "questionNumber": 5,
+      "questionType": "single-choice",
+      "prompt": "在酒類的知識，下列何者敘述較不適宜？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Campari適合做餐前酒（Aperitif Wine）"
+        },
+        {
+          "id": "B",
+          "text": "釀造酒是將水果、穀物等原料經過糖化、發酵、過濾、蒸餾及儲存等步驟而製成的酒，米酒、二鍋頭屬之"
+        },
+        {
+          "id": "C",
+          "text": "含有酒精的調配飲料，即雞尾酒，如血腥馬麗（Bloody Mary）、馬丁尼（Martini）等"
+        },
+        {
+          "id": "D",
+          "text": "根據我國菸酒管理法：酒係指含酒精成分以容量計算超過 0.5% 之飲料。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、martini"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "在酒類的知識，下列何者敘述較不適宜？ Campari適合做餐前酒（Aperitif Wine） 釀造酒是將水果、穀物等原料經過糖化、發酵、過濾、蒸餾及儲存等步驟而製成的酒，米酒、二鍋頭屬之 含有酒精的調配飲料，即雞尾酒，如血腥馬麗（Bloody Mary）、馬丁尼（Martini）等 根據我國菸酒管理法：酒係指含酒精成分以容量計算超過 0.5% 之飲料。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1645
+    },
+    {
+      "id": "teacher-exam-97-16-q022-0ed00699d0",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 22 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-31563",
+      "paperTitle": "未標示試卷",
+      "schoolName": "光復商工教師甄選餐飲管理科",
+      "questionNumber": 22,
+      "questionType": "single-choice",
+      "prompt": "目前深受時下社會歡迎的雞尾酒，另稱混合酒（Drink），係源於下列何地？",
+      "options": [
+        {
+          "id": "A",
+          "text": "義大利"
+        },
+        {
+          "id": "B",
+          "text": "法國"
+        },
+        {
+          "id": "C",
+          "text": "英國"
+        },
+        {
+          "id": "D",
+          "text": "美國。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "目前深受時下社會歡迎的雞尾酒，另稱混合酒（Drink），係源於下列何地？ 義大利 法國 英國 美國。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2617
+    },
+    {
+      "id": "teacher-exam-111-12-q044-995dfa11cb",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 44 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-24373",
+      "paperTitle": "未標示試卷",
+      "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+      "questionNumber": 44,
+      "questionType": "multiple-choice",
+      "prompt": "有關液體容量的換算，下列哪些才是正確的敘述？",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 oz = 30cc (餐旅計算常用近似值)"
+        },
+        {
+          "id": "B",
+          "text": "1 liter = 1000ml"
+        },
+        {
+          "id": "C",
+          "text": "1 jigger = 1.5 oz"
+        },
+        {
+          "id": "D",
+          "text": "1 tsp = 15 ml (1 tsp = 5 ml)"
+        },
+        {
+          "id": "E",
+          "text": "1 cl = 10ml"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：jigger"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "E",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "有關液體容量的換算，下列哪些才是正確的敘述？ 1 oz = 30cc (餐旅計算常用近似值) 1 liter = 1000ml 1 jigger = 1.5 oz 1 tsp = 15 ml (1 tsp = 5 ml) 1 cl = 10ml 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1839
+    },
+    {
+      "id": "teacher-exam-111-12-q045-3313748359",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 45 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-24563",
+      "paperTitle": "未標示試卷",
+      "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+      "questionNumber": 45,
+      "questionType": "multiple-choice",
+      "prompt": "請問下列哪些器皿，並不適合盛裝飲料供顧客直接飲用？",
+      "options": [
+        {
+          "id": "A",
+          "text": "liqueur glass (利口酒杯可直接飲用)"
+        },
+        {
+          "id": "B",
+          "text": "jigger (量酒器，用來量測容量)"
+        },
+        {
+          "id": "C",
+          "text": "shaker (搖酒器，用來調酒)"
+        },
+        {
+          "id": "D",
+          "text": "highball glass (高球杯可直接飲用)"
+        },
+        {
+          "id": "E",
+          "text": "lipped glass (公杯/嘴杯，用來分酒)"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒、量酒器、jigger"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "E",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "請問下列哪些器皿，並不適合盛裝飲料供顧客直接飲用？ liqueur glass (利口酒杯可直接飲用) jigger (量酒器，用來量測容量) shaker (搖酒器，用來調酒) highball glass (高球杯可直接飲用) lipped glass (公杯/嘴杯，用來分酒) 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1840
+    },
+    {
+      "id": "teacher-exam-111-12-q047-a6b5e4384e",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 47 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-24879",
+      "paperTitle": "未標示試卷",
+      "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+      "questionNumber": 47,
+      "questionType": "multiple-choice",
+      "prompt": "一般所謂 bartender tools 不包含下列哪些東西？",
+      "options": [
+        {
+          "id": "A",
+          "text": "cocktail station (工作檯)"
+        },
+        {
+          "id": "B",
+          "text": "cocktail shaker"
+        },
+        {
+          "id": "C",
+          "text": "jigger"
+        },
+        {
+          "id": "D",
+          "text": "bar stool (高腳椅)"
+        },
+        {
+          "id": "E",
+          "text": "cocktail strainer"
+        }
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：cocktail、jigger"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "E",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "一般所謂 bartender tools 不包含下列哪些東西？ cocktail station (工作檯) cocktail shaker jigger bar stool (高腳椅) cocktail strainer 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1842
+    },
+    {
+      "id": "teacher-exam-112-13-q007-6310cbdf56",
+      "sourceYear": 112,
+      "sourceLabel": "112 年第 7 題",
+      "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+      "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-13425",
+      "paperTitle": "未標示試卷",
+      "schoolName": "桃園市立高級中等學校 112學年度教師聯合甄選筆試試題",
+      "questionNumber": 7,
+      "questionType": "essay",
+      "prompt": "請列出4種常見的中英文雞尾酒名。(4分)",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "請列出4種常見的中英文雞尾酒名。(4分) 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2001
+    },
+    {
+      "id": "teacher-exam-106-07-q019-e49261961e",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 19 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-29172",
+      "paperTitle": "未標示試卷",
+      "schoolName": "高中部觀光科試題卷",
+      "questionNumber": 19,
+      "questionType": "single-choice",
+      "prompt": "依照餐桌設備之面積而言，請問面積最小的餐桌設備為下列何者？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Folding leaf Table"
+        },
+        {
+          "id": "B",
+          "text": "Lazy Susan"
+        },
+        {
+          "id": "C",
+          "text": "Deuce"
+        },
+        {
+          "id": "D",
+          "text": "Cocktail Table。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "依照餐桌設備之面積而言，請問面積最小的餐桌設備為下列何者？ Folding leaf Table Lazy Susan Deuce Cocktail Table。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1298
+    },
+    {
+      "id": "teacher-exam-102-03-q004-502cb5f64f",
+      "sourceYear": 102,
+      "sourceLabel": "102 年第 4 題",
+      "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-13741",
+      "paperTitle": "單選題：40%（每題 2 分）",
+      "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+      "questionNumber": 4,
+      "questionType": "single-choice",
+      "prompt": "下列何款雞尾酒的基酒與其他酒不同？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tom Collins"
+        },
+        {
+          "id": "B",
+          "text": "Martini"
+        },
+        {
+          "id": "C",
+          "text": "Margarita"
+        },
+        {
+          "id": "D",
+          "text": "Singapore Sling。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、martini、singapore sling"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列何款雞尾酒的基酒與其他酒不同？ Tom Collins Martini Margarita Singapore Sling。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 486
+    },
+    {
+      "id": "teacher-exam-109-10-q007-ceec5ade7f",
+      "sourceYear": 109,
+      "sourceLabel": "109 年第 7 題",
+      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-11439",
+      "paperTitle": "一、選擇題（每題2分、共15題、共計30分）",
+      "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+      "questionNumber": 7,
+      "questionType": "single-choice",
+      "prompt": "雞尾酒種類可分許多種，請問以下的敘述，那些為正確？ 甲、Mocktail 為不含酒精成分的飲料 乙、Frappé 為將冰塊放入果汁機中打碎後取出，再注入材料的飲料 丙、Frozen 為將材料與冰塊一起放入電動攪拌機中打成霜凍狀的飲料 丁、Punch 為酒精濃烈，適合短時間內喝完的飲料",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲、丙、丁"
+        },
+        {
+          "id": "B",
+          "text": "乙、丙、丁"
+        },
+        {
+          "id": "C",
+          "text": "甲、乙、丙"
+        },
+        {
+          "id": "D",
+          "text": "甲、乙、丁"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒種類可分許多種，請問以下的敘述，那些為正確？ 甲、Mocktail 為不含酒精成分的飲料 乙、Frappé 為將冰塊放入果汁機中打碎後取出，再注入材料的飲料 丙、Frozen 為將材料與冰塊一起放入電動攪拌機中打成霜凍狀的飲料 丁、Punch 為酒精濃烈，適合短時間內喝完的飲料 甲、丙、丁 乙、丙、丁 甲、乙、丙 甲、乙、丁 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1609
+    },
+    {
+      "id": "teacher-exam-103-04-q014-c8588fda67",
+      "sourceYear": 103,
+      "sourceLabel": "103 年第 14 題",
+      "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+      "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-4520",
+      "paperTitle": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+      "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+      "questionNumber": 14,
+      "questionType": "single-choice",
+      "prompt": "下列何者是正式西餐廳內使用的高腳水杯的英文名稱？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Collins"
+        },
+        {
+          "id": "B",
+          "text": "Snifter"
+        },
+        {
+          "id": "C",
+          "text": "Goblet"
+        },
+        {
+          "id": "D",
+          "text": "Tumbler。 (1/4)"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：goblet"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列何者是正式西餐廳內使用的高腳水杯的英文名稱？ Collins Snifter Goblet Tumbler。 (1/4) 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 541
+    },
+    {
+      "id": "teacher-exam-103-04-q032-2e1bb32eee",
+      "sourceYear": 103,
+      "sourceLabel": "103 年第 32 題",
+      "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+      "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-6570",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+      "questionNumber": 32,
+      "questionType": "single-choice",
+      "prompt": "關於雞尾酒調製方法，下列何者與其他三種不同？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amaretto sour"
+        },
+        {
+          "id": "B",
+          "text": "B-52"
+        },
+        {
+          "id": "C",
+          "text": "B & B"
+        },
+        {
+          "id": "D",
+          "text": "Pousse café。"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "關於雞尾酒調製方法，下列何者與其他三種不同？ Amaretto sour B-52 B & B Pousse café。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 559
+    },
+    {
+      "id": "teacher-exam-99-18-q007-f07e4b5d90",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 7 題",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-14184",
+      "paperTitle": "一、選擇題：每題 2 分，共 40%",
+      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+      "questionNumber": 7,
+      "questionType": "single-choice",
+      "prompt": "雞尾酒「Horse's Neck」之取名源於",
+      "options": [
+        {
+          "id": "A",
+          "text": "基酒"
+        },
+        {
+          "id": "B",
+          "text": "裝飾物"
+        },
+        {
+          "id": "C",
+          "text": "杯型"
+        },
+        {
+          "id": "D",
+          "text": "調製方法。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒「Horse's Neck」之取名源於 基酒 裝飾物 杯型 調製方法。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2906
+    },
+    {
+      "id": "teacher-exam-97-16-q019-ce6ae2ad9a",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 19 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-21105",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+      "questionNumber": 19,
+      "questionType": "single-choice",
+      "prompt": "下列雞尾酒中，以 Vodka 為基酒的是？甲、Black Russian；乙、Chi Chi；丙、Bloody Mary；丁、Cuba Libre。",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲乙丙丁"
+        },
+        {
+          "id": "B",
+          "text": "甲乙丙"
+        },
+        {
+          "id": "C",
+          "text": "甲丙丁"
+        },
+        {
+          "id": "D",
+          "text": "甲乙丁。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、black russian"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列雞尾酒中，以 Vodka 為基酒的是？甲、Black Russian；乙、Chi Chi；丙、Bloody Mary；丁、Cuba Libre。 甲乙丙丁 甲乙丙 甲丙丁 甲乙丁。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2497
+    },
+    {
+      "id": "teacher-exam-104-05-q081-dff7d075a8",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 81 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-13808",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+      "questionNumber": 81,
+      "questionType": "single-choice",
+      "prompt": "以下何者不是調酒員的工作？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food Presentation"
+        },
+        {
+          "id": "B",
+          "text": "Wash Bar Glasses"
+        },
+        {
+          "id": "C",
+          "text": "Draw Draft Beer"
+        },
+        {
+          "id": "D",
+          "text": "Prepare Alcoholic Beverage."
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "以下何者不是調酒員的工作？ Food Presentation Wash Bar Glasses Draw Draft Beer Prepare Alcoholic Beverage. 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 686
+    },
+    {
+      "id": "teacher-exam-104-05-q093-3da7359570",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 93 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-14812",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+      "questionNumber": 93,
+      "questionType": "single-choice",
+      "prompt": "依現行勞動基準法中規定，凡擔任調酒員需具有",
+      "options": [
+        {
+          "id": "A",
+          "text": "尚未有相關法規（現行多為依據技術士技能檢定規範，法規無強制規定必須具備特定證照才能受僱，故選A）"
+        },
+        {
+          "id": "B",
+          "text": "烹飪丙級證照"
+        },
+        {
+          "id": "C",
+          "text": "飲料調製乙級證照"
+        },
+        {
+          "id": "D",
+          "text": "飲料調製丙級證照。"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "依現行勞動基準法中規定，凡擔任調酒員需具有 尚未有相關法規（現行多為依據技術士技能檢定規範，法規無強制規定必須具備特定證照才能受僱，故選A） 烹飪丙級證照 飲料調製乙級證照 飲料調製丙級證照。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 698
+    },
+    {
+      "id": "teacher-exam-104-05-q098-4653fe0188",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 98 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-15268",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+      "questionNumber": 98,
+      "questionType": "single-choice",
+      "prompt": "酒單中以下何者不應歸類為 High Ball 雞尾酒？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harvey Wallbanger"
+        },
+        {
+          "id": "B",
+          "text": "Moscow Mule"
+        },
+        {
+          "id": "C",
+          "text": "Fifty Fifty Cocktail"
+        },
+        {
+          "id": "D",
+          "text": "Apricot Fizz."
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "酒單中以下何者不應歸類為 High Ball 雞尾酒？ Harvey Wallbanger Moscow Mule Fifty Fifty Cocktail Apricot Fizz. 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 703
+    },
+    {
+      "id": "teacher-exam-104-05-q100-d0fa23c77f",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 100 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-15474",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+      "questionNumber": 100,
+      "questionType": "single-choice",
+      "prompt": "下列有關酒吧檯調酒操作步驟何者最佳？",
+      "options": [
+        {
+          "id": "A",
+          "text": "準備材料→量取用酒→取用冰塊→準備杯皿"
+        },
+        {
+          "id": "B",
+          "text": "準備杯皿→認識配方→量取用酒→取用冰塊"
+        },
+        {
+          "id": "C",
+          "text": "認識配方→準備裝飾→取用冰塊→量取用酒"
+        },
+        {
+          "id": "D",
+          "text": "認識配方→準備杯皿→準備裝飾→準備材料。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒、吧檯"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列有關酒吧檯調酒操作步驟何者最佳？ 準備材料→量取用酒→取用冰塊→準備杯皿 準備杯皿→認識配方→量取用酒→取用冰塊 認識配方→準備裝飾→取用冰塊→量取用酒 認識配方→準備杯皿→準備裝飾→準備材料。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 705
+    },
+    {
+      "id": "teacher-exam-101-02-q015-37b49436f7",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 15 題",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-14814",
+      "paperTitle": "一、單選題（每題2分，共50分）",
+      "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+      "questionNumber": 15,
+      "questionType": "single-choice",
+      "prompt": "雞尾酒「Gin Tonic」與「Gin Fizz」的調製方法分別為：",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shake & Build"
+        },
+        {
+          "id": "B",
+          "text": "Build & Stir"
+        },
+        {
+          "id": "C",
+          "text": "Build & Shake"
+        },
+        {
+          "id": "D",
+          "text": "Blend & Shake。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒「Gin Tonic」與「Gin Fizz」的調製方法分別為： Shake & Build Build & Stir Build & Shake Blend & Shake。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 314
+    },
+    {
+      "id": "teacher-exam-105-06-q001-a233870109",
+      "sourceYear": 105,
+      "sourceLabel": "105 年第 1 題",
+      "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+      "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-10304",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "雞尾酒調酒中之六大基酒為何？（請用英文回答）（6分）",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒調酒中之六大基酒為何？（請用英文回答）（6分） 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1025
+    },
+    {
+      "id": "teacher-exam-105-06-q013-ecdc864e54",
+      "sourceYear": 105,
+      "sourceLabel": "105 年第 13 題",
+      "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+      "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-7776",
+      "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+      "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 13,
+      "questionType": "single-choice",
+      "prompt": "下列哪一杯雞尾酒的裝飾物(garnish)是錯誤的？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Martini: Onion"
+        },
+        {
+          "id": "B",
+          "text": "Manhattan: cherry"
+        },
+        {
+          "id": "C",
+          "text": "Pink Lady: lemon peel"
+        },
+        {
+          "id": "D",
+          "text": "Alexander: nutmeg powder。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、martini、manhattan"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列哪一杯雞尾酒的裝飾物(garnish)是錯誤的？ Martini: Onion Manhattan: cherry Pink Lady: lemon peel Alexander: nutmeg powder。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1011
+    },
+    {
+      "id": "teacher-exam-105-06-q014-ef8b4023af",
+      "sourceYear": 105,
+      "sourceLabel": "105 年第 14 題",
+      "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+      "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-7904",
+      "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+      "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 14,
+      "questionType": "single-choice",
+      "prompt": "下列哪一種雞尾酒應使用碎冰？",
+      "options": [
+        {
+          "id": "A",
+          "text": "血腥瑪莉(Bloody Mary)"
+        },
+        {
+          "id": "B",
+          "text": "古典酒(Old Fashioned)"
+        },
+        {
+          "id": "C",
+          "text": "莫西多(Mojito)"
+        },
+        {
+          "id": "D",
+          "text": "藍鳥(Blue Bird)。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列哪一種雞尾酒應使用碎冰？ 血腥瑪莉(Bloody Mary) 古典酒(Old Fashioned) 莫西多(Mojito) 藍鳥(Blue Bird)。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1012
+    },
+    {
+      "id": "teacher-exam-99-18-q002-977abe800e",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 2 題",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-16362",
+      "paperTitle": "一、單選題（每題二分，共四十分）",
+      "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+      "questionNumber": 2,
+      "questionType": "single-choice",
+      "prompt": "下列哪幾種雞尾酒，是以 GIN 為基酒調製？甲：Tom Collins；乙：Pink Lady；丙：Silver Fizz；丁：Egg Nog；戊：Scorpion。",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲丙"
+        },
+        {
+          "id": "B",
+          "text": "甲丙丁"
+        },
+        {
+          "id": "C",
+          "text": "甲乙丙"
+        },
+        {
+          "id": "D",
+          "text": "甲丙丁戊。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列哪幾種雞尾酒，是以 GIN 為基酒調製？甲：Tom Collins；乙：Pink Lady；丙：Silver Fizz；丁：Egg Nog；戊：Scorpion。 甲丙 甲丙丁 甲乙丙 甲丙丁戊。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2928
+    },
+    {
+      "id": "teacher-exam-101-02-q001-ef4800aec8",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 1 題",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-16833",
+      "paperTitle": "一、選擇題（每題1分，共20題，合計20分）",
+      "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+      "questionNumber": 1,
+      "questionType": "single-choice",
+      "prompt": "下列有關雞尾酒的分類描述，何者選項錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "美國佬、吉普生屬於餐前雞尾酒"
+        },
+        {
+          "id": "B",
+          "text": "螺絲起子、新加坡司令屬於長飲飲料"
+        },
+        {
+          "id": "C",
+          "text": "天蠍座、鳳梨可樂達屬於冷飲型雞尾酒"
+        },
+        {
+          "id": "D",
+          "text": "尼加斯、法國佬屬於熱飲型雞尾酒"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列有關雞尾酒的分類描述，何者選項錯誤？ 美國佬、吉普生屬於餐前雞尾酒 螺絲起子、新加坡司令屬於長飲飲料 天蠍座、鳳梨可樂達屬於冷飲型雞尾酒 尼加斯、法國佬屬於熱飲型雞尾酒 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 335
+    },
+    {
+      "id": "teacher-exam-105-06-q010-b2ff70ccbe",
+      "sourceYear": 105,
+      "sourceLabel": "105 年第 10 題",
+      "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+      "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-12905",
+      "paperTitle": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
+      "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
+      "questionNumber": 10,
+      "questionType": "single-choice",
+      "prompt": "有關雞尾酒種類的敘述，下列何者正確？ 甲:punch 為酒精濃烈，適合短飲型的飲料 乙:frozen 為將材料與冰塊一起放入果汁機中打成霜凍狀的飲料 丙:frappé為將碎冰放入果汁機中打碎後取出，再注入材料的飲料 丁:mocktail為不具酒精成分的飲料",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲、乙、丙"
+        },
+        {
+          "id": "B",
+          "text": "甲、乙、丁"
+        },
+        {
+          "id": "C",
+          "text": "甲、丙、丁"
+        },
+        {
+          "id": "D",
+          "text": "乙、丙、丁。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "有關雞尾酒種類的敘述，下列何者正確？ 甲:punch 為酒精濃烈，適合短飲型的飲料 乙:frozen 為將材料與冰塊一起放入果汁機中打成霜凍狀的飲料 丙:frappé為將碎冰放入果汁機中打碎後取出，再注入材料的飲料 丁:mocktail為不具酒精成分的飲料 甲、乙、丙 甲、乙、丁 甲、丙、丁 乙、丙、丁。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1038
+    },
+    {
+      "id": "teacher-exam-105-06-q001-5886017fd8",
+      "sourceYear": 105,
+      "sourceLabel": "105 年第 1 題",
+      "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+      "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-14821",
+      "paperTitle": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+      "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+      "questionNumber": 1,
+      "questionType": "single-choice",
+      "prompt": "客人點用「Manhattan Clam Chowder」這道料理時，服務生應準備的餐具為下列何者？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bouillon Spoon"
+        },
+        {
+          "id": "B",
+          "text": "Cream Soup Spoon"
+        },
+        {
+          "id": "C",
+          "text": "Table Spoon"
+        },
+        {
+          "id": "D",
+          "text": "Service Spoon。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：manhattan"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "客人點用「Manhattan Clam Chowder」這道料理時，服務生應準備的餐具為下列何者？ Bouillon Spoon Cream Soup Spoon Table Spoon Service Spoon。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1053
+    },
+    {
+      "id": "teacher-exam-106-07-q001-94553592a8",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 1 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-13059",
+      "paperTitle": "第三部分：請將以下專業名詞翻譯成中文（每題 1 分，共 20 分）",
+      "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "Virgin Drinks：處女飲料 / 無酒精雞尾酒",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "Virgin Drinks：處女飲料 / 無酒精雞尾酒 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1154
+    },
+    {
+      "id": "teacher-exam-97-16-q040-92f48783a8",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 40 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-29288",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
+      "questionNumber": 40,
+      "questionType": "essay",
+      "prompt": "(1) 最適宜雞尾酒會(Cocktail party)供應之食物大小規格為何？ ①可一口食用者 ②愈大塊者 ③愈小愈精緻者 ④依食物種類而異。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "(1) 最適宜雞尾酒會(Cocktail party)供應之食物大小規格為何？ ①可一口食用者 ②愈大塊者 ③愈小愈精緻者 ④依食物種類而異。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2585
+    },
+    {
+      "id": "teacher-exam-94-14-q024-2ec1824a63",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 24 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-6122",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionNumber": 24,
+      "questionType": "single-choice",
+      "prompt": "下列哪種雞尾酒以Vodka為基酒？甲、Black Russian乙、Mai Tai丙、Screw Driver丁、Bloody Mary戊、Daiquiri",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲丙"
+        },
+        {
+          "id": "B",
+          "text": "甲乙丙"
+        },
+        {
+          "id": "C",
+          "text": "甲丙丁"
+        },
+        {
+          "id": "D",
+          "text": "甲丙丁戊"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、black russian"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列哪種雞尾酒以Vodka為基酒？甲、Black Russian乙、Mai Tai丙、Screw Driver丁、Bloody Mary戊、Daiquiri 甲丙 甲乙丙 甲丙丁 甲丙丁戊 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2074
+    },
+    {
+      "id": "teacher-exam-96-15-q022-4c6adf6472",
+      "sourceYear": 96,
+      "sourceLabel": "96 年第 22 題",
+      "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+      "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-4530",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立溪湖高中96學年度教師甄選觀光餐飲科試題",
+      "questionNumber": 22,
+      "questionType": "essay",
+      "prompt": "調製雞尾酒中所謂的ROCK是指添加___冰塊___，而雞尾酒的心臟指的是___琴酒(Gin)___。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "調製雞尾酒中所謂的ROCK是指添加___冰塊___，而雞尾酒的心臟指的是___琴酒(Gin)___。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2214
+    },
+    {
+      "id": "teacher-exam-99-18-q037-4be216fd60",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 37 題",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-8962",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+      "questionNumber": 37,
+      "questionType": "single-choice",
+      "prompt": "西餐專門食用裝於雞尾酒杯的冷開胃菜-鮮蝦雞尾酒盅，此餐具稱為：",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pastry Fork"
+        },
+        {
+          "id": "B",
+          "text": "Cocktail Fork"
+        },
+        {
+          "id": "C",
+          "text": "Oyster Fork"
+        },
+        {
+          "id": "D",
+          "text": "Dessert Fork。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "西餐專門食用裝於雞尾酒杯的冷開胃菜-鮮蝦雞尾酒盅，此餐具稱為： Pastry Fork Cocktail Fork Oyster Fork Dessert Fork。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2855
+    },
+    {
+      "id": "teacher-exam-99-18-q070-aec3a737de",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 70 題",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-12244",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+      "questionNumber": 70,
+      "questionType": "single-choice",
+      "prompt": "對於餐點的吃法，下列敘述何者不正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "使用西餐吃湯時，宜持湯匙由內向外舀食"
+        },
+        {
+          "id": "B",
+          "text": "麵包要全部撕成小塊狀後，再一塊塊取來吃"
+        },
+        {
+          "id": "C",
+          "text": "雞尾酒會中常見的 canapé，是以手取食"
+        },
+        {
+          "id": "D",
+          "text": "鮮蝦盅因為裝在酒杯裡，因此要用小叉子食用。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "對於餐點的吃法，下列敘述何者不正確？ 使用西餐吃湯時，宜持湯匙由內向外舀食 麵包要全部撕成小塊狀後，再一塊塊取來吃 雞尾酒會中常見的 canapé，是以手取食 鮮蝦盅因為裝在酒杯裡，因此要用小叉子食用。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2888
+    },
+    {
+      "id": "teacher-exam-97-16-q009-d9ef373411",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 9 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-3766",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+      "questionNumber": 9,
+      "questionType": "essay",
+      "prompt": "(I) 雞尾酒杯",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "(I) 雞尾酒杯 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2319
+    },
+    {
+      "id": "teacher-exam-97-16-q018-5bf2d1518b",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 18 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-2812",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+      "questionNumber": 18,
+      "questionType": "essay",
+      "prompt": "調酒內檢中，下列材料何者需用公杯裝：①葡萄柚汁 ②萊姆汁 ③柳橙汁 ④蕃茄汁 ⑤檸檬汁 ⑥奶水 ⑦蜂蜜 ⑧椰漿 ⑨鳳梨汁 ⑩鮮奶。（答案：依題意）",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "調酒內檢中，下列材料何者需用公杯裝：①葡萄柚汁 ②萊姆汁 ③柳橙汁 ④蕃茄汁 ⑤檸檬汁 ⑥奶水 ⑦蜂蜜 ⑧椰漿 ⑨鳳梨汁 ⑩鮮奶。（答案：依題意） 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2301
+    },
+    {
+      "id": "teacher-exam-97-16-q027-9157db2d6e",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 27 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-3351",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+      "questionNumber": 27,
+      "questionType": "essay",
+      "prompt": "目前調酒丙級中裝飾物為小洋蔥的是哪一道酒：吉勃利（Gimlet / Gibson）；裝飾物為橄欖的是哪一道酒：馬丁尼。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "目前調酒丙級中裝飾物為小洋蔥的是哪一道酒：吉勃利（Gimlet / Gibson）；裝飾物為橄欖的是哪一道酒：馬丁尼。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2310
+    },
+    {
+      "id": "teacher-exam-109-10-q017-214e42d818",
+      "sourceYear": 109,
+      "sourceLabel": "109 年第 17 題",
+      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-8645",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+      "questionNumber": 17,
+      "questionType": "single-choice",
+      "prompt": "下列何款飲料所應用的調製方法與盛裝之杯皿相同？ 甲：Gibson、乙：Whiskey Sour、丙：Manhattan、丁：Old fashioned",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲、丙"
+        },
+        {
+          "id": "B",
+          "text": "甲、丁"
+        },
+        {
+          "id": "C",
+          "text": "乙、丙"
+        },
+        {
+          "id": "D",
+          "text": "乙、丁"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：manhattan"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列何款飲料所應用的調製方法與盛裝之杯皿相同？ 甲：Gibson、乙：Whiskey Sour、丙：Manhattan、丁：Old fashioned 甲、丙 甲、丁 乙、丙 乙、丁 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1589
+    },
+    {
+      "id": "teacher-exam-102-03-q015-5c9407e91b",
+      "sourceYear": 102,
+      "sourceLabel": "102 年第 15 題",
+      "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-8203",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+      "questionNumber": 15,
+      "questionType": "single-choice",
+      "prompt": "調酒時首先加入的材料為：",
+      "options": [
+        {
+          "id": "A",
+          "text": "基酒"
+        },
+        {
+          "id": "B",
+          "text": "香甜酒"
+        },
+        {
+          "id": "C",
+          "text": "蛋"
+        },
+        {
+          "id": "D",
+          "text": "果汁。"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "調酒時首先加入的材料為： 基酒 香甜酒 蛋 果汁。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 451
+    },
+    {
+      "id": "teacher-exam-97-16-q030-32dbe869f9",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 30 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-27010",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+      "questionNumber": 30,
+      "questionType": "single-choice",
+      "prompt": "請選出下列何項為正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brasserie 為餐館"
+        },
+        {
+          "id": "B",
+          "text": "Sommelier 為調酒員"
+        },
+        {
+          "id": "C",
+          "text": "Aperitif 為開胃菜"
+        },
+        {
+          "id": "D",
+          "text": "Consomme 為濃湯。（解析：濃湯，Potage；開胃菜，Appetizer；調酒員，Bartender。）"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "請選出下列何項為正確？ Brasserie 為餐館 Sommelier 為調酒員 Aperitif 為開胃菜 Consomme 為濃湯。（解析：濃湯，Potage；開胃菜，Appetizer；調酒員，Bartender。） 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2552
+    },
+    {
+      "id": "teacher-exam-104-05-q026-4be5923bb1",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 26 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-25846",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+      "questionNumber": 26,
+      "questionType": "single-choice",
+      "prompt": "Hot Cocktail 會用到的酒杯是",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shot Glass"
+        },
+        {
+          "id": "B",
+          "text": "Toddy Glass"
+        },
+        {
+          "id": "C",
+          "text": "Hurricane"
+        },
+        {
+          "id": "D",
+          "text": "Beer Mug."
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "Hot Cocktail 會用到的酒杯是 Shot Glass Toddy Glass Hurricane Beer Mug. 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 798
+    },
+    {
+      "id": "teacher-exam-104-05-q039-f7152f0340",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 39 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-30385",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+      "questionNumber": 39,
+      "questionType": "essay",
+      "prompt": "並稱為夏威夷四大極品的雞尾酒是指哪四款雞尾酒？(47) Mai Tai（邁泰）、邁泰、藍色夏威夷、(48) Chichi / Lava Flow。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "並稱為夏威夷四大極品的雞尾酒是指哪四款雞尾酒？(47) Mai Tai（邁泰）、邁泰、藍色夏威夷、(48) Chichi / Lava Flow。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 861
+    },
+    {
+      "id": "teacher-exam-104-05-q050-d5439d96b3",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 50 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-27871",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+      "questionNumber": 50,
+      "questionType": "single-choice",
+      "prompt": "雞尾酒「Screwdriver」的調製方法是",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shake"
+        },
+        {
+          "id": "B",
+          "text": "Stir"
+        },
+        {
+          "id": "C",
+          "text": "Build"
+        },
+        {
+          "id": "D",
+          "text": "Blend."
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒「Screwdriver」的調製方法是 Shake Stir Build Blend. 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 822
+    },
+    {
+      "id": "teacher-exam-106-07-q003-490d5f251a",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 3 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-14552",
+      "paperTitle": "一、單選題（85%）",
+      "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+      "questionNumber": 3,
+      "questionType": "single-choice",
+      "prompt": "下列 Glassware 請依容量，由大到小排列？ 甲、rock glass 乙、shaohsing glass 丙、hurricane glass 丁、cocktail glass 戊、martini glass",
+      "options": [
+        {
+          "id": "A",
+          "text": "丙甲丁戊乙"
+        },
+        {
+          "id": "B",
+          "text": "丙丁甲乙戊"
+        },
+        {
+          "id": "C",
+          "text": "乙戊甲丁丙"
+        },
+        {
+          "id": "D",
+          "text": "丙甲戊丁乙"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：cocktail、martini"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列 Glassware 請依容量，由大到小排列？ 甲、rock glass 乙、shaohsing glass 丙、hurricane glass 丁、cocktail glass 戊、martini glass 丙甲丁戊乙 丙丁甲乙戊 乙戊甲丁丙 丙甲戊丁乙 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1182
+    },
+    {
+      "id": "teacher-exam-106-07-q016-5bf6696119",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 16 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-16624",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "下列開瓶器的敘述，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Waiter's corkscrew 一般家庭常用，無須專業技巧。"
+        },
+        {
+          "id": "B",
+          "text": "Air Pressure corkscrew 是餐廳最常使用的開瓶器。"
+        },
+        {
+          "id": "C",
+          "text": "Ah-so corkscrew 適合用於陳年葡萄酒。"
+        },
+        {
+          "id": "D",
+          "text": "Butterfly corkscrew 適合用於較脆弱的軟木塞。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：開瓶器、corkscrew"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列開瓶器的敘述，何者正確？ Waiter's corkscrew 一般家庭常用，無須專業技巧。 Air Pressure corkscrew 是餐廳最常使用的開瓶器。 Ah-so corkscrew 適合用於陳年葡萄酒。 Butterfly corkscrew 適合用於較脆弱的軟木塞。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1195
+    },
+    {
+      "id": "teacher-exam-106-07-q085-ef8229cec4",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 85 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24455",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+      "questionNumber": 85,
+      "questionType": "single-choice",
+      "prompt": "夏威夷雞尾酒四大極品之一的「Scorpion」其調製方法為？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shake"
+        },
+        {
+          "id": "B",
+          "text": "Stir"
+        },
+        {
+          "id": "C",
+          "text": "Build"
+        },
+        {
+          "id": "D",
+          "text": "Blend。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "夏威夷雞尾酒四大極品之一的「Scorpion」其調製方法為？ Shake Stir Build Blend。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1264
+    },
+    {
+      "id": "teacher-exam-106-07-q091-77bd9b192c",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 91 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24953",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+      "questionNumber": 91,
+      "questionType": "multiple-choice",
+      "prompt": "下列哪一些雞尾酒會以熱飲方式呈現？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hot Toddy"
+        },
+        {
+          "id": "B",
+          "text": "Egg Nog"
+        },
+        {
+          "id": "C",
+          "text": "Screw Driver"
+        },
+        {
+          "id": "D",
+          "text": "Frenchman"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列哪一些雞尾酒會以熱飲方式呈現？ Hot Toddy Egg Nog Screw Driver Frenchman 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1270
+    },
+    {
+      "id": "teacher-exam-108-09-q001-20398d1458",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 1 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-3451",
+      "paperTitle": "一、是非題(每題1分,共40分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 1,
+      "questionType": "true-false",
+      "prompt": "Service Bar 是由調酒員對客人提供所有服務的酒吧。",
+      "options": [],
+      "answer": "X",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "Service Bar 是由調酒員對客人提供所有服務的酒吧。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1390
+    },
+    {
+      "id": "teacher-exam-108-09-q002-59cf50ce15",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 2 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-4951",
+      "paperTitle": "二、選擇題(每題1分,共40分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 2,
+      "questionType": "single-choice",
+      "prompt": "Margarita 是一種雞尾酒,其一般裝飾物是什麼？",
+      "options": [
+        {
+          "id": "A",
+          "text": "櫻桃"
+        },
+        {
+          "id": "B",
+          "text": "小洋蔥"
+        },
+        {
+          "id": "C",
+          "text": "檸檬皮"
+        },
+        {
+          "id": "D",
+          "text": "鹽口杯。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "Margarita 是一種雞尾酒,其一般裝飾物是什麼？ 櫻桃 小洋蔥 檸檬皮 鹽口杯。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1431
+    },
+    {
+      "id": "teacher-exam-108-09-q003-a0a585c6b3",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 3 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-3525",
+      "paperTitle": "一、是非題(每題1分,共40分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 3,
+      "questionType": "true-false",
+      "prompt": "雞尾酒的杯皿應確實依照標準酒譜規定使用杯皿,不可任意更換。",
+      "options": [],
+      "answer": "O",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒的杯皿應確實依照標準酒譜規定使用杯皿,不可任意更換。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1392
+    },
+    {
+      "id": "teacher-exam-108-09-q004-c17030fddb",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 4 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-3562",
+      "paperTitle": "一、是非題(每題1分,共40分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 4,
+      "questionType": "essay",
+      "prompt": "( ○) 較經典的雞尾酒均有其固定的裝飾物,不宜擅自更改或增減。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "( ○) 較經典的雞尾酒均有其固定的裝飾物,不宜擅自更改或增減。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1393
+    },
+    {
+      "id": "teacher-exam-108-09-q008-e2b8723c0d",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 8 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-9097",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 8,
+      "questionType": "essay",
+      "prompt": "雞尾酒的成分可分為基酒、(着色)成分與(調色)成分等三個部分。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒的成分可分為基酒、(着色)成分與(調色)成分等三個部分。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1473
+    },
+    {
+      "id": "teacher-exam-108-09-q012-77a0bea215",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 12 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-3794",
+      "paperTitle": "一、是非題(每題1分,共40分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 12,
+      "questionType": "true-false",
+      "prompt": "雞尾酒杯及酸酒杯在使用前通常應先冰杯,以維持飲料的最佳風味。",
+      "options": [],
+      "answer": "O",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒杯及酸酒杯在使用前通常應先冰杯,以維持飲料的最佳風味。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1401
+    },
+    {
+      "id": "teacher-exam-108-09-q012-e95b1fbb81",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 12 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-9289",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 12,
+      "questionType": "essay",
+      "prompt": "以一個玻璃材質的調酒杯及一個不鏽鋼材質的調酒杯組合而成的搖酒器,稱為(波士頓)搖酒器。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "以一個玻璃材質的調酒杯及一個不鏽鋼材質的調酒杯組合而成的搖酒器,稱為(波士頓)搖酒器。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1477
+    },
+    {
+      "id": "teacher-exam-108-09-q013-21df2e73de",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 13 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-3834",
+      "paperTitle": "一、是非題(每題1分,共40分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 13,
+      "questionType": "true-false",
+      "prompt": "醃漬的蔬果亦可當作雞尾酒的裝飾物。",
+      "options": [],
+      "answer": "O",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "醃漬的蔬果亦可當作雞尾酒的裝飾物。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1402
+    },
+    {
+      "id": "teacher-exam-108-09-q013-191b539fcb",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 13 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-9337",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 13,
+      "questionType": "essay",
+      "prompt": "雞尾酒「橘花」的裝飾物是(糖口杯)。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "雞尾酒「橘花」的裝飾物是(糖口杯)。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1478
+    },
+    {
+      "id": "teacher-exam-108-09-q014-bd82c0f50b",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 14 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-5938",
+      "paperTitle": "二、選擇題(每題1分,共40分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 14,
+      "questionType": "single-choice",
+      "prompt": "設於調酒員調酒時的下方,伸手可及之處,用來放置點喝率較高的酒類,以利調酒員快速而方便取用的設置是：",
+      "options": [
+        {
+          "id": "A",
+          "text": "Speed Rack"
+        },
+        {
+          "id": "B",
+          "text": "Drain Board"
+        },
+        {
+          "id": "C",
+          "text": "Bottle Well"
+        },
+        {
+          "id": "D",
+          "text": "Spill Trough。"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "設於調酒員調酒時的下方,伸手可及之處,用來放置點喝率較高的酒類,以利調酒員快速而方便取用的設置是： Speed Rack Drain Board Bottle Well Spill Trough。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1443
+    },
+    {
+      "id": "teacher-exam-108-09-q019-0f0c62ea93",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 19 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-6417",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 19,
+      "questionType": "single-choice",
+      "prompt": "「Grenadine Syrup」是一種調酒材料,其色澤為：",
+      "options": [
+        {
+          "id": "A",
+          "text": "黃色"
+        },
+        {
+          "id": "B",
+          "text": "綠色"
+        },
+        {
+          "id": "C",
+          "text": "紅色"
+        },
+        {
+          "id": "D",
+          "text": "白色。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：調酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "「Grenadine Syrup」是一種調酒材料,其色澤為： 黃色 綠色 紅色 白色。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1448
+    },
+    {
+      "id": "teacher-exam-108-09-q022-1e7d5ddf2f",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 22 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-6627",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 22,
+      "questionType": "single-choice",
+      "prompt": "下列哪幾種雞尾酒,是以Vodka為基酒？甲、Black Russian；乙、Mai Tai；丙、Screw Driver；丁、Bloody Mary；戊、Daiquiri",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲、丙"
+        },
+        {
+          "id": "B",
+          "text": "甲、乙、丙"
+        },
+        {
+          "id": "C",
+          "text": "甲、丙、丁"
+        },
+        {
+          "id": "D",
+          "text": "甲、丙、丁、戊。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、black russian"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列哪幾種雞尾酒,是以Vodka為基酒？甲、Black Russian；乙、Mai Tai；丙、Screw Driver；丁、Bloody Mary；戊、Daiquiri 甲、丙 甲、乙、丙 甲、丙、丁 甲、丙、丁、戊。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1451
+    },
+    {
+      "id": "teacher-exam-108-09-q028-ebf4522ea8",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 28 題",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-7259",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 28,
+      "questionType": "single-choice",
+      "prompt": "以下哪一道雞尾酒較適於當餐後酒？",
+      "options": [
+        {
+          "id": "A",
+          "text": "馬丁尼"
+        },
+        {
+          "id": "B",
+          "text": "曼哈頓"
+        },
+        {
+          "id": "C",
+          "text": "綠色蚱蜢"
+        },
+        {
+          "id": "D",
+          "text": "吉普森。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "以下哪一道雞尾酒較適於當餐後酒？ 馬丁尼 曼哈頓 綠色蚱蜢 吉普森。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1457
+    },
+    {
+      "id": "teacher-exam-102-03-q011-32337dad38",
+      "sourceYear": 102,
+      "sourceLabel": "102 年第 11 題",
+      "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-2161",
+      "paperTitle": "未標示試卷",
+      "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+      "questionNumber": 11,
+      "questionType": "single-choice",
+      "prompt": "下列關於 Cocktail 的敘述，何者正確？ 甲、Fizz 是加入 Carbonated Drink 的飲料 乙、Frappe 是將冰塊加入果汁機中打成霜凍狀 丙、Toddy 是熱飲的雞尾酒 丁、Sour 指的是酸味，通常加入 Orange juice 戊、Virgin 指的是不含酒精的飲料。",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲乙丙"
+        },
+        {
+          "id": "B",
+          "text": "丙丁戊"
+        },
+        {
+          "id": "C",
+          "text": "甲丙戊"
+        },
+        {
+          "id": "D",
+          "text": "甲丁戊。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列關於 Cocktail 的敘述，何者正確？ 甲、Fizz 是加入 Carbonated Drink 的飲料 乙、Frappe 是將冰塊加入果汁機中打成霜凍狀 丙、Toddy 是熱飲的雞尾酒 丁、Sour 指的是酸味，通常加入 Orange juice 戊、Virgin 指的是不含酒精的飲料。 甲乙丙 丙丁戊 甲丙戊 甲丁戊。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 412
+    },
+    {
+      "id": "teacher-exam-102-03-q015-f566686e9b",
+      "sourceYear": 102,
+      "sourceLabel": "102 年第 15 題",
+      "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-2863",
+      "paperTitle": "未標示試卷",
+      "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+      "questionNumber": 15,
+      "questionType": "single-choice",
+      "prompt": "下列 Cocktail 中何者的調製方法錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Screwdriver - Build"
+        },
+        {
+          "id": "B",
+          "text": "Rainbow - Layer"
+        },
+        {
+          "id": "C",
+          "text": "Kir - Pour"
+        },
+        {
+          "id": "D",
+          "text": "God Father - Stir。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列 Cocktail 中何者的調製方法錯誤？ Screwdriver - Build Rainbow - Layer Kir - Pour God Father - Stir。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 416
+    },
+    {
+      "id": "teacher-exam-102-03-q019-aed880feff",
+      "sourceYear": 102,
+      "sourceLabel": "102 年第 19 題",
+      "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-3332",
+      "paperTitle": "未標示試卷",
+      "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+      "questionNumber": 19,
+      "questionType": "multiple-choice",
+      "prompt": "琴酒有雞尾酒心臟之稱，下列飲料中，何者不是以琴酒為基酒之雞尾酒？",
+      "options": [
+        {
+          "id": "A",
+          "text": "吉普森（Gibson）、馬丁尼（Martini）"
+        },
+        {
+          "id": "B",
+          "text": "粉紅佳人（Pinky Lady）、藍鳥（Blue Bird）"
+        },
+        {
+          "id": "C",
+          "text": "教母（God Mother）、教父（God Father）"
+        },
+        {
+          "id": "D",
+          "text": "冰涼甜心（Cool Sweet Heart）、自由古巴（Cuba Libre）。"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、martini"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "琴酒有雞尾酒心臟之稱，下列飲料中，何者不是以琴酒為基酒之雞尾酒？ 吉普森（Gibson）、馬丁尼（Martini） 粉紅佳人（Pinky Lady）、藍鳥（Blue Bird） 教母（God Mother）、教父（God Father） 冰涼甜心（Cool Sweet Heart）、自由古巴（Cuba Libre）。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 420
+    },
+    {
+      "id": "teacher-exam-106-07-q012-79d4acb29a",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 12 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-1965",
+      "paperTitle": "未標示試卷",
+      "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+      "questionNumber": 12,
+      "questionType": "single-choice",
+      "prompt": "有關雞尾酒與裝飾物的配對，下列何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gibson - Stuffed Olive"
+        },
+        {
+          "id": "B",
+          "text": "Blue Bird - Lemon Peel"
+        },
+        {
+          "id": "C",
+          "text": "Gin Fizz - Lemon Slice"
+        },
+        {
+          "id": "D",
+          "text": "Dry Martini - Onion。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、martini"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "有關雞尾酒與裝飾物的配對，下列何者正確？ Gibson - Stuffed Olive Blue Bird - Lemon Peel Gin Fizz - Lemon Slice Dry Martini - Onion。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1089
+    },
+    {
+      "id": "teacher-exam-97-16-q016-e5aee53767",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 16 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-1637",
+      "paperTitle": "未標示試卷",
+      "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "瑪格利特（Margarita）雞尾酒是用下列何種方式調製？",
+      "options": [
+        {
+          "id": "A",
+          "text": "直接注入法"
+        },
+        {
+          "id": "B",
+          "text": "搖盪法"
+        },
+        {
+          "id": "C",
+          "text": "電動攪拌法"
+        },
+        {
+          "id": "D",
+          "text": "攪拌法。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "瑪格利特（Margarita）雞尾酒是用下列何種方式調製？ 直接注入法 搖盪法 電動攪拌法 攪拌法。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2284
+    },
+    {
+      "id": "teacher-exam-98-17-q011-bcb2dcfb09",
+      "sourceYear": 98,
+      "sourceLabel": "98 年第 11 題",
+      "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-1650",
+      "paperTitle": "未標示試卷",
+      "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+      "questionNumber": 11,
+      "questionType": "single-choice",
+      "prompt": "下列雞尾酒中，那二種是以 Gin 為基酒？甲、Screw Driver 乙、Bloody Mary 丙、Singapore Sling 丁、Pink Lady",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲、丙"
+        },
+        {
+          "id": "B",
+          "text": "乙、丁"
+        },
+        {
+          "id": "C",
+          "text": "丙、丁"
+        },
+        {
+          "id": "D",
+          "text": "甲、丁。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：雞尾酒、singapore sling"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列雞尾酒中，那二種是以 Gin 為基酒？甲、Screw Driver 乙、Bloody Mary 丙、Singapore Sling 丁、Pink Lady 甲、丙 乙、丁 丙、丁 甲、丁。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2669
+    },
+    {
+      "id": "teacher-exam-111-12-q025-cbdba1a35a",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 25 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-3927",
+      "paperTitle": "未標示試卷",
+      "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+      "questionNumber": 25,
+      "questionType": "single-choice",
+      "prompt": "下列哪一道菜餚上桌同時或菜餚上桌前不需要擺上糖盅？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Banana"
+        },
+        {
+          "id": "B",
+          "text": "Florida Cocktail"
+        },
+        {
+          "id": "C",
+          "text": "Melon"
+        },
+        {
+          "id": "D",
+          "text": "Fruit Salad"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列哪一道菜餚上桌同時或菜餚上桌前不需要擺上糖盅？ Banana Florida Cocktail Melon Fruit Salad 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1712
+    },
+    {
+      "id": "teacher-exam-112-13-q031-b1905f2e4a",
+      "sourceYear": 112,
+      "sourceLabel": "112 年第 31 題",
+      "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+      "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-6386",
+      "paperTitle": "未標示試卷",
+      "schoolName": "第一部分：教育部受託辦理 112 學年度公立高級中等學校教師甄選",
+      "questionNumber": 31,
+      "questionType": "multiple-choice",
+      "prompt": "請問在正式的西餐服勤中，下列哪些菜餚，Finger Bowl會隨餐附上？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Escargot in Shell"
+        },
+        {
+          "id": "B",
+          "text": "Shrimps Cocktail"
+        },
+        {
+          "id": "C",
+          "text": "Artichokes"
+        },
+        {
+          "id": "D",
+          "text": "Cantaloupe。"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：cocktail"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "請問在正式的西餐服勤中，下列哪些菜餚，Finger Bowl會隨餐附上？ Escargot in Shell Shrimps Cocktail Artichokes Cantaloupe。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1933
+    },
+    {
+      "id": "teacher-exam-111-12-q038-d7b47f7867",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 38 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-29665",
+      "paperTitle": "未標示試卷",
+      "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+      "questionNumber": 38,
+      "questionType": "single-choice",
+      "prompt": "As one operator put it all you really need to open up a sandwich shop is",
+      "options": [
+        {
+          "id": "A",
+          "text": "a corkscrew, a sink, and a cutting board"
+        },
+        {
+          "id": "B",
+          "text": "a small refrigerator, a cutting board, and a cigar box to put the money in"
+        },
+        {
+          "id": "C",
+          "text": "a refrigerator, a microwave oven, and a sharp knife"
+        },
+        {
+          "id": "D",
+          "text": "the bread, meat, and cheese"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：corkscrew"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "As one operator put it all you really need to open up a sandwich shop is a corkscrew, a sink, and a cutting board a small refrigerator, a cutting board, and a cigar box to put the money in a refrigerator, a microwave oven, and a sharp knife the bread, meat, and cheese 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 1884
+    },
+    {
+      "id": "teacher-exam-97-16-q070-3ea62e8288",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 70 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-14614",
+      "paperTitle": "未標示試卷",
+      "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+      "questionNumber": 70,
+      "questionType": "single-choice",
+      "prompt": "下列飲料容積單位之容量順序（大>小）的排列，何者正確？甲：1 Jigger；乙：1 Dash；丙：1 Tablespoon",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲>乙>丙"
+        },
+        {
+          "id": "B",
+          "text": "甲>丙>乙"
+        },
+        {
+          "id": "C",
+          "text": "乙>丙>甲"
+        },
+        {
+          "id": "D",
+          "text": "丙>甲>乙"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "雞尾酒與吧檯",
+      "conceptId": "cocktails-and-bar",
+      "conceptLabel": "雞尾酒、吧檯器具與調製",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "chwa-beverage-practice",
+          "note": "命中關鍵詞：jigger"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列飲料容積單位之容量順序（大>小）的排列，何者正確？甲：1 Jigger；乙：1 Dash；丙：1 Tablespoon 甲>乙>丙 甲>丙>乙 乙>丙>甲 丙>甲>乙 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+      "sequence": 2440
+    }
+  ]
+}

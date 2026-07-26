@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q029-dcaf5f7fdc",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 29 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-6922",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "開葡萄酒時會使用下列何者將瓶口的封籤割除？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Foil Cutter"
+      },
+      {
+        "id": "B",
+        "text": "Butterfly Corkscrew"
+      },
+      {
+        "id": "C",
+        "text": "Ah-So"
+      },
+      {
+        "id": "D",
+        "text": "T-shaped。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "開葡萄酒時會使用下列何者將瓶口的封籤割除？ Foil Cutter Butterfly Corkscrew Ah-So T-shaped。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 221
+  }
+}

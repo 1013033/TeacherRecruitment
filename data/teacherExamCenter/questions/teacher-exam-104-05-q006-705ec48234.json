@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q006-705ec48234",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 6 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-16213",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "西餐餐桌擺設的相關敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐具擺放由外而內，特殊餐具隨菜餚再調整"
+      },
+      {
+        "id": "B",
+        "text": "咖啡杯預熱後，先擺放在客人之右側"
+      },
+      {
+        "id": "C",
+        "text": "客用口布如飛鳥、花蝴蝶皆為盤花型態"
+      },
+      {
+        "id": "D",
+        "text": "單點法式馬賽海鮮湯，其左側為魚叉，附洗指盅。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西餐餐桌擺設的相關敘述，何者正確？ 餐具擺放由外而內，特殊餐具隨菜餚再調整 咖啡杯預熱後，先擺放在客人之右側 客用口布如飛鳥、花蝴蝶皆為盤花型態 單點法式馬賽海鮮湯，其左側為魚叉，附洗指盅。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 711
+  }
+}

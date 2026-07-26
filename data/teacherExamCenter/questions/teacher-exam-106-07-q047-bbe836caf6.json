@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q047-bbe836caf6",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 47 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-20700",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "一般而言，廚房最理想的溫度濕度是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "10°C 以上，15°C 以下；相對溼度 50-60%"
+      },
+      {
+        "id": "B",
+        "text": "20-25°C；相對溼度 50-60%"
+      },
+      {
+        "id": "C",
+        "text": "10°C 以上，15°C 以下；相對溼度 61-70%"
+      },
+      {
+        "id": "D",
+        "text": "20-25°C；相對溼度 61-70%"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "一般而言，廚房最理想的溫度濕度是： 10°C 以上，15°C 以下；相對溼度 50-60% 20-25°C；相對溼度 50-60% 10°C 以上，15°C 以下；相對溼度 61-70% 20-25°C；相對溼度 61-70% 其他：待人工審核 待人工審核",
+    "sequence": 1226
+  }
+}

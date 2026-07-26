@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q008-20727d8dd5",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 8 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-22177",
+    "paperTitle": "一、選擇題 10%",
+    "schoolName": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "Grouper 指的是何種魚種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "鰻魚"
+      },
+      {
+        "id": "B",
+        "text": "鯧魚"
+      },
+      {
+        "id": "C",
+        "text": "鯷魚"
+      },
+      {
+        "id": "D",
+        "text": "石斑。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Grouper 指的是何種魚種？ 鰻魚 鯧魚 鯷魚 石斑。 其他：待人工審核 待人工審核",
+    "sequence": 767
+  }
+}

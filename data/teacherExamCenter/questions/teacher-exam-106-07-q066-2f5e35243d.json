@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q066-2f5e35243d",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 66 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-22583",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 66,
+    "questionType": "single-choice",
+    "prompt": "下列何者非屬於法國 Bordeaux 的葡萄酒主要產區之一？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medoc"
+      },
+      {
+        "id": "B",
+        "text": "Chablis"
+      },
+      {
+        "id": "C",
+        "text": "Sauternes"
+      },
+      {
+        "id": "D",
+        "text": "Pomerol。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者非屬於法國 Bordeaux 的葡萄酒主要產區之一？ Medoc Chablis Sauternes Pomerol。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1245
+  }
+}

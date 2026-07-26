@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q006-c8b096bf98",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 6 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-5271",
+    "paperTitle": "一、單選題（80%）",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "有一家庭父母及高二的女兒、國二的兒子共四名成員一起參加旅行團，領隊給予房間安排的最佳選擇，是什麼型態的房間？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 Two double bed room"
+      },
+      {
+        "id": "B",
+        "text": "2 Adjoining room"
+      },
+      {
+        "id": "C",
+        "text": "2 Connecting room"
+      },
+      {
+        "id": "D",
+        "text": "1 TWB with extra bed & 1 SWB。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room、connecting room、adjoining"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有一家庭父母及高二的女兒、國二的兒子共四名成員一起參加旅行團，領隊給予房間安排的最佳選擇，是什麼型態的房間？ 1 Two double bed room 2 Adjoining room 2 Connecting room 1 TWB with extra bed & 1 SWB。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2824
+  }
+}

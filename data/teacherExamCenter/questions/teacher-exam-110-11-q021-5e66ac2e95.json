@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q021-5e66ac2e95",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 21 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-2915",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "我國觀光餐旅產業發展先後順序，下列何者正確？ 甲、實施隔週休二日 乙、成立「中華民國品質保障協會」TQAA 丙、日本創立羅多倫咖啡館（Doutor Coffee Shop）引進臺灣 丁、陸續開放陸客來台自由行 戊、香格里拉台南遠東國際大飯店開幕",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲丙戊丁乙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙甲戊丁"
+      },
+      {
+        "id": "C",
+        "text": "丙丁乙甲戊"
+      },
+      {
+        "id": "D",
+        "text": "戊乙甲丁丙。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "我國觀光餐旅產業發展先後順序，下列何者正確？ 甲、實施隔週休二日 乙、成立「中華民國品質保障協會」TQAA 丙、日本創立羅多倫咖啡館（Doutor Coffee Shop）引進臺灣 丁、陸續開放陸客來台自由行 戊、香格里拉台南遠東國際大飯店開幕 甲丙戊丁乙 乙丙甲戊丁 丙丁乙甲戊 戊乙甲丁丙。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1661
+  }
+}

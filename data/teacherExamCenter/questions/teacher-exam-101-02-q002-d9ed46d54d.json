@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q002-d9ed46d54d",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 2 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-11486",
+    "paperTitle": "一、選擇題，共10題，每題2分，共20分",
+    "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "嘉家旅館於民國 100 年 1 月 1 日共售出 300 間客房，住房率為 60%，而 1 月 2 日中午 12 時前有 25 間客房辦理 Check-out，在 1 月 2 日營業終了前有 50 間客房辦理 Check-in，則 1 月 2 日的住房率應為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "17%"
+      },
+      {
+        "id": "B",
+        "text": "25%"
+      },
+      {
+        "id": "C",
+        "text": "57%"
+      },
+      {
+        "id": "D",
+        "text": "68%。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "嘉家旅館於民國 100 年 1 月 1 日共售出 300 間客房，住房率為 60%，而 1 月 2 日中午 12 時前有 25 間客房辦理 Check-out，在 1 月 2 日營業終了前有 50 間客房辦理 Check-in，則 1 月 2 日的住房率應為： 17% 25% 57% 68%。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 279
+  }
+}

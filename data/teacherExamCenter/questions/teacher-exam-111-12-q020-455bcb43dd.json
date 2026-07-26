@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q020-455bcb43dd",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 20 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-3224",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "小張想要利用今年暑假帶家人完成一山一海的國家公園深度之旅，請旅行社專員幫忙規劃行程含有布農族八部合音參訪及玄武岩地質海洋生態觀光，以下哪個行程較適合？",
+    "options": [
+      {
+        "id": "A",
+        "text": "雪霸與金門國家公園"
+      },
+      {
+        "id": "B",
+        "text": "陽明山與墾丁國家公園"
+      },
+      {
+        "id": "C",
+        "text": "太魯閣與台江國家公園"
+      },
+      {
+        "id": "D",
+        "text": "玉山與澎湖國家公園"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "小張想要利用今年暑假帶家人完成一山一海的國家公園深度之旅，請旅行社專員幫忙規劃行程含有布農族八部合音參訪及玄武岩地質海洋生態觀光，以下哪個行程較適合？ 雪霸與金門國家公園 陽明山與墾丁國家公園 太魯閣與台江國家公園 玉山與澎湖國家公園 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1707
+  }
+}

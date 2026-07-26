@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q012-f1e70e3042",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 12 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-11596",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "旅館餐廳採購的基本作業流程，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Purchasing → Storage → Issuing → Receiving → Production"
+      },
+      {
+        "id": "B",
+        "text": "Receiving → Issuing → Purchasing → Storage → Production"
+      },
+      {
+        "id": "C",
+        "text": "Purchasing → Receiving → Storage → Issuing → Production"
+      },
+      {
+        "id": "D",
+        "text": "Purchasing → Issuing → Receiving → Storage → Production。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅館餐廳採購的基本作業流程，下列何者正確？ Purchasing → Storage → Issuing → Receiving → Production Receiving → Issuing → Purchasing → Storage → Production Purchasing → Receiving → Storage → Issuing → Production Purchasing → Issuing → Receiving → Storage → Production。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 474
+  }
+}

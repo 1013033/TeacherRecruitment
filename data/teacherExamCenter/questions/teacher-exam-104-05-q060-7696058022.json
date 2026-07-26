@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q060-7696058022",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 60 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-11873",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 60,
+    "questionType": "single-choice",
+    "prompt": "關於簽證相關規定，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "OK Boarding 即是過境免簽證"
+      },
+      {
+        "id": "B",
+        "text": "我國給外來遊客的觀光簽證稱為停留簽證"
+      },
+      {
+        "id": "C",
+        "text": "美國 B2簽證是核發給觀光訪客"
+      },
+      {
+        "id": "D",
+        "text": "Schengen Visa 可前往歐洲36個國家。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：簽證、visa"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於簽證相關規定，下列何者有誤？ OK Boarding 即是過境免簽證 我國給外來遊客的觀光簽證稱為停留簽證 美國 B2簽證是核發給觀光訪客 Schengen Visa 可前往歐洲36個國家。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 665
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q007-42bd69922d",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 7 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-1164",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "依據中華民國旅行業品質保障協會調處旅遊糾紛案由分類統計表，111 年 1 月至 3 月統計中，那一類旅遊糾紛佔最高協調比例？",
+    "options": [
+      {
+        "id": "A",
+        "text": "行程有瑕疵"
+      },
+      {
+        "id": "B",
+        "text": "導遊領隊及服務品質"
+      },
+      {
+        "id": "C",
+        "text": "飯店變更"
+      },
+      {
+        "id": "D",
+        "text": "行前解約"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據中華民國旅行業品質保障協會調處旅遊糾紛案由分類統計表，111 年 1 月至 3 月統計中，那一類旅遊糾紛佔最高協調比例？ 行程有瑕疵 導遊領隊及服務品質 飯店變更 行前解約 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1694
+  }
+}

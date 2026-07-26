@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q016-2d1c4172f2",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 16 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-19263",
+    "paperTitle": "一、選擇題（1 題 1 分，共 20 分）",
+    "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "牛肉熟度如為 Medium Rare，則表示其熟度為",
+    "options": [
+      {
+        "id": "A",
+        "text": "三分"
+      },
+      {
+        "id": "B",
+        "text": "五分"
+      },
+      {
+        "id": "C",
+        "text": "六分"
+      },
+      {
+        "id": "D",
+        "text": "七分。"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "牛肉熟度如為 Medium Rare，則表示其熟度為 三分 五分 六分 七分。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 156
+  }
+}

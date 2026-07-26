@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q006-a7ad05f7bb",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 6 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-12716",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "威士忌酒齡的計算方式是指：",
+    "options": [
+      {
+        "id": "A",
+        "text": "貯放於橡木桶的時間"
+      },
+      {
+        "id": "B",
+        "text": "貯存橡木桶的時間加上裝瓶的時間"
+      },
+      {
+        "id": "C",
+        "text": "裝瓶後的時間"
+      },
+      {
+        "id": "D",
+        "text": "貯放於橡木桶前的時間。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "威士忌酒齡的計算方式是指： 貯放於橡木桶的時間 貯存橡木桶的時間加上裝瓶的時間 裝瓶後的時間 貯放於橡木桶前的時間。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 103
+  }
+}

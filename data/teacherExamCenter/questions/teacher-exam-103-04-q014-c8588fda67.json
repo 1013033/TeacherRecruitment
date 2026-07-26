@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q014-c8588fda67",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 14 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-4520",
+    "paperTitle": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何者是正式西餐廳內使用的高腳水杯的英文名稱？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Collins"
+      },
+      {
+        "id": "B",
+        "text": "Snifter"
+      },
+      {
+        "id": "C",
+        "text": "Goblet"
+      },
+      {
+        "id": "D",
+        "text": "Tumbler。 (1/4)"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：goblet"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者是正式西餐廳內使用的高腳水杯的英文名稱？ Collins Snifter Goblet Tumbler。 (1/4) 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 541
+  }
+}

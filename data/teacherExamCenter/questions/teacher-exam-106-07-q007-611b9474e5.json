@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q007-611b9474e5",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 7 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-9957",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列茶葉，請依發酵程度的高低順序排列：(甲)鐵觀音；(乙)凍頂烏龍茶；(丙)白毫烏龍茶。",
+    "options": [
+      {
+        "id": "A",
+        "text": "丙、甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "乙、甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "丙、乙、甲"
+      },
+      {
+        "id": "D",
+        "text": "甲、丙、乙。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列茶葉，請依發酵程度的高低順序排列：(甲)鐵觀音；(乙)凍頂烏龍茶；(丙)白毫烏龍茶。 丙、甲、乙 乙、甲、丙 丙、乙、甲 甲、丙、乙。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1135
+  }
+}

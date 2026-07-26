@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q005-dad8181857",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 5 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-707",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "以下何者為正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Abacus 航空訂位系統以 PRINT 為代號，表示訂位之主要內容，其中 \"T\" 代表班機號碼"
+      },
+      {
+        "id": "B",
+        "text": "溫哥華、日內瓦、雅典、吉隆坡之城市代號為 YVR、GVA、ATH、KUL"
+      },
+      {
+        "id": "C",
+        "text": "第四航權是指甲國國籍的航空公司，有權在乙國載客飛往丙國，祇要該飛行的起點或終點為甲國"
+      },
+      {
+        "id": "D",
+        "text": "TWOV 又稱為過境簽證"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、簽證、abacus"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下何者為正確的？ Abacus 航空訂位系統以 PRINT 為代號，表示訂位之主要內容，其中 \"T\" 代表班機號碼 溫哥華、日內瓦、雅典、吉隆坡之城市代號為 YVR、GVA、ATH、KUL 第四航權是指甲國國籍的航空公司，有權在乙國載客飛往丙國，祇要該飛行的起點或終點為甲國 TWOV 又稱為過境簽證 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2791
+  }
+}

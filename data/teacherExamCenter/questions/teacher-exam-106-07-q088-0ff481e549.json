@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q088-0ff481e549",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 88 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24738",
+    "paperTitle": "二、複選題（全對才給分 15%）",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 88,
+    "questionType": "multiple-choice",
+    "prompt": "台灣是世界唯一產地的茶葉有哪些？",
+    "options": [
+      {
+        "id": "A",
+        "text": "白毫烏龍茶"
+      },
+      {
+        "id": "B",
+        "text": "紅玉"
+      },
+      {
+        "id": "C",
+        "text": "龍井茶"
+      },
+      {
+        "id": "D",
+        "text": "凍頂烏龍"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "台灣是世界唯一產地的茶葉有哪些？ 白毫烏龍茶 紅玉 龍井茶 凍頂烏龍 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1267
+  }
+}

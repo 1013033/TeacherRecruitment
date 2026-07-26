@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q027-66164a7e05",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 27 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-25934",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種 Champagne 其每公升含糖量超過50公克，適合初飲者",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doux"
+      },
+      {
+        "id": "B",
+        "text": "Brut"
+      },
+      {
+        "id": "C",
+        "text": "Demi-Sec"
+      },
+      {
+        "id": "D",
+        "text": "Sec."
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一種 Champagne 其每公升含糖量超過50公克，適合初飲者 Doux Brut Demi-Sec Sec. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 799
+  }
+}

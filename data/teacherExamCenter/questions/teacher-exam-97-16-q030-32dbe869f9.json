@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q030-32dbe869f9",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 30 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-27010",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "請選出下列何項為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brasserie 為餐館"
+      },
+      {
+        "id": "B",
+        "text": "Sommelier 為調酒員"
+      },
+      {
+        "id": "C",
+        "text": "Aperitif 為開胃菜"
+      },
+      {
+        "id": "D",
+        "text": "Consomme 為濃湯。（解析：濃湯，Potage；開胃菜，Appetizer；調酒員，Bartender。）"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請選出下列何項為正確？ Brasserie 為餐館 Sommelier 為調酒員 Aperitif 為開胃菜 Consomme 為濃湯。（解析：濃湯，Potage；開胃菜，Appetizer；調酒員，Bartender。） 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2552
+  }
+}

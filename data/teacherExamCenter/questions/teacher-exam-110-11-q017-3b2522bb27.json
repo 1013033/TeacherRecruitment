@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q017-3b2522bb27",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 17 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-2437",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列有關咖啡品種的風味，敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "摩卡咖啡：苦強、酸弱"
+      },
+      {
+        "id": "B",
+        "text": "藍山咖啡：苦弱、酸強"
+      },
+      {
+        "id": "C",
+        "text": "曼特寧咖啡：苦強、無酸"
+      },
+      {
+        "id": "D",
+        "text": "哥倫比亞咖啡：無苦、酸強。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關咖啡品種的風味，敘述何者正確？ 摩卡咖啡：苦強、酸弱 藍山咖啡：苦弱、酸強 曼特寧咖啡：苦強、無酸 哥倫比亞咖啡：無苦、酸強。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1657
+  }
+}

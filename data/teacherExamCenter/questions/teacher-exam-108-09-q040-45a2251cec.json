@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q040-45a2251cec",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 40 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8664",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "下列關於臺灣所產知名茶葉的描述,何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "南投縣鹿谷鄉,生產知名的凍頂烏龍茶"
+      },
+      {
+        "id": "B",
+        "text": "嘉義縣阿里山區,生產知名的包種茶"
+      },
+      {
+        "id": "C",
+        "text": "南投縣魚池鄉,生產知名的紅茶"
+      },
+      {
+        "id": "D",
+        "text": "新北市三峽區,生產知名的龍井茶。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於臺灣所產知名茶葉的描述,何者錯誤？ 南投縣鹿谷鄉,生產知名的凍頂烏龍茶 嘉義縣阿里山區,生產知名的包種茶 南投縣魚池鄉,生產知名的紅茶 新北市三峽區,生產知名的龍井茶。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1469
+  }
+}

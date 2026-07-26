@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q003-8d1e4c230f",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 3 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-26741",
+    "paperTitle": "一、單選題（每題 1 分，共 20 分）",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "關於法國著名的兩大白蘭地產地：干邑白蘭地（Cognac）與雅邑白蘭地（Armagnac）的敘述，請選出何者為正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cognac 採一次蒸餾，Armagnac 採二次蒸餾。"
+      },
+      {
+        "id": "B",
+        "text": "二者皆為品質優異的白蘭地，卻有不同的特性。"
+      },
+      {
+        "id": "C",
+        "text": "Armagnac 採高溫蒸餾，有更濃郁的香味及芬芳。"
+      },
+      {
+        "id": "D",
+        "text": "干邑區位於法國西南部，雅邑區位於法國東部。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：干邑、白蘭地、cognac"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於法國著名的兩大白蘭地產地：干邑白蘭地（Cognac）與雅邑白蘭地（Armagnac）的敘述，請選出何者為正確的？ Cognac 採一次蒸餾，Armagnac 採二次蒸餾。 二者皆為品質優異的白蘭地，卻有不同的特性。 Armagnac 採高溫蒸餾，有更濃郁的香味及芬芳。 干邑區位於法國西南部，雅邑區位於法國東部。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1282
+  }
+}

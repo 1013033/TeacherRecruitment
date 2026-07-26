@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q046-bd640c467b",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 46 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-7771",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "廚房生產與作業管理的最高階管理者是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐廳經理"
+      },
+      {
+        "id": "B",
+        "text": "餐廳主任"
+      },
+      {
+        "id": "C",
+        "text": "行政主廚"
+      },
+      {
+        "id": "D",
+        "text": "主廚。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "廚房生產與作業管理的最高階管理者是？ 餐廳經理 餐廳主任 行政主廚 主廚。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 573
+  }
+}

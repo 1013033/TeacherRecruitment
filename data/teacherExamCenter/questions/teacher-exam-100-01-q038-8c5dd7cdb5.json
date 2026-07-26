@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q038-8c5dd7cdb5",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 38 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-16762",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "有關葡萄紅酒最合宜的品嚐溫度是室溫，請問法國一般室溫是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "10℃～12℃ 之間"
+      },
+      {
+        "id": "B",
+        "text": "15℃～18℃ 之間"
+      },
+      {
+        "id": "C",
+        "text": "7℃～10℃ 之間"
+      },
+      {
+        "id": "D",
+        "text": "25℃～28℃ 之間。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：紅酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關葡萄紅酒最合宜的品嚐溫度是室溫，請問法國一般室溫是？ 10℃～12℃ 之間 15℃～18℃ 之間 7℃～10℃ 之間 25℃～28℃ 之間。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 135
+  }
+}

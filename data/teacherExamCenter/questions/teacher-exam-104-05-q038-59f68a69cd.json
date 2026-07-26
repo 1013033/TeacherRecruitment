@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q038-59f68a69cd",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 38 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-26832",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "關於丙級檢定熱桔茶的敘述，下列何種是錯誤的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "先將紅茶包以熱水沖泡"
+      },
+      {
+        "id": "B",
+        "text": "柳橙汁加熱後沖泡茶包"
+      },
+      {
+        "id": "C",
+        "text": "應加入新鮮檸檬汁與金桔汁"
+      },
+      {
+        "id": "D",
+        "text": "蜂蜜應另附。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於丙級檢定熱桔茶的敘述，下列何種是錯誤的？ 先將紅茶包以熱水沖泡 柳橙汁加熱後沖泡茶包 應加入新鮮檸檬汁與金桔汁 蜂蜜應另附。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 810
+  }
+}

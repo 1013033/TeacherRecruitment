@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q009-2d79057f17",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 9 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-7479",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列哪種咖啡品種是目前市場上最常見",
+    "options": [
+      {
+        "id": "A",
+        "text": "Robusta"
+      },
+      {
+        "id": "B",
+        "text": "Arabica"
+      },
+      {
+        "id": "C",
+        "text": "Java"
+      },
+      {
+        "id": "D",
+        "text": "Liberica。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪種咖啡品種是目前市場上最常見 Robusta Arabica Java Liberica。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1007
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q012-9651cbcc9f",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 12 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-12236",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "打狗大飯店總客房數是500間，空房是150間（含 O.O.O. 房），G.I.T. 的住房數與房客分別是168間與243人，客房收入為 $1,200,500 元，住客總人數為615人，請問住房率及平均房價分為是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "30%、2401元"
+      },
+      {
+        "id": "B",
+        "text": "70%、3430元"
+      },
+      {
+        "id": "C",
+        "text": "49%、3775元"
+      },
+      {
+        "id": "D",
+        "text": "34%、1952元"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "打狗大飯店總客房數是500間，空房是150間（含 O.O.O. 房），G.I.T. 的住房數與房客分別是168間與243人，客房收入為 $1,200,500 元，住客總人數為615人，請問住房率及平均房價分為是？ 30%、2401元 70%、3430元 49%、3775元 34%、1952元 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1614
+  }
+}

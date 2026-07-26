@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q073-3f4b22b87e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 73 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-13215",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 73,
+    "questionType": "single-choice",
+    "prompt": "下列有關咖啡的描述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "研磨度的粗細是依咖啡的特性而定"
+      },
+      {
+        "id": "B",
+        "text": "烘焙程度越輕，酸味越強"
+      },
+      {
+        "id": "C",
+        "text": "密封的咖啡袋如有膨脹的情形，表示咖啡豆已經壞掉"
+      },
+      {
+        "id": "D",
+        "text": "強香強酸是曼特寧咖啡的特性。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關咖啡的描述，何者正確？ 研磨度的粗細是依咖啡的特性而定 烘焙程度越輕，酸味越強 密封的咖啡袋如有膨脹的情形，表示咖啡豆已經壞掉 強香強酸是曼特寧咖啡的特性。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 678
+  }
+}

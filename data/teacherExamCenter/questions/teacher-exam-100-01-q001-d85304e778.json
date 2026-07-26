@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q001-d85304e778",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 1 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-9067",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "所謂「EBS」之簡稱，係指下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "商務中心"
+      },
+      {
+        "id": "B",
+        "text": "旅館櫃檯"
+      },
+      {
+        "id": "C",
+        "text": "服務中心"
+      },
+      {
+        "id": "D",
+        "text": "房務部。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、房務、櫃檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "所謂「EBS」之簡稱，係指下列何者？ 商務中心 旅館櫃檯 服務中心 房務部。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 67
+  }
+}

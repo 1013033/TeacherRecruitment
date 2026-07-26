@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q007-512ee34e71",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 7 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-10572",
+    "paperTitle": "第一部份:選擇題(共計30分)",
+    "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "請問以波本威士忌浸泡桃子所製成的香甜酒,為下列何種酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Galliano"
+      },
+      {
+        "id": "B",
+        "text": "Kummel"
+      },
+      {
+        "id": "C",
+        "text": "Southern Comfort"
+      },
+      {
+        "id": "D",
+        "text": "Drambuie"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問以波本威士忌浸泡桃子所製成的香甜酒,為下列何種酒？ Galliano Kummel Southern Comfort Drambuie 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1498
+  }
+}

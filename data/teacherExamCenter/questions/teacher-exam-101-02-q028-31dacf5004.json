@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q028-31dacf5004",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 28 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-22782",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "對於中國各菜系的說明，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "粵菜：取材奇特，並喜用醬料"
+      },
+      {
+        "id": "B",
+        "text": "閩菜：喜用「糟」，食材以海鮮為主"
+      },
+      {
+        "id": "C",
+        "text": "川菜：盛行吃生辣椒，烹調特色為燻、燒臘"
+      },
+      {
+        "id": "D",
+        "text": "臺菜：強調淡雅、清鮮、重酸甜，重視食補。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "對於中國各菜系的說明，下列何者有誤？ 粵菜：取材奇特，並喜用醬料 閩菜：喜用「糟」，食材以海鮮為主 川菜：盛行吃生辣椒，烹調特色為燻、燒臘 臺菜：強調淡雅、清鮮、重酸甜，重視食補。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 382
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q015-8f17314037",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 15 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-17073",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "請由高到低排出下列乳酪的乳脂肪含量： 1. 切達乳酪 2. 馬士卡邦乳酪 3. 馬札瑞拉乳酪 4. 帕瑪森乳酪",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 > 2 > 1 > 4"
+      },
+      {
+        "id": "B",
+        "text": "2 > 3 > 1 > 4"
+      },
+      {
+        "id": "C",
+        "text": "3 > 1 > 2 > 4"
+      },
+      {
+        "id": "D",
+        "text": "2 > 3 > 4 > 1。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請由高到低排出下列乳酪的乳脂肪含量： 1. 切達乳酪 2. 馬士卡邦乳酪 3. 馬札瑞拉乳酪 4. 帕瑪森乳酪 3 > 2 > 1 > 4 2 > 3 > 1 > 4 3 > 1 > 2 > 4 2 > 3 > 4 > 1。 其他：待人工審核 待人工審核",
+    "sequence": 720
+  }
+}

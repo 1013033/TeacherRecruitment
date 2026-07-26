@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q069-6b23209829",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 69 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-22863",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 69,
+    "questionType": "single-choice",
+    "prompt": "茶湯放久了顏色會變紅，是因為茶葉中何種成分氧化的結果？",
+    "options": [
+      {
+        "id": "A",
+        "text": "單寧酸"
+      },
+      {
+        "id": "B",
+        "text": "咖啡因"
+      },
+      {
+        "id": "C",
+        "text": "胺基酸"
+      },
+      {
+        "id": "D",
+        "text": "糖分。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "茶湯放久了顏色會變紅，是因為茶葉中何種成分氧化的結果？ 單寧酸 咖啡因 胺基酸 糖分。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1248
+  }
+}

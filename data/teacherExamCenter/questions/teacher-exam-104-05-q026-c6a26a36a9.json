@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q026-c6a26a36a9",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 26 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-7826",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "關於西式餐桌擺設，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "salad fork 擺在 dinner fork 的右側"
+      },
+      {
+        "id": "B",
+        "text": "salad knife 是擺設在 dinner knife 右側"
+      },
+      {
+        "id": "C",
+        "text": "salad fork 與 dinner fork 的刀刃須朝右側"
+      },
+      {
+        "id": "D",
+        "text": "water glass 擺設在 salad fork 與 dinner fork 的上方。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於西式餐桌擺設，下列何者正確？ salad fork 擺在 dinner fork 的右側 salad knife 是擺設在 dinner knife 右側 salad fork 與 dinner fork 的刀刃須朝右側 water glass 擺設在 salad fork 與 dinner fork 的上方。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 631
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q032-4cb7d334be",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 32 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-4620",
+    "paperTitle": "二、複選題（每題1分，共10分，全對才給分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 32,
+    "questionType": "multiple-choice",
+    "prompt": "關於「Cruise ship」的敘述下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "全球的 Cruise ship 市場，以美國佔最大比例"
+      },
+      {
+        "id": "B",
+        "text": "是一種提供 bundled 的渡假方式"
+      },
+      {
+        "id": "C",
+        "text": "Travel agent 是 Cruise ship 最大的業務來源"
+      },
+      {
+        "id": "D",
+        "text": "通常 Cruise ship 會安排某些航段供客人賭博。 (註：原題選項排版 CD 跨行，整體對應選項為 A、B、C、D)"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於「Cruise ship」的敘述下列何者正確？ 全球的 Cruise ship 市場，以美國佔最大比例 是一種提供 bundled 的渡假方式 Travel agent 是 Cruise ship 最大的業務來源 通常 Cruise ship 會安排某些航段供客人賭博。 (註：原題選項排版 CD 跨行，整體對應選項為 A、B、C、D) 其他：待人工審核 待人工審核",
+    "sequence": 1343
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q001-37e1f41d64",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 1 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-183",
+    "paperTitle": "一、單選題（每題2分，共30分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "有關西餐常用的香料與辛香料敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Thyme 適用於海鮮、肉類"
+      },
+      {
+        "id": "B",
+        "text": "Cloves 味道濃烈，外形似短釘狀"
+      },
+      {
+        "id": "C",
+        "text": "Juniper Berries 為琴酒的原料，是傳統製作德式酸菜使用的香料之一"
+      },
+      {
+        "id": "D",
+        "text": "Tarragon 適合搭配番茄入菜，有披薩草之稱。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關西餐常用的香料與辛香料敘述，何者錯誤？ Thyme 適用於海鮮、肉類 Cloves 味道濃烈，外形似短釘狀 Juniper Berries 為琴酒的原料，是傳統製作德式酸菜使用的香料之一 Tarragon 適合搭配番茄入菜，有披薩草之稱。 其他：待人工審核 待人工審核",
+    "sequence": 1515
+  }
+}

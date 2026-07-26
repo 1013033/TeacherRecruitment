@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q022-4222038cd3",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 22 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-7307",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "餐飲服務的工作流程：甲、debriefing；乙、house work；丙、mise en place；丁、service；戊、tear down；己、turn over；庚、briefing。下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙→丁→戊→庚→己"
+      },
+      {
+        "id": "B",
+        "text": "乙→丁→甲→丙→己→庚→戊"
+      },
+      {
+        "id": "C",
+        "text": "丙→乙→庚→丁→戊→己→甲"
+      },
+      {
+        "id": "D",
+        "text": "乙→丙→庚→丁→甲→戊→己。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐飲服務的工作流程：甲、debriefing；乙、house work；丙、mise en place；丁、service；戊、tear down；己、turn over；庚、briefing。下列何者正確？ 甲→乙→丙→丁→戊→庚→己 乙→丁→甲→丙→己→庚→戊 丙→乙→庚→丁→戊→己→甲 乙→丙→庚→丁→甲→戊→己。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 627
+  }
+}

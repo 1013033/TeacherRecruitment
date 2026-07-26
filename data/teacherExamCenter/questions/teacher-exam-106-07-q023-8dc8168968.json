@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q023-8dc8168968",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 23 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-4435",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "日式料理一直是台灣非常重要的飲食文化之一，關於日式料理上的說明，哪一個解釋是正確的說法？",
+    "options": [
+      {
+        "id": "A",
+        "text": "吸物是指味道比較濃的湯類，主要是在吸湯的時候發出很大的聲音，例如：味噌湯"
+      },
+      {
+        "id": "B",
+        "text": "煮物是指用紅燒或燉煮的方式料理出來的鍋煮料理，例如：甘露煮香魚"
+      },
+      {
+        "id": "C",
+        "text": "揚物是指將食材沾上地瓜粉油炸，讓口感變的更酥脆，例如：綜合天婦羅"
+      },
+      {
+        "id": "D",
+        "text": "甘物是指用醋和糖所醃漬出來的魚貝類，例如：章魚酢物。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煮、炸、燉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "日式料理一直是台灣非常重要的飲食文化之一，關於日式料理上的說明，哪一個解釋是正確的說法？ 吸物是指味道比較濃的湯類，主要是在吸湯的時候發出很大的聲音，例如：味噌湯 煮物是指用紅燒或燉煮的方式料理出來的鍋煮料理，例如：甘露煮香魚 揚物是指將食材沾上地瓜粉油炸，讓口感變的更酥脆，例如：綜合天婦羅 甘物是指用醋和糖所醃漬出來的魚貝類，例如：章魚酢物。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1100
+  }
+}

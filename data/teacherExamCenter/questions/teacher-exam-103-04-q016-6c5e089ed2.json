@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q016-6c5e089ed2",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 16 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-2239",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個國家非屬申根公約國，但接受我國人適用以免申根簽證待遇入境？",
+    "options": [
+      {
+        "id": "A",
+        "text": "摩納哥"
+      },
+      {
+        "id": "B",
+        "text": "盧森堡"
+      },
+      {
+        "id": "C",
+        "text": "冰島"
+      },
+      {
+        "id": "D",
+        "text": "愛沙尼亞。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個國家非屬申根公約國，但接受我國人適用以免申根簽證待遇入境？ 摩納哥 盧森堡 冰島 愛沙尼亞。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 518
+  }
+}

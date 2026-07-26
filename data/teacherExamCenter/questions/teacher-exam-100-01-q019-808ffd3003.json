@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q019-808ffd3003",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 19 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-2622",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "台茶 18 號又稱紅玉"
+      },
+      {
+        "id": "B",
+        "text": "台茶 13 號又稱翠玉"
+      },
+      {
+        "id": "C",
+        "text": "台茶 12 號又稱金萱"
+      },
+      {
+        "id": "D",
+        "text": "台茶 8 號又稱四季春。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者為非？ 台茶 18 號又稱紅玉 台茶 13 號又稱翠玉 台茶 12 號又稱金萱 台茶 8 號又稱四季春。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 19
+  }
+}

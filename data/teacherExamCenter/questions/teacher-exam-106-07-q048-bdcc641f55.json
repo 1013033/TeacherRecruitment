@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q048-bdcc641f55",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 48 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-20886",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "就芥菜而言，何種敘述錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "鹹菜分為水鹹菜及乾鹹菜"
+      },
+      {
+        "id": "B",
+        "text": "關西為台灣的酸菜之鄉"
+      },
+      {
+        "id": "C",
+        "text": "葉用小芥菜為雪裡紅"
+      },
+      {
+        "id": "D",
+        "text": "用來製作梅乾菜。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "就芥菜而言，何種敘述錯誤？ 鹹菜分為水鹹菜及乾鹹菜 關西為台灣的酸菜之鄉 葉用小芥菜為雪裡紅 用來製作梅乾菜。 其他：待人工審核 待人工審核",
+    "sequence": 1227
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q013-157b19c7be",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 13 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-8182",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "臺灣茶樹品種與適製茶類，下列何者較不適宜紅茶的栽種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "臺茶8號"
+      },
+      {
+        "id": "B",
+        "text": "臺茶18號"
+      },
+      {
+        "id": "C",
+        "text": "臺茶21號"
+      },
+      {
+        "id": "D",
+        "text": "臺茶12號。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣茶樹品種與適製茶類，下列何者較不適宜紅茶的栽種？ 臺茶8號 臺茶18號 臺茶21號 臺茶12號。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1585
+  }
+}

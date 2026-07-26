@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q013-db85f5ec20",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 13 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-1715",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "由專業的外燴餐飲團隊將食物裝備與服務的過程，移到顧客所指定的場所進行饗宴，這次屬於下列哪一種餐飲服務？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Room Service"
+      },
+      {
+        "id": "B",
+        "text": "Catering Service"
+      },
+      {
+        "id": "C",
+        "text": "Buffet Service"
+      },
+      {
+        "id": "D",
+        "text": "Cafeteria Service。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、外燴、service、catering"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "由專業的外燴餐飲團隊將食物裝備與服務的過程，移到顧客所指定的場所進行饗宴，這次屬於下列哪一種餐飲服務？ Room Service Catering Service Buffet Service Cafeteria Service。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1527
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q039-f3f87a6075",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 39 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-19822",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "傳統法式餐廳外場組織編制： 甲、Chef de Rang 乙、Commis de Suite 丙、Premier Maître d'Hôtel 丁、Maître d'Hôtel de Carré 戊、Commis de Rang 己、Trancheur 請將上述職稱由大至小排列為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "丁丙甲戊乙"
+      },
+      {
+        "id": "B",
+        "text": "丙丁甲乙戊"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁戊乙"
+      },
+      {
+        "id": "D",
+        "text": "甲丙丁乙戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、chef de rang"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "傳統法式餐廳外場組織編制： 甲、Chef de Rang 乙、Commis de Suite 丙、Premier Maître d'Hôtel 丁、Maître d'Hôtel de Carré 戊、Commis de Rang 己、Trancheur 請將上述職稱由大至小排列為何？ 丁丙甲戊乙 丙丁甲乙戊 甲丙丁戊乙 甲丙丁乙戊 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1218
+  }
+}

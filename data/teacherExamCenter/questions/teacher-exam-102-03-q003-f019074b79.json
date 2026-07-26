@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q003-f019074b79",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 3 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-13668",
+    "paperTitle": "單選題：40%（每題 2 分）",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列何者並非 Special Event？",
+    "options": [
+      {
+        "id": "A",
+        "text": "世界烈酒展"
+      },
+      {
+        "id": "B",
+        "text": "美術館展覽"
+      },
+      {
+        "id": "C",
+        "text": "高雄燈會"
+      },
+      {
+        "id": "D",
+        "text": "上海世博。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者並非 Special Event？ 世界烈酒展 美術館展覽 高雄燈會 上海世博。 其他：待人工審核 待人工審核",
+    "sequence": 485
+  }
+}

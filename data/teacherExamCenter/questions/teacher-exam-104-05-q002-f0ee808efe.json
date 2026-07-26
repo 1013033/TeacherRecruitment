@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q002-f0ee808efe",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 2 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-15792",
+    "paperTitle": "一、選擇題40%（共20題，每題2分）",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "西餐廚房中所使用的切割種類及尺寸，下列配對何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "將食物切成不規則形狀之小塊 — Chop"
+      },
+      {
+        "id": "B",
+        "text": "比碎更細小的尺寸 — Julienne"
+      },
+      {
+        "id": "C",
+        "text": "以刀子切或刨絲器刨出的細長條狀 — Shred"
+      },
+      {
+        "id": "D",
+        "text": "比丁片更薄的尺寸 — Emincer。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐廚房中所使用的切割種類及尺寸，下列配對何者錯誤？ 將食物切成不規則形狀之小塊 — Chop 比碎更細小的尺寸 — Julienne 以刀子切或刨絲器刨出的細長條狀 — Shred 比丁片更薄的尺寸 — Emincer。 其他：待人工審核 待人工審核",
+    "sequence": 707
+  }
+}

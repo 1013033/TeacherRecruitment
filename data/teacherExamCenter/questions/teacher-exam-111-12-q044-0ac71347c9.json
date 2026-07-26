@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q044-0ac71347c9",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 44 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-15828",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 44,
+    "questionType": "multiple-choice",
+    "prompt": "有關國際航線 Infant Fare 使用規範之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "票價為 CHD 全額票面價的 10%"
+      },
+      {
+        "id": "B",
+        "text": "適用年齡以旅行日為基準，搭乘時如已超齡需改付 Normal Fare"
+      },
+      {
+        "id": "C",
+        "text": "Status 註記 NS，可申請 Bassinet，父、母或監護人需搭乘同一班機、同等艙位"
+      },
+      {
+        "id": "D",
+        "text": "攜帶雙胞胎嬰兒搭機，第二名嬰兒購買 Full Fare"
+      },
+      {
+        "id": "E",
+        "text": "以歲計算乘客年齡"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：fare"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關國際航線 Infant Fare 使用規範之敘述，下列何者錯誤？ 票價為 CHD 全額票面價的 10% 適用年齡以旅行日為基準，搭乘時如已超齡需改付 Normal Fare Status 註記 NS，可申請 Bassinet，父、母或監護人需搭乘同一班機、同等艙位 攜帶雙胞胎嬰兒搭機，第二名嬰兒購買 Full Fare 以歲計算乘客年齡 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1776
+  }
+}

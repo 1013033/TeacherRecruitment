@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q040-8451ede05e",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 40 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-8750",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "旅館客房所使用之「D.N.D.」指示牌，英文全文為甚麼？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Disturb Not Do"
+      },
+      {
+        "id": "B",
+        "text": "Do Not Discount"
+      },
+      {
+        "id": "C",
+        "text": "Do Not Dismiss"
+      },
+      {
+        "id": "D",
+        "text": "Do Not Disturb。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、do not disturb、d.n.d"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館客房所使用之「D.N.D.」指示牌，英文全文為甚麼？ Disturb Not Do Do Not Discount Do Not Dismiss Do Not Disturb。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 65
+  }
+}

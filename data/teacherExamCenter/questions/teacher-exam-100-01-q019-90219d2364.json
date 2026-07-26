@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q019-90219d2364",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 19 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-6206",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於咖啡的敘述何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "熱咖啡為趁熱喝、適飲溫度為 85 度"
+      },
+      {
+        "id": "B",
+        "text": "市面上常見的單品咖啡通常為阿拉比卡種"
+      },
+      {
+        "id": "C",
+        "text": "咖啡樹的種植主要在南北緯 25 度之間"
+      },
+      {
+        "id": "D",
+        "text": "頂級藍山咖啡適合的烘焙種度為高度烘焙（High Roast）。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於咖啡的敘述何者有誤？ 熱咖啡為趁熱喝、適飲溫度為 85 度 市面上常見的單品咖啡通常為阿拉比卡種 咖啡樹的種植主要在南北緯 25 度之間 頂級藍山咖啡適合的烘焙種度為高度烘焙（High Roast）。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 44
+  }
+}

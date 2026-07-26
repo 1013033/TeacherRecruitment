@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q003-69faff89dc",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 3 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-470",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "以下有關旅館組織，何者為錯誤的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uniformed Service 屬於人力資源部"
+      },
+      {
+        "id": "B",
+        "text": "Public Area Cleaning 是屬於房務部"
+      },
+      {
+        "id": "C",
+        "text": "Steward department 屬於餐飲部"
+      },
+      {
+        "id": "D",
+        "text": "Switch Board 屬於客務部"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、service、steward"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下有關旅館組織，何者為錯誤的？ Uniformed Service 屬於人力資源部 Public Area Cleaning 是屬於房務部 Steward department 屬於餐飲部 Switch Board 屬於客務部 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2789
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q006-d5e5e4148e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 6 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-5159",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "下列有關餐廳設備與用途，何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "sugar bowl 是用來服務冰咖啡和冰茶等冰飲"
+      },
+      {
+        "id": "B",
+        "text": "crumb scoop 是用來刮除餐桌上的麵包屑"
+      },
+      {
+        "id": "C",
+        "text": "cream soup spoon 是用來喝 thick soup"
+      },
+      {
+        "id": "D",
+        "text": "coffee spoon 是用來攪拌散熱用的。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶、coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關餐廳設備與用途，何者有誤？ sugar bowl 是用來服務冰咖啡和冰茶等冰飲 crumb scoop 是用來刮除餐桌上的麵包屑 cream soup spoon 是用來喝 thick soup coffee spoon 是用來攪拌散熱用的。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 611
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q012-8bf8de415a",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 12 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-11069",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 12,
+    "questionType": "multiple-choice",
+    "prompt": "針對客房清潔,操作上有許多之要領,請問下列要領中,哪些為錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "由裡至外"
+      },
+      {
+        "id": "B",
+        "text": "先抹後鋪"
+      },
+      {
+        "id": "C",
+        "text": "先床鋪後家具"
+      },
+      {
+        "id": "D",
+        "text": "由下到上抹拭"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "針對客房清潔,操作上有許多之要領,請問下列要領中,哪些為錯誤？ 由裡至外 先抹後鋪 先床鋪後家具 由下到上抹拭 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1503
+  }
+}

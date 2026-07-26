@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q008-1956373a1a",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 8 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-1857",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "H7N9疫情類的旅遊警示資訊由哪一單位負責公佈？",
+    "options": [
+      {
+        "id": "A",
+        "text": "衛生署疾病管制局"
+      },
+      {
+        "id": "B",
+        "text": "外交部出入境管理局"
+      },
+      {
+        "id": "C",
+        "text": "農委會動植物防疫檢疫局"
+      },
+      {
+        "id": "D",
+        "text": "外交部領事事務局。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "H7N9疫情類的旅遊警示資訊由哪一單位負責公佈？ 衛生署疾病管制局 外交部出入境管理局 農委會動植物防疫檢疫局 外交部領事事務局。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 409
+  }
+}

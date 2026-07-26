@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q014-3c0b02f5f9",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 14 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-2067",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "以下關於旅館客房狀況之術語，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "O.O.O.：故障房"
+      },
+      {
+        "id": "B",
+        "text": "Up Grade：免費升等"
+      },
+      {
+        "id": "C",
+        "text": "House Use：館內人員住用的客房"
+      },
+      {
+        "id": "D",
+        "text": "Sleep Out：沉睡房。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下關於旅館客房狀況之術語，何者錯誤？ O.O.O.：故障房 Up Grade：免費升等 House Use：館內人員住用的客房 Sleep Out：沉睡房。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2672
+  }
+}

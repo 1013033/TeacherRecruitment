@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q097-18bae8b7eb",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 97 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-25454",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 97,
+    "questionType": "multiple-choice",
+    "prompt": "下列各種茶葉的製作過程，那些是正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綠茶：採菁 → 炒（蒸）菁 → 揉捻 → 乾燥 → 精製"
+      },
+      {
+        "id": "B",
+        "text": "黃茶：茶菁 → 炒菁 → 悶黃 → 揉捻 → 乾燥 → 精製"
+      },
+      {
+        "id": "C",
+        "text": "紅茶：採菁 → 日光萎凋 → 靜置及攪拌（做菁） → 炒菁 → 揉捻 → 乾燥 → 精製"
+      },
+      {
+        "id": "D",
+        "text": "黑茶：採菁 → 炒菁 → 揉捻 → 渥堆 → 乾燥（黑毛茶） → 蒸（炒）壓 → 成型"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、綠茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列各種茶葉的製作過程，那些是正確的？ 綠茶：採菁 → 炒（蒸）菁 → 揉捻 → 乾燥 → 精製 黃茶：茶菁 → 炒菁 → 悶黃 → 揉捻 → 乾燥 → 精製 紅茶：採菁 → 日光萎凋 → 靜置及攪拌（做菁） → 炒菁 → 揉捻 → 乾燥 → 精製 黑茶：採菁 → 炒菁 → 揉捻 → 渥堆 → 乾燥（黑毛茶） → 蒸（炒）壓 → 成型 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1276
+  }
+}

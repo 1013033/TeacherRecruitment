@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q049-8a5793286b",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 49 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-12846",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "以啤酒的發酵方法作為區分，荷蘭的 Heineken 啤酒是利用哪種發酵方法製成的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "頂層發酵"
+      },
+      {
+        "id": "B",
+        "text": "底層發酵"
+      },
+      {
+        "id": "C",
+        "text": "自然發酵"
+      },
+      {
+        "id": "D",
+        "text": "混合發酵"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "以啤酒的發酵方法作為區分，荷蘭的 Heineken 啤酒是利用哪種發酵方法製成的？ 頂層發酵 底層發酵 自然發酵 混合發酵 其他：待人工審核 待人工審核",
+    "sequence": 2419
+  }
+}

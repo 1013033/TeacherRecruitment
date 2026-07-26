@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q028-f3d54bf0ea",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 28 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-7209",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "服務陳年紅葡萄酒時，原則上不需要使用下列哪一項器皿？",
+    "options": [
+      {
+        "id": "A",
+        "text": "cork screw"
+      },
+      {
+        "id": "B",
+        "text": "wine basket"
+      },
+      {
+        "id": "C",
+        "text": "wine cooler"
+      },
+      {
+        "id": "D",
+        "text": "wine decanter。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "服務陳年紅葡萄酒時，原則上不需要使用下列哪一項器皿？ cork screw wine basket wine cooler wine decanter。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 53
+  }
+}

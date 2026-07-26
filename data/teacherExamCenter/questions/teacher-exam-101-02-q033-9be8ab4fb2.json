@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q033-9be8ab4fb2",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 33 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-7403",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "旅館過年期間的房價，通常依訂價收費不打折，這是屬於何種房價類型？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flat rate"
+      },
+      {
+        "id": "B",
+        "text": "Rack rate"
+      },
+      {
+        "id": "C",
+        "text": "Corporate rate"
+      },
+      {
+        "id": "D",
+        "text": "Complimentary rate。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館過年期間的房價，通常依訂價收費不打折，這是屬於何種房價類型？ Flat rate Rack rate Corporate rate Complimentary rate。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 225
+  }
+}

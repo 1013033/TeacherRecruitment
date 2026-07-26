@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q010-409a8cfdb1",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 10 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-19371",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "下列何者不屬於調酒六大基酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vodka"
+      },
+      {
+        "id": "B",
+        "text": "Rum"
+      },
+      {
+        "id": "C",
+        "text": "Whisky"
+      },
+      {
+        "id": "D",
+        "text": "Tequila"
+      },
+      {
+        "id": "E",
+        "text": "Campari"
+      }
+    ],
+    "answer": "E",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：whisky、vodka、rum、tequila"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者不屬於調酒六大基酒？ Vodka Rum Whisky Tequila Campari 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1805
+  }
+}

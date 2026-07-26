@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q012-6a8b9a5b40",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 12 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-14588",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "不鏽鋼餐具材質中，18-10 的合金比例，除碳鋼外，還有哪兩種材質混合製成？",
+    "options": [
+      {
+        "id": "A",
+        "text": "18% 鎳及 10% 鉻"
+      },
+      {
+        "id": "B",
+        "text": "18% 鉻及 10% 鎳"
+      },
+      {
+        "id": "C",
+        "text": "18% 鋁及 10% 鉻"
+      },
+      {
+        "id": "D",
+        "text": "18% 錫及 10% 鋁。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "不鏽鋼餐具材質中，18-10 的合金比例，除碳鋼外，還有哪兩種材質混合製成？ 18% 鎳及 10% 鉻 18% 鉻及 10% 鎳 18% 鋁及 10% 鉻 18% 錫及 10% 鋁。 其他：待人工審核 待人工審核",
+    "sequence": 2911
+  }
+}

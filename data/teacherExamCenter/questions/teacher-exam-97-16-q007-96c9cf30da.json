@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q007-96c9cf30da",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 7 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-4387",
+    "paperTitle": "一、單選題（50 題每題 2 分共 100 分）",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "收拾殘盤的三原則，其中的“Stack”是指何意義？",
+    "options": [
+      {
+        "id": "A",
+        "text": "刮除"
+      },
+      {
+        "id": "B",
+        "text": "堆疊"
+      },
+      {
+        "id": "C",
+        "text": "分類"
+      },
+      {
+        "id": "D",
+        "text": "清潔。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "收拾殘盤的三原則，其中的“Stack”是指何意義？ 刮除 堆疊 分類 清潔。 其他：待人工審核 待人工審核",
+    "sequence": 2327
+  }
+}

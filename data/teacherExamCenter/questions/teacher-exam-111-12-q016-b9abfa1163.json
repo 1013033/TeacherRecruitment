@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q016-b9abfa1163",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 16 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-2597",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "日式料理店、高級壽司店或日式居酒屋，常常看到許多清酒，請問下列對清酒的敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "天冷時適用溫熱飲，透過溫酒，把香氣逼出，使之更為濃郁。"
+      },
+      {
+        "id": "B",
+        "text": "冰鎮後喝起來更為清爽，不宜將冰塊直接置入清酒中。"
+      },
+      {
+        "id": "C",
+        "text": "冰飲的最佳飲用溫度建議 5~15°C。"
+      },
+      {
+        "id": "D",
+        "text": "以米為原料加入酵母後發釀成的酒，酒精濃度約在 19~22%。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "日式料理店、高級壽司店或日式居酒屋，常常看到許多清酒，請問下列對清酒的敘述何者錯誤？ 天冷時適用溫熱飲，透過溫酒，把香氣逼出，使之更為濃郁。 冰鎮後喝起來更為清爽，不宜將冰塊直接置入清酒中。 冰飲的最佳飲用溫度建議 5~15°C。 以米為原料加入酵母後發釀成的酒，酒精濃度約在 19~22%。 其他：待人工審核 待人工審核",
+    "sequence": 1703
+  }
+}

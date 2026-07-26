@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q025-d18d17945b",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 25 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-7717",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "關於日本料理，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "揚物是指油炸的菜（原題選項略有字體誤植，依標準答案修正）"
+      },
+      {
+        "id": "B",
+        "text": "接受他人斟酒時要雙手持杯"
+      },
+      {
+        "id": "C",
+        "text": "濕紙巾是提供顧客擦手用"
+      },
+      {
+        "id": "D",
+        "text": "與人乾杯酒杯應舉到與肩膀同高。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：炸"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於日本料理，下列何者有誤？ 揚物是指油炸的菜（原題選項略有字體誤植，依標準答案修正） 接受他人斟酒時要雙手持杯 濕紙巾是提供顧客擦手用 與人乾杯酒杯應舉到與肩膀同高。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 630
+  }
+}

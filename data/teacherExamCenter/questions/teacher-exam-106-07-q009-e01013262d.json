@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q009-e01013262d",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 9 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-1610",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "中國菜因地域不同，而形成各大菜系，有關菜系的敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "「佛跳牆」是臺灣的名菜"
+      },
+      {
+        "id": "B",
+        "text": "北平菜擅長用拔絲烹飪法"
+      },
+      {
+        "id": "C",
+        "text": "「紅糟」是湖南菜系的特殊調味料"
+      },
+      {
+        "id": "D",
+        "text": "東方系統以上海菜為代表，南方系統以福州菜為代表。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "中國菜因地域不同，而形成各大菜系，有關菜系的敘述，下列何者正確？ 「佛跳牆」是臺灣的名菜 北平菜擅長用拔絲烹飪法 「紅糟」是湖南菜系的特殊調味料 東方系統以上海菜為代表，南方系統以福州菜為代表。 其他：待人工審核 待人工審核",
+    "sequence": 1086
+  }
+}

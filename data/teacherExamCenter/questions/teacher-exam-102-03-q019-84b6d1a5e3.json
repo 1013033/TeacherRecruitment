@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q019-84b6d1a5e3",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 19 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-16176",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列敘述何者錯誤？ 甲、歐美旅行業中，Retail Travel Agency 的分布最廣，數量最多 乙、台灣旅行業以綜合旅行社數量最多 丙、旅行社不一定要經營團體旅遊業務，專做票務或訂房業務亦可 丁、台灣只有綜合旅行社可代理外國旅行業在台推廣業務",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "B",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "C",
+        "text": "乙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丙丁。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、旅遊、票務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列敘述何者錯誤？ 甲、歐美旅行業中，Retail Travel Agency 的分布最廣，數量最多 乙、台灣旅行業以綜合旅行社數量最多 丙、旅行社不一定要經營團體旅遊業務，專做票務或訂房業務亦可 丁、台灣只有綜合旅行社可代理外國旅行業在台推廣業務 乙丙丁 甲乙丙 乙丁 甲乙丙丁。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 501
+  }
+}

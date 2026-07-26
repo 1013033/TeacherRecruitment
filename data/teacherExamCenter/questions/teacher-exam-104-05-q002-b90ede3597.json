@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q002-b90ede3597",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 2 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-18152",
+    "paperTitle": "一、選擇題（每題2分，共40分）",
+    "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "所謂的 \"Entremetier\" 指的是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "醬汁主廚"
+      },
+      {
+        "id": "B",
+        "text": "冷盤主廚"
+      },
+      {
+        "id": "C",
+        "text": "糕點主廚"
+      },
+      {
+        "id": "D",
+        "text": "蔬菜廚師。"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：醬汁"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "所謂的 \"Entremetier\" 指的是？ 醬汁主廚 冷盤主廚 糕點主廚 蔬菜廚師。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 735
+  }
+}

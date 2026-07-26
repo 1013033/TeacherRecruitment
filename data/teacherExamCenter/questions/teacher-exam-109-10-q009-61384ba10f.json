@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q009-61384ba10f",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 9 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-11754",
+    "paperTitle": "一、選擇題（每題2分、共15題、共計30分）",
+    "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "台灣之光台積電公司看好新冠肺炎逐漸穩定後，臺灣觀光業前景大好，決定跨足旅遊業成立甲種旅行社，初步規劃將總公司設在高雄，並在全省開設六家分公司。依「旅行業管理規則」規定，請問其應繳納之註冊費為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1萬9千元"
+      },
+      {
+        "id": "B",
+        "text": "1萬2千元"
+      },
+      {
+        "id": "C",
+        "text": "1萬4千5百元"
+      },
+      {
+        "id": "D",
+        "text": "3萬9千元"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "台灣之光台積電公司看好新冠肺炎逐漸穩定後，臺灣觀光業前景大好，決定跨足旅遊業成立甲種旅行社，初步規劃將總公司設在高雄，並在全省開設六家分公司。依「旅行業管理規則」規定，請問其應繳納之註冊費為？ 1萬9千元 1萬2千元 1萬4千5百元 3萬9千元 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1611
+  }
+}

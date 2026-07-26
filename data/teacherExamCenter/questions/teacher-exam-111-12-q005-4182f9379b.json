@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q005-4182f9379b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 5 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-25929",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列有關酒杯敘述何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "高腳杯英文是 Stemmed Glass"
+      },
+      {
+        "id": "B",
+        "text": "香檳杯較適合飲用汽泡酒"
+      },
+      {
+        "id": "C",
+        "text": "High Ball Glass 適合泡熱茶"
+      },
+      {
+        "id": "D",
+        "text": "雞尾酒杯也是高腳杯一種"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關酒杯敘述何者有誤？ 高腳杯英文是 Stemmed Glass 香檳杯較適合飲用汽泡酒 High Ball Glass 適合泡熱茶 雞尾酒杯也是高腳杯一種 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1850
+  }
+}

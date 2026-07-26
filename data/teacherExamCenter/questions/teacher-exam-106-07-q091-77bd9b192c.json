@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q091-77bd9b192c",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 91 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24953",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 91,
+    "questionType": "multiple-choice",
+    "prompt": "下列哪一些雞尾酒會以熱飲方式呈現？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hot Toddy"
+      },
+      {
+        "id": "B",
+        "text": "Egg Nog"
+      },
+      {
+        "id": "C",
+        "text": "Screw Driver"
+      },
+      {
+        "id": "D",
+        "text": "Frenchman"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一些雞尾酒會以熱飲方式呈現？ Hot Toddy Egg Nog Screw Driver Frenchman 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1270
+  }
+}

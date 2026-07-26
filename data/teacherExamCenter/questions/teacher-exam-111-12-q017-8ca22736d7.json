@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q017-8ca22736d7",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 17 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-11064",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "根據上文所述，何者為觀光系統中的客體？",
+    "options": [
+      {
+        "id": "A",
+        "text": "商務客"
+      },
+      {
+        "id": "B",
+        "text": "日本"
+      },
+      {
+        "id": "C",
+        "text": "交通部"
+      },
+      {
+        "id": "D",
+        "text": "雄獅集團"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據上文所述，何者為觀光系統中的客體？ 商務客 日本 交通部 雄獅集團 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 1749
+  }
+}

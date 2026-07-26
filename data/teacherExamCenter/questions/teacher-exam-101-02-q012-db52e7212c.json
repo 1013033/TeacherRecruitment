@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q012-db52e7212c",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 12 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-14532",
+    "paperTitle": "一、單選題（每題2分，共50分）",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "國際航空票價中「INF」代號的意思為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "孩童票"
+      },
+      {
+        "id": "B",
+        "text": "航空人員折扣票"
+      },
+      {
+        "id": "C",
+        "text": "嬰兒票"
+      },
+      {
+        "id": "D",
+        "text": "領隊折扣票。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國際航空票價中「INF」代號的意思為： 孩童票 航空人員折扣票 嬰兒票 領隊折扣票。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 311
+  }
+}

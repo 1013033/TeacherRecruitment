@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q003-4c42adc48e",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 3 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-13885",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列何者被視為西洋烹調的基礎？",
+    "options": [
+      {
+        "id": "A",
+        "text": "油糊 (Roux)"
+      },
+      {
+        "id": "B",
+        "text": "沙司 (Sauce)"
+      },
+      {
+        "id": "C",
+        "text": "高湯 (Stock)"
+      },
+      {
+        "id": "D",
+        "text": "香草 (Herb)。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、高湯、sauce、stock"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者被視為西洋烹調的基礎？ 油糊 (Roux) 沙司 (Sauce) 高湯 (Stock) 香草 (Herb)。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2902
+  }
+}

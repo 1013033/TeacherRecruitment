@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q029-8344ef9997",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 29 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-4341",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "關於葡萄酒的服務流程敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "氣泡酒的調溫時間花費最久。"
+      },
+      {
+        "id": "B",
+        "text": "只有紅酒需要過酒，白酒與氣泡酒不需過酒。"
+      },
+      {
+        "id": "C",
+        "text": "驗酒：服務員立於顧客右前方（左前方），酒瓶側躺約 15 度，酒標朝向客人。"
+      },
+      {
+        "id": "D",
+        "text": "斟酒時紅酒量不超過紅酒杯 1/2，白酒量不超過白酒杯 2/3。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒、白酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於葡萄酒的服務流程敘述，何者錯誤？ 氣泡酒的調溫時間花費最久。 只有紅酒需要過酒，白酒與氣泡酒不需過酒。 驗酒：服務員立於顧客右前方（左前方），酒瓶側躺約 15 度，酒標朝向客人。 斟酒時紅酒量不超過紅酒杯 1/2，白酒量不超過白酒杯 2/3。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1716
+  }
+}

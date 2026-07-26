@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q013-f669d450ae",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 13 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-13368",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列有關餐廳中餐具及杯皿的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "All Purpose Glass 只可用來同時服務紅白酒，不可當成水杯使用"
+      },
+      {
+        "id": "B",
+        "text": "服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉"
+      },
+      {
+        "id": "C",
+        "text": "圓筒形平底水杯稱為 Goblet"
+      },
+      {
+        "id": "D",
+        "text": "Champagne Saucer 常用來疊香檳塔，適用於一般酒會與慶功宴。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳、白酒、champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關餐廳中餐具及杯皿的敘述，何者正確？ All Purpose Glass 只可用來同時服務紅白酒，不可當成水杯使用 服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉 圓筒形平底水杯稱為 Goblet Champagne Saucer 常用來疊香檳塔，適用於一般酒會與慶功宴。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 110
+  }
+}

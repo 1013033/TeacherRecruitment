@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q037-e7e2d0c120",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 37 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-6062",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 37,
+    "questionType": "multiple-choice",
+    "prompt": "阿東趁著連假至桃竹苗遊玩，請問阿東可能帶回的當地特產茶葉伴手禮為下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "仙葉茶"
+      },
+      {
+        "id": "B",
+        "text": "長安茶"
+      },
+      {
+        "id": "C",
+        "text": "膨風茶"
+      },
+      {
+        "id": "D",
+        "text": "松柏長青茶。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿東趁著連假至桃竹苗遊玩，請問阿東可能帶回的當地特產茶葉伴手禮為下列何者？ 仙葉茶 長安茶 膨風茶 松柏長青茶。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1348
+  }
+}

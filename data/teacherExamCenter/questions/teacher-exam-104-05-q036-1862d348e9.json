@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q036-1862d348e9",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 36 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-26698",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "以茶「發酵」程度來區分，白毫烏龍是屬於下列何種茶？",
+    "options": [
+      {
+        "id": "A",
+        "text": "全發酵茶"
+      },
+      {
+        "id": "B",
+        "text": "部份發酵茶"
+      },
+      {
+        "id": "C",
+        "text": "不發酵茶"
+      },
+      {
+        "id": "D",
+        "text": "後發酵茶。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以茶「發酵」程度來區分，白毫烏龍是屬於下列何種茶？ 全發酵茶 部份發酵茶 不發酵茶 後發酵茶。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 808
+  }
+}

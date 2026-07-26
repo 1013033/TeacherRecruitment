@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q015-5723a42f93",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 15 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-24519",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "關於中餐服務流程，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "服務菜餚可分為四個階段：傳菜→上茶→秀菜→分菜"
+      },
+      {
+        "id": "B",
+        "text": "秀菜時，服務員宜將菜餚置於轉檯上，並以逆時針方向轉至主人面前停頓一下，再順向推回到主賓前停下"
+      },
+      {
+        "id": "C",
+        "text": "供應魚翅時，應附加供應裝有紅醋的醋瓶"
+      },
+      {
+        "id": "D",
+        "text": "多人聚餐時，遞送菜單的順序，應以主賓、女士或長輩為優先。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：服務員、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於中餐服務流程，下列敘述何者錯誤？ 服務菜餚可分為四個階段：傳菜→上茶→秀菜→分菜 秀菜時，服務員宜將菜餚置於轉檯上，並以逆時針方向轉至主人面前停頓一下，再順向推回到主賓前停下 供應魚翅時，應附加供應裝有紅醋的醋瓶 多人聚餐時，遞送菜單的順序，應以主賓、女士或長輩為優先。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 787
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q008-82aba2a585",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 8 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-10665",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "在中國八大菜系中,四川菜為深具特色的一個菜系,請問下列何者為常見的四川菜？",
+    "options": [
+      {
+        "id": "A",
+        "text": "酸辣肚尖"
+      },
+      {
+        "id": "B",
+        "text": "鐵板牛柳"
+      },
+      {
+        "id": "C",
+        "text": "樟茶鴨"
+      },
+      {
+        "id": "D",
+        "text": "麻油雞"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在中國八大菜系中,四川菜為深具特色的一個菜系,請問下列何者為常見的四川菜？ 酸辣肚尖 鐵板牛柳 樟茶鴨 麻油雞 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1499
+  }
+}

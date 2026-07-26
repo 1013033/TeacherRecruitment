@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q022-ca02ec64fe",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 22 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-11818",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "達美樂聯名三折傘，加購價 299 元，此銷售策略屬於：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bundle Selling"
+      },
+      {
+        "id": "B",
+        "text": "Crossing Selling"
+      },
+      {
+        "id": "C",
+        "text": "Up Selling"
+      },
+      {
+        "id": "D",
+        "text": "Down Selling"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "達美樂聯名三折傘，加購價 299 元，此銷售策略屬於： Bundle Selling Crossing Selling Up Selling Down Selling 其他：待人工審核 待人工審核",
+    "sequence": 1754
+  }
+}

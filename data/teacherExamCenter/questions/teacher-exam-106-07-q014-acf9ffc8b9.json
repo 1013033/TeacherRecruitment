@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q014-acf9ffc8b9",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 14 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-16401",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何者非 Peach Flambé 的材料？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Orange slice"
+      },
+      {
+        "id": "B",
+        "text": "Tia maria"
+      },
+      {
+        "id": "C",
+        "text": "Grand marnier"
+      },
+      {
+        "id": "D",
+        "text": "Lemon slice"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：lamb"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者非 Peach Flambé 的材料？ Orange slice Tia maria Grand marnier Lemon slice 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1193
+  }
+}

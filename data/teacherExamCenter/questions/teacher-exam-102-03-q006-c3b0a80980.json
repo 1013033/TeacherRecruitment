@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q006-c3b0a80980",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 6 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-7251",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "下列何種雞尾酒不是以「Rum」為基酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mai Tai"
+      },
+      {
+        "id": "B",
+        "text": "Classic Mojito"
+      },
+      {
+        "id": "C",
+        "text": "Daiquiri"
+      },
+      {
+        "id": "D",
+        "text": "Planter's Punch。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何種雞尾酒不是以「Rum」為基酒？ Mai Tai Classic Mojito Daiquiri Planter's Punch。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 442
+  }
+}

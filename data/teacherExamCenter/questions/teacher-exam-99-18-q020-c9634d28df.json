@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q020-c9634d28df",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 20 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-17875",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "飲用「Espresso」時，採用何種杯子較適合？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mug"
+      },
+      {
+        "id": "B",
+        "text": "Demitasse"
+      },
+      {
+        "id": "C",
+        "text": "Hurricane"
+      },
+      {
+        "id": "D",
+        "text": "Saucer。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：espresso"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "飲用「Espresso」時，採用何種杯子較適合？ Mug Demitasse Hurricane Saucer。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2946
+  }
+}

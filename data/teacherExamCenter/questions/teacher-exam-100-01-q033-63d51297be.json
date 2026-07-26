@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q033-63d51297be",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 33 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-7858",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "旅客在國際機場內需要航空公司提供轉機接待服務，稱為甚麼？",
+    "options": [
+      {
+        "id": "A",
+        "text": "NIL"
+      },
+      {
+        "id": "B",
+        "text": "NO BOOKING"
+      },
+      {
+        "id": "C",
+        "text": "OPEN"
+      },
+      {
+        "id": "D",
+        "text": "transfer。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機場"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅客在國際機場內需要航空公司提供轉機接待服務，稱為甚麼？ NIL NO BOOKING OPEN transfer。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 58
+  }
+}

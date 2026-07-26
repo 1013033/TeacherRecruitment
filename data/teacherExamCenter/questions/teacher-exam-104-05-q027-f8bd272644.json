@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q027-f8bd272644",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 27 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-8009",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "關於中餐餐桌擺設，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "中餐的熱茶服務一般會使用耐熱的玻璃杯"
+      },
+      {
+        "id": "B",
+        "text": "毛巾碟應放在客人骨盤右側"
+      },
+      {
+        "id": "C",
+        "text": "湯匙是放在匙筷架上筷子的左側"
+      },
+      {
+        "id": "D",
+        "text": "中式餐桌擺設皆以味碟來定位。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中餐餐桌擺設，下列何者正確？ 中餐的熱茶服務一般會使用耐熱的玻璃杯 毛巾碟應放在客人骨盤右側 湯匙是放在匙筷架上筷子的左側 中式餐桌擺設皆以味碟來定位。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 632
+  }
+}

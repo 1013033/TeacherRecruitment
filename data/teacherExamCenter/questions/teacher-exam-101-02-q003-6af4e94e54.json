@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q003-6af4e94e54",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 3 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-321",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種雞尾酒中未加入紅石榴糖漿（Grenadine Syrup）？",
+    "options": [
+      {
+        "id": "A",
+        "text": "普施咖啡（Pousse-Cafe）"
+      },
+      {
+        "id": "B",
+        "text": "紐約（New York）"
+      },
+      {
+        "id": "C",
+        "text": "邁泰（Mai Tai）"
+      },
+      {
+        "id": "D",
+        "text": "新加坡司令（Singapore Sling）。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、cafe"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一種雞尾酒中未加入紅石榴糖漿（Grenadine Syrup）？ 普施咖啡（Pousse-Cafe） 紐約（New York） 邁泰（Mai Tai） 新加坡司令（Singapore Sling）。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 163
+  }
+}

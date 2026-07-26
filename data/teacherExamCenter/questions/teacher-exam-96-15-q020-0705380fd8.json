@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q020-0705380fd8",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 20 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-7390",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "Taiwan Touch Your Heart 是臺灣哪一個單位的 CIS？",
+    "options": [
+      {
+        "id": "A",
+        "text": "新聞局"
+      },
+      {
+        "id": "B",
+        "text": "外交部"
+      },
+      {
+        "id": "C",
+        "text": "觀光局"
+      },
+      {
+        "id": "D",
+        "text": "臺北旅遊局。"
+      }
+    ],
+    "answer": "C",
+    "subject": "law-current-affairs",
+    "subjectLabel": "觀光法規與時事",
+    "unit": "法規與時事",
+    "conceptId": "law-and-current-affairs",
+    "conceptLabel": "觀光法規、國際組織與時事",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：觀光局、taiwan touch your heart"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Taiwan Touch Your Heart 是臺灣哪一個單位的 CIS？ 新聞局 外交部 觀光局 臺北旅遊局。 觀光法規、國際組織與時事 法規與時事",
+    "sequence": 2237
+  }
+}

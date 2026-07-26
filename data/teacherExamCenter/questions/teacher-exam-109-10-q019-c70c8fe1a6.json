@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q019-c70c8fe1a6",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 19 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-2496",
+    "paperTitle": "二、複選題（每題2分，共10分，全部答對才給分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於旅館業專業術語的簡寫代表意思，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "DND 是指客房登記遷入後，因故離去而未投宿"
+      },
+      {
+        "id": "B",
+        "text": "OOO 是指旅客住宿中，待整理"
+      },
+      {
+        "id": "C",
+        "text": "OCC 是乾淨空房"
+      },
+      {
+        "id": "D",
+        "text": "LSG 是長期住宿客房。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於旅館業專業術語的簡寫代表意思，下列何者錯誤？ DND 是指客房登記遷入後，因故離去而未投宿 OOO 是指旅客住宿中，待整理 OCC 是乾淨空房 LSG 是長期住宿客房。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1533
+  }
+}

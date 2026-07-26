@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q010-b0b885d9db",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 10 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-5911",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校 98 學年度第一次教師甄審餐飲管理科試卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "一般而言，招標採購的程序可分為四個步驟，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "發標、開標、決標、合約"
+      },
+      {
+        "id": "B",
+        "text": "開標、發標、決標、合約"
+      },
+      {
+        "id": "C",
+        "text": "發標、決標、開標、合約"
+      },
+      {
+        "id": "D",
+        "text": "決標、開標、發標、合約。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "一般而言，招標採購的程序可分為四個步驟，下列何者正確？ 發標、開標、決標、合約 開標、發標、決標、合約 發標、決標、開標、合約 決標、開標、發標、合約。 其他：待人工審核 待人工審核",
+    "sequence": 2710
+  }
+}

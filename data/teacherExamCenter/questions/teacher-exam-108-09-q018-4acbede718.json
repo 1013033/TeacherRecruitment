@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q018-4acbede718",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 18 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-6360",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是台灣啤酒的製造原料？",
+    "options": [
+      {
+        "id": "A",
+        "text": "大麥芽"
+      },
+      {
+        "id": "B",
+        "text": "糯米"
+      },
+      {
+        "id": "C",
+        "text": "蓬萊米"
+      },
+      {
+        "id": "D",
+        "text": "啤酒花。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者不是台灣啤酒的製造原料？ 大麥芽 糯米 蓬萊米 啤酒花。 其他：待人工審核 待人工審核",
+    "sequence": 1447
+  }
+}

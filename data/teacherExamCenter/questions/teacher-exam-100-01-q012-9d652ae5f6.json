@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q012-9d652ae5f6",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 12 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-13251",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "下列何者是「永續觀光」的英文全名？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Satellite Tourism"
+      },
+      {
+        "id": "B",
+        "text": "Shuttle Tourism"
+      },
+      {
+        "id": "C",
+        "text": "Sustainable Tourism"
+      },
+      {
+        "id": "D",
+        "text": "Saisiyat Tourism。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、永續、tourism、sustainable"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者是「永續觀光」的英文全名？ Satellite Tourism Shuttle Tourism Sustainable Tourism Saisiyat Tourism。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 109
+  }
+}

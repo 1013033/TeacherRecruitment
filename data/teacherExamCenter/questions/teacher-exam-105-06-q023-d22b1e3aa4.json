@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q023-d22b1e3aa4",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 23 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-8613",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "The cashier quickly ______ the information on the guest's passport.",
+    "options": [
+      {
+        "id": "A",
+        "text": "make mistakes"
+      },
+      {
+        "id": "B",
+        "text": "go over"
+      },
+      {
+        "id": "C",
+        "text": "total"
+      },
+      {
+        "id": "D",
+        "text": "counter"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "The cashier quickly ______ the information on the guest's passport. make mistakes go over total counter 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1021
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q003-2992f02483",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 3 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-474",
+    "paperTitle": "一、單選題(每題2分,共40分)",
+    "schoolName": "未標示學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "曉萱和凱莉聽說到羅浮宮一定要觀賞鎮宮三寶,請問以下哪一個不包括在內？",
+    "options": [
+      {
+        "id": "A",
+        "text": "斷臂維納斯 (Vénus de Milo)"
+      },
+      {
+        "id": "B",
+        "text": "勝利女神像 (Nike of Samothrace)"
+      },
+      {
+        "id": "C",
+        "text": "蒙娜麗莎的微笑 (La Joconde)"
+      },
+      {
+        "id": "D",
+        "text": "大衛像 (David)"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "曉萱和凱莉聽說到羅浮宮一定要觀賞鎮宮三寶,請問以下哪一個不包括在內？ 斷臂維納斯 (Vénus de Milo) 勝利女神像 (Nike of Samothrace) 蒙娜麗莎的微笑 (La Joconde) 大衛像 (David) 其他：待人工審核 待人工審核",
+    "sequence": 1363
+  }
+}

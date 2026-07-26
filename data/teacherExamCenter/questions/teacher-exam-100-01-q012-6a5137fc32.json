@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q012-6a5137fc32",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 12 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5537",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "下列有關開夜床的說明何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "時間為 18～20 時"
+      },
+      {
+        "id": "B",
+        "text": "將浴墊收拾，帶離房間"
+      },
+      {
+        "id": "C",
+        "text": "將床罩收妥、放入衣櫃裡"
+      },
+      {
+        "id": "D",
+        "text": "關上窗簾。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列有關開夜床的說明何者有誤？ 時間為 18～20 時 將浴墊收拾，帶離房間 將床罩收妥、放入衣櫃裡 關上窗簾。 其他：待人工審核 待人工審核",
+    "sequence": 37
+  }
+}

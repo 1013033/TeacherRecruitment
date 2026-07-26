@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q098-4653fe0188",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 98 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-15268",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 98,
+    "questionType": "single-choice",
+    "prompt": "酒單中以下何者不應歸類為 High Ball 雞尾酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Harvey Wallbanger"
+      },
+      {
+        "id": "B",
+        "text": "Moscow Mule"
+      },
+      {
+        "id": "C",
+        "text": "Fifty Fifty Cocktail"
+      },
+      {
+        "id": "D",
+        "text": "Apricot Fizz."
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "酒單中以下何者不應歸類為 High Ball 雞尾酒？ Harvey Wallbanger Moscow Mule Fifty Fifty Cocktail Apricot Fizz. 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 703
+  }
+}

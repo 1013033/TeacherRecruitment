@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q006-f001544864",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 6 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-1431",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "以下旅遊城市境內機場及資訊，下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "NYC | JFK | AREA 1"
+      },
+      {
+        "id": "B",
+        "text": "SHA | PVG | AREA 3"
+      },
+      {
+        "id": "C",
+        "text": "TYO | HND | AREA 3"
+      },
+      {
+        "id": "D",
+        "text": "LON | LGA | AREA 2"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機場、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下旅遊城市境內機場及資訊，下列何者為非？ NYC | JFK | AREA 1 SHA | PVG | AREA 3 TYO | HND | AREA 3 LON | LGA | AREA 2 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1317
+  }
+}

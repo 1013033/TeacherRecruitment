@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q004-86cda8f7a7",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 4 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-612",
+    "paperTitle": "一、單選題(每題2分,共40分)",
+    "schoolName": "未標示學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "曉萱和凱莉這次的自助行買的機票是旅遊票,搭乘的是經濟艙,機票效期是30天,請問旅行社的註記是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "CGV30"
+      },
+      {
+        "id": "B",
+        "text": "FAD30"
+      },
+      {
+        "id": "C",
+        "text": "YEE30"
+      },
+      {
+        "id": "D",
+        "text": "YID30 曉萱和凱莉想在前往法國之前先體驗法國菜的口味,因此她們預訂了一間臺灣的法式餐廳「小法國」想來嘗鮮。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、機票、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "曉萱和凱莉這次的自助行買的機票是旅遊票,搭乘的是經濟艙,機票效期是30天,請問旅行社的註記是？ CGV30 FAD30 YEE30 YID30 曉萱和凱莉想在前往法國之前先體驗法國菜的口味,因此她們預訂了一間臺灣的法式餐廳「小法國」想來嘗鮮。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1364
+  }
+}

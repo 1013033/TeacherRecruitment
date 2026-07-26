@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q025-4e3ee86db8",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 25 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-6466",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "清炸薯條的烹飪過程是下列何項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Boiling → Sautéing"
+      },
+      {
+        "id": "B",
+        "text": "Blanching → Deep Fat-Frying"
+      },
+      {
+        "id": "C",
+        "text": "Broiling → Grilling"
+      },
+      {
+        "id": "D",
+        "text": "Pouching → Pan Frying。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：炸、broil、grill"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "清炸薯條的烹飪過程是下列何項？ Boiling → Sautéing Blanching → Deep Fat-Frying Broiling → Grilling Pouching → Pan Frying。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 217
+  }
+}

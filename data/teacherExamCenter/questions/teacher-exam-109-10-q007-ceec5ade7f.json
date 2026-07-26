@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q007-ceec5ade7f",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 7 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-11439",
+    "paperTitle": "一、選擇題（每題2分、共15題、共計30分）",
+    "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "雞尾酒種類可分許多種，請問以下的敘述，那些為正確？ 甲、Mocktail 為不含酒精成分的飲料 乙、Frappé 為將冰塊放入果汁機中打碎後取出，再注入材料的飲料 丙、Frozen 為將材料與冰塊一起放入電動攪拌機中打成霜凍狀的飲料 丁、Punch 為酒精濃烈，適合短時間內喝完的飲料",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙、丁"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "C",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "甲、乙、丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "雞尾酒種類可分許多種，請問以下的敘述，那些為正確？ 甲、Mocktail 為不含酒精成分的飲料 乙、Frappé 為將冰塊放入果汁機中打碎後取出，再注入材料的飲料 丙、Frozen 為將材料與冰塊一起放入電動攪拌機中打成霜凍狀的飲料 丁、Punch 為酒精濃烈，適合短時間內喝完的飲料 甲、丙、丁 乙、丙、丁 甲、乙、丙 甲、乙、丁 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1609
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q034-5bc93c8d0b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 34 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-29161",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "有關食品或食材供應商評選注意事項，下列敘述何者正確？a.衛生管理 b.合法登記 c.良好聲譽 d.營業規模 e.缺乏應變能力 f.最低價格提供",
+    "options": [
+      {
+        "id": "A",
+        "text": "abcd"
+      },
+      {
+        "id": "B",
+        "text": "abcde"
+      },
+      {
+        "id": "C",
+        "text": "abcdf"
+      },
+      {
+        "id": "D",
+        "text": "abcdef"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關食品或食材供應商評選注意事項，下列敘述何者正確？a.衛生管理 b.合法登記 c.良好聲譽 d.營業規模 e.缺乏應變能力 f.最低價格提供 abcd abcde abcdf abcdef 其他：待人工審核 待人工審核",
+    "sequence": 1880
+  }
+}

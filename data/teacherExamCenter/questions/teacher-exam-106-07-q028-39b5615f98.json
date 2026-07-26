@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q028-39b5615f98",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 28 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-18398",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "關於客房清潔的要領，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "分類進行正確拿取，一次做完。"
+      },
+      {
+        "id": "B",
+        "text": "減少來回走動的次數，環型整理。"
+      },
+      {
+        "id": "C",
+        "text": "由上而下，先清潔浴室再清潔臥房。"
+      },
+      {
+        "id": "D",
+        "text": "從裡而外，依序往外至門口清掃。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於客房清潔的要領，下列敘述何者錯誤？ 分類進行正確拿取，一次做完。 減少來回走動的次數，環型整理。 由上而下，先清潔浴室再清潔臥房。 從裡而外，依序往外至門口清掃。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1207
+  }
+}

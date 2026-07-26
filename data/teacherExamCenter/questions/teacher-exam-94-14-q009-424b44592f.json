@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q009-424b44592f",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 9 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-1050",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "現代的旅遊業者必須正視的課題是：甲專業服務技能、乙面對面服務方式、丙電子商務操作技能、丁網路仲介通路。",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲乙。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "現代的旅遊業者必須正視的課題是：甲專業服務技能、乙面對面服務方式、丙電子商務操作技能、丁網路仲介通路。 甲乙丙 乙丙丁 甲丙丁 甲乙。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2010
+  }
+}

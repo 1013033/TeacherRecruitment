@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q006-5e71602928",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 6 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-4344",
+    "paperTitle": "一、選擇題：（每題1分，共計40分）",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "法國東北角有一處專門生產白葡萄酒的區域稱",
+    "options": [
+      {
+        "id": "A",
+        "text": "夏布利區（Chablis）"
+      },
+      {
+        "id": "B",
+        "text": "梭甸區（Sauternes）"
+      },
+      {
+        "id": "C",
+        "text": "阿爾薩斯區（Alsace）"
+      },
+      {
+        "id": "D",
+        "text": "羅瓦爾河區（Loire Valley）。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "法國東北角有一處專門生產白葡萄酒的區域稱 夏布利區（Chablis） 梭甸區（Sauternes） 阿爾薩斯區（Alsace） 羅瓦爾河區（Loire Valley）。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 198
+  }
+}

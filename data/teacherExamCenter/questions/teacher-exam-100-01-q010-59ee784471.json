@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q010-59ee784471",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 10 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5377",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "旅行業投保何種保險何以在旅客證件遺失時損害賠償 2,000 元的費用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "責任保險"
+      },
+      {
+        "id": "B",
+        "text": "履約保證保險"
+      },
+      {
+        "id": "C",
+        "text": "旅遊平安險"
+      },
+      {
+        "id": "D",
+        "text": "旅遊意外險。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行業投保何種保險何以在旅客證件遺失時損害賠償 2,000 元的費用？ 責任保險 履約保證保險 旅遊平安險 旅遊意外險。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 35
+  }
+}

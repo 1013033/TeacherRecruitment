@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q037-5480fe4244",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 37 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-29571",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "下列有關旅館「入住登記的準備工作」之業務內容，何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "入住登記卡"
+      },
+      {
+        "id": "B",
+        "text": "紀錄分配客房"
+      },
+      {
+        "id": "C",
+        "text": "建立客人帳單"
+      },
+      {
+        "id": "D",
+        "text": "收取預付金並開立發票"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關旅館「入住登記的準備工作」之業務內容，何者有誤？ 入住登記卡 紀錄分配客房 建立客人帳單 收取預付金並開立發票 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1883
+  }
+}

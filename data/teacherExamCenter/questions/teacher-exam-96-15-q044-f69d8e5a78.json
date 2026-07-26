@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q044-f69d8e5a78",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 44 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-9613",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "一張機票的前三碼代表何種意義？",
+    "options": [
+      {
+        "id": "A",
+        "text": "航空公司本身代號"
+      },
+      {
+        "id": "B",
+        "text": "機票來源"
+      },
+      {
+        "id": "C",
+        "text": "搭乘聯張數"
+      },
+      {
+        "id": "D",
+        "text": "機票本身的號碼。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一張機票的前三碼代表何種意義？ 航空公司本身代號 機票來源 搭乘聯張數 機票本身的號碼。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2261
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q009-78da1dda07",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 9 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-5563",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "關於西式菜單的上菜順序，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Appetizer -> Soup -> Main course -> Dessert -> Coffee"
+      },
+      {
+        "id": "B",
+        "text": "Soup -> Appetizer -> Main course -> Dessert -> Coffee"
+      },
+      {
+        "id": "C",
+        "text": "Dessert -> Main course -> Soup -> Appetizer -> Coffee"
+      },
+      {
+        "id": "D",
+        "text": "Soup -> Dessert -> Main course -> Appetizer -> Coffee."
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於西式菜單的上菜順序，下列何者正確？ Appetizer -> Soup -> Main course -> Dessert -> Coffee Soup -> Appetizer -> Main course -> Dessert -> Coffee Dessert -> Main course -> Soup -> Appetizer -> Coffee Soup -> Dessert -> Main course -> Appetizer -> Coffee. 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 614
+  }
+}

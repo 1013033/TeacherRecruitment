@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q030-35bbbbd8ea",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 30 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-15849",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "關於啤酒，下列敘述何者正確？甲、啤酒花可提供啤酒芳香與苦味；乙、台灣公賣局所產的台灣啤酒屬於 Ale 的一種；丙、生啤酒（Draft Beer）保存期限較一般啤酒短；丁、啤酒越陳越香，須保存一段時間後再享用。",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙"
+      },
+      {
+        "id": "B",
+        "text": "甲丙"
+      },
+      {
+        "id": "C",
+        "text": "乙丙"
+      },
+      {
+        "id": "D",
+        "text": "丙丁。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於啤酒，下列敘述何者正確？甲、啤酒花可提供啤酒芳香與苦味；乙、台灣公賣局所產的台灣啤酒屬於 Ale 的一種；丙、生啤酒（Draft Beer）保存期限較一般啤酒短；丁、啤酒越陳越香，須保存一段時間後再享用。 甲乙 甲丙 乙丙 丙丁。 其他：待人工審核 待人工審核",
+    "sequence": 127
+  }
+}

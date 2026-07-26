@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q009-084f1d7bb8",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 9 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5235",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "今年日本發生 311 大地震後，隨即發佈海嘯警報，我國外交部亦立即針對日本東北地區青森、岩手、宮城及福島等 4 縣旅遊地區發佈紅色警示，提醒台灣旅客注意，請問紅色警示的意涵為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "避免非必要旅行"
+      },
+      {
+        "id": "B",
+        "text": "不宜前往"
+      },
+      {
+        "id": "C",
+        "text": "禁止前往"
+      },
+      {
+        "id": "D",
+        "text": "注意旅遊安全。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "今年日本發生 311 大地震後，隨即發佈海嘯警報，我國外交部亦立即針對日本東北地區青森、岩手、宮城及福島等 4 縣旅遊地區發佈紅色警示，提醒台灣旅客注意，請問紅色警示的意涵為何？ 避免非必要旅行 不宜前往 禁止前往 注意旅遊安全。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 34
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q032-a4e4c4fe21",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 32 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-5029",
+    "paperTitle": "二、多選題（全對才給分，每題2分，共10分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 32,
+    "questionType": "multiple-choice",
+    "prompt": "因應新冠肺炎（COVID-19）疫情已擴大至全球大流行，「嚴重特殊傳染性肺炎中央流行疫情指揮中心」陸續提升旅遊疫情建議等級及擴大地區範圍，並提高入境者之管理強度。關於防疫旅館場所基本設備及措施，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "以獨棟建築較佳，儘量避免居家檢疫或隔離者與其他民眾有互動機會"
+      },
+      {
+        "id": "B",
+        "text": "公共區域之環境與房間內之清潔工作，由工作人員每日最少進行一次清潔"
+      },
+      {
+        "id": "C",
+        "text": "居家檢疫或隔離者房間以1人1室為原則，如需有人陪伴或照顧者，例如嬰幼兒、老年人者，照顧者至多1人，非1人1室者於檢疫房間內應確實佩戴口罩"
+      },
+      {
+        "id": "D",
+        "text": "旅館大門、櫃台、電梯口及各樓層等地點，配置50%酒精讓居家檢疫或隔離者方便進行手部消毒（儘可能使用感應式）。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "因應新冠肺炎（COVID-19）疫情已擴大至全球大流行，「嚴重特殊傳染性肺炎中央流行疫情指揮中心」陸續提升旅遊疫情建議等級及擴大地區範圍，並提高入境者之管理強度。關於防疫旅館場所基本設備及措施，下列何者正確？ 以獨棟建築較佳，儘量避免居家檢疫或隔離者與其他民眾有互動機會 公共區域之環境與房間內之清潔工作，由工作人員每日最少進行一次清潔 居家檢疫或隔離者房間以1人1室為原則，如需有人陪伴或照顧者，例如嬰幼兒、老年人者，照顧者至多1人，非1人1室者於檢疫房間內應確實佩戴口罩 旅館大門、櫃台、電梯口及各樓層等地點，配置50%酒精讓居家檢疫或隔離者方便進行手部消毒（儘可能使用感應式）。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1672
+  }
+}

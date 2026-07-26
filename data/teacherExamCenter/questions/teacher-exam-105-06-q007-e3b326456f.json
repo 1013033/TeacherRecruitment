@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q007-e3b326456f",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 7 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-7317",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "旅客或服務於車、船、航空器人員未依規定申請檢疫者，會被處新臺幣多少元以上，15,000元以下罰鍰？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1,000元"
+      },
+      {
+        "id": "B",
+        "text": "1,500元"
+      },
+      {
+        "id": "C",
+        "text": "2,000元"
+      },
+      {
+        "id": "D",
+        "text": "3,000元。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅客或服務於車、船、航空器人員未依規定申請檢疫者，會被處新臺幣多少元以上，15,000元以下罰鍰？ 1,000元 1,500元 2,000元 3,000元。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1005
+  }
+}

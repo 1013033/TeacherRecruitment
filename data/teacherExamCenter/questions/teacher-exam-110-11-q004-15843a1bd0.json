@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q004-15843a1bd0",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 4 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-651",
+    "paperTitle": "一、單選題（每題1分，共30分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "有關於茶葉的知識，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "在茶的成分中，兒茶素（Catechins）又稱茶單寧，綠茶比紅茶含量低"
+      },
+      {
+        "id": "B",
+        "text": "將茶葉的起源、品種、製作、沖泡及飲用方法撰寫成茶經的人是神農氏"
+      },
+      {
+        "id": "C",
+        "text": "臺茶18號，是屬於大葉種，又稱紅玉，成葉葉緣呈明顯波浪狀，有特殊薄荷、肉桂香味"
+      },
+      {
+        "id": "D",
+        "text": "茶樹需要有陽光充足的地方，最適合生長的溫度是 25-35℃。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、綠茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關於茶葉的知識，下列敘述何者正確？ 在茶的成分中，兒茶素（Catechins）又稱茶單寧，綠茶比紅茶含量低 將茶葉的起源、品種、製作、沖泡及飲用方法撰寫成茶經的人是神農氏 臺茶18號，是屬於大葉種，又稱紅玉，成葉葉緣呈明顯波浪狀，有特殊薄荷、肉桂香味 茶樹需要有陽光充足的地方，最適合生長的溫度是 25-35℃。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1644
+  }
+}

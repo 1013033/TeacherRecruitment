@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q012-4cbc65b2f9",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 12 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-10649",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "各國飲食文化皆不同，宗教亦有所禁忌，請問下列那一個宗教，飲食習慣是「禁止喝茶、可樂、酒、咖啡等刺激性食料」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hinduism"
+      },
+      {
+        "id": "B",
+        "text": "Judaism"
+      },
+      {
+        "id": "C",
+        "text": "Mormonism"
+      },
+      {
+        "id": "D",
+        "text": "Catholic。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "各國飲食文化皆不同，宗教亦有所禁忌，請問下列那一個宗教，飲食習慣是「禁止喝茶、可樂、酒、咖啡等刺激性食料」？ Hinduism Judaism Mormonism Catholic。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1140
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q001-d54ae35112",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 1 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-11287",
+    "paperTitle": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "依「發展觀光條例」規定，以下那一行業沒有「觀光專用標識」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "旅行業"
+      },
+      {
+        "id": "B",
+        "text": "觀光旅館業、旅館業"
+      },
+      {
+        "id": "C",
+        "text": "觀光遊樂業"
+      },
+      {
+        "id": "D",
+        "text": "民宿經營者。"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、旅館業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依「發展觀光條例」規定，以下那一行業沒有「觀光專用標識」？ 旅行業 觀光旅館業、旅館業 觀光遊樂業 民宿經營者。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2143
+  }
+}

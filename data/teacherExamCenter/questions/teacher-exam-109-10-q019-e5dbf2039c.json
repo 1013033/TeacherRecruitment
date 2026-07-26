@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q019-e5dbf2039c",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 19 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-8905",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "(甲) Coffee Cup、(乙) Saucer、(丙) Coffee Spoon、(丁) Dessert Fork，這四種器皿中，哪些是屬於 Flatware？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "(甲) Coffee Cup、(乙) Saucer、(丙) Coffee Spoon、(丁) Dessert Fork，這四種器皿中，哪些是屬於 Flatware？ 甲、乙 甲、乙、丙 乙、丙、丁 丙、丁。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1591
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q004-f4ec153644",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 4 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-14707",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列布巾請依西餐餐桌“鋪設順序”排列？ 甲、napkin 乙、table cloth 丙、overlay 丁、silence pad",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丁丙甲"
+      },
+      {
+        "id": "B",
+        "text": "丙丁乙甲"
+      },
+      {
+        "id": "C",
+        "text": "丁乙丙甲"
+      },
+      {
+        "id": "D",
+        "text": "丁丙乙甲"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列布巾請依西餐餐桌“鋪設順序”排列？ 甲、napkin 乙、table cloth 丙、overlay 丁、silence pad 乙丁丙甲 丙丁乙甲 丁乙丙甲 丁丙乙甲 其他：待人工審核 待人工審核",
+    "sequence": 1183
+  }
+}

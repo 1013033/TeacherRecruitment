@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q011-971ebd349f",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 11 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-2597",
+    "paperTitle": "未標示試卷",
+    "schoolName": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列口布款式製作時，何者製作方法為對角法？ 甲、野玫瑰 乙、帆船 丙、西裝 丁、星光燦爛 戊、雨後春筍 己、母蝴蝶",
+    "options": [
+      {
+        "id": "A",
+        "text": "丙、戊"
+      },
+      {
+        "id": "B",
+        "text": "乙、戊"
+      },
+      {
+        "id": "C",
+        "text": "甲、乙、戊"
+      },
+      {
+        "id": "D",
+        "text": "丁、戊。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列口布款式製作時，何者製作方法為對角法？ 甲、野玫瑰 乙、帆船 丙、西裝 丁、星光燦爛 戊、雨後春筍 己、母蝴蝶 丙、戊 乙、戊 甲、乙、戊 丁、戊。 其他：待人工審核 待人工審核",
+    "sequence": 979
+  }
+}

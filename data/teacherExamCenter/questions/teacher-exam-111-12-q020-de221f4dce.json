@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q020-de221f4dce",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 20 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-20763",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "請問吧檯作業的靈魂人物是下面哪一位？",
+    "options": [
+      {
+        "id": "A",
+        "text": "waiter"
+      },
+      {
+        "id": "B",
+        "text": "waitress"
+      },
+      {
+        "id": "C",
+        "text": "bartender"
+      },
+      {
+        "id": "D",
+        "text": "bar manager"
+      },
+      {
+        "id": "E",
+        "text": "sommelier"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：waiter、sommelier"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請問吧檯作業的靈魂人物是下面哪一位？ waiter waitress bartender bar manager sommelier 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1815
+  }
+}

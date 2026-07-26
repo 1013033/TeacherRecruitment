@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q016-59b999e7b6",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 16 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-3430",
+    "paperTitle": "未標示試卷",
+    "schoolName": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "小美從高雄出發到台北，在路途中可以依序喝到何種茶類？ 甲、龍珠茶 乙、松柏長青茶 丙、長安茶 丁、龍泉茶 戊、南港包種茶",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙丁戊"
+      },
+      {
+        "id": "B",
+        "text": "乙甲丁丙戊"
+      },
+      {
+        "id": "C",
+        "text": "甲丁乙丙戊"
+      },
+      {
+        "id": "D",
+        "text": "乙丙甲丁戊。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小美從高雄出發到台北，在路途中可以依序喝到何種茶類？ 甲、龍珠茶 乙、松柏長青茶 丙、長安茶 丁、龍泉茶 戊、南港包種茶 甲乙丙丁戊 乙甲丁丙戊 甲丁乙丙戊 乙丙甲丁戊。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 984
+  }
+}

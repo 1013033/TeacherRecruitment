@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q009-09cea01e20",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 9 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-9390",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "Concierge 為旅館客務服務連絡站，有關此單位工作職責之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "為旅客說明各項設施，綜理旅客物品、書信、書報及留言傳送。"
+      },
+      {
+        "id": "B",
+        "text": "編制有 Bell Service、Flight Greeter 及 Driver 等職務。"
+      },
+      {
+        "id": "C",
+        "text": "工作範疇包含 Shuttle Service、Limousine Service、Valet Parking Service、Wake-up Call Service。"
+      },
+      {
+        "id": "D",
+        "text": "協助夜間主管執行來訪住客接待。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Concierge 為旅館客務服務連絡站，有關此單位工作職責之敘述，下列何者錯誤？ 為旅客說明各項設施，綜理旅客物品、書信、書報及留言傳送。 編制有 Bell Service、Flight Greeter 及 Driver 等職務。 工作範疇包含 Shuttle Service、Limousine Service、Valet Parking Service、Wake-up Call Service。 協助夜間主管執行來訪住客接待。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1741
+  }
+}

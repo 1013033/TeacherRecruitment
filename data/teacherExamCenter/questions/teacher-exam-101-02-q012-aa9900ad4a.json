@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q012-aa9900ad4a",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 12 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-18102",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "台灣的觀光資源眾多，由不同的主管機關單位來負責管理，下列描述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "台江國家公園—內政部營建署"
+      },
+      {
+        "id": "B",
+        "text": "溪頭森林遊樂區—退輔會"
+      },
+      {
+        "id": "C",
+        "text": "大鵬灣國家風景區—交通部觀光局"
+      },
+      {
+        "id": "D",
+        "text": "奧萬大森林遊樂區—農委會林務局"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "台灣的觀光資源眾多，由不同的主管機關單位來負責管理，下列描述何者錯誤？ 台江國家公園—內政部營建署 溪頭森林遊樂區—退輔會 大鵬灣國家風景區—交通部觀光局 奧萬大森林遊樂區—農委會林務局 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 346
+  }
+}

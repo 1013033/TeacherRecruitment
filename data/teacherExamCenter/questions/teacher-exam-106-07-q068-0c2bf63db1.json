@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q068-0c2bf63db1",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 68 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-22755",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 68,
+    "questionType": "single-choice",
+    "prompt": "欲製作咖啡拉花，宜選擇哪一種鮮奶製作出來的蒸氣奶泡較為持久而穩定？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Whole Milk"
+      },
+      {
+        "id": "B",
+        "text": "Low Fat Milk"
+      },
+      {
+        "id": "C",
+        "text": "Skim Milk"
+      },
+      {
+        "id": "D",
+        "text": "Fortified Milk。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "欲製作咖啡拉花，宜選擇哪一種鮮奶製作出來的蒸氣奶泡較為持久而穩定？ Whole Milk Low Fat Milk Skim Milk Fortified Milk。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1247
+  }
+}

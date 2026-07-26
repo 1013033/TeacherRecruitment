@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q004-85286b2f5d",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 4 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-7142",
+    "paperTitle": "一、選擇題，每題1分，共22分。",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "旅行社合組 PAK 團可視為旅遊行銷「8P」組合的那一項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Partnership"
+      },
+      {
+        "id": "B",
+        "text": "Programming"
+      },
+      {
+        "id": "C",
+        "text": "Promotion"
+      },
+      {
+        "id": "D",
+        "text": "Product"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅行社合組 PAK 團可視為旅遊行銷「8P」組合的那一項？ Partnership Programming Promotion Product 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1576
+  }
+}

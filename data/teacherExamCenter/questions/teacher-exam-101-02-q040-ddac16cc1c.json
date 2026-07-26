@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q040-ddac16cc1c",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 40 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-8432",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "下列有關台灣茶的敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "南投鹿谷有「含最豐富的紅茶的故鄉」之美稱"
+      },
+      {
+        "id": "B",
+        "text": "「白毫烏龍」有東方美人之稱號屬於重發酵茶沖泡水溫以 95℃為宜"
+      },
+      {
+        "id": "C",
+        "text": "「凍頂烏龍」其外觀緊結成半球狀，色澤墨綠色"
+      },
+      {
+        "id": "D",
+        "text": "「台北木柵的貓空茶區以生產「龍井茶」聞名。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關台灣茶的敘述何者正確？ 南投鹿谷有「含最豐富的紅茶的故鄉」之美稱 「白毫烏龍」有東方美人之稱號屬於重發酵茶沖泡水溫以 95℃為宜 「凍頂烏龍」其外觀緊結成半球狀，色澤墨綠色 「台北木柵的貓空茶區以生產「龍井茶」聞名。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 232
+  }
+}

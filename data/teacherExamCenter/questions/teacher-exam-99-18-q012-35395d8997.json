@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q012-35395d8997",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 12 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-17254",
+    "paperTitle": "一、單選題（每題二分，共四十分）",
+    "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "下列何者為航空公司給予旅行從業人員折扣機票的代碼？",
+    "options": [
+      {
+        "id": "A",
+        "text": "AB"
+      },
+      {
+        "id": "B",
+        "text": "AC"
+      },
+      {
+        "id": "C",
+        "text": "AD"
+      },
+      {
+        "id": "D",
+        "text": "AT。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者為航空公司給予旅行從業人員折扣機票的代碼？ AB AC AD AT。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2938
+  }
+}

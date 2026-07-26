@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q015-712d42ccd2",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 15 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-15330",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "依據我國「促進民間參與公共建設法」，下列那一種民間機構參與公共建設之模式，不須將營運權歸還政府？",
+    "options": [
+      {
+        "id": "A",
+        "text": "B.O.T"
+      },
+      {
+        "id": "B",
+        "text": "B.O.O"
+      },
+      {
+        "id": "C",
+        "text": "O.T"
+      },
+      {
+        "id": "D",
+        "text": "R.O.T。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據我國「促進民間參與公共建設法」，下列那一種民間機構參與公共建設之模式，不須將營運權歸還政府？ B.O.T B.O.O O.T R.O.T。 其他：待人工審核 待人工審核",
+    "sequence": 497
+  }
+}

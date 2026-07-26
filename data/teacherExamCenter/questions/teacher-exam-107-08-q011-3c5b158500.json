@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q011-3c5b158500",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 11 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-1953",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "根據「國外旅遊預警分級表」之分級，從最輕的提醒注意到最嚴重的不宜前往，請問「避免非必要旅行」是屬於？",
+    "options": [
+      {
+        "id": "A",
+        "text": "灰色"
+      },
+      {
+        "id": "B",
+        "text": "橙色"
+      },
+      {
+        "id": "C",
+        "text": "黃色"
+      },
+      {
+        "id": "D",
+        "text": "紅色。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據「國外旅遊預警分級表」之分級，從最輕的提醒注意到最嚴重的不宜前往，請問「避免非必要旅行」是屬於？ 灰色 橙色 黃色 紅色。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1322
+  }
+}

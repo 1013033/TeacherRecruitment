@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q018-59a32ddced",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 18 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-15939",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "關於旅館術語，下列何者錯誤？ 甲、House Use：試住房（公務房） 乙、Relet Room：免費房 丙、Sleeper：沉睡房（指已登記入住但實際上未睡或空房，或登記但未交房） 丁、Walking Guest：將旅客轉至其他旅館 戊、On Change：換房旅客",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丁戊"
+      },
+      {
+        "id": "B",
+        "text": "甲丁"
+      },
+      {
+        "id": "C",
+        "text": "丙丁戊"
+      },
+      {
+        "id": "D",
+        "text": "甲乙戊。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於旅館術語，下列何者錯誤？ 甲、House Use：試住房（公務房） 乙、Relet Room：免費房 丙、Sleeper：沉睡房（指已登記入住但實際上未睡或空房，或登記但未交房） 丁、Walking Guest：將旅客轉至其他旅館 戊、On Change：換房旅客 甲乙丁戊 甲丁 丙丁戊 甲乙戊。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 500
+  }
+}

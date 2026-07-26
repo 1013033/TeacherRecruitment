@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q004-ff0fa8e7f1",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 4 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-961",
+    "paperTitle": "第一部分：選擇題（共40分）",
+    "schoolName": "第一部分：教育部受託辦理 112 學年度公立高級中等學校教師甄選",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "近年來臺灣戶外休閒活動盛行，綜藝實境節目《光露營就很忙了》搭上流行風潮，記錄女明星露營遇到的有趣事情，請問「露營」為行政院主計處行業標準分類中的哪一類別？",
+    "options": [
+      {
+        "id": "A",
+        "text": "R大類-娛樂及休閒服務業"
+      },
+      {
+        "id": "B",
+        "text": "R大類-運動服務業"
+      },
+      {
+        "id": "C",
+        "text": "I大類-其他住宿業"
+      },
+      {
+        "id": "D",
+        "text": "I大類-短期住宿業。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "近年來臺灣戶外休閒活動盛行，綜藝實境節目《光露營就很忙了》搭上流行風潮，記錄女明星露營遇到的有趣事情，請問「露營」為行政院主計處行業標準分類中的哪一類別？ R大類-娛樂及休閒服務業 R大類-運動服務業 I大類-其他住宿業 I大類-短期住宿業。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1906
+  }
+}

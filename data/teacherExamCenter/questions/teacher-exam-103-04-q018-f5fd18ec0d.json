@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q018-f5fd18ec0d",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 18 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-2403",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列何者非豆製品？甲. 腐竹；乙. 素雞；丙. 烤麩；丁. 百頁；戊. 麵筋。",
+    "options": [
+      {
+        "id": "A",
+        "text": "丙、戊"
+      },
+      {
+        "id": "B",
+        "text": "乙、丁"
+      },
+      {
+        "id": "C",
+        "text": "丙、丁、戊"
+      },
+      {
+        "id": "D",
+        "text": "乙、丙、戊。"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者非豆製品？甲. 腐竹；乙. 素雞；丙. 烤麩；丁. 百頁；戊. 麵筋。 丙、戊 乙、丁 丙、丁、戊 乙、丙、戊。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 520
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q008-3ff7c20452",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 8 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-1668",
+    "paperTitle": "未標示試卷",
+    "schoolName": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "傳統法式餐廳職務的編制，由低到高的順序是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Directeur de Restaurant < Demi Chef De Rang < Commis de Débarrasseur < Commis de Rang < Maître d'hôtel de carré"
+      },
+      {
+        "id": "B",
+        "text": "Directeur de Restaurant < Maître d'hôtel de carré < Demi Chef De Rang < Commis de Débarrasseur < Commis de Rang"
+      },
+      {
+        "id": "C",
+        "text": "Commis de Débarrasseur < Commis de Rang < Demi Chef de Rang < Maître d'hôtel de carré < Directeur de Restaurant"
+      },
+      {
+        "id": "D",
+        "text": "Commis de Débarrasseur < Directeur de Restaurant < Demi Chef De Rang < Maître d'hôtel de carré < Commis de Rang"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、restaurant、chef de rang"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "傳統法式餐廳職務的編制，由低到高的順序是？ Directeur de Restaurant < Demi Chef De Rang < Commis de Débarrasseur < Commis de Rang < Maître d'hôtel de carré Directeur de Restaurant < Maître d'hôtel de carré < Demi Chef De Rang < Commis de Débarrasseur < Commis de Rang Commis de Débarrasseur < Commis de Rang < Demi Chef de Rang < Maître d'hôtel de carré < Directeur de Restaurant Commis de Débarrasseur < Directeur de Restaurant < Demi Chef De Rang < Maître d'hôtel de carré < Commis de Rang 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 976
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q014-24b7c63ad0",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 14 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-19484",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "日本料理店中的烤雞腿，其歸屬於菜單中何項類別？",
+    "options": [
+      {
+        "id": "A",
+        "text": "揚物（AGEMONO）"
+      },
+      {
+        "id": "B",
+        "text": "燒物（YAKIMONO）"
+      },
+      {
+        "id": "C",
+        "text": "煮物（NIMONO）"
+      },
+      {
+        "id": "D",
+        "text": "吸物（SUIMONO）。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煮、烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "日本料理店中的烤雞腿，其歸屬於菜單中何項類別？ 揚物（AGEMONO） 燒物（YAKIMONO） 煮物（NIMONO） 吸物（SUIMONO）。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 747
+  }
+}

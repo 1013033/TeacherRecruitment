@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q011-c78a7e90a6",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 11 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-18159",
+    "paperTitle": "一、選擇題",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "Which the coffee portion is the smallest?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Espresso Coffee"
+      },
+      {
+        "id": "B",
+        "text": "Cappuccino Coffee"
+      },
+      {
+        "id": "C",
+        "text": "Royal Coffee"
+      },
+      {
+        "id": "D",
+        "text": "Hawaii Coffee"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee、espresso、cappuccino"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which the coffee portion is the smallest? Espresso Coffee Cappuccino Coffee Royal Coffee Hawaii Coffee 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2469
+  }
+}

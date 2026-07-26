@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q003-27cf50ea75",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 3 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-1076",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "我國飲料店品牌發展年代，請依在臺灣設立年份由前至後排列。甲、星巴客；乙、羅多倫咖啡；丙、春水堂；丁、怡客咖啡；戊、西雅圖咖啡",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙甲丙丁戊"
+      },
+      {
+        "id": "B",
+        "text": "乙甲丙戊丁"
+      },
+      {
+        "id": "C",
+        "text": "丙乙丁甲戊"
+      },
+      {
+        "id": "D",
+        "text": "丙乙丁戊甲。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國飲料店品牌發展年代，請依在臺灣設立年份由前至後排列。甲、星巴客；乙、羅多倫咖啡；丙、春水堂；丁、怡客咖啡；戊、西雅圖咖啡 乙甲丙丁戊 乙甲丙戊丁 丙乙丁甲戊 丙乙丁戊甲。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1314
+  }
+}

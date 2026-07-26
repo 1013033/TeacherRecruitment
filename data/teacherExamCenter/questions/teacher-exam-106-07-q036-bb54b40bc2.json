@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q036-bb54b40bc2",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 36 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-7126",
+    "paperTitle": "二、複選題（全對才給分）",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 36,
+    "questionType": "multiple-choice",
+    "prompt": "團體作業流程中，哪些選項是「參團作業」應辦理的事項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "受理旅客報名"
+      },
+      {
+        "id": "B",
+        "text": "海外代理商訂團作業"
+      },
+      {
+        "id": "C",
+        "text": "簽證作業和代辦護照"
+      },
+      {
+        "id": "D",
+        "text": "旅客資料建檔。"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "團體作業流程中，哪些選項是「參團作業」應辦理的事項？ 受理旅客報名 海外代理商訂團作業 簽證作業和代辦護照 旅客資料建檔。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1113
+  }
+}

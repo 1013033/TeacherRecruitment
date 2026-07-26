@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q039-436322fad1",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 39 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-16862",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "通常飲用年份較久的紅酒時，須先將瓶塞拉開讓酒呼吸；酒中若有沉澱物，則須做過酒之動作，此時酒須倒入下列何種器皿中？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Decanter"
+      },
+      {
+        "id": "B",
+        "text": "Wine Baskets"
+      },
+      {
+        "id": "C",
+        "text": "Wine Buckets"
+      },
+      {
+        "id": "D",
+        "text": "Corkscrews。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：紅酒、wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "通常飲用年份較久的紅酒時，須先將瓶塞拉開讓酒呼吸；酒中若有沉澱物，則須做過酒之動作，此時酒須倒入下列何種器皿中？ Decanter Wine Baskets Wine Buckets Corkscrews。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 136
+  }
+}

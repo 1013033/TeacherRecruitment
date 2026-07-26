@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q005-de91f86e1e",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 5 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-10254",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "附圖為某餐廳的廚房格局（中島式/並排式），此種廚房格局的特點為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "適用於窄長型、設備較少的廚房場地"
+      },
+      {
+        "id": "B",
+        "text": "適用於供應團體膳食的廚房"
+      },
+      {
+        "id": "C",
+        "text": "適用於面積不大的廚房場地"
+      },
+      {
+        "id": "D",
+        "text": "有利於瓦斯、電力、通風設備等管線的安裝整合。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "附圖為某餐廳的廚房格局（中島式/並排式），此種廚房格局的特點為何？ 適用於窄長型、設備較少的廚房場地 適用於供應團體膳食的廚房 適用於面積不大的廚房場地 有利於瓦斯、電力、通風設備等管線的安裝整合。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 467
+  }
+}

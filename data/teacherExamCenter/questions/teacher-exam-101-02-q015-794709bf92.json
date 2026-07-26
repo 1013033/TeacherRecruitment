@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q015-794709bf92",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 15 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-18426",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "在旅館星級評鑑制度方面，只有屬於五星級旅館必備的基本條件，是下列哪一項服務或設施？",
+    "options": [
+      {
+        "id": "A",
+        "text": "商務中心"
+      },
+      {
+        "id": "B",
+        "text": "客房無線上網"
+      },
+      {
+        "id": "C",
+        "text": "兩間以上高級餐廳"
+      },
+      {
+        "id": "D",
+        "text": "乾溼分離衛浴設施"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "在旅館星級評鑑制度方面，只有屬於五星級旅館必備的基本條件，是下列哪一項服務或設施？ 商務中心 客房無線上網 兩間以上高級餐廳 乾溼分離衛浴設施 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 349
+  }
+}

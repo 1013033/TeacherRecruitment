@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q026-72008c30d1",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 26 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-18126",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "依序說明旅館客房狀態的專業術語：V/R、V/M、SO、HU，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "可售空房 / 故障房 / 遷入未宿 / 公務用"
+      },
+      {
+        "id": "B",
+        "text": "可售空房 / 空房已打掃 / 遷入未宿 / 休息用未留宿過夜"
+      },
+      {
+        "id": "C",
+        "text": "已整理的空房 / 未清潔空房 / 遷入未宿 / 公務用"
+      },
+      {
+        "id": "D",
+        "text": "可售空房 / 未清潔空房 / 逃帳 / 休息用未留宿過夜"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依序說明旅館客房狀態的專業術語：V/R、V/M、SO、HU，下列何者正確？ 可售空房 / 故障房 / 遷入未宿 / 公務用 可售空房 / 空房已打掃 / 遷入未宿 / 休息用未留宿過夜 已整理的空房 / 未清潔空房 / 遷入未宿 / 公務用 可售空房 / 未清潔空房 / 逃帳 / 休息用未留宿過夜 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1205
+  }
+}

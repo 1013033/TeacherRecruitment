@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q010-d14b6e70b8",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 10 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-1731",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "目前全球最大的飯店集團為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Intercontinental Hotels Group, IHG"
+      },
+      {
+        "id": "B",
+        "text": "Marriott International"
+      },
+      {
+        "id": "C",
+        "text": "Hilton Worldwide"
+      },
+      {
+        "id": "D",
+        "text": "Shangri-La Hotels & Resorts。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "目前全球最大的飯店集團為： Intercontinental Hotels Group, IHG Marriott International Hilton Worldwide Shangri-La Hotels & Resorts。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1087
+  }
+}

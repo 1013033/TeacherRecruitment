@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q004-e58e96926b",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 4 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-3589",
+    "paperTitle": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "法式歐蕾咖啡（café au lait）是指咖啡中加入下列哪一種食材。",
+    "options": [
+      {
+        "id": "A",
+        "text": "肉桂粉"
+      },
+      {
+        "id": "B",
+        "text": "牛奶"
+      },
+      {
+        "id": "C",
+        "text": "結晶糖"
+      },
+      {
+        "id": "D",
+        "text": "鮮奶油。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、au lait"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "法式歐蕾咖啡（café au lait）是指咖啡中加入下列哪一種食材。 肉桂粉 牛奶 結晶糖 鮮奶油。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 531
+  }
+}

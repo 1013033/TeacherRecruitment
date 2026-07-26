@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q070-ba6e426b0f",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 70 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-22931",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 70,
+    "questionType": "single-choice",
+    "prompt": "德國的葡萄酒，在酒瓶上若標示出葡萄品種「Riesling」，表示此瓶酒有多少%是使用 Riesling 品種來製造的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "75%"
+      },
+      {
+        "id": "B",
+        "text": "85%"
+      },
+      {
+        "id": "C",
+        "text": "90%"
+      },
+      {
+        "id": "D",
+        "text": "100%。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、riesling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "德國的葡萄酒，在酒瓶上若標示出葡萄品種「Riesling」，表示此瓶酒有多少%是使用 Riesling 品種來製造的？ 75% 85% 90% 100%。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1249
+  }
+}

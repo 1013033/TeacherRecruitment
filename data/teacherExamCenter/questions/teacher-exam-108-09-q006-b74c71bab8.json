@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q006-b74c71bab8",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 6 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-10437",
+    "paperTitle": "第一部份:選擇題(共計30分)",
+    "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "請問在飯店所提供的 Extra Bed Service中,下列何者屬之？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Turn-down Service"
+      },
+      {
+        "id": "B",
+        "text": "Baby Cot Service"
+      },
+      {
+        "id": "C",
+        "text": "Room Service"
+      },
+      {
+        "id": "D",
+        "text": "Laundry & Pressing Service"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請問在飯店所提供的 Extra Bed Service中,下列何者屬之？ Turn-down Service Baby Cot Service Room Service Laundry & Pressing Service 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1497
+  }
+}

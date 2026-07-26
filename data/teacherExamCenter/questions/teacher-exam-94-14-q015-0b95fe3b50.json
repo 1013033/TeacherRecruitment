@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q015-0b95fe3b50",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 15 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-1603",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "新鮮乳酪因未經熟成而乳凝，質地柔軟且色澤較白，製作完成時間短，下列何者非屬於新鮮乳酪？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gruyere"
+      },
+      {
+        "id": "B",
+        "text": "Mozzarella"
+      },
+      {
+        "id": "C",
+        "text": "Cottage"
+      },
+      {
+        "id": "D",
+        "text": "Ricotta。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "新鮮乳酪因未經熟成而乳凝，質地柔軟且色澤較白，製作完成時間短，下列何者非屬於新鮮乳酪？ Gruyere Mozzarella Cottage Ricotta。 其他：待人工審核 待人工審核",
+    "sequence": 2016
+  }
+}

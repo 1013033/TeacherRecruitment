@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q012-2bc38d4ae1",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 12 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-2356",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+    "questionNumber": 12,
+    "questionType": "multiple-choice",
+    "prompt": "關於簽證與護照的說明與種類，下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "與我國最早簽定打工渡假簽證的國家是澳洲與紐西蘭"
+      },
+      {
+        "id": "B",
+        "text": "國人於 101 年 11 月 1 日起前往美國，只要持新版晶片護照即可免簽證進入美國進行各種活動"
+      },
+      {
+        "id": "C",
+        "text": "我國新版護照內頁是以臺灣景點地標及風土民情為底色圖案主題，並搭配臺灣生態「寬尾鳳蝶」"
+      },
+      {
+        "id": "D",
+        "text": "普通護照中未滿 14 歲者的護照效期為五年，役男護照效期為 3 年。"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於簽證與護照的說明與種類，下列何者為非？ 與我國最早簽定打工渡假簽證的國家是澳洲與紐西蘭 國人於 101 年 11 月 1 日起前往美國，只要持新版晶片護照即可免簽證進入美國進行各種活動 我國新版護照內頁是以臺灣景點地標及風土民情為底色圖案主題，並搭配臺灣生態「寬尾鳳蝶」 普通護照中未滿 14 歲者的護照效期為五年，役男護照效期為 3 年。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 413
+  }
+}

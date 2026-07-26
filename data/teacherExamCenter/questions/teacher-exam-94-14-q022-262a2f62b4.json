@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q022-262a2f62b4",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 22 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-2148",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "肌纖維較短，較鬆散的家禽肉類宜採用何種刀法切割肉質感較嫩：",
+    "options": [
+      {
+        "id": "A",
+        "text": "橫紋切"
+      },
+      {
+        "id": "B",
+        "text": "順紋切"
+      },
+      {
+        "id": "C",
+        "text": "菱形片"
+      },
+      {
+        "id": "D",
+        "text": "反斜切。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "肌纖維較短，較鬆散的家禽肉類宜採用何種刀法切割肉質感較嫩： 橫紋切 順紋切 菱形片 反斜切。 其他：待人工審核 待人工審核",
+    "sequence": 2023
+  }
+}

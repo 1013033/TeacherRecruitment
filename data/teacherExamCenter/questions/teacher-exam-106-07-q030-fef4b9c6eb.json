@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q030-fef4b9c6eb",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 30 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-6325",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "下列關於 Tailor-made Tour 的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "以大量生產、大量銷售為原則"
+      },
+      {
+        "id": "B",
+        "text": "全備旅遊通常屬此類行程"
+      },
+      {
+        "id": "C",
+        "text": "客人對行程安排享有較大的自主空間"
+      },
+      {
+        "id": "D",
+        "text": "業者先規劃行程產品，再推出市場銷售，尋找顧客。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於 Tailor-made Tour 的敘述，何者正確？ 以大量生產、大量銷售為原則 全備旅遊通常屬此類行程 客人對行程安排享有較大的自主空間 業者先規劃行程產品，再推出市場銷售，尋找顧客。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1107
+  }
+}

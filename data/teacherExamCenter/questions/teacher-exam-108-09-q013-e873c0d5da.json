@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q013-e873c0d5da",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 13 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-11150",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 13,
+    "questionType": "multiple-choice",
+    "prompt": "在諸多加拿大威士忌品牌中,請問下列哪些為加拿大威士忌之品牌？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jim Beam"
+      },
+      {
+        "id": "B",
+        "text": "Seagram's VO"
+      },
+      {
+        "id": "C",
+        "text": "Seagram's Crown Royal"
+      },
+      {
+        "id": "D",
+        "text": "Jameson"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在諸多加拿大威士忌品牌中,請問下列哪些為加拿大威士忌之品牌？ Jim Beam Seagram's VO Seagram's Crown Royal Jameson 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1504
+  }
+}

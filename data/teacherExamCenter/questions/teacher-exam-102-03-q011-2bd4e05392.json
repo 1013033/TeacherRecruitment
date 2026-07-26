@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q011-2bd4e05392",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 11 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-11535",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "Strudel 是一種：",
+    "options": [
+      {
+        "id": "A",
+        "text": "麵包丁"
+      },
+      {
+        "id": "B",
+        "text": "麵條"
+      },
+      {
+        "id": "C",
+        "text": "麵糊"
+      },
+      {
+        "id": "D",
+        "text": "餡餅（蘋果捲）。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Strudel 是一種： 麵包丁 麵條 麵糊 餡餅（蘋果捲）。 其他：待人工審核 待人工審核",
+    "sequence": 473
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q020-76dbd2ab6d",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 20 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-3007",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "葡萄酒產生的沈澱物時間久了會傷害到葡萄酒本身，因此須將舊桶移至新桶，稱為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bottled"
+      },
+      {
+        "id": "B",
+        "text": "Filtration"
+      },
+      {
+        "id": "C",
+        "text": "Fining"
+      },
+      {
+        "id": "D",
+        "text": "Racking。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "葡萄酒產生的沈澱物時間久了會傷害到葡萄酒本身，因此須將舊桶移至新桶，稱為？ Bottled Filtration Fining Racking。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1331
+  }
+}

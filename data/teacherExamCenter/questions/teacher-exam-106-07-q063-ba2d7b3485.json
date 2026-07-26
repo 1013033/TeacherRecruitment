@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q063-ba2d7b3485",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 63 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-22296",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 63,
+    "questionType": "single-choice",
+    "prompt": "茶葉若以季節來分類，「東方美人茶」應該歸類為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "春茶"
+      },
+      {
+        "id": "B",
+        "text": "夏茶"
+      },
+      {
+        "id": "C",
+        "text": "秋茶"
+      },
+      {
+        "id": "D",
+        "text": "冬茶。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "茶葉若以季節來分類，「東方美人茶」應該歸類為： 春茶 夏茶 秋茶 冬茶。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1242
+  }
+}

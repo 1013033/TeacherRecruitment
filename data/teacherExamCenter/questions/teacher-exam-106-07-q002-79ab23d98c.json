@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q002-79ab23d98c",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 2 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-26603",
+    "paperTitle": "一、單選題（每題 1 分，共 20 分）",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "關於雞尾酒的杯皿，請問下列哪一組雞尾酒所使用的杯皿是相同的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kir / Kir Royale。"
+      },
+      {
+        "id": "B",
+        "text": "Vodka Espresso / Jolt'ini。"
+      },
+      {
+        "id": "C",
+        "text": "Picasso / Caravan。"
+      },
+      {
+        "id": "D",
+        "text": "Americano / Tropic。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：vodka"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於雞尾酒的杯皿，請問下列哪一組雞尾酒所使用的杯皿是相同的？ Kir / Kir Royale。 Vodka Espresso / Jolt'ini。 Picasso / Caravan。 Americano / Tropic。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1281
+  }
+}

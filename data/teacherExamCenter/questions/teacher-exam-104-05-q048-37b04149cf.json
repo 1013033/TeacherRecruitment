@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q048-37b04149cf",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 48 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-10542",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "下列何者無法提供飯店行銷業務部，做為客製化服務的依據？",
+    "options": [
+      {
+        "id": "A",
+        "text": "顧客歷史資料"
+      },
+      {
+        "id": "B",
+        "text": "房間檢查報告"
+      },
+      {
+        "id": "C",
+        "text": "訂房紀錄表"
+      },
+      {
+        "id": "D",
+        "text": "顧客建議與意見書。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者無法提供飯店行銷業務部，做為客製化服務的依據？ 顧客歷史資料 房間檢查報告 訂房紀錄表 顧客建議與意見書。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 653
+  }
+}

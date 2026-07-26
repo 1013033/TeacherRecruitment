@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q026-bd7198633b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 26 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-12427",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "「Red House Steak」想挑選套餐的餐前酒，下列何者較適合？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cinzano"
+      },
+      {
+        "id": "B",
+        "text": "Madeira"
+      },
+      {
+        "id": "C",
+        "text": "Baileys"
+      },
+      {
+        "id": "D",
+        "text": "Manuka Honey Liqueur"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "「Red House Steak」想挑選套餐的餐前酒，下列何者較適合？ Cinzano Madeira Baileys Manuka Honey Liqueur 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1758
+  }
+}

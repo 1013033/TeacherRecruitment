@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q003-204340cae5",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 3 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-4903",
+    "paperTitle": "一、選擇題",
+    "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列何者不屬於餐廳的前場人員？",
+    "options": [
+      {
+        "id": "A",
+        "text": "經理"
+      },
+      {
+        "id": "B",
+        "text": "副理"
+      },
+      {
+        "id": "C",
+        "text": "主廚"
+      },
+      {
+        "id": "D",
+        "text": "服務員"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、服務員"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不屬於餐廳的前場人員？ 經理 副理 主廚 服務員 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2053
+  }
+}

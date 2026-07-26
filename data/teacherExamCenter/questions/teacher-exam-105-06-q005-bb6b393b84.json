@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q005-bb6b393b84",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 5 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-15377",
+    "paperTitle": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "英文名稱為Ambassador Hotel的是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "國賓飯店"
+      },
+      {
+        "id": "B",
+        "text": "中泰賓館"
+      },
+      {
+        "id": "C",
+        "text": "老爺飯店"
+      },
+      {
+        "id": "D",
+        "text": "福容飯店。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "英文名稱為Ambassador Hotel的是？ 國賓飯店 中泰賓館 老爺飯店 福容飯店。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1057
+  }
+}

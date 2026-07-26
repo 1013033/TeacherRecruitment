@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q031-cdbd89895f",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 31 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-22113",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 31,
+    "questionType": "multiple-choice",
+    "prompt": "餐飲業常可遇到各類素食消費者，根據食藥署資料，下列「素食」之定義，何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "「全素」：絕對不吃牛、豬、雞、海鮮等各種肉類"
+      },
+      {
+        "id": "B",
+        "text": "「植物五辛素」可以吃蔥、蒜、韭、薤菜及興藥這五類食物"
+      },
+      {
+        "id": "C",
+        "text": "薑和辣椒也是植物五辛 (薑和辣椒不屬於植物五辛)"
+      },
+      {
+        "id": "D",
+        "text": "「奶蛋素」：可以吃奶類與蛋類"
+      },
+      {
+        "id": "E",
+        "text": "「奶蛋素」：不能吃奶類與蛋類 (此敘述為非)"
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐飲業常可遇到各類素食消費者，根據食藥署資料，下列「素食」之定義，何者為非？ 「全素」：絕對不吃牛、豬、雞、海鮮等各種肉類 「植物五辛素」可以吃蔥、蒜、韭、薤菜及興藥這五類食物 薑和辣椒也是植物五辛 (薑和辣椒不屬於植物五辛) 「奶蛋素」：可以吃奶類與蛋類 「奶蛋素」：不能吃奶類與蛋類 (此敘述為非) 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1826
+  }
+}

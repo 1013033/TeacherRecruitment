@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q005-3a4328e424",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 5 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-17860",
+    "paperTitle": "一、選擇題（1 題 1 分，共 20 分）",
+    "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "某甲今年畢業於國立大學的觀光系，任職於 A 旅行社，為專任業務人員。請問，某甲應工作滿幾年才能夠具備申請「旅行業經理人」受訓之資格？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 年"
+      },
+      {
+        "id": "B",
+        "text": "2 年"
+      },
+      {
+        "id": "C",
+        "text": "3 年"
+      },
+      {
+        "id": "D",
+        "text": "4 年。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "某甲今年畢業於國立大學的觀光系，任職於 A 旅行社，為專任業務人員。請問，某甲應工作滿幾年才能夠具備申請「旅行業經理人」受訓之資格？ 1 年 2 年 3 年 4 年。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 145
+  }
+}

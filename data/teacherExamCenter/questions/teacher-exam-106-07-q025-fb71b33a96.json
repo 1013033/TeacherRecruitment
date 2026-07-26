@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q025-fb71b33a96",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 25 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-4864",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "西方餐飲業的發展，其先後順序的排列，下列哪一項正確？甲、英國倫敦出現 Public Cook House 乙、法國巴黎開設一家 Public Eating Place，提供套餐服務 丙、敘利亞的大馬士革出現咖啡屋 丁、義大利威尼斯商人在歐洲開設 Bottega del Caffè 戊、法國皇室御廚 Francois Pierre de La Varenne 出版「法國廚師」一書，介紹許多 sauce 的製作",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲 → 丙 → 乙 → 丁 → 戊"
+      },
+      {
+        "id": "B",
+        "text": "丙 → 乙 → 甲 → 丁 → 戊"
+      },
+      {
+        "id": "C",
+        "text": "乙 → 甲 → 丁 → 丙 → 戊"
+      },
+      {
+        "id": "D",
+        "text": "甲 → 丙 → 戊 → 乙 → 丁。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "西方餐飲業的發展，其先後順序的排列，下列哪一項正確？甲、英國倫敦出現 Public Cook House 乙、法國巴黎開設一家 Public Eating Place，提供套餐服務 丙、敘利亞的大馬士革出現咖啡屋 丁、義大利威尼斯商人在歐洲開設 Bottega del Caffè 戊、法國皇室御廚 Francois Pierre de La Varenne 出版「法國廚師」一書，介紹許多 sauce 的製作 甲 → 丙 → 乙 → 丁 → 戊 丙 → 乙 → 甲 → 丁 → 戊 乙 → 甲 → 丁 → 丙 → 戊 甲 → 丙 → 戊 → 乙 → 丁。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1102
+  }
+}

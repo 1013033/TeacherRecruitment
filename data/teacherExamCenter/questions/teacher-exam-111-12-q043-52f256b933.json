@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q043-52f256b933",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 43 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-15579",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 43,
+    "questionType": "multiple-choice",
+    "prompt": "截至民國 111 年 2 月止，有關我國出入境規定之敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "出入境聯檢流程包括 Customs、Immigration、Quarantine"
+      },
+      {
+        "id": "B",
+        "text": "免稅物品以自用及家用者為限...（略）"
+      },
+      {
+        "id": "C",
+        "text": "旅客應備 Passport、Visa、Ticket，前往疫區或來自疫區者，另備 Shot 證明"
+      },
+      {
+        "id": "D",
+        "text": "旅客如攜帶 CNY 現鈔 2 萬元入境，得經由綠線檯通關"
+      },
+      {
+        "id": "E",
+        "text": "托運行李遺失需向 Customs 索取 PIR 表申報遺失協尋"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：passport、visa、ticket"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "截至民國 111 年 2 月止，有關我國出入境規定之敘述，下列何者正確？ 出入境聯檢流程包括 Customs、Immigration、Quarantine 免稅物品以自用及家用者為限...（略） 旅客應備 Passport、Visa、Ticket，前往疫區或來自疫區者，另備 Shot 證明 旅客如攜帶 CNY 現鈔 2 萬元入境，得經由綠線檯通關 托運行李遺失需向 Customs 索取 PIR 表申報遺失協尋 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1775
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q010-6d8bbc2c28",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 10 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-14369",
+    "paperTitle": "一、單選題（每題2分，共50分）",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "以下那一項不是客房內的「guest expendables」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "SKII 化妝水"
+      },
+      {
+        "id": "B",
+        "text": "聖經"
+      },
+      {
+        "id": "C",
+        "text": "印刷精美的信封"
+      },
+      {
+        "id": "D",
+        "text": "牙刷。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下那一項不是客房內的「guest expendables」？ SKII 化妝水 聖經 印刷精美的信封 牙刷。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 309
+  }
+}

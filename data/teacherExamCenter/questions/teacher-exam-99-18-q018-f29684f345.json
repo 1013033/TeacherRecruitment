@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q018-f29684f345",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 18 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-3031",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "若開發出新旅遊產品，為求業務發展，經市場評估且推廣預算充足時，透過相關產業聯合舉辦同業間實地考察之，以利下游的同業日後代為開發與推廣，則稱為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "All Inclusive Package Tour"
+      },
+      {
+        "id": "B",
+        "text": "Foreign Independent Traveler"
+      },
+      {
+        "id": "C",
+        "text": "Comprehensive Tour"
+      },
+      {
+        "id": "D",
+        "text": "Familiarization Tour"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "若開發出新旅遊產品，為求業務發展，經市場評估且推廣預算充足時，透過相關產業聯合舉辦同業間實地考察之，以利下游的同業日後代為開發與推廣，則稱為？ All Inclusive Package Tour Foreign Independent Traveler Comprehensive Tour Familiarization Tour 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2804
+  }
+}

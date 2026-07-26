@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q027-9a924f5614",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 27 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-4144",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "下列品牌之威士忌，何者之原料分類和其他三者不同？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glenlivet"
+      },
+      {
+        "id": "B",
+        "text": "Chivas Regal"
+      },
+      {
+        "id": "C",
+        "text": "Macallan"
+      },
+      {
+        "id": "D",
+        "text": "Glenfiddich"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列品牌之威士忌，何者之原料分類和其他三者不同？ Glenlivet Chivas Regal Macallan Glenfiddich 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1714
+  }
+}

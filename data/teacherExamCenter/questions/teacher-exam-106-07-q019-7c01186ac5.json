@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q019-7c01186ac5",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 19 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-17043",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "排列下列餐廳人工洗滌餐具程序： 甲、Scrape 乙、Pre-Rinse 丙、Wash 丁、Rinse 戊、Sanitize 己、Air-dry 庚、Separate & Stack 辛、Storage",
+    "options": [
+      {
+        "id": "A",
+        "text": "庚甲乙丙戊丁辛己"
+      },
+      {
+        "id": "B",
+        "text": "庚甲丁乙丙戊己辛"
+      },
+      {
+        "id": "C",
+        "text": "甲庚乙丁丙戊辛己"
+      },
+      {
+        "id": "D",
+        "text": "甲庚乙丙丁戊己辛"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "排列下列餐廳人工洗滌餐具程序： 甲、Scrape 乙、Pre-Rinse 丙、Wash 丁、Rinse 戊、Sanitize 己、Air-dry 庚、Separate & Stack 辛、Storage 庚甲乙丙戊丁辛己 庚甲丁乙丙戊己辛 甲庚乙丁丙戊辛己 甲庚乙丙丁戊己辛 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1198
+  }
+}

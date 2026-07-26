@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q018-e43827c555",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 18 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-2599",
+    "paperTitle": "二、複選題（每題2分，全對才給分，共10分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 18,
+    "questionType": "multiple-choice",
+    "prompt": "依茶葉的發酵程度而言，下列何種茶並非不發酵茶？",
+    "options": [
+      {
+        "id": "A",
+        "text": "水仙茶"
+      },
+      {
+        "id": "B",
+        "text": "眉茶"
+      },
+      {
+        "id": "C",
+        "text": "珠茶"
+      },
+      {
+        "id": "D",
+        "text": "武夷茶。"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依茶葉的發酵程度而言，下列何種茶並非不發酵茶？ 水仙茶 眉茶 珠茶 武夷茶。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 595
+  }
+}

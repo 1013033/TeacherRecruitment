@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q018-e64fa1497c",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 18 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-17422",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "綜合旅行社加入 TQAA 者，其履約保證保險的最低投保金額為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "3000萬元"
+      },
+      {
+        "id": "B",
+        "text": "6000萬元"
+      },
+      {
+        "id": "C",
+        "text": "5000萬元"
+      },
+      {
+        "id": "D",
+        "text": "4000萬元。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "綜合旅行社加入 TQAA 者，其履約保證保險的最低投保金額為： 3000萬元 6000萬元 5000萬元 4000萬元。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 723
+  }
+}

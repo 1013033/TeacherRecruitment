@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q100-ee53ca43d2",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 100 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-26187",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 100,
+    "questionType": "multiple-choice",
+    "prompt": "下列啤酒產國的配對，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corona: Mexico"
+      },
+      {
+        "id": "B",
+        "text": "Heineken: Germany"
+      },
+      {
+        "id": "C",
+        "text": "Beck's: Holland"
+      },
+      {
+        "id": "D",
+        "text": "Kirin: Korea"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列啤酒產國的配對，何者錯誤？ Corona: Mexico Heineken: Germany Beck's: Holland Kirin: Korea 其他：待人工審核 待人工審核",
+    "sequence": 1279
+  }
+}

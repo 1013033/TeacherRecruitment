@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q020-9b33aab12a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 20 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-27539",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "下列何者因素可降低油脂劣變？a.避免光照 b.用玻璃容器裝油 c.用較大的油鍋 d.降低貯存溫度 e.避免水分進入",
+    "options": [
+      {
+        "id": "A",
+        "text": "abcde"
+      },
+      {
+        "id": "B",
+        "text": "abde"
+      },
+      {
+        "id": "C",
+        "text": "ade"
+      },
+      {
+        "id": "D",
+        "text": "acde"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者因素可降低油脂劣變？a.避免光照 b.用玻璃容器裝油 c.用較大的油鍋 d.降低貯存溫度 e.避免水分進入 abcde abde ade acde 其他：待人工審核 待人工審核",
+    "sequence": 1865
+  }
+}

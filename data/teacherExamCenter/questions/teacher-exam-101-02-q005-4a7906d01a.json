@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q005-4a7906d01a",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 5 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-4240",
+    "paperTitle": "一、選擇題：（每題1分，共計40分）",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "在遊程設計中，某一段要外加航段而單獨開立的機票稱",
+    "options": [
+      {
+        "id": "A",
+        "text": "Domestic Ticket"
+      },
+      {
+        "id": "B",
+        "text": "Sector Ticket"
+      },
+      {
+        "id": "C",
+        "text": "Free Ticket"
+      },
+      {
+        "id": "D",
+        "text": "Group Ticket。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票、ticket"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在遊程設計中，某一段要外加航段而單獨開立的機票稱 Domestic Ticket Sector Ticket Free Ticket Group Ticket。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 197
+  }
+}

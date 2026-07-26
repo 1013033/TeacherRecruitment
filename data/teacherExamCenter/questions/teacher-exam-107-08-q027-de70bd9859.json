@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q027-de70bd9859",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 27 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-3910",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個品牌不是國內飯店加入的國際連鎖旅館品牌？",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Ritz Landis Hotel"
+      },
+      {
+        "id": "B",
+        "text": "Holiday Inn Express"
+      },
+      {
+        "id": "C",
+        "text": "Okura Hotel & Resorts"
+      },
+      {
+        "id": "D",
+        "text": "Mandarin Oriental Hotel Group."
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個品牌不是國內飯店加入的國際連鎖旅館品牌？ The Ritz Landis Hotel Holiday Inn Express Okura Hotel & Resorts Mandarin Oriental Hotel Group. 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1338
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q005-9ba032047b",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 5 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-4838",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "我國籍航空公司以我國為起點，有權在飛行途經的國家接載及卸載旅客、行李及郵件的是屬於哪一個航權？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第五航權：貿易權"
+      },
+      {
+        "id": "B",
+        "text": "第四航權：裝載權"
+      },
+      {
+        "id": "C",
+        "text": "第三航權：卸載權"
+      },
+      {
+        "id": "D",
+        "text": "第二航權：停站權。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國籍航空公司以我國為起點，有權在飛行途經的國家接載及卸載旅客、行李及郵件的是屬於哪一個航權？ 第五航權：貿易權 第四航權：裝載權 第三航權：卸載權 第二航權：停站權。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 30
+  }
+}

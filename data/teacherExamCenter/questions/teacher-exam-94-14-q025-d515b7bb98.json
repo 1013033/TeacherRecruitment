@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q025-d515b7bb98",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 25 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-9079",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "「IFT」是指下列哪一個旅遊交易會？",
+    "options": [
+      {
+        "id": "A",
+        "text": "澳洲旅展"
+      },
+      {
+        "id": "B",
+        "text": "台北國際旅展"
+      },
+      {
+        "id": "C",
+        "text": "柏林旅展"
+      },
+      {
+        "id": "D",
+        "text": "奧地利旅展。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「IFT」是指下列哪一個旅遊交易會？ 澳洲旅展 台北國際旅展 柏林旅展 奧地利旅展。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2117
+  }
+}

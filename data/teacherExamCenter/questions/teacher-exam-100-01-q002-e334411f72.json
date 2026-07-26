@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q002-e334411f72",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 2 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-17550",
+    "paperTitle": "一、選擇題（1 題 1 分，共 20 分）",
+    "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "交通部觀光局日前所公佈之第一、二波旅館星級評鑑名單中，下列何者非列為五星級旅館？",
+    "options": [
+      {
+        "id": "A",
+        "text": "福朋喜來登飯店"
+      },
+      {
+        "id": "B",
+        "text": "香格里拉台南遠東國際大飯店"
+      },
+      {
+        "id": "C",
+        "text": "高雄國賓大飯店"
+      },
+      {
+        "id": "D",
+        "text": "台南台糖長榮酒店。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "交通部觀光局日前所公佈之第一、二波旅館星級評鑑名單中，下列何者非列為五星級旅館？ 福朋喜來登飯店 香格里拉台南遠東國際大飯店 高雄國賓大飯店 台南台糖長榮酒店。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 142
+  }
+}

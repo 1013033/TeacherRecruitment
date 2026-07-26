@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q017-9ba26b83d2",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 17 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-24786",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "高雄某阿嬤自傳統市場買了一條魚，她把好吃的魚卵特別留給孫女吃，沒想到孫女中毒身亡；經查證，這條魚是肝臟及卵巢含有劇毒的沖繩河豚！請根據以上所述，判斷這是屬於何種食物中毒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "肉毒桿菌食物中毒"
+      },
+      {
+        "id": "B",
+        "text": "沙門氏菌食物中毒"
+      },
+      {
+        "id": "C",
+        "text": "病原性大腸桿菌食物中毒"
+      },
+      {
+        "id": "D",
+        "text": "天然毒素食物中毒。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "高雄某阿嬤自傳統市場買了一條魚，她把好吃的魚卵特別留給孫女吃，沒想到孫女中毒身亡；經查證，這條魚是肝臟及卵巢含有劇毒的沖繩河豚！請根據以上所述，判斷這是屬於何種食物中毒？ 肉毒桿菌食物中毒 沙門氏菌食物中毒 病原性大腸桿菌食物中毒 天然毒素食物中毒。 其他：待人工審核 待人工審核",
+    "sequence": 789
+  }
+}

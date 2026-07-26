@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q009-32d542d875",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 9 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-1169",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "A: Would you like some dressing with your salad, sir? B: ________",
+    "options": [
+      {
+        "id": "A",
+        "text": "I like it boiled."
+      },
+      {
+        "id": "B",
+        "text": "Vinaigrette please."
+      },
+      {
+        "id": "C",
+        "text": "Well done, please."
+      },
+      {
+        "id": "D",
+        "text": "Poached, please."
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "A: Would you like some dressing with your salad, sir? B: ________ I like it boiled. Vinaigrette please. Well done, please. Poached, please. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1523
+  }
+}

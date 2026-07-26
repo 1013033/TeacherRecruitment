@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q014-5c6d28cdb7",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 14 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-1857",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "低GI飲食為近年來飲食的趨勢,下列選項中何者皆為低GI食物？",
+    "options": [
+      {
+        "id": "A",
+        "text": "果糖、花生、大豆"
+      },
+      {
+        "id": "B",
+        "text": "優格、馬鈴薯、西瓜"
+      },
+      {
+        "id": "C",
+        "text": "木瓜、麵包、鳳梨"
+      },
+      {
+        "id": "D",
+        "text": "白飯、巧克力、葡萄"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "低GI飲食為近年來飲食的趨勢,下列選項中何者皆為低GI食物？ 果糖、花生、大豆 優格、馬鈴薯、西瓜 木瓜、麵包、鳳梨 白飯、巧克力、葡萄 其他：待人工審核 待人工審核",
+    "sequence": 1374
+  }
+}

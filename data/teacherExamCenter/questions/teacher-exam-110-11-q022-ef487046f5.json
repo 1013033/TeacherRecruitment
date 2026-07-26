@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q022-ef487046f5",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 22 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-3091",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "米其林餐飲評鑑之敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "2017年台灣被米其林納入美食評鑑"
+      },
+      {
+        "id": "B",
+        "text": "1900年推出米其林指南，推出三星星評制度"
+      },
+      {
+        "id": "C",
+        "text": "二星級評等意為精湛的廚藝、出色的烹調，值得繞道前往"
+      },
+      {
+        "id": "D",
+        "text": "米其林評審員的六大核心價值：匿名、客觀、獨立、專業知識、優質、制度。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "米其林餐飲評鑑之敘述，何者正確？ 2017年台灣被米其林納入美食評鑑 1900年推出米其林指南，推出三星星評制度 二星級評等意為精湛的廚藝、出色的烹調，值得繞道前往 米其林評審員的六大核心價值：匿名、客觀、獨立、專業知識、優質、制度。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1662
+  }
+}

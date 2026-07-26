@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q006-7ec5d951fe",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 6 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-18781",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "下列何者不屬於平底杯（Tumbler）系列？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Highball Glass"
+      },
+      {
+        "id": "B",
+        "text": "Sour Glass"
+      },
+      {
+        "id": "C",
+        "text": "Collins Glass"
+      },
+      {
+        "id": "D",
+        "text": "Whisky Glass"
+      },
+      {
+        "id": "E",
+        "text": "Shot Glass"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：whisky"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不屬於平底杯（Tumbler）系列？ Highball Glass Sour Glass Collins Glass Whisky Glass Shot Glass 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1801
+  }
+}

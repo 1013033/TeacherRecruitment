@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q019-4febde4887",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 19 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-5866",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項為湖南菜的特色？",
+    "options": [
+      {
+        "id": "A",
+        "text": "注重刀工，講究配色造型"
+      },
+      {
+        "id": "B",
+        "text": "口味講究鮮醇"
+      },
+      {
+        "id": "C",
+        "text": "講究用料，重視刀工"
+      },
+      {
+        "id": "D",
+        "text": "口味講究濃而多酸辣、油多、色濃、軟嫩、香酥等。 2"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪一項為湖南菜的特色？ 注重刀工，講究配色造型 口味講究鮮醇 講究用料，重視刀工 口味講究濃而多酸辣、油多、色濃、軟嫩、香酥等。 2 其他：待人工審核 待人工審核",
+    "sequence": 211
+  }
+}

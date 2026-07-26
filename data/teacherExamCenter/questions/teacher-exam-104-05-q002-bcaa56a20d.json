@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q002-bcaa56a20d",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 2 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-33597",
+    "paperTitle": "一、選擇題：80%",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "何種細菌會造成感染型食品中毒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "產氣莢膜桿菌"
+      },
+      {
+        "id": "B",
+        "text": "腸炎弧菌"
+      },
+      {
+        "id": "C",
+        "text": "肉毒桿菌"
+      },
+      {
+        "id": "D",
+        "text": "病原性大腸桿菌。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "何種細菌會造成感染型食品中毒？ 產氣莢膜桿菌 腸炎弧菌 肉毒桿菌 病原性大腸桿菌。 其他：待人工審核 待人工審核",
+    "sequence": 898
+  }
+}

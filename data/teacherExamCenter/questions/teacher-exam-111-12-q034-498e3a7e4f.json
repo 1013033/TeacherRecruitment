@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q034-498e3a7e4f",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 34 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-5644",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 34,
+    "questionType": "multiple-choice",
+    "prompt": "下列關於中式餐飲服務分類敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "小吃服務：用餐前提供茶水，菜餚烹調完成後由服務員上桌，沒有多餘的規定與順序。"
+      },
+      {
+        "id": "B",
+        "text": "餐盤服務：除筷子外，亦提供刀叉匙，菜餚在廚房分裝於顧客的餐盤上，吃完一道再上下一道菜。"
+      },
+      {
+        "id": "C",
+        "text": "合菜服務：於主賓右側開始為主賓分菜，依順時針方向為顧客分菜，但主人是最後分菜。"
+      },
+      {
+        "id": "D",
+        "text": "轉盤服務：從主人右側上桌，有公筷母匙，由顧客自行取用。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、服務員"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列關於中式餐飲服務分類敘述，何者錯誤？ 小吃服務：用餐前提供茶水，菜餚烹調完成後由服務員上桌，沒有多餘的規定與順序。 餐盤服務：除筷子外，亦提供刀叉匙，菜餚在廚房分裝於顧客的餐盤上，吃完一道再上下一道菜。 合菜服務：於主賓右側開始為主賓分菜，依順時針方向為顧客分菜，但主人是最後分菜。 轉盤服務：從主人右側上桌，有公筷母匙，由顧客自行取用。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1721
+  }
+}

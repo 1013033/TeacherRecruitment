@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q006-2e13439fbb",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 6 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-33865",
+    "paperTitle": "一、選擇題：80%",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "何者指具一定價值可於旅館內換取一定產品或服務之確認函",
+    "options": [
+      {
+        "id": "A",
+        "text": "Registration Card"
+      },
+      {
+        "id": "B",
+        "text": "Reservation Card"
+      },
+      {
+        "id": "C",
+        "text": "Guest History Card"
+      },
+      {
+        "id": "D",
+        "text": "Voucher."
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、reservation"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "何者指具一定價值可於旅館內換取一定產品或服務之確認函 Registration Card Reservation Card Guest History Card Voucher. 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 902
+  }
+}

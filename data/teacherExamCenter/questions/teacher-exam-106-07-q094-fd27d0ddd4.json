@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q094-fd27d0ddd4",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 94 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-25240",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 94,
+    "questionType": "multiple-choice",
+    "prompt": "下列哪些國家較慣於採用水洗式的咖啡豆精製法？",
+    "options": [
+      {
+        "id": "A",
+        "text": "巴西"
+      },
+      {
+        "id": "B",
+        "text": "哥倫比亞"
+      },
+      {
+        "id": "C",
+        "text": "衣索比亞"
+      },
+      {
+        "id": "D",
+        "text": "墨西哥"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些國家較慣於採用水洗式的咖啡豆精製法？ 巴西 哥倫比亞 衣索比亞 墨西哥 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1273
+  }
+}

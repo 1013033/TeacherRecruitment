@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q019-f3e65b0d09",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 19 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-35208",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "What kind of _______ would you like for your salad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "dressing"
+      },
+      {
+        "id": "B",
+        "text": "soup"
+      },
+      {
+        "id": "C",
+        "text": "dessert"
+      },
+      {
+        "id": "D",
+        "text": "drink."
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "What kind of _______ would you like for your salad? dressing soup dessert drink. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 915
+  }
+}

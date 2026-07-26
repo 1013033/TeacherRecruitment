@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q078-7932523bbd",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 78 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-23758",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 78,
+    "questionType": "single-choice",
+    "prompt": "半自動義大利咖啡機操作時水溫及水壓應控制於？",
+    "options": [
+      {
+        "id": "A",
+        "text": "92°C / 9 個大氣壓"
+      },
+      {
+        "id": "B",
+        "text": "95°C / 7 個大氣壓"
+      },
+      {
+        "id": "C",
+        "text": "92°C / 7 個大氣壓"
+      },
+      {
+        "id": "D",
+        "text": "95°C / 9 個大氣壓。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "半自動義大利咖啡機操作時水溫及水壓應控制於？ 92°C / 9 個大氣壓 95°C / 7 個大氣壓 92°C / 7 個大氣壓 95°C / 9 個大氣壓。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1257
+  }
+}

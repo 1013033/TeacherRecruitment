@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q002-06ad8e9d74",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 2 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-6692",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "在大型飯店中，下列何者的職務是負責食物生產、菜單的擬定、食材採購、成本的控制及工作規劃？",
+    "options": [
+      {
+        "id": "A",
+        "text": "行政主廚"
+      },
+      {
+        "id": "B",
+        "text": "廚師領班"
+      },
+      {
+        "id": "C",
+        "text": "點心師傅"
+      },
+      {
+        "id": "D",
+        "text": "幫廚。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "在大型飯店中，下列何者的職務是負責食物生產、菜單的擬定、食材採購、成本的控制及工作規劃？ 行政主廚 廚師領班 點心師傅 幫廚。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1000
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q006-9353f76f21",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 6 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-1133",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "請問訂房交易中，以下何者不是最佳的銷售結果？",
+    "options": [
+      {
+        "id": "A",
+        "text": "最高收入之銷售"
+      },
+      {
+        "id": "B",
+        "text": "個別天數之客滿"
+      },
+      {
+        "id": "C",
+        "text": "高平均之住房率"
+      },
+      {
+        "id": "D",
+        "text": "高平均之房價。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問訂房交易中，以下何者不是最佳的銷售結果？ 最高收入之銷售 個別天數之客滿 高平均之住房率 高平均之房價。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 508
+  }
+}

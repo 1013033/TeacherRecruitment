@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q019-7c8f11d240",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 19 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-11266",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "文中所指「國旅內需市場的優良、優質行程」是指 UNWTO 對「觀光產業」分類中的：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inbound Tourism"
+      },
+      {
+        "id": "B",
+        "text": "International Tourism"
+      },
+      {
+        "id": "C",
+        "text": "Internal Tourism"
+      },
+      {
+        "id": "D",
+        "text": "Domestic Tourism"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "文中所指「國旅內需市場的優良、優質行程」是指 UNWTO 對「觀光產業」分類中的： Inbound Tourism International Tourism Internal Tourism Domestic Tourism 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 1751
+  }
+}

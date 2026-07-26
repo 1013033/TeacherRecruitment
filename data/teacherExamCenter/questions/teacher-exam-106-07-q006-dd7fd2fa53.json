@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q006-dd7fd2fa53",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 6 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-15101",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "下列 religious menu 敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Catholicism 每逢星期五禁溫血動物，多食用魚蝦類。"
+      },
+      {
+        "id": "B",
+        "text": "Judaism 飲食稱 kosher，不可食用五更腸旺、牛肉吉士滿福堡。"
+      },
+      {
+        "id": "C",
+        "text": "Islam 可吃按戒律宰殺的豬肉，禁止飲酒或用酒烹調的料理。"
+      },
+      {
+        "id": "D",
+        "text": "奉牛為神聖動物，豬為不潔動物的是 Hinduism。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列 religious menu 敘述何者錯誤？ Catholicism 每逢星期五禁溫血動物，多食用魚蝦類。 Judaism 飲食稱 kosher，不可食用五更腸旺、牛肉吉士滿福堡。 Islam 可吃按戒律宰殺的豬肉，禁止飲酒或用酒烹調的料理。 奉牛為神聖動物，豬為不潔動物的是 Hinduism。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1185
+  }
+}

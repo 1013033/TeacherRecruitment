@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q004-2533bdaef6",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 4 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-677",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列各組雞尾酒，何者的基酒是相同的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flying Grasshopper / Screwdriver"
+      },
+      {
+        "id": "B",
+        "text": "Old Fashioned / Kamikaze"
+      },
+      {
+        "id": "C",
+        "text": "Pink Lady / Manhattan"
+      },
+      {
+        "id": "D",
+        "text": "Cuba Libre / Black Russian。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、manhattan、black russian"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各組雞尾酒，何者的基酒是相同的？ Flying Grasshopper / Screwdriver Old Fashioned / Kamikaze Pink Lady / Manhattan Cuba Libre / Black Russian。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 581
+  }
+}

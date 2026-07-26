@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q009-e887e2265a",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 9 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-17719",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "目前台灣有許多本土自行創造的連鎖旅館集團，及國際連鎖旅館，請問下列何者非屬於同一種連鎖旅館集團？",
+    "options": [
+      {
+        "id": "A",
+        "text": "新竹福華飯店、新光天母傑仕堡"
+      },
+      {
+        "id": "B",
+        "text": "捷絲旅西門町館、太魯閣晶英酒店"
+      },
+      {
+        "id": "C",
+        "text": "嘉義兆品飯店、新莊翰品酒店"
+      },
+      {
+        "id": "D",
+        "text": "高雄義大皇冠飯店、台北寒舍艾美飯店"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "目前台灣有許多本土自行創造的連鎖旅館集團，及國際連鎖旅館，請問下列何者非屬於同一種連鎖旅館集團？ 新竹福華飯店、新光天母傑仕堡 捷絲旅西門町館、太魯閣晶英酒店 嘉義兆品飯店、新莊翰品酒店 高雄義大皇冠飯店、台北寒舍艾美飯店 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 343
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q019-c03bb4bec2",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 19 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-2636",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於國產酒之敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "大武醇以高粱為主要原料，屬蒸餾酒類"
+      },
+      {
+        "id": "B",
+        "text": "雙鹿五加皮酒及蔘茸酒，屬釀造酒類"
+      },
+      {
+        "id": "C",
+        "text": "紹興酒以糯米、在來米及小麥為原料，屬釀造酒類"
+      },
+      {
+        "id": "D",
+        "text": "料理米酒有添加少許食鹽（0.5%）適合料理用，屬釀造酒類。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於國產酒之敘述，下列何者正確？ 大武醇以高粱為主要原料，屬蒸餾酒類 雙鹿五加皮酒及蔘茸酒，屬釀造酒類 紹興酒以糯米、在來米及小麥為原料，屬釀造酒類 料理米酒有添加少許食鹽（0.5%）適合料理用，屬釀造酒類。 其他：待人工審核 待人工審核",
+    "sequence": 1659
+  }
+}

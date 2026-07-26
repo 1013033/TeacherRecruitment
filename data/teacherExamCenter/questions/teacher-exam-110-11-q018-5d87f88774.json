@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q018-5d87f88774",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 18 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-2533",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "關於紹興酒服務的敘述，哪一項錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "為中式餐廳或宴席常見的酒款"
+      },
+      {
+        "id": "B",
+        "text": "可以搭配所有的菜餚飲用"
+      },
+      {
+        "id": "C",
+        "text": "沒有餐前、餐中及餐後之區別"
+      },
+      {
+        "id": "D",
+        "text": "酒精濃度不高，約為6%~10%。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於紹興酒服務的敘述，哪一項錯誤？ 為中式餐廳或宴席常見的酒款 可以搭配所有的菜餚飲用 沒有餐前、餐中及餐後之區別 酒精濃度不高，約為6%~10%。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1658
+  }
+}

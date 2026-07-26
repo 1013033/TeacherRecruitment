@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q011-aff4dbc21a",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 11 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-1463",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "知名的「海底撈」餐廳，請問屬於哪種餐飲服務型態？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Convenient Food Service"
+      },
+      {
+        "id": "B",
+        "text": "Self-Service"
+      },
+      {
+        "id": "C",
+        "text": "Cafeteria Service"
+      },
+      {
+        "id": "D",
+        "text": "Table Service。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "知名的「海底撈」餐廳，請問屬於哪種餐飲服務型態？ Convenient Food Service Self-Service Cafeteria Service Table Service。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1525
+  }
+}

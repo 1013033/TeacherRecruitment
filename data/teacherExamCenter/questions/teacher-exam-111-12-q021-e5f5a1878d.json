@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q021-e5f5a1878d",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 21 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-27651",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "明火烤爐（salamander）主要是靠何種導熱法加熱？",
+    "options": [
+      {
+        "id": "A",
+        "text": "傳導法"
+      },
+      {
+        "id": "B",
+        "text": "對流法"
+      },
+      {
+        "id": "C",
+        "text": "輻射法"
+      },
+      {
+        "id": "D",
+        "text": "通風法"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "明火烤爐（salamander）主要是靠何種導熱法加熱？ 傳導法 對流法 輻射法 通風法 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1866
+  }
+}

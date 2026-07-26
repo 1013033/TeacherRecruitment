@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q018-a4171be1a7",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 18 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-3225",
+    "paperTitle": "二、複選題（每題 2 分，全對才給分，共 10 分）",
+    "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+    "questionNumber": 18,
+    "questionType": "multiple-choice",
+    "prompt": "有客人 Check In 後想要馬上入住房間，請問下列那幾項情形可以讓其『立即』入住？",
+    "options": [
+      {
+        "id": "A",
+        "text": "VC、VR"
+      },
+      {
+        "id": "B",
+        "text": "OCOR"
+      },
+      {
+        "id": "C",
+        "text": "Pick Up Room"
+      },
+      {
+        "id": "D",
+        "text": "OOI、OOO。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有客人 Check In 後想要馬上入住房間，請問下列那幾項情形可以讓其『立即』入住？ VC、VR OCOR Pick Up Room OOI、OOO。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 419
+  }
+}

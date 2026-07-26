@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q018-23b79ded3f",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 18 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-3297",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列有關於餐旅商品的概念，何者為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supporting Facilities 是餐廳中可看見的物品，消費者能直接實質消費，例如：餐食、飲料或一次性消耗品"
+      },
+      {
+        "id": "B",
+        "text": "Hospitality 源自於拉丁文的 Hospice，原意是對顧客親切的款待"
+      },
+      {
+        "id": "C",
+        "text": "Implicit Service 是顧客從心理感受的效益，例如：被受尊重、方便、舒適"
+      },
+      {
+        "id": "D",
+        "text": "Perishability 是指餐旅業商品因時間、地點、消費者與服務人員的不同，因而有所差異，造成服務品質不易維持一致。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、服務品質、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關於餐旅商品的概念，何者為正確？ Supporting Facilities 是餐廳中可看見的物品，消費者能直接實質消費，例如：餐食、飲料或一次性消耗品 Hospitality 源自於拉丁文的 Hospice，原意是對顧客親切的款待 Implicit Service 是顧客從心理感受的效益，例如：被受尊重、方便、舒適 Perishability 是指餐旅業商品因時間、地點、消費者與服務人員的不同，因而有所差異，造成服務品質不易維持一致。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1095
+  }
+}

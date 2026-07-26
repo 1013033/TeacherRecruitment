@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q035-8b70eccd25",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 35 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-5829",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 35,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者不是凱撒沙拉會使用到的材料？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anchovy"
+      },
+      {
+        "id": "B",
+        "text": "Crepes"
+      },
+      {
+        "id": "C",
+        "text": "Grand Marnier"
+      },
+      {
+        "id": "D",
+        "text": "Chopped Bacon."
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：沙拉、anchovy、crepes"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是凱撒沙拉會使用到的材料？ Anchovy Crepes Grand Marnier Chopped Bacon. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1346
+  }
+}

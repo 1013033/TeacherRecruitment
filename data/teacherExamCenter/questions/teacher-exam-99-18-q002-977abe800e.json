@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q002-977abe800e",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 2 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-16362",
+    "paperTitle": "一、單選題（每題二分，共四十分）",
+    "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "下列哪幾種雞尾酒，是以 GIN 為基酒調製？甲：Tom Collins；乙：Pink Lady；丙：Silver Fizz；丁：Egg Nog；戊：Scorpion。",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲丙"
+      },
+      {
+        "id": "B",
+        "text": "甲丙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "D",
+        "text": "甲丙丁戊。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪幾種雞尾酒，是以 GIN 為基酒調製？甲：Tom Collins；乙：Pink Lady；丙：Silver Fizz；丁：Egg Nog；戊：Scorpion。 甲丙 甲丙丁 甲乙丙 甲丙丁戊。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2928
+  }
+}

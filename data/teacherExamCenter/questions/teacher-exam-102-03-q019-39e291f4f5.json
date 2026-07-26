@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q019-39e291f4f5",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 19 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-13014",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列各國菜餚配對，何者錯誤：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lasagne - 義大利"
+      },
+      {
+        "id": "B",
+        "text": "Paella - 德國"
+      },
+      {
+        "id": "C",
+        "text": "escargot bourguignonne - 法國"
+      },
+      {
+        "id": "D",
+        "text": "Foie gras - 法國。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：escargot、foie gras"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各國菜餚配對，何者錯誤： Lasagne - 義大利 Paella - 德國 escargot bourguignonne - 法國 Foie gras - 法國。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 481
+  }
+}

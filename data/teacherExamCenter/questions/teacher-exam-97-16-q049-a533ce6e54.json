@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q049-a533ce6e54",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 49 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-8093",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "有關機票的定義，以下敘述請選出不正確的觀念？",
+    "options": [
+      {
+        "id": "A",
+        "text": "運輸契約的有價證券"
+      },
+      {
+        "id": "B",
+        "text": "提供一人份座位或站票"
+      },
+      {
+        "id": "C",
+        "text": "運輸行李的憑證"
+      },
+      {
+        "id": "D",
+        "text": "支付過重行李費之收據。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關機票的定義，以下敘述請選出不正確的觀念？ 運輸契約的有價證券 提供一人份座位或站票 運輸行李的憑證 支付過重行李費之收據。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2369
+  }
+}

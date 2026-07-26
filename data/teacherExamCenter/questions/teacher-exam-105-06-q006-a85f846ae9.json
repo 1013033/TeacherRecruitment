@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q006-a85f846ae9",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 6 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-12290",
+    "paperTitle": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "一間國際觀光旅館，前一晚因房間數不足，轉送許多旅客至姐妹連鎖旅館，早上時客房部協理卻發現昨晚住用率未達100%。查明原因是前檯作業失誤，未即時更新住房資料，錯將空房誤以為有人住，造成客房收入的損失。此狀況稱為",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sleeper"
+      },
+      {
+        "id": "B",
+        "text": "No Show"
+      },
+      {
+        "id": "C",
+        "text": "Skipper"
+      },
+      {
+        "id": "D",
+        "text": "Due-out。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "一間國際觀光旅館，前一晚因房間數不足，轉送許多旅客至姐妹連鎖旅館，早上時客房部協理卻發現昨晚住用率未達100%。查明原因是前檯作業失誤，未即時更新住房資料，錯將空房誤以為有人住，造成客房收入的損失。此狀況稱為 Sleeper No Show Skipper Due-out。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1034
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q088-366d97f04a",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 88 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-14341",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 88,
+    "questionType": "single-choice",
+    "prompt": "西班牙著名的波特酒（Port）是屬於何種葡萄酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Still Wine"
+      },
+      {
+        "id": "B",
+        "text": "Fermented Wine"
+      },
+      {
+        "id": "C",
+        "text": "Distilled Wine"
+      },
+      {
+        "id": "D",
+        "text": "Fortified Wine."
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、波特、wine、port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西班牙著名的波特酒（Port）是屬於何種葡萄酒？ Still Wine Fermented Wine Distilled Wine Fortified Wine. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 693
+  }
+}

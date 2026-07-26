@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q075-e4a379dd2d",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 75 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-23476",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 75,
+    "questionType": "single-choice",
+    "prompt": "又名「聖瑪麗亞的玫瑰」是指的哪一種花草茶？",
+    "options": [
+      {
+        "id": "A",
+        "text": "迷迭香"
+      },
+      {
+        "id": "B",
+        "text": "洋甘菊"
+      },
+      {
+        "id": "C",
+        "text": "茉莉花"
+      },
+      {
+        "id": "D",
+        "text": "薰衣草。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "又名「聖瑪麗亞的玫瑰」是指的哪一種花草茶？ 迷迭香 洋甘菊 茉莉花 薰衣草。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1254
+  }
+}

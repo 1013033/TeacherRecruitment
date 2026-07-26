@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q014-5c396d8a31",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 14 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-2111",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "依據「中華民國國內航空貨運運送條款」規定，隨身行李每人最高賠償金額不得超過新台幣",
+    "options": [
+      {
+        "id": "A",
+        "text": "二萬元"
+      },
+      {
+        "id": "B",
+        "text": "三萬元"
+      },
+      {
+        "id": "C",
+        "text": "四萬元"
+      },
+      {
+        "id": "D",
+        "text": "五萬元。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據「中華民國國內航空貨運運送條款」規定，隨身行李每人最高賠償金額不得超過新台幣 二萬元 三萬元 四萬元 五萬元。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 14
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q024-32f670895e",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 24 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-3349",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "依據外國旅館業的發展，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "西元1829年波士頓崔蒙旅館（Boston's Tremont House）為第一家客房設有門鎖和僱用行李員的旅館"
+      },
+      {
+        "id": "B",
+        "text": "西元1889年凱撒．麗池（Cesar Ritz）在英國倫敦創立麗池飯店（London Ritz Hotel）"
+      },
+      {
+        "id": "C",
+        "text": "西元1960年韓德森（Ernest Henderson）創立假日酒店（Holiday Inn）連鎖品牌"
+      },
+      {
+        "id": "D",
+        "text": "西元1907年「商務旅館之父」史大特拉開設的史大特拉飯店（Statler Hotel）首創客房衛浴設備，提出連鎖旅館概念。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、客房、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據外國旅館業的發展，下列何者錯誤？ 西元1829年波士頓崔蒙旅館（Boston's Tremont House）為第一家客房設有門鎖和僱用行李員的旅館 西元1889年凱撒．麗池（Cesar Ritz）在英國倫敦創立麗池飯店（London Ritz Hotel） 西元1960年韓德森（Ernest Henderson）創立假日酒店（Holiday Inn）連鎖品牌 西元1907年「商務旅館之父」史大特拉開設的史大特拉飯店（Statler Hotel）首創客房衛浴設備，提出連鎖旅館概念。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1664
+  }
+}

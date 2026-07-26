@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q017-245d350261",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 17 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-11402",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "咖啡豆研磨的程度要視沖調的方式及沖泡的時間而定，其粒子的粗細由大至小排列之。(甲)法式濾壓壺、(乙)摩卡壺、(丙)虹吸式、(丁)義式咖啡機",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲 → 丙 → 乙 → 丁"
+      },
+      {
+        "id": "B",
+        "text": "乙 → 丙 → 甲 → 丁"
+      },
+      {
+        "id": "C",
+        "text": "丙 → 乙 → 丁 → 甲"
+      },
+      {
+        "id": "D",
+        "text": "丁 → 乙 → 丙 → 甲。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、義式"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡豆研磨的程度要視沖調的方式及沖泡的時間而定，其粒子的粗細由大至小排列之。(甲)法式濾壓壺、(乙)摩卡壺、(丙)虹吸式、(丁)義式咖啡機 甲 → 丙 → 乙 → 丁 乙 → 丙 → 甲 → 丁 丙 → 乙 → 丁 → 甲 丁 → 乙 → 丙 → 甲。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1145
+  }
+}

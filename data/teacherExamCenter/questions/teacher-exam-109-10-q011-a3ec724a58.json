@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q011-a3ec724a58",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 11 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-12088",
+    "paperTitle": "一、選擇題（每題2分、共15題、共計30分）",
+    "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列關於收拾餐務的描述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "廚餘可分為養豬廚餘及堆肥廚餘兩大類。"
+      },
+      {
+        "id": "B",
+        "text": "廚餘類廢棄物的最佳處理方法為分類回收再利用。"
+      },
+      {
+        "id": "C",
+        "text": "清洗餐具的先後順序為：預洗、沖洗、清洗、烘乾、消毒。"
+      },
+      {
+        "id": "D",
+        "text": "收拾餐具器皿時，要掌握「盤在下、碗在上；大盤盛小盤、大碗裝小碗」的原則。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列關於收拾餐務的描述，何者錯誤？ 廚餘可分為養豬廚餘及堆肥廚餘兩大類。 廚餘類廢棄物的最佳處理方法為分類回收再利用。 清洗餐具的先後順序為：預洗、沖洗、清洗、烘乾、消毒。 收拾餐具器皿時，要掌握「盤在下、碗在上；大盤盛小盤、大碗裝小碗」的原則。 其他：待人工審核 待人工審核",
+    "sequence": 1613
+  }
+}

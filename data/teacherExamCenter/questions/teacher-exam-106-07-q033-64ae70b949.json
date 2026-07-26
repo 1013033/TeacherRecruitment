@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q033-64ae70b949",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 33 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-19032",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "旅館提供的服務，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Extra bed service 一間客房以加一張床為原則，由房務員於顧客抵店前完成。"
+      },
+      {
+        "id": "B",
+        "text": "Valet parking service 若飯店沒有設置 Valet parking staff 通常是由 door man 負責。"
+      },
+      {
+        "id": "C",
+        "text": "Message service 提供客人紓解壓力，由櫃台接待員連繫按摩師，費用房客可選擇付現或入 Guest Folio。"
+      },
+      {
+        "id": "D",
+        "text": "Telecommunication service 主要服務電話轉接與晨喚服務。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、客房、房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅館提供的服務，下列敘述何者錯誤？ Extra bed service 一間客房以加一張床為原則，由房務員於顧客抵店前完成。 Valet parking service 若飯店沒有設置 Valet parking staff 通常是由 door man 負責。 Message service 提供客人紓解壓力，由櫃台接待員連繫按摩師，費用房客可選擇付現或入 Guest Folio。 Telecommunication service 主要服務電話轉接與晨喚服務。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1212
+  }
+}

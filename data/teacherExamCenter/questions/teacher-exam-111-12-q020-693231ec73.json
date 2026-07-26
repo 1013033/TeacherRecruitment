@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q020-693231ec73",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 20 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-11412",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是觀光局因應後疫情時代所做的策略？",
+    "options": [
+      {
+        "id": "A",
+        "text": "要求所有入境旅客的居家隔離時間為 14 日 + 7"
+      },
+      {
+        "id": "B",
+        "text": "參加洛杉磯旅遊展"
+      },
+      {
+        "id": "C",
+        "text": "旅行業導遊領隊人員防疫講習"
+      },
+      {
+        "id": "D",
+        "text": "開放商務旅遊"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者不是觀光局因應後疫情時代所做的策略？ 要求所有入境旅客的居家隔離時間為 14 日 + 7 參加洛杉磯旅遊展 旅行業導遊領隊人員防疫講習 開放商務旅遊 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1752
+  }
+}

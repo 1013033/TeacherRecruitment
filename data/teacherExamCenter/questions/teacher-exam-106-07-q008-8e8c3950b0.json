@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q008-8e8c3950b0",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 8 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-1486",
+    "paperTitle": "一、單選題",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "旅館推動減少使用一次性盥洗用品、減少床單更換頻率、加強資源回收利用，是屬於：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Capsule Hotel"
+      },
+      {
+        "id": "B",
+        "text": "Boutique Hotel"
+      },
+      {
+        "id": "C",
+        "text": "Eco Friendly Hotel"
+      },
+      {
+        "id": "D",
+        "text": "Casino Hotel。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館推動減少使用一次性盥洗用品、減少床單更換頻率、加強資源回收利用，是屬於： Capsule Hotel Boutique Hotel Eco Friendly Hotel Casino Hotel。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1085
+  }
+}

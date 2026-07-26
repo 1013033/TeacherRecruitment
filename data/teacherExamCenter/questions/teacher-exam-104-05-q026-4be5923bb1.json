@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q026-4be5923bb1",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 26 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-25846",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "Hot Cocktail 會用到的酒杯是",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shot Glass"
+      },
+      {
+        "id": "B",
+        "text": "Toddy Glass"
+      },
+      {
+        "id": "C",
+        "text": "Hurricane"
+      },
+      {
+        "id": "D",
+        "text": "Beer Mug."
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Hot Cocktail 會用到的酒杯是 Shot Glass Toddy Glass Hurricane Beer Mug. 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 798
+  }
+}

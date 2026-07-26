@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q011-33d8268c0f",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 11 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-7839",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "對臺灣而言，下列何者屬於 Domestic Tourism？",
+    "options": [
+      {
+        "id": "A",
+        "text": "日本人至臺灣阿里山看日出"
+      },
+      {
+        "id": "B",
+        "text": "臺灣人前往墾丁國家公園觀光旅遊"
+      },
+      {
+        "id": "C",
+        "text": "臺灣人前往吳哥窟參觀古蹟"
+      },
+      {
+        "id": "D",
+        "text": "美國人至臺北出差。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "對臺灣而言，下列何者屬於 Domestic Tourism？ 日本人至臺灣阿里山看日出 臺灣人前往墾丁國家公園觀光旅遊 臺灣人前往吳哥窟參觀古蹟 美國人至臺北出差。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 447
+  }
+}

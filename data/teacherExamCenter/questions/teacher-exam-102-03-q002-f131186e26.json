@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q002-f131186e26",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 2 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-13423",
+    "paperTitle": "單選題：40%（每題 2 分）",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "關於旅行業經營概念的敘述，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "目前國際法定傳染病有：Cholera、Pest、Yellow Fever、SARS (註：現行以WHO國際衛生條例為主)"
+      },
+      {
+        "id": "B",
+        "text": "國外旅遊警示分級表中的橙色代表避免非必要旅行"
+      },
+      {
+        "id": "C",
+        "text": "入出境聯檢程序包括：Customs、Immigration、Quarantine"
+      },
+      {
+        "id": "D",
+        "text": "當入境旅客攜帶人民幣逾六萬元者，應填報中國民國海關申報單向海關申報，並經紅線檯查驗通關。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅行業經營概念的敘述，下列何者有誤？ 目前國際法定傳染病有：Cholera、Pest、Yellow Fever、SARS (註：現行以WHO國際衛生條例為主) 國外旅遊警示分級表中的橙色代表避免非必要旅行 入出境聯檢程序包括：Customs、Immigration、Quarantine 當入境旅客攜帶人民幣逾六萬元者，應填報中國民國海關申報單向海關申報，並經紅線檯查驗通關。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 484
+  }
+}

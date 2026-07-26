@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q035-fd551e5722",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 35 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-7605",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "住房狀況記錄表中的英文縮寫 OOI、S.O、D.N.A、V.D 分別代表什麼意思？",
+    "options": [
+      {
+        "id": "A",
+        "text": "故障房、住客外宿、客人遷入又離去、退房待整理房間"
+      },
+      {
+        "id": "B",
+        "text": "故障房、住客外宿、訂房無故未到、已清潔之空房"
+      },
+      {
+        "id": "C",
+        "text": "故障房、住客外宿、訂房無故未到、退房待整理房間"
+      },
+      {
+        "id": "D",
+        "text": "故障房、住客外宿、請勿打擾、退房待整理房間。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "住房狀況記錄表中的英文縮寫 OOI、S.O、D.N.A、V.D 分別代表什麼意思？ 故障房、住客外宿、客人遷入又離去、退房待整理房間 故障房、住客外宿、訂房無故未到、已清潔之空房 故障房、住客外宿、訂房無故未到、退房待整理房間 故障房、住客外宿、請勿打擾、退房待整理房間。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 227
+  }
+}

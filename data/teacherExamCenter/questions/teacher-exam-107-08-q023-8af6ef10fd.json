@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q023-8af6ef10fd",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 23 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-3338",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 23,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "ice cream 適合搭配氣泡酒"
+      },
+      {
+        "id": "B",
+        "text": "foie gras 適合搭配 Sauternes 甜白酒"
+      },
+      {
+        "id": "C",
+        "text": "口味的 cheese 和紅酒是絕佳組合"
+      },
+      {
+        "id": "D",
+        "text": "oysters 除了清淡型白酒，也可搭配氣泡酒。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：紅酒、白酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者為非？ ice cream 適合搭配氣泡酒 foie gras 適合搭配 Sauternes 甜白酒 口味的 cheese 和紅酒是絕佳組合 oysters 除了清淡型白酒，也可搭配氣泡酒。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1334
+  }
+}

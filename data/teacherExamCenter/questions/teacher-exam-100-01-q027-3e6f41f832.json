@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q027-3e6f41f832",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 27 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-7051",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "下列各款酒，其飲用的適宜溫度由低至高的排列順序為何？甲：薄酒萊新酒（Beaujolais Nouveau） 乙：波爾多紅酒（Bordeaux red wine） 丙：氣泡葡萄酒（sparkling wine）",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙、乙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、甲"
+      },
+      {
+        "id": "D",
+        "text": "丙、甲、乙。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒、薄酒萊、波爾多、wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各款酒，其飲用的適宜溫度由低至高的排列順序為何？甲：薄酒萊新酒（Beaujolais Nouveau） 乙：波爾多紅酒（Bordeaux red wine） 丙：氣泡葡萄酒（sparkling wine） 甲、乙、丙 甲、丙、乙 乙、丙、甲 丙、甲、乙。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 52
+  }
+}

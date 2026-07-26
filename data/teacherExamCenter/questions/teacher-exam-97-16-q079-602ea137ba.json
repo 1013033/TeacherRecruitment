@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q079-602ea137ba",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 79 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-15785",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 79,
+    "questionType": "single-choice",
+    "prompt": "承上題，此牛肉原料的實際淨料成本，每公斤應為多少元？",
+    "options": [
+      {
+        "id": "A",
+        "text": "100 元"
+      },
+      {
+        "id": "B",
+        "text": "225 元"
+      },
+      {
+        "id": "C",
+        "text": "300 元"
+      },
+      {
+        "id": "D",
+        "text": "400 元"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "承上題，此牛肉原料的實際淨料成本，每公斤應為多少元？ 100 元 225 元 300 元 400 元 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2449
+  }
+}

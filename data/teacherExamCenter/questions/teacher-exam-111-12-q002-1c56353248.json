@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q002-1c56353248",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 2 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-8184",
+    "paperTitle": "一、單選題（每題 1 分，共 40 分）",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "回顧西方國家觀光餐旅事業發展，歷經不同時期的演變，有著不同的產業發展貢獻及影響，下列相關敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "上古時期：基於貿易往來、宗教交流，奠定旅遊活動發展基礎，促成 Courier、Tavern、Pizza、Pilgrimage Tour 陸續出現。"
+      },
+      {
+        "id": "B",
+        "text": "中古時期：JRS 聖城之爭引發 Crusades，間接促成東西文化交流，Class Travel 蔚為風潮。"
+      },
+      {
+        "id": "C",
+        "text": "文藝復興時期：Grand Tour 帶動風潮，促成 Cultural Tour 興起，奠定 GIPT 發展基礎，Roux 亦在同時期產生。"
+      },
+      {
+        "id": "D",
+        "text": "工業革命時期：美國銀行家 James Fargo 利用公路交通，首開 Drive Travel 先河，並於西元 1891 年發行 Travelers Cheque。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "回顧西方國家觀光餐旅事業發展，歷經不同時期的演變，有著不同的產業發展貢獻及影響，下列相關敘述何者正確？ 上古時期：基於貿易往來、宗教交流，奠定旅遊活動發展基礎，促成 Courier、Tavern、Pizza、Pilgrimage Tour 陸續出現。 中古時期：JRS 聖城之爭引發 Crusades，間接促成東西文化交流，Class Travel 蔚為風潮。 文藝復興時期：Grand Tour 帶動風潮，促成 Cultural Tour 興起，奠定 GIPT 發展基礎，Roux 亦在同時期產生。 工業革命時期：美國銀行家 James Fargo 利用公路交通，首開 Drive Travel 先河，並於西元 1891 年發行 Travelers Cheque。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1734
+  }
+}

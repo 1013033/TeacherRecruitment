@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q007-13f7ffe026",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 7 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-1009",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列有關餐廳推車（Trolley）服務設備的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flambe' Trolley 配有瓦斯爐，是法式餐廳常見的設備"
+      },
+      {
+        "id": "B",
+        "text": "Side Table 也可稱為 Gueridon，在中西式餐廳都會使用"
+      },
+      {
+        "id": "C",
+        "text": "Carving Trolley 用於現場切割服務"
+      },
+      {
+        "id": "D",
+        "text": "Liqueur Trolley 是用來展示甜點的推車"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關餐廳推車（Trolley）服務設備的敘述，何者錯誤？ Flambe' Trolley 配有瓦斯爐，是法式餐廳常見的設備 Side Table 也可稱為 Gueridon，在中西式餐廳都會使用 Carving Trolley 用於現場切割服務 Liqueur Trolley 是用來展示甜點的推車 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2793
+  }
+}

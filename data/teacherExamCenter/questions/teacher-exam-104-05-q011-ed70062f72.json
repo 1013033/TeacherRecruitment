@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q011-ed70062f72",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 11 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-19112",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
+    "questionNumber": 11,
+    "questionType": "multiple-choice",
+    "prompt": "甜白酒適合用來搭配？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Couscous"
+      },
+      {
+        "id": "B",
+        "text": "Macaron"
+      },
+      {
+        "id": "C",
+        "text": "Blue Cheese"
+      },
+      {
+        "id": "D",
+        "text": "Foie Gras。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "甜白酒適合用來搭配？ Couscous Macaron Blue Cheese Foie Gras。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 744
+  }
+}

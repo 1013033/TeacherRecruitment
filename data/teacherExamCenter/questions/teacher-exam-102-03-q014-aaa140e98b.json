@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q014-aaa140e98b",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 14 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-8127",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "所謂「Hard drink」是指：",
+    "options": [
+      {
+        "id": "A",
+        "text": "加冰塊飲料"
+      },
+      {
+        "id": "B",
+        "text": "泛稱含酒精飲料"
+      },
+      {
+        "id": "C",
+        "text": "泛稱不含酒精飲料"
+      },
+      {
+        "id": "D",
+        "text": "新鮮果汁。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "所謂「Hard drink」是指： 加冰塊飲料 泛稱含酒精飲料 泛稱不含酒精飲料 新鮮果汁。 其他：待人工審核 待人工審核",
+    "sequence": 450
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q033-d9f32032a5",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 33 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-22568",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 33,
+    "questionType": "multiple-choice",
+    "prompt": "關於餐廳器具的清潔與保養，下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "陶瓷餐盤上難以去除的殘餘物，不可以金屬器具刮除"
+      },
+      {
+        "id": "B",
+        "text": "用酒之後的黃垢可以漂白水浸泡 (茶垢或酒垢不宜直接以漂白水處理)"
+      },
+      {
+        "id": "C",
+        "text": "新的釉彩陶瓷餐具使用前宜以醋浸泡，讓鉛離子釋出，再以清潔劑洗淨"
+      },
+      {
+        "id": "D",
+        "text": "搬運盤碟時，應依其大小分類"
+      },
+      {
+        "id": "E",
+        "text": "杯類應正面朝上放入杯籃框內疊放 (杯類應杯口朝下倒放)"
+      }
+    ],
+    "answer": [
+      "B",
+      "E"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於餐廳器具的清潔與保養，下列何者為非？ 陶瓷餐盤上難以去除的殘餘物，不可以金屬器具刮除 用酒之後的黃垢可以漂白水浸泡 (茶垢或酒垢不宜直接以漂白水處理) 新的釉彩陶瓷餐具使用前宜以醋浸泡，讓鉛離子釋出，再以清潔劑洗淨 搬運盤碟時，應依其大小分類 杯類應正面朝上放入杯籃框內疊放 (杯類應杯口朝下倒放) 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1828
+  }
+}

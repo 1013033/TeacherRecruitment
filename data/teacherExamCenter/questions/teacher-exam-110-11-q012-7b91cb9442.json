@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q012-7b91cb9442",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 12 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-1672",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "依據HACCP實施步驟，管制小組在建立管制界限之前，應先實行：",
+    "options": [
+      {
+        "id": "A",
+        "text": "決定重要管制點"
+      },
+      {
+        "id": "B",
+        "text": "研訂及執行監測計畫"
+      },
+      {
+        "id": "C",
+        "text": "研訂及執行矯正措施"
+      },
+      {
+        "id": "D",
+        "text": "確認本系統執行之有效性。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據HACCP實施步驟，管制小組在建立管制界限之前，應先實行： 決定重要管制點 研訂及執行監測計畫 研訂及執行矯正措施 確認本系統執行之有效性。 其他：待人工審核 待人工審核",
+    "sequence": 1652
+  }
+}

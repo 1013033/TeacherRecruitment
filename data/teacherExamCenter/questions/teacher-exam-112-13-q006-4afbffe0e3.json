@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q006-4afbffe0e3",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 6 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-9415",
+    "paperTitle": "一、選擇題（單選題）每題1分，共14分",
+    "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "行政院為落實推動「Tourism 2025-臺灣觀光邁向2025方案」，研訂5大策略，請問其中促進旅宿業發展及台灣觀光品牌深化分別落在於哪兩個策略當中？",
+    "options": [
+      {
+        "id": "A",
+        "text": "優化產業環境、打造魅力景點"
+      },
+      {
+        "id": "B",
+        "text": "廣拓觀光客源、優化產業環境"
+      },
+      {
+        "id": "C",
+        "text": "優化產業環境、廣拓觀光客源"
+      },
+      {
+        "id": "D",
+        "text": "廣拓觀光客源、推展數位體驗。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "行政院為落實推動「Tourism 2025-臺灣觀光邁向2025方案」，研訂5大策略，請問其中促進旅宿業發展及台灣觀光品牌深化分別落在於哪兩個策略當中？ 優化產業環境、打造魅力景點 廣拓觀光客源、優化產業環境 優化產業環境、廣拓觀光客源 廣拓觀光客源、推展數位體驗。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 1953
+  }
+}

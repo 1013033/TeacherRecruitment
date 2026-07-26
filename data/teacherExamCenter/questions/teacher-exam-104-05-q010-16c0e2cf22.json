@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q010-16c0e2cf22",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 10 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-34248",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "請問法式點心「焦糖布丁」的製作，主要是何種廚師的職責？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Executive chef"
+      },
+      {
+        "id": "B",
+        "text": "Roast chef"
+      },
+      {
+        "id": "C",
+        "text": "Pastry chef"
+      },
+      {
+        "id": "D",
+        "text": "Sauce chef."
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：sauce、roast"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問法式點心「焦糖布丁」的製作，主要是何種廚師的職責？ Executive chef Roast chef Pastry chef Sauce chef. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 906
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q034-98eabb8c7e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 34 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-36753",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "中國菜系中，在華東地區以鮮醇味厚、重油重色、以燉、燒山野海味聞名的是指",
+    "options": [
+      {
+        "id": "A",
+        "text": "浙菜"
+      },
+      {
+        "id": "B",
+        "text": "蘇菜"
+      },
+      {
+        "id": "C",
+        "text": "皖菜"
+      },
+      {
+        "id": "D",
+        "text": "湘菜。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：燉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中國菜系中，在華東地區以鮮醇味厚、重油重色、以燉、燒山野海味聞名的是指 浙菜 蘇菜 皖菜 湘菜。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 930
+  }
+}

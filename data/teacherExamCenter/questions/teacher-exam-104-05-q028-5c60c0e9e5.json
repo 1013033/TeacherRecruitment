@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q028-5c60c0e9e5",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 28 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-26018",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "Pastis 51 是生產於法國的哪一種香甜酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "茴香酒"
+      },
+      {
+        "id": "B",
+        "text": "覆盆子酒"
+      },
+      {
+        "id": "C",
+        "text": "柑橘酒"
+      },
+      {
+        "id": "D",
+        "text": "李子酒。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Pastis 51 是生產於法國的哪一種香甜酒？ 茴香酒 覆盆子酒 柑橘酒 李子酒。 其他：待人工審核 待人工審核",
+    "sequence": 800
+  }
+}

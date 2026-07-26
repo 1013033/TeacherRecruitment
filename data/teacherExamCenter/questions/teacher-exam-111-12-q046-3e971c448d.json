@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q046-3e971c448d",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 46 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-31715",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "Host: Good evening, sir. Do you have a reservation? Evan: Yes,",
+    "options": [
+      {
+        "id": "A",
+        "text": "I booked a room for four nights."
+      },
+      {
+        "id": "B",
+        "text": "I reserved a table for four tonight."
+      },
+      {
+        "id": "C",
+        "text": "I booked a ticket for flying to New York."
+      },
+      {
+        "id": "D",
+        "text": "I reserved a suite for my friend"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room、reservation、suite"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Host: Good evening, sir. Do you have a reservation? Evan: Yes, I booked a room for four nights. I reserved a table for four tonight. I booked a ticket for flying to New York. I reserved a suite for my friend 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1892
+  }
+}

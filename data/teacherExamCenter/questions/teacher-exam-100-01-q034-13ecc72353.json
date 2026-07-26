@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q034-13ecc72353",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 34 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-7944",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "旅客尚未決定搭機日期之航段，其機票上的訂位狀態欄（BOOKING STATUS）的代號為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "full booked"
+      },
+      {
+        "id": "B",
+        "text": "late booking"
+      },
+      {
+        "id": "C",
+        "text": "overbooking"
+      },
+      {
+        "id": "D",
+        "text": "OPEN。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：booking、overbooking"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅客尚未決定搭機日期之航段，其機票上的訂位狀態欄（BOOKING STATUS）的代號為何？ full booked late booking overbooking OPEN。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 59
+  }
+}

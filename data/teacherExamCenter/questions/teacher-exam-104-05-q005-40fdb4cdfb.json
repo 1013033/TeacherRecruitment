@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q005-40fdb4cdfb",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 5 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-18405",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "有關服務叉匙的操作方法，何者敘述錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "指挾法是指服務匙夾在中指、無名指、小指之間；服務叉以拇指、食指握著，拿起較難，但比較穩固。"
+      },
+      {
+        "id": "B",
+        "text": "服務叉匙的使用，最早在英式服務的分菜作業。"
+      },
+      {
+        "id": "C",
+        "text": "以右手操作，匙在上，叉在下，兩者都是面朝上。"
+      },
+      {
+        "id": "D",
+        "text": "指握法是指叉匙的握柄皆在手掌內，拿起容易，操作較不穩固。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關服務叉匙的操作方法，何者敘述錯誤？ 指挾法是指服務匙夾在中指、無名指、小指之間；服務叉以拇指、食指握著，拿起較難，但比較穩固。 服務叉匙的使用，最早在英式服務的分菜作業。 以右手操作，匙在上，叉在下，兩者都是面朝上。 指握法是指叉匙的握柄皆在手掌內，拿起容易，操作較不穩固。 其他：待人工審核 待人工審核",
+    "sequence": 738
+  }
+}

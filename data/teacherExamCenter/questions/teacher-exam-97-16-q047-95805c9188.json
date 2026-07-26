@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q047-95805c9188",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 47 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-12627",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "關於飲料的敘述，下列敘述何者不正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "茶樹最早發現於中國"
+      },
+      {
+        "id": "B",
+        "text": "咖啡樹原生長在非洲的衣索比亞"
+      },
+      {
+        "id": "C",
+        "text": "酒在中國、埃及及中東的古文明地區都有被發現"
+      },
+      {
+        "id": "D",
+        "text": "Evian 礦泉水是美國品牌"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於飲料的敘述，下列敘述何者不正確？ 茶樹最早發現於中國 咖啡樹原生長在非洲的衣索比亞 酒在中國、埃及及中東的古文明地區都有被發現 Evian 礦泉水是美國品牌 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2417
+  }
+}

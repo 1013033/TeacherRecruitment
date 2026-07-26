@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q002-d76c141f51",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 2 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-228",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是服務接觸金三角（Service Encounter Triangle）的要角之一？",
+    "options": [
+      {
+        "id": "A",
+        "text": "服務策略"
+      },
+      {
+        "id": "B",
+        "text": "顧客"
+      },
+      {
+        "id": "C",
+        "text": "服務組織"
+      },
+      {
+        "id": "D",
+        "text": "負責接洽之員工。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者不是服務接觸金三角（Service Encounter Triangle）的要角之一？ 服務策略 顧客 服務組織 負責接洽之員工。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 162
+  }
+}

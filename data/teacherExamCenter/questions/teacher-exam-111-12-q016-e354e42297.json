@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q016-e354e42297",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 16 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-10961",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "readingPassage": "(▲閱讀下文，回答第 16-20 題) 國際疫情因 COVID-19 疫苗人口覆蓋率提升而趨於穩定，全球已陸續鬆綁入境管制措施；台灣為符合世界趨勢，兼顧經濟及防疫安全，未來將逐步解封國境。交通部觀光局召開「研議國境開放準備及旅行業復甦事宜會議」，部長王國財表示將從商務客開始，預計最快下半年就能開放入出境旅遊。過去兩年來觀光業者為了生存，轉投入國旅市場發現了許多國旅內需優良、優質的行程。局長張錫聰肯定各旅行業者於疫情期間的努力，亦將積極向衛生福利部中央疫情指揮中心爭取，推動開放觀光客入境。觀光局未來會擬定策略，透過市場拓源及疫情所需新課程安排辦理從業人員及接待人員之教育訓練，因應後疫情時代旅遊市場需求及解封政策。國門封鎖兩年半，雄獅集團品牌策略總經理游國珍指出，以「日本」為例：3 月底賞櫻、4 月中雪牆、7、8 月份薰衣草、秋天賞楓、冬天賞雪，「開放初期可能有一些國家的法令規定，包含出入境人數、景點選擇、住宿條件要求和用餐、餐廳規範等等可能和以前不太一樣。」同樣的行程將會有更高的售價，而且在行程安排上有所變動。",
+    "prompt": "下列何者通常不歸屬觀光業？",
+    "options": [
+      {
+        "id": "A",
+        "text": "雄獅旅遊及其他相關服務業"
+      },
+      {
+        "id": "B",
+        "text": "各國觀光局及旅遊展覽服務業"
+      },
+      {
+        "id": "C",
+        "text": "衛生福利部及社會工作服務業"
+      },
+      {
+        "id": "D",
+        "text": "北海道「富田農場」及休閒服務業"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者通常不歸屬觀光業？ 雄獅旅遊及其他相關服務業 各國觀光局及旅遊展覽服務業 衛生福利部及社會工作服務業 北海道「富田農場」及休閒服務業 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1748
+  }
+}

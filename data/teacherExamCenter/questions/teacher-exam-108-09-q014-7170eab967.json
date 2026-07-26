@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q014-7170eab967",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 14 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-11258",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 14,
+    "questionType": "multiple-choice",
+    "prompt": "在下列關於白毫烏龍茶的敘述中,請問哪些是正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "主產於雲嘉地區"
+      },
+      {
+        "id": "B",
+        "text": "又稱為五色茶"
+      },
+      {
+        "id": "C",
+        "text": "有東方美人茶之稱"
+      },
+      {
+        "id": "D",
+        "text": "主要於冬季收成"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在下列關於白毫烏龍茶的敘述中,請問哪些是正確的？ 主產於雲嘉地區 又稱為五色茶 有東方美人茶之稱 主要於冬季收成 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1505
+  }
+}

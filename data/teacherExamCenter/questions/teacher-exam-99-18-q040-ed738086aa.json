@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q040-ed738086aa",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 40 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-9268",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "自助餐檯上，用來保持食物熱度的設備稱為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dishwasher"
+      },
+      {
+        "id": "B",
+        "text": "Chafing dish"
+      },
+      {
+        "id": "C",
+        "text": "Guéridon"
+      },
+      {
+        "id": "D",
+        "text": "flambé。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：lamb"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "自助餐檯上，用來保持食物熱度的設備稱為： Dishwasher Chafing dish Guéridon flambé。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2858
+  }
+}

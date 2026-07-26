@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q002-4e16daa395",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 2 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-11358",
+    "paperTitle": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "依導遊人員管理規則規定，導遊人員執業證分為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "專任導遊及特約導遊"
+      },
+      {
+        "id": "B",
+        "text": "外語導遊人員及華語導遊人員"
+      },
+      {
+        "id": "C",
+        "text": "國外僱用及國內僱用導遊"
+      },
+      {
+        "id": "D",
+        "text": "長期受僱與臨時受僱導遊。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依導遊人員管理規則規定，導遊人員執業證分為： 專任導遊及特約導遊 外語導遊人員及華語導遊人員 國外僱用及國內僱用導遊 長期受僱與臨時受僱導遊。 其他：待人工審核 待人工審核",
+    "sequence": 2144
+  }
+}

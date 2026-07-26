@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q011-8f527aa393",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 11 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-18624",
+    "paperTitle": "一、選擇題（1 題 1 分，共 20 分）",
+    "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "關於旅行業的經營，甲.旅行社之名稱發音相同；乙.旅行業受撤銷執照處分後，其公司名稱於三年內不得為同行申請使用；丙.旅行業不得委由旅客攜帶物品圖利；丁.綜合旅行業之資本額，最低金額為新台幣 2500 萬元；以上正確的是",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅行業的經營，甲.旅行社之名稱發音相同；乙.旅行業受撤銷執照處分後，其公司名稱於三年內不得為同行申請使用；丙.旅行業不得委由旅客攜帶物品圖利；丁.綜合旅行業之資本額，最低金額為新台幣 2500 萬元；以上正確的是 甲、乙 乙、丙 乙、丁 丙、丁。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 151
+  }
+}

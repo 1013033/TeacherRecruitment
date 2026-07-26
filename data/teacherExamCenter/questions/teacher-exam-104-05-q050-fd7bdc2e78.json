@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q050-fd7bdc2e78",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 50 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-10754",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "Housekeeping 術語，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Due-out 預定遷出"
+      },
+      {
+        "id": "B",
+        "text": "On Change 清理中"
+      },
+      {
+        "id": "C",
+        "text": "O.O.O. 是指故障房"
+      },
+      {
+        "id": "D",
+        "text": "Occupied 是指空房間。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Housekeeping 術語，下列何者錯誤？ Due-out 預定遷出 On Change 清理中 O.O.O. 是指故障房 Occupied 是指空房間。 其他：待人工審核 待人工審核",
+    "sequence": 655
+  }
+}

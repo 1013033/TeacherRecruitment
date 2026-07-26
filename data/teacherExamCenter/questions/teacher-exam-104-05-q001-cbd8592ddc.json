@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q001-cbd8592ddc",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 1 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-37570",
+    "paperTitle": "一、選擇題30%（共15題，每題2分）",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於西式餐具擺設（Table Setting），下列敘述何者正確？ 甲、餐刀放置於沙拉刀右側；乙、餐叉放置於沙拉叉右側；丙、點心匙放置於點心叉上方；丁、酒杯放置於餐叉上方",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "甲、丁。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：沙拉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於西式餐具擺設（Table Setting），下列敘述何者正確？ 甲、餐刀放置於沙拉刀右側；乙、餐叉放置於沙拉叉右側；丙、點心匙放置於點心叉上方；丁、酒杯放置於餐叉上方 甲、丙 乙、丁 乙、丙 甲、丁。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 939
+  }
+}

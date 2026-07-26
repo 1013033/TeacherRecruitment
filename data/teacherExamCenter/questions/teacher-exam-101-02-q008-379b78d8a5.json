@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q008-379b78d8a5",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 8 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-1007",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列關於酒精飲料的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "西班牙所生產的 Grappa 是以葡萄渣為原料"
+      },
+      {
+        "id": "B",
+        "text": "琴酒中的杜松子具有利尿、解熱等功能"
+      },
+      {
+        "id": "C",
+        "text": "蘇格蘭威士忌採用的麥芽常以泥煤（Peat）烘乾，故酒中帶有煙燻泥煤味"
+      },
+      {
+        "id": "D",
+        "text": "Ales 啤酒採 Top Fermentation，儲存期間短，顏色比較深。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌、grappa"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於酒精飲料的敘述，何者錯誤？ 西班牙所生產的 Grappa 是以葡萄渣為原料 琴酒中的杜松子具有利尿、解熱等功能 蘇格蘭威士忌採用的麥芽常以泥煤（Peat）烘乾，故酒中帶有煙燻泥煤味 Ales 啤酒採 Top Fermentation，儲存期間短，顏色比較深。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 168
+  }
+}

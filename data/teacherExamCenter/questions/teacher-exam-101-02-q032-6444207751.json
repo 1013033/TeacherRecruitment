@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q032-6444207751",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 32 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-7260",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "Chef d'etage 是屬於飯店的哪一個部門所屬的餐飲從業員工？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Banquet Service Dept."
+      },
+      {
+        "id": "B",
+        "text": "Room Service Dept"
+      },
+      {
+        "id": "C",
+        "text": "Open Wine Service Dept"
+      },
+      {
+        "id": "D",
+        "text": "Paging Service Dept。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、service、banquet"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Chef d'etage 是屬於飯店的哪一個部門所屬的餐飲從業員工？ Banquet Service Dept. Room Service Dept Open Wine Service Dept Paging Service Dept。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 224
+  }
+}

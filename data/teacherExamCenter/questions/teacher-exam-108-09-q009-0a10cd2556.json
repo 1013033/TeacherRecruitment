@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q009-0a10cd2556",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 9 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-5474",
+    "paperTitle": "二、選擇題(每題1分,共40分)",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "關於Paper Drip 咖啡沖煮方法之敘述,下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "新鮮的咖啡粉沖煮時較易膨脹"
+      },
+      {
+        "id": "B",
+        "text": "沖煮過程中宜進行適當的燜蒸"
+      },
+      {
+        "id": "C",
+        "text": "咖啡粉以攝氏100度的熱水沖煮口感最佳"
+      },
+      {
+        "id": "D",
+        "text": "通常烘焙程度愈淺之咖啡粉,沖煮後口感酸度愈高。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於Paper Drip 咖啡沖煮方法之敘述,下列何者錯誤？ 新鮮的咖啡粉沖煮時較易膨脹 沖煮過程中宜進行適當的燜蒸 咖啡粉以攝氏100度的熱水沖煮口感最佳 通常烘焙程度愈淺之咖啡粉,沖煮後口感酸度愈高。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1438
+  }
+}

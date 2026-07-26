@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q011-b9ab629ffa",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 11 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-27940",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "旅客攜帶行李物品其免稅範圍以合於本人自用及家用者為限，且必須年滿 20 歲。其免稅規定下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "酒 2 公升"
+      },
+      {
+        "id": "B",
+        "text": "菸絲 1 磅"
+      },
+      {
+        "id": "C",
+        "text": "雪茄 25 支"
+      },
+      {
+        "id": "D",
+        "text": "捲菸 200 支。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "旅客攜帶行李物品其免稅範圍以合於本人自用及家用者為限，且必須年滿 20 歲。其免稅規定下列何者有誤？ 酒 2 公升 菸絲 1 磅 雪茄 25 支 捲菸 200 支。 其他：待人工審核 待人工審核",
+    "sequence": 1290
+  }
+}

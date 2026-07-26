@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q011-b00ffecf14",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 11 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-1763",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "經領隊人員考試通過以及訓練及格者，執行導遊業務是否符合規定？",
+    "options": [
+      {
+        "id": "A",
+        "text": "符合規定；可執行導遊業務。"
+      },
+      {
+        "id": "B",
+        "text": "符合規定；但須在執行前補足 8 小時導遊特別訓練。"
+      },
+      {
+        "id": "C",
+        "text": "不符合規定；應處新臺幣一萬元以上五萬元以下罰鍰並禁止其執行導遊業務。"
+      },
+      {
+        "id": "D",
+        "text": "不符合規定；應處新臺幣五萬元以上十萬元以下罰鍰並禁止其執行導遊業務。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "經領隊人員考試通過以及訓練及格者，執行導遊業務是否符合規定？ 符合規定；可執行導遊業務。 符合規定；但須在執行前補足 8 小時導遊特別訓練。 不符合規定；應處新臺幣一萬元以上五萬元以下罰鍰並禁止其執行導遊業務。 不符合規定；應處新臺幣五萬元以上十萬元以下罰鍰並禁止其執行導遊業務。 其他：待人工審核 待人工審核",
+    "sequence": 1698
+  }
+}

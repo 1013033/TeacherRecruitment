@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q030-d2a174631e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 30 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-4499",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "A 君於 2020 年 1 月購買長榮航空機票由臺北飛往巴黎，中途於伊斯坦堡停留並上下客貨後續飛往巴黎，當她上飛機後卻發現是由土耳其航空的人員進行機上服務。試問下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "此種情況為長榮航空與土耳其航空 Code Sharing，故可知長榮與土耳其航空可能均為 Star Alliance 成員。"
+      },
+      {
+        "id": "B",
+        "text": "此航程為 TC3 → TC2 → TC2，故其免費托運行李可能為計重制。"
+      },
+      {
+        "id": "C",
+        "text": "此航程如由 BR 承載應屬第五航權，但由 TK 航空承載則為第七航權。"
+      },
+      {
+        "id": "D",
+        "text": "此航程之機場代號分別為 TPE、IST、CDG。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票、機場"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "A 君於 2020 年 1 月購買長榮航空機票由臺北飛往巴黎，中途於伊斯坦堡停留並上下客貨後續飛往巴黎，當她上飛機後卻發現是由土耳其航空的人員進行機上服務。試問下列敘述何者錯誤？ 此種情況為長榮航空與土耳其航空 Code Sharing，故可知長榮與土耳其航空可能均為 Star Alliance 成員。 此航程為 TC3 → TC2 → TC2，故其免費托運行李可能為計重制。 此航程如由 BR 承載應屬第五航權，但由 TK 航空承載則為第七航權。 此航程之機場代號分別為 TPE、IST、CDG。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1717
+  }
+}

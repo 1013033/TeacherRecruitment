@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q048-02d7116b6f",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 48 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-33514",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "就國際航線而言，適用兒童票是指幾歲大的旅客？",
+    "options": [
+      {
+        "id": "A",
+        "text": "滿 4 歲未滿 14 歲"
+      },
+      {
+        "id": "B",
+        "text": "滿 3 歲未滿 13 歲"
+      },
+      {
+        "id": "C",
+        "text": "滿 2 歲未滿 12 歲"
+      },
+      {
+        "id": "D",
+        "text": "滿 1 歲未滿 11 歲。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "就國際航線而言，適用兒童票是指幾歲大的旅客？ 滿 4 歲未滿 14 歲 滿 3 歲未滿 13 歲 滿 2 歲未滿 12 歲 滿 1 歲未滿 11 歲。 其他：待人工審核 待人工審核",
+    "sequence": 2643
+  }
+}

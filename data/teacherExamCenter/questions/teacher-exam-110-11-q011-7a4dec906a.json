@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q011-7a4dec906a",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 11 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-1571",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "旅館除了每年的旅展上會釋出住宿、餐飲優惠卷外，現在也同步在自家官網推出線上旅展，請問這是何種會議展覽業？",
+    "options": [
+      {
+        "id": "A",
+        "text": "商業展覽"
+      },
+      {
+        "id": "B",
+        "text": "獎勵旅遊"
+      },
+      {
+        "id": "C",
+        "text": "消費展覽"
+      },
+      {
+        "id": "D",
+        "text": "研討會。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅館除了每年的旅展上會釋出住宿、餐飲優惠卷外，現在也同步在自家官網推出線上旅展，請問這是何種會議展覽業？ 商業展覽 獎勵旅遊 消費展覽 研討會。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1651
+  }
+}

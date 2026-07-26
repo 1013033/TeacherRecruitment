@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q006-ce35da230e",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 6 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-13959",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "若依咖啡豆烘焙程度（Roast）由深到淺排列，下列順序何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cinnamon、High、Italian"
+      },
+      {
+        "id": "B",
+        "text": "High、Cinnamon、Italian"
+      },
+      {
+        "id": "C",
+        "text": "High、Italian、Cinnamon"
+      },
+      {
+        "id": "D",
+        "text": "Italian、High、Cinnamon。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "若依咖啡豆烘焙程度（Roast）由深到淺排列，下列順序何者正確？ Cinnamon、High、Italian High、Cinnamon、Italian High、Italian、Cinnamon Italian、High、Cinnamon。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 488
+  }
+}

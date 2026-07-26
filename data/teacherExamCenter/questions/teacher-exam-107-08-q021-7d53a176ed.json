@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q021-7d53a176ed",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 21 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-3109",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "下列哪些茶類有萎凋之製程？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綠茶、紅茶、黃茶"
+      },
+      {
+        "id": "B",
+        "text": "白茶、青茶、紅茶"
+      },
+      {
+        "id": "C",
+        "text": "白茶、青茶、綠茶"
+      },
+      {
+        "id": "D",
+        "text": "黃茶、白茶、青茶。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、綠茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些茶類有萎凋之製程？ 綠茶、紅茶、黃茶 白茶、青茶、紅茶 白茶、青茶、綠茶 黃茶、白茶、青茶。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1332
+  }
+}

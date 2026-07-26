@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q025-49597e7c40",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 25 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-8878",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "He owes a large ______ of money to the hotel.",
+    "options": [
+      {
+        "id": "A",
+        "text": "total"
+      },
+      {
+        "id": "B",
+        "text": "cash"
+      },
+      {
+        "id": "C",
+        "text": "bill"
+      },
+      {
+        "id": "D",
+        "text": "sum 二、情境對話題：四選一每題2分，共10分"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "He owes a large ______ of money to the hotel. total cash bill sum 二、情境對話題：四選一每題2分，共10分 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1023
+  }
+}

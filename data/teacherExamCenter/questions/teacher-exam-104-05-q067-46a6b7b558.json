@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q067-46a6b7b558",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 67 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-12638",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 67,
+    "questionType": "single-choice",
+    "prompt": "下列何種雞尾酒的成分中有白色蘭姆酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "California Punch"
+      },
+      {
+        "id": "B",
+        "text": "Planter's Punch"
+      },
+      {
+        "id": "C",
+        "text": "Cardinal Punch"
+      },
+      {
+        "id": "D",
+        "text": "Fruit Punch。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：蘭姆"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何種雞尾酒的成分中有白色蘭姆酒？ California Punch Planter's Punch Cardinal Punch Fruit Punch。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 672
+  }
+}

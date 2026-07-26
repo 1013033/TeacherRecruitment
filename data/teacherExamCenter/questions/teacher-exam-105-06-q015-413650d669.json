@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q015-413650d669",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 15 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-8003",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "餐廳廚房設計時，廁所的位置至少需遠離廚房多遠才可？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1公尺"
+      },
+      {
+        "id": "B",
+        "text": "1.5公尺"
+      },
+      {
+        "id": "C",
+        "text": "2公尺"
+      },
+      {
+        "id": "D",
+        "text": "3公尺。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳廚房設計時，廁所的位置至少需遠離廚房多遠才可？ 1公尺 1.5公尺 2公尺 3公尺。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1013
+  }
+}

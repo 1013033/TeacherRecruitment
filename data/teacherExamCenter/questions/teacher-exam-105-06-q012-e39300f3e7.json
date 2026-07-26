@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q012-e39300f3e7",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 12 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-7666",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "下列哪一杯雞尾酒必須用搖盪法(shake)調製？",
+    "options": [
+      {
+        "id": "A",
+        "text": "馬丁尼(Martini)"
+      },
+      {
+        "id": "B",
+        "text": "螺絲起子(Screwdriver)"
+      },
+      {
+        "id": "C",
+        "text": "威士忌酸酒(Whisky Sour)"
+      },
+      {
+        "id": "D",
+        "text": "鹹狗(Salty Dog)。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌、whisky"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一杯雞尾酒必須用搖盪法(shake)調製？ 馬丁尼(Martini) 螺絲起子(Screwdriver) 威士忌酸酒(Whisky Sour) 鹹狗(Salty Dog)。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1010
+  }
+}

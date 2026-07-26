@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q039-af95138fe8",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 39 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-8622",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "旅館採房租含早、午、晚三餐的方式收取費用，此計費方式稱為甚麼？",
+    "options": [
+      {
+        "id": "A",
+        "text": "American Plan"
+      },
+      {
+        "id": "B",
+        "text": "Continental Plan"
+      },
+      {
+        "id": "C",
+        "text": "European Plan"
+      },
+      {
+        "id": "D",
+        "text": "Modified American Plan。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館採房租含早、午、晚三餐的方式收取費用，此計費方式稱為甚麼？ American Plan Continental Plan European Plan Modified American Plan。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 64
+  }
+}

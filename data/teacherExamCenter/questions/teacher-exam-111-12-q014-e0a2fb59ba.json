@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q014-e0a2fb59ba",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 14 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-2203",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "請問食用 Escargot in Shells 在傳統法式西餐菜單結構中屬於第幾道菜？客人右手邊所擺設的餐具，由內而外分別為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一道，Escargot Tongs、Escargot Fork"
+      },
+      {
+        "id": "B",
+        "text": "第二道，Escargot Fork、Escargot Tongs"
+      },
+      {
+        "id": "C",
+        "text": "第三道，Escargot Fork、Coffee Spoon"
+      },
+      {
+        "id": "D",
+        "text": "第三道，Coffee Spoon、Escargot Fork"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請問食用 Escargot in Shells 在傳統法式西餐菜單結構中屬於第幾道菜？客人右手邊所擺設的餐具，由內而外分別為何？ 第一道，Escargot Tongs、Escargot Fork 第二道，Escargot Fork、Escargot Tongs 第三道，Escargot Fork、Coffee Spoon 第三道，Coffee Spoon、Escargot Fork 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1701
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q009-d4edfc4ac4",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 9 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-12973",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "Seagram's Crown Royal 是一種威士忌，產於下列那一個國家？",
+    "options": [
+      {
+        "id": "A",
+        "text": "加拿大"
+      },
+      {
+        "id": "B",
+        "text": "日本"
+      },
+      {
+        "id": "C",
+        "text": "英國"
+      },
+      {
+        "id": "D",
+        "text": "美國。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Seagram's Crown Royal 是一種威士忌，產於下列那一個國家？ 加拿大 日本 英國 美國。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 106
+  }
+}

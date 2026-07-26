@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q070-0705636fc7",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 70 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-12977",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 70,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種咖啡成品，原則上不需加入奶製品？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mesdames coffee"
+      },
+      {
+        "id": "B",
+        "text": "Irish coffee"
+      },
+      {
+        "id": "C",
+        "text": "Vienna coffee"
+      },
+      {
+        "id": "D",
+        "text": "Royal coffee."
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種咖啡成品，原則上不需加入奶製品？ Mesdames coffee Irish coffee Vienna coffee Royal coffee. 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 675
+  }
+}

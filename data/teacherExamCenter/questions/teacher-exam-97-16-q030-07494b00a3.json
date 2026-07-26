@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q030-07494b00a3",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 30 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-10978",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "下列有關酒精性飲料的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tequila 可稱為巴西的國酒"
+      },
+      {
+        "id": "B",
+        "text": "Brandy 生產以美國最享盛名"
+      },
+      {
+        "id": "C",
+        "text": "Rum 的主要生產地在西印度群島國家"
+      },
+      {
+        "id": "D",
+        "text": "愛爾蘭製造的 Whiskey 有泥煤煙燻味"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：brandy、rum、tequila"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關酒精性飲料的敘述，何者正確？ Tequila 可稱為巴西的國酒 Brandy 生產以美國最享盛名 Rum 的主要生產地在西印度群島國家 愛爾蘭製造的 Whiskey 有泥煤煙燻味 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2400
+  }
+}

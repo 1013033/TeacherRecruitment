@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q096-54dff7730e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 96 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-15116",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 96,
+    "questionType": "single-choice",
+    "prompt": "如果開瓶時，不慎將葡萄酒瓶塞掉入酒內，可使用何種器具將瓶塞取出？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cork Retriever"
+      },
+      {
+        "id": "B",
+        "text": "Funnel"
+      },
+      {
+        "id": "C",
+        "text": "Jack Knife"
+      },
+      {
+        "id": "D",
+        "text": "Ah-So."
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "如果開瓶時，不慎將葡萄酒瓶塞掉入酒內，可使用何種器具將瓶塞取出？ Cork Retriever Funnel Jack Knife Ah-So. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 701
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q007-09b96220b6",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 7 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-5308",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列何者不屬於 hors d'oeuvres froid？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prosciutto di Parma"
+      },
+      {
+        "id": "B",
+        "text": "Smoked Salmon"
+      },
+      {
+        "id": "C",
+        "text": "Pasta"
+      },
+      {
+        "id": "D",
+        "text": "Foie Gras."
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：foie gras"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不屬於 hors d'oeuvres froid？ Prosciutto di Parma Smoked Salmon Pasta Foie Gras. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 612
+  }
+}

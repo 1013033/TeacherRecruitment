@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q024-abb2cdc75a",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 24 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-5659",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "在房客遷出的過程，櫃檯人員應在「住宿登記表」標示房間狀態，以作為客房銷售的依據，下列專用術語之意義何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "on change 表示該房為空房，但尚未清理完成"
+      },
+      {
+        "id": "B",
+        "text": "ok room 表示該房為可銷售房"
+      },
+      {
+        "id": "C",
+        "text": "due out 表示該房的房客當日預計遷出"
+      },
+      {
+        "id": "D",
+        "text": "sleeper 表示該房仍有人使用。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、櫃檯、住宿、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在房客遷出的過程，櫃檯人員應在「住宿登記表」標示房間狀態，以作為客房銷售的依據，下列專用術語之意義何者錯誤？ on change 表示該房為空房，但尚未清理完成 ok room 表示該房為可銷售房 due out 表示該房的房客當日預計遷出 sleeper 表示該房仍有人使用。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 551
+  }
+}

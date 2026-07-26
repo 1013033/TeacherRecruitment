@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q023-c600257e87",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 23 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-17703",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "根據我國觀光旅館建築及設備標準規定，國際觀光旅館客房單人房、雙人房、套房、專用浴廁，淨面積分別不得小於多少平方公尺？",
+    "options": [
+      {
+        "id": "A",
+        "text": "10/15/25/3"
+      },
+      {
+        "id": "B",
+        "text": "10/19/30/3.5"
+      },
+      {
+        "id": "C",
+        "text": "13/15/32/3"
+      },
+      {
+        "id": "D",
+        "text": "13/19/32/3.5"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、套房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "根據我國觀光旅館建築及設備標準規定，國際觀光旅館客房單人房、雙人房、套房、專用浴廁，淨面積分別不得小於多少平方公尺？ 10/15/25/3 10/19/30/3.5 13/15/32/3 13/19/32/3.5 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1202
+  }
+}

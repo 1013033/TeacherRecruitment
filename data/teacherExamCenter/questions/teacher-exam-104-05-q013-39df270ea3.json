@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q013-39df270ea3",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 13 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-34553",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "服務陳年葡萄酒時，為了避免顧客飲用到沉澱物，可將瓶中的酒先倒入下列何種器皿？",
+    "options": [
+      {
+        "id": "A",
+        "text": "wine cellar"
+      },
+      {
+        "id": "B",
+        "text": "wine cooler"
+      },
+      {
+        "id": "C",
+        "text": "wine decanter"
+      },
+      {
+        "id": "D",
+        "text": "wine holder."
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "服務陳年葡萄酒時，為了避免顧客飲用到沉澱物，可將瓶中的酒先倒入下列何種器皿？ wine cellar wine cooler wine decanter wine holder. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 909
+  }
+}

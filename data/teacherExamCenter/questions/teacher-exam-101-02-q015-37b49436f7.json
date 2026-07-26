@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q015-37b49436f7",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 15 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-14814",
+    "paperTitle": "一、單選題（每題2分，共50分）",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "雞尾酒「Gin Tonic」與「Gin Fizz」的調製方法分別為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shake & Build"
+      },
+      {
+        "id": "B",
+        "text": "Build & Stir"
+      },
+      {
+        "id": "C",
+        "text": "Build & Shake"
+      },
+      {
+        "id": "D",
+        "text": "Blend & Shake。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "雞尾酒「Gin Tonic」與「Gin Fizz」的調製方法分別為： Shake & Build Build & Stir Build & Shake Blend & Shake。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 314
+  }
+}

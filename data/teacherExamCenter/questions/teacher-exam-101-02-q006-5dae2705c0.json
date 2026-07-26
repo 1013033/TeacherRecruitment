@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q006-5dae2705c0",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 6 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-782",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "假設長榮航空飛航台北經曼谷至維也納之班機可在曼谷（中間點）上下往返維也納的客、貨、郵件等，亦可在維也納上下曼谷、台北之客、貨、郵件等。請問：長榮航空所取得的航權是屬於",
+    "options": [
+      {
+        "id": "A",
+        "text": "第三航權"
+      },
+      {
+        "id": "B",
+        "text": "第四航權"
+      },
+      {
+        "id": "C",
+        "text": "第五航權"
+      },
+      {
+        "id": "D",
+        "text": "境內營運權。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "假設長榮航空飛航台北經曼谷至維也納之班機可在曼谷（中間點）上下往返維也納的客、貨、郵件等，亦可在維也納上下曼谷、台北之客、貨、郵件等。請問：長榮航空所取得的航權是屬於 第三航權 第四航權 第五航權 境內營運權。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 166
+  }
+}

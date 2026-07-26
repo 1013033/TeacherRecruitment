@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q016-a5c38fa455",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 16 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-10707",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是香檳區法定的葡萄品種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pinot Noir"
+      },
+      {
+        "id": "B",
+        "text": "Pinot Meunier"
+      },
+      {
+        "id": "C",
+        "text": "Sauvignon Blanc"
+      },
+      {
+        "id": "D",
+        "text": "Chardonnay。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳、pinot、chardonnay"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是香檳區法定的葡萄品種？ Pinot Noir Pinot Meunier Sauvignon Blanc Chardonnay。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 82
+  }
+}

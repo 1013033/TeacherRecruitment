@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q005-90acbe52f9",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 5 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-12619",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "我國政府提出之觀光客倍增計畫中，明訂二○○八年來華旅客倍增至五百萬人次，其中觀光客倍增至多少人次？",
+    "options": [
+      {
+        "id": "A",
+        "text": "一百五十萬"
+      },
+      {
+        "id": "B",
+        "text": "一百萬"
+      },
+      {
+        "id": "C",
+        "text": "二百萬"
+      },
+      {
+        "id": "D",
+        "text": "二百五十萬。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國政府提出之觀光客倍增計畫中，明訂二○○八年來華旅客倍增至五百萬人次，其中觀光客倍增至多少人次？ 一百五十萬 一百萬 二百萬 二百五十萬。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 102
+  }
+}

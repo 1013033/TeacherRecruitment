@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q004-c9901cd687",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 4 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-10140",
+    "paperTitle": "一、選擇題（每題 2 分，共 40 分）",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "以下那一項不是客房內的 guest essentials？",
+    "options": [
+      {
+        "id": "A",
+        "text": "bathrobe"
+      },
+      {
+        "id": "B",
+        "text": "sanitary bag"
+      },
+      {
+        "id": "C",
+        "text": "down comforter"
+      },
+      {
+        "id": "D",
+        "text": "stationary folder。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下那一項不是客房內的 guest essentials？ bathrobe sanitary bag down comforter stationary folder。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 466
+  }
+}

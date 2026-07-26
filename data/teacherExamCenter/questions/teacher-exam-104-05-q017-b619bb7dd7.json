@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q017-b619bb7dd7",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 17 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-2511",
+    "paperTitle": "二、複選題（每題2分，全對才給分，共10分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 17,
+    "questionType": "multiple-choice",
+    "prompt": "何種床型適合客房面積較小的房間？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hollywood Bed"
+      },
+      {
+        "id": "B",
+        "text": "Murphy Bed"
+      },
+      {
+        "id": "C",
+        "text": "Studio Bed"
+      },
+      {
+        "id": "D",
+        "text": "Rollaway。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "何種床型適合客房面積較小的房間？ Hollywood Bed Murphy Bed Studio Bed Rollaway。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 594
+  }
+}

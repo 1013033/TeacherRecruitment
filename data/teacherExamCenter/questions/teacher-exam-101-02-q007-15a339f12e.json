@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q007-15a339f12e",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 7 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-911",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列紅茶（Black Tea）產地何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Keemun紅茶－中國"
+      },
+      {
+        "id": "B",
+        "text": "Nilgiri紅茶－印度"
+      },
+      {
+        "id": "C",
+        "text": "Uva紅茶－斯里蘭卡"
+      },
+      {
+        "id": "D",
+        "text": "Dimbula紅茶－印度。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列紅茶（Black Tea）產地何者錯誤？ Keemun紅茶－中國 Nilgiri紅茶－印度 Uva紅茶－斯里蘭卡 Dimbula紅茶－印度。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 167
+  }
+}

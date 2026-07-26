@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q001-1029b3fd3f",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 1 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-13417",
+    "paperTitle": "一、單選題（每題2分，共50分）",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於台灣近年來觀光發展的過程，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "民國89年：觀光客倍增計畫"
+      },
+      {
+        "id": "B",
+        "text": "民國91年：生態旅遊年"
+      },
+      {
+        "id": "C",
+        "text": "民國93年：台灣觀光年"
+      },
+      {
+        "id": "D",
+        "text": "民國97年：旅行台灣年。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於台灣近年來觀光發展的過程，下列敘述何者錯誤？ 民國89年：觀光客倍增計畫 民國91年：生態旅遊年 民國93年：台灣觀光年 民國97年：旅行台灣年。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 300
+  }
+}

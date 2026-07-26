@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q007-93648c2624",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 7 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-33059",
+    "paperTitle": "一、選擇題，每題2分，共20分。",
+    "schoolName": "國立羅東高級商業職業學校104學年度教師甄選",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "韓國 MERS 疫情嚴重，影響暑假國人前往韓國旅遊的意願，此種現象是屬於餐旅業的何種特性？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Variability"
+      },
+      {
+        "id": "B",
+        "text": "Inseparability"
+      },
+      {
+        "id": "C",
+        "text": "Heterogeneity"
+      },
+      {
+        "id": "D",
+        "text": "Intangibility."
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "韓國 MERS 疫情嚴重，影響暑假國人前往韓國旅遊的意願，此種現象是屬於餐旅業的何種特性？ Variability Inseparability Heterogeneity Intangibility. 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 893
+  }
+}

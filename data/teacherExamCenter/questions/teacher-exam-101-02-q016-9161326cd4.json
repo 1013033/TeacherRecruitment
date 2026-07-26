@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q016-9161326cd4",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 16 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21336",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "關於旅館經營上的定價及計價方式，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "net 價格為已計入稅金及不再外加收服務費的實收價"
+      },
+      {
+        "id": "B",
+        "text": "休閒旅館春節假期應積極提供折扣促銷，以達最大住房率及營收"
+      },
+      {
+        "id": "C",
+        "text": "commercial rate 的折扣多寡，應視簽約公司一年中使用的房間數而定"
+      },
+      {
+        "id": "D",
+        "text": "一般而言，超過 check-out 時間 6 小時以上仍未退房，旅館可加收一日房租。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館經營上的定價及計價方式，下列何者錯誤？ net 價格為已計入稅金及不再外加收服務費的實收價 休閒旅館春節假期應積極提供折扣促銷，以達最大住房率及營收 commercial rate 的折扣多寡，應視簽約公司一年中使用的房間數而定 一般而言，超過 check-out 時間 6 小時以上仍未退房，旅館可加收一日房租。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 370
+  }
+}

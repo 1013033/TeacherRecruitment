@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "concept": {
+    "id": "hospitality-english",
+    "subject": "english-service",
+    "subjectLabel": "餐旅英文與服務溝通",
+    "unit": "餐旅英文",
+    "label": "餐旅英文情境與服務對話",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-100-01-q008-507a036ccf"
+    ],
+    "years": [
+      100
+    ],
+    "publisherBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：we will be landing、upright position"
+      }
+    ],
+    "reviewStatus": "draft",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-100-01-q008-507a036ccf",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 8 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-4227",
+      "paperTitle": "未標示試卷",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 8,
+      "questionType": "essay",
+      "prompt": "請將下列英文翻譯成適當的中文 （6 分） We will be landing shortly, so please raise your tray tables and put your seats on upright position. Thank you.",
+      "options": [],
+      "subject": "english-service",
+      "subjectLabel": "餐旅英文與服務溝通",
+      "unit": "餐旅英文",
+      "conceptId": "hospitality-english",
+      "conceptLabel": "餐旅英文情境與服務對話",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "note": "命中關鍵詞：we will be landing、upright position"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "請將下列英文翻譯成適當的中文 （6 分） We will be landing shortly, so please raise your tray tables and put your seats on upright position. Thank you. 餐旅英文情境與服務對話 餐旅英文",
+      "sequence": 25
+    }
+  ]
+}

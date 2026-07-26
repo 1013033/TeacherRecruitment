@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q025-0170439e08",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 25 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-6847",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "下列哪一款雞尾酒之基酒，不同於其他三款？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Black Russian"
+      },
+      {
+        "id": "B",
+        "text": "Perfect martini"
+      },
+      {
+        "id": "C",
+        "text": "Pink lady"
+      },
+      {
+        "id": "D",
+        "text": "Singapore sling。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、martini、black russian、singapore sling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一款雞尾酒之基酒，不同於其他三款？ Black Russian Perfect martini Pink lady Singapore sling。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 50
+  }
+}

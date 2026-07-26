@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q012-1e06111057",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 12 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-6001",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "西餐餐具使用原則，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "食用完畢刀叉平行並排斜放於餐盤內"
+      },
+      {
+        "id": "B",
+        "text": "圓湯匙是喝清湯用，橢圓湯匙是喝濃湯用"
+      },
+      {
+        "id": "C",
+        "text": "最大的杯子是水杯"
+      },
+      {
+        "id": "D",
+        "text": "麵包是取用客人左邊的。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐餐具使用原則，下列敘述何者錯誤？ 食用完畢刀叉平行並排斜放於餐盤內 圓湯匙是喝清湯用，橢圓湯匙是喝濃湯用 最大的杯子是水杯 麵包是取用客人左邊的。 其他：待人工審核 待人工審核",
+    "sequence": 617
+  }
+}

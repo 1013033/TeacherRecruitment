@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q012-039a98ffda",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 12 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-9521",
+    "paperTitle": "一、請依下列情境回答問題（1題2分，共24分）",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "被借調到人力資源管理部門，陳組長應明瞭人力資源管理的重要功能為何？甲：用才 乙：育才 丙：選才 丁：留才 戊：晉才",
+    "options": [
+      {
+        "id": "A",
+        "text": "丙→甲→乙→戊→丁"
+      },
+      {
+        "id": "B",
+        "text": "甲→乙→丙→丁→戊"
+      },
+      {
+        "id": "C",
+        "text": "乙→戊→丁→丙→甲"
+      },
+      {
+        "id": "D",
+        "text": "戊→乙→丙→甲→丁"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "被借調到人力資源管理部門，陳組長應明瞭人力資源管理的重要功能為何？甲：用才 乙：育才 丙：選才 丁：留才 戊：晉才 丙→甲→乙→戊→丁 甲→乙→丙→丁→戊 乙→戊→丁→丙→甲 戊→乙→丙→甲→丁 其他：待人工審核 待人工審核",
+    "sequence": 2382
+  }
+}

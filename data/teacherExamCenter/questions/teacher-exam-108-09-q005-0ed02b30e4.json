@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q005-0ed02b30e4",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 5 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-757",
+    "paperTitle": "一、單選題(每題2分,共40分)",
+    "schoolName": "未標示學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "點菜時服務人員推薦凱莉一道牛排,這道菜的處理方式是先採低溫烹調然後再煎熟表面,如此才不會產生牛排表面和中間熟度差異過大的情況,請問服務員推薦的這道菜名稱是下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Swiss Steak"
+      },
+      {
+        "id": "B",
+        "text": "Steak Tartare"
+      },
+      {
+        "id": "C",
+        "text": "Sous Vide Steak"
+      },
+      {
+        "id": "D",
+        "text": "Wet-aged beef"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、煎、beef"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "點菜時服務人員推薦凱莉一道牛排,這道菜的處理方式是先採低溫烹調然後再煎熟表面,如此才不會產生牛排表面和中間熟度差異過大的情況,請問服務員推薦的這道菜名稱是下列何者？ Swiss Steak Steak Tartare Sous Vide Steak Wet-aged beef 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1365
+  }
+}

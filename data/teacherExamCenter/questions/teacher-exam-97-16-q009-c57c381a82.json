@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q009-c57c381a82",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 9 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-25240",
+    "paperTitle": "一、選擇題：（30 題每題 2 分）",
+    "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "小明想去歐洲玩，辦了申根簽證，但他無法憑申根簽證前往下列那一國？",
+    "options": [
+      {
+        "id": "A",
+        "text": "法國"
+      },
+      {
+        "id": "B",
+        "text": "荷蘭"
+      },
+      {
+        "id": "C",
+        "text": "德國"
+      },
+      {
+        "id": "D",
+        "text": "瑞士"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小明想去歐洲玩，辦了申根簽證，但他無法憑申根簽證前往下列那一國？ 法國 荷蘭 德國 瑞士 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2531
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q022-ea94bec50d",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 22 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-15454",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種酒屬於藥草 Liqueur？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cointreau"
+      },
+      {
+        "id": "B",
+        "text": "Crème de Cacao"
+      },
+      {
+        "id": "C",
+        "text": "Bénédictine"
+      },
+      {
+        "id": "D",
+        "text": "Kahlúa。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種酒屬於藥草 Liqueur？ Cointreau Crème de Cacao Bénédictine Kahlúa。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 321
+  }
+}

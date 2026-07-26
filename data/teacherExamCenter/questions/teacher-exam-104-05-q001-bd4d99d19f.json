@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q001-bd4d99d19f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 1 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-32549",
+    "paperTitle": "一、選擇題，每題2分，共20分。",
+    "schoolName": "國立羅東高級商業職業學校104學年度教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "下列哪些蒸餾酒的原料為穀物類？ 甲、Gin；乙、Rum；丙、Vodka；丁、Tequila；戊、Brandy；己、Whisky",
+    "options": [
+      {
+        "id": "A",
+        "text": "丙、己"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙、己"
+      },
+      {
+        "id": "C",
+        "text": "丙、丁、己"
+      },
+      {
+        "id": "D",
+        "text": "甲、丁、己。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：brandy、whisky、vodka、rum、tequila"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些蒸餾酒的原料為穀物類？ 甲、Gin；乙、Rum；丙、Vodka；丁、Tequila；戊、Brandy；己、Whisky 丙、己 甲、丙、己 丙、丁、己 甲、丁、己。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 887
+  }
+}

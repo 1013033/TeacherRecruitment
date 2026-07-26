@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q001-bda8edc799",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 1 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-26372",
+    "paperTitle": "一、單選題（每題 1 分，共 20 分）",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "下列關於酒精飲料的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blanc de Blanc，是白葡萄釀的白香檳，口感清新、富含果香味。"
+      },
+      {
+        "id": "B",
+        "text": "英國人稱 Bordeaux 葡萄酒為 French Claret，Claret 是指厚重和油滑的口感。"
+      },
+      {
+        "id": "C",
+        "text": "Burgundy 位於法國東邊，其葡萄品種白酒以 Chardonnay 為主。"
+      },
+      {
+        "id": "D",
+        "text": "德國 Riesling 法定等級 Kabinett 適合搭配比較清淡的食物，像是 Fish à La Meunière。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、香檳、白酒、chardonnay、riesling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於酒精飲料的敘述，何者錯誤？ Blanc de Blanc，是白葡萄釀的白香檳，口感清新、富含果香味。 英國人稱 Bordeaux 葡萄酒為 French Claret，Claret 是指厚重和油滑的口感。 Burgundy 位於法國東邊，其葡萄品種白酒以 Chardonnay 為主。 德國 Riesling 法定等級 Kabinett 適合搭配比較清淡的食物，像是 Fish à La Meunière。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1280
+  }
+}

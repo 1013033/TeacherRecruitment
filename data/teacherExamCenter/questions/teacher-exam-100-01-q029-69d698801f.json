@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q029-69d698801f",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 29 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-15699",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "下列關於酒精飲料的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "啤酒中所加入的啤酒花具有凝結蛋白質以及增加香氣等功能"
+      },
+      {
+        "id": "B",
+        "text": "琴酒中的杜松子具有利尿、解熱等功能"
+      },
+      {
+        "id": "C",
+        "text": "蘇格蘭威士忌採用的麥芽常以泥煤（Peat）烘乾，故酒中帶有煙燻泥煤味"
+      },
+      {
+        "id": "D",
+        "text": "俄羅斯所生產的 Grappa 是以葡萄渣為原料。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌、grappa"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於酒精飲料的敘述，何者錯誤？ 啤酒中所加入的啤酒花具有凝結蛋白質以及增加香氣等功能 琴酒中的杜松子具有利尿、解熱等功能 蘇格蘭威士忌採用的麥芽常以泥煤（Peat）烘乾，故酒中帶有煙燻泥煤味 俄羅斯所生產的 Grappa 是以葡萄渣為原料。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 126
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q021-f58f934ed2",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 21 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-6417",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項工作/職位與其他三者的主要工作場所，迥然不同？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chef de rang"
+      },
+      {
+        "id": "B",
+        "text": "Maitre d' Hotel"
+      },
+      {
+        "id": "C",
+        "text": "Sommelier"
+      },
+      {
+        "id": "D",
+        "text": "Sous Chef。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：chef de rang、maitre、sommelier"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一項工作/職位與其他三者的主要工作場所，迥然不同？ Chef de rang Maitre d' Hotel Sommelier Sous Chef。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 46
+  }
+}

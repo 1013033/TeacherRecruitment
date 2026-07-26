@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q068-1fb31b10fd",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 68 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-12742",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 68,
+    "questionType": "single-choice",
+    "prompt": "關於營業用半自動義式咖啡機使用之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡粉與水之比例為 14g : 30ml"
+      },
+      {
+        "id": "B",
+        "text": "萃取 30ml 濃縮咖啡的時間，以 20~30秒為佳"
+      },
+      {
+        "id": "C",
+        "text": "為避免萃取咖啡之流速過快，可透過磨細咖啡粉或增加填壓力道來改善"
+      },
+      {
+        "id": "D",
+        "text": "按壓沖煮鍵萃取濃縮咖啡時，咖啡機之壓力表跳至約9個大氣壓力屬於正常現象。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、義式、萃取"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於營業用半自動義式咖啡機使用之敘述，下列何者錯誤？ 咖啡粉與水之比例為 14g : 30ml 萃取 30ml 濃縮咖啡的時間，以 20~30秒為佳 為避免萃取咖啡之流速過快，可透過磨細咖啡粉或增加填壓力道來改善 按壓沖煮鍵萃取濃縮咖啡時，咖啡機之壓力表跳至約9個大氣壓力屬於正常現象。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 673
+  }
+}

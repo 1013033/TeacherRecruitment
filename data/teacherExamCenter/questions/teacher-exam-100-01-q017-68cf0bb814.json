@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q017-68cf0bb814",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 17 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-2375",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "墨西哥政府規定，只有在 Jalisco 州的 Tequila 鎮所產的 Tequila 才允許冠以 Tequila 之名，其他龍舌蘭所製成的蒸餾酒則稱為",
+    "options": [
+      {
+        "id": "A",
+        "text": "Grappa"
+      },
+      {
+        "id": "B",
+        "text": "Marc"
+      },
+      {
+        "id": "C",
+        "text": "Mezcal"
+      },
+      {
+        "id": "D",
+        "text": "Pulque。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：龍舌蘭、tequila、grappa"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "墨西哥政府規定，只有在 Jalisco 州的 Tequila 鎮所產的 Tequila 才允許冠以 Tequila 之名，其他龍舌蘭所製成的蒸餾酒則稱為 Grappa Marc Mezcal Pulque。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 17
+  }
+}

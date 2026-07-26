@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q086-1f343c4845",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 86 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24562",
+    "paperTitle": "二、複選題（全對才給分 15%）",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 86,
+    "questionType": "multiple-choice",
+    "prompt": "有關 Long Island Iced Tea 的敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "屬於軟性飲料"
+      },
+      {
+        "id": "B",
+        "text": "帶有紅茶的色澤，是 1980 年代風行於全球的雞尾酒"
+      },
+      {
+        "id": "C",
+        "text": "成分中含有可樂"
+      },
+      {
+        "id": "D",
+        "text": "是一杯很順口但是酒性濃烈的雞尾酒"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關 Long Island Iced Tea 的敘述何者正確？ 屬於軟性飲料 帶有紅茶的色澤，是 1980 年代風行於全球的雞尾酒 成分中含有可樂 是一杯很順口但是酒性濃烈的雞尾酒 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1265
+  }
+}

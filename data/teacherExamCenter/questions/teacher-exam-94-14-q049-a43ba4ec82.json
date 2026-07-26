@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q049-a43ba4ec82",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 49 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-11100",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "下列哪些人員，不屬於餐飲部門之組織編制？甲、Waiter 乙、Bell Boy 丙、Concierge 丁、Steward 戊、Maitred’ hotel",
+    "options": [
+      {
+        "id": "A",
+        "text": "丙丁"
+      },
+      {
+        "id": "B",
+        "text": "乙丙"
+      },
+      {
+        "id": "C",
+        "text": "甲戊"
+      },
+      {
+        "id": "D",
+        "text": "乙丁。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、waiter、maitre、steward"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪些人員，不屬於餐飲部門之組織編制？甲、Waiter 乙、Bell Boy 丙、Concierge 丁、Steward 戊、Maitred’ hotel 丙丁 乙丙 甲戊 乙丁。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2141
+  }
+}

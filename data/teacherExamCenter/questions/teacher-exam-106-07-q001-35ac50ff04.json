@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q001-35ac50ff04",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 1 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-14286",
+    "paperTitle": "一、單選題（85%）",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "在座車禮儀，若下圖是由司機駕車（非主人駕車），請問賓客搭乘座車時，座位尊至卑順序為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "CABD"
+      },
+      {
+        "id": "B",
+        "text": "ABCD"
+      },
+      {
+        "id": "C",
+        "text": "CBAD"
+      },
+      {
+        "id": "D",
+        "text": "ACBD"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "在座車禮儀，若下圖是由司機駕車（非主人駕車），請問賓客搭乘座車時，座位尊至卑順序為何？ CABD ABCD CBAD ACBD 其他：待人工審核 待人工審核",
+    "sequence": 1180
+  }
+}

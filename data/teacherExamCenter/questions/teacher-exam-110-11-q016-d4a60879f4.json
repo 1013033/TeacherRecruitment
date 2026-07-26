@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q016-d4a60879f4",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 16 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-2332",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "許多餐廳透過網路邀請顧客在網路上留言，用消費時的好評價來換取價錢折扣或贈送餐點，請問這是餐飲業的哪一項銷售特性？",
+    "options": [
+      {
+        "id": "A",
+        "text": "易變性"
+      },
+      {
+        "id": "B",
+        "text": "同時性"
+      },
+      {
+        "id": "C",
+        "text": "異質性"
+      },
+      {
+        "id": "D",
+        "text": "受時間限制性。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "許多餐廳透過網路邀請顧客在網路上留言，用消費時的好評價來換取價錢折扣或贈送餐點，請問這是餐飲業的哪一項銷售特性？ 易變性 同時性 異質性 受時間限制性。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1656
+  }
+}

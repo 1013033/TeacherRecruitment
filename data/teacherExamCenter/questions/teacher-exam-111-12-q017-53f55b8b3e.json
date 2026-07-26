@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q017-53f55b8b3e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 17 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-20284",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "一般在飯店的大廳，會設置桌椅，並供應各式酒品或飲料，有時還會有人在現場演奏音樂，這個地方英文稱為",
+    "options": [
+      {
+        "id": "A",
+        "text": "mini bar"
+      },
+      {
+        "id": "B",
+        "text": "night club"
+      },
+      {
+        "id": "C",
+        "text": "sky lounge"
+      },
+      {
+        "id": "D",
+        "text": "lobby bar"
+      },
+      {
+        "id": "E",
+        "text": "music bar"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一般在飯店的大廳，會設置桌椅，並供應各式酒品或飲料，有時還會有人在現場演奏音樂，這個地方英文稱為 mini bar night club sky lounge lobby bar music bar 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1812
+  }
+}

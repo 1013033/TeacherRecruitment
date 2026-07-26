@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q014-8392b736e9",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 14 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-10446",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "中餐廚房組織相當繁複，下列何項敘述正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "爐灶師傅是中廚房烹調時的靈魂人物，又稱墩子"
+      },
+      {
+        "id": "B",
+        "text": "點心師傅須具備中式麵食、點心的製備能力，又稱料清"
+      },
+      {
+        "id": "C",
+        "text": "燒臘師傳能運用廚房設備製備燒烤食物，只在粵菜館有設其職責"
+      },
+      {
+        "id": "D",
+        "text": "蒸籠師傅主要蒸煮菜餚、煮高湯為主，又稱候。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、高湯、煮、烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中餐廚房組織相當繁複，下列何項敘述正確？ 爐灶師傅是中廚房烹調時的靈魂人物，又稱墩子 點心師傅須具備中式麵食、點心的製備能力，又稱料清 燒臘師傳能運用廚房設備製備燒烤食物，只在粵菜館有設其職責 蒸籠師傅主要蒸煮菜餚、煮高湯為主，又稱候。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 80
+  }
+}

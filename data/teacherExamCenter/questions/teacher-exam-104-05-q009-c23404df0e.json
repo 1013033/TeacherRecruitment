@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q009-c23404df0e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 9 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-23740",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "有關西餐餐桌餐具的提供和擺設，下列何者為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "供應「帶殼田螺」給顧客時，應將「田螺夾」置於口布的右方"
+      },
+      {
+        "id": "B",
+        "text": "供應「牛粒葡萄柚」給顧客時，應另附果渣盤"
+      },
+      {
+        "id": "C",
+        "text": "供應「生蠔」給顧客時，應將「蠔叉」僅於口布的左方（原題字面）"
+      },
+      {
+        "id": "D",
+        "text": "供應「帶殼龍蝦」給顧客時，應另附置洗手盅。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關西餐餐桌餐具的提供和擺設，下列何者為正確？ 供應「帶殼田螺」給顧客時，應將「田螺夾」置於口布的右方 供應「牛粒葡萄柚」給顧客時，應另附果渣盤 供應「生蠔」給顧客時，應將「蠔叉」僅於口布的左方（原題字面） 供應「帶殼龍蝦」給顧客時，應另附置洗手盅。 其他：待人工審核 待人工審核",
+    "sequence": 781
+  }
+}

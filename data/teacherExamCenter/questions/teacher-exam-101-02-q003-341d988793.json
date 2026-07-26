@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q003-341d988793",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 3 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-11654",
+    "paperTitle": "一、選擇題，共10題，每題2分，共20分",
+    "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "清末時期淡水開港通商，製茶產業興起，茶園最初位在哪一帶？",
+    "options": [
+      {
+        "id": "A",
+        "text": "鹿谷、廬山"
+      },
+      {
+        "id": "B",
+        "text": "深坑、坪林"
+      },
+      {
+        "id": "C",
+        "text": "石門、彰化"
+      },
+      {
+        "id": "D",
+        "text": "玉山、阿里山。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "清末時期淡水開港通商，製茶產業興起，茶園最初位在哪一帶？ 鹿谷、廬山 深坑、坪林 石門、彰化 玉山、阿里山。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 280
+  }
+}

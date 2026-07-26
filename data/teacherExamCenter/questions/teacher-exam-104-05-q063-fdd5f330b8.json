@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q063-fdd5f330b8",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 63 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-12155",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 63,
+    "questionType": "single-choice",
+    "prompt": "下列何者是「不發酵茶」的正確製程？",
+    "options": [
+      {
+        "id": "A",
+        "text": "茶菁→日光萎凋→室內萎凋及攪拌炒菁→揉捻→乾燥→精製"
+      },
+      {
+        "id": "B",
+        "text": "茶菁→殺菁→揉捻→乾燥→精製"
+      },
+      {
+        "id": "C",
+        "text": "茶菁→殺菁→揉捻→渥堆→熟茶"
+      },
+      {
+        "id": "D",
+        "text": "茶菁→日光萎凋→室內萎凋及攪拌炒菁→揉捻→初乾→團揉→再乾。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者是「不發酵茶」的正確製程？ 茶菁→日光萎凋→室內萎凋及攪拌炒菁→揉捻→乾燥→精製 茶菁→殺菁→揉捻→乾燥→精製 茶菁→殺菁→揉捻→渥堆→熟茶 茶菁→日光萎凋→室內萎凋及攪拌炒菁→揉捻→初乾→團揉→再乾。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 668
+  }
+}

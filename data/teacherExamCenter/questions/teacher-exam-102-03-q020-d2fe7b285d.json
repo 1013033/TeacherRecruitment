@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q020-d2fe7b285d",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 20 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-8670",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "旅館的計費方式 M.A.P 指的是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "僅有房租不含餐"
+      },
+      {
+        "id": "B",
+        "text": "房租加上三餐"
+      },
+      {
+        "id": "C",
+        "text": "房租加上美式早餐"
+      },
+      {
+        "id": "D",
+        "text": "房租加上早晚餐。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館的計費方式 M.A.P 指的是： 僅有房租不含餐 房租加上三餐 房租加上美式早餐 房租加上早晚餐。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 456
+  }
+}

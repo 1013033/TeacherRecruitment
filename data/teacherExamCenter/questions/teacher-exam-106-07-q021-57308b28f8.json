@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q021-57308b28f8",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 21 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-17385",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "資源回收中，塑膠材質回收標誌敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "回收標誌已三個順時針箭頭組成，編號 1-7 代表不同種類材料，數字愈高表示愈安全。"
+      },
+      {
+        "id": "B",
+        "text": "PP 袋膜類耐熱溫度 100-140 度，常用於製作塑膠餐盤、免洗餐具。"
+      },
+      {
+        "id": "C",
+        "text": "市面上一般見到的塑膠袋是以 PVC 袋膜類製成。"
+      },
+      {
+        "id": "D",
+        "text": "PS 袋膜類常使用於製作美耐皿、化妝品罐子。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "資源回收中，塑膠材質回收標誌敘述何者正確？ 回收標誌已三個順時針箭頭組成，編號 1-7 代表不同種類材料，數字愈高表示愈安全。 PP 袋膜類耐熱溫度 100-140 度，常用於製作塑膠餐盤、免洗餐具。 市面上一般見到的塑膠袋是以 PVC 袋膜類製成。 PS 袋膜類常使用於製作美耐皿、化妝品罐子。 其他：待人工審核 待人工審核",
+    "sequence": 1200
+  }
+}

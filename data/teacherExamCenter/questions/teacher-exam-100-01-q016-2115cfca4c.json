@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q016-2115cfca4c",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 16 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5935",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種雞尾酒的調製方法不是使用「Layer」來調製？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pousse Café"
+      },
+      {
+        "id": "B",
+        "text": "B52 Bomber"
+      },
+      {
+        "id": "C",
+        "text": "Kir Royal"
+      },
+      {
+        "id": "D",
+        "text": "Rainbow。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、b52"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種雞尾酒的調製方法不是使用「Layer」來調製？ Pousse Café B52 Bomber Kir Royal Rainbow。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 41
+  }
+}

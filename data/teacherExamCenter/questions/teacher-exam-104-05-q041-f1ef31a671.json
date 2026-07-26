@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q041-f1ef31a671",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 41 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-9713",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "中式餐廳內場人員工作職掌，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "制定菜單研發新食譜 - executive chef"
+      },
+      {
+        "id": "B",
+        "text": "負責製備蔬菜類、冷菜類 - garde manger"
+      },
+      {
+        "id": "C",
+        "text": "負責烘焙產品、甜點製作 - rotisseur"
+      },
+      {
+        "id": "D",
+        "text": "魚、海鮮烹調工作 - poissonier。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "中式餐廳內場人員工作職掌，下列何者錯誤？ 制定菜單研發新食譜 - executive chef 負責製備蔬菜類、冷菜類 - garde manger 負責烘焙產品、甜點製作 - rotisseur 魚、海鮮烹調工作 - poissonier。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 646
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q020-1301ddd130",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 20 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-25134",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "有關客房之清潔後續作業的進行，下列哪一選項的順序正確？ (1) 清潔器具歸位 (2) 補充工作車備品及布巾 (3) 歸還樓層鑰匙 (4) 填寫工作記錄本",
+    "options": [
+      {
+        "id": "A",
+        "text": "(1)(2)(3)(4)"
+      },
+      {
+        "id": "B",
+        "text": "(1)(3)(2)(4)"
+      },
+      {
+        "id": "C",
+        "text": "(1)(2)(4)(3)"
+      },
+      {
+        "id": "D",
+        "text": "(2)(1)(4)(3)。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關客房之清潔後續作業的進行，下列哪一選項的順序正確？ (1) 清潔器具歸位 (2) 補充工作車備品及布巾 (3) 歸還樓層鑰匙 (4) 填寫工作記錄本 (1)(2)(3)(4) (1)(3)(2)(4) (1)(2)(4)(3) (2)(1)(4)(3)。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 792
+  }
+}

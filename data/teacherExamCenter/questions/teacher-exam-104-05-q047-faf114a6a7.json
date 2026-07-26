@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q047-faf114a6a7",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 47 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-27620",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是伏特加著名品牌？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Smirnoff"
+      },
+      {
+        "id": "B",
+        "text": "Havana Club"
+      },
+      {
+        "id": "C",
+        "text": "Stolichnaya"
+      },
+      {
+        "id": "D",
+        "text": "Zubrowka."
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：伏特加"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是伏特加著名品牌？ Smirnoff Havana Club Stolichnaya Zubrowka. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 819
+  }
+}

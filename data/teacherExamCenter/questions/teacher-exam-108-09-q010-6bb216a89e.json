@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q010-6bb216a89e",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 10 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-5600",
+    "paperTitle": "二、選擇題(每題1分,共40分)",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "紅粉佳人(Pink Lady),其主要基酒是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "琴酒(Gin)"
+      },
+      {
+        "id": "B",
+        "text": "蘭姆酒(Rum)"
+      },
+      {
+        "id": "C",
+        "text": "伏特加酒(Vodka)"
+      },
+      {
+        "id": "D",
+        "text": "白蘭地酒(Brandy)。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白蘭地、伏特加、蘭姆、brandy、vodka"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "紅粉佳人(Pink Lady),其主要基酒是： 琴酒(Gin) 蘭姆酒(Rum) 伏特加酒(Vodka) 白蘭地酒(Brandy)。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1439
+  }
+}

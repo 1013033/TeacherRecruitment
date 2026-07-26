@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q020-a8126b760a",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 20 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-2769",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "有關臺灣國家公園之敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "我國國家公園主管機關為交通部營建署"
+      },
+      {
+        "id": "B",
+        "text": "墾丁國家公園為第一個創立的國家公園，主要特色為自然濕地生態及古道遺跡"
+      },
+      {
+        "id": "C",
+        "text": "至今共有10個國家公園"
+      },
+      {
+        "id": "D",
+        "text": "創立先後順序：玉山國家公園 > 雪霸國家公園 > 東沙環礁國家公園。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關臺灣國家公園之敘述，何者正確？ 我國國家公園主管機關為交通部營建署 墾丁國家公園為第一個創立的國家公園，主要特色為自然濕地生態及古道遺跡 至今共有10個國家公園 創立先後順序：玉山國家公園 > 雪霸國家公園 > 東沙環礁國家公園。 其他：待人工審核 待人工審核",
+    "sequence": 1660
+  }
+}

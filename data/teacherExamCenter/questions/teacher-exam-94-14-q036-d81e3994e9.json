@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q036-d81e3994e9",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 36 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-6905",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "旅館商品的特性，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綜合性"
+      },
+      {
+        "id": "B",
+        "text": "資本與勞力密集"
+      },
+      {
+        "id": "C",
+        "text": "產品可儲存性"
+      },
+      {
+        "id": "D",
+        "text": "服務性"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "旅館商品的特性，下列何者有誤？ 綜合性 資本與勞力密集 產品可儲存性 服務性 其他：待人工審核 待人工審核",
+    "sequence": 2086
+  }
+}

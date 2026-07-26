@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q036-1c5203e6a8",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 36 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8046",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列關於啤酒的敘述,何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "主要由麥芽、啤酒花(Hops)、酵母、蔗糖和水所釀造而成"
+      },
+      {
+        "id": "B",
+        "text": "酵母可分為上層發酵酵母與下層發酵酵母"
+      },
+      {
+        "id": "C",
+        "text": "顏色是由麥芽的焦化而來,焦化愈重,顏色就愈深,甜度也就愈低"
+      },
+      {
+        "id": "D",
+        "text": "啤酒花含有苦味與芳香,碰到空氣會慢慢變苦。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列關於啤酒的敘述,何者有誤？ 主要由麥芽、啤酒花(Hops)、酵母、蔗糖和水所釀造而成 酵母可分為上層發酵酵母與下層發酵酵母 顏色是由麥芽的焦化而來,焦化愈重,顏色就愈深,甜度也就愈低 啤酒花含有苦味與芳香,碰到空氣會慢慢變苦。 其他：待人工審核 待人工審核",
+    "sequence": 1465
+  }
+}

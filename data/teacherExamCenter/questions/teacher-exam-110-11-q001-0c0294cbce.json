@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q001-0c0294cbce",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 1 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-192",
+    "paperTitle": "一、單選題（每題1分，共30分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "有關新台灣飲食期的敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "民國75年麥當勞來台設立第一家分店，強調QSCV（品質、標準化、整潔、價值）"
+      },
+      {
+        "id": "B",
+        "text": "民國73年由香港引進香雞城速食連鎖餐廳"
+      },
+      {
+        "id": "C",
+        "text": "民國87年全家星巴克是由美國Starbucks Coffee International公司與台灣全家超商合資成立"
+      },
+      {
+        "id": "D",
+        "text": "民國90年「大苑子」飲料店，起源於彰化員林，不僅是茶飲專家，更是新鮮水果的專門家。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關新台灣飲食期的敘述，下列何者正確？ 民國75年麥當勞來台設立第一家分店，強調QSCV（品質、標準化、整潔、價值） 民國73年由香港引進香雞城速食連鎖餐廳 民國87年全家星巴克是由美國Starbucks Coffee International公司與台灣全家超商合資成立 民國90年「大苑子」飲料店，起源於彰化員林，不僅是茶飲專家，更是新鮮水果的專門家。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1641
+  }
+}

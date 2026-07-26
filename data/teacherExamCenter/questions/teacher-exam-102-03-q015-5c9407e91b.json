@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q015-5c9407e91b",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 15 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-8203",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "調酒時首先加入的材料為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "基酒"
+      },
+      {
+        "id": "B",
+        "text": "香甜酒"
+      },
+      {
+        "id": "C",
+        "text": "蛋"
+      },
+      {
+        "id": "D",
+        "text": "果汁。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "調酒時首先加入的材料為： 基酒 香甜酒 蛋 果汁。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 451
+  }
+}

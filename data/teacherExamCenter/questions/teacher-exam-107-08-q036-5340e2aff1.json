@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q036-5340e2aff1",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 36 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-5922",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 36,
+    "questionType": "multiple-choice",
+    "prompt": "連鎖餐廳具有許多優點，請問下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "員工訓練可統一，有助於提高服務水準"
+      },
+      {
+        "id": "B",
+        "text": "各連鎖分公司具備有獨立管理權（委託及特許加盟）"
+      },
+      {
+        "id": "C",
+        "text": "集中採購，食材成本不一定較低廉"
+      },
+      {
+        "id": "D",
+        "text": "行銷費用可多店分擔，有助於複製分店，並享有規模經濟效益。"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "連鎖餐廳具有許多優點，請問下列敘述何者正確？ 員工訓練可統一，有助於提高服務水準 各連鎖分公司具備有獨立管理權（委託及特許加盟） 集中採購，食材成本不一定較低廉 行銷費用可多店分擔，有助於複製分店，並享有規模經濟效益。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1347
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q002-c5fb869ae8",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 2 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-370",
+    "paperTitle": "一、單選題（每題1分，共30分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "小華至香港旅遊，購票後取得的電子機票其部份內容如下： ```text WETR 2 ELECTRONIC TICKET RECORD INV: TKT:2171740868888 NAME: CHANG/YU CUST: NAME REF: FOP: CHECK CPN PNR:DDDCOH ISSUED: 12 JUNO7 PCC: A2U8 IATA: 34301234 A/L FLT CLS DATE 1 TG 631 Q14JUN 2 TG OPEN Q BRDOFF TOUR ID: TPE7S131 TIME ST F/B TPEHKG 0830 OK QLRT1HH HKGTPE QLRT1HH VLD ON TG ONLY/NONRTE/NEXT HIGHER RBD PENALTY APPLY STAT EXCH EXCH FARE TOTA TWD15773 TAX 300TW TAX 511HK TAX 860YQ ΤΡΕ ΤΟ HKG237.32TG TPE Q4.22 237.32NUC478.86END ROE32.938 FI RST LEG NOT GOOD FOR TRVL IN 01JUL-31JUL/24DEC-31DEC/CNY VAL IDITY 0-3MNONPARTIAL RFND TOTAL TWD17444 ``` 依據電子機票內容說明，下列資訊何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "航空兵險費用860元"
+      },
+      {
+        "id": "B",
+        "text": "回程機位尚未購買"
+      },
+      {
+        "id": "C",
+        "text": "此次搭乘的航空為國泰航空"
+      },
+      {
+        "id": "D",
+        "text": "LSF = TWD 7,817。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票、旅遊、iata、ticket"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小華至香港旅遊，購票後取得的電子機票其部份內容如下： ```text WETR 2 ELECTRONIC TICKET RECORD INV: TKT:2171740868888 NAME: CHANG/YU CUST: NAME REF: FOP: CHECK CPN PNR:DDDCOH ISSUED: 12 JUNO7 PCC: A2U8 IATA: 34301234 A/L FLT CLS DATE 1 TG 631 Q14JUN 2 TG OPEN Q BRDOFF TOUR ID: TPE7S131 TIME ST F/B TPEHKG 0830 OK QLRT1HH HKGTPE QLRT1HH VLD ON TG ONLY/NONRTE/NEXT HIGHER RBD PENALTY APPLY STAT EXCH EXCH FARE TOTA TWD15773 TAX 300TW TAX 511HK TAX 860YQ ΤΡΕ ΤΟ HKG237.32TG TPE Q4.22 237.32NUC478.86END ROE32.938 FI RST LEG NOT GOOD FOR TRVL IN 01JUL-31JUL/24DEC-31DEC/CNY VAL IDITY 0-3MNONPARTIAL RFND TOTAL TWD17444 ``` 依據電子機票內容說明，下列資訊何者正確？ 航空兵險費用860元 回程機位尚未購買 此次搭乘的航空為國泰航空 LSF = TWD 7,817。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1313
+  }
+}

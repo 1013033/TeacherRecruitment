@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q005-a66f4101ce",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 5 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-1218",
+    "paperTitle": "未標示試卷",
+    "schoolName": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列敘述何者正確？ 甲、NOT VALID BEFORE代表機票標註日期之後使用無效。 乙、中華民國出境機場服務稅每人每次500元，隨機票徵收。 丙、班機號碼中，往東、往北飛的班機號碼為雙數。 丁、GV團體票又稱計畫旅行票，後接數字代表為運費的折扣，例如GV25。 戊、ID為航空公司給予同仁使用的優惠機票，後接數字為運費的折扣，如ID90。",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙、丙、戊"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁、戊"
+      },
+      {
+        "id": "C",
+        "text": "甲、丙"
+      },
+      {
+        "id": "D",
+        "text": "甲、丙、丁。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票、機場"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列敘述何者正確？ 甲、NOT VALID BEFORE代表機票標註日期之後使用無效。 乙、中華民國出境機場服務稅每人每次500元，隨機票徵收。 丙、班機號碼中，往東、往北飛的班機號碼為雙數。 丁、GV團體票又稱計畫旅行票，後接數字代表為運費的折扣，例如GV25。 戊、ID為航空公司給予同仁使用的優惠機票，後接數字為運費的折扣，如ID90。 乙、丙、戊 甲、丁、戊 甲、丙 甲、丙、丁。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 973
+  }
+}

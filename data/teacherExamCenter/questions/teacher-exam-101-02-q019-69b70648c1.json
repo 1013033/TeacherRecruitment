@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q019-69b70648c1",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 19 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-15188",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "餐具殘留物質檢查中，使用「碘」通常是檢測哪一種殘留？",
+    "options": [
+      {
+        "id": "A",
+        "text": "澱粉質"
+      },
+      {
+        "id": "B",
+        "text": "油脂"
+      },
+      {
+        "id": "C",
+        "text": "蛋白質"
+      },
+      {
+        "id": "D",
+        "text": "灰塵。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "餐具殘留物質檢查中，使用「碘」通常是檢測哪一種殘留？ 澱粉質 油脂 蛋白質 灰塵。 其他：待人工審核 待人工審核",
+    "sequence": 318
+  }
+}

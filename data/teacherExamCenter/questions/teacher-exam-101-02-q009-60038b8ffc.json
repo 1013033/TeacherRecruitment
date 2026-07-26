@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q009-60038b8ffc",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 9 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-12271",
+    "paperTitle": "一、選擇題，共10題，每題2分，共20分",
+    "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "在西式套餐中有 cold appetizer、soup、hot appetizer、sherbet、main course、cheese、dessert and coffee，撤除麵包盤的最佳時機為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "hot appetizer 後 sherbet 前"
+      },
+      {
+        "id": "B",
+        "text": "sherbet 後 main course 前"
+      },
+      {
+        "id": "C",
+        "text": "main course 後 cheese 前"
+      },
+      {
+        "id": "D",
+        "text": "cheese 後 dessert 前。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在西式套餐中有 cold appetizer、soup、hot appetizer、sherbet、main course、cheese、dessert and coffee，撤除麵包盤的最佳時機為何？ hot appetizer 後 sherbet 前 sherbet 後 main course 前 main course 後 cheese 前 cheese 後 dessert 前。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 286
+  }
+}

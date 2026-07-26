@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q038-d79d1ffe42",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 38 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-8500",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "下列關於「民宿管理辦法」法源依據與發布年份，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "發展觀光條例、民國 90 年"
+      },
+      {
+        "id": "B",
+        "text": "農業發展條例、民國 90 年"
+      },
+      {
+        "id": "C",
+        "text": "觀光旅館業管理規則、民國 92 年"
+      },
+      {
+        "id": "D",
+        "text": "觀光遊樂業管理規則、民國 89 年。"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、旅館業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列關於「民宿管理辦法」法源依據與發布年份，何者正確？ 發展觀光條例、民國 90 年 農業發展條例、民國 90 年 觀光旅館業管理規則、民國 92 年 觀光遊樂業管理規則、民國 89 年。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 63
+  }
+}

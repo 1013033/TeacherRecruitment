@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q012-b88efaf7e5",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 12 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-2536",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 112 學年度公立高級中等學校教師甄選",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "茶為風靡全球之飲品，下列有關茶的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "泡茶的三要素為：茶葉的品質、泡茶的水溫、沖泡的時間"
+      },
+      {
+        "id": "B",
+        "text": "鐵觀音是以茶樹品種命名，主要產於臺北市文山區木柵和新北市石門茶區"
+      },
+      {
+        "id": "C",
+        "text": "半發酵茶的製作過程為採茶 → 萎凋 → 發酵 → 殺菁 → 揉捻 → 乾燥"
+      },
+      {
+        "id": "D",
+        "text": "臺茶12號又稱金萱或27仔，適合製作包種茶及烏龍茶。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "茶為風靡全球之飲品，下列有關茶的敘述，下列何者錯誤？ 泡茶的三要素為：茶葉的品質、泡茶的水溫、沖泡的時間 鐵觀音是以茶樹品種命名，主要產於臺北市文山區木柵和新北市石門茶區 半發酵茶的製作過程為採茶 → 萎凋 → 發酵 → 殺菁 → 揉捻 → 乾燥 臺茶12號又稱金萱或27仔，適合製作包種茶及烏龍茶。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1914
+  }
+}

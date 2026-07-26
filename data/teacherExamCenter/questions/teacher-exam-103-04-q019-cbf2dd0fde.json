@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q019-cbf2dd0fde",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 19 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-2490",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於「Food Miles」（食物里程），下列何者敘述不正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "指食物由原產地送到消費者手上所需運輸的距離"
+      },
+      {
+        "id": "B",
+        "text": "應選擇里程愈短的食物，愈合乎環保概念"
+      },
+      {
+        "id": "C",
+        "text": "隱含環保概念，是食品採購時須重視的原則"
+      },
+      {
+        "id": "D",
+        "text": "可保證所購買食物的品質"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於「Food Miles」（食物里程），下列何者敘述不正確？ 指食物由原產地送到消費者手上所需運輸的距離 應選擇里程愈短的食物，愈合乎環保概念 隱含環保概念，是食品採購時須重視的原則 可保證所購買食物的品質 其他：待人工審核 待人工審核",
+    "sequence": 521
+  }
+}

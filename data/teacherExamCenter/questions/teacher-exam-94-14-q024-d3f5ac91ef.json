@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q024-d3f5ac91ef",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 24 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-2333",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "市售酵母菌有三種：新鮮酵母、乾酵母、快發酵母三者，相對使用比例為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "3：2：1"
+      },
+      {
+        "id": "B",
+        "text": "3：1：2"
+      },
+      {
+        "id": "C",
+        "text": "1：2：3"
+      },
+      {
+        "id": "D",
+        "text": "2：3：1。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "市售酵母菌有三種：新鮮酵母、乾酵母、快發酵母三者，相對使用比例為： 3：2：1 3：1：2 1：2：3 2：3：1。 其他：待人工審核 待人工審核",
+    "sequence": 2025
+  }
+}

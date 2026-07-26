@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q002-8b069c4298",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 2 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-3870",
+    "paperTitle": "一、單選題（共20題，每題2分）",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "依不同的茶葉適合不同的水溫沖煮，下列何者在沖泡時水溫宜最低？",
+    "options": [
+      {
+        "id": "A",
+        "text": "凍頂烏龍茶"
+      },
+      {
+        "id": "B",
+        "text": "高山茶"
+      },
+      {
+        "id": "C",
+        "text": "白毫烏龍"
+      },
+      {
+        "id": "D",
+        "text": "鐵觀音"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依不同的茶葉適合不同的水溫沖煮，下列何者在沖泡時水溫宜最低？ 凍頂烏龍茶 高山茶 白毫烏龍 鐵觀音 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1544
+  }
+}

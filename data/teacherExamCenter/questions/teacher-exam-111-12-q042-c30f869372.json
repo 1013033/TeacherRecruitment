@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q042-c30f869372",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 42 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-30697",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "Which of the following are elements of management in a restaurant ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Planning, organizing, communicating, decision making, motivation, and control"
+      },
+      {
+        "id": "B",
+        "text": "Planning, dictating, communicating, selling, marketing and bossing the staff"
+      },
+      {
+        "id": "C",
+        "text": "Scheduling, planning, helping with guests, cashing out wait staff, and making the guest happy"
+      },
+      {
+        "id": "D",
+        "text": "Scheduling, communicating, decision-making, marketing, and cost control."
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：restaurant、guest"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which of the following are elements of management in a restaurant ? Planning, organizing, communicating, decision making, motivation, and control Planning, dictating, communicating, selling, marketing and bossing the staff Scheduling, planning, helping with guests, cashing out wait staff, and making the guest happy Scheduling, communicating, decision-making, marketing, and cost control. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1888
+  }
+}

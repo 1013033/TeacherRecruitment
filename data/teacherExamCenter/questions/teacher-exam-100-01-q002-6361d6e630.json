@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q002-6361d6e630",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 2 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-756",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "以下有關「Beaujolais Nouveau」之敘述，何者為正確？甲、採用佳美（Gamay）葡萄釀造。乙、每年上市日期為十一月第二個星期四。丙、須趁新鮮飲用完畢的酒。丁、採用二氧化碳浸泡法（Carbonic Maceration）發酵，故單寧萃取量較低。",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "甲乙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲丙。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：beaujolais"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下有關「Beaujolais Nouveau」之敘述，何者為正確？甲、採用佳美（Gamay）葡萄釀造。乙、每年上市日期為十一月第二個星期四。丙、須趁新鮮飲用完畢的酒。丁、採用二氧化碳浸泡法（Carbonic Maceration）發酵，故單寧萃取量較低。 甲乙丙 甲乙丁 甲丙丁 甲丙。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2
+  }
+}

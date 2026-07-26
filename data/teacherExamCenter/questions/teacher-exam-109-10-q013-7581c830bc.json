@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q013-7581c830bc",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 13 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-12407",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "Aloft Hotel 昨天有團體住房100間，每間房價140元美金；精緻套房住房20間，每間200元美金；高級雙人房住房200間，每間150元美金。請問該飯店昨天的平均房價是多少元美金？",
+    "options": [
+      {
+        "id": "A",
+        "text": "163.3元"
+      },
+      {
+        "id": "B",
+        "text": "155.5元"
+      },
+      {
+        "id": "C",
+        "text": "150.0元"
+      },
+      {
+        "id": "D",
+        "text": "135.3元"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、套房、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Aloft Hotel 昨天有團體住房100間，每間房價140元美金；精緻套房住房20間，每間200元美金；高級雙人房住房200間，每間150元美金。請問該飯店昨天的平均房價是多少元美金？ 163.3元 155.5元 150.0元 135.3元 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1615
+  }
+}

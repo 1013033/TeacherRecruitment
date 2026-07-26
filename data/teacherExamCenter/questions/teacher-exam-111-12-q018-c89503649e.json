@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q018-c89503649e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 18 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-20432",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "觀光包含部分的旅行，但並非所有的旅行都涵蓋在觀光範疇內，下列哪些旅行不屬於觀光？",
+    "options": [
+      {
+        "id": "A",
+        "text": "以下皆不是（通勤、移民、短期打工皆非觀光）"
+      },
+      {
+        "id": "B",
+        "text": "通勤"
+      },
+      {
+        "id": "C",
+        "text": "移民"
+      },
+      {
+        "id": "D",
+        "text": "短期打工"
+      },
+      {
+        "id": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "觀光包含部分的旅行，但並非所有的旅行都涵蓋在觀光範疇內，下列哪些旅行不屬於觀光？ 以下皆不是（通勤、移民、短期打工皆非觀光） 通勤 移民 短期打工 以上皆是 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 1813
+  }
+}

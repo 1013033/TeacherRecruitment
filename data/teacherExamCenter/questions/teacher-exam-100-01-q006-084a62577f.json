@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q006-084a62577f",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 6 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-4949",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "旅行業團體作業流程中，負責簽訂旅遊契約、舉辦說明會，是屬於哪一個作業流程？",
+    "options": [
+      {
+        "id": "A",
+        "text": "參團作業"
+      },
+      {
+        "id": "B",
+        "text": "團控作業"
+      },
+      {
+        "id": "C",
+        "text": "出團作業"
+      },
+      {
+        "id": "D",
+        "text": "結團作業。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行業團體作業流程中，負責簽訂旅遊契約、舉辦說明會，是屬於哪一個作業流程？ 參團作業 團控作業 出團作業 結團作業。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 31
+  }
+}

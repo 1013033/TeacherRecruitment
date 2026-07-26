@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q020-8a0fd16890",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 20 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-2607",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "關於航空運輸專業術語的簡寫代表意思，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "ICAO 國際航空協會"
+      },
+      {
+        "id": "B",
+        "text": "SOTO 由出發地以外國家開票及付款"
+      },
+      {
+        "id": "C",
+        "text": "FFP 是經常搭機旅客酬賓計畫"
+      },
+      {
+        "id": "D",
+        "text": "BSP 是銀行清帳計畫。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於航空運輸專業術語的簡寫代表意思，下列何者正確？ ICAO 國際航空協會 SOTO 由出發地以外國家開票及付款 FFP 是經常搭機旅客酬賓計畫 BSP 是銀行清帳計畫。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1534
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q007-24c22916f4",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 7 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-22098",
+    "paperTitle": "一、選擇題 10%",
+    "schoolName": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "節瓜是一種歐洲常見食材，其原文應該是",
+    "options": [
+      {
+        "id": "A",
+        "text": "Radicchio"
+      },
+      {
+        "id": "B",
+        "text": "Zucchini"
+      },
+      {
+        "id": "C",
+        "text": "Asparagus"
+      },
+      {
+        "id": "D",
+        "text": "Frisee."
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "節瓜是一種歐洲常見食材，其原文應該是 Radicchio Zucchini Asparagus Frisee. 其他：待人工審核 待人工審核",
+    "sequence": 766
+  }
+}

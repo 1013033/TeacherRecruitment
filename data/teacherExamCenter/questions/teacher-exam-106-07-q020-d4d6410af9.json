@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q020-d4d6410af9",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 20 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-17205",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "餐具清洗後殘留物質試驗方式，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "碘液滴在餐具上，出現藍紫色表示有澱粉殘留。"
+      },
+      {
+        "id": "B",
+        "text": "使用 Ninhydrin 滴於餐具上，試液呈現紫色表示有 ABS 殘留物。"
+      },
+      {
+        "id": "C",
+        "text": "Sudan IV 試液滴於餐具表面，出現紅色痕跡，表示有油脂殘留物。"
+      },
+      {
+        "id": "D",
+        "text": "B.T.P. 是測試大腸桿菌殘留物，出現紅色斑點表示有此殘留物質於餐具。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "餐具清洗後殘留物質試驗方式，下列敘述何者錯誤？ 碘液滴在餐具上，出現藍紫色表示有澱粉殘留。 使用 Ninhydrin 滴於餐具上，試液呈現紫色表示有 ABS 殘留物。 Sudan IV 試液滴於餐具表面，出現紅色痕跡，表示有油脂殘留物。 B.T.P. 是測試大腸桿菌殘留物，出現紅色斑點表示有此殘留物質於餐具。 其他：待人工審核 待人工審核",
+    "sequence": 1199
+  }
+}

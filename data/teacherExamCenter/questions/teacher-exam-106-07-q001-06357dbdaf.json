@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q001-06357dbdaf",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 1 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-29417",
+    "paperTitle": "二、複選題（共 5 題，每題 2 分，全對才給分，共 10 分）",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 1,
+    "questionType": "multiple-choice",
+    "prompt": "關於早餐菜單之種類，下列哪一種早餐菜單中會出現培根、火腿等肉類？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regular Breakfast"
+      },
+      {
+        "id": "B",
+        "text": "Swiss Breakfast"
+      },
+      {
+        "id": "C",
+        "text": "American Breakfast"
+      },
+      {
+        "id": "D",
+        "text": "Continental Breakfast。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於早餐菜單之種類，下列哪一種早餐菜單中會出現培根、火腿等肉類？ Regular Breakfast Swiss Breakfast American Breakfast Continental Breakfast。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1300
+  }
+}

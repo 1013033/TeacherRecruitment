@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q033-1931b6423e",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 33 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-3167",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "下列有關法國酒之產品，何者敘述為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "夏伯力(Chablis)是生產紅酒"
+      },
+      {
+        "id": "B",
+        "text": "薄酒萊酒是屬於波爾多區的酒"
+      },
+      {
+        "id": "C",
+        "text": "Calvados 酒的原料是蘋果"
+      },
+      {
+        "id": "D",
+        "text": "最高級的葡萄酒是 V.D.Q.S.。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒、薄酒萊、波爾多"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關法國酒之產品，何者敘述為正確？ 夏伯力(Chablis)是生產紅酒 薄酒萊酒是屬於波爾多區的酒 Calvados 酒的原料是蘋果 最高級的葡萄酒是 V.D.Q.S.。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2034
+  }
+}

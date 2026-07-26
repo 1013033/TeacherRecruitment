@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q029-17baf146bc",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 29 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-8565",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "何種旅行業辦理國內外旅遊相關業務，並得以包辦旅遊方式自行組團，安排旅客從事國內外觀光旅遊、食宿及提供相關服務？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲種"
+      },
+      {
+        "id": "B",
+        "text": "乙種"
+      },
+      {
+        "id": "C",
+        "text": "丙種"
+      },
+      {
+        "id": "D",
+        "text": "綜合。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "何種旅行業辦理國內外旅遊相關業務，並得以包辦旅遊方式自行組團，安排旅客從事國內外觀光旅遊、食宿及提供相關服務？ 甲種 乙種 丙種 綜合。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2745
+  }
+}

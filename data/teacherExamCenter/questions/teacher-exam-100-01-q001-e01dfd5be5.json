@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q001-e01dfd5be5",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 1 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-12303",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "下列何種葡萄不是釀造 Champagne 使用的種類？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chardonnay"
+      },
+      {
+        "id": "B",
+        "text": "Pinot Gris"
+      },
+      {
+        "id": "C",
+        "text": "Pinot Meunier"
+      },
+      {
+        "id": "D",
+        "text": "Pinot Noir。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：champagne、pinot、chardonnay"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何種葡萄不是釀造 Champagne 使用的種類？ Chardonnay Pinot Gris Pinot Meunier Pinot Noir。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 98
+  }
+}

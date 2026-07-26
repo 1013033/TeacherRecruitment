@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q005-1487c1c609",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 5 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-954",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "住房狀況紀錄表中的英文縮寫 $D.N.S$、$H.U$、$O.C$、$D/O$ 分別代表什麼意思？",
+    "options": [
+      {
+        "id": "A",
+        "text": "客人因故未住離去、招待房、續住清潔房、預定退房"
+      },
+      {
+        "id": "B",
+        "text": "訂房卻無故未到、公務住房、空房、已退房"
+      },
+      {
+        "id": "C",
+        "text": "客人因故未住離去、公務住房、續住清潔房、預定退房"
+      },
+      {
+        "id": "D",
+        "text": "訂房卻無故未到、招待房、空房、預定退房。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "住房狀況紀錄表中的英文縮寫 $D.N.S$、$H.U$、$O.C$、$D/O$ 分別代表什麼意思？ 客人因故未住離去、招待房、續住清潔房、預定退房 訂房卻無故未到、公務住房、空房、已退房 客人因故未住離去、公務住房、續住清潔房、預定退房 訂房卻無故未到、招待房、空房、預定退房。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 406
+  }
+}

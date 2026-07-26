@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q037-54218467f6",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 37 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8186",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "下列乳品飲料的相關敘述,何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "養樂多、益菌多屬於 Drinking Yogurt"
+      },
+      {
+        "id": "B",
+        "text": "Sterilized Milk保存期限較 Fresh Milk短"
+      },
+      {
+        "id": "C",
+        "text": "Skim Milk 乳脂肪含量小於Low Fat Milk"
+      },
+      {
+        "id": "D",
+        "text": "Whole Milk 酵母菌含量較 Fermented Milk多。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列乳品飲料的相關敘述,何者正確？ 養樂多、益菌多屬於 Drinking Yogurt Sterilized Milk保存期限較 Fresh Milk短 Skim Milk 乳脂肪含量小於Low Fat Milk Whole Milk 酵母菌含量較 Fermented Milk多。 其他：待人工審核 待人工審核",
+    "sequence": 1466
+  }
+}

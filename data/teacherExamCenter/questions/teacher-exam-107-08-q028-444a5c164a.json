@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q028-444a5c164a",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 28 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-4060",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "冠軍酒店200間客房，昨日住房及售價分別為 single NT$3200-90間、double NT$4500-50間、suite NT$7500-20間、000房3間、00OI房2間、HU房2間，昨日平均房價為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "NT$3435"
+      },
+      {
+        "id": "B",
+        "text": "NT$3400"
+      },
+      {
+        "id": "C",
+        "text": "NT$4144"
+      },
+      {
+        "id": "D",
+        "text": "NT$4034。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、suite"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "冠軍酒店200間客房，昨日住房及售價分別為 single NT$3200-90間、double NT$4500-50間、suite NT$7500-20間、000房3間、00OI房2間、HU房2間，昨日平均房價為何？ NT$3435 NT$3400 NT$4144 NT$4034。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1339
+  }
+}

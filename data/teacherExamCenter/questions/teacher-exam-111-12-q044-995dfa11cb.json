@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q044-995dfa11cb",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 44 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-24373",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 44,
+    "questionType": "multiple-choice",
+    "prompt": "有關液體容量的換算，下列哪些才是正確的敘述？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 oz = 30cc (餐旅計算常用近似值)"
+      },
+      {
+        "id": "B",
+        "text": "1 liter = 1000ml"
+      },
+      {
+        "id": "C",
+        "text": "1 jigger = 1.5 oz"
+      },
+      {
+        "id": "D",
+        "text": "1 tsp = 15 ml (1 tsp = 5 ml)"
+      },
+      {
+        "id": "E",
+        "text": "1 cl = 10ml"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：jigger"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關液體容量的換算，下列哪些才是正確的敘述？ 1 oz = 30cc (餐旅計算常用近似值) 1 liter = 1000ml 1 jigger = 1.5 oz 1 tsp = 15 ml (1 tsp = 5 ml) 1 cl = 10ml 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1839
+  }
+}

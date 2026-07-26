@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q022-8d8f8cdb40",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 22 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-20979",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "根據中華民國 109 年臺灣旅遊狀況調查報告，我國國人在國內旅遊支出以下列哪一類花費，所占的旅遊主要消費比率最少？",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐飲"
+      },
+      {
+        "id": "B",
+        "text": "購物"
+      },
+      {
+        "id": "C",
+        "text": "交通"
+      },
+      {
+        "id": "D",
+        "text": "住宿"
+      },
+      {
+        "id": "E",
+        "text": "娛樂"
+      }
+    ],
+    "answer": "E",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "根據中華民國 109 年臺灣旅遊狀況調查報告，我國國人在國內旅遊支出以下列哪一類花費，所占的旅遊主要消費比率最少？ 餐飲 購物 交通 住宿 娛樂 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1817
+  }
+}

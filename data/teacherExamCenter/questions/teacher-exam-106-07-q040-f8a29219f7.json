@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q040-f8a29219f7",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 40 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-20013",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "托盤操持方法，何者敘述錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "托盤上物品擺放應依服務順序，先上桌的餐食放置外側，服勤時不可將托盤放置餐桌上。"
+      },
+      {
+        "id": "B",
+        "text": "飲料器皿擺放時，盛裝七分滿飲料較為恰當，茶壺壺把朝右擺放，方便服勤。"
+      },
+      {
+        "id": "C",
+        "text": "長托盤適合運送較重或較大量的餐具與菜餚，以肩拖法托盤上右肩右手四指在後姆指在前。"
+      },
+      {
+        "id": "D",
+        "text": "塑膠托盤是目前餐飲界最常使用，硬度高價格便宜且易於清洗。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "托盤操持方法，何者敘述錯誤？ 托盤上物品擺放應依服務順序，先上桌的餐食放置外側，服勤時不可將托盤放置餐桌上。 飲料器皿擺放時，盛裝七分滿飲料較為恰當，茶壺壺把朝右擺放，方便服勤。 長托盤適合運送較重或較大量的餐具與菜餚，以肩拖法托盤上右肩右手四指在後姆指在前。 塑膠托盤是目前餐飲界最常使用，硬度高價格便宜且易於清洗。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1219
+  }
+}

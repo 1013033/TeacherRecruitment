@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q028-13f65c1761",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 28 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-6068",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "下列哪些人員不屬於餐飲部門之組織編制？甲、Waiter；乙、Bellboy；丙、concierge；丁、Steward",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、waiter、steward"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些人員不屬於餐飲部門之組織編制？甲、Waiter；乙、Bellboy；丙、concierge；丁、Steward 甲、丙 乙、丙 乙、丁 丙、丁。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2348
+  }
+}

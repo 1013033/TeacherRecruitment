@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q017-b00333dac3",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 17 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-2509",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "Airport personnel: Please fill out this $\\underline{\\quad(D)\\quad}$ Form. We'll send the baggage back to you as soon as we find it.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Guest History Card"
+      },
+      {
+        "id": "B",
+        "text": "Baggage Claim Tag"
+      },
+      {
+        "id": "C",
+        "text": "Lost and Found"
+      },
+      {
+        "id": "D",
+        "text": "Property Irregularity Report"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Airport personnel: Please fill out this $\\underline{\\quad(D)\\quad}$ Form. We'll send the baggage back to you as soon as we find it. Guest History Card Baggage Claim Tag Lost and Found Property Irregularity Report 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2675
+  }
+}

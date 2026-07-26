@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q013-5c8370888b",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 13 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-10765",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "餐具清洗是否乾淨會影響到衛生安全，下列對於殘留物試驗，從試驗方式至使用試劑，到有殘留物時所呈現的顏色，這三種的組合方式，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "ABS 殘留物-氯仿-藍色"
+      },
+      {
+        "id": "B",
+        "text": "油脂試驗-蘇丹四號-紅色"
+      },
+      {
+        "id": "C",
+        "text": "澱粉試驗-碘液-紅色"
+      },
+      {
+        "id": "D",
+        "text": "蛋白質試驗-寧海俊-紫紅色。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "餐具清洗是否乾淨會影響到衛生安全，下列對於殘留物試驗，從試驗方式至使用試劑，到有殘留物時所呈現的顏色，這三種的組合方式，何者錯誤？ ABS 殘留物-氯仿-藍色 油脂試驗-蘇丹四號-紅色 澱粉試驗-碘液-紅色 蛋白質試驗-寧海俊-紫紅色。 其他：待人工審核 待人工審核",
+    "sequence": 1141
+  }
+}

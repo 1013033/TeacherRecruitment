@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q002-b46e1d036f",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 2 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-29550",
+    "paperTitle": "二、複選題（共 5 題，每題 2 分，全對才給分，共 10 分）",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 2,
+    "questionType": "multiple-choice",
+    "prompt": "關於中餐餐桌擺設之敘述，請問以下那些敘述正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "味碟通常擺放在骨盤的上方，屬於個人用餐具。"
+      },
+      {
+        "id": "B",
+        "text": "中餐酒席以擺放中式小酒杯為多，且先排列在轉檯上。"
+      },
+      {
+        "id": "C",
+        "text": "公杯擺設時通常把手朝左，杯嘴朝右。"
+      },
+      {
+        "id": "D",
+        "text": "中餐採用旁桌分菜時，小湯碗需先置於轉檯邊緣上。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於中餐餐桌擺設之敘述，請問以下那些敘述正確？ 味碟通常擺放在骨盤的上方，屬於個人用餐具。 中餐酒席以擺放中式小酒杯為多，且先排列在轉檯上。 公杯擺設時通常把手朝左，杯嘴朝右。 中餐採用旁桌分菜時，小湯碗需先置於轉檯邊緣上。 其他：待人工審核 待人工審核",
+    "sequence": 1301
+  }
+}

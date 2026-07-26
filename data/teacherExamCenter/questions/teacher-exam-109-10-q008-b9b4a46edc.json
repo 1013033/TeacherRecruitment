@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q008-b9b4a46edc",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 8 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-7573",
+    "paperTitle": "一、選擇題，每題1分，共22分。",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "以下關於旅館種類之敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transient Hotel 房內附有廚房設備"
+      },
+      {
+        "id": "B",
+        "text": "Airport Hotel 需特別注意 Guest Ledger 之收取"
+      },
+      {
+        "id": "C",
+        "text": "Motel Hotel 源起於法國，客人毋需為了小費煩惱"
+      },
+      {
+        "id": "D",
+        "text": "Capsule Hotel 源起於德國"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、hotel、guest ledger"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下關於旅館種類之敘述，何者正確？ Transient Hotel 房內附有廚房設備 Airport Hotel 需特別注意 Guest Ledger 之收取 Motel Hotel 源起於法國，客人毋需為了小費煩惱 Capsule Hotel 源起於德國 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1580
+  }
+}

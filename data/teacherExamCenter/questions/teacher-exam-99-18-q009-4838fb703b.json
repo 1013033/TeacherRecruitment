@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q009-4838fb703b",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 9 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-5607",
+    "paperTitle": "一、單選題（80%）",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "劉老闆由高雄到台北洽談生意，在台北某國際觀光旅館辦理完住宿登記手續後，一進房間即接獲家裡來電，告知太太臨盆，必須立即趕回高雄，不得已要求退房。此狀況稱為",
+    "options": [
+      {
+        "id": "A",
+        "text": "DNA"
+      },
+      {
+        "id": "B",
+        "text": "DND"
+      },
+      {
+        "id": "C",
+        "text": "DNS"
+      },
+      {
+        "id": "D",
+        "text": "RNA。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "劉老闆由高雄到台北洽談生意，在台北某國際觀光旅館辦理完住宿登記手續後，一進房間即接獲家裡來電，告知太太臨盆，必須立即趕回高雄，不得已要求退房。此狀況稱為 DNA DND DNS RNA。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2827
+  }
+}

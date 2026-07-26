@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q008-07d8246462",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 8 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-1127",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "「小法國」法式餐廳門口貼了一個「Halal」的認證標誌,請問這是方便哪一種宗教人士辨認？",
+    "options": [
+      {
+        "id": "A",
+        "text": "天主教"
+      },
+      {
+        "id": "B",
+        "text": "猶太教"
+      },
+      {
+        "id": "C",
+        "text": "伊斯蘭教"
+      },
+      {
+        "id": "D",
+        "text": "佛教"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「小法國」法式餐廳門口貼了一個「Halal」的認證標誌,請問這是方便哪一種宗教人士辨認？ 天主教 猶太教 伊斯蘭教 佛教 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1368
+  }
+}

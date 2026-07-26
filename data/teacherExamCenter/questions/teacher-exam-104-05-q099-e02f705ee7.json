@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q099-e02f705ee7",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 99 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-15385",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 99,
+    "questionType": "single-choice",
+    "prompt": "Bourbon Whiskey 發酵過程前，一般酵母菌會事先培養多久，再加到發酵槽中？",
+    "options": [
+      {
+        "id": "A",
+        "text": "12小時"
+      },
+      {
+        "id": "B",
+        "text": "24小時"
+      },
+      {
+        "id": "C",
+        "text": "36小時"
+      },
+      {
+        "id": "D",
+        "text": "48小時。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Bourbon Whiskey 發酵過程前，一般酵母菌會事先培養多久，再加到發酵槽中？ 12小時 24小時 36小時 48小時。 其他：待人工審核 待人工審核",
+    "sequence": 704
+  }
+}

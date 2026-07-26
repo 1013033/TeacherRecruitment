@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q025-38ef9caa47",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 25 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-35921",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "下列哪些外島已設立國家風景區管理？ 甲、小琉球；乙、龜山島；丙、馬祖；丁、釣魚台；戊、綠島；己、澎湖",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙戊"
+      },
+      {
+        "id": "B",
+        "text": "甲丙戊己"
+      },
+      {
+        "id": "C",
+        "text": "乙丙戊己"
+      },
+      {
+        "id": "D",
+        "text": "丙丁戊己。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪些外島已設立國家風景區管理？ 甲、小琉球；乙、龜山島；丙、馬祖；丁、釣魚台；戊、綠島；己、澎湖 甲乙丙戊 甲丙戊己 乙丙戊己 丙丁戊己。 其他：待人工審核 待人工審核",
+    "sequence": 921
+  }
+}

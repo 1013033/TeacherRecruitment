@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q006-ed55ee6749",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 6 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-785",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "麵包表皮鬆脆，內部組織細緻，有大孔洞而少顆粒，微帶韌性但不太強，是屬於：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hearth Breads"
+      },
+      {
+        "id": "B",
+        "text": "Hard and Crispy Breads"
+      },
+      {
+        "id": "C",
+        "text": "Croissant"
+      },
+      {
+        "id": "D",
+        "text": "Sweet Breads。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "麵包表皮鬆脆，內部組織細緻，有大孔洞而少顆粒，微帶韌性但不太強，是屬於： Hearth Breads Hard and Crispy Breads Croissant Sweet Breads。 其他：待人工審核 待人工審核",
+    "sequence": 1520
+  }
+}

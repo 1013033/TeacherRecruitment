@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q019-5067597046",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 19 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-19524",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "以下關於茶之敘述，何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綠茶是不發酵茶"
+      },
+      {
+        "id": "B",
+        "text": "中國茶的干邑白蘭地是指武夷山紅茶"
+      },
+      {
+        "id": "C",
+        "text": "白毫烏龍茶有東方美人茶之稱"
+      },
+      {
+        "id": "D",
+        "text": "伯爵茶主要是加入了佛手柑烘製的茶品。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、綠茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下關於茶之敘述，何者為非？ 綠茶是不發酵茶 中國茶的干邑白蘭地是指武夷山紅茶 白毫烏龍茶有東方美人茶之稱 伯爵茶主要是加入了佛手柑烘製的茶品。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 159
+  }
+}

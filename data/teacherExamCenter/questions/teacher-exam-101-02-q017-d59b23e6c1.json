@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q017-d59b23e6c1",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 17 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-2375",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個單位不是隸屬於客房部門（Room Division）？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Room Service"
+      },
+      {
+        "id": "B",
+        "text": "Concierge"
+      },
+      {
+        "id": "C",
+        "text": "Front Desk"
+      },
+      {
+        "id": "D",
+        "text": "Housekeeping。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一個單位不是隸屬於客房部門（Room Division）？ Room Service Concierge Front Desk Housekeeping。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 177
+  }
+}

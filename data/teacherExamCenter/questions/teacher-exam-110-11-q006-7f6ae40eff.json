@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q006-7f6ae40eff",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 6 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-1042",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "滿漢全席是集合滿族和漢族飲食特色的大型筵席，乾隆甲申年間李鬥所著《揚州畫舫錄》中記有一份滿漢全席食單：「滿漢全席，分為六宴，均以清宮著名大宴名」，其中不包括下列哪一項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蒙古親藩宴"
+      },
+      {
+        "id": "B",
+        "text": "九白宴"
+      },
+      {
+        "id": "C",
+        "text": "延禧宴"
+      },
+      {
+        "id": "D",
+        "text": "千叟宴。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "滿漢全席是集合滿族和漢族飲食特色的大型筵席，乾隆甲申年間李鬥所著《揚州畫舫錄》中記有一份滿漢全席食單：「滿漢全席，分為六宴，均以清宮著名大宴名」，其中不包括下列哪一項？ 蒙古親藩宴 九白宴 延禧宴 千叟宴。 其他：待人工審核 待人工審核",
+    "sequence": 1646
+  }
+}

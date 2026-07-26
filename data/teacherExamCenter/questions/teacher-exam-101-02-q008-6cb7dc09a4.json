@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q008-6cb7dc09a4",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 8 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-12128",
+    "paperTitle": "一、選擇題，共10題，每題2分，共20分",
+    "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "達賴喇嘛若應邀訪台，住宿飯店期間，負責新聞發佈、媒體接待的應為哪一部門？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sales and Marketing Department"
+      },
+      {
+        "id": "B",
+        "text": "Public Relations Department"
+      },
+      {
+        "id": "C",
+        "text": "Concierge"
+      },
+      {
+        "id": "D",
+        "text": "Business Center。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "達賴喇嘛若應邀訪台，住宿飯店期間，負責新聞發佈、媒體接待的應為哪一部門？ Sales and Marketing Department Public Relations Department Concierge Business Center。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 285
+  }
+}

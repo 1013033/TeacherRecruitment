@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q005-9bda82f23f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 5 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-31187",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校104學年度教師甄選",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "航空票務 Amadeus 訂位系統五大要素，何者正確？ 甲、S: Schedule；乙、M: Name；丙、A: Airline；丁、R: Received From；戊、T: Ticket",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "丙丁戊"
+      },
+      {
+        "id": "C",
+        "text": "甲乙戊"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丁戊。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、票務、airline、ticket"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "航空票務 Amadeus 訂位系統五大要素，何者正確？ 甲、S: Schedule；乙、M: Name；丙、A: Airline；丁、R: Received From；戊、T: Ticket 甲乙丙 丙丁戊 甲乙戊 甲乙丁戊。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 867
+  }
+}

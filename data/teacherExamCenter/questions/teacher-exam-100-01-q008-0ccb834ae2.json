@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q008-0ccb834ae2",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 8 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-9848",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "中餐的菜單內容如下：(甲)冷盤 (乙)大菜 (丙)熱炒 (丁)點心 (戊)水果，其上菜順序為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙丁戊"
+      },
+      {
+        "id": "B",
+        "text": "甲丙戊乙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲丙乙丁戊"
+      },
+      {
+        "id": "D",
+        "text": "甲丁丙乙戊。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "中餐的菜單內容如下：(甲)冷盤 (乙)大菜 (丙)熱炒 (丁)點心 (戊)水果，其上菜順序為何？ 甲乙丙丁戊 甲丙戊乙丁 甲丙乙丁戊 甲丁丙乙戊。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 74
+  }
+}

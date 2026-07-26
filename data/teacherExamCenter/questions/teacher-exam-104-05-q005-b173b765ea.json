@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q005-b173b765ea",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 5 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-32903",
+    "paperTitle": "一、選擇題，每題2分，共20分。",
+    "schoolName": "國立羅東高級商業職業學校104學年度教師甄選",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是口布的用途？",
+    "options": [
+      {
+        "id": "A",
+        "text": "使餐桌擺設美觀"
+      },
+      {
+        "id": "B",
+        "text": "防止掉落的食物沾髒衣物"
+      },
+      {
+        "id": "C",
+        "text": "擦汗"
+      },
+      {
+        "id": "D",
+        "text": "擦拭嘴唇與手指的油漬。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者不是口布的用途？ 使餐桌擺設美觀 防止掉落的食物沾髒衣物 擦汗 擦拭嘴唇與手指的油漬。 其他：待人工審核 待人工審核",
+    "sequence": 891
+  }
+}

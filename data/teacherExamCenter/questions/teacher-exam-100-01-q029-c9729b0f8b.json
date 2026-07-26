@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q029-c9729b0f8b",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 29 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-7313",
+    "paperTitle": "未標示試卷",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "下列關於西餐餐桌擺設的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "酒杯應該擺設在咖啡杯正下方"
+      },
+      {
+        "id": "B",
+        "text": "咖啡杯應該擺放在餐具左側"
+      },
+      {
+        "id": "C",
+        "text": "麵包盤應該擺放在餐叉左側"
+      },
+      {
+        "id": "D",
+        "text": "奶油刀應該擺放在餐刀右側。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於西餐餐桌擺設的敘述，何者正確？ 酒杯應該擺設在咖啡杯正下方 咖啡杯應該擺放在餐具左側 麵包盤應該擺放在餐叉左側 奶油刀應該擺放在餐刀右側。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 54
+  }
+}

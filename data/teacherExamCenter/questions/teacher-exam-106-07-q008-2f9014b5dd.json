@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q008-2f9014b5dd",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 8 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-10050",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "關於臺灣特色民宿（例如經農業主管機關劃定之休閒農業區、觀光地區、離島地區等）的客房數與客房總樓地板面積的規定，下列組合何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "客房數：10 間以下；客房總樓地板面積：100 平方公尺以下"
+      },
+      {
+        "id": "B",
+        "text": "客房數：10 間以下；客房總樓地板面積：150 平方公尺以下"
+      },
+      {
+        "id": "C",
+        "text": "客房數：15 間以下；客房總樓地板面積：200 平方公尺以下"
+      },
+      {
+        "id": "D",
+        "text": "客房數：15 間以下；客房總樓地板面積：250 平方公尺以下。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於臺灣特色民宿（例如經農業主管機關劃定之休閒農業區、觀光地區、離島地區等）的客房數與客房總樓地板面積的規定，下列組合何者正確？ 客房數：10 間以下；客房總樓地板面積：100 平方公尺以下 客房數：10 間以下；客房總樓地板面積：150 平方公尺以下 客房數：15 間以下；客房總樓地板面積：200 平方公尺以下 客房數：15 間以下；客房總樓地板面積：250 平方公尺以下。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1136
+  }
+}

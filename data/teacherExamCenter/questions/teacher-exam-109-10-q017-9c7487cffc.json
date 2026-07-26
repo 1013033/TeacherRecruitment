@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q017-9c7487cffc",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 17 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-2245",
+    "paperTitle": "二、複選題（每題2分，共10分，全部答對才給分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列何款飲品原則上使用 espresso 調製？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Royal Coffee"
+      },
+      {
+        "id": "B",
+        "text": "Macchiato Coffee"
+      },
+      {
+        "id": "C",
+        "text": "Mesdames Coffee"
+      },
+      {
+        "id": "D",
+        "text": "Cappuccino。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee、espresso、cappuccino"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何款飲品原則上使用 espresso 調製？ Royal Coffee Macchiato Coffee Mesdames Coffee Cappuccino。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1531
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q039-697a7bff16",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 39 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-3755",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "蛋白的起泡作用為蛋黃的 4 倍，主要是因為蛋白中的何種物質具有降低表面張力的特性，使空氣快速加入？",
+    "options": [
+      {
+        "id": "A",
+        "text": "球蛋白"
+      },
+      {
+        "id": "B",
+        "text": "卵白蛋白"
+      },
+      {
+        "id": "C",
+        "text": "卵黏蛋白"
+      },
+      {
+        "id": "D",
+        "text": "醣蛋白。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "蛋白的起泡作用為蛋黃的 4 倍，主要是因為蛋白中的何種物質具有降低表面張力的特性，使空氣快速加入？ 球蛋白 卵白蛋白 卵黏蛋白 醣蛋白。 其他：待人工審核 待人工審核",
+    "sequence": 2040
+  }
+}

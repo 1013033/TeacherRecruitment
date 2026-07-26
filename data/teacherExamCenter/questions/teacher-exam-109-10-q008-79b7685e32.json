@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q008-79b7685e32",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 8 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-4703",
+    "paperTitle": "一、單選題（共20題，每題2分）",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "就台灣飯店業而言，都會型飯店之主要收入來自",
+    "options": [
+      {
+        "id": "A",
+        "text": "客房部"
+      },
+      {
+        "id": "B",
+        "text": "餐飲部"
+      },
+      {
+        "id": "C",
+        "text": "Spa 與健身房"
+      },
+      {
+        "id": "D",
+        "text": "會員俱樂部。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "就台灣飯店業而言，都會型飯店之主要收入來自 客房部 餐飲部 Spa 與健身房 會員俱樂部。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1550
+  }
+}

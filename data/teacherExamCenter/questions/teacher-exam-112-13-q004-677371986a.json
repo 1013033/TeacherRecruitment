@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q004-677371986a",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 4 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-9263",
+    "paperTitle": "一、選擇題（單選題）每題1分，共14分",
+    "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "「面面肉」是指下列哪一道菜餚？",
+    "options": [
+      {
+        "id": "A",
+        "text": "木樨肉"
+      },
+      {
+        "id": "B",
+        "text": "糖醋肉"
+      },
+      {
+        "id": "C",
+        "text": "橙汁排骨"
+      },
+      {
+        "id": "D",
+        "text": "竹籠粉蒸肉"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "「面面肉」是指下列哪一道菜餚？ 木樨肉 糖醋肉 橙汁排骨 竹籠粉蒸肉 其他：待人工審核 待人工審核",
+    "sequence": 1951
+  }
+}

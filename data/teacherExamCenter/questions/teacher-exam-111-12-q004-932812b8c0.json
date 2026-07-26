@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q004-932812b8c0",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 4 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-750",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "關於我國食品安全管制系統（HACCP）之相關規定，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "食品安全管制小組（HACCP team）中須有 2 人具備食品技師證書。"
+      },
+      {
+        "id": "B",
+        "text": "所有書面紀錄均應妥善保存至少五年。"
+      },
+      {
+        "id": "C",
+        "text": "所有 HACCP 計畫均需文件化。"
+      },
+      {
+        "id": "D",
+        "text": "建立確認程序是 HACCP 計畫書中之必要內容。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於我國食品安全管制系統（HACCP）之相關規定，下列何者有誤？ 食品安全管制小組（HACCP team）中須有 2 人具備食品技師證書。 所有書面紀錄均應妥善保存至少五年。 所有 HACCP 計畫均需文件化。 建立確認程序是 HACCP 計畫書中之必要內容。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1691
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q010-58551873f6",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 10 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-1465",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "航空餐飲英文代碼，下列何者代表『嚴格素食餐』？",
+    "options": [
+      {
+        "id": "A",
+        "text": "ORML"
+      },
+      {
+        "id": "B",
+        "text": "SFML"
+      },
+      {
+        "id": "C",
+        "text": "VGML"
+      },
+      {
+        "id": "D",
+        "text": "CHML"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "航空餐飲英文代碼，下列何者代表『嚴格素食餐』？ ORML SFML VGML CHML 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2796
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q005-4fc624cb10",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 5 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-11820",
+    "paperTitle": "一、選擇題，共10題，每題2分，共20分",
+    "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種葡萄是用來釀造法國薄酒萊新酒的主要品種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gamay"
+      },
+      {
+        "id": "B",
+        "text": "Cabernet Sauvignon"
+      },
+      {
+        "id": "C",
+        "text": "Chardonnay"
+      },
+      {
+        "id": "D",
+        "text": "Riesling。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：薄酒萊、chardonnay、riesling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種葡萄是用來釀造法國薄酒萊新酒的主要品種？ Gamay Cabernet Sauvignon Chardonnay Riesling。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 282
+  }
+}

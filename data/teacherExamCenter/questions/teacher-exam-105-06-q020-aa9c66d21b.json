@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q020-aa9c66d21b",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 20 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-8303",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "旅館慣用之枕頭其重量為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "標準枕1,200g、軟枕1,000g"
+      },
+      {
+        "id": "B",
+        "text": "標準枕1,000g、軟枕700g"
+      },
+      {
+        "id": "C",
+        "text": "軟枕1,500g、標準枕1,000g"
+      },
+      {
+        "id": "D",
+        "text": "標準枕1,000g、軟枕500g。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館慣用之枕頭其重量為何？ 標準枕1,200g、軟枕1,000g 標準枕1,000g、軟枕700g 軟枕1,500g、標準枕1,000g 標準枕1,000g、軟枕500g。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1018
+  }
+}

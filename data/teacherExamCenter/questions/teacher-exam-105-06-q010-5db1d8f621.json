@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q010-5db1d8f621",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 10 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-15776",
+    "paperTitle": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "In case of ______ on the arrival date, one night deposit will be charged.",
+    "options": [
+      {
+        "id": "A",
+        "text": "over stay"
+      },
+      {
+        "id": "B",
+        "text": "overbooking"
+      },
+      {
+        "id": "C",
+        "text": "no-show"
+      },
+      {
+        "id": "D",
+        "text": "walk-in 二、複選題（每題2分，全對才給分，共10分）"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：booking、overbooking"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "In case of ______ on the arrival date, one night deposit will be charged. over stay overbooking no-show walk-in 二、複選題（每題2分，全對才給分，共10分） 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1062
+  }
+}

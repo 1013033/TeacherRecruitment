@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q014-a64e90f826",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 14 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5714",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "顧客點用牛排時，指定烹調「八分熟」的專業術語為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medium Rare"
+      },
+      {
+        "id": "B",
+        "text": "Medium Rare"
+      },
+      {
+        "id": "C",
+        "text": "Medium Well"
+      },
+      {
+        "id": "D",
+        "text": "Well Done。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "顧客點用牛排時，指定烹調「八分熟」的專業術語為何？ Medium Rare Medium Rare Medium Well Well Done。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 39
+  }
+}

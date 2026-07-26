@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q021-6186dcfaf9",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 21 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-7143",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "中餐服務分菜時的順序，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "先服務主賓，再逆時鐘方向每次服務一人，全部分完，再服務主人"
+      },
+      {
+        "id": "B",
+        "text": "先服務主賓，再順時鐘方向每次服務一人，全部分完，再服務主人"
+      },
+      {
+        "id": "C",
+        "text": "先服務主人，再逆時鐘方向每次服務一人，全部分完，再服務主賓"
+      },
+      {
+        "id": "D",
+        "text": "先服務主人，再順時鐘方向每次服務一人，全部分完，再服務主賓。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "中餐服務分菜時的順序，下列何者正確？ 先服務主賓，再逆時鐘方向每次服務一人，全部分完，再服務主人 先服務主賓，再順時鐘方向每次服務一人，全部分完，再服務主人 先服務主人，再逆時鐘方向每次服務一人，全部分完，再服務主賓 先服務主人，再順時鐘方向每次服務一人，全部分完，再服務主賓。 其他：待人工審核 待人工審核",
+    "sequence": 626
+  }
+}

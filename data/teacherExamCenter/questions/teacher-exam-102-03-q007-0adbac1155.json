@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q007-0adbac1155",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 7 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-1285",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "Waitress: Welcome to Mother Mouth café! Here is our menu. What can I get for you? Peter: I am not sure. Your house specialty is coffee, isn't it? Waitress: Yes, we have Caffé Americano, Cappuccino, and Caramel Macchiato etc. Peter: Don't you have something special with wine in it? Waitress: Certainly! I just favor coffee with liqueur. Peter: Um, I'll have __________. Such as Irish coffee, Royal coffee, Mesdames coffee. Waitress: OK, coming right up.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Macchiato"
+      },
+      {
+        "id": "B",
+        "text": "Royal coffee"
+      },
+      {
+        "id": "C",
+        "text": "Mesdames coffee"
+      },
+      {
+        "id": "D",
+        "text": "Irish coffee。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur、wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Waitress: Welcome to Mother Mouth café! Here is our menu. What can I get for you? Peter: I am not sure. Your house specialty is coffee, isn't it? Waitress: Yes, we have Caffé Americano, Cappuccino, and Caramel Macchiato etc. Peter: Don't you have something special with wine in it? Waitress: Certainly! I just favor coffee with liqueur. Peter: Um, I'll have __________. Such as Irish coffee, Royal coffee, Mesdames coffee. Waitress: OK, coming right up. Macchiato Royal coffee Mesdames coffee Irish coffee。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 408
+  }
+}

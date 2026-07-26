@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q015-b7be1d3f42",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 15 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-19581",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "在房務報告中，「OR」（Occupied Ready）代表的意思為下列哪一項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "客人已經退房，客房等待清理中"
+      },
+      {
+        "id": "B",
+        "text": "已準備好出租的空房"
+      },
+      {
+        "id": "C",
+        "text": "仍未清掃的空房"
+      },
+      {
+        "id": "D",
+        "text": "有旅客住用，並且已經清掃乾淨的房間。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在房務報告中，「OR」（Occupied Ready）代表的意思為下列哪一項？ 客人已經退房，客房等待清理中 已準備好出租的空房 仍未清掃的空房 有旅客住用，並且已經清掃乾淨的房間。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 748
+  }
+}

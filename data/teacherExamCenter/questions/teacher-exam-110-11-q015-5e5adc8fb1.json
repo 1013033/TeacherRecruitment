@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q015-5e5adc8fb1",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 15 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-2116",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "某西餐廳進貨鱸魚60尾（每尾約重1.2公斤），每公斤80元買進，經前處理後，可食用部分剩下54公斤；又每一份鱸魚排在烹調前是450公克，烹調後盛盤上桌的份量為432公克。請問總量的切割耗損率與每一份鱸魚排的產出率各為多少？又一條魚可以製作2份鱸魚排，請問一份鱸魚排的成本多少？",
+    "options": [
+      {
+        "id": "A",
+        "text": "20%、72%、96元"
+      },
+      {
+        "id": "B",
+        "text": "25%、96%、48元"
+      },
+      {
+        "id": "C",
+        "text": "25%、96%、96元"
+      },
+      {
+        "id": "D",
+        "text": "25%、72%、48元。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "某西餐廳進貨鱸魚60尾（每尾約重1.2公斤），每公斤80元買進，經前處理後，可食用部分剩下54公斤；又每一份鱸魚排在烹調前是450公克，烹調後盛盤上桌的份量為432公克。請問總量的切割耗損率與每一份鱸魚排的產出率各為多少？又一條魚可以製作2份鱸魚排，請問一份鱸魚排的成本多少？ 20%、72%、96元 25%、96%、48元 25%、96%、96元 25%、72%、48元。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1655
+  }
+}

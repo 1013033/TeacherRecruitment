@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q001-4e5ff9d611",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 1 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-13318",
+    "paperTitle": "單選題：40%（每題 2 分）",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "下列旅館中，何者較不適合要求房價較低價的背包客或學生入住？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Youth Hostel"
+      },
+      {
+        "id": "B",
+        "text": "Resort Hotel"
+      },
+      {
+        "id": "C",
+        "text": "Capsule Hotel"
+      },
+      {
+        "id": "D",
+        "text": "B & B。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列旅館中，何者較不適合要求房價較低價的背包客或學生入住？ Youth Hostel Resort Hotel Capsule Hotel B & B。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 483
+  }
+}

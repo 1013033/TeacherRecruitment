@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q005-7f3a0f63c5",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 5 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-576",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "根據 International Air Transport Association 所制訂的 airline codes，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "GE - TransAsia Airways, Taiwan"
+      },
+      {
+        "id": "B",
+        "text": "QA - Qantas, Australia"
+      },
+      {
+        "id": "C",
+        "text": "SQ - Singapore Airlines, Singapore"
+      },
+      {
+        "id": "D",
+        "text": "KE - Korean Air, Korea。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "根據 International Air Transport Association 所制訂的 airline codes，下列何者錯誤？ GE - TransAsia Airways, Taiwan QA - Qantas, Australia SQ - Singapore Airlines, Singapore KE - Korean Air, Korea。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 165
+  }
+}

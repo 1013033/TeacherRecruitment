@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q009-196426e7c1",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 9 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-27746",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列何者非為交通部觀光局駐外辦事處所在地？",
+    "options": [
+      {
+        "id": "A",
+        "text": "LAX"
+      },
+      {
+        "id": "B",
+        "text": "SYD"
+      },
+      {
+        "id": "C",
+        "text": "FRA"
+      },
+      {
+        "id": "D",
+        "text": "KUL。"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者非為交通部觀光局駐外辦事處所在地？ LAX SYD FRA KUL。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 1288
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q085-ef8229cec4",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 85 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24455",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 85,
+    "questionType": "single-choice",
+    "prompt": "夏威夷雞尾酒四大極品之一的「Scorpion」其調製方法為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shake"
+      },
+      {
+        "id": "B",
+        "text": "Stir"
+      },
+      {
+        "id": "C",
+        "text": "Build"
+      },
+      {
+        "id": "D",
+        "text": "Blend。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "夏威夷雞尾酒四大極品之一的「Scorpion」其調製方法為？ Shake Stir Build Blend。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1264
+  }
+}

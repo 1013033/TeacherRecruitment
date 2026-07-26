@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q014-bc4ad13057",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 14 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-19080",
+    "paperTitle": "一、選擇題（1 題 1 分，共 20 分）",
+    "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "以下敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐桌的標準高度在 50～60cm 最舒適"
+      },
+      {
+        "id": "B",
+        "text": "顧客在餐桌進餐所需寬度為 60～70cm"
+      },
+      {
+        "id": "C",
+        "text": "宴會用長方桌尺寸多為 90×180cm"
+      },
+      {
+        "id": "D",
+        "text": "餐椅的高度自地面到以面的距離約為 40～45cm。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：宴會"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下敘述何者錯誤？ 餐桌的標準高度在 50～60cm 最舒適 顧客在餐桌進餐所需寬度為 60～70cm 宴會用長方桌尺寸多為 90×180cm 餐椅的高度自地面到以面的距離約為 40～45cm。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 154
+  }
+}

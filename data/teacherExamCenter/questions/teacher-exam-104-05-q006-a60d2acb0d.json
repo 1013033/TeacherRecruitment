@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q006-a60d2acb0d",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 6 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-31324",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校104學年度教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "餐廳的產品具有 PLC，當產品獲得大部份的顧客認同，其行銷重點在於建立顧客的品牌忠誠度，該產品是位在 PLC 的哪一階段？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Growth"
+      },
+      {
+        "id": "B",
+        "text": "Maturity"
+      },
+      {
+        "id": "C",
+        "text": "Decline"
+      },
+      {
+        "id": "D",
+        "text": "Introduction."
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐廳的產品具有 PLC，當產品獲得大部份的顧客認同，其行銷重點在於建立顧客的品牌忠誠度，該產品是位在 PLC 的哪一階段？ Growth Maturity Decline Introduction. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 868
+  }
+}

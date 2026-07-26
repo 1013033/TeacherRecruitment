@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q001-350703f8ae",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 1 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-111",
+    "paperTitle": "教師甄選參考題目(餐飲管理科)",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "所謂「PPM」是指美國哪一種專業認證？",
+    "options": [
+      {
+        "id": "A",
+        "text": "專業餐飲經理人"
+      },
+      {
+        "id": "B",
+        "text": "專業旅館經理人"
+      },
+      {
+        "id": "C",
+        "text": "專業採購經理人"
+      },
+      {
+        "id": "D",
+        "text": "專業財務經理人。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "所謂「PPM」是指美國哪一種專業認證？ 專業餐飲經理人 專業旅館經理人 專業採購經理人 專業財務經理人。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2002
+  }
+}

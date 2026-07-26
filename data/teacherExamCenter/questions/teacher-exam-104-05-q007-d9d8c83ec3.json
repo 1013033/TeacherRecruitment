@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q007-d9d8c83ec3",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 7 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-23510",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列關於工作檯擺設的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "水壺擺放前應先將水加至八分滿"
+      },
+      {
+        "id": "B",
+        "text": "相同規格大小的餐盤應整齊疊放"
+      },
+      {
+        "id": "C",
+        "text": "杯子擺放時應將杯口朝上"
+      },
+      {
+        "id": "D",
+        "text": "刀叉匙應側立擺放。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列關於工作檯擺設的敘述，何者錯誤？ 水壺擺放前應先將水加至八分滿 相同規格大小的餐盤應整齊疊放 杯子擺放時應將杯口朝上 刀叉匙應側立擺放。 其他：待人工審核 待人工審核",
+    "sequence": 779
+  }
+}

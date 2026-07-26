@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q014-ef8b4023af",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 14 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-7904",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種雞尾酒應使用碎冰？",
+    "options": [
+      {
+        "id": "A",
+        "text": "血腥瑪莉(Bloody Mary)"
+      },
+      {
+        "id": "B",
+        "text": "古典酒(Old Fashioned)"
+      },
+      {
+        "id": "C",
+        "text": "莫西多(Mojito)"
+      },
+      {
+        "id": "D",
+        "text": "藍鳥(Blue Bird)。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種雞尾酒應使用碎冰？ 血腥瑪莉(Bloody Mary) 古典酒(Old Fashioned) 莫西多(Mojito) 藍鳥(Blue Bird)。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1012
+  }
+}

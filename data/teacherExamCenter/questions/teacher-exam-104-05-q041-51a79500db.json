@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q041-51a79500db",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 41 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-27048",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "以濾紙濾滴的方式沖泡咖啡，應如何控制所需之水量？",
+    "options": [
+      {
+        "id": "A",
+        "text": "先以咖啡杯量取後倒入沖壺中"
+      },
+      {
+        "id": "B",
+        "text": "憑個人經驗"
+      },
+      {
+        "id": "C",
+        "text": "應以有刻度的玻璃壺裝盛，目測滴到壺中的咖啡量"
+      },
+      {
+        "id": "D",
+        "text": "應直接滴到咖啡杯中。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以濾紙濾滴的方式沖泡咖啡，應如何控制所需之水量？ 先以咖啡杯量取後倒入沖壺中 憑個人經驗 應以有刻度的玻璃壺裝盛，目測滴到壺中的咖啡量 應直接滴到咖啡杯中。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 813
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q040-b90aa4c259",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 40 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-11170",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校101學年度第1次教師甄試餐飲科題目卷",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "設計菜單的原則，在下列選項中何者可不予考慮？",
+    "options": [
+      {
+        "id": "A",
+        "text": "分量應適中"
+      },
+      {
+        "id": "B",
+        "text": "考慮用餐者的喜好"
+      },
+      {
+        "id": "C",
+        "text": "考慮季節與價格"
+      },
+      {
+        "id": "D",
+        "text": "考慮國籍的差異。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "設計菜單的原則，在下列選項中何者可不予考慮？ 分量應適中 考慮用餐者的喜好 考慮季節與價格 考慮國籍的差異。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 276
+  }
+}

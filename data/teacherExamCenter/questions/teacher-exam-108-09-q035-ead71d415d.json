@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q035-ead71d415d",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 35 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-7881",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "關於酒類知識的敘述,下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tequila是龍舌蘭酒的一種"
+      },
+      {
+        "id": "B",
+        "text": "Port與Sherry的主要製作原料相同"
+      },
+      {
+        "id": "C",
+        "text": "酒精濃度由高至低排列順序為:Dark rum > Sherry > Red Wine"
+      },
+      {
+        "id": "D",
+        "text": "酒瓶上標示Fine Champagne Cognac,代表此瓶為優質法國香檳氣泡酒。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳、龍舌蘭、wine、champagne、cognac"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於酒類知識的敘述,下列何者錯誤？ Tequila是龍舌蘭酒的一種 Port與Sherry的主要製作原料相同 酒精濃度由高至低排列順序為:Dark rum > Sherry > Red Wine 酒瓶上標示Fine Champagne Cognac,代表此瓶為優質法國香檳氣泡酒。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1464
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q020-4f9b89b0a3",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 20 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-29278",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 20,
+    "questionType": "multiple-choice",
+    "prompt": "關於宗教的特殊飲食傳統與禁忌，請問下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "佛教所有蔬菜類皆可吃。"
+      },
+      {
+        "id": "B",
+        "text": "摩門教不吃飼養之動物。"
+      },
+      {
+        "id": "C",
+        "text": "回教不吃豬肉。"
+      },
+      {
+        "id": "D",
+        "text": "猶太教禁吃血類食物。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於宗教的特殊飲食傳統與禁忌，請問下列敘述何者正確？ 佛教所有蔬菜類皆可吃。 摩門教不吃飼養之動物。 回教不吃豬肉。 猶太教禁吃血類食物。 其他：待人工審核 待人工審核",
+    "sequence": 1299
+  }
+}

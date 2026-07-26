@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q049-b36eaa6024",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 49 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-20966",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "有關烹調火候的敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "油炸腰果適合用小火，蒸蛋適合用小火"
+      },
+      {
+        "id": "B",
+        "text": "乾煸適合用小火，生炒適合用大火"
+      },
+      {
+        "id": "C",
+        "text": "醋溜適合用大火，鹽焗適合用小火"
+      },
+      {
+        "id": "D",
+        "text": "煮湯適合用中火，煎魚適合用中火。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、煎、煮、炒、炸"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關烹調火候的敘述，下列何者正確？ 油炸腰果適合用小火，蒸蛋適合用小火 乾煸適合用小火，生炒適合用大火 醋溜適合用大火，鹽焗適合用小火 煮湯適合用中火，煎魚適合用中火。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1228
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q066-1d32276d0d",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 66 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-12508",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 66,
+    "questionType": "single-choice",
+    "prompt": "請排列出正確的威士忌製造流程： 甲、陳年；乙、發酵；丙、蒸餾；丁、發芽；戊、裝瓶；己、磨碎；庚、混合",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→庚→丁→己→乙→丙→戊"
+      },
+      {
+        "id": "B",
+        "text": "丁→丙→甲→庚→乙→戊"
+      },
+      {
+        "id": "C",
+        "text": "甲→丁→己→乙→丙→庚→戊"
+      },
+      {
+        "id": "D",
+        "text": "丁→己→乙→丙→甲→庚→戊。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請排列出正確的威士忌製造流程： 甲、陳年；乙、發酵；丙、蒸餾；丁、發芽；戊、裝瓶；己、磨碎；庚、混合 甲→庚→丁→己→乙→丙→戊 丁→丙→甲→庚→乙→戊 甲→丁→己→乙→丙→庚→戊 丁→己→乙→丙→甲→庚→戊。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 671
+  }
+}

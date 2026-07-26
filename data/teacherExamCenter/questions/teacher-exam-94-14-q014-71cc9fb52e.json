@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q014-71cc9fb52e",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 14 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-5496",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何者是現代旅遊產品行銷的特性之一？",
+    "options": [
+      {
+        "id": "A",
+        "text": "受到時空限制"
+      },
+      {
+        "id": "B",
+        "text": "統一化通路"
+      },
+      {
+        "id": "C",
+        "text": "社團組 織通路形成"
+      },
+      {
+        "id": "D",
+        "text": "資訊交換中心沒落"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者是現代旅遊產品行銷的特性之一？ 受到時空限制 統一化通路 社團組 織通路形成 資訊交換中心沒落 其他：待人工審核 待人工審核",
+    "sequence": 2064
+  }
+}

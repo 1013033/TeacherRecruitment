@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q001-75afd33a13",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 1 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-33526",
+    "paperTitle": "一、選擇題：80%",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "細菌性食品中毒中，以何種細菌的致死率最高？",
+    "options": [
+      {
+        "id": "A",
+        "text": "產氣莢膜桿菌"
+      },
+      {
+        "id": "B",
+        "text": "肉毒桿菌"
+      },
+      {
+        "id": "C",
+        "text": "病原性大腸桿菌"
+      },
+      {
+        "id": "D",
+        "text": "腸炎弧菌。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "細菌性食品中毒中，以何種細菌的致死率最高？ 產氣莢膜桿菌 肉毒桿菌 病原性大腸桿菌 腸炎弧菌。 其他：待人工審核 待人工審核",
+    "sequence": 897
+  }
+}

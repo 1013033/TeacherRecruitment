@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q011-73a19cafa4",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 11 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-4894",
+    "paperTitle": "一、選擇題：（每題1分，共計40分）",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "看好景氣及陸客自由行商機，新飯店紛紛設立，甚至引進國際連鎖品牌經營，有關興建投資者與飯店名稱之敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "新光寒舍餐旅集團－台北喜來登、台北艾美酒店"
+      },
+      {
+        "id": "B",
+        "text": "麗寶機構營造建設集團－加賀屋"
+      },
+      {
+        "id": "C",
+        "text": "統一集團－時代國際飯店 W Hotel"
+      },
+      {
+        "id": "D",
+        "text": "中信觀光開發雲朗觀光集團－台北君品酒店。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "看好景氣及陸客自由行商機，新飯店紛紛設立，甚至引進國際連鎖品牌經營，有關興建投資者與飯店名稱之敘述，何者錯誤？ 新光寒舍餐旅集團－台北喜來登、台北艾美酒店 麗寶機構營造建設集團－加賀屋 統一集團－時代國際飯店 W Hotel 中信觀光開發雲朗觀光集團－台北君品酒店。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 203
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q017-e0bcee8534",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 17 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-16793",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "請排列葡萄酒品嘗步驟：甲、smell 乙、look 丙、taste 丁、swirl",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丁甲丙"
+      },
+      {
+        "id": "B",
+        "text": "丁乙丙甲"
+      },
+      {
+        "id": "C",
+        "text": "丁乙甲丙"
+      },
+      {
+        "id": "D",
+        "text": "乙丁丙甲"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請排列葡萄酒品嘗步驟：甲、smell 乙、look 丙、taste 丁、swirl 乙丁甲丙 丁乙丙甲 丁乙甲丙 乙丁丙甲 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1196
+  }
+}

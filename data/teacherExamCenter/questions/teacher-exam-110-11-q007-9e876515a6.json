@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q007-9e876515a6",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 7 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-1173",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "以香檳與氣泡酒甜度分級，下列何者的甜度是最高的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Doux"
+      },
+      {
+        "id": "B",
+        "text": "Brut"
+      },
+      {
+        "id": "C",
+        "text": "Sec"
+      },
+      {
+        "id": "D",
+        "text": "Extra dry"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以香檳與氣泡酒甜度分級，下列何者的甜度是最高的？ Doux Brut Sec Extra dry 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1647
+  }
+}

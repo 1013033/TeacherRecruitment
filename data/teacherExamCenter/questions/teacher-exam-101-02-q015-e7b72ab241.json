@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q015-e7b72ab241",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 15 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-2035",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "Which of the following is included in an all-inclusive package tour?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Laundry service."
+      },
+      {
+        "id": "B",
+        "text": "Mini bar items consumed."
+      },
+      {
+        "id": "C",
+        "text": "Optional tours."
+      },
+      {
+        "id": "D",
+        "text": "Lodging, food and transportation."
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which of the following is included in an all-inclusive package tour? Laundry service. Mini bar items consumed. Optional tours. Lodging, food and transportation. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 175
+  }
+}

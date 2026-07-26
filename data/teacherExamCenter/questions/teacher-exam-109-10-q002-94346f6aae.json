@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q002-94346f6aae",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 2 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-6829",
+    "paperTitle": "一、選擇題，每題1分，共22分。",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "國際航空運輸協會 (International Air Transport Association) 將全球飛航區域 (Traffic Conference Area) 分為三大飛航區 (TC1、TC2、TC3)，下列哪一個國家屬於 TC2？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Egypt"
+      },
+      {
+        "id": "B",
+        "text": "Vietnam"
+      },
+      {
+        "id": "C",
+        "text": "Canada"
+      },
+      {
+        "id": "D",
+        "text": "Australia."
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "國際航空運輸協會 (International Air Transport Association) 將全球飛航區域 (Traffic Conference Area) 分為三大飛航區 (TC1、TC2、TC3)，下列哪一個國家屬於 TC2？ Egypt Vietnam Canada Australia. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1574
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q002-bc8874523c",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 2 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-3972",
+    "paperTitle": "一、單選題（50 題每題 2 分共 100 分）",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "負責旅館內嚮導、傳達、找人及其他零瑣差使是",
+    "options": [
+      {
+        "id": "A",
+        "text": "Page Boy"
+      },
+      {
+        "id": "B",
+        "text": "Door Man"
+      },
+      {
+        "id": "C",
+        "text": "Porter"
+      },
+      {
+        "id": "D",
+        "text": "House Man"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "負責旅館內嚮導、傳達、找人及其他零瑣差使是 Page Boy Door Man Porter House Man 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2322
+  }
+}

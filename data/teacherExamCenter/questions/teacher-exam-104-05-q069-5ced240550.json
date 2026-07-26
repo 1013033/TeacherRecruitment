@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q069-5ced240550",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 69 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-12910",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 69,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是 Cappuccino 的原料？",
+    "options": [
+      {
+        "id": "A",
+        "text": "熱咖啡"
+      },
+      {
+        "id": "B",
+        "text": "泡沫鮮奶油"
+      },
+      {
+        "id": "C",
+        "text": "巧克力粉"
+      },
+      {
+        "id": "D",
+        "text": "肉桂粉。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、cappuccino"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是 Cappuccino 的原料？ 熱咖啡 泡沫鮮奶油 巧克力粉 肉桂粉。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 674
+  }
+}

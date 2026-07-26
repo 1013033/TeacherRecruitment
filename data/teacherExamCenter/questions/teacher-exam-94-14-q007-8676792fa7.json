@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q007-8676792fa7",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 7 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-7888",
+    "paperTitle": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "外交部領事事務局建立「國外旅遊預警分級制」，將目前對旅客安全有影響之國家及地區，以顏色分為幾級？",
+    "options": [
+      {
+        "id": "A",
+        "text": "五級"
+      },
+      {
+        "id": "B",
+        "text": "四級"
+      },
+      {
+        "id": "C",
+        "text": "三級"
+      },
+      {
+        "id": "D",
+        "text": "二級。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "外交部領事事務局建立「國外旅遊預警分級制」，將目前對旅客安全有影響之國家及地區，以顏色分為幾級？ 五級 四級 三級 二級。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2099
+  }
+}

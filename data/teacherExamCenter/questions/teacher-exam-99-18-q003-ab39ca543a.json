@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q003-ab39ca543a",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 3 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-16490",
+    "paperTitle": "一、單選題（每題二分，共四十分）",
+    "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "培根片是取用何部位豬肉製成的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "後腿部"
+      },
+      {
+        "id": "B",
+        "text": "前腿部"
+      },
+      {
+        "id": "C",
+        "text": "腰肉部"
+      },
+      {
+        "id": "D",
+        "text": "腹肉部。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "培根片是取用何部位豬肉製成的？ 後腿部 前腿部 腰肉部 腹肉部。 其他：待人工審核 待人工審核",
+    "sequence": 2929
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q043-86efffebd9",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 43 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-24202",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 43,
+    "questionType": "multiple-choice",
+    "prompt": "以下哪些咖啡飲品以義式咖啡（Espresso）為基底？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Caramel Macchiato"
+      },
+      {
+        "id": "B",
+        "text": "Café lait (以滴濾咖啡/法式濾壓壺咖啡為底)"
+      },
+      {
+        "id": "C",
+        "text": "Flat White"
+      },
+      {
+        "id": "D",
+        "text": "Con Panna"
+      },
+      {
+        "id": "E",
+        "text": "Café Mocha"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、義式、espresso"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下哪些咖啡飲品以義式咖啡（Espresso）為基底？ Caramel Macchiato Café lait (以滴濾咖啡/法式濾壓壺咖啡為底) Flat White Con Panna Café Mocha 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1838
+  }
+}

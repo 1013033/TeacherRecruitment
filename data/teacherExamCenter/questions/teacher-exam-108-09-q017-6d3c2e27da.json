@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q017-6d3c2e27da",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 17 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-2140",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "「鄰近繁華、熱鬧的西門町商圈,旅人可輕鬆暢遊臺北市最具歷史故事的景點,體驗臺味新潮文化之餘,亦可品嘗道地美食。」根據上述旅館簡介,可推測此型態旅館為下列何種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Green Hotel"
+      },
+      {
+        "id": "B",
+        "text": "Villa"
+      },
+      {
+        "id": "C",
+        "text": "Commercial Hotel"
+      },
+      {
+        "id": "D",
+        "text": "Resort Hotel"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「鄰近繁華、熱鬧的西門町商圈,旅人可輕鬆暢遊臺北市最具歷史故事的景點,體驗臺味新潮文化之餘,亦可品嘗道地美食。」根據上述旅館簡介,可推測此型態旅館為下列何種？ Green Hotel Villa Commercial Hotel Resort Hotel 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1377
+  }
+}

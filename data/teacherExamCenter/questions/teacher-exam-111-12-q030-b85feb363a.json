@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q030-b85feb363a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 30 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-21939",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 30,
+    "questionType": "multiple-choice",
+    "prompt": "根據外交部 98 年發布新修正之「國外旅遊警示分級表」，警示顏色與其定義分別為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "灰色警示-提醒注意"
+      },
+      {
+        "id": "B",
+        "text": "黃色警示-特別注意旅遊安全並檢討應否前往"
+      },
+      {
+        "id": "C",
+        "text": "灰色警示-高度小心"
+      },
+      {
+        "id": "D",
+        "text": "紅色警示-不宜前往，宜儘速離境"
+      },
+      {
+        "id": "E",
+        "text": "橙色警示-避免非必要旅行"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據外交部 98 年發布新修正之「國外旅遊警示分級表」，警示顏色與其定義分別為： 灰色警示-提醒注意 黃色警示-特別注意旅遊安全並檢討應否前往 灰色警示-高度小心 紅色警示-不宜前往，宜儘速離境 橙色警示-避免非必要旅行 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1825
+  }
+}

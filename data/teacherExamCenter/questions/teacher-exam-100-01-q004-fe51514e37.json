@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q004-fe51514e37",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 4 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-9382",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "業務聯盟台灣地區國際觀光旅館的發展趨勢，台北君悅飯店是採",
+    "options": [
+      {
+        "id": "A",
+        "text": "Management Contract"
+      },
+      {
+        "id": "B",
+        "text": "Referral"
+      },
+      {
+        "id": "C",
+        "text": "Franchise"
+      },
+      {
+        "id": "D",
+        "text": "Company Owned。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "業務聯盟台灣地區國際觀光旅館的發展趨勢，台北君悅飯店是採 Management Contract Referral Franchise Company Owned。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 70
+  }
+}

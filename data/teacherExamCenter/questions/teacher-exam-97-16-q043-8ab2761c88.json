@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q043-8ab2761c88",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 43 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-33054",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "若將觀光的成分劃分為「觀光主體」、「觀光客體」及「觀光媒體」三大類，下列何者屬於「觀光客體」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "旅行社"
+      },
+      {
+        "id": "B",
+        "text": "觀光資源"
+      },
+      {
+        "id": "C",
+        "text": "航空公司"
+      },
+      {
+        "id": "D",
+        "text": "旅館。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "若將觀光的成分劃分為「觀光主體」、「觀光客體」及「觀光媒體」三大類，下列何者屬於「觀光客體」？ 旅行社 觀光資源 航空公司 旅館。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2638
+  }
+}

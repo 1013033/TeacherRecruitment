@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q039-865b2ef95f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 39 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-26921",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "西元1610年，中國的茶葉首次是經由何國商船輸往歐洲？",
+    "options": [
+      {
+        "id": "A",
+        "text": "西班牙"
+      },
+      {
+        "id": "B",
+        "text": "葡萄牙"
+      },
+      {
+        "id": "C",
+        "text": "荷蘭"
+      },
+      {
+        "id": "D",
+        "text": "英國。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西元1610年，中國的茶葉首次是經由何國商船輸往歐洲？ 西班牙 葡萄牙 荷蘭 英國。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 811
+  }
+}

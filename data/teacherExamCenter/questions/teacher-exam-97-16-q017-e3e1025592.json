@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q017-e3e1025592",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 17 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-9926",
+    "paperTitle": "二、單選題（1題1分，共76分）",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "餐飲服務領班應具備三個階層的管理技能，請依所列技能之高低比例排列：甲：理念性技能 乙：人際性技能 丙：技術性技能",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙"
+      },
+      {
+        "id": "B",
+        "text": "乙→丙→甲"
+      },
+      {
+        "id": "C",
+        "text": "丙→乙→甲"
+      },
+      {
+        "id": "D",
+        "text": "丙→甲→乙"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲服務領班應具備三個階層的管理技能，請依所列技能之高低比例排列：甲：理念性技能 乙：人際性技能 丙：技術性技能 甲→乙→丙 乙→丙→甲 丙→乙→甲 丙→甲→乙 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2387
+  }
+}

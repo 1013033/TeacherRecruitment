@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q030-0982515edc",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 30 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-4594",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "有關茶葉製作過程說明，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "萎凋：指茶菁失去水分的過程，目的在使茶葉細胞的化學成分氧化，萎凋決定茶葉色澤、香氣及滋味"
+      },
+      {
+        "id": "B",
+        "text": "發酵：指茶葉置於溫度35~40℃，相對溼度70%以上的發酵室1~3小時，茶葉發酵為茶單寧的氧化作用"
+      },
+      {
+        "id": "C",
+        "text": "殺菁：利用高溫破壞酵素活性，保持茶葉鮮綠色，便於揉捻成型與乾燥"
+      },
+      {
+        "id": "D",
+        "text": "揉捻：利用外力，使茶葉轉動相互摩擦，讓茶葉捲曲成條狀或揉成半球型、球型。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關茶葉製作過程說明，何者錯誤？ 萎凋：指茶菁失去水分的過程，目的在使茶葉細胞的化學成分氧化，萎凋決定茶葉色澤、香氣及滋味 發酵：指茶葉置於溫度35~40℃，相對溼度70%以上的發酵室1~3小時，茶葉發酵為茶單寧的氧化作用 殺菁：利用高溫破壞酵素活性，保持茶葉鮮綠色，便於揉捻成型與乾燥 揉捻：利用外力，使茶葉轉動相互摩擦，讓茶葉捲曲成條狀或揉成半球型、球型。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1670
+  }
+}

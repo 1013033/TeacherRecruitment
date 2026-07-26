@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q004-20ab472392",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 4 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-18561",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "臺鐵結合五星級酒店餐飲與商務頭等艙概念，於 2020 年底正式啟航之觀光列車為",
+    "options": [
+      {
+        "id": "A",
+        "text": "台灣號"
+      },
+      {
+        "id": "B",
+        "text": "明日號"
+      },
+      {
+        "id": "C",
+        "text": "銀河號"
+      },
+      {
+        "id": "D",
+        "text": "鳴日號"
+      },
+      {
+        "id": "E",
+        "text": "星光號"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "臺鐵結合五星級酒店餐飲與商務頭等艙概念，於 2020 年底正式啟航之觀光列車為 台灣號 明日號 銀河號 鳴日號 星光號 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1799
+  }
+}

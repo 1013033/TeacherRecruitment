@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q035-1b2648452e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 35 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-22976",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 35,
+    "questionType": "multiple-choice",
+    "prompt": "下列紅茶以及主要產地國之配對，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "阿薩姆紅茶：印度"
+      },
+      {
+        "id": "B",
+        "text": "錫蘭紅茶：印度 (錫蘭紅茶產於斯里蘭卡)"
+      },
+      {
+        "id": "C",
+        "text": "大吉嶺紅茶：印尼 (大吉嶺紅茶產於印度)"
+      },
+      {
+        "id": "D",
+        "text": "祁門紅茶：中國"
+      },
+      {
+        "id": "E",
+        "text": "烏瓦紅茶：斯里蘭卡"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列紅茶以及主要產地國之配對，何者錯誤？ 阿薩姆紅茶：印度 錫蘭紅茶：印度 (錫蘭紅茶產於斯里蘭卡) 大吉嶺紅茶：印尼 (大吉嶺紅茶產於印度) 祁門紅茶：中國 烏瓦紅茶：斯里蘭卡 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1830
+  }
+}

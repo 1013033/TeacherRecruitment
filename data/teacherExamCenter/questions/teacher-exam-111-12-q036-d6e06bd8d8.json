@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q036-d6e06bd8d8",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 36 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-23123",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 36,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者不是虹吸式咖啡壺（Syphon）的加熱方法？",
+    "options": [
+      {
+        "id": "A",
+        "text": "迷你瓦斯爐（登山爐）"
+      },
+      {
+        "id": "B",
+        "text": "酒精燈"
+      },
+      {
+        "id": "C",
+        "text": "光爐"
+      },
+      {
+        "id": "D",
+        "text": "家用瓦斯爐"
+      },
+      {
+        "id": "E",
+        "text": "微波爐"
+      }
+    ],
+    "answer": [
+      "D",
+      "E"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是虹吸式咖啡壺（Syphon）的加熱方法？ 迷你瓦斯爐（登山爐） 酒精燈 光爐 家用瓦斯爐 微波爐 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1831
+  }
+}

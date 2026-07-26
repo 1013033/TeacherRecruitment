@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q013-e6eefa27d7",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 13 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5621",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列信奉哪一個宗教的虔誠信徒不吃吉事漢堡（牛肉、乳酪片）？甲、印度教 乙、猶太教 丙、回教 丁、基督教",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙"
+      },
+      {
+        "id": "B",
+        "text": "甲丙"
+      },
+      {
+        "id": "C",
+        "text": "乙丙"
+      },
+      {
+        "id": "D",
+        "text": "甲丁。"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列信奉哪一個宗教的虔誠信徒不吃吉事漢堡（牛肉、乳酪片）？甲、印度教 乙、猶太教 丙、回教 丁、基督教 甲乙 甲丙 乙丙 甲丁。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 38
+  }
+}

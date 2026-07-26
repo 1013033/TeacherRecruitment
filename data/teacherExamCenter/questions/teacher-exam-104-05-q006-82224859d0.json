@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q006-82224859d0",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 6 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-927",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "檢測餐具是否洗淨，下列殘留物質檢查法的配對何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蛋白質殘留物檢查法：碘試液"
+      },
+      {
+        "id": "B",
+        "text": "澱粉性殘留物檢查法：1%花紺試液、10%鹽酸溶液、氯仿"
+      },
+      {
+        "id": "C",
+        "text": "脂肪性殘留物檢查法：蘇丹試液"
+      },
+      {
+        "id": "D",
+        "text": "ABS殘留物檢查法：寧海俊試劑。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "檢測餐具是否洗淨，下列殘留物質檢查法的配對何者正確？ 蛋白質殘留物檢查法：碘試液 澱粉性殘留物檢查法：1%花紺試液、10%鹽酸溶液、氯仿 脂肪性殘留物檢查法：蘇丹試液 ABS殘留物檢查法：寧海俊試劑。 其他：待人工審核 待人工審核",
+    "sequence": 583
+  }
+}

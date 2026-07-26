@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q034-2f4729253a",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 34 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-7515",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "甲、汽車旅館 乙、溫泉旅館 丙、機場過境旅館 丁、日租公寓。可供 Day Use 的為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "C",
+        "text": "甲、丙"
+      },
+      {
+        "id": "D",
+        "text": "甲、丁。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "甲、汽車旅館 乙、溫泉旅館 丙、機場過境旅館 丁、日租公寓。可供 Day Use 的為： 甲、乙、丙 乙、丙、丁 甲、丙 甲、丁。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 226
+  }
+}

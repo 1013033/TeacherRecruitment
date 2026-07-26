@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q031-86bbcca89a",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 31 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-4837",
+    "paperTitle": "二、多選題（全對才給分，每題2分，共10分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 31,
+    "questionType": "multiple-choice",
+    "prompt": "下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "製作冰奶泡需使用鮮奶油"
+      },
+      {
+        "id": "B",
+        "text": "熱飲的調製方法中，水果茶與花果茶適合使用沖煮法，才可讓水果、花草中的香氣充分展現"
+      },
+      {
+        "id": "C",
+        "text": "拿鐵咖啡和法式歐蕾咖啡的主要配方都是咖啡加鮮奶，兩者的差別主要在於前者以濃縮咖啡為基底，後者為一般熱咖啡"
+      },
+      {
+        "id": "D",
+        "text": "採用 63~65℃的溫度對食品進行30分鐘以上殺菌處理，此種方法被稱為超高溫瞬間殺菌法。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、拿鐵、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列敘述何者正確？ 製作冰奶泡需使用鮮奶油 熱飲的調製方法中，水果茶與花果茶適合使用沖煮法，才可讓水果、花草中的香氣充分展現 拿鐵咖啡和法式歐蕾咖啡的主要配方都是咖啡加鮮奶，兩者的差別主要在於前者以濃縮咖啡為基底，後者為一般熱咖啡 採用 63~65℃的溫度對食品進行30分鐘以上殺菌處理，此種方法被稱為超高溫瞬間殺菌法。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1671
+  }
+}

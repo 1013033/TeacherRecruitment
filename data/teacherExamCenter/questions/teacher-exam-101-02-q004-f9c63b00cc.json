@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q004-f9c63b00cc",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 4 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-447",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "中國菜因地域不同而形成各大菜系，下列菜系與所屬菜餚名稱的配對，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "京菜－京都排骨、五更腸旺、東坡肉"
+      },
+      {
+        "id": "B",
+        "text": "閩菜－夫妻肺片、回鍋肉、砂鍋魚頭"
+      },
+      {
+        "id": "C",
+        "text": "湘菜－烤素方、竹節鴿盅、東安子雞"
+      },
+      {
+        "id": "D",
+        "text": "浙菜－滑蛋蝦仁、乾燒明蝦、咕咾肉。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中國菜因地域不同而形成各大菜系，下列菜系與所屬菜餚名稱的配對，何者正確？ 京菜－京都排骨、五更腸旺、東坡肉 閩菜－夫妻肺片、回鍋肉、砂鍋魚頭 湘菜－烤素方、竹節鴿盅、東安子雞 浙菜－滑蛋蝦仁、乾燒明蝦、咕咾肉。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 164
+  }
+}

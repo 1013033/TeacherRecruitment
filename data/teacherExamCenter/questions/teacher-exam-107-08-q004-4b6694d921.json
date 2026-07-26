@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q004-4b6694d921",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 4 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-1192",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "關於旅館客衣洗滌方式之敘述，下例何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "普通洗：約需12小時"
+      },
+      {
+        "id": "B",
+        "text": "加急快洗：1~2小時內完成的加急快洗服務"
+      },
+      {
+        "id": "C",
+        "text": "快燙：4個小時之內完成的快燙服務"
+      },
+      {
+        "id": "D",
+        "text": "快洗、快燙服務價格比普通洗高出50%。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館客衣洗滌方式之敘述，下例何者為非？ 普通洗：約需12小時 加急快洗：1~2小時內完成的加急快洗服務 快燙：4個小時之內完成的快燙服務 快洗、快燙服務價格比普通洗高出50%。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1315
+  }
+}

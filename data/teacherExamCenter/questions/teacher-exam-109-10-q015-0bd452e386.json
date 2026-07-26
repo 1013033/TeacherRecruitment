@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q015-0bd452e386",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 15 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-5365",
+    "paperTitle": "一、單選題（共20題，每題2分）",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "請將下列美國牛肉等級由高至低排列：甲：Standard級、乙：Choice級、丙：Prime級、丁：Select級",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲>乙>丙>丁"
+      },
+      {
+        "id": "B",
+        "text": "丙>乙>丁>甲"
+      },
+      {
+        "id": "C",
+        "text": "乙>丁>丙>甲"
+      },
+      {
+        "id": "D",
+        "text": "丁>丙>甲>乙"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請將下列美國牛肉等級由高至低排列：甲：Standard級、乙：Choice級、丙：Prime級、丁：Select級 甲>乙>丙>丁 丙>乙>丁>甲 乙>丁>丙>甲 丁>丙>甲>乙 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1557
+  }
+}

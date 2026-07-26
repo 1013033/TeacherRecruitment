@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q020-a033f8a9ad",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 20 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-12043",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "Receptionist: C. C. Hotel. May I help you? Guest: Yes, I'd like to reserve a double room. Receptionist: What date? Guest: December 31st to January 3rd. Receptionist: May I have your name, Sir? Guest: My name is Jey Wang. Receptionist: Thank you, Mr. Wang. Your confirmation number is 01234567.",
+    "options": [
+      {
+        "id": "A",
+        "text": "confirmation number"
+      },
+      {
+        "id": "B",
+        "text": "phone number"
+      },
+      {
+        "id": "C",
+        "text": "room number"
+      },
+      {
+        "id": "D",
+        "text": "book room number."
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：hotel、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Receptionist: C. C. Hotel. May I help you? Guest: Yes, I'd like to reserve a double room. Receptionist: What date? Guest: December 31st to January 3rd. Receptionist: May I have your name, Sir? Guest: My name is Jey Wang. Receptionist: Thank you, Mr. Wang. Your confirmation number is 01234567. confirmation number phone number room number book room number. 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1148
+  }
+}

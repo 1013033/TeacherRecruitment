@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q013-ecdc864e54",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 13 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-7776",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列哪一杯雞尾酒的裝飾物(garnish)是錯誤的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Martini: Onion"
+      },
+      {
+        "id": "B",
+        "text": "Manhattan: cherry"
+      },
+      {
+        "id": "C",
+        "text": "Pink Lady: lemon peel"
+      },
+      {
+        "id": "D",
+        "text": "Alexander: nutmeg powder。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、martini、manhattan"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一杯雞尾酒的裝飾物(garnish)是錯誤的？ Martini: Onion Manhattan: cherry Pink Lady: lemon peel Alexander: nutmeg powder。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1011
+  }
+}

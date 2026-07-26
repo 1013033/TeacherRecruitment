@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q019-dc5e6c281c",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 19 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-8537",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "讓上班及上課的人在有限時間內解決民生問題的餐館是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "family restaurant"
+      },
+      {
+        "id": "B",
+        "text": "filling restaurant"
+      },
+      {
+        "id": "C",
+        "text": "gourmet restaurant"
+      },
+      {
+        "id": "D",
+        "text": "specialty restaurant。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：restaurant"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "讓上班及上課的人在有限時間內解決民生問題的餐館是： family restaurant filling restaurant gourmet restaurant specialty restaurant。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 455
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q024-f6e26f960a",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 24 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-5108",
+    "paperTitle": "未標示試卷",
+    "schoolName": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+    "questionNumber": 24,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者為喜達屋酒店集團(Starwood Hotels & Resort Worldwide Inc.)旗下品牌？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aloft"
+      },
+      {
+        "id": "B",
+        "text": "Andaz"
+      },
+      {
+        "id": "C",
+        "text": "Crowne Plaza"
+      },
+      {
+        "id": "D",
+        "text": "Le Méridien。"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者為喜達屋酒店集團(Starwood Hotels & Resort Worldwide Inc.)旗下品牌？ Aloft Andaz Crowne Plaza Le Méridien。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 992
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q006-f766ac3c8c",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 6 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-1207",
+    "paperTitle": "一、單選題",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "赫茲伯格（Fredrick Herzberg）所提出之二因子理論（Two Factor Theory）中的「保健因子」，不包括下列哪一項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "薪資待遇"
+      },
+      {
+        "id": "B",
+        "text": "主管賞識"
+      },
+      {
+        "id": "C",
+        "text": "主管督導技巧"
+      },
+      {
+        "id": "D",
+        "text": "人際關係。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "赫茲伯格（Fredrick Herzberg）所提出之二因子理論（Two Factor Theory）中的「保健因子」，不包括下列哪一項？ 薪資待遇 主管賞識 主管督導技巧 人際關係。 其他：待人工審核 待人工審核",
+    "sequence": 1083
+  }
+}

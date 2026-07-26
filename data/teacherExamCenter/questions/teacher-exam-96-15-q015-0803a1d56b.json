@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q015-0803a1d56b",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 15 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-7012",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "「對個別旅客或自由行旅客之行程規劃與安排」是銷售部哪一項之職責？",
+    "options": [
+      {
+        "id": "A",
+        "text": "O/P"
+      },
+      {
+        "id": "B",
+        "text": "T/P"
+      },
+      {
+        "id": "C",
+        "text": "R/C"
+      },
+      {
+        "id": "D",
+        "text": "D/S。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "「對個別旅客或自由行旅客之行程規劃與安排」是銷售部哪一項之職責？ O/P T/P R/C D/S。 其他：待人工審核 待人工審核",
+    "sequence": 2232
+  }
+}

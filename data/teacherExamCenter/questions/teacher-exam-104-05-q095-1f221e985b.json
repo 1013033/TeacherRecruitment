@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q095-1f221e985b",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 95 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-15035",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 95,
+    "questionType": "single-choice",
+    "prompt": "法國的 Syrah 紅葡萄品種，傳到新世界後，由哪個國家首先將之稱為 Shiraz？",
+    "options": [
+      {
+        "id": "A",
+        "text": "南非"
+      },
+      {
+        "id": "B",
+        "text": "智利"
+      },
+      {
+        "id": "C",
+        "text": "阿根廷"
+      },
+      {
+        "id": "D",
+        "text": "澳洲。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "法國的 Syrah 紅葡萄品種，傳到新世界後，由哪個國家首先將之稱為 Shiraz？ 南非 智利 阿根廷 澳洲。 其他：待人工審核 待人工審核",
+    "sequence": 700
+  }
+}

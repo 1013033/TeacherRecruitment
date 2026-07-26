@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q009-942617e053",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 9 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-14493",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列有關國家公園的描述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "關子嶺位於茂林國家風景區"
+      },
+      {
+        "id": "B",
+        "text": "參山國家風景區包含獅頭山、八卦山、梨山"
+      },
+      {
+        "id": "C",
+        "text": "馬祖國家風景區以閩南建築最有名"
+      },
+      {
+        "id": "D",
+        "text": "阿里山有三奇：日出、邵族、火車。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列有關國家公園的描述何者正確？ 關子嶺位於茂林國家風景區 參山國家風景區包含獅頭山、八卦山、梨山 馬祖國家風景區以閩南建築最有名 阿里山有三奇：日出、邵族、火車。 其他：待人工審核 待人工審核",
+    "sequence": 491
+  }
+}

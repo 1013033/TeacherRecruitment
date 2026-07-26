@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q036-348930867a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 36 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-29425",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "有關酒類的特性，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蒸餾酒的酒精含量約在 25%-60%"
+      },
+      {
+        "id": "B",
+        "text": "釀造酒以穀類或水果為原料，進行酒精發酵而裂成"
+      },
+      {
+        "id": "C",
+        "text": "添加乳酸菌進行發酵也為釀造酒的製作方式"
+      },
+      {
+        "id": "D",
+        "text": "再製酒為在釀造酒或蒸餾酒中，浸泡香辛料、中藥材等所製出的合成酒"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關酒類的特性，下列敘述何者錯誤？ 蒸餾酒的酒精含量約在 25%-60% 釀造酒以穀類或水果為原料，進行酒精發酵而裂成 添加乳酸菌進行發酵也為釀造酒的製作方式 再製酒為在釀造酒或蒸餾酒中，浸泡香辛料、中藥材等所製出的合成酒 其他：待人工審核 待人工審核",
+    "sequence": 1882
+  }
+}

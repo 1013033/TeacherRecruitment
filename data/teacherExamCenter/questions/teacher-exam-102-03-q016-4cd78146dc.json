@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q016-4cd78146dc",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 16 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-15484",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "下列關於各旅館種類的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Resort Hotel 有多樣的休閒娛樂設施"
+      },
+      {
+        "id": "B",
+        "text": "Apartment Hotel 較可能有廚房設備"
+      },
+      {
+        "id": "C",
+        "text": "Business Hotel 之住房淡旺季比其他類型旅館明顯"
+      },
+      {
+        "id": "D",
+        "text": "Motel 的營業收入甚少來自餐飲。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列關於各旅館種類的敘述，何者錯誤？ Resort Hotel 有多樣的休閒娛樂設施 Apartment Hotel 較可能有廚房設備 Business Hotel 之住房淡旺季比其他類型旅館明顯 Motel 的營業收入甚少來自餐飲。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 498
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q016-9f279048c2",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 16 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-13760",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "西餐中上菜「同上同下」的服務原則是指：",
+    "options": [
+      {
+        "id": "A",
+        "text": "同時上的菜須同時收拾"
+      },
+      {
+        "id": "B",
+        "text": "有一位客人用完餐便立刻上前收拾"
+      },
+      {
+        "id": "C",
+        "text": "相同的菜餚才需要同時收拾"
+      },
+      {
+        "id": "D",
+        "text": "每位客人的主菜可以不必同時出菜。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐中上菜「同上同下」的服務原則是指： 同時上的菜須同時收拾 有一位客人用完餐便立刻上前收拾 相同的菜餚才需要同時收拾 每位客人的主菜可以不必同時出菜。 其他：待人工審核 待人工審核",
+    "sequence": 113
+  }
+}

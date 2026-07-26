@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q031-b5c9d429af",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 31 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-23394",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "西元 17 至 19 世紀，歐洲其上流家庭子弟在完成學業時而作的歐陸周遊旅行，稱之為",
+    "options": [
+      {
+        "id": "A",
+        "text": "The Package Tour"
+      },
+      {
+        "id": "B",
+        "text": "The Grand Tour"
+      },
+      {
+        "id": "C",
+        "text": "The Class Tour"
+      },
+      {
+        "id": "D",
+        "text": "Backpack Tour。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西元 17 至 19 世紀，歐洲其上流家庭子弟在完成學業時而作的歐陸周遊旅行，稱之為 The Package Tour The Grand Tour The Class Tour Backpack Tour。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 385
+  }
+}

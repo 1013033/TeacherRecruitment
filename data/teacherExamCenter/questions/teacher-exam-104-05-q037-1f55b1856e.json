@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q037-1f55b1856e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 37 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-9131",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "1926年 Michelin 開始刊登優良餐廳名單，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "始於義大利是挑選餐廳的聖經"
+      },
+      {
+        "id": "B",
+        "text": "★★★ Excellent cooking, worth a detour."
+      },
+      {
+        "id": "C",
+        "text": "★★ Exceptional cuisine, worth a special journey."
+      },
+      {
+        "id": "D",
+        "text": "★ A very good restaurant in its category."
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、restaurant"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "1926年 Michelin 開始刊登優良餐廳名單，下列何者正確？ 始於義大利是挑選餐廳的聖經 ★★★ Excellent cooking, worth a detour. ★★ Exceptional cuisine, worth a special journey. ★ A very good restaurant in its category. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 642
+  }
+}

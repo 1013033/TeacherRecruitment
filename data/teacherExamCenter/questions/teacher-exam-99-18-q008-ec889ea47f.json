@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q008-ec889ea47f",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 8 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-1198",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "觀光旅館之建築及設備標準，由中央主管機關會同哪一個機關判定之？",
+    "options": [
+      {
+        "id": "A",
+        "text": "財政部"
+      },
+      {
+        "id": "B",
+        "text": "交通部"
+      },
+      {
+        "id": "C",
+        "text": "內政部"
+      },
+      {
+        "id": "D",
+        "text": "經濟部"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "觀光旅館之建築及設備標準，由中央主管機關會同哪一個機關判定之？ 財政部 交通部 內政部 經濟部 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2794
+  }
+}

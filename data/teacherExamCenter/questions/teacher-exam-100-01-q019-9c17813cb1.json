@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q019-9c17813cb1",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 19 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-14252",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列那些菜餚的餐桌佈設，需另附上洗指盅？ (1) Oyster (2) Mussels (3) Half Grapefruit (4) Risotto (5) Artichokes (6) Shellfish Cocktail (7) Escargot in shells (8) Foie Gras",
+    "options": [
+      {
+        "id": "A",
+        "text": "(1)(2)(3)(6)(7)(8)"
+      },
+      {
+        "id": "B",
+        "text": "(1)(3)(4)(5)(6)(7)"
+      },
+      {
+        "id": "C",
+        "text": "(1)(3)(5)(6)(7)(8)"
+      },
+      {
+        "id": "D",
+        "text": "(1)(2)(3)(5)(6)(7)。"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：risotto、escargot、foie gras"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列那些菜餚的餐桌佈設，需另附上洗指盅？ (1) Oyster (2) Mussels (3) Half Grapefruit (4) Risotto (5) Artichokes (6) Shellfish Cocktail (7) Escargot in shells (8) Foie Gras (1)(2)(3)(6)(7)(8) (1)(3)(4)(5)(6)(7) (1)(3)(5)(6)(7)(8) (1)(2)(3)(5)(6)(7)。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 116
+  }
+}

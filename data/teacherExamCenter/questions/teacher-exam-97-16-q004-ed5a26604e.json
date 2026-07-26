@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q004-ed5a26604e",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 4 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-19561",
+    "paperTitle": "一、單選題（40 題每題 2 分共計 80 分）",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "辦理客人遷入遷出手續，提供住宿客人諮詢服務、外幣兌換事宜的是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uniformed Services"
+      },
+      {
+        "id": "B",
+        "text": "Reception"
+      },
+      {
+        "id": "C",
+        "text": "Switch Board"
+      },
+      {
+        "id": "D",
+        "text": "Reservation。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿、reservation"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "辦理客人遷入遷出手續，提供住宿客人諮詢服務、外幣兌換事宜的是？ Uniformed Services Reception Switch Board Reservation。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2482
+  }
+}

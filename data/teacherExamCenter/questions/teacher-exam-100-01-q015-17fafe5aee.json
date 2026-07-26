@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q015-17fafe5aee",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 15 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5814",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "Caesar Salad 是一道美國的代表性沙拉，也是一道桌邊烹調中不點火的常見料理，請問其材料下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anchovy"
+      },
+      {
+        "id": "B",
+        "text": "Egg Yolk"
+      },
+      {
+        "id": "C",
+        "text": "Ham"
+      },
+      {
+        "id": "D",
+        "text": "Romaine Lettuce。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、沙拉、ham、anchovy、salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Caesar Salad 是一道美國的代表性沙拉，也是一道桌邊烹調中不點火的常見料理，請問其材料下列何者為非？ Anchovy Egg Yolk Ham Romaine Lettuce。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 40
+  }
+}

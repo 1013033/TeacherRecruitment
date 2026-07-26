@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q009-5e09bcf215",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 9 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-9948",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "依據燃燒物質的不同，火災分為四類，因電器用品、變壓器、電壓配線等等電器設備所引發之火災是屬於哪一類火災？",
+    "options": [
+      {
+        "id": "A",
+        "text": "D 型火災"
+      },
+      {
+        "id": "B",
+        "text": "C 型火災"
+      },
+      {
+        "id": "C",
+        "text": "B 型火災"
+      },
+      {
+        "id": "D",
+        "text": "A 型火災。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據燃燒物質的不同，火災分為四類，因電器用品、變壓器、電壓配線等等電器設備所引發之火災是屬於哪一類火災？ D 型火災 C 型火災 B 型火災 A 型火災。 其他：待人工審核 待人工審核",
+    "sequence": 75
+  }
+}

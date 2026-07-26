@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q009-600aeb7d64",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 9 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-11120",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "干邑白蘭地（Cognac）與雅邑白蘭地（Armagnac）的不同，下列敘述何者是錯誤的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "干邑區位於法國西南部，而雅邑區位於法國干邑區的南方"
+      },
+      {
+        "id": "B",
+        "text": "Armagnac 採低溫蒸餾，有更濃郁的香味及芬芳"
+      },
+      {
+        "id": "C",
+        "text": "Cognac 採單次蒸餾，Armagnac 採二次蒸餾"
+      },
+      {
+        "id": "D",
+        "text": "二者皆為品質優異的白蘭地，卻有不同的特性，其中 Armagnac 的產區比較小。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：干邑、白蘭地、cognac"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "干邑白蘭地（Cognac）與雅邑白蘭地（Armagnac）的不同，下列敘述何者是錯誤的？ 干邑區位於法國西南部，而雅邑區位於法國干邑區的南方 Armagnac 採低溫蒸餾，有更濃郁的香味及芬芳 Cognac 採單次蒸餾，Armagnac 採二次蒸餾 二者皆為品質優異的白蘭地，卻有不同的特性，其中 Armagnac 的產區比較小。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 471
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q005-426f9e774b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 5 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-914",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "有關中國各菜系之特色菜，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "江浙菜特色菜包含東坡肉、問政筍。"
+      },
+      {
+        "id": "B",
+        "text": "廣東菜特色菜包含京都排骨、龍井蝦仁。"
+      },
+      {
+        "id": "C",
+        "text": "湖南菜特色菜包含東安子雞、臘味合蒸。"
+      },
+      {
+        "id": "D",
+        "text": "北平菜特色菜包含京醬肉絲、母油船鴨。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關中國各菜系之特色菜，下列何者正確？ 江浙菜特色菜包含東坡肉、問政筍。 廣東菜特色菜包含京都排骨、龍井蝦仁。 湖南菜特色菜包含東安子雞、臘味合蒸。 北平菜特色菜包含京醬肉絲、母油船鴨。 其他：待人工審核 待人工審核",
+    "sequence": 1692
+  }
+}

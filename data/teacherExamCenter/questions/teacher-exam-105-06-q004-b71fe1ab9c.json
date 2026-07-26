@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q004-b71fe1ab9c",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 4 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-6825",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "被譽為「西餐之父」的廚師是指？",
+    "options": [
+      {
+        "id": "A",
+        "text": "約翰霍普金斯(Johns Hopkins)"
+      },
+      {
+        "id": "B",
+        "text": "希波克拉底(Hippcrates)"
+      },
+      {
+        "id": "C",
+        "text": "愛斯可非(Auguste Escoffier)"
+      },
+      {
+        "id": "D",
+        "text": "安東尼·卡雷姆(Antoine Carême)。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "被譽為「西餐之父」的廚師是指？ 約翰霍普金斯(Johns Hopkins) 希波克拉底(Hippcrates) 愛斯可非(Auguste Escoffier) 安東尼·卡雷姆(Antoine Carême)。 其他：待人工審核 待人工審核",
+    "sequence": 1002
+  }
+}

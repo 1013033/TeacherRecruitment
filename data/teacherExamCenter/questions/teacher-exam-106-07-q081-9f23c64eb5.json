@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q081-9f23c64eb5",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 81 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24064",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 81,
+    "questionType": "single-choice",
+    "prompt": "關於「Bourbon Whiskey」，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "必須使用 80% 以上的玉米釀製"
+      },
+      {
+        "id": "B",
+        "text": "原產於美國肯塔基州"
+      },
+      {
+        "id": "C",
+        "text": "為紀念法國波旁王朝而命名"
+      },
+      {
+        "id": "D",
+        "text": "剛蒸餾出的酒原液酒精濃度不得超過 80%。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於「Bourbon Whiskey」，下列敘述何者錯誤？ 必須使用 80% 以上的玉米釀製 原產於美國肯塔基州 為紀念法國波旁王朝而命名 剛蒸餾出的酒原液酒精濃度不得超過 80%。 其他：待人工審核 待人工審核",
+    "sequence": 1260
+  }
+}

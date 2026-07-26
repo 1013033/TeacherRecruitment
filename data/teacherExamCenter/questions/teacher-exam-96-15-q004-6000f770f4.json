@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q004-6000f770f4",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 4 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-371",
+    "paperTitle": "教師甄選參考題目(餐飲科)",
+    "schoolName": "教師甄選參考題目(餐飲科)",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "丁骨牛排為牛的：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rib肋脊部"
+      },
+      {
+        "id": "B",
+        "text": "Round後腿部"
+      },
+      {
+        "id": "C",
+        "text": "Sirloin後腰脊部"
+      },
+      {
+        "id": "D",
+        "text": "Short Loin前腰脊部。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "丁骨牛排為牛的： Rib肋脊部 Round後腿部 Sirloin後腰脊部 Short Loin前腰脊部。 其他：待人工審核 待人工審核",
+    "sequence": 2166
+  }
+}

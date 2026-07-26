@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q011-e1ca5566a9",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 11 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-14745",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "關於中國各地不同的飲食風味，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "東甜、西鹹、北辣、南酸"
+      },
+      {
+        "id": "B",
+        "text": "西北：羶酪區、兩廣：蛇羹區"
+      },
+      {
+        "id": "C",
+        "text": "山東菜以擅用紅糟聞名"
+      },
+      {
+        "id": "D",
+        "text": "佛跳牆為安徽著名代表菜。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於中國各地不同的飲食風味，下列何者正確？ 東甜、西鹹、北辣、南酸 西北：羶酪區、兩廣：蛇羹區 山東菜以擅用紅糟聞名 佛跳牆為安徽著名代表菜。 其他：待人工審核 待人工審核",
+    "sequence": 493
+  }
+}

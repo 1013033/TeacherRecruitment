@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q034-0ed7c0e76b",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 34 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-5655",
+    "paperTitle": "二、多選題（全對才給分，每題2分，共10分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 34,
+    "questionType": "multiple-choice",
+    "prompt": "讚壽司店新開幕，推出薄利多銷的19元壽司，一天可以賣上千個。試問讚壽司採用哪兩種訂價策略？",
+    "options": [
+      {
+        "id": "A",
+        "text": "吸脂訂價法"
+      },
+      {
+        "id": "B",
+        "text": "差別訂價法"
+      },
+      {
+        "id": "C",
+        "text": "畸零訂價法"
+      },
+      {
+        "id": "D",
+        "text": "滲透訂價法。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "讚壽司店新開幕，推出薄利多銷的19元壽司，一天可以賣上千個。試問讚壽司採用哪兩種訂價策略？ 吸脂訂價法 差別訂價法 畸零訂價法 滲透訂價法。 其他：待人工審核 待人工審核",
+    "sequence": 1674
+  }
+}

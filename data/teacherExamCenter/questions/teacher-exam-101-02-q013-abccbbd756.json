@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q013-abccbbd756",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 13 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-1737",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "______ is a kind of dressing for vegetables salad.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Orange Juice"
+      },
+      {
+        "id": "B",
+        "text": "Thousand Island"
+      },
+      {
+        "id": "C",
+        "text": "Jasmine Tea"
+      },
+      {
+        "id": "D",
+        "text": "Ginger Ale。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "______ is a kind of dressing for vegetables salad. Orange Juice Thousand Island Jasmine Tea Ginger Ale。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 173
+  }
+}

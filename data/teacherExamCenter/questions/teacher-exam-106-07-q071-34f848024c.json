@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q071-34f848024c",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 71 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-23033",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 71,
+    "questionType": "single-choice",
+    "prompt": "下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "茶、咖啡及可可以外的飲料若含咖啡因，其咖啡因含量不得超過 320ppm"
+      },
+      {
+        "id": "B",
+        "text": "果蔬汁飲料是指含天然果蔬汁或還原果蔬汁 10% 以上者"
+      },
+      {
+        "id": "C",
+        "text": "成人每天對水分的需求量應維持每公斤補充 30-35ml 的水分為宜"
+      },
+      {
+        "id": "D",
+        "text": "可飲用的酒精學名為乙醇（Ethyl），血液中乙醇含量超過一定比例時並無礙，甲醇含量超過一定濃度時才會中毒。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列敘述何者錯誤？ 茶、咖啡及可可以外的飲料若含咖啡因，其咖啡因含量不得超過 320ppm 果蔬汁飲料是指含天然果蔬汁或還原果蔬汁 10% 以上者 成人每天對水分的需求量應維持每公斤補充 30-35ml 的水分為宜 可飲用的酒精學名為乙醇（Ethyl），血液中乙醇含量超過一定比例時並無礙，甲醇含量超過一定濃度時才會中毒。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1250
+  }
+}

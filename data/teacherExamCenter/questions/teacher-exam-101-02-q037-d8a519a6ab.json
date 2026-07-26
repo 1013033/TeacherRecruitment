@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q037-d8a519a6ab",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 37 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-7846",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "李大仁夫妻到法國度蜜月，享用當地傳統菜單（classic menu）佳餚，請依其上菜順序排列，完成用餐。甲、Hors D'oeuvre Froid；乙、Sorbets；丙、Potage；丁、Poisson；戊、Entree Froid；己、Entremets；庚、Rôti；辛、Entree Chaude",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→丙→丁→戊→辛→乙→庚→己"
+      },
+      {
+        "id": "B",
+        "text": "甲→丙→丁→乙→辛→戊→庚"
+      },
+      {
+        "id": "C",
+        "text": "甲→丙→丁→庚→己→乙→辛→戊"
+      },
+      {
+        "id": "D",
+        "text": "甲→丙→丁→辛→戊→乙→庚→己。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單、menu"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "李大仁夫妻到法國度蜜月，享用當地傳統菜單（classic menu）佳餚，請依其上菜順序排列，完成用餐。甲、Hors D'oeuvre Froid；乙、Sorbets；丙、Potage；丁、Poisson；戊、Entree Froid；己、Entremets；庚、Rôti；辛、Entree Chaude 甲→丙→丁→戊→辛→乙→庚→己 甲→丙→丁→乙→辛→戊→庚 甲→丙→丁→庚→己→乙→辛→戊 甲→丙→丁→辛→戊→乙→庚→己。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 229
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q001-f43d646d90",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 1 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-21580",
+    "paperTitle": "一、選擇題 10%",
+    "schoolName": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "建立廚房組織編制，使廚房分工更明確的法國廚師是",
+    "options": [
+      {
+        "id": "A",
+        "text": "Francois"
+      },
+      {
+        "id": "B",
+        "text": "Careme"
+      },
+      {
+        "id": "C",
+        "text": "Fernand"
+      },
+      {
+        "id": "D",
+        "text": "Escoffier."
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "建立廚房組織編制，使廚房分工更明確的法國廚師是 Francois Careme Fernand Escoffier. 其他：待人工審核 待人工審核",
+    "sequence": 760
+  }
+}

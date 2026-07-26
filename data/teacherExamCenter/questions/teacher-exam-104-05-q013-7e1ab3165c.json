@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q013-7e1ab3165c",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 13 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-1989",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "有關「English Service」的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "又稱為「Platter Service」"
+      },
+      {
+        "id": "B",
+        "text": "服務的原則是以逆時針方向從顧客左側放置空盤"
+      },
+      {
+        "id": "C",
+        "text": "是一種迅速且有效的服務方式"
+      },
+      {
+        "id": "D",
+        "text": "對於柔軟易碎的食物（如魚、煎蛋捲）不易做分菜服務。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關「English Service」的敘述，下列何者錯誤？ 又稱為「Platter Service」 服務的原則是以逆時針方向從顧客左側放置空盤 是一種迅速且有效的服務方式 對於柔軟易碎的食物（如魚、煎蛋捲）不易做分菜服務。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 590
+  }
+}

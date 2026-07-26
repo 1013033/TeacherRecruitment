@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q043-a64eb30651",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 43 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-10004",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "關於食物衛生與安全，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "以沙門氏菌毒性最強致命性最高"
+      },
+      {
+        "id": "B",
+        "text": "腸炎弧菌感染途徑是海鮮類"
+      },
+      {
+        "id": "C",
+        "text": "金黃色葡萄球菌來自有傷口膿瘡者"
+      },
+      {
+        "id": "D",
+        "text": "仙人桿菌的感染是煮熟食品放室溫受污染。"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煮"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於食物衛生與安全，下列何者錯誤？ 以沙門氏菌毒性最強致命性最高 腸炎弧菌感染途徑是海鮮類 金黃色葡萄球菌來自有傷口膿瘡者 仙人桿菌的感染是煮熟食品放室溫受污染。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 648
+  }
+}

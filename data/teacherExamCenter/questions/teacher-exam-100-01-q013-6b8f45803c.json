@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q013-6b8f45803c",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 13 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-10347",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "在服務品質（SERVQUAL）量表的構面中，有關「員工有足夠的知識以回應顧客的問題」項目，屬於下列何種構面？",
+    "options": [
+      {
+        "id": "A",
+        "text": "保證性"
+      },
+      {
+        "id": "B",
+        "text": "可靠性"
+      },
+      {
+        "id": "C",
+        "text": "關懷性"
+      },
+      {
+        "id": "D",
+        "text": "反應性。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：服務品質、servqual"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在服務品質（SERVQUAL）量表的構面中，有關「員工有足夠的知識以回應顧客的問題」項目，屬於下列何種構面？ 保證性 可靠性 關懷性 反應性。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 79
+  }
+}

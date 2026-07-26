@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q026-4da9bbd813",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 26 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-6596",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "以下何者與 Twin Double Room 所能提供住宿人數相同？A. Double-double Room B. Triple Room C. Deluxe Single Room D. Quad Room",
+    "options": [
+      {
+        "id": "A",
+        "text": "A、D"
+      },
+      {
+        "id": "B",
+        "text": "B、C、D"
+      },
+      {
+        "id": "C",
+        "text": "A、C、D"
+      },
+      {
+        "id": "D",
+        "text": "B、D。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下何者與 Twin Double Room 所能提供住宿人數相同？A. Double-double Room B. Triple Room C. Deluxe Single Room D. Quad Room A、D B、C、D A、C、D B、D。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 218
+  }
+}

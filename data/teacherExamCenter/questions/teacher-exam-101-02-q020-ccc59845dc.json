@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q020-ccc59845dc",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 20 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-2789",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "西式餐桌擺設順序，下列何者正確？甲、Show Plate 乙、B.B. Plate 丙、Dinner Knife & Fork 丁、Water & Wine Glass",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙→丁"
+      },
+      {
+        "id": "B",
+        "text": "甲→丙→乙→丁"
+      },
+      {
+        "id": "C",
+        "text": "乙→丙→甲→丁"
+      },
+      {
+        "id": "D",
+        "text": "乙→丙→丁→甲。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西式餐桌擺設順序，下列何者正確？甲、Show Plate 乙、B.B. Plate 丙、Dinner Knife & Fork 丁、Water & Wine Glass 甲→乙→丙→丁 甲→丙→乙→丁 乙→丙→甲→丁 乙→丙→丁→甲。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 180
+  }
+}

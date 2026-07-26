@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q011-84c7ae416a",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 11 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-5025",
+    "paperTitle": "一、單選題（共20題，每題2分）",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "皇家奶茶的成分除了熱紅茶、鮮奶、方糖之外，還需要加",
+    "options": [
+      {
+        "id": "A",
+        "text": "威士忌"
+      },
+      {
+        "id": "B",
+        "text": "蘭姆酒"
+      },
+      {
+        "id": "C",
+        "text": "白蘭地"
+      },
+      {
+        "id": "D",
+        "text": "琴酒。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白蘭地、威士忌、蘭姆"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "皇家奶茶的成分除了熱紅茶、鮮奶、方糖之外，還需要加 威士忌 蘭姆酒 白蘭地 琴酒。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1553
+  }
+}

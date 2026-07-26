@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q079-b684191459",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 79 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-13652",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 79,
+    "questionType": "single-choice",
+    "prompt": "以下哪一種咖啡會添加檸檬皮絲？",
+    "options": [
+      {
+        "id": "A",
+        "text": "熱拿鐵咖啡"
+      },
+      {
+        "id": "B",
+        "text": "熱卡布奇諾咖啡"
+      },
+      {
+        "id": "C",
+        "text": "熱摩卡奇諾咖啡"
+      },
+      {
+        "id": "D",
+        "text": "熱摩卡咖啡。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、拿鐵、卡布奇諾"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下哪一種咖啡會添加檸檬皮絲？ 熱拿鐵咖啡 熱卡布奇諾咖啡 熱摩卡奇諾咖啡 熱摩卡咖啡。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 684
+  }
+}

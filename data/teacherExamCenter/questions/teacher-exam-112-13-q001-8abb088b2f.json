@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q001-8abb088b2f",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 1 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-8867",
+    "paperTitle": "一、選擇題（單選題）每題1分，共14分",
+    "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "請寫出以下飲料中何者在調製有使用紅石榴糖漿？",
+    "options": [
+      {
+        "id": "A",
+        "text": "灰姑娘、冰蜜桃比妮"
+      },
+      {
+        "id": "B",
+        "text": "灰姑娘、水果賓治"
+      },
+      {
+        "id": "C",
+        "text": "奇異之吻、水果賓治"
+      },
+      {
+        "id": "D",
+        "text": "水果賓治、奇異之吻"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請寫出以下飲料中何者在調製有使用紅石榴糖漿？ 灰姑娘、冰蜜桃比妮 灰姑娘、水果賓治 奇異之吻、水果賓治 水果賓治、奇異之吻 其他：待人工審核 待人工審核",
+    "sequence": 1948
+  }
+}

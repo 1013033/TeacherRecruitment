@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q015-b91a08d859",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 15 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-2105",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "團體成員中若有猶太教信徒，在飛機上可以要求準備猶太餐給該團員，然必須事前提出申請。請問此種猶太餐食英文如何表達？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hindu meal"
+      },
+      {
+        "id": "B",
+        "text": "Halal meal"
+      },
+      {
+        "id": "C",
+        "text": "Vegetarian meal"
+      },
+      {
+        "id": "D",
+        "text": "Kosher meal."
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "團體成員中若有猶太教信徒，在飛機上可以要求準備猶太餐給該團員，然必須事前提出申請。請問此種猶太餐食英文如何表達？ Hindu meal Halal meal Vegetarian meal Kosher meal. 其他：待人工審核 待人工審核",
+    "sequence": 517
+  }
+}

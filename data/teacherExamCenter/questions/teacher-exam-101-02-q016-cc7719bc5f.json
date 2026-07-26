@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q016-cc7719bc5f",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 16 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-14926",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "杰倫點了一份套餐，內容為：玉米濃湯、沙拉、牛排、咖啡、提拉米蘇，請問可以不用服務下列哪一支餐具？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Soup Spoon"
+      },
+      {
+        "id": "B",
+        "text": "Salad Fork"
+      },
+      {
+        "id": "C",
+        "text": "Steak Knife"
+      },
+      {
+        "id": "D",
+        "text": "Dessert Fork。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "杰倫點了一份套餐，內容為：玉米濃湯、沙拉、牛排、咖啡、提拉米蘇，請問可以不用服務下列哪一支餐具？ Soup Spoon Salad Fork Steak Knife Dessert Fork。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 315
+  }
+}

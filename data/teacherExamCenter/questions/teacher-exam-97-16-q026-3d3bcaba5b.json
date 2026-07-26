@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q026-3d3bcaba5b",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 26 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-26658",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "一般觀光旅館中套房之客房淨面積應為",
+    "options": [
+      {
+        "id": "A",
+        "text": "19 平方公尺"
+      },
+      {
+        "id": "B",
+        "text": "25 平方公尺"
+      },
+      {
+        "id": "C",
+        "text": "32 平方公尺"
+      },
+      {
+        "id": "D",
+        "text": "15 平方公尺。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、套房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "一般觀光旅館中套房之客房淨面積應為 19 平方公尺 25 平方公尺 32 平方公尺 15 平方公尺。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2548
+  }
+}

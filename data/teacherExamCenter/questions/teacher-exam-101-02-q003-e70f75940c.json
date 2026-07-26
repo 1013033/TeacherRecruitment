@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q003-e70f75940c",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 3 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-17051",
+    "paperTitle": "一、選擇題（每題1分，共20題，合計20分）",
+    "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "有關 Beaujolais 的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "產地位於勃根地最南方"
+      },
+      {
+        "id": "B",
+        "text": "口感清淡、富果香味、單寧酸含量低、須趁新鮮喝"
+      },
+      {
+        "id": "C",
+        "text": "飲用溫度為 15~18℃"
+      },
+      {
+        "id": "D",
+        "text": "採「二氧化碳浸皮法」釀造"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：beaujolais"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關 Beaujolais 的敘述，下列何者錯誤？ 產地位於勃根地最南方 口感清淡、富果香味、單寧酸含量低、須趁新鮮喝 飲用溫度為 15~18℃ 採「二氧化碳浸皮法」釀造 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 337
+  }
+}

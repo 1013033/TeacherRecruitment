@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q010-938e945056",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 10 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-9641",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "傳統西餐菜單結構一般包含：甲、Grosse Piece、乙、Middle Course、丙、Potage、丁、Poisson、戊、Rôti W/Salade、己、Hors d'oeuvre Froid、庚、Entremets、辛、Hors d'oeuvre Chaude 等品項，其上菜順序正確之排序應為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "己丙辛甲丁乙戊庚"
+      },
+      {
+        "id": "B",
+        "text": "丙辛丁甲乙戊庚"
+      },
+      {
+        "id": "C",
+        "text": "辛丙己甲丁乙戊庚"
+      },
+      {
+        "id": "D",
+        "text": "辛丙己丁甲戊乙庚"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "傳統西餐菜單結構一般包含：甲、Grosse Piece、乙、Middle Course、丙、Potage、丁、Poisson、戊、Rôti W/Salade、己、Hors d'oeuvre Froid、庚、Entremets、辛、Hors d'oeuvre Chaude 等品項，其上菜順序正確之排序應為： 己丙辛甲丁乙戊庚 丙辛丁甲乙戊庚 辛丙己甲丁乙戊庚 辛丙己丁甲戊乙庚 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1742
+  }
+}

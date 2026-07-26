@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q025-41135045d0",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 25 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-11602",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "小真現為家齊大餐館的儲備幹部，因此必須輪調各個部門已瞭解各工作職責及熟悉餐廳業務，以下為小真在餐館輪調時，從事過的工作內容：餐具管理、清潔及維護；飲料管理、銷售及服務；自助餐會及展覽等業務；餐具破損率控制；標準酒譜製定。請問：小真到目前為止，曾經輪調過哪些部門？甲、Steward Dept；乙、Purchase Dept；丙、Banquet Dept；丁、Beverage Dept",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丁。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、steward、banquet"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小真現為家齊大餐館的儲備幹部，因此必須輪調各個部門已瞭解各工作職責及熟悉餐廳業務，以下為小真在餐館輪調時，從事過的工作內容：餐具管理、清潔及維護；飲料管理、銷售及服務；自助餐會及展覽等業務；餐具破損率控制；標準酒譜製定。請問：小真到目前為止，曾經輪調過哪些部門？甲、Steward Dept；乙、Purchase Dept；丙、Banquet Dept；丁、Beverage Dept 甲乙丙 乙丙丁 甲丙丁 甲乙丁。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 91
+  }
+}

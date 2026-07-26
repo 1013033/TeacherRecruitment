@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q089-6dd71432b5",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 89 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24799",
+    "paperTitle": "二、複選題（全對才給分 15%）",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 89,
+    "questionType": "multiple-choice",
+    "prompt": "以干邑白蘭地為基底加上其他材料所製成的合成酒包括：",
+    "options": [
+      {
+        "id": "A",
+        "text": "D.O.M"
+      },
+      {
+        "id": "B",
+        "text": "Tia Maria"
+      },
+      {
+        "id": "C",
+        "text": "Triple Sec"
+      },
+      {
+        "id": "D",
+        "text": "Grand Marnier"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：干邑、白蘭地"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以干邑白蘭地為基底加上其他材料所製成的合成酒包括： D.O.M Tia Maria Triple Sec Grand Marnier 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1268
+  }
+}

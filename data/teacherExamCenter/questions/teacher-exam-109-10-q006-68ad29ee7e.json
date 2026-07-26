@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q006-68ad29ee7e",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 6 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-11280",
+    "paperTitle": "一、選擇題（每題2分、共15題、共計30分）",
+    "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "小金為了進行廚房的消毒，買了一包消毒劑準備自行消毒，消毒劑在包裝上標示著「濃度 250 ppm」，請問「ppm」為何者的縮寫？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Per Parts Million"
+      },
+      {
+        "id": "B",
+        "text": "Place Per Million"
+      },
+      {
+        "id": "C",
+        "text": "Parts Per Million"
+      },
+      {
+        "id": "D",
+        "text": "Per Place Million"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "小金為了進行廚房的消毒，買了一包消毒劑準備自行消毒，消毒劑在包裝上標示著「濃度 250 ppm」，請問「ppm」為何者的縮寫？ Per Parts Million Place Per Million Parts Per Million Per Place Million 其他：待人工審核 待人工審核",
+    "sequence": 1608
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q005-d8733bda3c",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 5 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-10340",
+    "paperTitle": "第一部份:選擇題(共計30分)",
+    "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "關於我國國際觀光旅館,客房數對應工作專用升降梯設置數量,何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "150間房間-2座"
+      },
+      {
+        "id": "B",
+        "text": "250間房間-3座"
+      },
+      {
+        "id": "C",
+        "text": "450間房間-2座"
+      },
+      {
+        "id": "D",
+        "text": "550間房間-3座"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於我國國際觀光旅館,客房數對應工作專用升降梯設置數量,何者正確？ 150間房間-2座 250間房間-3座 450間房間-2座 550間房間-3座 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1496
+  }
+}

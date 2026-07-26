@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q011-a332aed353",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 11 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-1441",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "有關在中餐烹調的敘述中,下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "菜肉包是屬於水調和麵食"
+      },
+      {
+        "id": "B",
+        "text": "川菜中「螞蟻」上樹,指的是豆瓣醬中的黃豆"
+      },
+      {
+        "id": "C",
+        "text": "烹調法中「貼」指的是蓋鍋蓋煎熟食物"
+      },
+      {
+        "id": "D",
+        "text": "蔥油餅使用燙麵技法"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、煎"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關在中餐烹調的敘述中,下列何者正確？ 菜肉包是屬於水調和麵食 川菜中「螞蟻」上樹,指的是豆瓣醬中的黃豆 烹調法中「貼」指的是蓋鍋蓋煎熟食物 蔥油餅使用燙麵技法 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1371
+  }
+}

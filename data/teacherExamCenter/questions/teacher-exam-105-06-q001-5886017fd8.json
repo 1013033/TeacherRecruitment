@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q001-5886017fd8",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 1 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-14821",
+    "paperTitle": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "客人點用「Manhattan Clam Chowder」這道料理時，服務生應準備的餐具為下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bouillon Spoon"
+      },
+      {
+        "id": "B",
+        "text": "Cream Soup Spoon"
+      },
+      {
+        "id": "C",
+        "text": "Table Spoon"
+      },
+      {
+        "id": "D",
+        "text": "Service Spoon。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：manhattan"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "客人點用「Manhattan Clam Chowder」這道料理時，服務生應準備的餐具為下列何者？ Bouillon Spoon Cream Soup Spoon Table Spoon Service Spoon。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1053
+  }
+}

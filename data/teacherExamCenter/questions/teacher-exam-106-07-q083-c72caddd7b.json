@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q083-c72caddd7b",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 83 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24280",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 83,
+    "questionType": "single-choice",
+    "prompt": "奔富酒莊（Penfolds）的紅酒，是下列哪一個國家的著名產品？",
+    "options": [
+      {
+        "id": "A",
+        "text": "阿根廷"
+      },
+      {
+        "id": "B",
+        "text": "智利"
+      },
+      {
+        "id": "C",
+        "text": "西班牙"
+      },
+      {
+        "id": "D",
+        "text": "澳洲。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：紅酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "奔富酒莊（Penfolds）的紅酒，是下列哪一個國家的著名產品？ 阿根廷 智利 西班牙 澳洲。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1262
+  }
+}

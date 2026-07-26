@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q010-1ebf33146a",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 10 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-22314",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "請問葉菜類切細絲的專有名詞是",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julienne"
+      },
+      {
+        "id": "B",
+        "text": "Paysanne"
+      },
+      {
+        "id": "C",
+        "text": "Brunoise"
+      },
+      {
+        "id": "D",
+        "text": "Chiffonade."
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請問葉菜類切細絲的專有名詞是 Julienne Paysanne Brunoise Chiffonade. 其他：待人工審核 待人工審核",
+    "sequence": 769
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q004-7fa1ae236b",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 4 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-26923",
+    "paperTitle": "一、單選題（每題 1 分，共 20 分）",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "咖啡沖煮法器具種類多樣，沖煮時間影響其咖啡風味，請依沖泡時間長短（由長至短）依序排列： 甲、Chemex Coffeemaker 乙、Syphon 丙、Aeropress 丁、Espresso Machine 戊、Dutch Coffee",
+    "options": [
+      {
+        "id": "A",
+        "text": "戊丙乙甲丁"
+      },
+      {
+        "id": "B",
+        "text": "戊乙丙丁甲"
+      },
+      {
+        "id": "C",
+        "text": "戊甲丙乙丁"
+      },
+      {
+        "id": "D",
+        "text": "戊甲乙丙丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、coffee、espresso"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "咖啡沖煮法器具種類多樣，沖煮時間影響其咖啡風味，請依沖泡時間長短（由長至短）依序排列： 甲、Chemex Coffeemaker 乙、Syphon 丙、Aeropress 丁、Espresso Machine 戊、Dutch Coffee 戊丙乙甲丁 戊乙丙丁甲 戊甲丙乙丁 戊甲乙丙丁 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1283
+  }
+}

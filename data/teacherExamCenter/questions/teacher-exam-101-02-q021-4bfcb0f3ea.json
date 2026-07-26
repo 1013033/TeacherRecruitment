@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q021-4bfcb0f3ea",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 21 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-15351",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "葡萄牙的國寶酒，製作時利用葡萄酒在釀造過程中加入白蘭地，使酒精濃度升高，讓酵母停止發酵的是哪一種酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sherry"
+      },
+      {
+        "id": "B",
+        "text": "Port"
+      },
+      {
+        "id": "C",
+        "text": "Dubonnet"
+      },
+      {
+        "id": "D",
+        "text": "Vermouth。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、白蘭地、sherry、port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "葡萄牙的國寶酒，製作時利用葡萄酒在釀造過程中加入白蘭地，使酒精濃度升高，讓酵母停止發酵的是哪一種酒？ Sherry Port Dubonnet Vermouth。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 320
+  }
+}

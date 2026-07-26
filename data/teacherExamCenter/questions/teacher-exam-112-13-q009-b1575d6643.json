@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q009-b1575d6643",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 9 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-1879",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 112 學年度公立高級中等學校教師甄選",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "「臺灣好行」是交通部觀光局專為旅遊規劃推動的景點接駁公車服務，請問下列哪個縣市目前沒有臺灣好行公車路線？",
+    "options": [
+      {
+        "id": "A",
+        "text": "連江縣"
+      },
+      {
+        "id": "B",
+        "text": "雲林縣"
+      },
+      {
+        "id": "C",
+        "text": "臺中市"
+      },
+      {
+        "id": "D",
+        "text": "高雄市。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "「臺灣好行」是交通部觀光局專為旅遊規劃推動的景點接駁公車服務，請問下列哪個縣市目前沒有臺灣好行公車路線？ 連江縣 雲林縣 臺中市 高雄市。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1911
+  }
+}

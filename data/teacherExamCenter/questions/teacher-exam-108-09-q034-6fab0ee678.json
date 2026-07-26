@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q034-6fab0ee678",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 34 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-7803",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "以下哪一種咖啡添加了和亞歷山大冰咖啡所添加的酒是一樣的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "愛爾蘭咖啡"
+      },
+      {
+        "id": "B",
+        "text": "墨西哥冰咖啡"
+      },
+      {
+        "id": "C",
+        "text": "皇家咖啡"
+      },
+      {
+        "id": "D",
+        "text": "橘香冰咖啡。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下哪一種咖啡添加了和亞歷山大冰咖啡所添加的酒是一樣的？ 愛爾蘭咖啡 墨西哥冰咖啡 皇家咖啡 橘香冰咖啡。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1463
+  }
+}

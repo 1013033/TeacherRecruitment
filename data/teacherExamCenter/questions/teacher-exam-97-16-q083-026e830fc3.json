@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q083-026e830fc3",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 83 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-16325",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 83,
+    "questionType": "single-choice",
+    "prompt": "下列關於服務型式的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plate service 需要使用 platter、不需要使用 service fork and spoon"
+      },
+      {
+        "id": "B",
+        "text": "English service 不需要使用 platter、需要使用 service fork and spoon"
+      },
+      {
+        "id": "C",
+        "text": "French service 需要使用 platter、需要使用 service fork and spoon"
+      },
+      {
+        "id": "D",
+        "text": "Russian service 不需要使用 platter、不需要使用 service fork and spoon"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於服務型式的敘述，何者正確？ Plate service 需要使用 platter、不需要使用 service fork and spoon English service 不需要使用 platter、需要使用 service fork and spoon French service 需要使用 platter、需要使用 service fork and spoon Russian service 不需要使用 platter、不需要使用 service fork and spoon 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2453
+  }
+}

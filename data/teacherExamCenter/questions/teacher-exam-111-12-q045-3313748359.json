@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q045-3313748359",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 45 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-24563",
+    "paperTitle": "未標示試卷",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 45,
+    "questionType": "multiple-choice",
+    "prompt": "請問下列哪些器皿，並不適合盛裝飲料供顧客直接飲用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "liqueur glass (利口酒杯可直接飲用)"
+      },
+      {
+        "id": "B",
+        "text": "jigger (量酒器，用來量測容量)"
+      },
+      {
+        "id": "C",
+        "text": "shaker (搖酒器，用來調酒)"
+      },
+      {
+        "id": "D",
+        "text": "highball glass (高球杯可直接飲用)"
+      },
+      {
+        "id": "E",
+        "text": "lipped glass (公杯/嘴杯，用來分酒)"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "E"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：調酒、量酒器、jigger"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請問下列哪些器皿，並不適合盛裝飲料供顧客直接飲用？ liqueur glass (利口酒杯可直接飲用) jigger (量酒器，用來量測容量) shaker (搖酒器，用來調酒) highball glass (高球杯可直接飲用) lipped glass (公杯/嘴杯，用來分酒) 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1840
+  }
+}

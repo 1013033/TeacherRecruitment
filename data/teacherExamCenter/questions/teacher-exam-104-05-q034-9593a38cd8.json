@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q034-9593a38cd8",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 34 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-26567",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高中104學年度第一次教師甄試試題卷",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個國家採用水洗式的咖啡豆精製法？",
+    "options": [
+      {
+        "id": "A",
+        "text": "巴西"
+      },
+      {
+        "id": "B",
+        "text": "哥倫比亞"
+      },
+      {
+        "id": "C",
+        "text": "衣索比亞"
+      },
+      {
+        "id": "D",
+        "text": "葉門。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個國家採用水洗式的咖啡豆精製法？ 巴西 哥倫比亞 衣索比亞 葉門。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 806
+  }
+}

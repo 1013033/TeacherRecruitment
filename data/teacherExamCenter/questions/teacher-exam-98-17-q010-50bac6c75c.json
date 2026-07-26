@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q010-50bac6c75c",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 10 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-1438",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "香檳的甜度標示，由甜到不甜，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brut → Extra Sec → Sec → Demi Sec → Doux"
+      },
+      {
+        "id": "B",
+        "text": "Brut → Sec → Demi Sec → Extra Sec → Doux"
+      },
+      {
+        "id": "C",
+        "text": "Doux → Sec → Demi Sec → Extra Sec → Brut"
+      },
+      {
+        "id": "D",
+        "text": "Doux → Demi Sec → Sec → Extra Sec → Brut"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "香檳的甜度標示，由甜到不甜，下列何者正確？ Brut → Extra Sec → Sec → Demi Sec → Doux Brut → Sec → Demi Sec → Extra Sec → Doux Doux → Sec → Demi Sec → Extra Sec → Brut Doux → Demi Sec → Sec → Extra Sec → Brut 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2668
+  }
+}

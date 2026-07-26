@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q017-bd79c6fe44",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 17 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-15044",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "沙發床房英文稱為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wall Bed Room"
+      },
+      {
+        "id": "B",
+        "text": "Bunk Room"
+      },
+      {
+        "id": "C",
+        "text": "Studio Room"
+      },
+      {
+        "id": "D",
+        "text": "Murphy Bed。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "沙發床房英文稱為？ Wall Bed Room Bunk Room Studio Room Murphy Bed。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 316
+  }
+}

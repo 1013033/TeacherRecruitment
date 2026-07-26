@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q006-676a24c22f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 6 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-21995",
+    "paperTitle": "一、選擇題 10%",
+    "schoolName": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "請問 Tina 買了一台美規華氏溫度新烤箱準備烤餅乾，但是食譜上的溫度卻需要攝氏180度，請問她應該將烤箱設定為華氏幾度呢？",
+    "options": [
+      {
+        "id": "A",
+        "text": "356"
+      },
+      {
+        "id": "B",
+        "text": "320"
+      },
+      {
+        "id": "C",
+        "text": "343"
+      },
+      {
+        "id": "D",
+        "text": "378。"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問 Tina 買了一台美規華氏溫度新烤箱準備烤餅乾，但是食譜上的溫度卻需要攝氏180度，請問她應該將烤箱設定為華氏幾度呢？ 356 320 343 378。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 765
+  }
+}

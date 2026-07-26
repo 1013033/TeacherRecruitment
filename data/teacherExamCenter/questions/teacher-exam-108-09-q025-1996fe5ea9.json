@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q025-1996fe5ea9",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 25 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-6945",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "部分飲料店接受電話訂購飲料,並派員將飲料送達指定地點,此一型態的服務稱為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Take-out Service"
+      },
+      {
+        "id": "B",
+        "text": "Counter Service"
+      },
+      {
+        "id": "C",
+        "text": "Delivery Service"
+      },
+      {
+        "id": "D",
+        "text": "Table Service。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "部分飲料店接受電話訂購飲料,並派員將飲料送達指定地點,此一型態的服務稱為： Take-out Service Counter Service Delivery Service Table Service。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1454
+  }
+}

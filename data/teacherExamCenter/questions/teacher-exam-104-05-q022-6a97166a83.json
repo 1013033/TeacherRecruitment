@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q022-6a97166a83",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 22 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-35526",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商104學年度第二次教師甄試題目卷",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "甲國的班機載運客貨飛經乙國空域，至丙國降落加油後，重新起飛至丁國卸載貨品與旅客，又再度載客飛回甲國。以上航程涉及哪幾項航權？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第二、第四、第七、第八航權"
+      },
+      {
+        "id": "B",
+        "text": "第一、第三、第五、第六航權"
+      },
+      {
+        "id": "C",
+        "text": "第一、第二、第五、第六航權"
+      },
+      {
+        "id": "D",
+        "text": "第一、第二、第三、第四航權。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "甲國的班機載運客貨飛經乙國空域，至丙國降落加油後，重新起飛至丁國卸載貨品與旅客，又再度載客飛回甲國。以上航程涉及哪幾項航權？ 第二、第四、第七、第八航權 第一、第三、第五、第六航權 第一、第二、第五、第六航權 第一、第二、第三、第四航權。 其他：待人工審核 待人工審核",
+    "sequence": 918
+  }
+}

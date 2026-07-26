@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q002-b1ef1c5f65",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 2 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-12566",
+    "paperTitle": "第二部分：複選題（每題 2 分，共 10 分，全對才給分）",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 2,
+    "questionType": "multiple-choice",
+    "prompt": "電腦自動化機票相關資訊，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "訂位狀態中 NS 指不可占位"
+      },
+      {
+        "id": "B",
+        "text": "IN 指的是兒童票"
+      },
+      {
+        "id": "C",
+        "text": "機票號碼共 14 個數字，前三碼指的是航站代碼"
+      },
+      {
+        "id": "D",
+        "text": "nonendorable 指的是不可更改行程。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "電腦自動化機票相關資訊，下列何者錯誤？ 訂位狀態中 NS 指不可占位 IN 指的是兒童票 機票號碼共 14 個數字，前三碼指的是航站代碼 nonendorable 指的是不可更改行程。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1150
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q014-4fb8182a08",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 14 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-2262",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "觀光大國行動方案(104-107年)在特色觀光中的「高潛力客源開拓計畫」，下列何者未被列入主要的開拓客群？",
+    "options": [
+      {
+        "id": "A",
+        "text": "遊輪市場"
+      },
+      {
+        "id": "B",
+        "text": "獎勵旅遊市場"
+      },
+      {
+        "id": "C",
+        "text": "銀髮族市場"
+      },
+      {
+        "id": "D",
+        "text": "穆斯林市場。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "觀光大國行動方案(104-107年)在特色觀光中的「高潛力客源開拓計畫」，下列何者未被列入主要的開拓客群？ 遊輪市場 獎勵旅遊市場 銀髮族市場 穆斯林市場。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1325
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q033-7d71d101c2",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 33 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-6740",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第一部分：教育部受託辦理 112 學年度公立高級中等學校教師甄選",
+    "questionNumber": 33,
+    "questionType": "multiple-choice",
+    "prompt": "中國各地之風土、習俗及特產各有不同之處，形成許多區域性菜餚合稱為八大菜系。下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "湘菜特別注重刀工、調味，特色為用料廣泛、油重色濃，並多以辣椒、燻臘為原料"
+      },
+      {
+        "id": "B",
+        "text": "徽菜以山珍野味河鮮家禽為主，特色菜餚有問政山筍、紅燒果子狸和玉麟香腰"
+      },
+      {
+        "id": "C",
+        "text": "川菜有天府之國之稱，因複合味型多種，享有「一菜一格，百菜百味」的美譽，特色菜餚包含樟茶鴨、合川肉片和麻婆豆腐"
+      },
+      {
+        "id": "D",
+        "text": "粵菜由廣州菜、潮州菜和東江菜組成，重視進補擅長煲湯煮粥。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "中國各地之風土、習俗及特產各有不同之處，形成許多區域性菜餚合稱為八大菜系。下列敘述何者正確？ 湘菜特別注重刀工、調味，特色為用料廣泛、油重色濃，並多以辣椒、燻臘為原料 徽菜以山珍野味河鮮家禽為主，特色菜餚有問政山筍、紅燒果子狸和玉麟香腰 川菜有天府之國之稱，因複合味型多種，享有「一菜一格，百菜百味」的美譽，特色菜餚包含樟茶鴨、合川肉片和麻婆豆腐 粵菜由廣州菜、潮州菜和東江菜組成，重視進補擅長煲湯煮粥。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1935
+  }
+}

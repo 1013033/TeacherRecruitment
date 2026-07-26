@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q025-5205455a1d",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 25 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-15115",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "春假期間國人前往美國旅遊者眾，尤其以 SFO 為然，形成前往該地一票難求的現象。因此，陳老師最後決定帶領全家五口由 TPE 飛往 LAX，再租車繼續駛往 SFO，回程則直接由 SFO 飛回 TPE，進而完成其全家福美西之旅。上述陳老師所使用的機票行程屬於？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Open Jaw"
+      },
+      {
+        "id": "B",
+        "text": "Round Trip"
+      },
+      {
+        "id": "C",
+        "text": "One Way"
+      },
+      {
+        "id": "D",
+        "text": "Circle Trip。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票、旅遊、open jaw、round trip"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "春假期間國人前往美國旅遊者眾，尤其以 SFO 為然，形成前往該地一票難求的現象。因此，陳老師最後決定帶領全家五口由 TPE 飛往 LAX，再租車繼續駛往 SFO，回程則直接由 SFO 飛回 TPE，進而完成其全家福美西之旅。上述陳老師所使用的機票行程屬於？ Open Jaw Round Trip One Way Circle Trip。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 122
+  }
+}

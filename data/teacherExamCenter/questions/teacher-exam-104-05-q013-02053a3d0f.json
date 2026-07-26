@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q013-02053a3d0f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 13 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-39016",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "住宿設施所提供的服務，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "B&B: 提供住宿旅客營帳與其他露營設備"
+      },
+      {
+        "id": "B",
+        "text": "Capsule Hotel: 提供住宿旅客房間並供應早餐"
+      },
+      {
+        "id": "C",
+        "text": "Parador: 提供旅客住宿在古老的建築"
+      },
+      {
+        "id": "D",
+        "text": "Villa: 簡易房間含早餐。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "住宿設施所提供的服務，下列敘述何者正確？ B&B: 提供住宿旅客營帳與其他露營設備 Capsule Hotel: 提供住宿旅客房間並供應早餐 Parador: 提供旅客住宿在古老的建築 Villa: 簡易房間含早餐。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 951
+  }
+}

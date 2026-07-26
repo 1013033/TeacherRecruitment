@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q009-b13de5c175",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 9 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-1708",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "交通部觀光局訂定每年何時為「旅遊安全宣導週」，以配合相關宣導措施，喚起民眾旅遊安全意識，並強化各項旅遊活動安全？",
+    "options": [
+      {
+        "id": "A",
+        "text": "5月第1週"
+      },
+      {
+        "id": "B",
+        "text": "3月第3週"
+      },
+      {
+        "id": "C",
+        "text": "觀光週"
+      },
+      {
+        "id": "D",
+        "text": "6月第2週。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "交通部觀光局訂定每年何時為「旅遊安全宣導週」，以配合相關宣導措施，喚起民眾旅遊安全意識，並強化各項旅遊活動安全？ 5月第1週 3月第3週 觀光週 6月第2週。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1320
+  }
+}

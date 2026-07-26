@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q001-c53525021d",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 1 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-30603",
+    "paperTitle": "一、選擇題，每題2分，共20分。",
+    "schoolName": "國立羅東高級商業職業學校104學年度教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於中國菜系的特色說明，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "北平菜重油脂，並以食用臘味聞名"
+      },
+      {
+        "id": "B",
+        "text": "川菜、黔菜、湘菜均為嗜辣省份"
+      },
+      {
+        "id": "C",
+        "text": "江浙菜最著名為糟味"
+      },
+      {
+        "id": "D",
+        "text": "以燜、紅燒等烹調法見長的是廣東菜。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中國菜系的特色說明，下列何者正確？ 北平菜重油脂，並以食用臘味聞名 川菜、黔菜、湘菜均為嗜辣省份 江浙菜最著名為糟味 以燜、紅燒等烹調法見長的是廣東菜。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 863
+  }
+}

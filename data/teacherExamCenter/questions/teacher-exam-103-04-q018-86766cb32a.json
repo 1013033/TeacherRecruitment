@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q018-86766cb32a",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 18 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-4986",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "依據我國消防法規的規定，旅館客房內的避難指示圖，應該懸掛於何處？",
+    "options": [
+      {
+        "id": "A",
+        "text": "浴室門後"
+      },
+      {
+        "id": "B",
+        "text": "客房門後"
+      },
+      {
+        "id": "C",
+        "text": "電視機上方"
+      },
+      {
+        "id": "D",
+        "text": "行李架上方。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據我國消防法規的規定，旅館客房內的避難指示圖，應該懸掛於何處？ 浴室門後 客房門後 電視機上方 行李架上方。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 545
+  }
+}

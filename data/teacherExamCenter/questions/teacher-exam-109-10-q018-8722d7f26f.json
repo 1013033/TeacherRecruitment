@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q018-8722d7f26f",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 18 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-5826",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列關於茶的描述，何者不正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "不發酵茶的製作過程，依序為採摘、萎凋、殺菁、揉捻、乾燥"
+      },
+      {
+        "id": "B",
+        "text": "一年四季中，台灣所產的綠茶以春茶品質最佳，冬茶次之，夏茶最差"
+      },
+      {
+        "id": "C",
+        "text": "常見的伯爵茶 (Earl Grey)，是在茶葉中加入佛手柑製成"
+      },
+      {
+        "id": "D",
+        "text": "將熱紅茶直接倒進放有冰塊的杯內，會因單寧酸分解而產生白濁的現象"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、綠茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於茶的描述，何者不正確？ 不發酵茶的製作過程，依序為採摘、萎凋、殺菁、揉捻、乾燥 一年四季中，台灣所產的綠茶以春茶品質最佳，冬茶次之，夏茶最差 常見的伯爵茶 (Earl Grey)，是在茶葉中加入佛手柑製成 將熱紅茶直接倒進放有冰塊的杯內，會因單寧酸分解而產生白濁的現象 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1560
+  }
+}

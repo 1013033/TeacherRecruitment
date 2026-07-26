@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q018-d1178b941a",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 18 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-2763",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列何者不屬於 “Convenient Foodservice”？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Home-delivery Service"
+      },
+      {
+        "id": "B",
+        "text": "Carry-out Service"
+      },
+      {
+        "id": "C",
+        "text": "Dining Car Service"
+      },
+      {
+        "id": "D",
+        "text": "Cafeteria Service。 (第2頁／共5頁)"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：cafe"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者不屬於 “Convenient Foodservice”？ Home-delivery Service Carry-out Service Dining Car Service Cafeteria Service。 (第2頁／共5頁) 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1329
+  }
+}

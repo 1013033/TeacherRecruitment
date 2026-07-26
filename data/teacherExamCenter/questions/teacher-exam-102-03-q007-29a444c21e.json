@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q007-29a444c21e",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 7 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-7373",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "以下的敘述，何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sparkling Wine 是屬於 Fermented Alcoholic Beverages"
+      },
+      {
+        "id": "B",
+        "text": "Vodka 屬於 Distilled Alcoholic Beverages"
+      },
+      {
+        "id": "C",
+        "text": "Bitter 是屬於 Compounded Alcoholic Beverages"
+      },
+      {
+        "id": "D",
+        "text": "Liqueur 的含糖量不得低於 5%。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur、wine、vodka"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下的敘述，何者為非？ Sparkling Wine 是屬於 Fermented Alcoholic Beverages Vodka 屬於 Distilled Alcoholic Beverages Bitter 是屬於 Compounded Alcoholic Beverages Liqueur 的含糖量不得低於 5%。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 443
+  }
+}

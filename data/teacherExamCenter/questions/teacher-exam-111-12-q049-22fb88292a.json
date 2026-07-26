@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q049-22fb88292a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 49 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-17043",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 49,
+    "questionType": "multiple-choice",
+    "readingPassage": "(▲閱讀下文，回答 49-50 題) 成哥與蘿絲規劃利用四月清明連假期間，參加某知名旅行社推出之「澎湖雙島桶盤虎井世界百大南寮、北環水族館、美饌饗宴三日遊」行程。",
+    "prompt": "有關成哥與蘿絲行程中航空票務之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "行程活動型態可歸類為 Outbound Tour、GIPT、Internal Tourism"
+      },
+      {
+        "id": "B",
+        "text": "行程類型屬 Open Jaw Trip"
+      },
+      {
+        "id": "C",
+        "text": "啟程機場為 RMQ"
+      },
+      {
+        "id": "D",
+        "text": "Carrier 最有可能為 B7 或 AE"
+      },
+      {
+        "id": "E",
+        "text": "航班目的地澎湖群島位於南海上，是臺灣唯一的島縣"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "E"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機場、票務、open jaw、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關成哥與蘿絲行程中航空票務之敘述，下列何者錯誤？ 行程活動型態可歸類為 Outbound Tour、GIPT、Internal Tourism 行程類型屬 Open Jaw Trip 啟程機場為 RMQ Carrier 最有可能為 B7 或 AE 航班目的地澎湖群島位於南海上，是臺灣唯一的島縣 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1781
+  }
+}

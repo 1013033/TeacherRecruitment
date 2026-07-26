@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q003-1fb01d4b1a",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 3 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-492",
+    "paperTitle": "一、單選題（每題2分，共30分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "咖啡豆研磨顆粒的粗細，須視沖調方式而定，請將下列不同之沖調方式所需研磨程度由粗至細依序排列： 甲、Paper Drip 乙、Cold Water Drip 丙、Espresso Machine 丁、French Press 戊、Syphon",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙→丁→戊"
+      },
+      {
+        "id": "B",
+        "text": "丁→甲→戊→乙→丙"
+      },
+      {
+        "id": "C",
+        "text": "丙→乙→戊→甲→丁"
+      },
+      {
+        "id": "D",
+        "text": "乙→戊→甲→丁→丙。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、espresso"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡豆研磨顆粒的粗細，須視沖調方式而定，請將下列不同之沖調方式所需研磨程度由粗至細依序排列： 甲、Paper Drip 乙、Cold Water Drip 丙、Espresso Machine 丁、French Press 戊、Syphon 甲→乙→丙→丁→戊 丁→甲→戊→乙→丙 丙→乙→戊→甲→丁 乙→戊→甲→丁→丙。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 580
+  }
+}

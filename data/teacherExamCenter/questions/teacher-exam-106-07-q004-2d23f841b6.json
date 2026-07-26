@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q004-2d23f841b6",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 4 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-12784",
+    "paperTitle": "第二部分：複選題（每題 2 分，共 10 分，全對才給分）",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 4,
+    "questionType": "multiple-choice",
+    "prompt": "Which liqueurs are made by coffee?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pasha"
+      },
+      {
+        "id": "B",
+        "text": "Tia Maria"
+      },
+      {
+        "id": "C",
+        "text": "Kahlua"
+      },
+      {
+        "id": "D",
+        "text": "Crème de Café。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which liqueurs are made by coffee? Pasha Tia Maria Kahlua Crème de Café。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1152
+  }
+}

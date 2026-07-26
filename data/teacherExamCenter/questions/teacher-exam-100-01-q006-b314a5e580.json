@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q006-b314a5e580",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 6 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-9564",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "下列哪種鑰匙可開啟內部反鎖的客房，僅於緊急狀況時使用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Guest Room Key"
+      },
+      {
+        "id": "B",
+        "text": "Floor Master Key"
+      },
+      {
+        "id": "C",
+        "text": "Double Lock Key"
+      },
+      {
+        "id": "D",
+        "text": "Inhibit Key。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪種鑰匙可開啟內部反鎖的客房，僅於緊急狀況時使用？ Guest Room Key Floor Master Key Double Lock Key Inhibit Key。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 72
+  }
+}

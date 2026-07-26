@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q014-fc0ce488bd",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 14 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-14674",
+    "paperTitle": "一、單選題（每題2分，共50分）",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "關於旅行業的 PAK 聯營方式，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "燦星旅行社與國泰商業銀行，共同合作推廣綠島之旅"
+      },
+      {
+        "id": "B",
+        "text": "可樂旅遊與鳳凰旅遊各自組團，共同包機前往曼谷"
+      },
+      {
+        "id": "C",
+        "text": "理想旅運社與新進旅行社，共同合作推廣法國之旅"
+      },
+      {
+        "id": "D",
+        "text": "雄獅旅行社結合各地分公司，共同推廣知本之旅。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅行業的 PAK 聯營方式，下列敘述何者正確？ 燦星旅行社與國泰商業銀行，共同合作推廣綠島之旅 可樂旅遊與鳳凰旅遊各自組團，共同包機前往曼谷 理想旅運社與新進旅行社，共同合作推廣法國之旅 雄獅旅行社結合各地分公司，共同推廣知本之旅。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 313
+  }
+}

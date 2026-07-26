@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q034-7b1ac7eb7a",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 34 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-16307",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "在中國八大菜系中，下列有關各菜系與著名的菜餚之組合，何者正確？甲、廣東菜：左宗棠雞 乙、四川菜：魚香茄子 丙、福建菜：佛跳牆 丁、江浙菜：東坡肉 戊、湖南菜：京都排骨",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、戊"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "C",
+        "text": "丙、丁、戊"
+      },
+      {
+        "id": "D",
+        "text": "甲、丙、戊。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "在中國八大菜系中，下列有關各菜系與著名的菜餚之組合，何者正確？甲、廣東菜：左宗棠雞 乙、四川菜：魚香茄子 丙、福建菜：佛跳牆 丁、江浙菜：東坡肉 戊、湖南菜：京都排骨 甲、乙、戊 乙、丙、丁 丙、丁、戊 甲、丙、戊。 其他：待人工審核 待人工審核",
+    "sequence": 131
+  }
+}

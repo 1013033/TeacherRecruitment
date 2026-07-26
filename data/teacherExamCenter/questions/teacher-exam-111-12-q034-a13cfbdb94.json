@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q034-a13cfbdb94",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 34 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-13788",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "餐廳結帳付款方式，下列正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Folio 是指餐廳經理用主管身份，以較優惠的價格或折扣款待親友用餐"
+      },
+      {
+        "id": "B",
+        "text": "I.O.U 員工因處理公務而延誤正常用餐時間，餐廳所提供的特定免費餐食"
+      },
+      {
+        "id": "C",
+        "text": "Rebates 是指顧客憑該餐廳或旅館發行或發送之招待券、折價券、抵用券等前往消費"
+      },
+      {
+        "id": "D",
+        "text": "Comp. 房客在飯店附屬的餐廳用餐後，出示房卡在帳單上簽上房號與姓名，餐費會在退房時與住宿費一併計算"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐廳結帳付款方式，下列正確？ Folio 是指餐廳經理用主管身份，以較優惠的價格或折扣款待親友用餐 I.O.U 員工因處理公務而延誤正常用餐時間，餐廳所提供的特定免費餐食 Rebates 是指顧客憑該餐廳或旅館發行或發送之招待券、折價券、抵用券等前往消費 Comp. 房客在飯店附屬的餐廳用餐後，出示房卡在帳單上簽上房號與姓名，餐費會在退房時與住宿費一併計算 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1766
+  }
+}

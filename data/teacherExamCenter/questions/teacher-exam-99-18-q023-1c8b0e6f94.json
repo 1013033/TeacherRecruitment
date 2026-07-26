@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q023-1c8b0e6f94",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 23 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-7063",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "小姐帶著寵物「阿狗」進住台北某國際觀光旅館，然而該旅館本身並沒有寵物相關住宿設施；此時，陳小姐急需找旅館的下列哪個部門來解決她的問題？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Steward"
+      },
+      {
+        "id": "B",
+        "text": "Concierge"
+      },
+      {
+        "id": "C",
+        "text": "Business Center"
+      },
+      {
+        "id": "D",
+        "text": "Guest Relations Officer。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "小姐帶著寵物「阿狗」進住台北某國際觀光旅館，然而該旅館本身並沒有寵物相關住宿設施；此時，陳小姐急需找旅館的下列哪個部門來解決她的問題？ Steward Concierge Business Center Guest Relations Officer。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2841
+  }
+}

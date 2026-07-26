@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q061-644d8a399f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 61 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-11995",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 61,
+    "questionType": "single-choice",
+    "prompt": "依據飲料類衛生標準的規定，茶、咖啡、可可以外的飲料，其咖啡因含量不得超過？",
+    "options": [
+      {
+        "id": "A",
+        "text": "300 ppm"
+      },
+      {
+        "id": "B",
+        "text": "220 ppm"
+      },
+      {
+        "id": "C",
+        "text": "320 ppm"
+      },
+      {
+        "id": "D",
+        "text": "250 ppm。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據飲料類衛生標準的規定，茶、咖啡、可可以外的飲料，其咖啡因含量不得超過？ 300 ppm 220 ppm 320 ppm 250 ppm。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 666
+  }
+}

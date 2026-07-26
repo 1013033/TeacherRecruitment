@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q021-7aff0e9cfe",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 21 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-11212",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "臺灣於九十七年七月四日正式開放大陸人士來臺，此「大陸人士」屬於第幾類大陸居民？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一類"
+      },
+      {
+        "id": "B",
+        "text": "第二類"
+      },
+      {
+        "id": "C",
+        "text": "第三類"
+      },
+      {
+        "id": "D",
+        "text": "第四類。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "臺灣於九十七年七月四日正式開放大陸人士來臺，此「大陸人士」屬於第幾類大陸居民？ 第一類 第二類 第三類 第四類。 其他：待人工審核 待人工審核",
+    "sequence": 87
+  }
+}

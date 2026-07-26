@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q009-b397cf21bf",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 9 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-26279",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "請說明以下歐洲國家葡萄酒等級分類何者為誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "DOC (Vino Denominazione di Origine Controllata) 是義大利的日常餐酒"
+      },
+      {
+        "id": "B",
+        "text": "AOP (Appellation d'Origine Protegee) 是法國葡萄酒最高級別"
+      },
+      {
+        "id": "C",
+        "text": "VdT (Vin de table)，是指法國的日常餐酒"
+      },
+      {
+        "id": "D",
+        "text": "DOCG 在義大利酒中品質較 DOC 高"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請說明以下歐洲國家葡萄酒等級分類何者為誤？ DOC (Vino Denominazione di Origine Controllata) 是義大利的日常餐酒 AOP (Appellation d'Origine Protegee) 是法國葡萄酒最高級別 VdT (Vin de table)，是指法國的日常餐酒 DOCG 在義大利酒中品質較 DOC 高 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1854
+  }
+}

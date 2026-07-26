@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q003-28c4bc5f75",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 3 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-9276",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "在大廳處理顧客疑問、抱怨，並代為購買車票、機票及劇票等事項的是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Greeter"
+      },
+      {
+        "id": "B",
+        "text": "Information Clerk"
+      },
+      {
+        "id": "C",
+        "text": "Bell Man"
+      },
+      {
+        "id": "D",
+        "text": "Mail Clerk。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在大廳處理顧客疑問、抱怨，並代為購買車票、機票及劇票等事項的是： Greeter Information Clerk Bell Man Mail Clerk。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 69
+  }
+}

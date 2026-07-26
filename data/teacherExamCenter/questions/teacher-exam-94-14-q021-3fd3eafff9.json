@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q021-3fd3eafff9",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 21 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-2095",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "下列地區與材料配對何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "廣西猴頭菇"
+      },
+      {
+        "id": "B",
+        "text": "海南燕窩"
+      },
+      {
+        "id": "C",
+        "text": "渤海對蝦"
+      },
+      {
+        "id": "D",
+        "text": "張家口綿羊。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列地區與材料配對何者錯誤？ 廣西猴頭菇 海南燕窩 渤海對蝦 張家口綿羊。 其他：待人工審核 待人工審核",
+    "sequence": 2022
+  }
+}

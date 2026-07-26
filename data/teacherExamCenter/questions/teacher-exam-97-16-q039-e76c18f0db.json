@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q039-e76c18f0db",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 39 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-7028",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "餐飲服務方式中有「窗口服務」之稱的是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Drive In Service"
+      },
+      {
+        "id": "B",
+        "text": "Take Out Service"
+      },
+      {
+        "id": "C",
+        "text": "Snack Bar Service"
+      },
+      {
+        "id": "D",
+        "text": "Refreshement Stands Service。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲服務方式中有「窗口服務」之稱的是： Drive In Service Take Out Service Snack Bar Service Refreshement Stands Service。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2359
+  }
+}

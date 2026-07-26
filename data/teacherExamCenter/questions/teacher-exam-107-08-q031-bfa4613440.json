@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q031-bfa4613440",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 31 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-4481",
+    "paperTitle": "二、複選題（每題1分，共10分，全對才給分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 31,
+    "questionType": "multiple-choice",
+    "prompt": "交通部觀光局為因應花蓮地震後，協助地方振興觀光產業，訂定「補助旅行業推廣花蓮縣旅遊實施要點」，其相關內容下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "旅遊天數至少二天"
+      },
+      {
+        "id": "B",
+        "text": "每團應有三十人以上"
+      },
+      {
+        "id": "C",
+        "text": "每家旅行業最多申請三團為限"
+      },
+      {
+        "id": "D",
+        "text": "每團最高補助新臺幣三萬元。"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "交通部觀光局為因應花蓮地震後，協助地方振興觀光產業，訂定「補助旅行業推廣花蓮縣旅遊實施要點」，其相關內容下列敘述何者正確？ 旅遊天數至少二天 每團應有三十人以上 每家旅行業最多申請三團為限 每團最高補助新臺幣三萬元。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1342
+  }
+}

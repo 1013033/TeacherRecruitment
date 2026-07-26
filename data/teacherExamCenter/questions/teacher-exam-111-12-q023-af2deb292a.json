@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q023-af2deb292a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 23 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-11934",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "必勝客 Hot 臺味系列，推出滷肉飯比薩、珍珠奶茶比薩、臭豆腐比薩、佛跳牆比薩、椒鹽龍珠比薩、三杯雞比薩、麻油赤肉比薩、三星蔥卜肉比薩、蝦猴酥蚵仔煎比薩，其中香菜皮蛋豬血糕比薩更是引起熱潮。其中組合蝦猴酥蚵仔煎比薩烤雞全餐，售價 599 元，此定價策略屬於？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prestige Pricing"
+      },
+      {
+        "id": "B",
+        "text": "Customary Pricing"
+      },
+      {
+        "id": "C",
+        "text": "Odd Pricing"
+      },
+      {
+        "id": "D",
+        "text": "Discriminatory Pricing"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煎、烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "必勝客 Hot 臺味系列，推出滷肉飯比薩、珍珠奶茶比薩、臭豆腐比薩、佛跳牆比薩、椒鹽龍珠比薩、三杯雞比薩、麻油赤肉比薩、三星蔥卜肉比薩、蝦猴酥蚵仔煎比薩，其中香菜皮蛋豬血糕比薩更是引起熱潮。其中組合蝦猴酥蚵仔煎比薩烤雞全餐，售價 599 元，此定價策略屬於？ Prestige Pricing Customary Pricing Odd Pricing Discriminatory Pricing 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1755
+  }
+}

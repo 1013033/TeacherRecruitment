@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q001-41831e634b",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 1 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-9377",
+    "paperTitle": "一、選擇題（每題 2 分，共 40 分）",
+    "schoolName": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "下列咖啡的沖煮方式中，何者不適用「Fine Grind」咖啡粉？",
+    "options": [
+      {
+        "id": "A",
+        "text": "French Press"
+      },
+      {
+        "id": "B",
+        "text": "Mocha Pot"
+      },
+      {
+        "id": "C",
+        "text": "Vietnamese Coffee"
+      },
+      {
+        "id": "D",
+        "text": "Espresso Machine。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、coffee、espresso"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列咖啡的沖煮方式中，何者不適用「Fine Grind」咖啡粉？ French Press Mocha Pot Vietnamese Coffee Espresso Machine。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 463
+  }
+}

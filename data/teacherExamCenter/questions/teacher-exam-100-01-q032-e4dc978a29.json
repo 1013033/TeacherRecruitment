@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q032-e4dc978a29",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 32 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-16063",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "關於國際航空運輸協會（International Air Transport Association）制定的三大飛航區（TC1、TC2、TC3）的敘述，哪個國家屬於 TC1？",
+    "options": [
+      {
+        "id": "A",
+        "text": "臺灣"
+      },
+      {
+        "id": "B",
+        "text": "澳大利亞"
+      },
+      {
+        "id": "C",
+        "text": "伊朗"
+      },
+      {
+        "id": "D",
+        "text": "美國。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於國際航空運輸協會（International Air Transport Association）制定的三大飛航區（TC1、TC2、TC3）的敘述，哪個國家屬於 TC1？ 臺灣 澳大利亞 伊朗 美國。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 129
+  }
+}

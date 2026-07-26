@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-107-08-q040-1b54b02342",
+    "sourceYear": 107,
+    "sourceLabel": "107 年第 40 題",
+    "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
+    "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-6448",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 40,
+    "questionType": "multiple-choice",
+    "prompt": "在一般住客客房服務中，請問以下之敘述，何者為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Baby-sitter Service 是針對六歲以下的嬰幼兒"
+      },
+      {
+        "id": "B",
+        "text": "Loaned Item Service 一般是免費的"
+      },
+      {
+        "id": "C",
+        "text": "Extra Bed Service 一般以一床為限"
+      },
+      {
+        "id": "D",
+        "text": "Baby Cot Service 一般是付費的。 (第4頁／共5頁)"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "在一般住客客房服務中，請問以下之敘述，何者為正確？ Baby-sitter Service 是針對六歲以下的嬰幼兒 Loaned Item Service 一般是免費的 Extra Bed Service 一般以一床為限 Baby Cot Service 一般是付費的。 (第4頁／共5頁) 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1351
+  }
+}

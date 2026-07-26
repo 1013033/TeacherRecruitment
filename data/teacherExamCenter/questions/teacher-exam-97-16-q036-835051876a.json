@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q036-835051876a",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 36 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-32475",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列國際連鎖旅館，那一家最早引進臺灣地區？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hilton"
+      },
+      {
+        "id": "B",
+        "text": "Sheraton"
+      },
+      {
+        "id": "C",
+        "text": "Hyatt"
+      },
+      {
+        "id": "D",
+        "text": "Ritz。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列國際連鎖旅館，那一家最早引進臺灣地區？ Hilton Sheraton Hyatt Ritz。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2631
+  }
+}

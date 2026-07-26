@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q003-38b0632b87",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 3 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-4677",
+    "paperTitle": "餐飲管理科 筆試試題",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "餐廳服勤設備，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "chafing dish trolley - 保溫餐車"
+      },
+      {
+        "id": "B",
+        "text": "flambé trolley - 旁桌服勤餐車"
+      },
+      {
+        "id": "C",
+        "text": "trancher wagon - 切肉車"
+      },
+      {
+        "id": "D",
+        "text": "room service trolley - 客房餐飲服務推車。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐廳服勤設備，下列何者錯誤？ chafing dish trolley - 保溫餐車 flambé trolley - 旁桌服勤餐車 trancher wagon - 切肉車 room service trolley - 客房餐飲服務推車。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 608
+  }
+}

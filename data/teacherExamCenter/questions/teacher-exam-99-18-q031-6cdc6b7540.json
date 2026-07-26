@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-99-18-q031-6cdc6b7540",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 31 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-8227",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "在餐桌檯布 (Table Cloth) 上的用餐重點區，再舖上一層檯心布，請問其用意為何？甲、食物掉落的機會較大，防止弄污檯布；乙、節省換洗檯布的次數，減少經營成本；丙、增加美觀作用，提高用餐氣氛；丁、防止餐盤及菜餚滑動。",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丁。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "在餐桌檯布 (Table Cloth) 上的用餐重點區，再舖上一層檯心布，請問其用意為何？甲、食物掉落的機會較大，防止弄污檯布；乙、節省換洗檯布的次數，減少經營成本；丙、增加美觀作用，提高用餐氣氛；丁、防止餐盤及菜餚滑動。 甲乙丙 乙丙丁 甲丙丁 甲乙丁。 其他：待人工審核 待人工審核",
+    "sequence": 2849
+  }
+}

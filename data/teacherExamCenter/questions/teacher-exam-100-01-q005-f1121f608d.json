@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q005-f1121f608d",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 5 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-1114",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "目前在台灣隸屬於喜達屋集團（Starwood）的飯店品牌不包括下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shangri-La's Far Eastern Plaza Hotel"
+      },
+      {
+        "id": "B",
+        "text": "Le Meridien Taipei"
+      },
+      {
+        "id": "C",
+        "text": "W Hotel Taipei"
+      },
+      {
+        "id": "D",
+        "text": "Four Points By Sheraton Taipei。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "目前在台灣隸屬於喜達屋集團（Starwood）的飯店品牌不包括下列何者？ Shangri-La's Far Eastern Plaza Hotel Le Meridien Taipei W Hotel Taipei Four Points By Sheraton Taipei。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 5
+  }
+}

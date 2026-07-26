@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q032-6642755e43",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 32 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-5125",
+    "paperTitle": "二、複選題（每題 2 分，共 10 分，全對才給分）",
+    "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+    "questionNumber": 32,
+    "questionType": "multiple-choice",
+    "prompt": "關於鮮乳的加熱殺菌方法，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "LTLT，加熱條件 56~60℃，30 分鐘。"
+      },
+      {
+        "id": "B",
+        "text": "LTLT，加熱條件 62~65℃，30 分鐘。"
+      },
+      {
+        "id": "C",
+        "text": "HTST，加熱條件 80~85℃，15 秒。"
+      },
+      {
+        "id": "D",
+        "text": "HTST，加熱條件 70~75℃，15 秒。"
+      },
+      {
+        "id": "E",
+        "text": "UHT 加熱條件 120~130℃，2~5 秒。"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於鮮乳的加熱殺菌方法，下列何者正確？ LTLT，加熱條件 56~60℃，30 分鐘。 LTLT，加熱條件 62~65℃，30 分鐘。 HTST，加熱條件 80~85℃，15 秒。 HTST，加熱條件 70~75℃，15 秒。 UHT 加熱條件 120~130℃，2~5 秒。 其他：待人工審核 待人工審核",
+    "sequence": 1719
+  }
+}

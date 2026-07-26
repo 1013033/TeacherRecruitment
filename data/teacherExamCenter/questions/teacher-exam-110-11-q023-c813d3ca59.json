@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q023-c813d3ca59",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 23 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-3237",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "有關日本飲食型態，目前日本宴席料理的主流，多於民間婚慶節日時使用，形式不拘、內容多變化、吃法自由，同時被稱作酒席為下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "懷石料理"
+      },
+      {
+        "id": "B",
+        "text": "精進料理"
+      },
+      {
+        "id": "C",
+        "text": "會席料理"
+      },
+      {
+        "id": "D",
+        "text": "本膳料理。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關日本飲食型態，目前日本宴席料理的主流，多於民間婚慶節日時使用，形式不拘、內容多變化、吃法自由，同時被稱作酒席為下列何者？ 懷石料理 精進料理 會席料理 本膳料理。 其他：待人工審核 待人工審核",
+    "sequence": 1663
+  }
+}

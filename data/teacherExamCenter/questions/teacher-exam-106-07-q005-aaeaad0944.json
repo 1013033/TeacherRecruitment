@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q005-aaeaad0944",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 5 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-14817",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "關於 swiss breakfast 和 regular breakfast 敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "B&B 民宿多提供 swiss breakfast"
+      },
+      {
+        "id": "B",
+        "text": "regular breakfast 餐點豐富，提供 croissant、Zwieback、Bagel、Poached egg、Cheese 多元選擇。"
+      },
+      {
+        "id": "C",
+        "text": "regular breakfast 又稱 meat breakfast、American breakfast"
+      },
+      {
+        "id": "D",
+        "text": "swiss breakfast 餐點內容簡單，內容有 tea、coffee、danish pastry、jam。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee、tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於 swiss breakfast 和 regular breakfast 敘述何者錯誤？ B&B 民宿多提供 swiss breakfast regular breakfast 餐點豐富，提供 croissant、Zwieback、Bagel、Poached egg、Cheese 多元選擇。 regular breakfast 又稱 meat breakfast、American breakfast swiss breakfast 餐點內容簡單，內容有 tea、coffee、danish pastry、jam。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1184
+  }
+}

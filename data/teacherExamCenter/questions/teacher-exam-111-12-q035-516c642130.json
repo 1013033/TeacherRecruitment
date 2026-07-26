@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q035-516c642130",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 35 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-14000",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "蔡康永邀請新婚的大S和具俊曄的餐會，小S和老公許雅鈞當陪客。為符合用餐禮儀，許雅鈞先生應該以誰當作自己用餐速度的參考依據？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蔡康永"
+      },
+      {
+        "id": "B",
+        "text": "大S"
+      },
+      {
+        "id": "C",
+        "text": "具俊曄"
+      },
+      {
+        "id": "D",
+        "text": "小S"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "蔡康永邀請新婚的大S和具俊曄的餐會，小S和老公許雅鈞當陪客。為符合用餐禮儀，許雅鈞先生應該以誰當作自己用餐速度的參考依據？ 蔡康永 大S 具俊曄 小S 其他：待人工審核 待人工審核",
+    "sequence": 1767
+  }
+}

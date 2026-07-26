@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q007-35a0c67a3e",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 7 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-14140",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "某餐廳依菜單推估平均客單價約 300 元，座位數共 60 席，桌次回轉率（turnover rate）午餐 1.5 轉，晚餐 2 轉，請問日營業額多少元？",
+    "options": [
+      {
+        "id": "A",
+        "text": "21,000 元"
+      },
+      {
+        "id": "B",
+        "text": "42,000 元"
+      },
+      {
+        "id": "C",
+        "text": "63,000 元"
+      },
+      {
+        "id": "D",
+        "text": "84,000 元。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某餐廳依菜單推估平均客單價約 300 元，座位數共 60 席，桌次回轉率（turnover rate）午餐 1.5 轉，晚餐 2 轉，請問日營業額多少元？ 21,000 元 42,000 元 63,000 元 84,000 元。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 489
+  }
+}

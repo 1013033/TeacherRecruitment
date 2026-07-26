@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q008-78306bb051",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 8 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-1249",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種香甜酒的製作原料，與其他三者的特性截然不同？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kahlua"
+      },
+      {
+        "id": "B",
+        "text": "Tia Maria"
+      },
+      {
+        "id": "C",
+        "text": "Advocaat"
+      },
+      {
+        "id": "D",
+        "text": "Pasha Turkish Coffee Liqueur。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列哪一種香甜酒的製作原料，與其他三者的特性截然不同？ Kahlua Tia Maria Advocaat Pasha Turkish Coffee Liqueur。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1648
+  }
+}

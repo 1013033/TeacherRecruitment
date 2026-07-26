@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q006-ead76309a8",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 6 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-27316",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "下列關於航空運輸九大航權（Freedom of the Air）敘述何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一航權：台灣和韓國斷交，台灣不允許韓國航空公司，經過台灣上空前往東南亞。"
+      },
+      {
+        "id": "B",
+        "text": "第五航權：台灣要做亞太營運中心，爭取由台灣起飛的班機，可以在大陸降落載貨集貨，飛往歐美。"
+      },
+      {
+        "id": "C",
+        "text": "第六航權：大韓航空獲得英國賦予的航權，允許將英國的乘客、貨物經首爾後再接載至東京。"
+      },
+      {
+        "id": "D",
+        "text": "第九航權：長榮航空從台灣將乘客、貨物運到 SEA 後卸落客貨，然後再飛往 EWR。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於航空運輸九大航權（Freedom of the Air）敘述何者有誤？ 第一航權：台灣和韓國斷交，台灣不允許韓國航空公司，經過台灣上空前往東南亞。 第五航權：台灣要做亞太營運中心，爭取由台灣起飛的班機，可以在大陸降落載貨集貨，飛往歐美。 第六航權：大韓航空獲得英國賦予的航權，允許將英國的乘客、貨物經首爾後再接載至東京。 第九航權：長榮航空從台灣將乘客、貨物運到 SEA 後卸落客貨，然後再飛往 EWR。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1285
+  }
+}

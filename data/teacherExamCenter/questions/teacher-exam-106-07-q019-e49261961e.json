@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q019-e49261961e",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 19 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-29172",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "依照餐桌設備之面積而言，請問面積最小的餐桌設備為下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Folding leaf Table"
+      },
+      {
+        "id": "B",
+        "text": "Lazy Susan"
+      },
+      {
+        "id": "C",
+        "text": "Deuce"
+      },
+      {
+        "id": "D",
+        "text": "Cocktail Table。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依照餐桌設備之面積而言，請問面積最小的餐桌設備為下列何者？ Folding leaf Table Lazy Susan Deuce Cocktail Table。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1298
+  }
+}

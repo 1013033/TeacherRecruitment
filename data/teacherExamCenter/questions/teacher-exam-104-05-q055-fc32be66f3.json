@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q055-fc32be66f3",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 55 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-11332",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 55,
+    "questionType": "single-choice",
+    "prompt": "西元2012年2月28日晚上11:55由洛杉磯（-8）起飛，14個小時20分後降落桃園中正機場（+8），請問是何月何日何時？",
+    "options": [
+      {
+        "id": "A",
+        "text": "3月1日下午6:15"
+      },
+      {
+        "id": "B",
+        "text": "3月2日上午6:15"
+      },
+      {
+        "id": "C",
+        "text": "3月1日上午6:15"
+      },
+      {
+        "id": "D",
+        "text": "3月2日下午6:15。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機場"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西元2012年2月28日晚上11:55由洛杉磯（-8）起飛，14個小時20分後降落桃園中正機場（+8），請問是何月何日何時？ 3月1日下午6:15 3月2日上午6:15 3月1日上午6:15 3月2日下午6:15。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 660
+  }
+}

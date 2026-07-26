@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q002-6f91d2512f",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 2 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-511",
+    "paperTitle": "第一部分：選擇題（共40分）",
+    "schoolName": "第一部分：教育部受託辦理 112 學年度公立高級中等學校教師甄選",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "阿民到美國旅遊，旅遊途中，於世界第一座迪士尼樂園 (Disneyland) 不慎將護照遺失，請問下列何者為阿民最近可以補辦護照之處？",
+    "options": [
+      {
+        "id": "A",
+        "text": "駐邁阿密臺北經濟文化辦事處"
+      },
+      {
+        "id": "B",
+        "text": "駐洛杉磯臺北經濟文化辦事處"
+      },
+      {
+        "id": "C",
+        "text": "駐西雅圖臺北經濟文化辦事處"
+      },
+      {
+        "id": "D",
+        "text": "駐紐約臺北經濟文化辦事處。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿民到美國旅遊，旅遊途中，於世界第一座迪士尼樂園 (Disneyland) 不慎將護照遺失，請問下列何者為阿民最近可以補辦護照之處？ 駐邁阿密臺北經濟文化辦事處 駐洛杉磯臺北經濟文化辦事處 駐西雅圖臺北經濟文化辦事處 駐紐約臺北經濟文化辦事處。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1904
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q002-aa8b8742d5",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 2 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-8689",
+    "paperTitle": "一、請依下列情境回答問題（1題2分，共24分）",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "人力資源管理部門針對剛調入的新人陳組長安排訓練，此種訓練屬於下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "職後訓練"
+      },
+      {
+        "id": "B",
+        "text": "職前訓練"
+      },
+      {
+        "id": "C",
+        "text": "在職訓練"
+      },
+      {
+        "id": "D",
+        "text": "職外訓練"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "人力資源管理部門針對剛調入的新人陳組長安排訓練，此種訓練屬於下列何者？ 職後訓練 職前訓練 在職訓練 職外訓練 其他：待人工審核 待人工審核",
+    "sequence": 2372
+  }
+}

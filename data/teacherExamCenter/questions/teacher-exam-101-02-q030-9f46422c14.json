@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q030-9f46422c14",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 30 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-23273",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "陳老師暑假期間前往美西旅遊，購買 KHH/HKG/SFO/HKG/KHH 機票，上述陳老師所使用的機票行程屬於：",
+    "options": [
+      {
+        "id": "A",
+        "text": "One Way"
+      },
+      {
+        "id": "B",
+        "text": "Round Trip"
+      },
+      {
+        "id": "C",
+        "text": "Open Jaw"
+      },
+      {
+        "id": "D",
+        "text": "Circle Trip。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票、旅遊、open jaw、round trip"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "陳老師暑假期間前往美西旅遊，購買 KHH/HKG/SFO/HKG/KHH 機票，上述陳老師所使用的機票行程屬於： One Way Round Trip Open Jaw Circle Trip。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 384
+  }
+}

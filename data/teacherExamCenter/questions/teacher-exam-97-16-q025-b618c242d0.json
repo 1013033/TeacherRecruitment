@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q025-b618c242d0",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 25 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-26568",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "西堤餐廳的食物成本佔 40%，若總材料費為 100 元的雞肉派，請問應售價多少？",
+    "options": [
+      {
+        "id": "A",
+        "text": "100 元"
+      },
+      {
+        "id": "B",
+        "text": "200 元"
+      },
+      {
+        "id": "C",
+        "text": "250 元"
+      },
+      {
+        "id": "D",
+        "text": "150 元。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西堤餐廳的食物成本佔 40%，若總材料費為 100 元的雞肉派，請問應售價多少？ 100 元 200 元 250 元 150 元。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2547
+  }
+}

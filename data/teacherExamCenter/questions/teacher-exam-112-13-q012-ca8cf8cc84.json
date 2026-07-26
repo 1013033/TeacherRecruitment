@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q012-ca8cf8cc84",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 12 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-10247",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "如果你是一位專業的 Bartender，請問以下有關調酒 Pink Lady、Screwdriver、Caipirinha、Old Fashioned 的知識何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "唯一沒有Garnish的是Pink Lady"
+      },
+      {
+        "id": "B",
+        "text": "使用Build的調製法為Screwdriver、Pink Lady"
+      },
+      {
+        "id": "C",
+        "text": "使用Vodka當基酒的是Pink Lady"
+      },
+      {
+        "id": "D",
+        "text": "Caipirinha 在調製過程中會使用到 Muddler"
+      },
+      {
+        "id": "D",
+        "text": "Caipirinha在調製過程中會使用到Muddler"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：vodka"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "如果你是一位專業的 Bartender，請問以下有關調酒 Pink Lady、Screwdriver、Caipirinha、Old Fashioned 的知識何者正確？ 唯一沒有Garnish的是Pink Lady 使用Build的調製法為Screwdriver、Pink Lady 使用Vodka當基酒的是Pink Lady Caipirinha 在調製過程中會使用到 Muddler Caipirinha在調製過程中會使用到Muddler 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1959
+  }
+}

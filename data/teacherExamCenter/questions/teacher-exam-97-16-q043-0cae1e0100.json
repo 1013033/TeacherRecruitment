@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q043-0cae1e0100",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 43 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-12292",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "以市場區隔而言，澳洲可謂新興的葡萄酒產區，請問該區以栽培哪種葡萄品種為主，堪稱是澳洲最好的紅酒釀造品種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chardonnay"
+      },
+      {
+        "id": "B",
+        "text": "Merlot"
+      },
+      {
+        "id": "C",
+        "text": "Shiraz"
+      },
+      {
+        "id": "D",
+        "text": "Riesling"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒、chardonnay、riesling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以市場區隔而言，澳洲可謂新興的葡萄酒產區，請問該區以栽培哪種葡萄品種為主，堪稱是澳洲最好的紅酒釀造品種？ Chardonnay Merlot Shiraz Riesling 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2413
+  }
+}

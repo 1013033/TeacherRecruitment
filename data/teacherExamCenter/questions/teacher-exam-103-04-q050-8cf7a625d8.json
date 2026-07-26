@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q050-8cf7a625d8",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 50 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-8073",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "下列那一個餐飲部門負責廚房的清潔消毒與廢料處理？",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐廳部"
+      },
+      {
+        "id": "B",
+        "text": "餐務部"
+      },
+      {
+        "id": "C",
+        "text": "倉儲部"
+      },
+      {
+        "id": "D",
+        "text": "管制部。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列那一個餐飲部門負責廚房的清潔消毒與廢料處理？ 餐廳部 餐務部 倉儲部 管制部。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 577
+  }
+}

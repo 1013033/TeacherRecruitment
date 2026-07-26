@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q027-744fee074b",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 27 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-6070",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "某飯店共有 250 間客房，其中有 5 間 O.O.O. 房，當日售出 150 間，住宿的房客共有 200 人，其住宿總收入為 $450,000，則該日飯店的平均房價為多少元？",
+    "options": [
+      {
+        "id": "A",
+        "text": "$1,800"
+      },
+      {
+        "id": "B",
+        "text": "$1,836"
+      },
+      {
+        "id": "C",
+        "text": "$2,500"
+      },
+      {
+        "id": "D",
+        "text": "$3,000。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、客房、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某飯店共有 250 間客房，其中有 5 間 O.O.O. 房，當日售出 150 間，住宿的房客共有 200 人，其住宿總收入為 $450,000，則該日飯店的平均房價為多少元？ $1,800 $1,836 $2,500 $3,000。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 554
+  }
+}

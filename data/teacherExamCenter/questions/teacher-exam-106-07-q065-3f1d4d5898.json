@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q065-3f1d4d5898",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 65 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-22435",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 65,
+    "questionType": "single-choice",
+    "prompt": "有關紅茶的敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "全葉茶以橙白毫（Orange Pekoe）為最高等級。"
+      },
+      {
+        "id": "B",
+        "text": "專業的茶罐上會標示茶葉的濃度大小，其中 1 為最弱，4 為最強。"
+      },
+      {
+        "id": "C",
+        "text": "急速冷卻紅茶湯較不易產生白濁現象（Cream Down）。"
+      },
+      {
+        "id": "D",
+        "text": "碎型紅茶適合以下投法沖調以便快速受熱。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關紅茶的敘述何者正確？ 全葉茶以橙白毫（Orange Pekoe）為最高等級。 專業的茶罐上會標示茶葉的濃度大小，其中 1 為最弱，4 為最強。 急速冷卻紅茶湯較不易產生白濁現象（Cream Down）。 碎型紅茶適合以下投法沖調以便快速受熱。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1244
+  }
+}

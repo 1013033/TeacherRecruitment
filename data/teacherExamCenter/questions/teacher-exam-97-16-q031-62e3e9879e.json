@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q031-62e3e9879e",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 31 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-11092",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "咖啡莓果經過一系列的脫皮、脫肉、除膠及乾燥處理後，即成為在市場上買賣的“生豆”，其英文說法為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Green Coffee Beans"
+      },
+      {
+        "id": "B",
+        "text": "Raw Coffee Beans"
+      },
+      {
+        "id": "C",
+        "text": "Coffee Berry Beans"
+      },
+      {
+        "id": "D",
+        "text": "Roasted Coffee Beans"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "咖啡莓果經過一系列的脫皮、脫肉、除膠及乾燥處理後，即成為在市場上買賣的“生豆”，其英文說法為何？ Green Coffee Beans Raw Coffee Beans Coffee Berry Beans Roasted Coffee Beans 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2401
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q006-d1d4ffd6b0",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 6 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-1440",
+    "paperTitle": "未標示試卷",
+    "schoolName": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "以下觀光發展的排序何者正確？ 甲、發行機器可判讀護照 乙、發布旅行業管理規則 丙、開放第二類大陸人士來台觀光 丁、國外旅遊警示分級由三級制改為四級制 戊、成立交通部觀光事業小組 己、首度舉辦大陸地區領隊人員甄試",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙戊甲己丁丙"
+      },
+      {
+        "id": "B",
+        "text": "戊乙己甲丁丙"
+      },
+      {
+        "id": "C",
+        "text": "戊乙甲己丙丁"
+      },
+      {
+        "id": "D",
+        "text": "乙戊己甲丙丁。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下觀光發展的排序何者正確？ 甲、發行機器可判讀護照 乙、發布旅行業管理規則 丙、開放第二類大陸人士來台觀光 丁、國外旅遊警示分級由三級制改為四級制 戊、成立交通部觀光事業小組 己、首度舉辦大陸地區領隊人員甄試 乙戊甲己丁丙 戊乙己甲丁丙 戊乙甲己丙丁 乙戊己甲丙丁。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 974
+  }
+}

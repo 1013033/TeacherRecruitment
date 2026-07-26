@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q019-b9b8c5ed86",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 19 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-2663",
+    "paperTitle": "二、複選題（每題2分，全對才給分，共10分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 19,
+    "questionType": "multiple-choice",
+    "prompt": "下列哪一款咖啡不含酒精成分？",
+    "options": [
+      {
+        "id": "A",
+        "text": "康寶藍咖啡"
+      },
+      {
+        "id": "B",
+        "text": "維也納咖啡"
+      },
+      {
+        "id": "C",
+        "text": "亞歷山大冰咖啡"
+      },
+      {
+        "id": "D",
+        "text": "墨西哥冰咖啡。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一款咖啡不含酒精成分？ 康寶藍咖啡 維也納咖啡 亞歷山大冰咖啡 墨西哥冰咖啡。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 596
+  }
+}

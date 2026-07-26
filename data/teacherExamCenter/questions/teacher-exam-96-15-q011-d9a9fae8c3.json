@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q011-d9a9fae8c3",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 11 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-1043",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲科)",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "被譽為近代「西餐之父」指的是何人？",
+    "options": [
+      {
+        "id": "A",
+        "text": "皮瑞德拉維尼(Pierredela Varenne)"
+      },
+      {
+        "id": "B",
+        "text": "安東尼卡 雷姆(Antoine Careme)"
+      },
+      {
+        "id": "C",
+        "text": "奧古斯都艾斯可菲(Auguste Escoffier)"
+      },
+      {
+        "id": "D",
+        "text": "費南德波伊特(Fernand Point)。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "被譽為近代「西餐之父」指的是何人？ 皮瑞德拉維尼(Pierredela Varenne) 安東尼卡 雷姆(Antoine Careme) 奧古斯都艾斯可菲(Auguste Escoffier) 費南德波伊特(Fernand Point)。 其他：待人工審核 待人工審核",
+    "sequence": 2173
+  }
+}

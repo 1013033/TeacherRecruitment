@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-101-02-q003-1ffa196f9e",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 3 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-13637",
+    "paperTitle": "一、單選題（每題2分，共50分）",
+    "schoolName": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "依交通部觀光局統計資料顯示，下列敘述何者不正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蘭嶼地區 101 年 6 月遊客人數較前年同月大幅減少"
+      },
+      {
+        "id": "B",
+        "text": "知本溫泉風景特定區 101 年 6 月遊客人數較前年大幅增加"
+      },
+      {
+        "id": "C",
+        "text": "綠島 101 年 6 月遊客人數為 36,236 人次"
+      },
+      {
+        "id": "D",
+        "text": "截至民國 101 年 6 月止，臺東縣境合法民宿有 411 家。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依交通部觀光局統計資料顯示，下列敘述何者不正確？ 蘭嶼地區 101 年 6 月遊客人數較前年同月大幅減少 知本溫泉風景特定區 101 年 6 月遊客人數較前年大幅增加 綠島 101 年 6 月遊客人數為 36,236 人次 截至民國 101 年 6 月止，臺東縣境合法民宿有 411 家。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 302
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-94-14-q018-dbdeb62bc0",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 18 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-1827",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "廚房管理中有關廚房的清潔衛生維護，下列敘述何者不正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "實施刀具、砧板分類，避免交互污染"
+      },
+      {
+        "id": "B",
+        "text": "工作台面、器皿與用具應儘量用塑膠製用品，節省成本"
+      },
+      {
+        "id": "C",
+        "text": "每個月至少做一次以上的徹底消毒工作"
+      },
+      {
+        "id": "D",
+        "text": "通風設備應經常保持良好運作與清潔。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "廚房管理中有關廚房的清潔衛生維護，下列敘述何者不正確？ 實施刀具、砧板分類，避免交互污染 工作台面、器皿與用具應儘量用塑膠製用品，節省成本 每個月至少做一次以上的徹底消毒工作 通風設備應經常保持良好運作與清潔。 其他：待人工審核 待人工審核",
+    "sequence": 2019
+  }
+}

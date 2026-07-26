@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-102-03-q001-97da4f4294",
+    "sourceYear": 102,
+    "sourceLabel": "102 年第 1 題",
+    "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-5067",
+    "paperTitle": "四、問答題（共 30 分）",
+    "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+    "questionNumber": 1,
+    "questionType": "essay",
+    "prompt": "某班機從 TSA 下午 15:50 出發，於同日中午 11:20 抵達 LAX(-8)，請問共飛行多久時間？（5分） 解答： TSA（台北松山機場，UTC+8）出發時間：15:50。 LAX（洛杉磯，西八區，UTC-8）抵達時間：當日 11:20。 時差計算：台北與洛杉磯標準時差為 16 小時（若計入日光節約時間則另計，通常標準計算以時差換算）。 將抵達時間換算為台北時間：11:20 + 16小時 = 當日 27:20（即次日 03:20）。 飛行時間 = 次日 03:20 - 15:50 = 11 小時 30 分鐘。（若該季節洛杉磯實施日光節約時間 UTC-7，時差 15 小時，則飛行時間為 12 小時 30 分鐘）。",
+    "options": [],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機場、時差"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某班機從 TSA 下午 15:50 出發，於同日中午 11:20 抵達 LAX(-8)，請問共飛行多久時間？（5分） 解答： TSA（台北松山機場，UTC+8）出發時間：15:50。 LAX（洛杉磯，西八區，UTC-8）抵達時間：當日 11:20。 時差計算：台北與洛杉磯標準時差為 16 小時（若計入日光節約時間則另計，通常標準計算以時差換算）。 將抵達時間換算為台北時間：11:20 + 16小時 = 當日 27:20（即次日 03:20）。 飛行時間 = 次日 03:20 - 15:50 = 11 小時 30 分鐘。（若該季節洛杉磯實施日光節約時間 UTC-7，時差 15 小時，則飛行時間為 12 小時 30 分鐘）。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 427
+  }
+}

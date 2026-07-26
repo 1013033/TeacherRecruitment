@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q008-48530b98a3",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 8 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5142",
+    "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+    "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "外國旅行業可以委託國內何種旅行業辦理聯絡、推廣、報價等事務？甲、綜合旅行業 乙、甲種旅行業 丙、乙種旅行業？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲"
+      },
+      {
+        "id": "B",
+        "text": "乙"
+      },
+      {
+        "id": "C",
+        "text": "甲乙"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丙。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "外國旅行業可以委託國內何種旅行業辦理聯絡、推廣、報價等事務？甲、綜合旅行業 乙、甲種旅行業 丙、乙種旅行業？ 甲 乙 甲乙 甲乙丙。 其他：待人工審核 待人工審核",
+    "sequence": 33
+  }
+}

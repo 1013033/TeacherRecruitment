@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q015-3cc3595409",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 15 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-10588",
+    "paperTitle": "一、選擇題（25 題）50%",
+    "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "世界上知名度最高的強化酒精葡萄酒（Fortified Wine），雪莉酒（Sherry）及波特酒（Port），產於哪些國家？",
+    "options": [
+      {
+        "id": "A",
+        "text": "南非及加拿大"
+      },
+      {
+        "id": "B",
+        "text": "法國及義大利"
+      },
+      {
+        "id": "C",
+        "text": "德國及瑞士"
+      },
+      {
+        "id": "D",
+        "text": "西班牙及葡萄牙。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、雪莉、波特、wine、sherry"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "世界上知名度最高的強化酒精葡萄酒（Fortified Wine），雪莉酒（Sherry）及波特酒（Port），產於哪些國家？ 南非及加拿大 法國及義大利 德國及瑞士 西班牙及葡萄牙。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 81
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-97-16-q022-418bfafd8e",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 22 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-5640",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "旅客證照的控管、訂位的調整、旅館或交通工具的安排是哪一項團體作業？",
+    "options": [
+      {
+        "id": "A",
+        "text": "前置作業"
+      },
+      {
+        "id": "B",
+        "text": "組團作業"
+      },
+      {
+        "id": "C",
+        "text": "團控作業"
+      },
+      {
+        "id": "D",
+        "text": "出團作業。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅客證照的控管、訂位的調整、旅館或交通工具的安排是哪一項團體作業？ 前置作業 組團作業 團控作業 出團作業。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2342
+  }
+}

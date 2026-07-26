@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q032-472d4c087d",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 32 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-13426",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項是屬於熱 Hors D'oeuvre chaud？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Escargots en Croûte"
+      },
+      {
+        "id": "B",
+        "text": "Blood sausage with pea"
+      },
+      {
+        "id": "C",
+        "text": "Caviar with blini"
+      },
+      {
+        "id": "D",
+        "text": "Tartare"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：escargot"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項是屬於熱 Hors D'oeuvre chaud？ Escargots en Croûte Blood sausage with pea Caviar with blini Tartare 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1764
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q005-2d198bfa0c",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 5 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-27090",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "關於住客服務，下列敘述何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bunk Bed Service 提供 6 歲以下嬰幼兒使用，一般是免費提供。"
+      },
+      {
+        "id": "B",
+        "text": "Baby Sitter Service 屬房務部住客服務，保姆一次最多可照顧兩位幼童。"
+      },
+      {
+        "id": "C",
+        "text": "Valet Service 房客如未填 Laundry List，房務員不可收洗衣物。"
+      },
+      {
+        "id": "D",
+        "text": "Butler Service 工作包括 Unpacking Service、Laying Out Clothes。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於住客服務，下列敘述何者有誤？ Bunk Bed Service 提供 6 歲以下嬰幼兒使用，一般是免費提供。 Baby Sitter Service 屬房務部住客服務，保姆一次最多可照顧兩位幼童。 Valet Service 房客如未填 Laundry List，房務員不可收洗衣物。 Butler Service 工作包括 Unpacking Service、Laying Out Clothes。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1284
+  }
+}

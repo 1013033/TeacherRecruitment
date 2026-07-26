@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q039-c79755664a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 39 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-14712",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "蝦子是海鮮料理中的重要主角之一，關於各國、各菜系的蝦料理配對，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "乾燒明蝦：湖南菜"
+      },
+      {
+        "id": "B",
+        "text": "腰果蝦仁：廣東菜"
+      },
+      {
+        "id": "C",
+        "text": "龍井蝦仁：福建菜"
+      },
+      {
+        "id": "D",
+        "text": "滑蛋蝦仁：北平菜"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "蝦子是海鮮料理中的重要主角之一，關於各國、各菜系的蝦料理配對，何者正確？ 乾燒明蝦：湖南菜 腰果蝦仁：廣東菜 龍井蝦仁：福建菜 滑蛋蝦仁：北平菜 其他：待人工審核 待人工審核",
+    "sequence": 1771
+  }
+}

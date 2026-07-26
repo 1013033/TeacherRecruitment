@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q008-2bdbdda9b8",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 8 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-3946",
+    "paperTitle": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "schoolName": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "大眾旅遊的普遍性，下列敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1963 年英國啟用波音客機（Boeing）"
+      },
+      {
+        "id": "B",
+        "text": "1974 年西班牙、德國、法國及義大利共同研發了空中巴士（Air Bus）"
+      },
+      {
+        "id": "C",
+        "text": "1964 年後，汽車旅遊盛行"
+      },
+      {
+        "id": "D",
+        "text": "因工時減少及對休閒的重視，產生了各種形式的觀光。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "大眾旅遊的普遍性，下列敘述，何者正確？ 1963 年英國啟用波音客機（Boeing） 1974 年西班牙、德國、法國及義大利共同研發了空中巴士（Air Bus） 1964 年後，汽車旅遊盛行 因工時減少及對休閒的重視，產生了各種形式的觀光。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 535
+  }
+}

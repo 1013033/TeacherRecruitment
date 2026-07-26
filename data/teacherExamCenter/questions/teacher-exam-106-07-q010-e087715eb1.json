@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q010-e087715eb1",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 10 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-10402",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "王品集團引進莆田餐廳，特色菜餚如辣椒螃蟹、星洲肉骨茶，請問這是屬於何國料理？",
+    "options": [
+      {
+        "id": "A",
+        "text": "新加坡"
+      },
+      {
+        "id": "B",
+        "text": "馬來西亞"
+      },
+      {
+        "id": "C",
+        "text": "越南"
+      },
+      {
+        "id": "D",
+        "text": "香港。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "王品集團引進莆田餐廳，特色菜餚如辣椒螃蟹、星洲肉骨茶，請問這是屬於何國料理？ 新加坡 馬來西亞 越南 香港。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1138
+  }
+}

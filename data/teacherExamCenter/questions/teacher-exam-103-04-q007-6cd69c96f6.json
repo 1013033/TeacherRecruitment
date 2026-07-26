@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-103-04-q007-6cd69c96f6",
+    "sourceYear": 103,
+    "sourceLabel": "103 年第 7 題",
+    "sourceFile": "103餐旅群教師甄試合併檔(列印) 7頁.md",
+    "sourceLocator": "103餐旅群教師甄試合併檔(列印) 7頁.md#offset-1213",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "請問中華民國刑法第 185 條之 3 修正條文，明定駕駛人吐氣所含酒精濃度每公升達多少毫克以上而駕車者，即觸該條規定構成犯罪？",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.5"
+      },
+      {
+        "id": "B",
+        "text": "0.25"
+      },
+      {
+        "id": "C",
+        "text": "0.15"
+      },
+      {
+        "id": "D",
+        "text": "0.1。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請問中華民國刑法第 185 條之 3 修正條文，明定駕駛人吐氣所含酒精濃度每公升達多少毫克以上而駕車者，即觸該條規定構成犯罪？ 0.5 0.25 0.15 0.1。 其他：待人工審核 待人工審核",
+    "sequence": 509
+  }
+}

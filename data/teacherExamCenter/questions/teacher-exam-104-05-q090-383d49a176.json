@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q090-383d49a176",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 90 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-14545",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 90,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是常用以釀製白酒的葡萄品種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gamay"
+      },
+      {
+        "id": "B",
+        "text": "Chardonnay"
+      },
+      {
+        "id": "C",
+        "text": "Riesling"
+      },
+      {
+        "id": "D",
+        "text": "Pinot Blanc."
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白酒、pinot、chardonnay、riesling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是常用以釀製白酒的葡萄品種？ Gamay Chardonnay Riesling Pinot Blanc. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 695
+  }
+}

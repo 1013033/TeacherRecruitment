@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q001-30f62842c0",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 1 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-9059",
+    "paperTitle": "第一部分：單選題（每題 2 分，共 40 分）",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "中國飲食在各地口味上的特色，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "浙菜素有「春有刀鰭，夏有鯽，秋有肥鴨，冬有蔬」美譽、福建菜為台菜之祖"
+      },
+      {
+        "id": "B",
+        "text": "四川人不怕辣、湖南人辣不怕、粵菜不問鳥獸蟲蛇，無一不食"
+      },
+      {
+        "id": "C",
+        "text": "湘菜「無辣不成菜」、「閩菜五滋六味」俱全"
+      },
+      {
+        "id": "D",
+        "text": "魯菜為「八大菜系之首」、皖菜是「南食」台柱。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "中國飲食在各地口味上的特色，下列何者正確？ 浙菜素有「春有刀鰭，夏有鯽，秋有肥鴨，冬有蔬」美譽、福建菜為台菜之祖 四川人不怕辣、湖南人辣不怕、粵菜不問鳥獸蟲蛇，無一不食 湘菜「無辣不成菜」、「閩菜五滋六味」俱全 魯菜為「八大菜系之首」、皖菜是「南食」台柱。 其他：待人工審核 待人工審核",
+    "sequence": 1129
+  }
+}

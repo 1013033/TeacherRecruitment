@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q006-3cdc677f36",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 6 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-6827",
+    "paperTitle": "一、單選題（45 題每題 2 分共 90 分）",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "西餐之母的稱號，主要是指何種菜餚？",
+    "options": [
+      {
+        "id": "A",
+        "text": "德國菜"
+      },
+      {
+        "id": "B",
+        "text": "義大利菜"
+      },
+      {
+        "id": "C",
+        "text": "瑞士菜"
+      },
+      {
+        "id": "D",
+        "text": "法國菜。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐之母的稱號，主要是指何種菜餚？ 德國菜 義大利菜 瑞士菜 法國菜。 其他：待人工審核 待人工審核",
+    "sequence": 2722
+  }
+}

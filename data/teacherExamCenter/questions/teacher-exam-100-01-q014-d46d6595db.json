@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-100-01-q014-d46d6595db",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 14 題",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-13542",
+    "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "某餐廳應用三種口布摺疊，包括甲：「大蓮花」、乙：「小蓮花」、丙：「野玫瑰」下列關於這三種口布功能的說明，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲：顧客用、乙：服勤用、丙：服勤用"
+      },
+      {
+        "id": "B",
+        "text": "甲：服勤用、乙：顧客用、丙：觀賞用"
+      },
+      {
+        "id": "C",
+        "text": "甲：觀賞用、乙：顧客用、丙：服勤用"
+      },
+      {
+        "id": "D",
+        "text": "甲：服勤用、乙：服勤用、丙：觀賞用。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某餐廳應用三種口布摺疊，包括甲：「大蓮花」、乙：「小蓮花」、丙：「野玫瑰」下列關於這三種口布功能的說明，何者正確？ 甲：顧客用、乙：服勤用、丙：服勤用 甲：服勤用、乙：顧客用、丙：觀賞用 甲：觀賞用、乙：顧客用、丙：服勤用 甲：服勤用、乙：服勤用、丙：觀賞用。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 111
+  }
+}

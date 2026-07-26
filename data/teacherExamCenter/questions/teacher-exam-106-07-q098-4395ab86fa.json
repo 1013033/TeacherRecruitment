@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q098-4395ab86fa",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 98 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-25901",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 98,
+    "questionType": "multiple-choice",
+    "prompt": "下列雞尾酒的裝飾物何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brandy Alexander: Cinnamon Powder"
+      },
+      {
+        "id": "B",
+        "text": "Pousse Café: Three Coffee Beans"
+      },
+      {
+        "id": "C",
+        "text": "Horse's Neck: Lemon Spiral / Dash Angostura Bitters"
+      },
+      {
+        "id": "D",
+        "text": "Orange Blossom: Sugar Rimmed"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：brandy"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列雞尾酒的裝飾物何者正確？ Brandy Alexander: Cinnamon Powder Pousse Café: Three Coffee Beans Horse's Neck: Lemon Spiral / Dash Angostura Bitters Orange Blossom: Sugar Rimmed 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1277
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q052-d61fd029a3",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 52 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-10943",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 52,
+    "questionType": "single-choice",
+    "prompt": "關於旅館從業人員的工作職掌，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "在豪華旅館門口負責解答顧客有關觀光路線之疑難者的是 bell man"
+      },
+      {
+        "id": "B",
+        "text": "旅館當日負責結算住房率的是 night clerk"
+      },
+      {
+        "id": "C",
+        "text": "負責準備房務客房日報表的是 housekeeping supervisor"
+      },
+      {
+        "id": "D",
+        "text": "負責顧客 Lost & Found 工作的是 Office Clerk。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於旅館從業人員的工作職掌，下列何者錯誤？ 在豪華旅館門口負責解答顧客有關觀光路線之疑難者的是 bell man 旅館當日負責結算住房率的是 night clerk 負責準備房務客房日報表的是 housekeeping supervisor 負責顧客 Lost & Found 工作的是 Office Clerk。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 657
+  }
+}

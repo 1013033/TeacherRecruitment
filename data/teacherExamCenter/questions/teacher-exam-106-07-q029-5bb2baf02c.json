@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q029-5bb2baf02c",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 29 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-18506",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "請選出床鋪採「羽絨被鋪設」的正確操作步驟： (甲)Bed Pad 鋪設 (乙)拉床 (丙)Bed Sheet 鋪設 (丁)Bedspread 鋪設 (戊)Pillowcase 鋪設 (己)Comforter cover 鋪設",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙丁戊己"
+      },
+      {
+        "id": "B",
+        "text": "乙甲丙己戊丁"
+      },
+      {
+        "id": "C",
+        "text": "乙甲丁戊己丙"
+      },
+      {
+        "id": "D",
+        "text": "丁戊己乙甲丙"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請選出床鋪採「羽絨被鋪設」的正確操作步驟： (甲)Bed Pad 鋪設 (乙)拉床 (丙)Bed Sheet 鋪設 (丁)Bedspread 鋪設 (戊)Pillowcase 鋪設 (己)Comforter cover 鋪設 甲乙丙丁戊己 乙甲丙己戊丁 乙甲丁戊己丙 丁戊己乙甲丙 其他：待人工審核 待人工審核",
+    "sequence": 1208
+  }
+}

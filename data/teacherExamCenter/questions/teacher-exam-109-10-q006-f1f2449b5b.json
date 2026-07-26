@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q006-f1f2449b5b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 6 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-4370",
+    "paperTitle": "一、單選題（共20題，每題2分）",
+    "schoolName": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "When you arrive at the destination airport, don't forget to go to ________ for a routine inspection.",
+    "options": [
+      {
+        "id": "A",
+        "text": "the Customs"
+      },
+      {
+        "id": "B",
+        "text": "the check-in desk"
+      },
+      {
+        "id": "C",
+        "text": "the meeting point"
+      },
+      {
+        "id": "D",
+        "text": "the information desk"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "When you arrive at the destination airport, don't forget to go to ________ for a routine inspection. the Customs the check-in desk the meeting point the information desk 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1548
+  }
+}

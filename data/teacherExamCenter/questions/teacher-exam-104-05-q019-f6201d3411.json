@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q019-f6201d3411",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 19 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-17507",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "以下有關我國旅館的等級評鑑制度，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "600至749分核給五星級"
+      },
+      {
+        "id": "B",
+        "text": "由內政部營建署核發星級評鑑標誌"
+      },
+      {
+        "id": "C",
+        "text": "免費評鑑延至101年12月31日"
+      },
+      {
+        "id": "D",
+        "text": "星級評鑑每2年通盤辦理一次。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下有關我國旅館的等級評鑑制度，何者正確？ 600至749分核給五星級 由內政部營建署核發星級評鑑標誌 免費評鑑延至101年12月31日 星級評鑑每2年通盤辦理一次。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 724
+  }
+}

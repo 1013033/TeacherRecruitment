@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q005-da66bbcd4e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 5 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-4993",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "請就下列 plate 的 size 大排到小，何者正確？ 甲、entrée plate；乙、dessert plate；丙、show plate；丁、B.B. plate",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲 > 丁 > 丙 > 乙"
+      },
+      {
+        "id": "B",
+        "text": "乙 > 丁 > 甲 > 丙"
+      },
+      {
+        "id": "C",
+        "text": "丁 > 丙 > 乙 > 甲"
+      },
+      {
+        "id": "D",
+        "text": "丙 > 甲 > 乙 > 丁。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請就下列 plate 的 size 大排到小，何者正確？ 甲、entrée plate；乙、dessert plate；丙、show plate；丁、B.B. plate 甲 > 丁 > 丙 > 乙 乙 > 丁 > 甲 > 丙 丁 > 丙 > 乙 > 甲 丙 > 甲 > 乙 > 丁。 其他：待人工審核 待人工審核",
+    "sequence": 610
+  }
+}

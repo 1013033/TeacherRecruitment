@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q012-4fa183c48e",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 12 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-28047",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高中部觀光科試題卷",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "有關旅館的發展史，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "禮賓院、驛館、波斯邸都是我國明朝對旅館的稱呼。"
+      },
+      {
+        "id": "B",
+        "text": "台北福朋喜來登 Sheraton 飯店是台灣首座國際連鎖飯店。"
+      },
+      {
+        "id": "C",
+        "text": "因應縱貫鐵路開通，接待前來參加慶祝儀式的各界貴賓台灣鐵路飯店於 1908 年完工。"
+      },
+      {
+        "id": "D",
+        "text": "以星級為等級的旅館業評鑑標準制度在民國 93 年已經開始實施。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關旅館的發展史，下列何者正確？ 禮賓院、驛館、波斯邸都是我國明朝對旅館的稱呼。 台北福朋喜來登 Sheraton 飯店是台灣首座國際連鎖飯店。 因應縱貫鐵路開通，接待前來參加慶祝儀式的各界貴賓台灣鐵路飯店於 1908 年完工。 以星級為等級的旅館業評鑑標準制度在民國 93 年已經開始實施。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1291
+  }
+}

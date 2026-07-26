@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q024-4b28e6df37",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 24 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-7702",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "下列哪個國際性連鎖旅館，最先被引進臺灣地區？",
+    "options": [
+      {
+        "id": "A",
+        "text": "凱悅國際(Hyatt International)"
+      },
+      {
+        "id": "B",
+        "text": "喜來登(ITT Sheraton)"
+      },
+      {
+        "id": "C",
+        "text": "麗晶國際(Regent International)"
+      },
+      {
+        "id": "D",
+        "text": "四季酒店(Four Seasons)。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪個國際性連鎖旅館，最先被引進臺灣地區？ 凱悅國際(Hyatt International) 喜來登(ITT Sheraton) 麗晶國際(Regent International) 四季酒店(Four Seasons)。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2241
+  }
+}

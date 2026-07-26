@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-110-11-q035-9dd3e48879",
+    "sourceYear": 110,
+    "sourceLabel": "110 年第 35 題",
+    "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+    "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-5757",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 35,
+    "questionType": "multiple-choice",
+    "prompt": "下午茶供應時間通常為14:00~17:00，正式英式下午茶通常會使用High Tier Stand盛裝食物，試問哪些餐點會放於中間層？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cake"
+      },
+      {
+        "id": "B",
+        "text": "Sandwich"
+      },
+      {
+        "id": "C",
+        "text": "Scone"
+      },
+      {
+        "id": "D",
+        "text": "Cream or Jam。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下午茶供應時間通常為14:00~17:00，正式英式下午茶通常會使用High Tier Stand盛裝食物，試問哪些餐點會放於中間層？ Cake Sandwich Scone Cream or Jam。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1675
+  }
+}

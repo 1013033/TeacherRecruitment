@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q023-c546e37309",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 23 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-27848",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "團體旅遊規劃與估價，也必須考慮 FOC 的問題，FOC 是指？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Food or Coffee"
+      },
+      {
+        "id": "B",
+        "text": "Free of Charge"
+      },
+      {
+        "id": "C",
+        "text": "Free of Change"
+      },
+      {
+        "id": "D",
+        "text": "Free of Chance"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "團體旅遊規劃與估價，也必須考慮 FOC 的問題，FOC 是指？ Food or Coffee Free of Charge Free of Change Free of Chance 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 1868
+  }
+}

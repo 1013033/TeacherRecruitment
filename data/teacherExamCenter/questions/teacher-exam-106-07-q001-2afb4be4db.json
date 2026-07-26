@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q001-2afb4be4db",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 1 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-343",
+    "paperTitle": "一、單選題",
+    "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "餐廳「價位與服務比重」之分類中，哪一種類型餐廳平均（客）單價最高？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vending Machine"
+      },
+      {
+        "id": "B",
+        "text": "Atmosphere Restaurant"
+      },
+      {
+        "id": "C",
+        "text": "Limited-service Restaurant"
+      },
+      {
+        "id": "D",
+        "text": "Luxury Restaurant。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、restaurant、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳「價位與服務比重」之分類中，哪一種類型餐廳平均（客）單價最高？ Vending Machine Atmosphere Restaurant Limited-service Restaurant Luxury Restaurant。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1078
+  }
+}

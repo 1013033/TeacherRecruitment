@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q020-c2b7a4f13e",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 20 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-20293",
+    "paperTitle": "未標示試卷",
+    "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種沖泡咖啡的方法，不是以滴濾的原理來進行沖泡？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dutch Drip"
+      },
+      {
+        "id": "B",
+        "text": "Belgium Royal Coffee Maker"
+      },
+      {
+        "id": "C",
+        "text": "Paper Drip"
+      },
+      {
+        "id": "D",
+        "text": "Drip Coffee Maker."
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、coffee"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種沖泡咖啡的方法，不是以滴濾的原理來進行沖泡？ Dutch Drip Belgium Royal Coffee Maker Paper Drip Drip Coffee Maker. 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 753
+  }
+}

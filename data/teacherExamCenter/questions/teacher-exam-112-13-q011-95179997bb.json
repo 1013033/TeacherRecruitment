@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-112-13-q011-95179997bb",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 11 題",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-10197",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "這間西餐廳融合了各國代表料理，請問以下配對哪個錯誤？",
+    "options": [
+      {
+        "id": "B",
+        "text": "Risotto 德國"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "這間西餐廳融合了各國代表料理，請問以下配對哪個錯誤？ Risotto 德國 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1958
+  }
+}

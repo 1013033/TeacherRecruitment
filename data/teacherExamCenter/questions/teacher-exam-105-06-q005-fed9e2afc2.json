@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-105-06-q005-fed9e2afc2",
+    "sourceYear": 105,
+    "sourceLabel": "105 年第 5 題",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-6949",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "依我國旅行業管理規則，有關旅行業申請與營運之規定，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "旅行業為公司組織型態，需符合最低資本額、保證金與專業經理人之規定"
+      },
+      {
+        "id": "B",
+        "text": "旅行業申請程序分為申請籌設及註冊登記兩大部份"
+      },
+      {
+        "id": "C",
+        "text": "經營旅行業務應領有旅行業公會核發的旅行業執照才可營業"
+      },
+      {
+        "id": "D",
+        "text": "需與旅客簽定旅遊契約書，並投保責任險與履約險以保障旅客權益。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依我國旅行業管理規則，有關旅行業申請與營運之規定，下列敘述何者錯誤？ 旅行業為公司組織型態，需符合最低資本額、保證金與專業經理人之規定 旅行業申請程序分為申請籌設及註冊登記兩大部份 經營旅行業務應領有旅行業公會核發的旅行業執照才可營業 需與旅客簽定旅遊契約書，並投保責任險與履約險以保障旅客權益。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 1003
+  }
+}

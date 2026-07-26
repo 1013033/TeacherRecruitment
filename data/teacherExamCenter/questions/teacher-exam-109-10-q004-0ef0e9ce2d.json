@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-109-10-q004-0ef0e9ce2d",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 4 題",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-545",
+    "paperTitle": "一、單選題（每題2分，共30分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列有關於各國啤酒的代表品牌，何者配對錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "荷蘭：Grolsch、Heineken"
+      },
+      {
+        "id": "B",
+        "text": "美國：Budweiser、San Miguel"
+      },
+      {
+        "id": "C",
+        "text": "德國：Beck's、Holsten"
+      },
+      {
+        "id": "D",
+        "text": "日本：Suntory、Asahi。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列有關於各國啤酒的代表品牌，何者配對錯誤？ 荷蘭：Grolsch、Heineken 美國：Budweiser、San Miguel 德國：Beck's、Holsten 日本：Suntory、Asahi。 其他：待人工審核 待人工審核",
+    "sequence": 1518
+  }
+}

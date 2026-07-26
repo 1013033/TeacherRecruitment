@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q001-79f6601d5f",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 1 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-4793",
+    "paperTitle": "二、選擇題(每題1分,共40分)",
+    "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於吧檯作業與酒類服務之敘述,下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sommelier 為法式餐廳特有的專業桌邊烹飪師"
+      },
+      {
+        "id": "B",
+        "text": "Decant 為避免陳年紅酒沉澱物倒入杯中的處理過程"
+      },
+      {
+        "id": "C",
+        "text": "House wine 意指餐廳允許客人可自行攜帶之葡萄酒"
+      },
+      {
+        "id": "D",
+        "text": "Under Bar 為餐廳各區專屬吧檯,具展示與陳列功能。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒、wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於吧檯作業與酒類服務之敘述,下列何者正確？ Sommelier 為法式餐廳特有的專業桌邊烹飪師 Decant 為避免陳年紅酒沉澱物倒入杯中的處理過程 House wine 意指餐廳允許客人可自行攜帶之葡萄酒 Under Bar 為餐廳各區專屬吧檯,具展示與陳列功能。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1430
+  }
+}

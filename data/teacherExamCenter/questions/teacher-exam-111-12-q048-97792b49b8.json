@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q048-97792b49b8",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 48 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-32197",
+    "paperTitle": "未標示試卷",
+    "schoolName": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "Evan: What sorts of beverages do you have? Server:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Which one would you prefer?"
+      },
+      {
+        "id": "B",
+        "text": "How about some appetizers ?"
+      },
+      {
+        "id": "C",
+        "text": "Please see our beverage list."
+      },
+      {
+        "id": "D",
+        "text": "We offer both alcoholic and non-alcoholic drinks here."
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Evan: What sorts of beverages do you have? Server: Which one would you prefer? How about some appetizers ? Please see our beverage list. We offer both alcoholic and non-alcoholic drinks here. 其他：待人工審核 待人工審核",
+    "sequence": 1894
+  }
+}

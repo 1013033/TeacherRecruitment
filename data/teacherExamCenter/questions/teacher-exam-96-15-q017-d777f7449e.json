@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-96-15-q017-d777f7449e",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 17 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-1640",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲科)",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列量器換算敘述中，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1夸脫=2品脫"
+      },
+      {
+        "id": "B",
+        "text": "1品脫≒500cc"
+      },
+      {
+        "id": "C",
+        "text": "1大匙=3茶匙"
+      },
+      {
+        "id": "D",
+        "text": "1/4 量杯=8大匙。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列量器換算敘述中，何者錯誤？ 1夸脫=2品脫 1品脫≒500cc 1大匙=3茶匙 1/4 量杯=8大匙。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2179
+  }
+}

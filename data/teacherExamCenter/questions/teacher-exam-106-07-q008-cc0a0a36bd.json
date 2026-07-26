@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q008-cc0a0a36bd",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 8 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-15384",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "依據傳統西餐菜單結構，排列下列上菜順序： 甲、Poisson 乙、Middle course 丙、Potage 丁、Grosse pièce 戊、Roast w/salade 己、Hors d'oeuvre froid 庚、Entremets 辛、Hors d'oeuvre chaude",
+    "options": [
+      {
+        "id": "A",
+        "text": "己丙辛丁甲乙戊庚"
+      },
+      {
+        "id": "B",
+        "text": "辛丙己甲丁乙戊庚"
+      },
+      {
+        "id": "C",
+        "text": "辛丙己丁甲戊乙庚"
+      },
+      {
+        "id": "D",
+        "text": "己丙辛甲丁乙戊庚"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：salad、roast"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據傳統西餐菜單結構，排列下列上菜順序： 甲、Poisson 乙、Middle course 丙、Potage 丁、Grosse pièce 戊、Roast w/salade 己、Hors d'oeuvre froid 庚、Entremets 辛、Hors d'oeuvre chaude 己丙辛丁甲乙戊庚 辛丙己甲丁乙戊庚 辛丙己丁甲戊乙庚 己丙辛甲丁乙戊庚 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 1187
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-108-09-q018-61d017657f",
+    "sourceYear": 108,
+    "sourceLabel": "108 年第 18 題",
+    "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+    "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-2290",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "國產酒可分為六大類,下列分類組合何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "白酒：茅台酒"
+      },
+      {
+        "id": "B",
+        "text": "黃酒：竹葉青酒"
+      },
+      {
+        "id": "C",
+        "text": "白酒：五糧液"
+      },
+      {
+        "id": "D",
+        "text": "黃酒：女兒紅"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國產酒可分為六大類,下列分類組合何者有誤？ 白酒：茅台酒 黃酒：竹葉青酒 白酒：五糧液 黃酒：女兒紅 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 1378
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-98-17-q004-8553fb9c1c",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 4 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-779",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "以下關於機票票務之敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "AD票，為航空公司給予旅行業的優惠票，通常為票面價之 25%"
+      },
+      {
+        "id": "B",
+        "text": "YE30 指的是經濟艙旅遊票，效期 30 天"
+      },
+      {
+        "id": "C",
+        "text": "兒童票指 2 歲以上 12 歲以下，通常為票面價 50%"
+      },
+      {
+        "id": "D",
+        "text": "我國的機場稅為 500 元，隨機票徵收。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票、機場、旅遊、票務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下關於機票票務之敘述，何者錯誤？ AD票，為航空公司給予旅行業的優惠票，通常為票面價之 25% YE30 指的是經濟艙旅遊票，效期 30 天 兒童票指 2 歲以上 12 歲以下，通常為票面價 50% 我國的機場稅為 500 元，隨機票徵收。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2662
+  }
+}

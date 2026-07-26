@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-106-07-q016-5bf6696119",
+    "sourceYear": 106,
+    "sourceLabel": "106 年第 16 題",
+    "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+    "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-16624",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "下列開瓶器的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Waiter's corkscrew 一般家庭常用，無須專業技巧。"
+      },
+      {
+        "id": "B",
+        "text": "Air Pressure corkscrew 是餐廳最常使用的開瓶器。"
+      },
+      {
+        "id": "C",
+        "text": "Ah-so corkscrew 適合用於陳年葡萄酒。"
+      },
+      {
+        "id": "D",
+        "text": "Butterfly corkscrew 適合用於較脆弱的軟木塞。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：開瓶器、corkscrew"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列開瓶器的敘述，何者正確？ Waiter's corkscrew 一般家庭常用，無須專業技巧。 Air Pressure corkscrew 是餐廳最常使用的開瓶器。 Ah-so corkscrew 適合用於陳年葡萄酒。 Butterfly corkscrew 適合用於較脆弱的軟木塞。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 1195
+  }
+}

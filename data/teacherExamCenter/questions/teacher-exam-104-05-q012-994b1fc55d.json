@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-104-05-q012-994b1fc55d",
+    "sourceYear": 104,
+    "sourceLabel": "104 年第 12 題",
+    "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+    "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-38887",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "Hyatt International Corporation 是屬於何種方式的連鎖式旅館",
+    "options": [
+      {
+        "id": "A",
+        "text": "Management Contract"
+      },
+      {
+        "id": "B",
+        "text": "Franchise"
+      },
+      {
+        "id": "C",
+        "text": "Company Own"
+      },
+      {
+        "id": "D",
+        "text": "Voluntary Chain."
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Hyatt International Corporation 是屬於何種方式的連鎖式旅館 Management Contract Franchise Company Own Voluntary Chain. 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 950
+  }
+}

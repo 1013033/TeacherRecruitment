@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-c06b859808",
+  "question": {
+    "id": "teacher-exam-111-12-q011-c2a46c3913",
+    "sourceYear": 111,
+    "sourceLabel": "111 年第 11 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-10014",
+    "paperTitle": "未標示試卷",
+    "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "readingPassage": "(▲閱讀下文，回答第 11-15 題) 全家國際餐飲旗下有三個餐飲品牌：「沃克牛排」、「大戶屋」及「bb.q CHICKEN」，運用 FamilyMart 累積的經營 Know-how 和資源，開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌，讓消費者在外食有較多且安心的選擇。",
+    "prompt": "上述內容中所提的「Know-how」是指連鎖餐廳經營的：",
+    "options": [
+      {
+        "id": "A",
+        "text": "標準作業流程"
+      },
+      {
+        "id": "B",
+        "text": "加盟方式"
+      },
+      {
+        "id": "C",
+        "text": "顧客管理"
+      },
+      {
+        "id": "D",
+        "text": "專業知識"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "上述內容中所提的「Know-how」是指連鎖餐廳經營的： 標準作業流程 加盟方式 顧客管理 專業知識 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 1743
+  }
+}
