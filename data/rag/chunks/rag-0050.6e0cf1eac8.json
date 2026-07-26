@@ -1,0 +1,707 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "5016f7122dfea4db",
+  "shardId": "rag-0050.6e0cf1eac8",
+  "chunks": [
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2384-0-探購是餐廳作業的初始-成本控制的基礎-探-d9670c9f",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2384-2409",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（一）採購"
+      ],
+      "text": "探購是餐廳作業的初始，成本控制的基礎。探購循環（Purchasing Cycle）順序：探购→生產→銷售，构成「三位一體」。\n\n \n圖3-139 餐飲成本的控制循環\n\n探購流程如下：\n\n1. 確定探購需求：探購前，確認探購內容→塡寫探購申請表（PurchaseRequisition，PR單)。\n\n2.決定探購的數量與品質：確認要購買的品質、種類、規格→塡寫探購規格說明書（Purchase Specification）→請購。\n\n3.搜尋所需物品：考慮適料、適質、適量、適價。\n\n（1）合適的物料（適料）：挑選原物料、設備種類及樣式的種類、規格，確認是否合適，避免挑錯浪費成本。\n\n（2）適當的品質（適質）：原物料品質直接反應在價格上，選購以合適業者需求為準，而供貨穩定度也一定要確認。\n\n（3）適當的數量（適量）：大量探購通常議價空間較大，但業者須考量庫存空間、進貨時間、廠商情況、原物料狀況、資金、售價變動狀況、使用量、經濟訂購量（Economic Order Quantity,EOQ）、安全庫存量等。\n\n呷粗霸餐廳每日平均用掉羊肉20斤，每週進貨1次。若安全係數0.5，今日庫存1斤。請問，明天應進貨羊肉多少斤？"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2411-0-經濟訂購量須考量-材料成本-進料價格-儲-8c37abb6",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2411-2413",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "經濟訂購量"
+      ],
+      "text": "經濟訂購量須考量：材料成本（進料價格）、儲存成本（Carrying Cost）、訂購成本（Ordering Cost）及缺貨成本（Stockout Cost），達到最接近均衡的狀況。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2415-0-為預防存貨不足-造成原料短缺的現象-應預-cb260af2",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2415-2427",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "安全庫存量"
+      ],
+      "text": "為預防存貨不足，造成原料短缺的現象，應預備存貨量，計算方法如下：\n\n安全庫存量= 預估用量 × 安全係數\n\n預估用量=使用天數× 每日預估用量"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2415-1-begin-array-r-l-frac-a2b65312",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2415-2427",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "安全庫存量"
+      ],
+      "text": "$$\n\\begin{array} { r l } & { \\frac { \\tt d \\overrightarrow { E } } { \\tt d \\overrightarrow { E } } \\frac { \\tt d \\overrightarrow { e } } { \\tt d \\overrightarrow { E } } = \\frac { \\overrightarrow { { \\varphi } } } { \\tt J \\overrightarrow { E } } / \\frac { \\tt d \\overrightarrow { E } } { \\tt d \\overrightarrow { E } } + \\frac { \\overrightarrow { { \\varphi } } } { \\tt A } \\frac { \\exp } { \\tt d \\overrightarrow { E } } / \\frac { \\cos } { \\overrightarrow { \\overrightarrow { \\varphi } } } - \\frac { \\overrightarrow { { \\varphi } } } { \\tt A } / \\overline { { \\overrightarrow { \\varphi } } } \\frac { \\sin } { \\bf { \\varXi } } } \\\\ & { \\qquad = \\frac { \\triangledown } { \\tt J \\overrightarrow { E } } / \\frac { \\sin } { \\tt d \\overrightarrow { E } } + \\frac { \\triangledown } { \\tt J \\overrightarrow { E } } / \\frac { \\tan } { \\sf H } \\frac { \\cos } { \\oplus } \\times \\frac { \\triangledown } { J \\wedge \\overrightarrow { \\overrightarrow { \\varphi } } } / \\frac { \\oplus } { \\tt d \\overrightarrow { E } }"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2415-2-overrightarrow-overr-463bd950",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2415-2427",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "安全庫存量"
+      ],
+      "text": "/ - | \\overrightarrow { \\overrightarrow { \\varphi } } / \\overline { { \\Xi } } \\stackrel { \\equiv } { \\tt d } } \\\\ & { \\qquad = \\frac { \\triangledown } { \\tt J \\overrightarrow { E } } / \\frac { \\pm } { \\tt d \\overrightarrow { E } } \\mathbb { H } \\frac { \\sin } { \\oplus } \\times ( \\bf { \\sigma } 1 + \\frac { \\triangledown } { \\varkappa } \\frac { \\oplus } { \\tt d \\overrightarrow { x } } / ) - | \\overrightarrow { \\oplus } / \\overline { { \\Xi } } } \\end{array}\n$$\n\n（4）合理的價格（適價）：透過有經驗的探購人員通盤考量、把關價格，產生最合理的價格。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2429-0-1-報價探購-quoted-purcha-40dd7713",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2429-2447",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "4. 協議探購方式"
+      ],
+      "text": "（1）報價探購（Quoted Purchase）：目前餐飲業的探購多探此方式，也是最簡易的方式。流程：探購者尋找理想供應商→詢價後→廠商以傳真、郵寄或e-mail提供報價單給探購者→探購者確認數量、品名、單位及價格合適→下訂單。\n\n（2）公開招標（Public Bidding）：又稱招標探購，常見於公家機關探購金額超過15萬元的探購案，用來杜絕弊端及增加自由競爭，但過程較繁瑣，也不適合較緊急、商品規格特殊的物件。可分兩種：\n\n①最低價標：指有底價的招標，報價最低價者得標\n\n②最有利標：多屬特殊類別，如探購專業服務、技術服務、資訊服務等，價格可能不是最低，但品質最合適。\n\n探公開招標時，若投標廠商如不滿3家，則此案判流標。\n\n程序：\n\n(3）議價探購：探不公開的方式和廠商議定價格，又稱「雙方議價法」。適合緊急探購、特殊規格需求的探購，但易造成探購人員舞弊，產生壟斷市場價格的問題。\n\n5.下訂單：確認廠商、商品後，須針對探購產品做簡明扼要的規格說明，將規格精確陳述，以避免訂單失誤，造成後續成本浪費。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2449-0-驗收人員不可全是探購部人員-須協同會計單-40c6564e",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2449-2459",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（二）驗收"
+      ],
+      "text": "驗收人員不可全是探購部人員，須協同會計單位、總務單位驗收，互相制衡、防止弊端。常見物料驗收方法如下：\n\n1.一般驗收法：又稱普通驗收或目測驗收。使用一般度量衡工具即可，是多數餐飲探購的驗收方式。\n\n2.技術驗收法：由技術人員以特殊儀器或試紙驗收。\n\n3.抽樣檢驗法：適合成本較低、數量較多的物料檢驗。探撿選部分物料做檢驗的方式。\n\n4.全部檢驗法：又稱「百分百檢驗法」。適合小型餐飲業或昂貴物料，須逐一檢驗探購的物料。依探購單驗收，檢驗重量、規格…等，若有不符合，即予以退貨。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2461-0-主要作用在控制購入物料品質-貯存方式-1-15ec62a5",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2461-2474",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（三）貯存"
+      ],
+      "text": "主要作用在控制購入物料品質。貯存方式：\n\n1.依物料特質：分冷凍冷藏貯藏區、乾貨貯藏區及一般物品貯藏區。\n\n2.依貯存量：分乾貨貯藏庫與一般物品貯藏庫、冷藏庫與冷凍庫。乾貨貯藏庫與一般物品貯藏庫的貯藏量，約占總貯量70%，而冷藏庫與冷凍庫約占總貯存量30%。如何有效貯存？要點分述如下：\n\n（1）庫存管理：物料依價值分三大類，各有不同存量控制及貯存管理方法，將物料分A、B、C三類，依ABC物料分析法控制與管理。（表3-23）"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2461-1-表3-23a-b-c物料分析法-tabl-7cf91b20",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2461-2474",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（三）貯存"
+      ],
+      "text": "表3-23A、B、C物料分析法\n<table><tr><td rowspan=1 colspan=1>分類</td><td rowspan=1 colspan=1>注意事項</td><td rowspan=1 colspan=1>貯存管理辦法</td><td rowspan=1 colspan=2>舉例</td></tr><tr><td rowspan=1 colspan=1>A物料高價物品</td><td rowspan=1 colspan=1>1. 物料件數占 20%。2. 價值占 70%。3. 存貨價值高而數量少。所以需注意存貨多寡，避免囤積過量高價物料而造成過期損耗之浪費或短缺。</td><td rowspan=1 colspan=1>使用存量卡（Bin Card），根據歷史資料及預測訂購適當數量。</td><td rowspan=1 colspan=2>鮑魚燕窩魚翅珍貴藥材…等。</td></tr><tr><td rowspan=1 colspan=1>B物料中價物品</td><td rowspan=1 colspan=1>1. 物料件數占 30%。2. 價值占 20%。3. 存貨價值中等且數量多。</td><td rowspan=1 colspan=1>依經濟採購量採購物料。</td><td rowspan=1 colspan=2>牛排豬排魚…等。</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>1. 物料件數占 50%。2. 價值占 10%。3.存貨數量多且價值較低。</td><td rowspan=1 colspan=1>1. 因價格較低，可簡化請領程序。2. 為維持適當數量，實施定期盤點法，以免太占空間。</td></tr></table>\n\n資料來源：作者自行彙整"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2476-0-1-低溫貯存設施-包括冷凍庫及冷藏庫-貯-2653db98",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2476-2480",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "2. 各類倉貯設施"
+      ],
+      "text": "（1）低溫貯存設施：包括冷凍庫及冷藏庫，貯存量不得超過冰箱總存量的50～60%，否則冷空氣無法流動，控溫效果會變差。溫度設定上，冷凍庫-18℃以下，冷藏0～7℃間。不論冷凍或冷藏，相對濕度須控制在75～85%之間，太乾燥易使食物水分流失，濕度太高則食物易腐敗。\n\n（2）室溫貯存設施：包括乾貨倉庫及日用品補給倉庫，溫度控制在16～24℃，相對濕度50～60%。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2482-0-1貯存物品不可直接置於地板-須離地面至少-c7fb4f25",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2482-2498",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "(3) 其他注意事項"
+      ],
+      "text": "1貯存物品不可直接置於地板，須離地面至少25公分高，與牆面保持5公分距離。乾貨倉庫應設於進貨驗收區與廚房之間，與兩者的距離愈短愈好，方便取料。\n\n②乾貨儲藏量以4～7天為標準庫存量。\n\n③餐廳蒸氣管線或水管不得經過或外露於倉貯區，避免水氣外洩。\n\n3.盤點（Inventory）：是倉庫管理的重要項目，檢核物料存量及品質，以利掌控物料狀況，減少耗損與呆料。\n\n（1）週期檢查制（定期制）：定期檢查存貨紀錄，待需求確認後再進貨。\n\n（2）定貨點制：制訂存貨標準量，庫存低於標準量，即可進貨。\n\n（3）物料計畫制：訂貨量配合公司訂定的生產計畫。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2500-0-又稱發放-庫存物料透過領用程序-發放申請-b432e42a",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2500-2504",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（四）發貨"
+      ],
+      "text": "又稱發放，庫存物料透過領用程序，發放申請單位。良好的發貨管理可有效控管庫存量，避免短缺影響相關部門工作效率，及過剩浪費成本，即具有適當的存貨週轉率。發貨原則以先進先出（FirstIn，First Out, FIFO）爲原則。發貨流程："
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2506-0-又稱盤存週轉率-數値太低-表示物料囤積--5de0d34d",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2506-2520",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "存貨週轉率"
+      ],
+      "text": "又稱盤存週轉率，數値太低，表示物料囤積，易使資金週轉不易；數値太高表示生意太好，物料易短缺。\n\n$$\n1 0 0 \\% = 1 0 0 \\% = 1 1 0 0 \\% = 1 1 0 0 \\% = 1 1 0 0 \\% = 1 1 0 0 \\%\n$$\n\n$$\n= \\frac { 3 \\times 1 } { 5 \\times 1 } = = 1 \\times 1 7 + 1 7 + 1 7 + 1 7 = 1 0 0 \\%\n$$\n\n$$\n= \\frac { A D } { A E } \\div \\frac { A D } { A C } \\times ( \\frac { A B } { A F } \\times \\frac { A E } { A E } \\times \\frac { A E } { A F } \\times \\frac { A E } { A E } \\times \\frac { A E } { B E } \\times \\frac { A E } { C F } \\times \\frac { A E } { B E } \\times \\frac { A E } { C F } \\times 1 0 0 \\%\n$$"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2522-0-是一種存貨記帳方法-指先買進來的貨品-販-16f512bb",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2522-2524",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "先進先出"
+      ],
+      "text": "是一種存貨記帳方法，指先買進來的貨品，販售時應先售出，可保持的商品的新穎度，也可減少計算成本時，因時間物價差異造成的不精確；後進後出同理。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2526-0-成本-cost-是指爲獲取收入所付出的一-98ec76fe",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2526-2528",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "三、餐飲成本與控制"
+      ],
+      "text": "成本（Cost）是指爲獲取收入所付出的一切代價，包括人力食材及各項財務等支出。餐飲成本分爲與直接營運相關的直接成本（Direct Costs），或沒有直接相關的間接成本（Indirect Costs）。只要是成本，就會影響餐廳盈餘，因此須有效控制餐飲成本。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2530-0-1-餐飲成本-food-beverage-34ab0a4c",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2530-2536",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（一）餐飲成本"
+      ],
+      "text": "1. 餐飲成本（Food & Beverage Cost）：又稱直接成本、物料成本、材料成本。可分食物成本（Food Cost）及飲料成本（Beverage Cost）。餐飲成本是營運成本中比例最高，約占30～40%。\n\n2.勞務成本、人事成本（LaborCosts）：又稱勞資成本，指餐廳工作人員的人事費用，如薪資、保險費（勞工保險、全民健保）、津貼、退休金提撥、旅遊津貼、教育訓練費、年終紅利、員工伙食等費用。勞務成本的比例，僅次於餐飲成本。\n\n3. 其他費用（OtherExpenses）：又稱經常費用、費用成本、雜項支出，餐飲成本、勞務成本外的所有行政支出（水、電、瓦斯等能源）、客用消耗品（房屋租金、設備折舊），與人事非直接相關費用（保險：產物險、火災險、地震險；廣告宣傳）等皆屬之。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2538-0-餐飲成本依屬性-彈性-是否有形-如何控制-4fa59ba5",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2538-2546",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（二）餐飲成本分類"
+      ],
+      "text": "餐飲成本依屬性、彈性、是否有形、如何控制分類，如表3-24："
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2538-1-表-3-24-餐飲成本分類-table--0ab24874",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2538-2546",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（二）餐飲成本分類"
+      ],
+      "text": "表 3-24 餐飲成本分類\n<table><tr><td rowspan=2 colspan=1>依據</td><td rowspan=2 colspan=1>類別</td><td></td></tr><tr><td rowspan=1 colspan=1>說明</td></tr><tr><td rowspan=2 colspan=1>成本屬性</td><td rowspan=1 colspan=1>直接成本</td><td rowspan=1 colspan=1>與餐廳營業有直接相關的成本，是所有成本中最大項目，即餐飲成本，也稱之「銷貨成本」，如食物、飲料、顧客用品…等。</td></tr><tr><td rowspan=1 colspan=1>間接成本</td><td rowspan=1 colspan=1>與餐廳營運沒有直接相關的成本，即勞務成本與其他費用，如廣告宣傳費、公關費、郵資、電話費、員工薪資、加班費…等。</td></tr><tr><td rowspan=3 colspan=1>成本彈性</td><td rowspan=1 colspan=1>變動成本Variable Costs</td><td rowspan=1 colspan=1>成本支出與營業額增減呈正相關，即成本支出會依營業額增減而增減的成本，如餐飲材料成本及相關之促成商品（FacilitatingGoods)。</td></tr><tr><td rowspan=1 colspan=1>半固定成本Semi-fixed Costs半變動成本Semi-variable Costs</td><td rowspan=1 colspan=1>成本支出隨營業額增減，但不會成正比，即使零產量也有一定成本支出；生產後，成本會成一定比率增加，成本特性居固定與變動成本兩者間，稱半固定、半變動成本、混合成本（MixedCost)。如臨時工薪資、員工加班費、水費、電費、瓦斯費、添購生財設備及洗滌費等。</td></tr><tr><td rowspan=1 colspan=1>固定成本Fixed Costs</td><td rowspan=1 colspan=1>一定要支出的成本，與營業額好壞無關，如：正職員工薪水、房租、保險費、稅捐、公司保險（產險、火險等）及設備折舊等費用。</td></tr><tr><td ro"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2538-2-wspan-2-colspan-1-有形-9e81d561",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2538-2546",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（二）餐飲成本分類"
+      ],
+      "text": "wspan=2 colspan=1>有形及無形</td><td rowspan=1 colspan=1>有形成本Tangible Costs</td><td rowspan=1 colspan=1>指可以量化、數值化或以金額呈現，即公司一般會計中的成本項目。</td></tr><tr><td rowspan=1 colspan=1>無形成本Intangible Costs</td><td rowspan=1 colspan=1>無法數據化提列，如商譽、口碑、機會成本。</td></tr><tr><td rowspan=2 colspan=1>成本控制</td><td rowspan=1 colspan=1>可控制成本Controllable Costs</td><td rowspan=1 colspan=1>短期内可以改變或控制的成本，如食物成本、飲料成本、人事費用、辦公費、行政費、差旅費及廣告費等。會因營業收益多寡變動，所以不景氣時，可透過緊縮、精算，將控制成本控制在範圍内，即半固定與變動成本。</td></tr><tr><td rowspan=1 colspan=1>不可控制成本Uncontrollable Costs</td><td rowspan=1 colspan=1>短期内無法控制或改變的成本，如折舊費、維修費、固定員工薪資及利息支出等，即固定成本。</td></tr></table>\n\n資料來源:作者自行彙整 \nJ"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2548-0-餐飲成本攸關經營成敗-也是增加利潤的最佳-620166b6",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2548-2550",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（三）餐飲成本控制"
+      ],
+      "text": "餐飲成本攸關經營成敗，也是增加利潤的最佳手段，管理者須有完整成本控制概念。以下介紹餐飲成本控制各要點："
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2552-0-1-控制直接成本-要控制餐飲直接成本-材-45074f94",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2552-2587",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "1. 控制方法"
+      ],
+      "text": "（1）控制直接成本：要控制餐飲直接成本（材料），須有效控制探購數量與類別、準確驗收探購品質、建立倉儲人員管理能力、有效發貨領用程序、標準化製備食譜及作業流程等。\n\n（2）控制間接成本：包含人力成本及其他雜項費用。\n\n①控制人力成本\n\nA.提高留職率：高流動率會增加人力成本負擔。提高留職率的方法：完善福利制度、通暢申訴管道、有效激勵員工…等。\n\nB.任用計時人員：正職人員屬於固定高成本花費，若營運條件允許，尖峰時段可搭配計時員工，省去年終獎金退休金、績效獎金等成本。\n\nC.培養員工道德感：培養員工正確的資源運用態度（節約能源）、個人品格行爲（衛生、偷竊），也是成本控制的一環。除了強化管理規則與嚴格的獎懲制度，勞資關係也須建立在互信上。\n\n②控制雜項費用\n\nA.控制公關宣傳費：公關費、宣傳費屬於間接成本，須確實評估經濟效益是否值得支出。或透過良好的媒體關係：獲得免費宣傳機會。\n\nB.節能減碳防微杜漸：餐飲業營運須養成節流的觀念。\n\n2.餐飲製程控制系統的運用：透過標準化作業流程提升效能，須考慮以下要素：\n\n（1）標準食譜（Standard Recipe）：標準食譜記錄菜餚的分量、烹調方法、烹調溫度、烹煮時間、使用的機器設備…等，使產品達到標準化，也有利食材請購作業，因此歐美國家視為食物成本控制的首要步驟。\n\n（2）標準探購規格（Standard Purchase Specification）：使探購標準化（Standard Purchase）。因此請購單（Purchase Requisition,PR）須詳列品質、大小、品牌、運送條件等。\n\n（3）標準分量（Standard Portion）：對於烹調後的菜餚分量須標準化，有助於餐飲成本精確掌控。\n\n（4）標準產出（Standard Yield）：Yield即生產量，Standard Yield又稱標準得利，主要在控制耗損。標準化食材的前處理、烹調，控制耗損量，才能有較高的獲利。\n\n3.餐飲成本計算：要控制成本，當然要會計算成本。首先要了解單位換算與成本計算公式：\n\n(1) 單位換算\n\n①容積單位"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2589-0-3温度單位-817c6a65",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2589-2592",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "②重量单位"
+      ],
+      "text": "③温度單位"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2594-0-1成本公式名詞-毛利-又稱邊際浄利-指扣-23b385ed",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2594-2664",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "(2) 成本公式"
+      ],
+      "text": "①成本公式名詞\n\n毛利：又稱邊際浄利，指扣除掉主要成本後的利潤。\n\n毛利率：指毛利占銷售總額的百分比\n\n成本率：指成本占總銷售額的比例。\n\n浄利：又可分為稅前淨利及稅後浄利。\n\n漲縮率（Ingredient's Edible Yield Percentage）:又稱產出率\n\n②成本公式\n\n毛利＝銷售總額一餐飲材料成本\n\n$$\nI = I _ { 1 } = I _ { 2 } = I _ { 3 } = 1 2 V \\times \\frac { 1 } { 2 } \\times \\frac { 3 } { 2 } = 1\n$$\n\n$$\n1 ) A ^ { \\prime } ( 1 ) \\geq \\frac { 1 } { 2 } \\geq \\frac { 1 } { 3 } ( 1 ) = E ( 1 ) = \\frac { 3 \\sqrt { 3 } } { 1 } \\sum _ { k = 1 } ^ { 2 } A ( 1 ) \\geq \\frac { 1 } { 2 } , \\rho ( k ) = \\frac { 3 } { 2 }\n$$\n\n$$\n\\arrowsuit \\uparrow \\supset \\ i \\not \\exists \\uparrow \\uparrow 1 = \\arrows \\not \\exists \\not \\parallel \\big : \\exists \\not \\exists \\uparrow \\uparrow \\not \\exists \\not \\exists \\not \\uparrow \\downarrow \\downarrow - \\arrows \\not \\emptyset\n$$\n\n餐飲材料成本=期初存貨（Beginning Inventory）+本期進貨（Purchasing Inventory)—期末存貨（Ending Inventory）"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2594-1-begin-array-r-gamma--dae9bb61",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2594-2664",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "(2) 成本公式"
+      ],
+      "text": "$$\n\\begin{array} { r } { \\gamma _ { \\mathrm { J } , \\mathrm { K } , \\mathrm { M } } ^ { \\sharp , \\gamma , \\varpi , \\varpi , \\varpi } = \\frac { \\beta \\lvert \\chi \\rvert \\cdot \\underline { { \\mathbb { E } } } } { \\lvert \\underline { { \\mathbb { E } } } \\rvert \\cdot \\lvert \\underline { { \\mathbb { H } } } \\rvert \\cdot \\underline { { \\mathbb { H } } } } } \\end{array}\n$$"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2594-2-pmb-sharp-sharp-shar-358b5de5",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2594-2664",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "(2) 成本公式"
+      ],
+      "text": "$$\n\\pmb { \\sharp \\sharp \\sharp \\sharp } \\frac { \\vec { \\varphi } \\vec { \\varphi } \\vec { \\varphi } } { \\vec { \\varphi } \\vec { \\varphi } } ~ ( \\vec { j } \\frac { \\vec { \\varphi } \\vec { \\varphi } } { \\pmb { \\mathscr { R } } } \\frac { \\vec { \\varphi } \\vec { \\varphi } } { \\pmb { \\mathscr { R } } } ) = \\frac { \\vec { \\mathcal { A } } \\cdot \\vec { \\mathbf { g } } \\vec { \\varphi } \\vec { \\varphi } } { \\pmb { \\mathscr { S } } } ~ \\mathrm { ~ \\forall ~ } \\vec { \\mathbf { g } } \\vec { \\mathbf { \\wp } } \\vec { \\mathbf { \\wp } } \\frac { \\vec { \\varphi } } { \\vec { \\mathbf { E } } \\vec { \\mathbf { \\wp } } } \\vec { \\mathbf { \\wp } } \\frac { \\vec { \\mathbf { \\wp } } } { \\vec { \\mathbf { \\wp } } } ~ ,\n$$\n\n$$\n\\mathtt { \\backslash }\n$$\n\n呷霸餐廳一客沙朗牛排肉烹調前300公克，經修切、烹調，上桌重量為240公克，請問產出率及損耗率各為？若接受50人份熱炒空心菜預約，每份熱炒空心菜須200公克。當廢棄率為12%，採購應購買多少空心菜？ \\_\n\n用清水將雙手完全弄濕\n\n均匀抹上 清潔劑\n\n利用乾凈指甲刷將指尖及指甲刷乾淨\n\n手心手背互相搓洗至少20秒\n\n用清水將 雙手澈底 沖洗乾淨\n\n用烘乾機 或紙巾將 手擦乾"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2668-0-食材從產地到製成成品的過程中-都可能遭受-adab6c65",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2668-2698",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（一）餐飲從業人員衛生管理"
+      ],
+      "text": "食材從產地到製成成品的過程中，都可能遭受汙染，從業人員須將受汙染的可能性降到最低。\n\n從業人員須具衛生觀念與習慣，依《食品良好衛生規範準則》每年接受健康檢查1次，確保自己與消費者安全；新進從業人員要通過健康檢核，業者才可聘僱。相關注意事項如下：\n\n1.患有A型肝炎、手部皮膚病、出疹、膿瘡、外傷、結核病、傷寒等或帶菌期間，不得從事與食品接觸的工作。\n\n2.從業人員須接受教育訓練，符合產業生產、衛生及品質管理之要求。\n\n3.食品作業區的人員，工作時應穿戴整潔（衣、帽、鞋、口罩），防止頭髮、皮屑及雜物汙染食品。另外，也不可蓄留指甲、塗抹指甲油、化粧品、藥品及佩戴飾物等。\n\n4.從業人員應經常保持手部清潔，進入食品作業區前、如廁，或發生有可能汙染手部的行爲後，如吐痰、擤鼻涕，須確實洗手及消毒。(圖3-140)\n\n5.從業人員工作中，不得有吸菸、嚼檳榔、嚼口香糖、飲食及其他可能汙染食品的行為。\n\n圖3-140 食品從業人員正確洗手步驟:濕、洗、刷、搓、沖、乾\n\n6.作業人員直接以雙手調理不須加熱的即食食品時，須穿戴消毒清潔的不透水手套，或確實洗手及消毒。\n\n7.從業期間應接受衛生主管或認可機關辦理的衛生講習訓練。\n\n8.業者消毒殺菌作業，須依《食品良好衛生規範準則》第23條。（表3-25）"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2668-1-表-3-25-消毒方法-table-tr-ef703789",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2668-2698",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（一）餐飲從業人員衛生管理"
+      ],
+      "text": "表 3-25 消毒方法\n<table><tr><td rowspan=1 colspan=1>殺菌法</td><td rowspan=1 colspan=1>消毒條件</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>消毒餐具</td><td rowspan=1 colspan=1>消毒毛巾抹布</td></tr><tr><td rowspan=1 colspan=1>煮沸</td><td rowspan=1 colspan=1>100℃</td><td rowspan=1 colspan=1>沸水</td><td rowspan=1 colspan=1>加熱1分鐘以上</td><td rowspan=1 colspan=1>煮沸 5 分鐘以上</td></tr><tr><td rowspan=1 colspan=1>蒸氣</td><td rowspan=1 colspan=1>100℃</td><td rowspan=1 colspan=1>蒸氣</td><td rowspan=1 colspan=1>加熱 2 分鐘以上</td><td rowspan=1 colspan=1>加熱 10 分鐘以上</td></tr><tr><td rowspan=1 colspan=1>熱水</td><td rowspan=1 colspan=1>80℃</td><td rowspan=1 colspan=1>熱水</td><td rowspan=1 colspan=1>加熱２分鐘以上</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>氯液</td><td rowspan=1 colspan=1>餘氯量 200ppm 以上（氯液總有效氯百萬分之二百以下)</td><td rowspan=1 colspan=1>氯液</td><td rowspan=1 colspan=1>浸泡2分鐘以上(浸泡後須再以煮沸水清洗過)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>乾熱</td><td rowspan=1 colspan=1>110℃以上</td><td r"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2668-2-owspan-1-colspan-1-乾-12319350",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2668-2698",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（一）餐飲從業人員衛生管理"
+      ],
+      "text": "owspan=1 colspan=1>乾熱</td><td rowspan=1 colspan=1>加熱 30 分鐘以上</td><td rowspan=1 colspan=1></td></tr></table>\n\n資料來源:作者自行彙整 \n以上1.～8.整理自衛生福利部部授食字第1031301901號令發布《食品良好衛生規範準則》。\n\n9.砧板須分色管理，依切割物的類別與種類做分類，避免生熟食交互感染。使用相關器具如抹布、菜刀時，也要注意清潔及消毒，小心交叉汙染。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2700-0-食品中毒依衛生福利部定義-指2人或2人以-5982a693",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2700-2704",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（二）食品中毒"
+      ],
+      "text": "食品中毒依衛生福利部定義，指2人或2人以上攝取相同食品，產生相似的不適症狀，自可疑食餘檢體及患者糞便、嘔叶物、血液等人體檢體，或相關環境空氣、水、土壤等檢體，分離出同類型（血清型、噬菌體型）致病原，即「食品中毒」。但若致病原含肉毒桿菌毒素或化學物質而導致死亡，就算只有1人患病，仍視爲食品中毒。\n\n我國因夏季高溫、高濕，細菌易滋生，爲食品中毒高峰期，且以細菌性食品中毒占多數，其中腸炎弧菌感染最常見，其次是金黃色葡萄球菌。因此，餐飲業者要避免發生食品中毒，應先了解細菌。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2706-0-1-溫度-7-sim-6-0-circ--9a918357",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2706-2772",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "1. 生長六大要素"
+      ],
+      "text": "（1）溫度： $7 \\sim 6 0 ^ { \\circ } \\mathrm { C }$ 是危險溫度帶（Temperature Danger Zone)，適合細菌生長。\n\n（2）環境：多數細菌喜好偏中性的環境，可利用酸性物質（如：醋）醃漬保存食物，降低食物中的pH值（小於7），製造酸性環境。\n\n(3）氧氣：細菌對氧氣的需求不同，可分爲好氧性細菌（Aerobic Bacteria)與厭氧性細菌（Anaerobic Bacteria）兩種。\n\n（4）時間：細菌具快速孳長能力，即使1個單細胞，只要5小時就能衍生100萬以上，並產生毒素。\n\n（5）水分：水分是細菌生長的重要因素。\n\n（6）營養：細菌多喜好高蛋白或醣類等營養素。\n\n2.食品中毒方式：分感染型（Infection）、毒素型（Intoxication）及中毒素媒介之感染型（Toxin-mediated Infection）。\n\n（1）感染型：因爲食入致病的微生物，患者胃腸道細菌孳長而引發的食物中毒，最常見的是沙門氏菌中毒。\n\n（2）毒素型：微生物在食品上繁殖時，分泌化學廢棄物或毒素所引發，如肉毒桿菌及金黃色葡萄球菌…等。\n\n(3）中毒素媒介之感染型：食品中毒的毒素被吃下後，在人體内分泌毒素，如產氣莢膜桿菌。\n\n3.食品中毒類別與中毒方式：依主要病因物質，可分為細菌性、病毒性、天然毒素、化學性食品中毒。\n\n（1）細菌性食品中毒：分爲感染型（Infection）、毒素型（Intoxication）及中間型（Toxin-mediated Infection)。\n\n①感染型：因為食入致病的微生物，患者胃腸道細菌孳長而引發的食物中毒，如腸炎弧菌、沙門氏菌…等。\n\nA.腸炎弧菌：常寄生於海鮮類，屬好鹽性細菌（病原性好鹽菌）。海鮮類應充分利用自來水洗浄；注意用具的清潔與消毒，避免交叉汙染；烹調時應加熱至100℃充分煮熟，避免生食。\n\nB.沙門氏菌：多存於動物表面及其排泄物，透過感染中毒。加熱至60℃，煮20分鐘以上，可殺死沙門氏菌。\n\n②毒素型：微生物在食品上繁殖時，產生毒素所引發，如肉毒桿菌、金黃色葡萄球菌…等。\n\nA.金黃色葡萄球菌：常存在人體皮膚、毛髮、鼻腔、咽喉等黏膜中，尤其化膿的傷口，屬毒素型細菌性中毒。高溫中極穩定，即使煮沸的食物仍可能存活。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2706-1-b-肉毒桿菌-常見於香腸-火腿-真空包裝-11eca892",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2706-2772",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "1. 生長六大要素"
+      ],
+      "text": "B.肉毒桿菌：常見於香腸、火腿、真空包裝及罐頭食品。毒性最強烈，致命率最高，屬神經毒素。食品酸鹼性（pH值）降到4.6以下，即可抑制肉毒桿菌生長。\n\nC.唐菖蒲伯克氏菌：特定條件下會產生邦克列酸（舊名：米酵菌酸），是一種罕見毒素，感染源自穀物、椰子、食用菌等食物受汙染產生，耐熱性佳且無色無味，致死率極高。民國113年發生的寶林茶室嚴重集體食物中毒案，即是邦克列酸中毒。\n\n③中間型：介於感染型與毒素型之間，病原菌在食物中繁殖，經由攝取進入人體後產生毒素，如仙人掌桿菌、產氣莢膜桿菌…等。食物烹調後，長時間置室溫下，或室溫下不當放置，或保存溫度未達60℃，就易受仙人掌桿菌孢子汙染。穀類製品、馬鈴薯、濃湯、果醬等儲存不當，也易感染仙人掌桿菌。依感染者的中毒症狀，又可分爲嘔叶型及腹瀉型兩類。\n\n（2）病毒性食品中毒：如諾羅病毒及A型肝炎病毒，容易在任何被汙染的物體表面進行傳播。\n\n1諾羅病毒：主要透過糞口途徑傳染，病毒顆粒非常少量即可致病，易受汙染的食品有即食食品、沙拉、三明治、冰品、水果及生鮮魚貝類。餐飲業工作者，應於症狀解除至少48小時後才可上班。\n\n②A型肝炎病毒：主要傳染途徑是糞口傳染，易受汗染的食品來源有冷盤、三明治、沙拉、水果和果汁、奶製品、生鮮魚貝類及冷飲。預防A型肝炎傳染的最佳方式就是注重個人及飲食衛生。\n\n（3）天然毒素中毒：分天然動物性食品中毒與天然植物性食品中毒兩種。\n\n①天然動物性：以河豚或貝類中毒較常見。河豚毒素是強烈神經毒素，貝類毒素是麻痺性中毒，均有致死可能。\n\n②天然植物性：以發芽馬鈴薯的茄靈毒素、全穀類的黃麴毒素較常見。馬鈴薯的茄靈毒素屬中樞神經毒；全穀雜糧類霉變產生黃麴毒素，易引發肝病變。\n\n圖3-141西元1955～1972年，日本痛痛病事件，是當時國際相當著名的鎬汙染事件。圖為當時新聞報紙報患者家屬向法院提告獲勝的畫面。 \n圖3-142 早年鳥腳病患者只有截肢的命運。\n\n（4）化學性中毒：指農藥、重金屬、有毒非合法使用之化合物等。\n\n①鎘（Cadmium）：常用於電鍍物、防鏽劑等。镉中毒易導致關節病變，引發痛痛病，如西元1955年日本痛痛病事件。（圖3-141)\n\n②汞（Mercury）：汞中毒主要影響中樞神經，導致水俁病（Minamata Disease，跳舞病），如1955年日本水俁病。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2706-2-3砷-arsenic-殺蟲劑是常見的家庭-70f2ee65",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2706-2772",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "1. 生長六大要素"
+      ],
+      "text": "③砷（Arsenic）：殺蟲劑是常見的家庭含砷物品，砷汙染會引發烏腳病。如1955年日本砷牛奶事件及1957年臺灣西南沿海一帶的北門、學甲、義竹、布袋發生砷汙染飲用水。（圖3-142）"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2774-0-食品中毒的預防與處理-須遵守食品處理相關-d8982d3b",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2774-2790",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（三）食品中毒預防與處理"
+      ],
+      "text": "食品中毒的預防與處理，須遵守食品處理相關法規與原則，依據衛生福利部食品藥物管理署《預防食品中毒五要原則》，下列分述之：\n\n1.要洗手：調理食品前後需澈底洗淨雙手，有傷口要包紮。\n\n2.要新鮮：食材要新鮮，用水要衛生。\n\n3.要生熟食分開：處理生熟食需使用不同的器具，避免交叉汙染（CrossContamination)。\n\n4.要澈底加熱：食品中心溫度超過 $7 0 ^ { \\circ } \\mathrm { C }$ ，細菌才容易被消滅。\n\n5. 要注意保存溫度：保存低於 $7 ^ { \\circ } \\mathrm { C }$ ，室溫不宜放置過久。（圖3-143）\n\n熱藏溫度"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2792-0-源自-1960-年代美國太空總署提供太空-f5dfeed5",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2792-2796",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "危害分析重要管制點"
+      ],
+      "text": "源自 1960 年代美國太空總署提供太空航程飲食的製程。1997年進一步制定《食品安全衛生管理規則》，以科學為依據，透過加工流程控制系統保證食品安全性。\n\n特定業者須依《食品安全管制系統準則》之危害分析重要管制點Hazard Analysis andCritical Control Points,HACCP)，監控食物從農場到餐桌整個過程，以維護食品安全衛生。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2798-0-可以殺死大部分的細菌-溫度愈高-殺菌的速-37cd8116",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2798-2806",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "烹調溫度"
+      ],
+      "text": "可以殺死大部分的細菌，溫度愈高，殺菌的速度快。\n\n防止細菌繁殖的溫度有些細菌仍可生存。\n\n適合部分細菌繁殖的溫度大部分的細菌都能生存。\n\n適合大部分細菌繁殖的溫度細菌繁殖速度快且會產生毒素其中，相對溼度80％以上、溫度25～37℃最易繁殖。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2808-0-不利腐化食物的細菌繁殖之溫度溫度低-細菌-78af43d2",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2808-2845",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "適合某些會產生毒素的細菌生存的溫度"
+      ],
+      "text": "不利腐化食物的細菌繁殖之溫度溫度低、細菌繁殖速度慢，食物不易腐化。\n\n結冰的溫度 \n細菌生長繁殖停止，仍有少許細菌可能存活。\n\n圖3-143 細菌生長繁殖與溫度之關係\n\n除了上列5要，以下4點也需注意：\n\n1.食品供貨完整：選擇信譽廠商，並依食材特性挑選合適運送方式。\n\n2.食材儲存正確：保存期限内，食材依特性存放，且先進先出，新鮮不浪費。\n\n3.生熟食分開：避免有害微生物在食器間轉移，廚房應備2套以上的刀和砧板，分開處理生、熟食。\n\n4. 了解食品中毒處理方式\n\n（1）迅速就醫。\n\n（2）保留剩餘食品及患者之嘔吐或排泄物（密封並留存於低溫冷藏，不可冷凍），並儘速通知衛生單位。\n\n（3）醫療院（所）發現食品中毒病患，應在24小時内通知衛生單位。\n\n1．. 餐飲倉儲管理中，運用 ABC 物料分類法，進行不同管理與盤點方式下列食材各屬於什麼物料：\n\n鹽 鮑魚 水果 玉米粉 胡椒 燕窩 蔬菜 豬排 沙拉油\n\n2. 請勾選下列關於餐廳廚房格局的陳述，正確無誤者。□乾貨儲藏庫的最底層存物架，至少須距地面20公分高。洗手間與廚房的距離，應保持3公尺以上。準清潔作業區包含燒烤區，而汗染作業區包含驗收區。□餐廳的氣壓須小於廚房氣壓。\n\n3. 熱炒店一盤炒好的高麗菜重500 公克，若高麗菜浄料率90 %，供應10盤，則高麗菜探購量約需 臺斤。\n\n4.藥燉排骨店探購排骨、當歸、黃耆、紅棗、枸杞、米酒等費用，屬於餐飲成本中的：\n\n□半固定成本 □固定成本 □變動成本 □間接成本"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2847-0-確立經營理念與作業流程後-餐飲業者必須導-8ffaa44b",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2847-2890",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（四）工作環境安全與風險預防及處理"
+      ],
+      "text": "確立經營理念與作業流程後，餐飲業者必須導入科學化的職業安全評估（Occupational Safety Assessment）。透過識別作業環境中的潛在危害因子，量化風險等級，進而產出「環境安全風險評估報告」。\n\n「環境安全風險評估報告」的核心目的，在於分析員工操作安全與致災風險，可作為配置安全設備與擬定管理措施的科學依據。\n\n「環境安全風險評估報告」針對餐飲與作業環境，實務執行上可歸納為以下四大核心面向：\n\n1. 行走環境與防滑工程（Slip and Fall Prevention）\n\n（1）硬體規範：作業區域地面材質需求，須依環境部、勞動部（職安署）及內政部（國土管理署）的標準，選擇合適的防滑係數（StaticCoefficient of Friction）。廚房常有油水積聚，對於防滑等級要求屬於建築物中最高等級之一。目前國際最權威、最常用的評估標準，是德國坡道測試標準（DIN51130）的R等級（R-Value），測試方法稱為「穿鞋坡道測試（Shoe Ramp Test)」。（表 3-26）"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2847-1-表3-26-餐廳廚房不同區域的建議數值表-ff2ac992",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2847-2890",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（四）工作環境安全與風險預防及處理"
+      ],
+      "text": "表3-26 餐廳廚房不同區域的建議數值表\n<table><tr><td rowspan=2 colspan=4>備註</td></tr><tr><td rowspan=1 colspan=1>區域類型</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>重油煙廚房</td><td rowspan=1 colspan=1>R12</td><td rowspan=1 colspan=1>&gt;0.60</td><td rowspan=1 colspan=1>強調抗油與排水性</td></tr><tr><td rowspan=1 colspan=1>一般熱炒區</td><td rowspan=1 colspan=1>R11</td><td rowspan=1 colspan=1>&gt;0.55</td><td rowspan=1 colspan=1>需配合截水溝設計</td></tr><tr><td rowspan=1 colspan=1>洗碗區/洗菜區</td><td rowspan=1 colspan=1>R11~R12</td><td rowspan=1 colspan=1>&gt;0.60</td><td rowspan=1 colspan=1>需考慮積水深度</td></tr><tr><td rowspan=1 colspan=4>兼顧清潔便利性與安全性</td></tr></table>\n\n（2）排水設計：規劃高效排水系統與截水溝，確保地面不積水、不油膩。\n\n（3）警示系統：在高低差或易潮濕區域，設置清晰的視覺標示與安全警示設備。\n\n2. 機械操作與防護安全（Machinery & Cutting Safety）\n\n（1）設備防護：切肉機、攪挫機等動力機械必須加裝物理性安全護罩與緊急停止開關。\n\n（2）標準作業程序（SOP）：定期進行設備檢修，並嚴格執行員工操作訓練與考核，落實「無SOP不操作」原則。\n\n3. 熱傷害預防與消防系統（Heat & Fire Hazard Management)\n\n（1）環境控溫：優化廚房通風排煙系統（如導流風機與排煙罩），有效排除廢熱與油煙。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2847-2-2-主動防災-配置瓦斯洩漏偵測器與連動切-07c5477e",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2847-2890",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "（四）工作環境安全與風險預防及處理"
+      ],
+      "text": "（2）主動防災：配置瓦斯洩漏偵測器與連動切斷閥。\n\n（3）自動滅火：烹飪區應安裝專用的廚房自動滅火系統（K類滅火器或濕式化學滅火系統），以應對油類火災。（圖3-144）\n\n4. 人體工學與勞動健康（Ergonomics & Health）\n\n（1）空間設計：依據人體工學規劃工作臺高度，減少員工因長期彎腰或過度伸展造成的職業性肌肉骨骼損傷。\n\n（2）減勞設備：針對重物搬運需求，配置移動式推車、升降輔具或優化動線流程，降低體力負荷風險。\n\n2. 觸 發動罐會或 系裝。自電 統置滅動 偵進系斷 測 器會 觸系到 自 動 滅火 設 備 的啟存也斯 而驱动 感 加商 儲，烹飪設備的能源供應 (如瓦力) 。\n\n4. 撲特火。結層火 滅定源當合，勢 與噴，藥時封復 抑灑在劑鎖燃 止模數與會可。 ：式秒高形燃 滅直內溫成蒸 火接撲烹一氣 藥作滅飪層 劑用火油泡防 以於勢脂沫止"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2892-0-a-類普通火災-class-a-燃燒木材-41f751d4",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2892-2950",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "火災分類"
+      ],
+      "text": "A 類普通火災(Class A）燃燒木材、紙張、布料、橡膠、塑膠等產生餘燼的火；可使用乾粉/二氧化碳/潔淨滅火器滅火。\n\nB類油類火災(Class B）汽油、柴油、酒精、可燃性油脂等液體火災；可使用乾粉/二氧化碳/強化液/潔淨滅火器滅火；忌以水滅火。\n\nC類電氣火災（Class C）通電中的電器、電線、配電盤等設備引起的火災；可使用乾粉/二氧化碳/強化液/潔淨滅火器滅火；忌以水滅火。\n\nD類金屬火災（Class D）鎂、鉀、鈉、鈦等活性金屬的火災。\n\nK類廚房/食用油火災（ClassK）專指廚房中烹飪用動植物油火災；可用K類滅火器(通常含有濕化學劑或皂化劑)或強化液、潔淨、乾粉(部分類型)滅火器；忌以水滅火。\n\n圖3-144 廚房自動滅火系統運作流程，滅火系統是商業廚房必須設備，主要是利用「皂化反應」將熱油轉化為肥皂狀物質，達到迅速降溫與隔絕氧氣的效果。\n\n1. 餐飲業英文為 Food & Beverage（F & B），合稱「餐飲」。餐飲服務業（Food& Beverage Service Industry）是提供餐飲服務的產業。依照官方組織（例如：聯合國旅遊組織、行政院主計總處、經濟部商業發展署、英國標準產業分類）及部分學者，有不同的分類方式。\n\n2.餐飲業可依照生產方面、銷售方面、服務方面及經營方面有不同的特性。例如：易腐性（Perishability）、個別訂製（Individual，Tailor Made）、不可分割性（Inseparability）、空間限制（Space Restriction）、營業時間受限（LimitedSelling Time）、異質性（Heterogeneity）等。\n\n3.餐飲業的歷史發展非常深遠，透過西方、中方的歷史來了解其脈絡。例如：上古時期的羅馬人設有Tavern、十字軍東征帶來的文化交流、文藝復興時期在敘利亞大馬士革（Damascus）出現第一家咖啡屋等。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2892-1-4-法國名廚安東尼-卡雷姆-marie--2c9595ab",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2892-2950",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "火災分類"
+      ],
+      "text": "4.法國名廚安東尼·卡雷姆（Marie Antoine Carême），被尊稱為「古典烹飪創始者」、「廚師之王」（The King of Chefs, and the Chef of Kings.）。法國名廚愛斯可菲（Georges Auguste Escoffier），被尊奉為近代廚師之父、西餐之父。費南德·波尹特（Fernand Point），被譽為現代法國料理宗師。\n\n5.麥當勞行政總裁雷·克羅克提出著名的經營理念QSCV，Q（Quality）品質、S（Service）服務、C（Cleanliness）清潔、V（Value）價值，作為速食業發展的基礎\n\n6.中國菜因氣候、地理、歷史、物產及飲食風俗而各有區域性的不同，地方菜餚常被形容爲東酸、西辣、南甜（淡）、北鹹（鮮）。\n\n7.中國八大菜系：魯、川、蘇、粵、浙、閩、湘、徽。\n\n8.義大利菜被稱之為西餐之母，影響後來的法式、英式餐。\n\n9.法國三大珍味：鵝肝醬（Foie Gras）、魚子醬（Caviar）、松露（Truffles）。\n\n10.西班牙也是重要的番紅花產地，所以料理時也會善用番紅花提味，例如西班牙海鮮飯（Paella）。\n\n11.依餐愿經營的规模及營业的方式做分类，可分为独立經營餐廳（IndependentRestaurants）、連鎖經營餐廳（Chain Restaurants）\n\n12.连鎖經營的3S原則：簡單化 Simplification、标準化 Standardization、專業化Specialization°\n\n13.餐廳依照服務型态可分为：櫃檯服務（Counter Service）、餐桌服務（TableService）、自助式服務（Self-Service）、客房餐飲服務（Room Service）、外帶餐飲服務（Take-outService、Carry out、Outside-order、Take away）及外送服務（HomeDelivery Service）、自動販賣機服務（Vending Machine Service）、團膳（InstitutionalFeeding Service）、外燴服務（Catering Service）、汽車餐飲服務（Drive ThroughService)、餐車服務（Diving Car Service)。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2892-2-14-餐廳依照服務比重可分為-美食餐廳--e4fa6c52",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2892-2950",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "火災分類"
+      ],
+      "text": "14. 餐廳依照服務比重可分為：美食餐廳（Gourmet Restaurants）、特色餐廳（SpecialtyRestaurants）、家庭餐廳（Family Restaurants）、大眾餐廳（Filling Station）。\n\n15.餐飲業的組織可依照人數、層級等方式分為不同型態，如直線型（Line）、幕僚型（Staff）、混合型（Line &＆ Staff），而餐廳的規模會影響其組織結構。\n\n16.餐飲部的部門，大致上可分為外場、內場單位以及其他支援單位。餐廳外場從業人員編制可分為傳統及美式組織，在編制上極為類似，唯在稱呼上傳統組織編制以法文為主。\n\n17.餐廳籌設時須註意：理念選擇、市場調查、地點選定、空間規劃與配置的原則、設備的選用與購買、人力資源管理、管理階層訓練等事項。\n\n18.餐廳經營實務從原物料的探購、驗收、儲存、發貨、製備，到成品出現，是環環相扣的步驟，形成餐飲成本控制循環（Food Cost Control Cycle)。\n\n19.倉儲作業中，物料可依價值分A、B、C三大類，各有不同存量控制及貯存管理方法，依 ABC 物料分析法控制與管理。\n\n20.餐飲成本攸關經營成敗，也是增加利潤最佳手段，管理者須有完整成本控制概念。\n\n21.經營餐飲業，食品衛生與安全非常重要，食材從產地到製成成品的過程中，都可能遭受汙染，從業人員須將受汙染的可能性降到最低，並避免造成食品中毒。從業人員需遵守政府相關法規，如《食品良好衛生規範準則》等。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2952-0-1-餐飲產品的服務與顧客的消費流程之中--2d52ffa5",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2952-2994",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "一、選擇題"
+      ],
+      "text": "1. 餐飲產品的服務與顧客的消費流程之中，生產與銷售常是同時進行，無法將產品預先製作。上述所指的是何種特性？（A）Individuality(B)Perishability（C)Inseparability（D)Unpredictable\n\n） 2.下列哪本書有系統論述烹飪技術，並集我國烹飪之大成？（A）《隨園食單》（B）《呂氏春秋》（C）《齊民要術》（D）《千金要方》\n\n）3．餐廳的前身，西元1645年出現在義大利威尼斯的哪一類型餐廳？（A）速食餐廳（B）自助餐廳（C）外送餐廳（D）咖啡屋\n\n4.麥當勞對臺灣連鎖企業貢獻極大，也將其理念QSCV帶入臺灣，下列敘述何者錯誤？（A）Q-Quantity（B）S-Service（C）C-Cleanliness（D）V-Value\n\n（）5.依照歐美餐飲業發展史，餐飲業發展變革的先後順序依序為：\n\n（A）Restaurant 成爲餐廳的代號→咖啡屋的興起→小客棧的出現→連鎖餐飲的盛行（B）連鎖餐飲的盛行→小客棧的出現→Restaurant成爲餐廳的代號→咖啡屋的興起（C）小客棧的出現→咖啡屋的興起→Restaurant 成爲餐廳的代號→連鎖餐飲的盛行（D）咖啡屋的興起→小客棧的出現→連鎖餐飲的盛行→Restaurant 成爲餐廳的代號\n\n6． 廚房中有句行話：「七分刀工，三分火功」足以說明刀工的重要，下列有關砧板師傅的敘述，何者錯誤？（A）砧板師傅又稱砧或紅案（B）通常頭爲冰箱整理員，又可稱爲翻冰箱（C）地位崇高，與爐灶為廚房最重要的兩個單位（D）大型餐館中紅案之下設有「水檯」\n\n）7．餐廳組織中，工作職級由低到高排列，下列何者正確？（A）餐廳：服務生（練習生）、服務員、領檯接待員、領班、經理、總經理（B）中式餐廳：爐灶燒烤蒸籠點心及冷盤師傅、主廚、副主廚、行政總主廚（C）餐廳外場：服務生、資淺領班、資淺接待員、資深領班、資深接待員、服務經理、服務副理、總經理（D）西式餐廳：廚務領班、餐廳主廚、燒烤肉房冷廚醬汁及點心房廚師、三廚、二廚、廚助、副主廚、行政總主廚\n\n）8．廚房中有3樣基本設備，可連成1個三角形，且被效率專家稱為工作三角形，此3種設備的距離愈短愈好，試問下列何者不包括在內？（A）爐檯（B）水槽（C）烤箱（D）冰箱"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2952-1-9-有關空間分配基本原則-下列何者錯誤--ee06c70f",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2952-2994",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "一、選擇題"
+      ],
+      "text": "9.有關空間分配基本原則，下列何者錯誤？（A）使用地下水源，至少應與化糞池、廢棄物堆積場所等汙染源保持15公尺以上（B）廚房工作檯面或調理檯面需100燭光（C）廚房內所需亮度為100燭光（D）用餐區的空氣壓力應經常保持正壓\n\n）10.請問下列哪一個廚房型式被稱之為島嶼式？（A）面對面（B）背對背式（C）直線（D）L型\n\n）11．中國地方菜餚常被形容為： （A）南酸、北辣、東淡、西鹹（B）南淡、北鹹、東酸、西辣 （C）南辣、北酸、東鹹、西淡（D）南鹹、北淡、東辣、西酸\n\n）12.有關中國各地菜餚的敘述，下列何者正確？（A）宮保雞丁屬於臺菜（B）四川菜是以取材奇特為爲特色（C）廣東菜的特色是重味、香、辣、酸（D）京醬肉絲是屬於北平菜\n\n）13．連鎖餐廳所使用的商標、制服、招牌…，可以讓顧客產生認同與親切感的項目均是屬於？（A）CAS（B）CRS（C）CIS（D）HACCP\n\n）14.關於中國菜系之敘述，下列何者正確？（A）北平菜擅長拔絲烹調，偏好甜麵醬，著名的菜色包含：叉燒肉、蜜汁火腿等（B）湖南菜擅長煨、醃、燒臘、燉、蒸等烹調法，著名的菜色包含：炸素方、東安子雞等（C）江浙菜口味偏好酸、鹹、辣、油，著名的菜色包含：京醬肉絲、紅燒下巴、富貴火腿等（D）廣東菜多為油重、味濃、糖重色鮮，著名的菜色包含：荷葉粉蒸肉、龍井蝦仁、樟茶鴨等\n\n）15．餐飲管理所指之直接成本，包括： （A）人事費用（B）水電瓦斯（C）租金（D）食物及飲料成本\n\n）16.已知蘆筍漲縮率為93%，廢棄率為48%，要製作650公克的清炒蘆筍，你需要探買多少的蘆筍？（A）1,456公克（B）290公克（C）1,344公克（D）335公克\n\n）17.公開招標的步驟，何者正確？（A）發標→投標→開標→決標→合約（B）發標→决標→開標→投標→合約（C)發標→合約→投標→决標→開標 （D）决標→發標→投標→開標→合約"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2952-2-18-下列有關餐飲成本控制循環之順序-f-1678a8af",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2952-2994",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "一、選擇題"
+      ],
+      "text": "）18. 下列有關餐飲成本控制循環之順序（Food Cost Control Cycle），何者 正確？（A） Purchasing →Receiving →Storage→Issuing →Production (B) Receiving → Issuing → Purchasing → Storage → Production (C) Issuing → Storage → Purchasing → Receiving → Production (D) Pur-chasing →Issuing →Receiving →Storage→Production\n\n）19.下列何者為「二元因素理論」（Two-factor Theory）的保健因素中之項目？（A）薪資待遇（B）職位升遷（C）主管賞識（D）工作發展\n\n）20．餐飲成本中，探購新鮮食材、乾貨等所需的費用是屬於哪一種成本？（A）半固定成本（B）固定成本（C）變動成本（D）間接成本"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-2996-0-1-間接影響1923年-米其林指南-專業-23ce1ac3",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L2996-3008",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "二、填充題"
+      ],
+      "text": "1.間接影響1923年《米其林指南》專業美食評鑑寶典誕生的廚師為：\n\n2.國際連鎖速食業「麥當勞」將其理念QSCV帶入臺灣，其內容為？\n\nQ:\n\nS:\n\nC:\n\nV："
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-3010-0-1-請寫出4-種常見的餐桌服務方式-2--6ccfe861",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L3010-3014",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "三、簡答題"
+      ],
+      "text": "1. 請寫出4 種常見的餐桌服務方式。\n\n2.獨立餐廳與連鎖餐廳在經營時各有其優缺點，請各別說明。"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-3016-0-小明想在校園附近投資一家咖啡店-試問-1-26920fcb",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-03-auto-課本pdf-03-md-185469b7",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "為什麼這家店的生意這麼好",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-03/auto/課本PDF-03.md",
+      "locator": "L3016-3021",
+      "headingPath": [
+        "為什麼這家店的生意這麼好",
+        "四、題組"
+      ],
+      "text": "小明想在校園附近投資一家咖啡店，試問：\n\n1.小明進行地點選定時，需要考量哪些因素？\n\n2. 若小明想找你合夥，你還會特別注意哪些事項？"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-04-auto-課本pdf-04-md-4-0-000-000-00-o-j-j-服務性-依法-c5e9af76",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-04-auto-課本pdf-04-md-071671f2",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "04",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-04/auto/課本PDF-04.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-04/auto/課本PDF-04.md",
+      "locator": "L4-136",
+      "headingPath": [
+        "04",
+        "旅宿業"
+      ],
+      "text": "000 000 00 o J J\n\n服務性\n\n依法規定義\n\n國外\n\n定義\n\n臺灣\n\n房租計價方式\n\n綜合性\n\n依學者定義\n\n訂房作業\n\n公用性\n\n一般特性\n\n連鎖旅館定義\n\n無歇性\n\n經濟特性\n\n特性\n\n5. 經 營念理\n\n經營方式\n\n連鎖旅館系統\n\n季節性\n\n1.定義及 特性\n\n組織架構\n\n不可儲存性\n\n地域性\n\n前場/營業部門\n\n4.組織與部門\n\n旅宿業\n\n組織工作内容\n\n工作職掌\n\n後場/管理部門\n\n多變性\n\n客務部\n\n僵固性\n\n2.發展過程\n\n3.類別與種類\n\n資本密集性\n\n房務部\n\n歐美國家\n\n勞力密集性\n\n中國\n\n安全性\n\n臺灣\n\n臺灣\n\n旅宿業 等級評鑑\n\n其他國家\n\n法國\n\n旅宿業類別\n\n依床型分類\n\n美國\n\n依地理位置區分\n\n依房型分類\n\n英國\n\n依住宿目的區分\n\n客房種類\n\n依客房相鄰位置分類\n\n依住宿時間長短區分\n\n西班牙\n\n依客房開窗面向分類\n\n義大利\n\n依提供服務的程度區分\n\n依我國現行法規分類\n\n依特殊樓層客房分類\n\n歐洲\n\n依其他因素區分\n\n其他型態客房分類\n\n中國"
+    },
+    {
+      "chunkId": "全華版-觀光餐旅業導論-output-課本pdf-04-auto-課本pdf-04-md-138-0-跟你提過我姊嗎-是啊-是啊-阿妮準備到法國-687f2b99",
+      "documentId": "全華版-觀光餐旅業導論-output-課本pdf-04-auto-課本pdf-04-md-071671f2",
+      "shardId": "rag-0050.6e0cf1eac8",
+      "title": "04",
+      "sourcePath": "RAG/教材/全華版/觀光餐旅業導論/output/課本PDF-04/auto/課本PDF-04.md",
+      "relativePath": "全華版/觀光餐旅業導論/output/課本PDF-04/auto/課本PDF-04.md",
+      "locator": "L138-179",
+      "headingPath": [
+        "04",
+        "行前勤確認～旅宿安啦"
+      ],
+      "text": "跟你提過我姊嗎？\n\n是啊！是啊！阿妮準備到法國當交換生囉！\n\n你是說那個讀大學旅運管理系三年級的阿妮姊姊嗎？\n\n對啊！阿妮為了一圓浪漫的法國夢，大一就選修法文囉！出發前還規劃了巴黎之旅，準備好好感受巴黎鐵塔、凱旋門、香榭麗榭大道、巴黎左岸.……之美！\n\n應該是這一、兩週吧？房間是3個月前就透過網路訂好了...…..怎麼辦？不知道有沒有危險？住宿費花了阿妮2個月的打工費耶！\n\n齁.....家裡都不關心姊姊喔！巴黎現在有些古蹟跟店家遭破壞，交通可能也不便利哦！危險指數應該很高！行程規劃在什麼時間？訂房了嗎？……\n\n這種突發事件就是觀光餐旅業的多變性！在臺灣，入住旅館一般可依照交通部觀光署《個別旅客訂房定型化契約》規定執行訂房合約，即使入住前一天臨時取消，也可請求退還20%已付訂金。但到了國外，能退多少訂金就要看各家訂房系統規定了..... 243隨著旅遊活動的興盛，不管是電視\n\n或網路，總可以看到各式各樣的旅宿廣告\n\n訊息，旅宿業的發展也愈來愈多元，國際觀光旅館、青年旅舍、民宿…等。\n\n這一節我們就從旅宿業的定義、特性，\n\n最基礎的面向來認識這門行業吧！\n\n隨著社會的發展，商業貿易活動愈來愈頻繁，住宿需求也隨之增加。現今社會為滿足不同的需求，住宿型態也愈來愈多元，有的僅有基本的住宿設備、有的極盡奢華、有的充滿了人文藝術色彩。（圖4-1）"
+    }
+  ]
+}
