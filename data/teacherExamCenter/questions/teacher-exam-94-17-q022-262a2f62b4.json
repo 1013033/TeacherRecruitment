@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q022-262a2f62b4",
     "sourceYear": 94,
@@ -31,51 +31,74 @@
       }
     ],
     "answer": "B",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [餐飲業的組織與部門]",
+    "conceptId": "tourism-hospitality-4fc572c7aa",
+    "conceptLabel": "餐飲業的組織與部門",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第四節餐飲業的組織與部門",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [餐飲業的組織與部門]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "note": "依據肉類肌纖維特性選擇適當的切割刀法。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "家禽肉類(如雞肉)及魚肉的肌纖維較短、組織較鬆散且柔嫩。若採用逆紋(橫紋)切,烹調時容易碎爛散開;因此這類肉品多採用「順紋切」以保持肉塊的完整性與適當的咀嚼口感。相對地,牛肉等纖維粗硬的肉類才需用橫紋切切斷纖維。故選B。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第四節餐飲業的組織與部門；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「B」。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第四節餐飲業的組織與部門",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "肌纖維較短，較鬆散的家禽肉類宜採用何種刀法切割肉質感較嫩： 橫紋切 順紋切 菱形片 反斜切。 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "肌纖維較短,較鬆散的家禽肉類宜採用何種刀法切割肉質感較嫩: 橫紋切 順紋切 菱形片 反斜切。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [餐飲業的組織與部門] 餐飲業的組織與部門 家禽肉類(如雞肉)及魚肉的肌纖維較短、組織較鬆散且柔嫩。若採用逆紋(橫紋)切,烹調時容易碎爛散開;因此這類肉品多採用「順紋切」以保持肉塊的完整性與適當的咀嚼口感。相對地,牛肉等纖維粗硬的肉類才需用橫紋切切斷纖維。故選B。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第四節餐飲業的組織與部門;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
     "sequence": 2548
   }
 }

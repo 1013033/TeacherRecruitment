@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q002-4e16daa395",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "B",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
-    "relatedConceptIds": [],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第三章 餐飲業] - [第三章 餐飲業]",
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "source": "reference-book-rag",
+        "chapter": "第三章 餐飲業",
+        "locator": "第三章 餐飲業",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第三章 餐飲業] - [第三章 餐飲業]」。"
+      },
+      {
+        "source": "AI",
+        "chapter": "第五章",
+        "locator": "旅行業從業人員",
+        "note": "辨識導遊人員執業證之法定分類"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "依據《導遊人員管理規則》之規定,導遊人員依照其使用的語言專長,其執業證正式分為「外語導遊人員」及「華語導遊人員」兩類。\n\n【選項判斷】A：並非執業證之法定分類。 B：法定分類明確劃分為外語與華語導遊人員。 C：並非執業證之法定分類。 D：並非執業證之法定分類。\n\n【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "並非執業證之法定分類。"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "法定分類明確劃分為外語與華語導遊人員。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "並非執業證之法定分類。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "並非執業證之法定分類。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第三章 餐飲業",
+          "locator": "第三章 餐飲業",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "依導遊人員管理規則規定，導遊人員執業證分為： 專任導遊及特約導遊 外語導遊人員及華語導遊人員 國外僱用及國內僱用導遊 長期受僱與臨時受僱導遊。 其他：待人工審核 待人工審核",
-    "sequence": 2669
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "依導遊人員管理規則規定,導遊人員執業證分為: 專任導遊及特約導遊 外語導遊人員及華語導遊人員 國外僱用及國內僱用導遊 長期受僱與臨時受僱導遊。 觀光餐旅業導論 [第三章 餐飲業] - [第三章 餐飲業] 第三章 餐飲業 依據《導遊人員管理規則》之規定,導遊人員依照其使用的語言專長,其執業證正式分為「外語導遊人員」及「華語導遊人員」兩類。 【選項判斷】A:並非執業證之法定分類。 B:法定分類明確劃分為外語與華語導遊人員。 C:並非執業證之法定分類。 D:並非執業證之法定分類。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 並非執業證之法定分類。 法定分類明確劃分為外語與華語導遊人員。 並非執業證之法定分類。 並非執業證之法定分類。",
+    "sequence": 2669,
+    "relatedConceptIds": [],
+    "conceptLabel": "第三章 餐飲業",
+    "conceptId": "tourism-hospitality-cb853fdcef"
   }
 }

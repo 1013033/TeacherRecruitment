@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q020-b5a235847b",
     "sourceYear": 94,
@@ -32,48 +32,75 @@
     ],
     "answer": "C",
     "subject": "foodservice",
-    "subjectLabel": "餐飲服務實務",
-    "unit": "餐飲服務與營運",
-    "conceptId": "foodservice-operations",
-    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第四章 營業前的準備工作與營業後的收善工作] - [第四章 營業前的準備工作與營業後的收善工作]",
+    "conceptId": "foodservice-d6e298b6c3",
+    "conceptLabel": "第四章 營業前的準備工作與營業後的收善工作",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第四章 營業前的準備工作與營業後的收善工作",
+        "locator": "第四章 營業前的準備工作與營業後的收善工作",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第四章 營業前的準備工作與營業後的收善工作] - [第四章 營業前的準備工作與營業後的收善工作]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：餐飲"
+        "chapter": "第四章",
+        "locator": "111年6月餐飲服務技術.pdf, p.149, 160",
+        "note": "Glassware Polish (擦拭杯皿) 屬於 Mise en Place (營業前準備工作)。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "在餐飲作業中,Polish(擦拭)通常是指在營業前準備工作(Mise en Place)期間,服務人員使用布巾將清洗後的餐具、刀叉匙或杯皿(如 Glassware Polish)擦拭至光亮無水痕的動作。因此,它屬於「餐飲準備工作時用語」。\n\n【選項判斷】A：服勤用語較偏向點餐或上菜時的互動。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：擦拭餐具屬於營業前準備(Mise en Place)的一部分。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第四章 營業前的準備工作與營業後的收善工作，定位：第四章 營業前的準備工作與營業後的收善工作；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "服勤用語較偏向點餐或上菜時的互動。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "擦拭餐具屬於營業前準備(Mise en Place)的一部分。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第四章 營業前的準備工作與營業後的收善工作",
+          "locator": "第四章 營業前的準備工作與營業後的收善工作",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "餐飲作業中所謂polish是指？ 餐飲服勤用語 服務人員服務態度用語 餐飲準備工作時用語 排班用語 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "searchText": "餐飲作業中所謂polish是指? 餐飲服勤用語 服務人員服務態度用語 餐飲準備工作時用語 排班用語 餐飲服務技術 [第四章 營業前的準備工作與營業後的收善工作] - [第四章 營業前的準備工作與營業後的收善工作] 第四章 營業前的準備工作與營業後的收善工作 在餐飲作業中,Polish(擦拭)通常是指在營業前準備工作(Mise en Place)期間,服務人員使用布巾將清洗後的餐具、刀叉匙或杯皿(如 Glassware Polish)擦拭至光亮無水痕的動作。因此,它屬於「餐飲準備工作時用語」。 【選項判斷】A:服勤用語較偏向點餐或上菜時的互動。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:擦拭餐具屬於營業前準備(Mise en Place)的一部分。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第四章 營業前的準備工作與營業後的收善工作,定位:第四章 營業前的準備工作與營業後的收善工作;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 服勤用語較偏向點餐或上菜時的互動。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 擦拭餐具屬於營業前準備(Mise en Place)的一部分。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
     "sequence": 2595
   }
 }

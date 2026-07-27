@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-101-02-q001-258fa25efb",
     "sourceYear": 101,
@@ -13,30 +13,66 @@
     "questionType": "essay",
     "prompt": "此酒有豐富濃郁的口感且帶有一種迷人的芳香。（4分）",
     "options": [],
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[第四章 茶的認識與調製] - [茶的分類與特性]",
+    "conceptId": "beverage-c4a73800f2",
+    "conceptLabel": "茶的分類與特性",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "source": "unit-cleanup",
+        "chapter": "第四章 茶的認識與調製",
+        "locator": "茶的分類與特性",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [茶的分類與特性 129]"
+      },
+      {
+        "source": "reference-book-rag",
+        "chapter": "第一章 飲務的作業規範",
+        "locator": "第二節茶的分類與特性 129",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [茶的分類與特性 129]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。全華單元無法承接此題，因為題目涉及的是酒類的描述而非特定的飲料或蒸餾過程。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】飲料實務 / 的專有名詞、法規或實務操作 / 的專有名詞、法規或實務操作。全華單元無法承接此題,因為題目涉及的是酒類的描述而非特定的飲料或蒸餾過程。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】本題考核的專有名詞、法規或實務操作;無 【詳細解析】此題主要測試考生對酒類口感和芳香特性的理解。然而,全華單元中並未涵蓋相關概念,因此無法直接匹配到特定的核心概念。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】無\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第二節茶的分類與特性 129；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "飲料實務",
+          "chapter": "第四章 茶的認識與調製",
+          "locator": "茶的分類與特性",
+          "note": "清理後的飲料實務章節定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T14:04:31.422Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "needs-classification-review"
+      "ai-classification-unit"
     ],
-    "searchText": "此酒有豐富濃郁的口感且帶有一種迷人的芳香。（4分） 其他：待人工審核 待人工審核",
-    "sequence": 189
+    "searchText": "此酒有豐富濃郁的口感且帶有一種迷人的芳香。(4分) 飲料實務 [第四章 茶的認識與調製] - [茶的分類與特性] 茶的分類與特性 【問題分類】飲料實務 / 的專有名詞、法規或實務操作 / 的專有名詞、法規或實務操作。全華單元無法承接此題,因為題目涉及的是酒類的描述而非特定的飲料或蒸餾過程。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】本題考核的專有名詞、法規或實務操作;無 【詳細解析】此題主要測試考生對酒類口感和芳香特性的理解。然而,全華單元中並未涵蓋相關概念,因此無法直接匹配到特定的核心概念。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】無 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第二節茶的分類與特性 129;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+    "sequence": 189,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

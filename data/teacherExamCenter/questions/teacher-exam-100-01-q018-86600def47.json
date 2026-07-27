@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q018-86600def47",
     "sourceYear": 100,
@@ -33,49 +33,82 @@
     "answer": "B",
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "酒類與葡萄酒",
-    "conceptId": "wine-and-spirits",
-    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "unit": "[第六章 酒的分類與製程] - [蒸餾酒的分類與製程]",
+    "conceptId": "beverage-850ed8c8e7",
+    "conceptLabel": "蒸餾酒的分類與製程",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chwa-beverage-practice",
-        "note": "命中關鍵詞：champagne"
+        "source": "unit-cleanup",
+        "chapter": "第六章 酒的分類與製程",
+        "locator": "蒸餾酒的分類與製程",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第六章 酒的分類與製程] - [第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製]"
+      },
+      {
+        "source": "reference-book-rag",
+        "chapter": "第六章 酒的分類與製程",
+        "locator": "第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第六章 酒的分類與製程] - [第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製]」。"
+      },
+      {
+        "source": "manual",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。題目涉及氣泡酒的知識，與全華版飲料實務中香檳和氣泡酒相關概念相符。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / (7)先喝氣泡酒,後不起泡酒。。題目涉及氣泡酒的知識,與全華版飲料實務中香檳和氣泡酒相關概念相符。 【分類來源】全華/人工分類單元 【核心觀念】關於各國氣泡酒的名稱 【詳細解析】本題考核的是對不同國家生產的氣泡酒名稱的識別能力。根據題目,正確答案為「甲乙」(西班牙:Cava 和義大利:Espumosa),而丙(法國:Champagne)和丁(德國:Vins Mousseux)是錯誤的表述。 【錯誤選項錯在哪】A:此選項包含義大利 Espumosa,但未包含法國香檳 Champagne 和德國 Vins Mousseux。因此不正確。 修正說法:應為「甲乙」(西班牙:Cava 和義大利:Espumosa) B:此選項包含法國香檳 Champagne,且正確識別了西班牙 Cava 和義大利 Espumosa。因此是正確的。 修正說法:無需修正 C:此選項包含法國香檳 Champagne,但未包含西班牙 Cava 和義大利 Espumosa。因此不正確。 修正說法:應為「甲乙」(西班牙:Cava 和義大利:Espumosa) D:此選項包含德國 Vins Mousseux,但未包含法國香檳 Champagne 和西班牙 Cava。因此不正確。 修正說法:應為「甲乙」(西班牙:Cava 和義大利:Espumosa) 【叮嚀】提醒考生注意不同國家生產的氣泡酒名稱,特別是法國香檳 Champagne 的特殊性質和產地要求。\n\n【選項判斷】A：此選項包含義大利 Espumosa,但未包含法國香檳 Champagne 和德國 Vins Mousseux。因此不正確。 B：此選項包含法國香檳 Champagne,且正確識別了西班牙 Cava 和義大利 Espumosa。因此是正確的。 C：此選項包含法國香檳 Champagne,但未包含西班牙 Cava 和義大利 Espumosa。因此不正確。 D：此選項包含德國 Vins Mousseux,但未包含法國香檳 Champagne 和西班牙 Cava。因此不正確。\n\n【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程，定位：第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製（頁 199）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含義大利 Espumosa,但未包含法國香檳 Champagne 和德國 Vins Mousseux。因此不正確。",
+          "correctedStatement": "應為「甲乙」(西班牙:Cava 和義大利:Espumosa)"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項包含法國香檳 Champagne,且正確識別了西班牙 Cava 和義大利 Espumosa。因此是正確的。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含法國香檳 Champagne,但未包含西班牙 Cava 和義大利 Espumosa。因此不正確。",
+          "correctedStatement": "應為「甲乙」(西班牙:Cava 和義大利:Espumosa)"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含德國 Vins Mousseux,但未包含法國香檳 Champagne 和西班牙 Cava。因此不正確。",
+          "correctedStatement": "應為「甲乙」(西班牙:Cava 和義大利:Espumosa)"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "飲料實務",
+          "chapter": "第六章 酒的分類與製程",
+          "locator": "蒸餾酒的分類與製程",
+          "note": "清理後的飲料實務章節定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T14:04:31.422Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "關於各國氣泡酒的名稱何者正確？甲、西班牙：Cava 乙、義大利：Espumosa 丙、法國：Champagne 丁：德國：Vins Mousseux 甲乙 甲丙 乙丙 丙丁。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "關於各國氣泡酒的名稱何者正確?甲、西班牙:Cava 乙、義大利:Espumosa 丙、法國:Champagne 丁:德國:Vins Mousseux 甲乙 甲丙 乙丙 丙丁。 飲料實務 [第六章 酒的分類與製程] - [蒸餾酒的分類與製程] 蒸餾酒的分類與製程 【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / (7)先喝氣泡酒,後不起泡酒。。題目涉及氣泡酒的知識,與全華版飲料實務中香檳和氣泡酒相關概念相符。 【分類來源】全華/人工分類單元 【核心觀念】關於各國氣泡酒的名稱 【詳細解析】本題考核的是對不同國家生產的氣泡酒名稱的識別能力。根據題目,正確答案為「甲乙」(西班牙:Cava 和義大利:Espumosa),而丙(法國:Champagne)和丁(德國:Vins Mousseux)是錯誤的表述。 【錯誤選項錯在哪】A:此選項包含義大利 Espumosa,但未包含法國香檳 Champagne 和德國 Vins Mousseux。因此不正確。 修正說法:應為「甲乙」(西班牙:Cava 和義大利:Espumosa) B:此選項包含法國香檳 Champagne,且正確識別了西班牙 Cava 和義大利 Espumosa。因此是正確的。 修正說法:無需修正 C:此選項包含法國香檳 Champagne,但未包含西班牙 Cava 和義大利 Espumosa。因此不正確。 修正說法:應為「甲乙」(西班牙:Cava 和義大利:Espumosa) D:此選項包含德國 Vins Mousseux,但未包含法國香檳 Champagne 和西班牙 Cava。因此不正確。 修正說法:應為「甲乙」(西班牙:Cava 和義大利:Espumosa) 【叮嚀】提醒考生注意不同國家生產的氣泡酒名稱,特別是法國香檳 Champagne 的特殊性質和產地要求。 【選項判斷】A:此選項包含義大利 Espumosa,但未包含法國香檳 Champagne 和德國 Vins Mousseux。因此不正確。 B:此選項包含法國香檳 Champagne,且正確識別了西班牙 Cava 和義大利 Espumosa。因此是正確的。 C:此選項包含法國香檳 Champagne,但未包含西班牙 Cava 和義大利 Espumosa。因此不正確。 D:此選項包含德國 Vins Mousseux,但未包含法國香檳 Champagne 和西班牙 Cava。因此不正確。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項包含義大利 Espumosa,但未包含法國香檳 Champagne 和德國 Vins Mousseux。因此不正確。 此選項包含法國香檳 Champagne,且正確識別了西班牙 Cava 和義大利 Espumosa。因此是正確的。 此選項包含法國香檳 Champagne,但未包含西班牙 Cava 和義大利 Espumosa。因此不正確。 此選項包含德國 Vins Mousseux,但未包含法國香檳 Champagne 和西班牙 Cava。因此不正確。",
     "sequence": 43
   }
 }

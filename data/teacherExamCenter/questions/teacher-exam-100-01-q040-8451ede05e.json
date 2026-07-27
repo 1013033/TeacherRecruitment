@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q040-8451ede05e",
     "sourceYear": 100,
@@ -31,49 +31,85 @@
       }
     ],
     "answer": "D",
-    "subject": "lodging",
-    "subjectLabel": "旅館實務",
-    "unit": "客房與訂房",
-    "conceptId": "hotel-rooms-and-reservations",
-    "conceptLabel": "旅館客房、訂房與房務",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
+    "conceptId": "tourism-hospitality-6bf9a5e5da",
+    "conceptLabel": "第一章 觀光餐旅業基本觀念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "命中關鍵詞：旅館、客房、do not disturb、d.n.d"
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第一章 觀光餐旅業基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。本題涉及觀光餐旅業導論中客房服務與管理的常識，屬於全華教材範圍。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】觀光餐旅業導論 / 觀光餐旅業導論中客房服務與管理的常識 / 觀光餐旅業導論中客房服務與管理的常識。本題涉及觀光餐旅業導論中客房服務與管理的常識,屬於全華教材範圍。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】觀光餐旅業導論中客房服務與管理的常識 【詳細解析】「D.N.D.」是英文「Do Not Disturb」的縮寫,意指房間內旅客不希望被打擾。因此,正確答案為 D 选项。 【錯誤選項錯在哪】A:此選項中的「Disturb Not Do」並非英文常用表達方式,且與題意不符。 修正說法:無需修正 B:此選項中的「Do Not Discount」意為不打折或不予考慮,與題意不符。 修正說法:無需修正 C:此選項中的「Do Not Dismiss」意為不輕視或不予放棄,與題意不符。 修正說法:無需修正 D:此選項正確地表達了「Do Not Disturb」的意義。 修正說法:無需修正 【叮嚀】提醒考生注意英文縮寫在酒店業中的應用,尤其是與客房服務相關的指示牌。\n\n【選項判斷】A：此選項中的「Disturb Not Do」並非英文常用表達方式,且與題意不符。 B：此選項中的「Do Not Discount」意為不打折或不予考慮,與題意不符。 C：此選項中的「Do Not Dismiss」意為不輕視或不予放棄,與題意不符。 D：此選項正確地表達了「Do Not Disturb」的意義。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項中的「Disturb Not Do」並非英文常用表達方式,且與題意不符。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項中的「Do Not Discount」意為不打折或不予考慮,與題意不符。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項中的「Do Not Dismiss」意為不輕視或不予放棄,與題意不符。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項正確地表達了「Do Not Disturb」的意義。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [],
-    "searchText": "旅館客房所使用之「D.N.D.」指示牌，英文全文為甚麼？ Disturb Not Do Do Not Discount Do Not Dismiss Do Not Disturb。 旅館客房、訂房與房務 客房與訂房",
-    "sequence": 65
+    "reviewStatus": "approved",
+    "flags": [
+      "ai-classification-unit"
+    ],
+    "searchText": "旅館客房所使用之「D.N.D.」指示牌,英文全文為甚麼? Disturb Not Do Do Not Discount Do Not Dismiss Do Not Disturb。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 【問題分類】觀光餐旅業導論 / 觀光餐旅業導論中客房服務與管理的常識 / 觀光餐旅業導論中客房服務與管理的常識。本題涉及觀光餐旅業導論中客房服務與管理的常識,屬於全華教材範圍。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】觀光餐旅業導論中客房服務與管理的常識 【詳細解析】「D.N.D.」是英文「Do Not Disturb」的縮寫,意指房間內旅客不希望被打擾。因此,正確答案為 D 选项。 【錯誤選項錯在哪】A:此選項中的「Disturb Not Do」並非英文常用表達方式,且與題意不符。 修正說法:無需修正 B:此選項中的「Do Not Discount」意為不打折或不予考慮,與題意不符。 修正說法:無需修正 C:此選項中的「Do Not Dismiss」意為不輕視或不予放棄,與題意不符。 修正說法:無需修正 D:此選項正確地表達了「Do Not Disturb」的意義。 修正說法:無需修正 【叮嚀】提醒考生注意英文縮寫在酒店業中的應用,尤其是與客房服務相關的指示牌。 【選項判斷】A:此選項中的「Disturb Not Do」並非英文常用表達方式,且與題意不符。 B:此選項中的「Do Not Discount」意為不打折或不予考慮,與題意不符。 C:此選項中的「Do Not Dismiss」意為不輕視或不予放棄,與題意不符。 D:此選項正確地表達了「Do Not Disturb」的意義。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項中的「Disturb Not Do」並非英文常用表達方式,且與題意不符。 此選項中的「Do Not Discount」意為不打折或不予考慮,與題意不符。 此選項中的「Do Not Dismiss」意為不輕視或不予放棄,與題意不符。 此選項正確地表達了「Do Not Disturb」的意義。",
+    "sequence": 65,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

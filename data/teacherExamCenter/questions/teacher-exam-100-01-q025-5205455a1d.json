@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q025-5205455a1d",
     "sourceYear": 100,
@@ -31,49 +31,85 @@
       }
     ],
     "answer": "A",
-    "subject": "travel-agency",
-    "subjectLabel": "旅行業與航空票務",
-    "unit": "旅行業與航空服務",
-    "conceptId": "travel-agency-and-airline",
-    "conceptLabel": "旅行業、航空票務與入出境",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
+    "conceptId": "tourism-hospitality-6bf9a5e5da",
+    "conceptLabel": "第一章 觀光餐旅業基本觀念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "命中關鍵詞：機票、旅遊、open jaw、round trip"
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第一章 觀光餐旅業基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。本題涉及旅行業中的團體全備旅遊概念，與觀光餐旅業導論第五章內容相關。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】觀光餐旅業導論 / (二)現成式旅遊服務 > 1.團體全備旅遊(Inclusive Package Tour) / (二)現成式旅遊服務 > 1.團體全備旅遊(Inclusive Package Tour)。本題涉及旅行業中的團體全備旅遊概念,與觀光餐旅業導論第五章內容相關。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】旅行業中的團體全備旅遊概念 【詳細解析】陳老師帶領全家五口由 TPE 飛往 LAX 再租車前往 SFO,回程則直接由 SFO 飛回 TPE。這種機票行程屬於「Open Jaw」(開嘴式)而非團體全備旅遊。Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。因此,此題考核的是對於不同機票行程類型的理解。 【錯誤選項錯在哪】A:Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 B:Round Trip 是指往返同一目的地的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 C:One Way 是指單向機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 D:Circle Trip 是指環狀機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無\n\n【選項判斷】A：Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 B：Round Trip 是指往返同一目的地的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 C：One Way 是指單向機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 D：Circle Trip 是指環狀機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Round Trip 是指往返同一目的地的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "One Way 是指單向機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Circle Trip 是指環狀機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [],
-    "searchText": "春假期間國人前往美國旅遊者眾，尤其以 SFO 為然，形成前往該地一票難求的現象。因此，陳老師最後決定帶領全家五口由 TPE 飛往 LAX，再租車繼續駛往 SFO，回程則直接由 SFO 飛回 TPE，進而完成其全家福美西之旅。上述陳老師所使用的機票行程屬於？ Open Jaw Round Trip One Way Circle Trip。 旅行業、航空票務與入出境 旅行業與航空服務",
-    "sequence": 122
+    "reviewStatus": "approved",
+    "flags": [
+      "ai-classification-unit"
+    ],
+    "searchText": "春假期間國人前往美國旅遊者眾,尤其以 SFO 為然,形成前往該地一票難求的現象。因此,陳老師最後決定帶領全家五口由 TPE 飛往 LAX,再租車繼續駛往 SFO,回程則直接由 SFO 飛回 TPE,進而完成其全家福美西之旅。上述陳老師所使用的機票行程屬於? Open Jaw Round Trip One Way Circle Trip。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 【問題分類】觀光餐旅業導論 / (二)現成式旅遊服務 > 1.團體全備旅遊(Inclusive Package Tour) / (二)現成式旅遊服務 > 1.團體全備旅遊(Inclusive Package Tour)。本題涉及旅行業中的團體全備旅遊概念,與觀光餐旅業導論第五章內容相關。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】旅行業中的團體全備旅遊概念 【詳細解析】陳老師帶領全家五口由 TPE 飛往 LAX 再租車前往 SFO,回程則直接由 SFO 飛回 TPE。這種機票行程屬於「Open Jaw」(開嘴式)而非團體全備旅遊。Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。因此,此題考核的是對於不同機票行程類型的理解。 【錯誤選項錯在哪】A:Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 B:Round Trip 是指往返同一目的地的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 C:One Way 是指單向機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 D:Circle Trip 是指環狀機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 修正說法:無需修正 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無 【選項判斷】A:Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 B:Round Trip 是指往返同一目的地的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 C:One Way 是指單向機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 D:Circle Trip 是指環狀機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Open Jaw 是指旅客在出發地和目的地之間有停留或轉機的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 Round Trip 是指往返同一目的地的機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 One Way 是指單向機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。 Circle Trip 是指環狀機票行程,而陳老師的家庭旅行中包含了從 TPE 到 LAX 的飛行、LAX 至 SFO 的租車以及回程由 SFO 直接飛回 TPE 的安排。",
+    "sequence": 122,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

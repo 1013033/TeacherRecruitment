@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q025-0495553464",
     "sourceYear": 94,
@@ -33,47 +33,80 @@
     "answer": "C",
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "酒類與葡萄酒",
-    "conceptId": "wine-and-spirits",
-    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+    "conceptId": "beverage-9403122780",
+    "conceptLabel": "飲料調製的方法",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chwa-beverage-practice",
-        "note": "命中關鍵詞：威士忌、liqueur"
+        "source": "unit-cleanup",
+        "chapter": "第二章 器具、材料與調製法",
+        "locator": "飲料調製的方法",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+      },
+      {
+        "source": "reference-book-rag",
+        "chapter": "第一章 飲務的作業規範",
+        "locator": "第三節飲料調製的方法 72",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+      },
+      {
+        "source": "manual",
+        "chapter": "第二章",
+        "locator": "47026-全--1110617 飲料實務.pdf, p.86",
+        "note": "加冰塊飲用烈酒專屬酒杯。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "根據《飲料實務》第86頁的玻璃杯常識說明,當飲用加冰塊的威士忌(Whisky on the Rocks)時,為容納較大的方形冰塊(Lump of Ice)並方便飲用,應使用矮胖且杯底較厚的「古典酒杯」(Old Fashioned Glass)。\n\n【選項判斷】A：Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。 B：Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。 C：古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。 D：Pilsner (皮爾森杯) 用來盛裝啤酒。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Pilsner (皮爾森杯) 用來盛裝啤酒。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "飲料實務",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清理後的飲料實務章節定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T14:04:31.422Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "飲用威士忌加冰塊，應使用何種酒杯？ Liqueur Glass Collins Glass Old Fashioned Glass Pilsner 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "searchText": "飲用威士忌加冰塊,應使用何種酒杯? Liqueur Glass Collins Glass Old Fashioned Glass Pilsner 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 根據《飲料實務》第86頁的玻璃杯常識說明,當飲用加冰塊的威士忌(Whisky on the Rocks)時,為容納較大的方形冰塊(Lump of Ice)並方便飲用,應使用矮胖且杯底較厚的「古典酒杯」(Old Fashioned Glass)。 【選項判斷】A:Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。 B:Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。 C:古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。 D:Pilsner (皮爾森杯) 用來盛裝啤酒。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。 Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。 古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。 Pilsner (皮爾森杯) 用來盛裝啤酒。",
     "sequence": 2600
   }
 }

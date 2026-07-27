@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q027-21ec1a7803",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "B",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第三章 餐飲業] - [第三章 餐飲業]",
+    "conceptId": "tourism-hospitality-cb853fdcef",
+    "conceptLabel": "第三章 餐飲業",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第三章 餐飲業",
+        "locator": "第三章 餐飲業",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第三章 餐飲業] - [第三章 餐飲業]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "chapter": "第一章",
+        "locator": "觀光餐旅業導論04G71066三校.pdf, p.27",
+        "note": "遊憩區與主管機關的配對考題。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "溪頭自然教育園區(原名為溪頭森林遊樂區)位於南投縣鹿谷鄉,是國立臺灣大學農學院實驗林管理處所管轄的實驗林區之一,因此其主管機關與隸屬單位為臺灣大學。\n\n【選項判斷】A：中興大學轄下著名的林場為惠蓀林場。 B：溪頭自然教育園區隸屬台灣大學實驗林管理處。 C：林務局(現為林業及自然保育署)管轄多數國家森林遊樂區,如阿里山、太平山等,但溪頭為大學實驗林。 D：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "中興大學轄下著名的林場為惠蓀林場。"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "溪頭自然教育園區隸屬台灣大學實驗林管理處。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "林務局(現為林業及自然保育署)管轄多數國家森林遊樂區,如阿里山、太平山等,但溪頭為大學實驗林。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第三章 餐飲業",
+          "locator": "第三章 餐飲業",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "溪頭森林遊樂區隸屬於 中興大學 台灣大學 林務局 行政院農業委員會 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "溪頭森林遊樂區隸屬於 中興大學 台灣大學 林務局 行政院農業委員會 觀光餐旅業導論 [第三章 餐飲業] - [第三章 餐飲業] 第三章 餐飲業 溪頭自然教育園區(原名為溪頭森林遊樂區)位於南投縣鹿谷鄉,是國立臺灣大學農學院實驗林管理處所管轄的實驗林區之一,因此其主管機關與隸屬單位為臺灣大學。 【選項判斷】A:中興大學轄下著名的林場為惠蓀林場。 B:溪頭自然教育園區隸屬台灣大學實驗林管理處。 C:林務局(現為林業及自然保育署)管轄多數國家森林遊樂區,如阿里山、太平山等,但溪頭為大學實驗林。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 中興大學轄下著名的林場為惠蓀林場。 溪頭自然教育園區隸屬台灣大學實驗林管理處。 林務局(現為林業及自然保育署)管轄多數國家森林遊樂區,如阿里山、太平山等,但溪頭為大學實驗林。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
     "sequence": 2602
   }
 }

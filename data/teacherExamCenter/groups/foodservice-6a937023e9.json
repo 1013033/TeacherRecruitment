@@ -1,0 +1,3762 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-refbook-64e7696494",
+  "concept": {
+    "id": "foodservice-6a937023e9",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+    "label": "第八章 餐飲服務",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-100-01-q011-e0d98bb099",
+      "teacher-exam-100-01-q008-507a036ccf",
+      "teacher-exam-100-01-q001-4516435b86",
+      "teacher-exam-100-01-q014-a64e90f826",
+      "teacher-exam-100-01-q007-17fb77fd9e",
+      "teacher-exam-100-01-q013-f669d450ae",
+      "teacher-exam-100-01-q016-9f279048c2",
+      "teacher-exam-100-01-q018-acefa9de01",
+      "teacher-exam-100-01-q021-31f8b1c97c",
+      "teacher-exam-100-01-q037-4f1c516490",
+      "teacher-exam-100-01-q005-242c412cad",
+      "teacher-exam-100-01-q015-13213eea81",
+      "teacher-exam-101-02-q001-ac8e15191a",
+      "teacher-exam-101-02-q007-92160481c7",
+      "teacher-exam-101-02-q001-6c28b90b44",
+      "teacher-exam-102-03-q017-fdb65bd863",
+      "teacher-exam-106-07-q003-9815952c24",
+      "teacher-exam-106-07-q040-f8a29219f7",
+      "teacher-exam-110-11-q027-6917260244",
+      "teacher-exam-111-12-q034-498e3a7e4f",
+      "teacher-exam-111-12-q034-7ac2589922",
+      "teacher-exam-112-13-q003-a49044e369",
+      "teacher-exam-112-13-q002-db99a76669",
+      "teacher-exam-113-14-q045-5ede25469b",
+      "teacher-exam-114-15-q023-293a636cab",
+      "teacher-exam-115-16-q022-ff5e0602ae",
+      "teacher-exam-94-17-q003-204340cae5",
+      "teacher-exam-94-17-q007-6a55aa96c7",
+      "teacher-exam-94-17-q017-a07cac9c6a",
+      "teacher-exam-94-17-q018-c86d04a516",
+      "teacher-exam-94-17-q021-685b9a1be8",
+      "teacher-exam-94-17-q037-e888172452",
+      "teacher-exam-94-17-q038-5e772e0dcf",
+      "teacher-exam-97-19-q017-e3e1025592",
+      "teacher-exam-97-19-q037-67a83c4bca",
+      "teacher-exam-98-20-q006-1203dc04ee",
+      "teacher-exam-99-21-q054-176562c301",
+      "teacher-exam-99-21-q009-f405d827ef"
+    ],
+    "years": [
+      115,
+      114,
+      113,
+      112,
+      111,
+      110,
+      106,
+      102,
+      101,
+      100,
+      99,
+      98,
+      97,
+      94
+    ],
+    "publisherBasis": [
+      {
+        "source": "reference-book-rag",
+        "chapter": "第八章 餐飲服務",
+        "locator": "第八章 餐飲服務",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。全華單元無法承接，因為題目涉及具體的操作流程和設備名稱。"
+      }
+    ],
+    "reviewStatus": "approved",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-100-01-q011-e0d98bb099",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 11 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-1819",
+      "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 11,
+      "questionType": "single-choice",
+      "prompt": "有關三槽式餐具洗滌殺菌設備之敘述何者為非？",
+      "options": [
+        {
+          "id": "A",
+          "text": "第一槽稱為浸泡槽"
+        },
+        {
+          "id": "B",
+          "text": "第二槽稱為沖洗槽"
+        },
+        {
+          "id": "C",
+          "text": "第三槽為消毒槽"
+        },
+        {
+          "id": "D",
+          "text": "清潔劑應添加於第一槽。"
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "ai-generated-unit",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。全華單元無法承接，因為題目涉及具體的操作流程和設備名稱。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / 三槽式餐具洗滌殺菌設備 / 三槽式餐具洗滌殺菌設備。全華單元無法承接,因為題目涉及具體的操作流程和設備名稱。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】三槽式餐具洗滌殺菌設備 【詳細解析】本題考核的是三槽式餐具洗滌殺菌设备的正确操作步骤。根据题目描述,第一槽应为浸泡槽、第二槽为冲洗槽、第三槽为消毒槽。因此选项A“第一槽称作浸泡槽”是错误的,因为正确的说法应该是第一槽为浸泡槽,而选项B、C和D均符合标准的操作流程。 【錯誤選項錯在哪】A:此選項錯在第一槽應該是浸泡槽而非稱作浸泡槽。正確的說法應為:第一槽為浸泡槽,第二槽為沖洗槽,第三槽為消毒槽。 修正說法:第一槽為浸泡槽 B:此選項正確。第二槽確實稱作沖洗槽。 修正說法:無需修正 C:此選項正確。第三槽確實為消毒槽。 修正說法:無需修正 D:此選項正確。清潔劑應添加於第一槽,以進行浸泡和溶解污垢。 修正說法:無需修正 【叮嚀】提醒考生注意三槽式餐具洗滌杀菌设备的操作步骤及各槽的功能区分。\n\n【選項判斷】A：此選項錯在第一槽應該是浸泡槽而非稱作浸泡槽。正確的說法應為:第一槽為浸泡槽,第二槽為沖洗槽,第三槽為消毒槽。 B：此選項正確。第二槽確實稱作沖洗槽。 C：此選項正確。第三槽確實為消毒槽。 D：此選項正確。清潔劑應添加於第一槽,以進行浸泡和溶解污垢。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項錯在第一槽應該是浸泡槽而非稱作浸泡槽。正確的說法應為:第一槽為浸泡槽,第二槽為沖洗槽,第三槽為消毒槽。",
+            "correctedStatement": "第一槽為浸泡槽"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項正確。第二槽確實稱作沖洗槽。",
+            "correctedStatement": "無需修正"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項正確。第三槽確實為消毒槽。",
+            "correctedStatement": "無需修正"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項正確。清潔劑應添加於第一槽,以進行浸泡和溶解污垢。",
+            "correctedStatement": "無需修正"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "ai-classification-unit"
+      ],
+      "searchText": "有關三槽式餐具洗滌殺菌設備之敘述何者為非? 第一槽稱為浸泡槽 第二槽稱為沖洗槽 第三槽為消毒槽 清潔劑應添加於第一槽。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / 三槽式餐具洗滌殺菌設備 / 三槽式餐具洗滌殺菌設備。全華單元無法承接,因為題目涉及具體的操作流程和設備名稱。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】三槽式餐具洗滌殺菌設備 【詳細解析】本題考核的是三槽式餐具洗滌殺菌设备的正确操作步骤。根据题目描述,第一槽应为浸泡槽、第二槽为冲洗槽、第三槽为消毒槽。因此选项A“第一槽称作浸泡槽”是错误的,因为正确的说法应该是第一槽为浸泡槽,而选项B、C和D均符合标准的操作流程。 【錯誤選項錯在哪】A:此選項錯在第一槽應該是浸泡槽而非稱作浸泡槽。正確的說法應為:第一槽為浸泡槽,第二槽為沖洗槽,第三槽為消毒槽。 修正說法:第一槽為浸泡槽 B:此選項正確。第二槽確實稱作沖洗槽。 修正說法:無需修正 C:此選項正確。第三槽確實為消毒槽。 修正說法:無需修正 D:此選項正確。清潔劑應添加於第一槽,以進行浸泡和溶解污垢。 修正說法:無需修正 【叮嚀】提醒考生注意三槽式餐具洗滌杀菌设备的操作步骤及各槽的功能区分。 【選項判斷】A:此選項錯在第一槽應該是浸泡槽而非稱作浸泡槽。正確的說法應為:第一槽為浸泡槽,第二槽為沖洗槽,第三槽為消毒槽。 B:此選項正確。第二槽確實稱作沖洗槽。 C:此選項正確。第三槽確實為消毒槽。 D:此選項正確。清潔劑應添加於第一槽,以進行浸泡和溶解污垢。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項錯在第一槽應該是浸泡槽而非稱作浸泡槽。正確的說法應為:第一槽為浸泡槽,第二槽為沖洗槽,第三槽為消毒槽。 此選項正確。第二槽確實稱作沖洗槽。 此選項正確。第三槽確實為消毒槽。 此選項正確。清潔劑應添加於第一槽,以進行浸泡和溶解污垢。",
+      "sequence": 11,
+      "aiClassificationUnit": {
+        "sourceType": "ai-unit-generated",
+        "nonChwa": true,
+        "label": "AI 分類單元，非全華版本"
+      }
+    },
+    {
+      "id": "teacher-exam-100-01-q008-507a036ccf",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 8 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-4227",
+      "paperTitle": "未標示試卷",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 8,
+      "questionType": "essay",
+      "prompt": "請將下列英文翻譯成適當的中文 （6 分） We will be landing shortly, so please raise your tray tables and put your seats on upright position. Thank you.",
+      "options": [],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "ai-generated-unit",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。本題為英文翻譯，全華教材中未直接對應到具體的主題或概念，故歸類為 AI 建立單元。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / 將下列英文翻譯成適當的中文 (6 分) We will be l / 將下列英文翻譯成適當的中文 (6 分) We will be l。本題為英文翻譯,全華教材中未直接對應到具體的主題或概念,故歸類為 AI 建立單元。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】將下列英文翻譯成適當的中文 (6 分) We will be l 【詳細解析】這句英語是機場登機口常見的安全提示。翻譯成中文應保持原意,確保乘客理解並遵守安全規定。正確的翻譯如下: 我們將即將降落,请您抬起托盤架并将座位調整至直立位置。谢谢。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】注意服務用語和操作流程的精確性,確保乘客安全。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "ai-classification-unit"
+      ],
+      "searchText": "請將下列英文翻譯成適當的中文 (6 分) We will be landing shortly, so please raise your tray tables and put your seats on upright position. Thank you. 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / 將下列英文翻譯成適當的中文 (6 分) We will be l / 將下列英文翻譯成適當的中文 (6 分) We will be l。本題為英文翻譯,全華教材中未直接對應到具體的主題或概念,故歸類為 AI 建立單元。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】將下列英文翻譯成適當的中文 (6 分) We will be l 【詳細解析】這句英語是機場登機口常見的安全提示。翻譯成中文應保持原意,確保乘客理解並遵守安全規定。正確的翻譯如下: 我們將即將降落,请您抬起托盤架并将座位調整至直立位置。谢谢。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】注意服務用語和操作流程的精確性,確保乘客安全。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 25,
+      "aiClassificationUnit": {
+        "sourceType": "ai-unit-generated",
+        "nonChwa": true,
+        "label": "AI 分類單元，非全華版本"
+      }
+    },
+    {
+      "id": "teacher-exam-100-01-q001-4516435b86",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 1 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-4436",
+      "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 1,
+      "questionType": "single-choice",
+      "prompt": "關於傳統餐廳組織編制的職稱中，以其職務高低，由高到低排列？甲、Commis de Range 乙、Commis de Suite 丙、Chef de Rang 丁、Maitre d'hotel de Carre",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲乙丙丁"
+        },
+        {
+          "id": "B",
+          "text": "丙甲乙丁"
+        },
+        {
+          "id": "C",
+          "text": "丁甲丙乙"
+        },
+        {
+          "id": "D",
+          "text": "丁丙甲乙。"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：待人工審核。本題涉及觀光餐旅業導論中關於餐廳組織編制的職稱，屬於內場（Front of the House）的概念範疇。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項排列錯誤,未按照職務高低順序排列。 B：此選項排列錯誤,未按照職務高低順序排列。 C：此選項排列錯誤,未按照職務高低順序排列。 D：此選項正確地按照職務高低順序排列了各職稱。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項排列錯誤,未按照職務高低順序排列。",
+            "correctedStatement": "正確的排序應該是:丁(Maitre d'hotel de Carre)、丙(Chef de Rang)、甲(Commis de Suite)、乙(Commis de Range)"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項排列錯誤,未按照職務高低順序排列。",
+            "correctedStatement": "正確的排序應該是:丁(Maitre d'hotel de Carre)、丙(Chef de Rang)、甲(Commis de Suite)、乙(Commis de Range)"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項排列錯誤,未按照職務高低順序排列。",
+            "correctedStatement": "正確的排序應該是:丁(Maitre d'hotel de Carre)、丙(Chef de Rang)、甲(Commis de Suite)、乙(Commis de Range)"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項正確地按照職務高低順序排列了各職稱。",
+            "correctedStatement": "無需修正。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "關於傳統餐廳組織編制的職稱中,以其職務高低,由高到低排列?甲、Commis de Range 乙、Commis de Suite 丙、Chef de Rang 丁、Maitre d'hotel de Carre 甲乙丙丁 丙甲乙丁 丁甲丙乙 丁丙甲乙。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項排列錯誤,未按照職務高低順序排列。 B:此選項排列錯誤,未按照職務高低順序排列。 C:此選項排列錯誤,未按照職務高低順序排列。 D:此選項正確地按照職務高低順序排列了各職稱。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項排列錯誤,未按照職務高低順序排列。 此選項排列錯誤,未按照職務高低順序排列。 此選項排列錯誤,未按照職務高低順序排列。 此選項正確地按照職務高低順序排列了各職稱。",
+      "sequence": 26
+    },
+    {
+      "id": "teacher-exam-100-01-q014-a64e90f826",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 14 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5714",
+      "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 14,
+      "questionType": "single-choice",
+      "prompt": "顧客點用牛排時，指定烹調「八分熟」的專業術語為何？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medium Rare"
+        },
+        {
+          "id": "B",
+          "text": "Medium Rare"
+        },
+        {
+          "id": "C",
+          "text": "Medium Well"
+        },
+        {
+          "id": "D",
+          "text": "Well Done。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：待人工審核。本題涉及肉類熟度的專業術語，屬於餐飲服務技術單元下的核心概念。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項為 'Medium Rare',表示中微熟,而非八分熟。 B：此選項為 'Medium Rare',表示中微熟,而非八分熟。 C：此選項符合題幹所問的正確答案「C」。 D：此選項為 'Well Done',表示全熟,而非八分熟。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項為 'Medium Rare',表示中微熟,而非八分熟。",
+            "correctedStatement": "正確的術語應該是 'Medium Well'。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項為 'Medium Rare',表示中微熟,而非八分熟。",
+            "correctedStatement": "正確的術語應該是 'Medium Well'。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項為 'Well Done',表示全熟,而非八分熟。",
+            "correctedStatement": "正確的術語應該是 'Medium Well'。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "顧客點用牛排時,指定烹調「八分熟」的專業術語為何? Medium Rare Medium Rare Medium Well Well Done。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項為 'Medium Rare',表示中微熟,而非八分熟。 B:此選項為 'Medium Rare',表示中微熟,而非八分熟。 C:此選項符合題幹所問的正確答案「C」。 D:此選項為 'Well Done',表示全熟,而非八分熟。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項為 'Medium Rare',表示中微熟,而非八分熟。 此選項為 'Medium Rare',表示中微熟,而非八分熟。 此選項符合題幹所問的正確答案「C」。 此選項為 'Well Done',表示全熟,而非八分熟。",
+      "sequence": 39
+    },
+    {
+      "id": "teacher-exam-100-01-q007-17fb77fd9e",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 7 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-12801",
+      "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 7,
+      "questionType": "single-choice",
+      "prompt": "下列何者不是白蘭地常見的品牌？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hennessy"
+        },
+        {
+          "id": "B",
+          "text": "Martell"
+        },
+        {
+          "id": "C",
+          "text": "Chivas Regal"
+        },
+        {
+          "id": "D",
+          "text": "Remy Martin。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：待人工審核。本題考核白蘭地品牌知識，與餐飲服務技術中的餐具使用相關，尤其是玻璃類杯器皿的背景知识。但主要概念应为白兰地品牌而非餐桌垫。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：Hennessy 是一個知名的白蘭地品牌。 B：Martell 也是著名的白蘭地品牌之一。 C：Chivas Regal 是威士忌品牌,不是白蘭地品牌。 D：Remy Martin 也是知名的白蘭地品牌。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "Hennessy 是一個知名的白蘭地品牌。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "Martell 也是著名的白蘭地品牌之一。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "Chivas Regal 是威士忌品牌,不是白蘭地品牌。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "Remy Martin 也是知名的白蘭地品牌。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列何者不是白蘭地常見的品牌? Hennessy Martell Chivas Regal Remy Martin。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:Hennessy 是一個知名的白蘭地品牌。 B:Martell 也是著名的白蘭地品牌之一。 C:Chivas Regal 是威士忌品牌,不是白蘭地品牌。 D:Remy Martin 也是知名的白蘭地品牌。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Hennessy 是一個知名的白蘭地品牌。 Martell 也是著名的白蘭地品牌之一。 Chivas Regal 是威士忌品牌,不是白蘭地品牌。 Remy Martin 也是知名的白蘭地品牌。",
+      "sequence": 104
+    },
+    {
+      "id": "teacher-exam-100-01-q013-f669d450ae",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 13 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-13368",
+      "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 13,
+      "questionType": "single-choice",
+      "prompt": "下列有關餐廳中餐具及杯皿的敘述，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "All Purpose Glass 只可用來同時服務紅白酒，不可當成水杯使用"
+        },
+        {
+          "id": "B",
+          "text": "服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉"
+        },
+        {
+          "id": "C",
+          "text": "圓筒形平底水杯稱為 Goblet"
+        },
+        {
+          "id": "D",
+          "text": "Champagne Saucer 常用來疊香檳塔，適用於一般酒會與慶功宴。"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "ai-generated-unit",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。本題涉及餐飲服務技術中關於餐具及杯皿的知識，與全華版教材中的「(二)常見有腳杯类(Goblet) 杯子」單元相關。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / 餐飲服務技術中關於餐具及杯皿的知識 / 餐飲服務技術中關於餐具及杯皿的知識。本題涉及餐飲服務技術中關於餐具及杯皿的知識,與全華版教材中的「(二)常見有腳杯类(Goblet) 杯子」單元相關。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】餐飲服務技術中關於餐具及杯皿的知識 【詳細解析】本題考核的是對餐飲服務中常用餐具及杯皿的識別能力。正確答案為 D,Champagne Saucer 常用來疊香檳塔,適用於一般酒會與慶功宴。A 选项错误在于 All Purpose Glass 可以用于多种场合,并非只能服务红白酒;B 选项错误在于服务 Bouillabaisse 所需的餐具并非牛排刀及牛排叉;C 选项错误在于圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 【錯誤選項錯在哪】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 修正說法:All Purpose Glass 适用于多种饮品,包括但不限于红白葡萄酒。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 修正說法:服务 Bouillabaisse 所需的餐具包括汤匙、叉子以及勺子。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 修正說法:圆筒形平底水杯应被称为 Tumbler。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 修正說法:此选项正确。 【叮嚀】提醒考生注意餐具及杯皿的名称和用途,避免混淆。\n\n【選項判斷】A：All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B：服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C：圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D：Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。",
+            "correctedStatement": "All Purpose Glass 适用于多种饮品,包括但不限于红白葡萄酒。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。",
+            "correctedStatement": "服务 Bouillabaisse 所需的餐具包括汤匙、叉子以及勺子。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "圆筒形平底水杯应称为 Tumbler 而不是 Goblet。",
+            "correctedStatement": "圆筒形平底水杯应被称为 Tumbler。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。",
+            "correctedStatement": "此选项正确。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "ai-classification-unit"
+      ],
+      "searchText": "下列有關餐廳中餐具及杯皿的敘述,何者正確? All Purpose Glass 只可用來同時服務紅白酒,不可當成水杯使用 服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉 圓筒形平底水杯稱為 Goblet Champagne Saucer 常用來疊香檳塔,適用於一般酒會與慶功宴。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / 餐飲服務技術中關於餐具及杯皿的知識 / 餐飲服務技術中關於餐具及杯皿的知識。本題涉及餐飲服務技術中關於餐具及杯皿的知識,與全華版教材中的「(二)常見有腳杯类(Goblet) 杯子」單元相關。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】餐飲服務技術中關於餐具及杯皿的知識 【詳細解析】本題考核的是對餐飲服務中常用餐具及杯皿的識別能力。正確答案為 D,Champagne Saucer 常用來疊香檳塔,適用於一般酒會與慶功宴。A 选项错误在于 All Purpose Glass 可以用于多种场合,并非只能服务红白酒;B 选项错误在于服务 Bouillabaisse 所需的餐具并非牛排刀及牛排叉;C 选项错误在于圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 【錯誤選項錯在哪】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 修正說法:All Purpose Glass 适用于多种饮品,包括但不限于红白葡萄酒。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 修正說法:服务 Bouillabaisse 所需的餐具包括汤匙、叉子以及勺子。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 修正說法:圆筒形平底水杯应被称为 Tumbler。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 修正說法:此选项正确。 【叮嚀】提醒考生注意餐具及杯皿的名称和用途,避免混淆。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。",
+      "sequence": 110,
+      "aiClassificationUnit": {
+        "sourceType": "ai-unit-generated",
+        "nonChwa": true,
+        "label": "AI 分類單元，非全華版本"
+      }
+    },
+    {
+      "id": "teacher-exam-100-01-q016-9f279048c2",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 16 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-13760",
+      "paperTitle": "一、選擇題：四選一每題 2 分共占 80%",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "西餐中上菜「同上同下」的服務原則是指：",
+      "options": [
+        {
+          "id": "A",
+          "text": "同時上的菜須同時收拾"
+        },
+        {
+          "id": "B",
+          "text": "有一位客人用完餐便立刻上前收拾"
+        },
+        {
+          "id": "C",
+          "text": "相同的菜餚才需要同時收拾"
+        },
+        {
+          "id": "D",
+          "text": "每位客人的主菜可以不必同時出菜。"
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。題目涉及西餐上菜原則，與「一致性或對比性」概念相關，該概念在全華教材中有詳細說明。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / CH05 菜單、飲料單與酒單 / 一致性或對比性:搭配菜餚中的主要原料,所選擇的葡萄酒,應能散發出相乘風味或相似的味道。。題目涉及西餐上菜原則,與「一致性或對比性」概念相關,該概念在全華教材中有詳細說明。 【分類來源】全華/人工分類單元 【核心觀念】西餐中上菜「同上同下」的服務原則是指 【詳細解析】「同上同下」的服務原則是指在同一時間點上的菜餚需要同時被送上桌並同時被收拾。這個原則確保了餐桌上的一致性和效率,避免了客人之間的等待和混亂。 【錯誤選項錯在哪】A:此選項正確地描述了「同上同下」服務原則的核心思想:同時上的菜須同時收拾。這確保了餐桌上的一致性和效率。 B:此選項描述了一位客人用完餐便立刻上前收拾,這不符合「同上同下」原則。該原則強調的是同一時間點上的菜餚同時被送上桌並同時被收拾。 C:此選項描述了相同的菜餚才需要同時收拾,這與「同上同下」原則不完全一致。該原則適用於所有同一時間點上的菜餚,而不僅限於相同菜餚。 D:此選項描述了每位客人的主菜可以不必同時出菜。這與「同上同下」原則相矛盾,該原則要求同一時間點上的菜餚需要同時被送上桌。 【叮嚀】注意題目中的關鍵詞「同上同下」,確保理解其核心意義:在同一時間點上的菜餚需同時被送上桌並同時被收拾。\n\n【選項判斷】A：此選項正確地描述了「同上同下」服務原則的核心思想:同時上的菜須同時收拾。這確保了餐桌上的一致性和效率。 B：此選項描述了一位客人用完餐便立刻上前收拾,這不符合「同上同下」原則。該原則強調的是同一時間點上的菜餚同時被送上桌並同時被收拾。 C：此選項描述了相同的菜餚才需要同時收拾,這與「同上同下」原則不完全一致。該原則適用於所有同一時間點上的菜餚,而不僅限於相同菜餚。 D：此選項描述了每位客人的主菜可以不必同時出菜。這與「同上同下」原則相矛盾,該原則要求同一時間點上的菜餚需要同時被送上桌。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項正確地描述了「同上同下」服務原則的核心思想:同時上的菜須同時收拾。這確保了餐桌上的一致性和效率。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項描述了一位客人用完餐便立刻上前收拾,這不符合「同上同下」原則。該原則強調的是同一時間點上的菜餚同時被送上桌並同時被收拾。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項描述了相同的菜餚才需要同時收拾,這與「同上同下」原則不完全一致。該原則適用於所有同一時間點上的菜餚,而不僅限於相同菜餚。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項描述了每位客人的主菜可以不必同時出菜。這與「同上同下」原則相矛盾,該原則要求同一時間點上的菜餚需要同時被送上桌。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "西餐中上菜「同上同下」的服務原則是指: 同時上的菜須同時收拾 有一位客人用完餐便立刻上前收拾 相同的菜餚才需要同時收拾 每位客人的主菜可以不必同時出菜。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / CH05 菜單、飲料單與酒單 / 一致性或對比性:搭配菜餚中的主要原料,所選擇的葡萄酒,應能散發出相乘風味或相似的味道。。題目涉及西餐上菜原則,與「一致性或對比性」概念相關,該概念在全華教材中有詳細說明。 【分類來源】全華/人工分類單元 【核心觀念】西餐中上菜「同上同下」的服務原則是指 【詳細解析】「同上同下」的服務原則是指在同一時間點上的菜餚需要同時被送上桌並同時被收拾。這個原則確保了餐桌上的一致性和效率,避免了客人之間的等待和混亂。 【錯誤選項錯在哪】A:此選項正確地描述了「同上同下」服務原則的核心思想:同時上的菜須同時收拾。這確保了餐桌上的一致性和效率。 B:此選項描述了一位客人用完餐便立刻上前收拾,這不符合「同上同下」原則。該原則強調的是同一時間點上的菜餚同時被送上桌並同時被收拾。 C:此選項描述了相同的菜餚才需要同時收拾,這與「同上同下」原則不完全一致。該原則適用於所有同一時間點上的菜餚,而不僅限於相同菜餚。 D:此選項描述了每位客人的主菜可以不必同時出菜。這與「同上同下」原則相矛盾,該原則要求同一時間點上的菜餚需要同時被送上桌。 【叮嚀】注意題目中的關鍵詞「同上同下」,確保理解其核心意義:在同一時間點上的菜餚需同時被送上桌並同時被收拾。 【選項判斷】A:此選項正確地描述了「同上同下」服務原則的核心思想:同時上的菜須同時收拾。這確保了餐桌上的一致性和效率。 B:此選項描述了一位客人用完餐便立刻上前收拾,這不符合「同上同下」原則。該原則強調的是同一時間點上的菜餚同時被送上桌並同時被收拾。 C:此選項描述了相同的菜餚才需要同時收拾,這與「同上同下」原則不完全一致。該原則適用於所有同一時間點上的菜餚,而不僅限於相同菜餚。 D:此選項描述了每位客人的主菜可以不必同時出菜。這與「同上同下」原則相矛盾,該原則要求同一時間點上的菜餚需要同時被送上桌。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項正確地描述了「同上同下」服務原則的核心思想:同時上的菜須同時收拾。這確保了餐桌上的一致性和效率。 此選項描述了一位客人用完餐便立刻上前收拾,這不符合「同上同下」原則。該原則強調的是同一時間點上的菜餚同時被送上桌並同時被收拾。 此選項描述了相同的菜餚才需要同時收拾,這與「同上同下」原則不完全一致。該原則適用於所有同一時間點上的菜餚,而不僅限於相同菜餚。 此選項描述了每位客人的主菜可以不必同時出菜。這與「同上同下」原則相矛盾,該原則要求同一時間點上的菜餚需要同時被送上桌。",
+      "sequence": 113
+    },
+    {
+      "id": "teacher-exam-100-01-q018-acefa9de01",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 18 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-14049",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 18,
+      "questionType": "single-choice",
+      "prompt": "下述西餐傳統菜單（classic menu），請依上菜順序排列 甲、Hors D'oeuvre Froid；乙、Rôti；丙、Potage；丁、Poisson；戊、Entremets；己、Sorbets；庚、Entree Chaude",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲→丙→庚→丁→己→乙→戊"
+        },
+        {
+          "id": "B",
+          "text": "甲→丙→己→丁→乙→戊→庚"
+        },
+        {
+          "id": "C",
+          "text": "甲→丙→丁→庚→己→乙→戊"
+        },
+        {
+          "id": "D",
+          "text": "甲→乙→丙→丁→戊→己→庚。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。題目涉及西餐傳統菜單的上菜順序，與全華版教材《餐飲服務技術》中提到的菜單結構相關。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / CH05 菜單、飲料單與酒單 / (10)冷爐烤菜(Rôti Froid)。題目涉及西餐傳統菜單的上菜順序,與全華版教材《餐飲服務技術》中提到的菜單結構相關。 【分類來源】全華/人工分類單元 【核心觀念】西餐傳統菜單(classic menu)的上菜順序 【詳細解析】本題考核的是西餐傳統菜單的正確上菜順序。根據教材《餐飲服務技術》中的描述,西餐菜單通常按照以下順序排列:開胃菜(Hors D'oeuvre)、湯品(Potage)、魚類(Poisson)、主菜(Entree Chaude)、甜點(Entremets)和冷爐烤菜(Rôti Froid)。因此,正確的上菜順序為甲→丙→丁→庚→己→乙→戊。 【錯誤選項錯在哪】A:此選項將冷爐烤菜(Rôti Froid)排在了開胃菜之後,違反了西餐傳統的上菜順序。 修正說法:正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。 B:此選項將冷爐烤菜(Rôti Froid)排在了魚類之後,違反了西餐傳統的上菜順序。 修正說法:正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。 C:此選項符合西餐傳統菜單的正確上菜順序。 修正說法:此選項正確地排列了各道菜的上菜順序。 D:此選項將冷爐烤菜(Rôti Froid)排在了主菜之後,違反了西餐傳統的上菜順序。 修正說法:正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。 【叮嚀】提醒考生注意西餐菜單的標準上菜順序,避免混淆或記憶錯誤。\n\n【選項判斷】A：此選項將冷爐烤菜(Rôti Froid)排在了開胃菜之後,違反了西餐傳統的上菜順序。 B：此選項將冷爐烤菜(Rôti Froid)排在了魚類之後,違反了西餐傳統的上菜順序。 C：此選項符合西餐傳統菜單的正確上菜順序。 D：此選項將冷爐烤菜(Rôti Froid)排在了主菜之後,違反了西餐傳統的上菜順序。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項將冷爐烤菜(Rôti Froid)排在了開胃菜之後,違反了西餐傳統的上菜順序。",
+            "correctedStatement": "正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項將冷爐烤菜(Rôti Froid)排在了魚類之後,違反了西餐傳統的上菜順序。",
+            "correctedStatement": "正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合西餐傳統菜單的正確上菜順序。",
+            "correctedStatement": "此選項正確地排列了各道菜的上菜順序。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項將冷爐烤菜(Rôti Froid)排在了主菜之後,違反了西餐傳統的上菜順序。",
+            "correctedStatement": "正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下述西餐傳統菜單(classic menu),請依上菜順序排列 甲、Hors D'oeuvre Froid;乙、Rôti;丙、Potage;丁、Poisson;戊、Entremets;己、Sorbets;庚、Entree Chaude 甲→丙→庚→丁→己→乙→戊 甲→丙→己→丁→乙→戊→庚 甲→丙→丁→庚→己→乙→戊 甲→乙→丙→丁→戊→己→庚。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / CH05 菜單、飲料單與酒單 / (10)冷爐烤菜(Rôti Froid)。題目涉及西餐傳統菜單的上菜順序,與全華版教材《餐飲服務技術》中提到的菜單結構相關。 【分類來源】全華/人工分類單元 【核心觀念】西餐傳統菜單(classic menu)的上菜順序 【詳細解析】本題考核的是西餐傳統菜單的正確上菜順序。根據教材《餐飲服務技術》中的描述,西餐菜單通常按照以下順序排列:開胃菜(Hors D'oeuvre)、湯品(Potage)、魚類(Poisson)、主菜(Entree Chaude)、甜點(Entremets)和冷爐烤菜(Rôti Froid)。因此,正確的上菜順序為甲→丙→丁→庚→己→乙→戊。 【錯誤選項錯在哪】A:此選項將冷爐烤菜(Rôti Froid)排在了開胃菜之後,違反了西餐傳統的上菜順序。 修正說法:正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。 B:此選項將冷爐烤菜(Rôti Froid)排在了魚類之後,違反了西餐傳統的上菜順序。 修正說法:正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。 C:此選項符合西餐傳統菜單的正確上菜順序。 修正說法:此選項正確地排列了各道菜的上菜順序。 D:此選項將冷爐烤菜(Rôti Froid)排在了主菜之後,違反了西餐傳統的上菜順序。 修正說法:正確的上菜順序應該是甲→丙→丁→庚→己→乙→戊。 【叮嚀】提醒考生注意西餐菜單的標準上菜順序,避免混淆或記憶錯誤。 【選項判斷】A:此選項將冷爐烤菜(Rôti Froid)排在了開胃菜之後,違反了西餐傳統的上菜順序。 B:此選項將冷爐烤菜(Rôti Froid)排在了魚類之後,違反了西餐傳統的上菜順序。 C:此選項符合西餐傳統菜單的正確上菜順序。 D:此選項將冷爐烤菜(Rôti Froid)排在了主菜之後,違反了西餐傳統的上菜順序。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項將冷爐烤菜(Rôti Froid)排在了開胃菜之後,違反了西餐傳統的上菜順序。 此選項將冷爐烤菜(Rôti Froid)排在了魚類之後,違反了西餐傳統的上菜順序。 此選項符合西餐傳統菜單的正確上菜順序。 此選項將冷爐烤菜(Rôti Froid)排在了主菜之後,違反了西餐傳統的上菜順序。",
+      "sequence": 115
+    },
+    {
+      "id": "teacher-exam-100-01-q021-31f8b1c97c",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 21 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-14713",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 21,
+      "questionType": "single-choice",
+      "prompt": "中餐筵席席開一圓桌，當「無主賓，主人成對」時，男主人應坐於那一個席位？",
+      "options": [
+        {
+          "id": "A",
+          "text": "A 席"
+        },
+        {
+          "id": "B",
+          "text": "B 席"
+        },
+        {
+          "id": "C",
+          "text": "H 席"
+        },
+        {
+          "id": "D",
+          "text": "G 席。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。本題涉及中餐筵席的座次安排原則，屬於餐飲服務技術中的核心概念。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / CH07 飲料服務與酒水服務 / 主賓成對,男女主人對坐於長桌兩端。本題涉及中餐筵席的座次安排原則,屬於餐飲服務技術中的核心概念。 【分類來源】全華/人工分類單元 【核心觀念】中餐筵席的座次安排原則 【詳細解析】根據題目描述「無主賓,主人成對」的情況下,男主人應坐於H席。在中餐筵席中,當男女主人成對而坐時,通常遵循尊右原則,即男主人背門而坐,女主人面門而坐。因此,在一圓桌的場合,男主人會坐在離門口較遠的位置,也就是H席。 【錯誤選項錯在哪】A:A席不符合尊右原則和中餐座次安排規則。 修正說法:無 B:B席不符合尊右原則和中餐座次安排規則。 修正說法:無 C:H席符合尊右原則,男主人背門而坐。 修正說法:無 D:G席不符合尊右原則和中餐座次安排規則。 修正說法:無 【叮嚀】注意尊右原則在不同場景下的應用,特別是在圓桌場合的座次安排。\n\n【選項判斷】A：A席不符合尊右原則和中餐座次安排規則。 B：B席不符合尊右原則和中餐座次安排規則。 C：H席符合尊右原則,男主人背門而坐。 D：G席不符合尊右原則和中餐座次安排規則。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "A席不符合尊右原則和中餐座次安排規則。",
+            "correctedStatement": "無"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "B席不符合尊右原則和中餐座次安排規則。",
+            "correctedStatement": "無"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "H席符合尊右原則,男主人背門而坐。",
+            "correctedStatement": "無"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "G席不符合尊右原則和中餐座次安排規則。",
+            "correctedStatement": "無"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "中餐筵席席開一圓桌,當「無主賓,主人成對」時,男主人應坐於那一個席位? A 席 B 席 H 席 G 席。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / CH07 飲料服務與酒水服務 / 主賓成對,男女主人對坐於長桌兩端。本題涉及中餐筵席的座次安排原則,屬於餐飲服務技術中的核心概念。 【分類來源】全華/人工分類單元 【核心觀念】中餐筵席的座次安排原則 【詳細解析】根據題目描述「無主賓,主人成對」的情況下,男主人應坐於H席。在中餐筵席中,當男女主人成對而坐時,通常遵循尊右原則,即男主人背門而坐,女主人面門而坐。因此,在一圓桌的場合,男主人會坐在離門口較遠的位置,也就是H席。 【錯誤選項錯在哪】A:A席不符合尊右原則和中餐座次安排規則。 修正說法:無 B:B席不符合尊右原則和中餐座次安排規則。 修正說法:無 C:H席符合尊右原則,男主人背門而坐。 修正說法:無 D:G席不符合尊右原則和中餐座次安排規則。 修正說法:無 【叮嚀】注意尊右原則在不同場景下的應用,特別是在圓桌場合的座次安排。 【選項判斷】A:A席不符合尊右原則和中餐座次安排規則。 B:B席不符合尊右原則和中餐座次安排規則。 C:H席符合尊右原則,男主人背門而坐。 D:G席不符合尊右原則和中餐座次安排規則。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 A席不符合尊右原則和中餐座次安排規則。 B席不符合尊右原則和中餐座次安排規則。 H席符合尊右原則,男主人背門而坐。 G席不符合尊右原則和中餐座次安排規則。",
+      "sequence": 118
+    },
+    {
+      "id": "teacher-exam-100-01-q037-4f1c516490",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 37 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-16644",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 37,
+      "questionType": "single-choice",
+      "prompt": "有關葡萄酒最合宜的品嚐溫度，下列何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "陳年紅酒約在 10℃～12℃ 之間"
+        },
+        {
+          "id": "B",
+          "text": "白酒約在 15℃～18℃ 之間"
+        },
+        {
+          "id": "C",
+          "text": "香檳酒在 10℃～12℃ 之間"
+        },
+        {
+          "id": "D",
+          "text": "玫瑰紅酒約在 10℃～12℃ 之間。"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。本題涉及葡萄酒的品嚐溫度，與全華教材中的「葡萄酒開瓶」單元內容相關，但無法直接對應到特定全華單元。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / CH09 餐飲安全、危機處理與急救 / 葡萄酒開瓶。本題涉及葡萄酒的品嚐溫度,與全華教材中的「葡萄酒開瓶」單元內容相關,但無法直接對應到特定全華單元。 【分類來源】全華/人工分類單元 【核心觀念】葡萄酒最合宜的品嚐溫度 【詳細解析】根據餐飲服務技術的常識和實務操作,陳年紅酒的最佳品嚐溫度約在12°C~16°C之間,而白葡萄酒則約在8°C~14°C之間。香檳酒的理想品嚐溫度為7°C~9°C。玫瑰紅酒(桃紅酒)的最合宜品嚐溫度與白葡萄酒相近,在8°C~12°C之間。因此,選項D「玫瑰紅酒約在 10°C~12°C 之間」是正確答案。 【錯誤選項錯在哪】A:陳年紅酒的最佳品嚐溫度應為12°C~16°C,而非10°C~12°C。此選項錯誤。 修正說法:陳年紅酒的理想品嚐溫度約在12°C~16°C之間。 B:白葡萄酒的最佳品嚐溫度應為8°C~14°C,而非15°C~18°C。此選項錯誤。 修正說法:白葡萄酒的理想品嚐溫度約在8°C~14°C之間。 C:香檳酒的最佳品嚐溫度應為7°C~9°C,而非10°C~12°C。此選項錯誤。 修正說法:香檳酒的理想品嚐溫度約在7°C~9°C之間。 D:玫瑰紅酒(桃紅酒)的最佳品嚐溫度為8°C~12°C,選項中的範圍10°C~12°C是正確的。 修正說法:無需修正。 【叮嚀】注意不同類型葡萄酒的最佳品嚐溫度差異,避免混淆。\n\n【選項判斷】A：陳年紅酒的最佳品嚐溫度應為12°C~16°C,而非10°C~12°C。此選項錯誤。 B：白葡萄酒的最佳品嚐溫度應為8°C~14°C,而非15°C~18°C。此選項錯誤。 C：香檳酒的最佳品嚐溫度應為7°C~9°C,而非10°C~12°C。此選項錯誤。 D：玫瑰紅酒(桃紅酒)的最佳品嚐溫度為8°C~12°C,選項中的範圍10°C~12°C是正確的。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "陳年紅酒的最佳品嚐溫度應為12°C~16°C,而非10°C~12°C。此選項錯誤。",
+            "correctedStatement": "陳年紅酒的理想品嚐溫度約在12°C~16°C之間。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "白葡萄酒的最佳品嚐溫度應為8°C~14°C,而非15°C~18°C。此選項錯誤。",
+            "correctedStatement": "白葡萄酒的理想品嚐溫度約在8°C~14°C之間。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "香檳酒的最佳品嚐溫度應為7°C~9°C,而非10°C~12°C。此選項錯誤。",
+            "correctedStatement": "香檳酒的理想品嚐溫度約在7°C~9°C之間。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "玫瑰紅酒(桃紅酒)的最佳品嚐溫度為8°C~12°C,選項中的範圍10°C~12°C是正確的。",
+            "correctedStatement": "無需修正。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "有關葡萄酒最合宜的品嚐溫度,下列何者正確? 陳年紅酒約在 10°C~12°C 之間 白酒約在 15°C~18°C 之間 香檳酒在 10°C~12°C 之間 玫瑰紅酒約在 10°C~12°C 之間。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / CH09 餐飲安全、危機處理與急救 / 葡萄酒開瓶。本題涉及葡萄酒的品嚐溫度,與全華教材中的「葡萄酒開瓶」單元內容相關,但無法直接對應到特定全華單元。 【分類來源】全華/人工分類單元 【核心觀念】葡萄酒最合宜的品嚐溫度 【詳細解析】根據餐飲服務技術的常識和實務操作,陳年紅酒的最佳品嚐溫度約在12°C~16°C之間,而白葡萄酒則約在8°C~14°C之間。香檳酒的理想品嚐溫度為7°C~9°C。玫瑰紅酒(桃紅酒)的最合宜品嚐溫度與白葡萄酒相近,在8°C~12°C之間。因此,選項D「玫瑰紅酒約在 10°C~12°C 之間」是正確答案。 【錯誤選項錯在哪】A:陳年紅酒的最佳品嚐溫度應為12°C~16°C,而非10°C~12°C。此選項錯誤。 修正說法:陳年紅酒的理想品嚐溫度約在12°C~16°C之間。 B:白葡萄酒的最佳品嚐溫度應為8°C~14°C,而非15°C~18°C。此選項錯誤。 修正說法:白葡萄酒的理想品嚐溫度約在8°C~14°C之間。 C:香檳酒的最佳品嚐溫度應為7°C~9°C,而非10°C~12°C。此選項錯誤。 修正說法:香檳酒的理想品嚐溫度約在7°C~9°C之間。 D:玫瑰紅酒(桃紅酒)的最佳品嚐溫度為8°C~12°C,選項中的範圍10°C~12°C是正確的。 修正說法:無需修正。 【叮嚀】注意不同類型葡萄酒的最佳品嚐溫度差異,避免混淆。 【選項判斷】A:陳年紅酒的最佳品嚐溫度應為12°C~16°C,而非10°C~12°C。此選項錯誤。 B:白葡萄酒的最佳品嚐溫度應為8°C~14°C,而非15°C~18°C。此選項錯誤。 C:香檳酒的最佳品嚐溫度應為7°C~9°C,而非10°C~12°C。此選項錯誤。 D:玫瑰紅酒(桃紅酒)的最佳品嚐溫度為8°C~12°C,選項中的範圍10°C~12°C是正確的。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 陳年紅酒的最佳品嚐溫度應為12°C~16°C,而非10°C~12°C。此選項錯誤。 白葡萄酒的最佳品嚐溫度應為8°C~14°C,而非15°C~18°C。此選項錯誤。 香檳酒的最佳品嚐溫度應為7°C~9°C,而非10°C~12°C。此選項錯誤。 玫瑰紅酒(桃紅酒)的最佳品嚐溫度為8°C~12°C,選項中的範圍10°C~12°C是正確的。",
+      "sequence": 134
+    },
+    {
+      "id": "teacher-exam-100-01-q005-242c412cad",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 5 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-17178",
+      "paperTitle": "二、解釋名詞：每題 2 分共占 10%",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 5,
+      "questionType": "essay",
+      "prompt": "Static Menu",
+      "options": [],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "ai-generated-unit",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。全華單元無法承接，需進一步確認是否為靜態菜單的具體內容或定義。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / 菜單、飲料單與酒單 / 菜單、飲料單與酒單。全華單元無法承接,需進一步確認是否為靜態菜單的具體內容或定義。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】Static Menu(靜態菜單) 【詳細解析】靜態菜單是指在一段時間內不變動的菜單。通常,這些菜單會列明特定的食物和飲料項目,並且不會隨市場需求或季節變化而調整。靜態菜單適用於那些希望保持一致餐點選擇的餐廳或咖啡廳,例如高級餐廳、酒店等。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】注意區分靜態菜單與動態菜單的概念,避免混淆。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "ai-classification-unit"
+      ],
+      "searchText": "Static Menu 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / 菜單、飲料單與酒單 / 菜單、飲料單與酒單。全華單元無法承接,需進一步確認是否為靜態菜單的具體內容或定義。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】Static Menu(靜態菜單) 【詳細解析】靜態菜單是指在一段時間內不變動的菜單。通常,這些菜單會列明特定的食物和飲料項目,並且不會隨市場需求或季節變化而調整。靜態菜單適用於那些希望保持一致餐點選擇的餐廳或咖啡廳,例如高級餐廳、酒店等。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】注意區分靜態菜單與動態菜單的概念,避免混淆。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 139,
+      "aiClassificationUnit": {
+        "sourceType": "ai-unit-generated",
+        "nonChwa": true,
+        "label": "AI 分類單元，非全華版本"
+      }
+    },
+    {
+      "id": "teacher-exam-100-01-q015-13213eea81",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 15 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-19205",
+      "paperTitle": "一、選擇題（1 題 1 分，共 20 分）",
+      "schoolName": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+      "questionNumber": 15,
+      "questionType": "single-choice",
+      "prompt": "何謂「Lazy Susan」？",
+      "options": [
+        {
+          "id": "A",
+          "text": "餐具櫃"
+        },
+        {
+          "id": "B",
+          "text": "托盤"
+        },
+        {
+          "id": "C",
+          "text": "轉檯"
+        },
+        {
+          "id": "D",
+          "text": "手推車。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。「Lazy Susan」在題目中被翻譯為「轉檯」，且該概念在全華教材中有詳細介紹。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / 全華單元 / 轉檯套 (Lazy Susan)。「Lazy Susan」在題目中被翻譯為「轉檯」,且該概念在全華教材中有詳細介紹。 【分類來源】全華/人工分類單元 【核心觀念】Lazy Susan 【詳細解析】「Lazy Susan」是指一種可以旋轉的木質或塑膠托盤,通常安裝在餐桌上,方便服務員旋轉托盤以取用不同位置的食物。因此,正確答案是 C. 轉檯。 【錯誤選項錯在哪】A:餐具櫃是指存放餐具的櫃子,與「Lazy Susan」無關。 修正說法:餐具櫃是用來存儲餐具和器皿的地方。 B:托盤是一種用于放置餐點的器具,但不是可以旋轉的,與「Lazy Susan」無關。 修正說法:托盤是用來放置食物和餐具的平底盤。 C:转檯(Lazy Susan)是一种可以旋转的木制或塑料托盘,通常安装在餐桌上,方便服务员旋转托盘以取用不同位置的食物。 修正說法:无 D:手推車(Handcart)是用于搬运餐椅的工具,与「Lazy Susan」无关。 修正說法:手推车是用来搬运餐椅的手动车辆。 【叮嚀】無\n\n【選項判斷】A：餐具櫃是指存放餐具的櫃子,與「Lazy Susan」無關。 B：托盤是一種用于放置餐點的器具,但不是可以旋轉的,與「Lazy Susan」無關。 C：转檯(Lazy Susan)是一种可以旋转的木制或塑料托盘,通常安装在餐桌上,方便服务员旋转托盘以取用不同位置的食物。 D：手推車(Handcart)是用于搬运餐椅的工具,与「Lazy Susan」无关。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "餐具櫃是指存放餐具的櫃子,與「Lazy Susan」無關。",
+            "correctedStatement": "餐具櫃是用來存儲餐具和器皿的地方。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "托盤是一種用于放置餐點的器具,但不是可以旋轉的,與「Lazy Susan」無關。",
+            "correctedStatement": "托盤是用來放置食物和餐具的平底盤。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "转檯(Lazy Susan)是一种可以旋转的木制或塑料托盘,通常安装在餐桌上,方便服务员旋转托盘以取用不同位置的食物。",
+            "correctedStatement": "无"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "手推車(Handcart)是用于搬运餐椅的工具,与「Lazy Susan」无关。",
+            "correctedStatement": "手推车是用来搬运餐椅的手动车辆。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "何謂「Lazy Susan」? 餐具櫃 托盤 轉檯 手推車。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / 全華單元 / 轉檯套 (Lazy Susan)。「Lazy Susan」在題目中被翻譯為「轉檯」,且該概念在全華教材中有詳細介紹。 【分類來源】全華/人工分類單元 【核心觀念】Lazy Susan 【詳細解析】「Lazy Susan」是指一種可以旋轉的木質或塑膠托盤,通常安裝在餐桌上,方便服務員旋轉托盤以取用不同位置的食物。因此,正確答案是 C. 轉檯。 【錯誤選項錯在哪】A:餐具櫃是指存放餐具的櫃子,與「Lazy Susan」無關。 修正說法:餐具櫃是用來存儲餐具和器皿的地方。 B:托盤是一種用于放置餐點的器具,但不是可以旋轉的,與「Lazy Susan」無關。 修正說法:托盤是用來放置食物和餐具的平底盤。 C:转檯(Lazy Susan)是一种可以旋转的木制或塑料托盘,通常安装在餐桌上,方便服务员旋转托盘以取用不同位置的食物。 修正說法:无 D:手推車(Handcart)是用于搬运餐椅的工具,与「Lazy Susan」无关。 修正說法:手推车是用来搬运餐椅的手动车辆。 【叮嚀】無 【選項判斷】A:餐具櫃是指存放餐具的櫃子,與「Lazy Susan」無關。 B:托盤是一種用于放置餐點的器具,但不是可以旋轉的,與「Lazy Susan」無關。 C:转檯(Lazy Susan)是一种可以旋转的木制或塑料托盘,通常安装在餐桌上,方便服务员旋转托盘以取用不同位置的食物。 D:手推車(Handcart)是用于搬运餐椅的工具,与「Lazy Susan」无关。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 餐具櫃是指存放餐具的櫃子,與「Lazy Susan」無關。 托盤是一種用于放置餐點的器具,但不是可以旋轉的,與「Lazy Susan」無關。 转檯(Lazy Susan)是一种可以旋转的木制或塑料托盘,通常安装在餐桌上,方便服务员旋转托盘以取用不同位置的食物。 手推車(Handcart)是用于搬运餐椅的工具,与「Lazy Susan」无关。",
+      "sequence": 155
+    },
+    {
+      "id": "teacher-exam-101-02-q001-ac8e15191a",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 1 題",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-11435",
+      "paperTitle": "一、選擇題，共10題，每題2分，共20分",
+      "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+      "questionNumber": 1,
+      "questionType": "single-choice",
+      "prompt": "戚風蛋糕是用：",
+      "options": [
+        {
+          "id": "A",
+          "text": "高筋麵粉"
+        },
+        {
+          "id": "B",
+          "text": "中筋麵粉"
+        },
+        {
+          "id": "C",
+          "text": "低筋麵粉"
+        },
+        {
+          "id": "D",
+          "text": "米類 所製成。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。本題涉及蛋糕擺放方式，但更接近於座次圖的應用範疇，因此選擇餐飲服務技術下的座次圖概念。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / CH07 飲料服務與酒水服務 / 座次圖、桌次卡、座位卡與菜單卡。本題涉及蛋糕擺放方式,但更接近於座次圖的應用範疇,因此選擇餐飲服務技術下的座次圖概念。 【分類來源】全華/人工分類單元 【核心觀念】戚風蛋糕是用低筋麵粉所製成。 【詳細解析】本題考核的是烘焙材料的基本知識。戚風蛋糕是一種以蛋白打發為主的輕盈蛋糕,通常使用低筋麵粉來製備。低筋麵粉具有較低的面筋含量,適合於需要蓬鬆和柔軟口感的糕點製作。 【錯誤選項錯在哪】A:高筋麵粉通常用於製作面包等需要彈性和結實口感的食物,不適合製作戚風蛋糕。 修正說法:高筋麵粉適用於面包、披薩等烘焙品種。 B:中筋麵粉的面筋含量介於低筋和高筋之間,也不適合製作戚風蛋糕。 修正說法:中筋麵粉適用於一般糕點、餅乾等烘焙品種。 C:低筋麵粉具有較低的面筋含量,適合製作輕盈蓬鬆的蛋糕如戚風蛋糕。 修正說法:低筋麵粉適用於蛋糕、餅乾等需要柔軟口感的食物。 D:米類通常用於製作糕點如年糕、米菓等,不適合製作戚風蛋糕。 修正說法:米類適用於米菓、年糕等以米為主要原料的烘焙品種。 【叮嚀】無\n\n【選項判斷】A：高筋麵粉通常用於製作面包等需要彈性和結實口感的食物,不適合製作戚風蛋糕。 B：中筋麵粉的面筋含量介於低筋和高筋之間,也不適合製作戚風蛋糕。 C：低筋麵粉具有較低的面筋含量,適合製作輕盈蓬鬆的蛋糕如戚風蛋糕。 D：米類通常用於製作糕點如年糕、米菓等,不適合製作戚風蛋糕。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "高筋麵粉通常用於製作面包等需要彈性和結實口感的食物,不適合製作戚風蛋糕。",
+            "correctedStatement": "高筋麵粉適用於面包、披薩等烘焙品種。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "中筋麵粉的面筋含量介於低筋和高筋之間,也不適合製作戚風蛋糕。",
+            "correctedStatement": "中筋麵粉適用於一般糕點、餅乾等烘焙品種。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "低筋麵粉具有較低的面筋含量,適合製作輕盈蓬鬆的蛋糕如戚風蛋糕。",
+            "correctedStatement": "低筋麵粉適用於蛋糕、餅乾等需要柔軟口感的食物。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "米類通常用於製作糕點如年糕、米菓等,不適合製作戚風蛋糕。",
+            "correctedStatement": "米類適用於米菓、年糕等以米為主要原料的烘焙品種。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "戚風蛋糕是用: 高筋麵粉 中筋麵粉 低筋麵粉 米類 所製成。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / CH07 飲料服務與酒水服務 / 座次圖、桌次卡、座位卡與菜單卡。本題涉及蛋糕擺放方式,但更接近於座次圖的應用範疇,因此選擇餐飲服務技術下的座次圖概念。 【分類來源】全華/人工分類單元 【核心觀念】戚風蛋糕是用低筋麵粉所製成。 【詳細解析】本題考核的是烘焙材料的基本知識。戚風蛋糕是一種以蛋白打發為主的輕盈蛋糕,通常使用低筋麵粉來製備。低筋麵粉具有較低的面筋含量,適合於需要蓬鬆和柔軟口感的糕點製作。 【錯誤選項錯在哪】A:高筋麵粉通常用於製作面包等需要彈性和結實口感的食物,不適合製作戚風蛋糕。 修正說法:高筋麵粉適用於面包、披薩等烘焙品種。 B:中筋麵粉的面筋含量介於低筋和高筋之間,也不適合製作戚風蛋糕。 修正說法:中筋麵粉適用於一般糕點、餅乾等烘焙品種。 C:低筋麵粉具有較低的面筋含量,適合製作輕盈蓬鬆的蛋糕如戚風蛋糕。 修正說法:低筋麵粉適用於蛋糕、餅乾等需要柔軟口感的食物。 D:米類通常用於製作糕點如年糕、米菓等,不適合製作戚風蛋糕。 修正說法:米類適用於米菓、年糕等以米為主要原料的烘焙品種。 【叮嚀】無 【選項判斷】A:高筋麵粉通常用於製作面包等需要彈性和結實口感的食物,不適合製作戚風蛋糕。 B:中筋麵粉的面筋含量介於低筋和高筋之間,也不適合製作戚風蛋糕。 C:低筋麵粉具有較低的面筋含量,適合製作輕盈蓬鬆的蛋糕如戚風蛋糕。 D:米類通常用於製作糕點如年糕、米菓等,不適合製作戚風蛋糕。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 高筋麵粉通常用於製作面包等需要彈性和結實口感的食物,不適合製作戚風蛋糕。 中筋麵粉的面筋含量介於低筋和高筋之間,也不適合製作戚風蛋糕。 低筋麵粉具有較低的面筋含量,適合製作輕盈蓬鬆的蛋糕如戚風蛋糕。 米類通常用於製作糕點如年糕、米菓等,不適合製作戚風蛋糕。",
+      "sequence": 278
+    },
+    {
+      "id": "teacher-exam-101-02-q007-92160481c7",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 7 題",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-12001",
+      "paperTitle": "一、選擇題，共10題，每題2分，共20分",
+      "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+      "questionNumber": 7,
+      "questionType": "single-choice",
+      "prompt": "下列有關餐飲服務方式的敘述，何者為錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "法式服務是由服務人員，將已在廚房中完成分菜的菜餚，直接服務給顧客"
+        },
+        {
+          "id": "B",
+          "text": "英式服務是指服務員用服務匙挾派菜餚至顧客餐盤上"
+        },
+        {
+          "id": "C",
+          "text": "美式服務即俗稱的餐盤式服務"
+        },
+        {
+          "id": "D",
+          "text": "傳統的中式服務是指合菜服務。"
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A」。 B：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A」。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列有關餐飲服務方式的敘述,何者為錯誤? 法式服務是由服務人員,將已在廚房中完成分菜的菜餚,直接服務給顧客 英式服務是指服務員用服務匙挾派菜餚至顧客餐盤上 美式服務即俗稱的餐盤式服務 傳統的中式服務是指合菜服務。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 284
+    },
+    {
+      "id": "teacher-exam-101-02-q001-6c28b90b44",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 1 題",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-25404",
+      "paperTitle": "二、問答題：共佔 10%。",
+      "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "請寫出消毒法的分類與消毒條件？ 煮沸法：100℃沸水 蒸氣法：100℃蒸氣 熱水法：80℃熱水 乳液法：200ppm乳液 乾熱法：110℃乾熱",
+      "options": [],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "ai-generated-unit",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。題目為問答題，內容涉及消毒法種類及消毒條件，屬於餐飲服務技術範疇。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】餐飲服務技術 / 消毒法的分類與消毒條件 / 消毒法的分類與消毒條件。題目為問答題,內容涉及消毒法種類及消毒條件,屬於餐飲服務技術範疇。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】消毒法的分類與消毒條件 【詳細解析】本題考核的是消毒法的種類及其相應的消毒條件。消毒法可以根據不同的加熱方式和化學處理方法進行分類,具體如下: 1. 煮沸法:在100°C沸水中煮沸一定時間以殺滅微生物。 2. 蒸氣法:利用100°C的蒸氣進行消毒,通常用于不耐高溫的物品。 3. 熱水法:使用80°C熱水進行消毒,適用于一些特定的器皿和器具。 4. 乳液法:通過200ppm的乳液溶液進行消毒,常見于表面清潔和殺菌。 5. 幹熱法:在110°C的乾熱環境下進行消毒,適合某些特殊材料或物品。 消毒條件包括溫度、時間以及使用的化學劑量等,這些因素會影響消毒效果。正確掌握不同消毒方法及其適用場景是餐飲服務技術中重要的技能之一。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】注意不同消毒方法的適用場景和溫度、時間要求,避免誤用導致衛生問題。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "ai-classification-unit"
+      ],
+      "searchText": "請寫出消毒法的分類與消毒條件? 煮沸法:100°C沸水 蒸氣法:100°C蒸氣 熱水法:80°C熱水 乳液法:200ppm乳液 乾熱法:110°C乾熱 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 【問題分類】餐飲服務技術 / 消毒法的分類與消毒條件 / 消毒法的分類與消毒條件。題目為問答題,內容涉及消毒法種類及消毒條件,屬於餐飲服務技術範疇。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】消毒法的分類與消毒條件 【詳細解析】本題考核的是消毒法的種類及其相應的消毒條件。消毒法可以根據不同的加熱方式和化學處理方法進行分類,具體如下: 1. 煮沸法:在100°C沸水中煮沸一定時間以殺滅微生物。 2. 蒸氣法:利用100°C的蒸氣進行消毒,通常用于不耐高溫的物品。 3. 熱水法:使用80°C熱水進行消毒,適用于一些特定的器皿和器具。 4. 乳液法:通過200ppm的乳液溶液進行消毒,常見于表面清潔和殺菌。 5. 幹熱法:在110°C的乾熱環境下進行消毒,適合某些特殊材料或物品。 消毒條件包括溫度、時間以及使用的化學劑量等,這些因素會影響消毒效果。正確掌握不同消毒方法及其適用場景是餐飲服務技術中重要的技能之一。 【錯誤選項錯在哪】本題非選擇題,無選項逐項解析。 【叮嚀】注意不同消毒方法的適用場景和溫度、時間要求,避免誤用導致衛生問題。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 399,
+      "aiClassificationUnit": {
+        "sourceType": "ai-unit-generated",
+        "nonChwa": true,
+        "label": "AI 分類單元，非全華版本"
+      }
+    },
+    {
+      "id": "teacher-exam-102-03-q017-fdb65bd863",
+      "sourceYear": 102,
+      "sourceLabel": "102 年第 17 題",
+      "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-8341",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+      "questionNumber": 17,
+      "questionType": "single-choice",
+      "prompt": "下列何者是餐飲服務業的特質？",
+      "options": [
+        {
+          "id": "A",
+          "text": "需求起伏小"
+        },
+        {
+          "id": "B",
+          "text": "服務項目單純化"
+        },
+        {
+          "id": "C",
+          "text": "商品容易儲存"
+        },
+        {
+          "id": "D",
+          "text": "品質管理不易。"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 D：此選項符合題幹所問的正確答案「D」。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「D」。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列何者是餐飲服務業的特質? 需求起伏小 服務項目單純化 商品容易儲存 品質管理不易。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 D:此選項符合題幹所問的正確答案「D」。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。",
+      "sequence": 452
+    },
+    {
+      "id": "teacher-exam-106-07-q003-9815952c24",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 3 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-9329",
+      "paperTitle": "第一部分：單選題（每題 2 分，共 40 分）",
+      "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+      "questionNumber": 3,
+      "questionType": "single-choice",
+      "prompt": "日本引進的「くら寿司（藏壽司）」，請問屬於哪種餐飲服務型態？",
+      "options": [
+        {
+          "id": "A",
+          "text": "fine-dining restaurant"
+        },
+        {
+          "id": "B",
+          "text": "drive-through restaurant"
+        },
+        {
+          "id": "C",
+          "text": "cafeteria restaurant"
+        },
+        {
+          "id": "D",
+          "text": "buffet restaurant。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "日本引進的「くら寿司(藏壽司)」,請問屬於哪種餐飲服務型態? fine-dining restaurant drive-through restaurant cafeteria restaurant buffet restaurant。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 1130
+    },
+    {
+      "id": "teacher-exam-106-07-q040-f8a29219f7",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 40 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-20013",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+      "questionNumber": 40,
+      "questionType": "single-choice",
+      "prompt": "托盤操持方法，何者敘述錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "托盤上物品擺放應依服務順序，先上桌的餐食放置外側，服勤時不可將托盤放置餐桌上。"
+        },
+        {
+          "id": "B",
+          "text": "飲料器皿擺放時，盛裝七分滿飲料較為恰當，茶壺壺把朝右擺放，方便服勤。"
+        },
+        {
+          "id": "C",
+          "text": "長托盤適合運送較重或較大量的餐具與菜餚，以肩拖法托盤上右肩右手四指在後姆指在前。"
+        },
+        {
+          "id": "D",
+          "text": "塑膠托盤是目前餐飲界最常使用，硬度高價格便宜且易於清洗。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "托盤操持方法,何者敘述錯誤? 托盤上物品擺放應依服務順序,先上桌的餐食放置外側,服勤時不可將托盤放置餐桌上。 飲料器皿擺放時,盛裝七分滿飲料較為恰當,茶壺壺把朝右擺放,方便服勤。 長托盤適合運送較重或較大量的餐具與菜餚,以肩拖法托盤上右肩右手四指在後姆指在前。 塑膠托盤是目前餐飲界最常使用,硬度高價格便宜且易於清洗。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 1218
+    },
+    {
+      "id": "teacher-exam-110-11-q027-6917260244",
+      "sourceYear": 110,
+      "sourceLabel": "110 年第 27 題",
+      "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+      "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-4028",
+      "paperTitle": "未標示試卷",
+      "schoolName": "未標示學校",
+      "questionNumber": 27,
+      "questionType": "single-choice",
+      "prompt": "有關服務叉匙之使用，何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "指握法為叉齒朝上，置於服務匙上，右手大拇指、食指的指尖夾住叉柄中間"
+        },
+        {
+          "id": "B",
+          "text": "服務全魚時，魚肚朝向服務員，需去除魚骨，將魚肉夾至每位貴賓的骨盤上"
+        },
+        {
+          "id": "C",
+          "text": "左叉右匙法為單手操作，適用於體積較小或質地較硬的食物"
+        },
+        {
+          "id": "D",
+          "text": "服務叉匙起源於英式餐飲服務，每分完一道菜，應更新服務叉匙。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "有關服務叉匙之使用,何者錯誤? 指握法為叉齒朝上,置於服務匙上,右手大拇指、食指的指尖夾住叉柄中間 服務全魚時,魚肚朝向服務員,需去除魚骨,將魚肉夾至每位貴賓的骨盤上 左叉右匙法為單手操作,適用於體積較小或質地較硬的食物 服務叉匙起源於英式餐飲服務,每分完一道菜,應更新服務叉匙。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 1666
+    },
+    {
+      "id": "teacher-exam-111-12-q034-498e3a7e4f",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 34 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-5644",
+      "paperTitle": "未標示試卷",
+      "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+      "questionNumber": 34,
+      "questionType": "multiple-choice",
+      "prompt": "下列關於中式餐飲服務分類敘述，何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "小吃服務：用餐前提供茶水，菜餚烹調完成後由服務員上桌，沒有多餘的規定與順序。"
+        },
+        {
+          "id": "B",
+          "text": "餐盤服務：除筷子外，亦提供刀叉匙，菜餚在廚房分裝於顧客的餐盤上，吃完一道再上下一道菜。"
+        },
+        {
+          "id": "C",
+          "text": "合菜服務：於主賓右側開始為主賓分菜，依順時針方向為顧客分菜，但主人是最後分菜。"
+        },
+        {
+          "id": "D",
+          "text": "轉盤服務：從主人右側上桌，有公筷母匙，由顧客自行取用。"
+        }
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C、D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C、D」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C、D」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C、D」。 D：此選項符合題幹所問的正確答案「C、D」。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C、D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C、D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C、D」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C、D」。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列關於中式餐飲服務分類敘述,何者錯誤? 小吃服務:用餐前提供茶水,菜餚烹調完成後由服務員上桌,沒有多餘的規定與順序。 餐盤服務:除筷子外,亦提供刀叉匙,菜餚在廚房分裝於顧客的餐盤上,吃完一道再上下一道菜。 合菜服務:於主賓右側開始為主賓分菜,依順時針方向為顧客分菜,但主人是最後分菜。 轉盤服務:從主人右側上桌,有公筷母匙,由顧客自行取用。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C、D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C、D」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C、D」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C、D」。 D:此選項符合題幹所問的正確答案「C、D」。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C、D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C、D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C、D」。 此選項符合題幹所問的正確答案「C、D」。",
+      "sequence": 1720
+    },
+    {
+      "id": "teacher-exam-111-12-q034-7ac2589922",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 34 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-22777",
+      "paperTitle": "未標示試卷",
+      "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+      "questionNumber": 34,
+      "questionType": "multiple-choice",
+      "prompt": "餐飲服務人員若遇到顧客身體不適之情況時，下列處置方式何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "幫客人打 1922 求救"
+        },
+        {
+          "id": "B",
+          "text": "讓客人坐下或躺下，並保持周邊環境通風與安靜"
+        },
+        {
+          "id": "C",
+          "text": "應盡快通知主管或保全人員相關情況，並做適當處置"
+        },
+        {
+          "id": "D",
+          "text": "在送醫前應留意客人是否有失去知覺之情況"
+        },
+        {
+          "id": "E",
+          "text": "若客人只是胃痛，可先提供胃藥緩解 (不可隨意提供成藥)"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B、C、D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B、C、D」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B、C、D」。 C：此選項符合題幹所問的正確答案「B、C、D」。 D：此選項符合題幹所問的正確答案「B、C、D」。 E：此選項不符合題幹所問的正確答案；本題答案為「B、C、D」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B、C、D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B、C、D」。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B、C、D」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B、C、D」。"
+          },
+          {
+            "optionId": "E",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B、C、D」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐飲服務人員若遇到顧客身體不適之情況時,下列處置方式何者正確? 幫客人打 1922 求救 讓客人坐下或躺下,並保持周邊環境通風與安靜 應盡快通知主管或保全人員相關情況,並做適當處置 在送醫前應留意客人是否有失去知覺之情況 若客人只是胃痛,可先提供胃藥緩解 (不可隨意提供成藥) 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B、C、D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B、C、D」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B、C、D」。 C:此選項符合題幹所問的正確答案「B、C、D」。 D:此選項符合題幹所問的正確答案「B、C、D」。 E:此選項不符合題幹所問的正確答案;本題答案為「B、C、D」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B、C、D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B、C、D」。 此選項符合題幹所問的正確答案「B、C、D」。 此選項符合題幹所問的正確答案「B、C、D」。 此選項不符合題幹所問的正確答案;本題答案為「B、C、D」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 1828
+    },
+    {
+      "id": "teacher-exam-112-13-q003-a49044e369",
+      "sourceYear": 112,
+      "sourceLabel": "112 年第 3 題",
+      "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+      "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-12354",
+      "paperTitle": "科目：餐飲管理科",
+      "schoolName": "桃園市立高級中等學校 112學年度教師聯合甄選筆試試題",
+      "questionNumber": 3,
+      "questionType": "single-choice",
+      "prompt": "下列有關餐飲服務方式的敘述，何者為錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "法式服務是由服務人員，將已在廚房中完成分菜的菜餚，直接服務給顧客..."
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A」。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A」。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列有關餐飲服務方式的敘述,何者為錯誤? 法式服務是由服務人員,將已在廚房中完成分菜的菜餚,直接服務給顧客... 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。",
+      "sequence": 1982
+    },
+    {
+      "id": "teacher-exam-112-13-q002-db99a76669",
+      "sourceYear": 112,
+      "sourceLabel": "112 年第 2 題",
+      "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+      "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-13135",
+      "paperTitle": "未標示試卷",
+      "schoolName": "桃園市立高級中等學校 112學年度教師聯合甄選筆試試題",
+      "questionNumber": 2,
+      "questionType": "essay",
+      "prompt": "餐飲服務是餐廳根據實際需求選用一種服務方式來服務顧客，請說明餐飲服務的十二種型態 (6分)。",
+      "options": [],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐飲服務是餐廳根據實際需求選用一種服務方式來服務顧客,請說明餐飲服務的十二種型態 (6分)。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 1992
+    },
+    {
+      "id": "teacher-exam-113-14-q045-5ede25469b",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 45 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-38567",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 45,
+      "questionType": "multiple-choice",
+      "prompt": "北美行業分類系統將餐飲業分為四類，下列何者為是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "全服務式餐廳"
+        },
+        {
+          "id": "B",
+          "text": "無人服務式餐廳"
+        },
+        {
+          "id": "C",
+          "text": "有限服務式餐店"
+        },
+        {
+          "id": "D",
+          "text": "特殊餐飲服務"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A、C、D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A、C、D」。 B：此選項不符合題幹所問的正確答案；本題答案為「A、C、D」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「A、C、D」。 D：此選項符合題幹所問的正確答案「A、C、D」。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A、C、D」。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A、C、D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A、C、D」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A、C、D」。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "北美行業分類系統將餐飲業分為四類,下列何者為是? 全服務式餐廳 無人服務式餐廳 有限服務式餐店 特殊餐飲服務 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A、C、D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項符合題幹所問的正確答案「A、C、D」。 B:此選項不符合題幹所問的正確答案;本題答案為「A、C、D」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「A、C、D」。 D:此選項符合題幹所問的正確答案「A、C、D」。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A、C、D」。 此選項不符合題幹所問的正確答案;本題答案為「A、C、D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「A、C、D」。 此選項符合題幹所問的正確答案「A、C、D」。",
+      "sequence": 2232
+    },
+    {
+      "id": "teacher-exam-114-15-q023-293a636cab",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 23 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-12450",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 23,
+      "questionType": "single-choice",
+      "prompt": "馬祖許多餐廳提供現場烹調的特色料理，如在顧客面前現做的黃金餃或魚麵，讓顧客親眼見證並 參與餐點的製作過程。這種生產與消費同時發生的特性，屬於餐飲服務業的哪一種屬性？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perishability"
+        },
+        {
+          "id": "B",
+          "text": "Inseparability"
+        },
+        {
+          "id": "C",
+          "text": "Heterogeneity"
+        },
+        {
+          "id": "D",
+          "text": "Intangibility"
+        }
+      ],
+      "answer": "B",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B」。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "馬祖許多餐廳提供現場烹調的特色料理,如在顧客面前現做的黃金餃或魚麵,讓顧客親眼見證並 參與餐點的製作過程。這種生產與消費同時發生的特性,屬於餐飲服務業的哪一種屬性? Perishability Inseparability Heterogeneity Intangibility 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2304
+    },
+    {
+      "id": "teacher-exam-115-16-q022-ff5e0602ae",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 22 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-4680",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 22,
+      "questionType": "single-choice",
+      "prompt": "美以伊戰爭進入和談，和談後各方使者進行餐敘，使者的宗教信仰如下： 美國使者 A 是 Christianity、使者 B 是 Mormonism、以色列使者 C 是Judaism、 伊朗使者 D 是 Islam。 【菜單內容】 Menu Ⅰ Nicoise Salad Filet Mignon Tiramisu Menu Ⅱ Fresh Fruit Yogurt Salad Schweinshaxe with Sauerkraut Crème Brûlèe Menu Ⅲ Lentil Soup Halal Chicken Thigh & Pilaf Rice Baklava MenuⅣ Shrimp Bisque Halal Beef Burger Panna Cotta 請提供使者們「完全符合該宗教最嚴謹飲食規範且無風險疑慮」之餐點，下列配對何 者最適當？",
+      "options": [
+        {
+          "id": "A",
+          "text": "使者C服務Menu Ⅳ"
+        },
+        {
+          "id": "B",
+          "text": "使者B服務Menu Ⅰ"
+        },
+        {
+          "id": "C",
+          "text": "使者A服務Menu Ⅲ"
+        },
+        {
+          "id": "D",
+          "text": "使者D服務Menu Ⅱ。"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "美以伊戰爭進入和談,和談後各方使者進行餐敘,使者的宗教信仰如下: 美國使者 A 是 Christianity、使者 B 是 Mormonism、以色列使者 C 是Judaism、 伊朗使者 D 是 Islam。 【菜單內容】 Menu I Nicoise Salad Filet Mignon Tiramisu Menu II Fresh Fruit Yogurt Salad Schweinshaxe with Sauerkraut Crème Brûlèe Menu III Lentil Soup Halal Chicken Thigh & Pilaf Rice Baklava MenuIV Shrimp Bisque Halal Beef Burger Panna Cotta 請提供使者們「完全符合該宗教最嚴謹飲食規範且無風險疑慮」之餐點,下列配對何 者最適當? 使者C服務Menu IV 使者B服務Menu I 使者A服務Menu III 使者D服務Menu II。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2421
+    },
+    {
+      "id": "teacher-exam-94-17-q003-204340cae5",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 3 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-4903",
+      "paperTitle": "一、選擇題",
+      "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionNumber": 3,
+      "questionType": "single-choice",
+      "prompt": "下列何者不屬於餐廳的前場人員？",
+      "options": [
+        {
+          "id": "A",
+          "text": "經理"
+        },
+        {
+          "id": "B",
+          "text": "副理"
+        },
+        {
+          "id": "C",
+          "text": "主廚"
+        },
+        {
+          "id": "D",
+          "text": "服務員"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "chapter": "第一章",
+          "locator": "111年6月餐飲服務技術.pdf, p.24-25, 29",
+          "note": "區分前場(外場)與後場(內場)人員編制。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "根據《餐飲服務技術》第24-25頁,餐廳的前場(外場)人員包含各廳經理、副理、領班、領檯員、服務員等。主廚屬於廚房部,為負責烹調料理的內場(後場)人員,故不屬於前場人員。\n\n【選項判斷】A：經理為外場(前場)最高管理人員。 B：副理協助經理管理前場業務,屬於前場人員。 C：此選項符合題幹所問的正確答案「C」。 D：服務員為直接面對顧客的服勤線人員,屬於前場人員。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "經理為外場(前場)最高管理人員。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "副理協助經理管理前場業務,屬於前場人員。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "服務員為直接面對顧客的服勤線人員,屬於前場人員。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列何者不屬於餐廳的前場人員? 經理 副理 主廚 服務員 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 根據《餐飲服務技術》第24-25頁,餐廳的前場(外場)人員包含各廳經理、副理、領班、領檯員、服務員等。主廚屬於廚房部,為負責烹調料理的內場(後場)人員,故不屬於前場人員。 【選項判斷】A:經理為外場(前場)最高管理人員。 B:副理協助經理管理前場業務,屬於前場人員。 C:此選項符合題幹所問的正確答案「C」。 D:服務員為直接面對顧客的服勤線人員,屬於前場人員。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 經理為外場(前場)最高管理人員。 副理協助經理管理前場業務,屬於前場人員。 此選項符合題幹所問的正確答案「C」。 服務員為直接面對顧客的服勤線人員,屬於前場人員。",
+      "sequence": 2578
+    },
+    {
+      "id": "teacher-exam-94-17-q007-6a55aa96c7",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 7 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-5093",
+      "paperTitle": "一、選擇題",
+      "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionNumber": 7,
+      "questionType": "single-choice",
+      "prompt": "餐廳專門負責訂席及會場佈置的部門為？",
+      "options": [
+        {
+          "id": "A",
+          "text": "餐廳部"
+        },
+        {
+          "id": "B",
+          "text": "餐務部"
+        },
+        {
+          "id": "C",
+          "text": "宴會部"
+        },
+        {
+          "id": "D",
+          "text": "採購部"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "chapter": "第一章",
+          "locator": "111年6月餐飲服務技術.pdf, p.24",
+          "note": "宴會部的工作職責明確包含訂席與會場安排。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "根據《餐飲服務技術》第24頁,宴會部(Banquet Dept.)主要負責招攬業務、介紹場地、訂席,以及策劃與執行會場的佈置與服務。餐廳部負責一般營業時的銷售與服務;餐務部負責餐具管理與清潔;採購部負責食材物料的採買。\n\n【選項判斷】A：餐廳部主要負責一般外場餐飲銷售與服務。 B：餐務部主要負責餐具管理、洗滌及廢棄物處理。 C：此選項符合題幹所問的正確答案「C」。 D：採購部負責物料與設備的採購事宜。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "餐廳部主要負責一般外場餐飲銷售與服務。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "餐務部主要負責餐具管理、洗滌及廢棄物處理。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "採購部負責物料與設備的採購事宜。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐廳專門負責訂席及會場佈置的部門為? 餐廳部 餐務部 宴會部 採購部 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 根據《餐飲服務技術》第24頁,宴會部(Banquet Dept.)主要負責招攬業務、介紹場地、訂席,以及策劃與執行會場的佈置與服務。餐廳部負責一般營業時的銷售與服務;餐務部負責餐具管理與清潔;採購部負責食材物料的採買。 【選項判斷】A:餐廳部主要負責一般外場餐飲銷售與服務。 B:餐務部主要負責餐具管理、洗滌及廢棄物處理。 C:此選項符合題幹所問的正確答案「C」。 D:採購部負責物料與設備的採購事宜。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 餐廳部主要負責一般外場餐飲銷售與服務。 餐務部主要負責餐具管理、洗滌及廢棄物處理。 此選項符合題幹所問的正確答案「C」。 採購部負責物料與設備的採購事宜。",
+      "sequence": 2582
+    },
+    {
+      "id": "teacher-exam-94-17-q017-a07cac9c6a",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 17 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-5726",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionNumber": 17,
+      "questionType": "single-choice",
+      "prompt": "一份設計優良的菜單，應將菜單項目分門別類，煙燻鮭魚應置於菜單中的哪個類別當中？",
+      "options": [
+        {
+          "id": "A",
+          "text": "冷開胃菜"
+        },
+        {
+          "id": "B",
+          "text": "熱開胃菜"
+        },
+        {
+          "id": "C",
+          "text": "主菜"
+        },
+        {
+          "id": "D",
+          "text": "甜點"
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "chapter": "第五章",
+          "locator": "111年6月餐飲服務技術.pdf, p.184",
+          "note": "煙燻鮭魚被歸類於冷前菜。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "根據《餐飲服務技術》第184頁,在傳統西式菜單結構中,冷前菜(冷開胃菜,Hors d'Oeuvre Froid)強調味輕、質薄、量少以引起食慾。煙燻鮭魚(Smoked Salmon)、魚子醬、鵝肝醬等均屬於典型的冷開胃菜類別。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A」。 B：熱開胃菜如蒜烤田螺,須經熱加工並熱食。 C：主菜通常為份量較大且為整套餐點重心的肉類或海鮮熟食。 D：甜點在餐後服務。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A」。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "熱開胃菜如蒜烤田螺,須經熱加工並熱食。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "主菜通常為份量較大且為整套餐點重心的肉類或海鮮熟食。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "甜點在餐後服務。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "一份設計優良的菜單,應將菜單項目分門別類,煙燻鮭魚應置於菜單中的哪個類別當中? 冷開胃菜 熱開胃菜 主菜 甜點 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 根據《餐飲服務技術》第184頁,在傳統西式菜單結構中,冷前菜(冷開胃菜,Hors d'Oeuvre Froid)強調味輕、質薄、量少以引起食慾。煙燻鮭魚(Smoked Salmon)、魚子醬、鵝肝醬等均屬於典型的冷開胃菜類別。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:熱開胃菜如蒜烤田螺,須經熱加工並熱食。 C:主菜通常為份量較大且為整套餐點重心的肉類或海鮮熟食。 D:甜點在餐後服務。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。 熱開胃菜如蒜烤田螺,須經熱加工並熱食。 主菜通常為份量較大且為整套餐點重心的肉類或海鮮熟食。 甜點在餐後服務。",
+      "sequence": 2592
+    },
+    {
+      "id": "teacher-exam-94-17-q018-c86d04a516",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 18 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-5797",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionNumber": 18,
+      "questionType": "single-choice",
+      "prompt": "西餐中B.B.Plate應擺在客人的？",
+      "options": [
+        {
+          "id": "A",
+          "text": "右側"
+        },
+        {
+          "id": "B",
+          "text": "左側"
+        },
+        {
+          "id": "C",
+          "text": "正上方"
+        },
+        {
+          "id": "D",
+          "text": "右下方"
+        }
+      ],
+      "answer": "B",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "chapter": "第二章",
+          "locator": "111年6月餐飲服務技術.pdf, p.70",
+          "note": "麵包盤固定放在客人的左手邊。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "根據《餐飲服務技術》第70頁的瓷器類餐具說明,B.B. Plate(Bread & Butter Plate,麵包盤或邊盤),在西餐餐具擺設中,固定放在客人的左手邊(左側)。不論何種服務方式,派送麵包也一律由客人的左側服務。\n\n【選項判斷】A：右側通常擺放水杯、酒杯及刀、匙等餐具。 B：此選項符合題幹所問的正確答案「B」。 C：正上方通常擺放點心叉與點心匙。 D：右下方通常不固定擺放餐具(酒杯會偏右斜上方)。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "右側通常擺放水杯、酒杯及刀、匙等餐具。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B」。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "正上方通常擺放點心叉與點心匙。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "右下方通常不固定擺放餐具(酒杯會偏右斜上方)。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "西餐中B.B.Plate應擺在客人的? 右側 左側 正上方 右下方 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 根據《餐飲服務技術》第70頁的瓷器類餐具說明,B.B. Plate(Bread & Butter Plate,麵包盤或邊盤),在西餐餐具擺設中,固定放在客人的左手邊(左側)。不論何種服務方式,派送麵包也一律由客人的左側服務。 【選項判斷】A:右側通常擺放水杯、酒杯及刀、匙等餐具。 B:此選項符合題幹所問的正確答案「B」。 C:正上方通常擺放點心叉與點心匙。 D:右下方通常不固定擺放餐具(酒杯會偏右斜上方)。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 右側通常擺放水杯、酒杯及刀、匙等餐具。 此選項符合題幹所問的正確答案「B」。 正上方通常擺放點心叉與點心匙。 右下方通常不固定擺放餐具(酒杯會偏右斜上方)。",
+      "sequence": 2593
+    },
+    {
+      "id": "teacher-exam-94-17-q021-685b9a1be8",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 21 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-5947",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionNumber": 21,
+      "questionType": "single-choice",
+      "prompt": "有關西餐禮儀何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "由外向內取用餐具"
+        },
+        {
+          "id": "B",
+          "text": "麵包撕成小塊再抹奶油"
+        },
+        {
+          "id": "C",
+          "text": "由外向內舀湯，由匙腹側喝湯"
+        },
+        {
+          "id": "D",
+          "text": "食用完畢應將刀叉平行放置餐盤中"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "chapter": "第七章",
+          "locator": "111年6月餐飲服務技術.pdf, p.282",
+          "note": "正確的舀湯禮儀應為「由內向外」。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "根據《餐飲服務技術》第282頁關於西餐禮儀的說明,正確的喝湯方式應是將湯匙「由內向外」舀取湯汁,如此可避免湯汁不慎濺到自己的衣物,並且從湯匙的側邊(匙腹)入口飲用。因此,(C)選項描述「由外向內」舀湯是錯誤的。\n\n【選項判斷】A：西餐餐具依上菜順序排列,使用時確實應「由外向內」取用。 B：食用麵包時,應撕成一口可食的大小,再塗抹奶油後食用,不可整塊拿起來咬。 C：應「由內向外」舀湯,避免湯汁濺到自己。 D：用餐完畢時,刀叉應以平行(如時鐘的4點或6點方向)放置於餐盤中,表示已用完餐。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "西餐餐具依上菜順序排列,使用時確實應「由外向內」取用。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "食用麵包時,應撕成一口可食的大小,再塗抹奶油後食用,不可整塊拿起來咬。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "應「由內向外」舀湯,避免湯汁濺到自己。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "用餐完畢時,刀叉應以平行(如時鐘的4點或6點方向)放置於餐盤中,表示已用完餐。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "有關西餐禮儀何者錯誤? 由外向內取用餐具 麵包撕成小塊再抹奶油 由外向內舀湯,由匙腹側喝湯 食用完畢應將刀叉平行放置餐盤中 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 根據《餐飲服務技術》第282頁關於西餐禮儀的說明,正確的喝湯方式應是將湯匙「由內向外」舀取湯汁,如此可避免湯汁不慎濺到自己的衣物,並且從湯匙的側邊(匙腹)入口飲用。因此,(C)選項描述「由外向內」舀湯是錯誤的。 【選項判斷】A:西餐餐具依上菜順序排列,使用時確實應「由外向內」取用。 B:食用麵包時,應撕成一口可食的大小,再塗抹奶油後食用,不可整塊拿起來咬。 C:應「由內向外」舀湯,避免湯汁濺到自己。 D:用餐完畢時,刀叉應以平行(如時鐘的4點或6點方向)放置於餐盤中,表示已用完餐。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 西餐餐具依上菜順序排列,使用時確實應「由外向內」取用。 食用麵包時,應撕成一口可食的大小,再塗抹奶油後食用,不可整塊拿起來咬。 應「由內向外」舀湯,避免湯汁濺到自己。 用餐完畢時,刀叉應以平行(如時鐘的4點或6點方向)放置於餐盤中,表示已用完餐。",
+      "sequence": 2596
+    },
+    {
+      "id": "teacher-exam-94-17-q037-e888172452",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 37 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-10214",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+      "questionNumber": 37,
+      "questionType": "single-choice",
+      "prompt": "下列關於菜單的說明，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ala Carte Menu 是指單點菜單"
+        },
+        {
+          "id": "B",
+          "text": "Cycle Menu 是指動態菜單"
+        },
+        {
+          "id": "C",
+          "text": "Buffet Menu 是指主廚特餐"
+        },
+        {
+          "id": "D",
+          "text": "Tabled’ Hote 是指桌邊服務單點菜單。"
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A」。 B：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A」。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列關於菜單的說明,何者正確? Ala Carte Menu 是指單點菜單 Cycle Menu 是指動態菜單 Buffet Menu 是指主廚特餐 Tabled’ Hote 是指桌邊服務單點菜單。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2654
+    },
+    {
+      "id": "teacher-exam-94-17-q038-5e772e0dcf",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 38 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-10329",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+      "questionNumber": 38,
+      "questionType": "single-choice",
+      "prompt": "餐飲服務經理需應具備三個階層的管理技能，請依所需技能之高低比例排序：甲、理念性技能乙、人際性技能丙、技術性技能",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲、乙、丙"
+        },
+        {
+          "id": "B",
+          "text": "乙、丙、甲"
+        },
+        {
+          "id": "C",
+          "text": "丙、乙、甲"
+        },
+        {
+          "id": "D",
+          "text": "丙、甲、乙。"
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A」。 B：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「A」。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐飲服務經理需應具備三個階層的管理技能,請依所需技能之高低比例排序:甲、理念性技能乙、人際性技能丙、技術性技能 甲、乙、丙 乙、丙、甲 丙、乙、甲 丙、甲、乙。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「A」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2655
+    },
+    {
+      "id": "teacher-exam-97-19-q017-e3e1025592",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 17 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-9926",
+      "paperTitle": "二、單選題（1題1分，共76分）",
+      "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+      "questionNumber": 17,
+      "questionType": "single-choice",
+      "prompt": "餐飲服務領班應具備三個階層的管理技能，請依所列技能之高低比例排列：甲：理念性技能 乙：人際性技能 丙：技術性技能",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲→乙→丙"
+        },
+        {
+          "id": "B",
+          "text": "乙→丙→甲"
+        },
+        {
+          "id": "C",
+          "text": "丙→乙→甲"
+        },
+        {
+          "id": "D",
+          "text": "丙→甲→乙"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐飲服務領班應具備三個階層的管理技能,請依所列技能之高低比例排列:甲:理念性技能 乙:人際性技能 丙:技術性技能 甲→乙→丙 乙→丙→甲 丙→乙→甲 丙→甲→乙 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2912
+    },
+    {
+      "id": "teacher-exam-97-19-q037-67a83c4bca",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 37 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-11714",
+      "paperTitle": "未標示試卷",
+      "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+      "questionNumber": 37,
+      "questionType": "single-choice",
+      "prompt": "在高級餐飲服務裡，Guéridon 最主要的功能為？",
+      "options": [
+        {
+          "id": "A",
+          "text": "裝飾美觀"
+        },
+        {
+          "id": "B",
+          "text": "現場桌邊服務"
+        },
+        {
+          "id": "C",
+          "text": "現場切割烹調"
+        },
+        {
+          "id": "D",
+          "text": "促銷甜點"
+        }
+      ],
+      "answer": "B",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B」。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "在高級餐飲服務裡,Guéridon 最主要的功能為? 裝飾美觀 現場桌邊服務 現場切割烹調 促銷甜點 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2932
+    },
+    {
+      "id": "teacher-exam-98-20-q006-1203dc04ee",
+      "sourceYear": 98,
+      "sourceLabel": "98 年第 6 題",
+      "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-4225",
+      "paperTitle": "一、填充題（一格 1 分，共 20 分）",
+      "schoolName": "國立臺南家齊女中 98 學年度第一次專任及代理教師甄選考試餐飲科",
+      "questionNumber": 6,
+      "questionType": "essay",
+      "prompt": "餐廳與顧客面對面直接接觸的第一線工作人員是指 接待員；餐廳內與顧客接觸最密切、最頻繁的從業人員，可稱為餐飲服務的靈魂人物是指 服務員。",
+      "options": [],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐廳與顧客面對面直接接觸的第一線工作人員是指 接待員;餐廳內與顧客接觸最密切、最頻繁的從業人員,可稱為餐飲服務的靈魂人物是指 服務員。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 3209
+    },
+    {
+      "id": "teacher-exam-99-21-q054-176562c301",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 54 題",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-10518",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+      "questionNumber": 54,
+      "questionType": "single-choice",
+      "prompt": "餐飲服務時，端持托盤遞送菜餚，其托盤上物品擺放要點，下述何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "較高、較重物品放托盤中間或內側"
+        },
+        {
+          "id": "B",
+          "text": "茶壺或咖啡壺把向右、壺嘴朝左"
+        },
+        {
+          "id": "C",
+          "text": "較輕、較矮的物品放托盤外圍處"
+        },
+        {
+          "id": "D",
+          "text": "先服務上桌的物品置於托盤內側。"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 D：此選項符合題幹所問的正確答案「D」。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「D」。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐飲服務時,端持托盤遞送菜餚,其托盤上物品擺放要點,下述何者錯誤? 較高、較重物品放托盤中間或內側 茶壺或咖啡壺把向右、壺嘴朝左 較輕、較矮的物品放托盤外圍處 先服務上桌的物品置於托盤內側。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 D:此選項符合題幹所問的正確答案「D」。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。",
+      "sequence": 3397
+    },
+    {
+      "id": "teacher-exam-99-21-q009-f405d827ef",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 9 題",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-16923",
+      "paperTitle": "一、單選題（每題二分，共四十分）",
+      "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+      "questionNumber": 9,
+      "questionType": "single-choice",
+      "prompt": "餐飲服務業之主要產品為無形的服務，因此顧客購買此產品之風險很高，今後餐飲業針對此產品的特性其有效因應之道為何？",
+      "options": [
+        {
+          "id": "A",
+          "text": "大量促銷、實施尖離峰差別定價"
+        },
+        {
+          "id": "B",
+          "text": "提升企業產品品牌形象，講究服務證據"
+        },
+        {
+          "id": "C",
+          "text": "建立標準化作業 SOP"
+        },
+        {
+          "id": "D",
+          "text": "加強餐廳內外部們溝通協調。"
+        }
+      ],
+      "answer": "B",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+      "conceptId": "foodservice-6a937023e9",
+      "conceptLabel": "第八章 餐飲服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B」。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第八章 餐飲服務",
+            "locator": "第八章 餐飲服務",
+            "note": "參考書 OCR 估算 頁 9"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "餐飲服務業之主要產品為無形的服務,因此顧客購買此產品之風險很高,今後餐飲業針對此產品的特性其有效因應之道為何? 大量促銷、實施尖離峰差別定價 提升企業產品品牌形象,講究服務證據 建立標準化作業 SOP 加強餐廳內外部們溝通協調。 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 本題依題幹與選項判斷,核心考點落在「[第八章 餐飲服務] - [第八章 餐飲服務]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 3460
+    }
+  ]
+}

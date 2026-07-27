@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q007-27c9ec6996",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "C",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
-    "relatedConceptIds": [],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念]",
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第五節餐飲業的經營理念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念]」。"
+      },
+      {
+        "source": "AI",
+        "chapter": "第四章",
+        "locator": "旅宿業的經營方式",
+        "note": "區辨不同公共建設委外經營模式"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "依據促進民間參與公共建設法,由政府投資新建完成後,委託民間機構營運,營運期間屆滿後,營運權歸還政府,此模式稱為 OT(Operate-Transfer)營運-移轉。\n\n【選項判斷】A：ROT 為重建、營運、移轉模式。 B：BOT 為興建、營運、移轉模式。 C：OT 模式即由政府建設完成後交由民間營運,期滿移轉回政府。 D：BO 為興建、營運,不含移轉。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第五節餐飲業的經營理念（頁 172）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "ROT 為重建、營運、移轉模式。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "BOT 為興建、營運、移轉模式。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "OT 模式即由政府建設完成後交由民間營運,期滿移轉回政府。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "BO 為興建、營運,不含移轉。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第五節餐飲業的經營理念",
+          "note": "參考書 OCR 估算 頁 172"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "目前海洋生物博物館將部份業務委託民間機構營運，營運期屆滿後，營運權歸還政府，是屬於那一種經營方式？ ROT BOT OT BO。 其他：待人工審核 待人工審核",
-    "sequence": 2674
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "目前海洋生物博物館將部份業務委託民間機構營運,營運期屆滿後,營運權歸還政府,是屬於那一種經營方式? ROT BOT OT BO。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念] 餐飲業的經營理念 依據促進民間參與公共建設法,由政府投資新建完成後,委託民間機構營運,營運期間屆滿後,營運權歸還政府,此模式稱為 OT(Operate-Transfer)營運-移轉。 【選項判斷】A:ROT 為重建、營運、移轉模式。 B:BOT 為興建、營運、移轉模式。 C:OT 模式即由政府建設完成後交由民間營運,期滿移轉回政府。 D:BO 為興建、營運,不含移轉。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第五節餐飲業的經營理念(頁 172);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 ROT 為重建、營運、移轉模式。 BOT 為興建、營運、移轉模式。 OT 模式即由政府建設完成後交由民間營運,期滿移轉回政府。 BO 為興建、營運,不含移轉。",
+    "sequence": 2674,
+    "relatedConceptIds": [],
+    "conceptLabel": "餐飲業的經營理念",
+    "conceptId": "tourism-hospitality-d7dead63d4"
   }
 }

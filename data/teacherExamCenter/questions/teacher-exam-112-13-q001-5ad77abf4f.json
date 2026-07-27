@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-112-13-q001-5ad77abf4f",
     "sourceYear": 112,
@@ -13,30 +13,53 @@
     "questionType": "essay",
     "prompt": "依據民宿管理辦法規定，於原住民族地區、經農業主管機關核發許可登記證之休閒農場、經農業主管機關劃定之休閒農業區、觀光地區、偏遠地區及離島地區之民宿，得以客房數 15 間以下，且客房總樓地板面積 四百 平方公尺以下之規模經營之。 2. 申請美國簽證，一般而言，B1是商務簽證和B2是旅遊簽證。 3. 美國農業部對於美國牛肉共分為八個等級，由高到低依序是：Prime極品級、Choice特選級、Select上選級、Standard商用級、Commercial可用級、Utility切塊級、Cutter合格級、Canner製罐級。 ##### 第參部份：簡答題（共7題，占66分）",
     "options": [],
-    "subject": "travel-agency",
-    "subjectLabel": "旅行業與航空票務",
-    "unit": "旅行業與航空服務",
-    "conceptId": "travel-agency-and-airline",
-    "conceptLabel": "旅行業、航空票務與入出境",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念]",
+    "conceptId": "tourism-hospitality-d7dead63d4",
+    "conceptLabel": "餐飲業的經營理念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第五節餐飲業的經營理念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：簽證、旅遊"
+        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第五節餐飲業的經營理念（頁 172）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第五節餐飲業的經營理念",
+          "note": "參考書 OCR 估算 頁 172"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "依據民宿管理辦法規定，於原住民族地區、經農業主管機關核發許可登記證之休閒農場、經農業主管機關劃定之休閒農業區、觀光地區、偏遠地區及離島地區之民宿，得以客房數 15 間以下，且客房總樓地板面積 四百 平方公尺以下之規模經營之。 2. 申請美國簽證，一般而言，B1是商務簽證和B2是旅遊簽證。 3. 美國農業部對於美國牛肉共分為八個等級，由高到低依序是：Prime極品級、Choice特選級、Select上選級、Standard商用級、Commercial可用級、Utility切塊級、Cutter合格級、Canner製罐級。 ##### 第參部份：簡答題（共7題，占66分） 旅行業、航空票務與入出境 旅行業與航空服務",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "依據民宿管理辦法規定,於原住民族地區、經農業主管機關核發許可登記證之休閒農場、經農業主管機關劃定之休閒農業區、觀光地區、偏遠地區及離島地區之民宿,得以客房數 15 間以下,且客房總樓地板面積 四百 平方公尺以下之規模經營之。 2. 申請美國簽證,一般而言,B1是商務簽證和B2是旅遊簽證。 3. 美國農業部對於美國牛肉共分為八個等級,由高到低依序是:Prime極品級、Choice特選級、Select上選級、Standard商用級、Commercial可用級、Utility切塊級、Cutter合格級、Canner製罐級。 ##### 第參部份:簡答題(共7題,占66分) 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念] 餐飲業的經營理念 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [餐飲業的經營理念]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第五節餐飲業的經營理念(頁 172);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
     "sequence": 1990
   }
 }

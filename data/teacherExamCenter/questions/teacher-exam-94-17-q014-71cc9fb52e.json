@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q014-71cc9fb52e",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "C",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [觀光餐旅業的特性]",
+    "conceptId": "tourism-hospitality-ca53247123",
+    "conceptLabel": "觀光餐旅業的特性",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第三節觀光餐旅業的特性",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [觀光餐旅業的特性]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "chapter": "第七章",
+        "locator": "觀光餐旅行銷概念",
+        "note": "社團組織形成分眾化通路為現代旅遊行銷趨勢。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "現代旅遊產品行銷的特性在於通路多樣化與分眾化,藉由各類社團組織(如特殊興趣社團、同好會、企業福委會等)形成的通路越來越普遍,有助於針對特定目標客群進行精準行銷。旅遊產品行銷透過網路已逐漸不受傳統時空限制,而資訊交換中心(如網路社群平台)則是日益蓬勃發展而非沒落。\n\n【選項判斷】A：現代網路行銷打破了時空限制。 B：現代旅遊通路呈現多樣化而非單一統一化。 C：此選項符合題幹所問的正確答案「C」。 D：資訊交換中心如社群媒體等正大幅崛起。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第三節觀光餐旅業的特性（頁 24）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "現代網路行銷打破了時空限制。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "現代旅遊通路呈現多樣化而非單一統一化。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「C」。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "資訊交換中心如社群媒體等正大幅崛起。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第三節觀光餐旅業的特性",
+          "note": "參考書 OCR 估算 頁 24"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "下列何者是現代旅遊產品行銷的特性之一？ 受到時空限制 統一化通路 社團組 織通路形成 資訊交換中心沒落 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "下列何者是現代旅遊產品行銷的特性之一? 受到時空限制 統一化通路 社團組 織通路形成 資訊交換中心沒落 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [觀光餐旅業的特性] 觀光餐旅業的特性 現代旅遊產品行銷的特性在於通路多樣化與分眾化,藉由各類社團組織(如特殊興趣社團、同好會、企業福委會等)形成的通路越來越普遍,有助於針對特定目標客群進行精準行銷。旅遊產品行銷透過網路已逐漸不受傳統時空限制,而資訊交換中心(如網路社群平台)則是日益蓬勃發展而非沒落。 【選項判斷】A:現代網路行銷打破了時空限制。 B:現代旅遊通路呈現多樣化而非單一統一化。 C:此選項符合題幹所問的正確答案「C」。 D:資訊交換中心如社群媒體等正大幅崛起。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第三節觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 現代網路行銷打破了時空限制。 現代旅遊通路呈現多樣化而非單一統一化。 此選項符合題幹所問的正確答案「C」。 資訊交換中心如社群媒體等正大幅崛起。",
     "sequence": 2589
   }
 }

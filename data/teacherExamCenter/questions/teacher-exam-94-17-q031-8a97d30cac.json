@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q031-8a97d30cac",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "D",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第五章 旅行業] - [第五章 旅行業]",
+    "conceptId": "tourism-hospitality-5ff3de6e14",
+    "conceptLabel": "第五章 旅行業",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第五章 旅行業",
+        "locator": "第五章 旅行業",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第五章 旅行業] - [第五章 旅行業]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "chapter": "第五章",
+        "locator": "旅行業管理規則與品保協會相關規定",
+        "note": "品保協會之聯合基金與各級旅行社繳交金額。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "為了保障旅遊消費者的權益,交通部觀光署輔導成立了「中華民國旅行業品質保障協會」(品保協會)。依據品保協會章程規定,申請加入成為會員時,旅行業須繳納「聯合基金」。綜合旅行業須繳交新台幣100萬元;甲種旅行業須繳交15萬元;乙種旅行業須繳交6萬元。因此,綜合旅行業為100萬元。\n\n【選項判斷】A：6萬元為乙種旅行業繳納金額。 B：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 C：15萬元為甲種旅行業繳納金額。 D：此選項符合題幹所問的正確答案「D」。\n\n【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業，定位：第五章 旅行業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "6萬元為乙種旅行業繳納金額。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "15萬元為甲種旅行業繳納金額。"
         },
         {
           "optionId": "D",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「D」。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第五章 旅行業",
+          "locator": "第五章 旅行業",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "綜合旅行業加入「中華民國旅行業品保協會」其繳交之聯合基金為 6萬元 10萬元 15萬元 100萬元 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "綜合旅行業加入「中華民國旅行業品保協會」其繳交之聯合基金為 6萬元 10萬元 15萬元 100萬元 觀光餐旅業導論 [第五章 旅行業] - [第五章 旅行業] 第五章 旅行業 為了保障旅遊消費者的權益,交通部觀光署輔導成立了「中華民國旅行業品質保障協會」(品保協會)。依據品保協會章程規定,申請加入成為會員時,旅行業須繳納「聯合基金」。綜合旅行業須繳交新台幣100萬元;甲種旅行業須繳交15萬元;乙種旅行業須繳交6萬元。因此,綜合旅行業為100萬元。 【選項判斷】A:6萬元為乙種旅行業繳納金額。 B:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 C:15萬元為甲種旅行業繳納金額。 D:此選項符合題幹所問的正確答案「D」。 【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業,定位:第五章 旅行業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 6萬元為乙種旅行業繳納金額。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 15萬元為甲種旅行業繳納金額。 此選項符合題幹所問的正確答案「D」。",
     "sequence": 2606
   }
 }

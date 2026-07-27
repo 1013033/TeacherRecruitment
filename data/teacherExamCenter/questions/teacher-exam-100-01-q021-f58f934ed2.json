@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q021-f58f934ed2",
     "sourceYear": 100,
@@ -32,50 +32,84 @@
     ],
     "answer": "D",
     "subject": "foodservice",
-    "subjectLabel": "餐飲服務實務",
-    "unit": "餐飲服務與營運",
-    "conceptId": "foodservice-operations",
-    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責 24]",
+    "conceptId": "foodservice-f1a7f6d949",
+    "conceptLabel": "餐廳服務人員的組織與工作職責 24",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "命中關鍵詞：chef de rang、maitre、sommelier"
+        "source": "reference-book-rag",
+        "chapter": "第一章 餐廳服務基本觀念",
+        "locator": "第三節餐廳服務人員的組織與工作職責 24",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責 24]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。Chef de rang、Maitre d' Hotel 和 Sommelier 的工作場所主要在餐廳，而 Sous Chef 通常在廚房工作。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】餐飲服務技術 / 餐廳組織與服務人員職掌 / 傳統餐廳職稱階層。Chef de rang、Maitre d' Hotel 和 Sommelier 的工作場所主要在餐廳,而 Sous Chef 通常在廚房工作。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】Chef de rang、Maitre d' Hotel、Sommelier 和 Sous Chef 的職位特性 【詳細解析】本題考核的是不同餐旅職位的主要工作場所。Chef de rang(副主廚)和 Sous Chef(副主廚)的工作主要在廚房,而 Maitre d' Hotel(門檻主管)和 Sommelier(侍酒師)則主要在餐廳內進行服務工作。 【錯誤選項錯在哪】A:Chef de rang 和 Sous Chef 的主要工作場所都在廚房,而非餐廳。 修正說法:無需修正 B:Maitre d' Hotel 的主要工作場所在餐廳內進行客人的接待和安排座位等工作。 修正說法:無需修正 C:Sommelier 的主要工作場所也在餐廳,負責酒單的推薦和服務。 修正說法:無需修正 D:Sous Chef 的主要工作場所在廚房,與其他職位的主要工作場所不同。 修正說法:無需修正 【叮嚀】注意各職位的工作場所區別,Chef de rang 和 Sous Chef 的工作場所主要在廚房。\n\n【選項判斷】A：Chef de rang 和 Sous Chef 的主要工作場所都在廚房,而非餐廳。 B：Maitre d' Hotel 的主要工作場所在餐廳內進行客人的接待和安排座位等工作。 C：Sommelier 的主要工作場所也在餐廳,負責酒單的推薦和服務。 D：Sous Chef 的主要工作場所在廚房,與其他職位的主要工作場所不同。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念，定位：第三節餐廳服務人員的組織與工作職責 24；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Chef de rang 和 Sous Chef 的主要工作場所都在廚房,而非餐廳。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Maitre d' Hotel 的主要工作場所在餐廳內進行客人的接待和安排座位等工作。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Sommelier 的主要工作場所也在餐廳,負責酒單的推薦和服務。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "Sous Chef 的主要工作場所在廚房,與其他職位的主要工作場所不同。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第三節餐廳服務人員的組織與工作職責 24",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [
-      "multiple-concept-candidates"
+      "ai-classification-unit"
     ],
-    "searchText": "下列哪一項工作/職位與其他三者的主要工作場所，迥然不同？ Chef de rang Maitre d' Hotel Sommelier Sous Chef。 餐飲服務、菜單與營運管理 餐飲服務與營運",
-    "sequence": 46
+    "searchText": "下列哪一項工作/職位與其他三者的主要工作場所,迥然不同? Chef de rang Maitre d' Hotel Sommelier Sous Chef。 餐飲服務技術 [第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責 24] 餐廳服務人員的組織與工作職責 24 【問題分類】餐飲服務技術 / 餐廳組織與服務人員職掌 / 傳統餐廳職稱階層。Chef de rang、Maitre d' Hotel 和 Sommelier 的工作場所主要在餐廳,而 Sous Chef 通常在廚房工作。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】Chef de rang、Maitre d' Hotel、Sommelier 和 Sous Chef 的職位特性 【詳細解析】本題考核的是不同餐旅職位的主要工作場所。Chef de rang(副主廚)和 Sous Chef(副主廚)的工作主要在廚房,而 Maitre d' Hotel(門檻主管)和 Sommelier(侍酒師)則主要在餐廳內進行服務工作。 【錯誤選項錯在哪】A:Chef de rang 和 Sous Chef 的主要工作場所都在廚房,而非餐廳。 修正說法:無需修正 B:Maitre d' Hotel 的主要工作場所在餐廳內進行客人的接待和安排座位等工作。 修正說法:無需修正 C:Sommelier 的主要工作場所也在餐廳,負責酒單的推薦和服務。 修正說法:無需修正 D:Sous Chef 的主要工作場所在廚房,與其他職位的主要工作場所不同。 修正說法:無需修正 【叮嚀】注意各職位的工作場所區別,Chef de rang 和 Sous Chef 的工作場所主要在廚房。 【選項判斷】A:Chef de rang 和 Sous Chef 的主要工作場所都在廚房,而非餐廳。 B:Maitre d' Hotel 的主要工作場所在餐廳內進行客人的接待和安排座位等工作。 C:Sommelier 的主要工作場所也在餐廳,負責酒單的推薦和服務。 D:Sous Chef 的主要工作場所在廚房,與其他職位的主要工作場所不同。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第三節餐廳服務人員的組織與工作職責 24;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Chef de rang 和 Sous Chef 的主要工作場所都在廚房,而非餐廳。 Maitre d' Hotel 的主要工作場所在餐廳內進行客人的接待和安排座位等工作。 Sommelier 的主要工作場所也在餐廳,負責酒單的推薦和服務。 Sous Chef 的主要工作場所在廚房,與其他職位的主要工作場所不同。",
+    "sequence": 46,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

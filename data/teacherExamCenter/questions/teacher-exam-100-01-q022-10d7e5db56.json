@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q022-10d7e5db56",
     "sourceYear": 100,
@@ -31,51 +31,81 @@
       }
     ],
     "answer": "B",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責 24]",
+    "conceptId": "foodservice-f1a7f6d949",
+    "conceptLabel": "餐廳服務人員的組織與工作職責 24",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "source": "reference-book-rag",
+        "chapter": "第一章 餐廳服務基本觀念",
+        "locator": "第三節餐廳服務人員的組織與工作職責 24",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責 24]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（重用）。全華單元無法承接，因為涉及具體人物和歷史事件，而AI生成的單元更適用于概念性問題。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】餐飲服務技術 / 餐廳組織與服務人員職掌 / 傳統餐廳職稱階層。全華單元無法承接,因為涉及具體人物和歷史事件,而AI生成的單元更適用于概念性問題。 【分類來源】AI 分類單元,非全華版本(重用) 【核心觀念】西餐發展歷史中最早建立廚房人員編制制度的人物 【詳細解析】本題考核的是西餐發展史上的重要人物及其貢獻。卡雷姆(Antoine Carême)是19世紀法國著名的料理師,他被認為是第一位系統性地組織和管理廚房人員的人。艾思考菲(Auguste Escoffier)雖然也是個重要的人物,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。因此,最早建立廚房人員編制制度的人物是卡雷姆。 【錯誤選項錯在哪】A:卡雷姆(Antoine Carême)被認為是第一位系統性地組織和管理廚房人員的人,他確立了現代西餐廚房的編制制度。 B:艾思考菲(Auguste Escoffier)雖然對西餐發展有重要貢獻,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。 C:費南得波伊特(Fernand Point)是20世紀法國著名的料理師,他對現代法式菜的發展有重要貢獻,但不是最早建立廚房人員編制制度的人物。 D:羅傑佛吉(Roger Vergé)是20世紀法國著名的料理師,他對地中海菜系有重要貢獻,但不是最早建立廚房人員編制制度的人物。 【叮嚀】注意西餐發展史上的重要人物及其貢獻,不要混淆他們的歷史地位和角色。\n\n【選項判斷】A：卡雷姆(Antoine Carême)被認為是第一位系統性地組織和管理廚房人員的人,他確立了現代西餐廚房的編制制度。 B：艾思考菲(Auguste Escoffier)雖然對西餐發展有重要貢獻,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。 C：費南得波伊特(Fernand Point)是20世紀法國著名的料理師,他對現代法式菜的發展有重要貢獻,但不是最早建立廚房人員編制制度的人物。 D：羅傑佛吉(Roger Vergé)是20世紀法國著名的料理師,他對地中海菜系有重要貢獻,但不是最早建立廚房人員編制制度的人物。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念，定位：第三節餐廳服務人員的組織與工作職責 24；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "卡雷姆(Antoine Carême)被認為是第一位系統性地組織和管理廚房人員的人,他確立了現代西餐廚房的編制制度。"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "艾思考菲(Auguste Escoffier)雖然對西餐發展有重要貢獻,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "費南得波伊特(Fernand Point)是20世紀法國著名的料理師,他對現代法式菜的發展有重要貢獻,但不是最早建立廚房人員編制制度的人物。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "羅傑佛吉(Roger Vergé)是20世紀法國著名的料理師,他對地中海菜系有重要貢獻,但不是最早建立廚房人員編制制度的人物。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第三節餐廳服務人員的組織與工作職責 24",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "needs-classification-review"
+      "ai-classification-unit"
     ],
-    "searchText": "西餐發展歷史中，最早建立廚房人員編制制度的人物是： 卡雷姆（Antoine Carême） 艾思考菲（Auguste Escoffier） 費南得波伊特（Fernand Point） 羅傑佛吉（Roger Vergé）。 其他：待人工審核 待人工審核",
-    "sequence": 119
+    "searchText": "西餐發展歷史中,最早建立廚房人員編制制度的人物是: 卡雷姆(Antoine Carême) 艾思考菲(Auguste Escoffier) 費南得波伊特(Fernand Point) 羅傑佛吉(Roger Vergé)。 餐飲服務技術 [第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責 24] 餐廳服務人員的組織與工作職責 24 【問題分類】餐飲服務技術 / 餐廳組織與服務人員職掌 / 傳統餐廳職稱階層。全華單元無法承接,因為涉及具體人物和歷史事件,而AI生成的單元更適用于概念性問題。 【分類來源】AI 分類單元,非全華版本(重用) 【核心觀念】西餐發展歷史中最早建立廚房人員編制制度的人物 【詳細解析】本題考核的是西餐發展史上的重要人物及其貢獻。卡雷姆(Antoine Carême)是19世紀法國著名的料理師,他被認為是第一位系統性地組織和管理廚房人員的人。艾思考菲(Auguste Escoffier)雖然也是個重要的人物,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。因此,最早建立廚房人員編制制度的人物是卡雷姆。 【錯誤選項錯在哪】A:卡雷姆(Antoine Carême)被認為是第一位系統性地組織和管理廚房人員的人,他確立了現代西餐廚房的編制制度。 B:艾思考菲(Auguste Escoffier)雖然對西餐發展有重要貢獻,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。 C:費南得波伊特(Fernand Point)是20世紀法國著名的料理師,他對現代法式菜的發展有重要貢獻,但不是最早建立廚房人員編制制度的人物。 D:羅傑佛吉(Roger Vergé)是20世紀法國著名的料理師,他對地中海菜系有重要貢獻,但不是最早建立廚房人員編制制度的人物。 【叮嚀】注意西餐發展史上的重要人物及其貢獻,不要混淆他們的歷史地位和角色。 【選項判斷】A:卡雷姆(Antoine Carême)被認為是第一位系統性地組織和管理廚房人員的人,他確立了現代西餐廚房的編制制度。 B:艾思考菲(Auguste Escoffier)雖然對西餐發展有重要貢獻,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。 C:費南得波伊特(Fernand Point)是20世紀法國著名的料理師,他對現代法式菜的發展有重要貢獻,但不是最早建立廚房人員編制制度的人物。 D:羅傑佛吉(Roger Vergé)是20世紀法國著名的料理師,他對地中海菜系有重要貢獻,但不是最早建立廚房人員編制制度的人物。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第三節餐廳服務人員的組織與工作職責 24;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 卡雷姆(Antoine Carême)被認為是第一位系統性地組織和管理廚房人員的人,他確立了現代西餐廚房的編制制度。 艾思考菲(Auguste Escoffier)雖然對西餐發展有重要貢獻,但他是在卡雷姆的基礎上進一步發展和完善了現代西餐廚房組織結構。 費南得波伊特(Fernand Point)是20世紀法國著名的料理師,他對現代法式菜的發展有重要貢獻,但不是最早建立廚房人員編制制度的人物。 羅傑佛吉(Roger Vergé)是20世紀法國著名的料理師,他對地中海菜系有重要貢獻,但不是最早建立廚房人員編制制度的人物。",
+    "sequence": 119,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-reused",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

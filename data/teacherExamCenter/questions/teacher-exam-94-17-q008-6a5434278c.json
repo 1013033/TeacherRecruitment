@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q008-6a5434278c",
     "sourceYear": 94,
@@ -32,50 +32,74 @@
     ],
     "answer": "A",
     "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅概論",
-    "unit": "觀光餐旅基礎",
-    "conceptId": "tourism-hospitality-fundamentals",
-    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第六章 觀光餐旅相關產業] - [第六章 觀光餐旅相關產業]",
+    "conceptId": "tourism-hospitality-d2343ec2f8",
+    "conceptLabel": "第六章 觀光餐旅相關產業",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "qili-tourism-hospitality-practice",
-        "note": "命中關鍵詞：觀光、行銷、tourism、mice"
+        "source": "reference-book-rag",
+        "chapter": "第六章 觀光餐旅相關產業",
+        "locator": "第六章 觀光餐旅相關產業",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第六章 觀光餐旅相關產業] - [第六章 觀光餐旅相關產業]」。"
+      },
+      {
+        "source": "manual",
+        "chapter": "第六章 觀光餐旅相關產業",
+        "note": "MICE產業的定義。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "根據《觀光餐旅業導論》第六章 觀光餐旅相關產業-會議展覽業(頁406),「MICE」為會議(Meetings)、獎勵旅遊(Incentives)、大型會議(Conventions/Conferences)、展覽(Exhibitions)四個英文字的縮寫。因此 MICE 產業不包含「大眾觀光」(Mass tourism)。故選A。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A」。 B：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論》第六章 觀光餐旅相關產業，定位：第六章 觀光餐旅相關產業（頁 0）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「A」。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第六章 觀光餐旅相關產業",
+          "locator": "第六章 觀光餐旅相關產業",
+          "note": "參考書 OCR 估算 頁 0"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "觀光局政策白皮書在「針對目標市場研擬配套行銷措施」策略中提到：「鎖定 MICE 為目標市場」，其概念係以 inbound 會議及商務旅遊為主，不包括下列何者？ 大眾觀光(Masstourism) 獎勵旅遊(Incentive) 大型會議(Conference) 展演(Exhibition)。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "觀光局政策白皮書在「針對目標市場研擬配套行銷措施」策略中提到:「鎖定 MICE 為目標市場」,其概念係以 inbound 會議及商務旅遊為主,不包括下列何者? 大眾觀光(Masstourism) 獎勵旅遊(Incentive) 大型會議(Conference) 展演(Exhibition)。 觀光餐旅業導論 [第六章 觀光餐旅相關產業] - [第六章 觀光餐旅相關產業] 第六章 觀光餐旅相關產業 根據《觀光餐旅業導論》第六章 觀光餐旅相關產業-會議展覽業(頁406),「MICE」為會議(Meetings)、獎勵旅遊(Incentives)、大型會議(Conventions/Conferences)、展覽(Exhibitions)四個英文字的縮寫。因此 MICE 產業不包含「大眾觀光」(Mass tourism)。故選A。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業(頁 0);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。",
     "sequence": 2534
   }
 }

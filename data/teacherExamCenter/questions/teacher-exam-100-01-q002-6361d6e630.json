@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q002-6361d6e630",
     "sourceYear": 100,
@@ -33,49 +33,82 @@
     "answer": "C",
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "酒類與葡萄酒",
-    "conceptId": "wine-and-spirits",
-    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "unit": "[第五章 咖啡的認識與調製] - [咖啡豆、烘焙、萃取與調製]",
+    "conceptId": "beverage-d504853798",
+    "conceptLabel": "咖啡豆、烘焙、萃取與調製",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chwa-beverage-practice",
-        "note": "命中關鍵詞：beaujolais"
+        "source": "unit-cleanup",
+        "chapter": "第五章 咖啡的認識與調製",
+        "locator": "咖啡豆、烘焙、萃取與調製",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第六章 酒的分類與製程] - [第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製]"
+      },
+      {
+        "source": "reference-book-rag",
+        "chapter": "第六章 酒的分類與製程",
+        "locator": "第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第六章 酒的分類與製程] - [第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製]」。"
+      },
+      {
+        "source": "manual",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。題目涉及葡萄酒的相關知識，特別是甜味雪莉酒的特性。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / (2) 甜味雪莉酒 (Sweet Sherry)。題目涉及葡萄酒的相關知識,特別是甜味雪莉酒的特性。 【分類來源】全華/人工分類單元 【核心觀念】Beaujolais Nouveau 【詳細解析】正確答案為 C(甲丙)。甲、採用佳美(Gamay)葡萄釀造:這是 Beaujolais Nouveau 的特點之一。乙、每年上市日期為十一月第二個星期四:這項敘述不正確,Beaujolais Nouveau 通常在葡萄收成後的第 13 周內上市,即每年 11 月第三個星期三。丙、須趁新鮮飲用完畢的酒:這是 Beaujolais Nouveau 的另一個特點,因為它經過二氧化碳浸泡法(Carbonic Maceration)發酵,單寧含量較低,因此建議盡快飲用以保持其清新口感。丁、採用二氧化碳浸泡法(Carbonic Maceration)發酵,故單寧萃取量較低:這項敘述正確。 【錯誤選項錯在哪】A:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 修正說法:乙、每年上市日期為十一月第三個星期三。 B:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 修正說法:乙、每年上市日期為十一月第三個星期三。 C:甲和丙項正確,而丁項也正確但未被選中。 修正說法:無需修正。 D:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 修正說法:乙、每年上市日期為十一月第三個星期三。 【叮嚀】提醒考生注意 Beaujolais Nouveau 的上市日期和其特點,特別是二氧化碳浸泡法發酵的特性。\n\n【選項判斷】A：乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 B：乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 C：甲和丙項正確,而丁項也正確但未被選中。 D：乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。\n\n【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程，定位：第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製（頁 199）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。",
+          "correctedStatement": "乙、每年上市日期為十一月第三個星期三。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。",
+          "correctedStatement": "乙、每年上市日期為十一月第三個星期三。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "甲和丙項正確,而丁項也正確但未被選中。",
+          "correctedStatement": "無需修正。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。",
+          "correctedStatement": "乙、每年上市日期為十一月第三個星期三。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "飲料實務",
+          "chapter": "第五章 咖啡的認識與調製",
+          "locator": "咖啡豆、烘焙、萃取與調製",
+          "note": "清理後的飲料實務章節定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T14:04:31.422Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "以下有關「Beaujolais Nouveau」之敘述，何者為正確？甲、採用佳美（Gamay）葡萄釀造。乙、每年上市日期為十一月第二個星期四。丙、須趁新鮮飲用完畢的酒。丁、採用二氧化碳浸泡法（Carbonic Maceration）發酵，故單寧萃取量較低。 甲乙丙 甲乙丁 甲丙丁 甲丙。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "以下有關「Beaujolais Nouveau」之敘述,何者為正確?甲、採用佳美(Gamay)葡萄釀造。乙、每年上市日期為十一月第二個星期四。丙、須趁新鮮飲用完畢的酒。丁、採用二氧化碳浸泡法(Carbonic Maceration)發酵,故單寧萃取量較低。 甲乙丙 甲乙丁 甲丙丁 甲丙。 飲料實務 [第五章 咖啡的認識與調製] - [咖啡豆、烘焙、萃取與調製] 咖啡豆、烘焙、萃取與調製 【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / (2) 甜味雪莉酒 (Sweet Sherry)。題目涉及葡萄酒的相關知識,特別是甜味雪莉酒的特性。 【分類來源】全華/人工分類單元 【核心觀念】Beaujolais Nouveau 【詳細解析】正確答案為 C(甲丙)。甲、採用佳美(Gamay)葡萄釀造:這是 Beaujolais Nouveau 的特點之一。乙、每年上市日期為十一月第二個星期四:這項敘述不正確,Beaujolais Nouveau 通常在葡萄收成後的第 13 周內上市,即每年 11 月第三個星期三。丙、須趁新鮮飲用完畢的酒:這是 Beaujolais Nouveau 的另一個特點,因為它經過二氧化碳浸泡法(Carbonic Maceration)發酵,單寧含量較低,因此建議盡快飲用以保持其清新口感。丁、採用二氧化碳浸泡法(Carbonic Maceration)發酵,故單寧萃取量較低:這項敘述正確。 【錯誤選項錯在哪】A:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 修正說法:乙、每年上市日期為十一月第三個星期三。 B:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 修正說法:乙、每年上市日期為十一月第三個星期三。 C:甲和丙項正確,而丁項也正確但未被選中。 修正說法:無需修正。 D:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 修正說法:乙、每年上市日期為十一月第三個星期三。 【叮嚀】提醒考生注意 Beaujolais Nouveau 的上市日期和其特點,特別是二氧化碳浸泡法發酵的特性。 【選項判斷】A:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 B:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 C:甲和丙項正確,而丁項也正確但未被選中。 D:乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。 甲和丙項正確,而丁項也正確但未被選中。 乙項不正確,Beaujolais Nouveau 的上市日期通常是每年 11 月第三個星期三。",
     "sequence": 2
   }
 }

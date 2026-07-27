@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q018-02d326143d",
     "sourceYear": 100,
@@ -33,47 +33,79 @@
     "answer": "A",
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "酒類與葡萄酒",
-    "conceptId": "wine-and-spirits",
-    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "unit": "[第一章 飲務的作業規範] - [飲料的定義與分類]",
+    "conceptId": "beverage-35e7bb6299",
+    "conceptLabel": "飲料的定義與分類",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chwa-beverage-practice",
-        "note": "命中關鍵詞：葡萄酒"
+        "source": "reference-book-rag",
+        "chapter": "第一章 飲務的作業規範",
+        "locator": "第一節飲料的定義與分類",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料的定義與分類]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。題目涉及葡萄酒產區標示規範，屬於飲料實務單元中的核心概念。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】飲料實務 / AVA(American Viticultural Area)規範 / AVA(American Viticultural Area)規範。題目涉及葡萄酒產區標示規範,屬於飲料實務單元中的核心概念。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】AVA(American Viticultural Area)規範 【詳細解析】標示有 AVA 的美國葡萄酒,即表示其使用的葡萄品種必需至少有 75% 出自酒標上標示的產區。這是為了確保葡萄酒品質和產地真實性而設立的規定。 【錯誤選項錯在哪】A:此選項正確,因為根據AVA規範,標示有AVA的美國葡萄酒至少需要75%的葡萄出自標示產區。 B:此選項錯誤,80%的比例不符合AVA規範的要求。 C:此選項錯誤,85%的比例也不符合AVA規範的要求。 D:此選項錯誤,90%的比例不符合AVA規範的要求。 【叮嚀】注意AVA規範的具體比例要求,避免混淆其他相似但不正確的比例。\n\n【選項判斷】A：此選項正確,因為根據AVA規範,標示有AVA的美國葡萄酒至少需要75%的葡萄出自標示產區。 B：此選項錯誤,80%的比例不符合AVA規範的要求。 C：此選項錯誤,85%的比例也不符合AVA規範的要求。 D：此選項錯誤,90%的比例不符合AVA規範的要求。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第一節飲料的定義與分類；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項正確,因為根據AVA規範,標示有AVA的美國葡萄酒至少需要75%的葡萄出自標示產區。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項錯誤,80%的比例不符合AVA規範的要求。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項錯誤,85%的比例也不符合AVA規範的要求。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項錯誤,90%的比例不符合AVA規範的要求。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一節飲料的定義與分類",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [],
-    "searchText": "標示有 AVA（American Viticultural Area）的美國葡萄酒，即表示其使用的葡萄品種必需有多少比例出自酒標上標示的產區？ 75% 80% 85% 90%。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
-    "sequence": 84
+    "reviewStatus": "approved",
+    "flags": [
+      "ai-classification-unit"
+    ],
+    "searchText": "標示有 AVA(American Viticultural Area)的美國葡萄酒,即表示其使用的葡萄品種必需有多少比例出自酒標上標示的產區? 75% 80% 85% 90%。 飲料實務 [第一章 飲務的作業規範] - [飲料的定義與分類] 飲料的定義與分類 【問題分類】飲料實務 / AVA(American Viticultural Area)規範 / AVA(American Viticultural Area)規範。題目涉及葡萄酒產區標示規範,屬於飲料實務單元中的核心概念。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】AVA(American Viticultural Area)規範 【詳細解析】標示有 AVA 的美國葡萄酒,即表示其使用的葡萄品種必需至少有 75% 出自酒標上標示的產區。這是為了確保葡萄酒品質和產地真實性而設立的規定。 【錯誤選項錯在哪】A:此選項正確,因為根據AVA規範,標示有AVA的美國葡萄酒至少需要75%的葡萄出自標示產區。 B:此選項錯誤,80%的比例不符合AVA規範的要求。 C:此選項錯誤,85%的比例也不符合AVA規範的要求。 D:此選項錯誤,90%的比例不符合AVA規範的要求。 【叮嚀】注意AVA規範的具體比例要求,避免混淆其他相似但不正確的比例。 【選項判斷】A:此選項正確,因為根據AVA規範,標示有AVA的美國葡萄酒至少需要75%的葡萄出自標示產區。 B:此選項錯誤,80%的比例不符合AVA規範的要求。 C:此選項錯誤,85%的比例也不符合AVA規範的要求。 D:此選項錯誤,90%的比例不符合AVA規範的要求。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一節飲料的定義與分類;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項正確,因為根據AVA規範,標示有AVA的美國葡萄酒至少需要75%的葡萄出自標示產區。 此選項錯誤,80%的比例不符合AVA規範的要求。 此選項錯誤,85%的比例也不符合AVA規範的要求。 此選項錯誤,90%的比例不符合AVA規範的要求。",
+    "sequence": 84,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

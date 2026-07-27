@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q029-d99aade7c6",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "C",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第三章 餐飲業] - [第三章 餐飲業]",
+    "conceptId": "tourism-hospitality-cb853fdcef",
+    "conceptLabel": "第三章 餐飲業",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第三章 餐飲業",
+        "locator": "第三章 餐飲業",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第三章 餐飲業] - [第三章 餐飲業]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "chapter": "導遊與觀光資源概要",
+        "locator": "台灣原住民文化",
+        "note": "打耳祭為布農族的代表祭典。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "打耳祭(Malahtangia,或稱射耳祭)是台灣原住民族中「布農族」最重要的傳統祭典之一。祭典主要由男性參與,透過射擊鹿的耳朵來傳承狩獵技巧,並祈求來年狩獵豐收與家族平安。\n\n【選項判斷】A：魯凱族最著名的祭典為小米收穫祭、黑米祭。 B：泰雅族最著名的祭典為祖靈祭。 C：此選項符合題幹所問的正確答案「C」。 D：阿美族最著名的傳統祭典為豐年祭。\n\n【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "魯凱族最著名的祭典為小米收穫祭、黑米祭。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "泰雅族最著名的祭典為祖靈祭。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「C」。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "阿美族最著名的傳統祭典為豐年祭。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第三章 餐飲業",
+          "locator": "第三章 餐飲業",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "打耳祭是 魯凱族 泰雅族 布農族 阿美族的傳統祭典 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "打耳祭是 魯凱族 泰雅族 布農族 阿美族的傳統祭典 觀光餐旅業導論 [第三章 餐飲業] - [第三章 餐飲業] 第三章 餐飲業 打耳祭(Malahtangia,或稱射耳祭)是台灣原住民族中「布農族」最重要的傳統祭典之一。祭典主要由男性參與,透過射擊鹿的耳朵來傳承狩獵技巧,並祈求來年狩獵豐收與家族平安。 【選項判斷】A:魯凱族最著名的祭典為小米收穫祭、黑米祭。 B:泰雅族最著名的祭典為祖靈祭。 C:此選項符合題幹所問的正確答案「C」。 D:阿美族最著名的傳統祭典為豐年祭。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 魯凱族最著名的祭典為小米收穫祭、黑米祭。 泰雅族最著名的祭典為祖靈祭。 此選項符合題幹所問的正確答案「C」。 阿美族最著名的傳統祭典為豐年祭。",
     "sequence": 2604
   }
 }

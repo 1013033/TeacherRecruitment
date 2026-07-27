@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-refbook-64e7696494",
+  "concept": {
+    "id": "foodservice-b0d7a20a76",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第九章 飲料服務] - [第九章 飲料服務]",
+    "label": "第九章 飲料服務",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-110-11-q028-30df7ea2f1"
+    ],
+    "years": [
+      110
+    ],
+    "publisherBasis": [
+      {
+        "source": "reference-book-rag",
+        "chapter": "第九章 飲料服務",
+        "locator": "第九章 飲料服務",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第九章 飲料服務] - [第九章 飲料服務]」。"
+      },
+      {
+        "source": "manual",
+        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+      }
+    ],
+    "reviewStatus": "approved",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-110-11-q028-30df7ea2f1",
+      "sourceYear": 110,
+      "sourceLabel": "110 年第 28 題",
+      "sourceFile": "110餐旅群教師甄試合併檔 (列印) 6頁.md",
+      "sourceLocator": "110餐旅群教師甄試合併檔 (列印) 6頁.md#offset-4197",
+      "paperTitle": "未標示試卷",
+      "schoolName": "未標示學校",
+      "questionNumber": 28,
+      "questionType": "single-choice",
+      "prompt": "Room Service指旅館針對住宿房客所提供之餐食及飲料服務，關於下列敘述，何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "通常為24小時服務，用餐場所在顧客房內，一般以早餐及飲料服務為主"
+        },
+        {
+          "id": "B",
+          "text": "服務程序：接受點餐 > 登記叫餐 > 備餐 > 送餐服務 > 餐點入帳 > 收拾"
+        },
+        {
+          "id": "C",
+          "text": "根據房客填寫Door Hanger或Room Service Menu完成點餐"
+        },
+        {
+          "id": "D",
+          "text": "服務員隸屬房務部，使用大型托盤或Room Service Wagon完成服務。"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[第九章 飲料服務] - [第九章 飲料服務]",
+      "conceptId": "foodservice-b0d7a20a76",
+      "conceptLabel": "第九章 飲料服務",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "reference-book-rag",
+          "chapter": "第九章 飲料服務",
+          "locator": "第九章 飲料服務",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第九章 飲料服務] - [第九章 飲料服務]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第九章 飲料服務] - [第九章 飲料服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 D：此選項符合題幹所問的正確答案「D」。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第九章 飲料服務，定位：第九章 飲料服務（頁 47）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「D」。"
+          }
+        ],
+        "references": [
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第九章 飲料服務",
+            "locator": "第九章 飲料服務",
+            "note": "參考書 OCR 估算 頁 47"
+          },
+          {
+            "source": "飲料實務",
+            "chapter": "第一章 飲務的作業規範",
+            "locator": "第一章 飲務的作業規範",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T13:23:21.149Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "Room Service指旅館針對住宿房客所提供之餐食及飲料服務,關於下列敘述,何者錯誤? 通常為24小時服務,用餐場所在顧客房內,一般以早餐及飲料服務為主 服務程序:接受點餐 > 登記叫餐 > 備餐 > 送餐服務 > 餐點入帳 > 收拾 根據房客填寫Door Hanger或Room Service Menu完成點餐 服務員隸屬房務部,使用大型托盤或Room Service Wagon完成服務。 餐飲服務技術 [第九章 飲料服務] - [第九章 飲料服務] 第九章 飲料服務 本題依題幹與選項判斷,核心考點落在「[第九章 飲料服務] - [第九章 飲料服務]」。標準答案為「D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 D:此選項符合題幹所問的正確答案「D」。 【參考書依據】主要參考《111年6月餐飲服務技術》第九章 飲料服務,定位:第九章 飲料服務(頁 47);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。",
+      "sequence": 1667
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q015-bba451531f",
     "sourceYear": 100,
@@ -31,51 +31,78 @@
       }
     ],
     "answer": "B",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第一章 餐廳服務基本觀念] - [第一章 餐廳服務基本觀念]",
+    "conceptId": "foodservice-fa17c420a6",
+    "conceptLabel": "第一章 餐廳服務基本觀念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 餐廳服務基本觀念",
+        "locator": "第一章 餐廳服務基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第一章 餐廳服務基本觀念] - [第一章 餐廳服務基本觀念]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。Floor Lamp 這個詞彙在全華單元中並未直接提及，因此需要人工審核以確認是否屬於此概念。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】餐飲服務技術 / 第一章:餐廳服務基本觀念(自我評量分類) / 法式餐廳情境應用與餐飲商品/設施分類辨別。Floor Lamp 這個詞彙在全華單元中並未直接提及,因此需要人工審核以確認是否屬於此概念。 【分類來源】全華/人工分類單元 【核心觀念】Floor Lamp 是哪一種燈? 【詳細解析】Floor Lamp 是立燈。 Floor Lamp 的中文名稱為「立燈」,通常是指安裝在地面或地板上的照明設備,可以自由移動且高度可調。 【錯誤選項錯在哪】A:此選項錯在哪或為何正確。檯燈(Table Lamp)是指放在桌面上的照明設備,通常較小且固定在某個位置。 修正說法:無需修正 B:此選項正確。Floor Lamp 的中文名稱為「立燈」,可以自由移動且高度可調。 修正說法:無需修正 C:此選項錯在哪或為何正確。化妝燈(Makeup Lamp)是指專門用於化妝的照明設備,通常具有柔軟的光源和可調節的角度。 修正說法:無需修正 D:此選項錯在哪或為何正確。衣櫃燈(Closet Lamp)是指安裝在衣櫃內的照明設備,通常較小且固定。 修正說法:無需修正 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無\n\n【選項判斷】A：此選項錯在哪或為何正確。檯燈(Table Lamp)是指放在桌面上的照明設備,通常較小且固定在某個位置。 B：此選項正確。Floor Lamp 的中文名稱為「立燈」,可以自由移動且高度可調。 C：此選項錯在哪或為何正確。化妝燈(Makeup Lamp)是指專門用於化妝的照明設備,通常具有柔軟的光源和可調節的角度。 D：此選項錯在哪或為何正確。衣櫃燈(Closet Lamp)是指安裝在衣櫃內的照明設備,通常較小且固定。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念，定位：第一章 餐廳服務基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項錯在哪或為何正確。檯燈(Table Lamp)是指放在桌面上的照明設備,通常較小且固定在某個位置。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項正確。Floor Lamp 的中文名稱為「立燈」,可以自由移動且高度可調。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項錯在哪或為何正確。化妝燈(Makeup Lamp)是指專門用於化妝的照明設備,通常具有柔軟的光源和可調節的角度。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項錯在哪或為何正確。衣櫃燈(Closet Lamp)是指安裝在衣櫃內的照明設備,通常較小且固定。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "Floor Lamp 是哪一種燈？ 檯燈 立燈 化妝燈 衣櫃燈。 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "Floor Lamp 是哪一種燈? 檯燈 立燈 化妝燈 衣櫃燈。 餐飲服務技術 [第一章 餐廳服務基本觀念] - [第一章 餐廳服務基本觀念] 第一章 餐廳服務基本觀念 【問題分類】餐飲服務技術 / 第一章:餐廳服務基本觀念(自我評量分類) / 法式餐廳情境應用與餐飲商品/設施分類辨別。Floor Lamp 這個詞彙在全華單元中並未直接提及,因此需要人工審核以確認是否屬於此概念。 【分類來源】全華/人工分類單元 【核心觀念】Floor Lamp 是哪一種燈? 【詳細解析】Floor Lamp 是立燈。 Floor Lamp 的中文名稱為「立燈」,通常是指安裝在地面或地板上的照明設備,可以自由移動且高度可調。 【錯誤選項錯在哪】A:此選項錯在哪或為何正確。檯燈(Table Lamp)是指放在桌面上的照明設備,通常較小且固定在某個位置。 修正說法:無需修正 B:此選項正確。Floor Lamp 的中文名稱為「立燈」,可以自由移動且高度可調。 修正說法:無需修正 C:此選項錯在哪或為何正確。化妝燈(Makeup Lamp)是指專門用於化妝的照明設備,通常具有柔軟的光源和可調節的角度。 修正說法:無需修正 D:此選項錯在哪或為何正確。衣櫃燈(Closet Lamp)是指安裝在衣櫃內的照明設備,通常較小且固定。 修正說法:無需修正 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無 【選項判斷】A:此選項錯在哪或為何正確。檯燈(Table Lamp)是指放在桌面上的照明設備,通常較小且固定在某個位置。 B:此選項正確。Floor Lamp 的中文名稱為「立燈」,可以自由移動且高度可調。 C:此選項錯在哪或為何正確。化妝燈(Makeup Lamp)是指專門用於化妝的照明設備,通常具有柔軟的光源和可調節的角度。 D:此選項錯在哪或為何正確。衣櫃燈(Closet Lamp)是指安裝在衣櫃內的照明設備,通常較小且固定。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項錯在哪或為何正確。檯燈(Table Lamp)是指放在桌面上的照明設備,通常較小且固定在某個位置。 此選項正確。Floor Lamp 的中文名稱為「立燈」,可以自由移動且高度可調。 此選項錯在哪或為何正確。化妝燈(Makeup Lamp)是指專門用於化妝的照明設備,通常具有柔軟的光源和可調節的角度。 此選項錯在哪或為何正確。衣櫃燈(Closet Lamp)是指安裝在衣櫃內的照明設備,通常較小且固定。",
     "sequence": 112
   }
 }

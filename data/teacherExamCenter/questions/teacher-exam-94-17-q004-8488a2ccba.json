@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q004-8488a2ccba",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "D",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第三章 餐飲業] - [第三章 餐飲業]",
+    "conceptId": "tourism-hospitality-cb853fdcef",
+    "conceptLabel": "第三章 餐飲業",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第三章 餐飲業",
+        "locator": "第三章 餐飲業",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第三章 餐飲業] - [第三章 餐飲業]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "chapter": "第三章",
+        "locator": "觀光餐旅業導論04G71066三校.pdf, p.88",
+        "note": "廚房內部環境控制要素。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "廚房內部環境主要依賴空調設備與抽排風系統來維持最佳狀態,控制的重點包括溫度(維持20~25°C)、氣流(通風與負壓控制)與落塵(清潔與排風)。天氣屬於外部自然現象,無法由廚房內部設備直接控制,亦非內部環境設計的主要變數。\n\n【選項判斷】A：溫度是廚房空調控制的重要內部因素。 B：氣流(通風與排油煙)是廚房環境控制的關鍵。 C：落塵量關係到廚房的衛生及清潔作業區之標準,是內部環境的重要考量。 D：此選項符合題幹所問的正確答案「D」。\n\n【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "溫度是廚房空調控制的重要內部因素。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "氣流(通風與排油煙)是廚房環境控制的關鍵。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "落塵量關係到廚房的衛生及清潔作業區之標準,是內部環境的重要考量。"
         },
         {
           "optionId": "D",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「D」。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第三章 餐飲業",
+          "locator": "第三章 餐飲業",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "影響廚房內部環境的主要因素，不包含？ 溫度 氣流 落塵 天氣 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "影響廚房內部環境的主要因素,不包含? 溫度 氣流 落塵 天氣 觀光餐旅業導論 [第三章 餐飲業] - [第三章 餐飲業] 第三章 餐飲業 廚房內部環境主要依賴空調設備與抽排風系統來維持最佳狀態,控制的重點包括溫度(維持20~25°C)、氣流(通風與負壓控制)與落塵(清潔與排風)。天氣屬於外部自然現象,無法由廚房內部設備直接控制,亦非內部環境設計的主要變數。 【選項判斷】A:溫度是廚房空調控制的重要內部因素。 B:氣流(通風與排油煙)是廚房環境控制的關鍵。 C:落塵量關係到廚房的衛生及清潔作業區之標準,是內部環境的重要考量。 D:此選項符合題幹所問的正確答案「D」。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 溫度是廚房空調控制的重要內部因素。 氣流(通風與排油煙)是廚房環境控制的關鍵。 落塵量關係到廚房的衛生及清潔作業區之標準,是內部環境的重要考量。 此選項符合題幹所問的正確答案「D」。",
     "sequence": 2579
   }
 }

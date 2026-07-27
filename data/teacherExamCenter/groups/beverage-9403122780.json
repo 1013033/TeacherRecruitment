@@ -1,0 +1,971 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-refbook-64e7696494",
+  "concept": {
+    "id": "beverage-9403122780",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+    "label": "飲料調製的方法",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-100-01-q016-2115cfca4c",
+      "teacher-exam-104-05-q011-6378a88ca5",
+      "teacher-exam-106-07-q001-94553592a8",
+      "teacher-exam-106-07-q085-ef8229cec4",
+      "teacher-exam-109-10-q014-90fa22af06",
+      "teacher-exam-114-15-q018-c22918e999",
+      "teacher-exam-94-17-q025-0495553464",
+      "teacher-exam-97-19-q045-95e9ebe741",
+      "teacher-exam-97-19-q056-29132ebb34"
+    ],
+    "years": [
+      114,
+      109,
+      106,
+      104,
+      100,
+      97,
+      94
+    ],
+    "publisherBasis": [
+      {
+        "source": "unit-cleanup",
+        "chapter": "第二章 器具、材料與調製法",
+        "locator": "飲料調製的方法",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+      },
+      {
+        "source": "reference-book-rag",
+        "chapter": "第一章 飲務的作業規範",
+        "locator": "第三節飲料調製的方法 72",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+      },
+      {
+        "source": "manual",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：待人工審核。本題涉及雞尾酒調製方法，與「Layer」調製法無關。"
+      }
+    ],
+    "reviewStatus": "approved",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-100-01-q016-2115cfca4c",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 16 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-5935",
+      "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "下列哪一種雞尾酒的調製方法不是使用「Layer」來調製？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pousse Café"
+        },
+        {
+          "id": "B",
+          "text": "B52 Bomber"
+        },
+        {
+          "id": "C",
+          "text": "Kir Royal"
+        },
+        {
+          "id": "D",
+          "text": "Rainbow。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：待人工審核。本題涉及雞尾酒調製方法，與「Layer」調製法無關。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：Pousse Café 使用 Layer 方法將不同顏色的液體層層疊加。 B：B52 Bomber 也使用 Layer 方法,將咖啡利口酒和威士忌分層。 C：Kir Royal 是一種以白蘭地和香檳混合而成的雞尾酒,並不是通過 Layer 方法來調製。 D：Rainbow 使用 Layer 方法將不同顏色的液體層層疊加。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "Pousse Café 使用 Layer 方法將不同顏色的液體層層疊加。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "B52 Bomber 也使用 Layer 方法,將咖啡利口酒和威士忌分層。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "Kir Royal 是一種以白蘭地和香檳混合而成的雞尾酒,並不是通過 Layer 方法來調製。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "Rainbow 使用 Layer 方法將不同顏色的液體層層疊加。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列哪一種雞尾酒的調製方法不是使用「Layer」來調製? Pousse Café B52 Bomber Kir Royal Rainbow。 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:Pousse Café 使用 Layer 方法將不同顏色的液體層層疊加。 B:B52 Bomber 也使用 Layer 方法,將咖啡利口酒和威士忌分層。 C:Kir Royal 是一種以白蘭地和香檳混合而成的雞尾酒,並不是通過 Layer 方法來調製。 D:Rainbow 使用 Layer 方法將不同顏色的液體層層疊加。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Pousse Café 使用 Layer 方法將不同顏色的液體層層疊加。 B52 Bomber 也使用 Layer 方法,將咖啡利口酒和威士忌分層。 Kir Royal 是一種以白蘭地和香檳混合而成的雞尾酒,並不是通過 Layer 方法來調製。 Rainbow 使用 Layer 方法將不同顏色的液體層層疊加。",
+      "sequence": 41
+    },
+    {
+      "id": "teacher-exam-104-05-q011-6378a88ca5",
+      "sourceYear": 104,
+      "sourceLabel": "104 年第 11 題",
+      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
+      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-1698",
+      "paperTitle": "未標示試卷",
+      "schoolName": "未標示學校",
+      "questionNumber": 11,
+      "questionType": "single-choice",
+      "prompt": "有關調製雞尾酒的基酒與方法，下列敘述何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapore Sling: Gin、Building"
+        },
+        {
+          "id": "B",
+          "text": "New York: Bourbon Whiskey、Stirring"
+        },
+        {
+          "id": "C",
+          "text": "Rusty Nail: Scotch Whisky、Building"
+        },
+        {
+          "id": "D",
+          "text": "Daiquiri: Vodka、Blending。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "有關調製雞尾酒的基酒與方法,下列敘述何者正確? Singapore Sling: Gin、Building New York: Bourbon Whiskey、Stirring Rusty Nail: Scotch Whisky、Building Daiquiri: Vodka、Blending。 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 587
+    },
+    {
+      "id": "teacher-exam-106-07-q001-94553592a8",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 1 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-13059",
+      "paperTitle": "第三部分：請將以下專業名詞翻譯成中文（每題 1 分，共 20 分）",
+      "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "Virgin Drinks：處女飲料 / 無酒精雞尾酒",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "Virgin Drinks:處女飲料 / 無酒精雞尾酒 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 1153
+    },
+    {
+      "id": "teacher-exam-106-07-q085-ef8229cec4",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 85 題",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-24455",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+      "questionNumber": 85,
+      "questionType": "single-choice",
+      "prompt": "夏威夷雞尾酒四大極品之一的「Scorpion」其調製方法為？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shake"
+        },
+        {
+          "id": "B",
+          "text": "Stir"
+        },
+        {
+          "id": "C",
+          "text": "Build"
+        },
+        {
+          "id": "D",
+          "text": "Blend。"
+        }
+      ],
+      "answer": "D",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。 D：此選項符合題幹所問的正確答案「D」。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「D」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「D」。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "夏威夷雞尾酒四大極品之一的「Scorpion」其調製方法為? Shake Stir Build Blend。 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 D:此選項符合題幹所問的正確答案「D」。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。",
+      "sequence": 1263
+    },
+    {
+      "id": "teacher-exam-109-10-q014-90fa22af06",
+      "sourceYear": 109,
+      "sourceLabel": "109 年第 14 題",
+      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-8257",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+      "questionNumber": 14,
+      "questionType": "single-choice",
+      "prompt": "有關調製雞尾酒的基酒與方法，下列敘述何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Singapore Sling: Gin、Building"
+        },
+        {
+          "id": "B",
+          "text": "New York: Bourbon Whiskey、Stirring"
+        },
+        {
+          "id": "C",
+          "text": "Rusty Nail: Scotch Whisky、Building"
+        },
+        {
+          "id": "D",
+          "text": "Daiquiri: Vodka、Blending。"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "有關調製雞尾酒的基酒與方法,下列敘述何者正確? Singapore Sling: Gin、Building New York: Bourbon Whiskey、Stirring Rusty Nail: Scotch Whisky、Building Daiquiri: Vodka、Blending。 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 1585
+    },
+    {
+      "id": "teacher-exam-114-15-q018-c22918e999",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 18 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-4572",
+      "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+      "schoolName": "114年公立高級中等學校教師甄選",
+      "questionNumber": 18,
+      "questionType": "single-choice",
+      "prompt": "下列關於日本料理用餐禮儀及食用方法之敘述，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "小酒杯的持用男女不同，男性以雙手持杯，女性以單手持杯"
+        },
+        {
+          "id": "B",
+          "text": "先付通常以冷食 居多，食用時通常從左側開始品嚐再右側，最後再食用中間"
+        },
+        {
+          "id": "C",
+          "text": "吸物是指味噌湯，喝 湯時應以碗就口，先淺嚐湯汁再用筷子挾取湯料食用"
+        },
+        {
+          "id": "D",
+          "text": "蒸物料理有茶碗蒸和土瓶 蒸，茶碗蒸通常以茶壼盛裝，並附有小茶杯。"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「B」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B」。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列關於日本料理用餐禮儀及食用方法之敘述,何者正確? 小酒杯的持用男女不同,男性以雙手持杯,女性以單手持杯 先付通常以冷食 居多,食用時通常從左側開始品嚐再右側,最後再食用中間 吸物是指味噌湯,喝 湯時應以碗就口,先淺嚐湯汁再用筷子挾取湯料食用 蒸物料理有茶碗蒸和土瓶 蒸,茶碗蒸通常以茶壼盛裝,並附有小茶杯。 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2255
+    },
+    {
+      "id": "teacher-exam-94-17-q025-0495553464",
+      "sourceYear": 94,
+      "sourceLabel": "94 年第 25 題",
+      "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+      "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-6232",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionNumber": 25,
+      "questionType": "single-choice",
+      "prompt": "飲用威士忌加冰塊，應使用何種酒杯？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liqueur Glass"
+        },
+        {
+          "id": "B",
+          "text": "Collins Glass"
+        },
+        {
+          "id": "C",
+          "text": "Old Fashioned Glass"
+        },
+        {
+          "id": "D",
+          "text": "Pilsner"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "chapter": "第二章",
+          "locator": "47026-全--1110617 飲料實務.pdf, p.86",
+          "note": "加冰塊飲用烈酒專屬酒杯。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "根據《飲料實務》第86頁的玻璃杯常識說明,當飲用加冰塊的威士忌(Whisky on the Rocks)時,為容納較大的方形冰塊(Lump of Ice)並方便飲用,應使用矮胖且杯底較厚的「古典酒杯」(Old Fashioned Glass)。\n\n【選項判斷】A：Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。 B：Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。 C：古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。 D：Pilsner (皮爾森杯) 用來盛裝啤酒。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "Pilsner (皮爾森杯) 用來盛裝啤酒。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "飲用威士忌加冰塊,應使用何種酒杯? Liqueur Glass Collins Glass Old Fashioned Glass Pilsner 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 根據《飲料實務》第86頁的玻璃杯常識說明,當飲用加冰塊的威士忌(Whisky on the Rocks)時,為容納較大的方形冰塊(Lump of Ice)並方便飲用,應使用矮胖且杯底較厚的「古典酒杯」(Old Fashioned Glass)。 【選項判斷】A:Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。 B:Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。 C:古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。 D:Pilsner (皮爾森杯) 用來盛裝啤酒。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Liqueur Glass (香甜酒杯) 容量極小,約30ml,純飲香甜酒用。 Collins Glass (可林杯) 為細長圓筒杯,用於添加大量碳酸飲料的長飲。 古典酒杯杯口寬且杯底厚,最適合威士忌加冰塊(on the rocks)。 Pilsner (皮爾森杯) 用來盛裝啤酒。",
+      "sequence": 2600
+    },
+    {
+      "id": "teacher-exam-97-19-q045-95e9ebe741",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 45 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-12477",
+      "paperTitle": "未標示試卷",
+      "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+      "questionNumber": 45,
+      "questionType": "single-choice",
+      "prompt": "高球杯飲料屬於長飲飲料，其主要成分為：基酒 + 碳酸飲料或礦泉水。請問它是以下列什麼方法調製而成的？",
+      "options": [
+        {
+          "id": "A",
+          "text": "搖盪法"
+        },
+        {
+          "id": "B",
+          "text": "直接注入法"
+        },
+        {
+          "id": "C",
+          "text": "漂浮法"
+        },
+        {
+          "id": "D",
+          "text": "攪拌法"
+        }
+      ],
+      "answer": "B",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「B」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「B」。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "高球杯飲料屬於長飲飲料,其主要成分為:基酒 + 碳酸飲料或礦泉水。請問它是以下列什麼方法調製而成的? 搖盪法 直接注入法 漂浮法 攪拌法 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2940
+    },
+    {
+      "id": "teacher-exam-97-19-q056-29132ebb34",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 56 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-13316",
+      "paperTitle": "未標示試卷",
+      "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+      "questionNumber": 56,
+      "questionType": "single-choice",
+      "prompt": "下列西餐烹飪方法，何者屬於乾熱法？甲：Braise；乙：Deep-Fry；丙：Sauté；丁：Steam",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲、乙"
+        },
+        {
+          "id": "B",
+          "text": "甲、丙"
+        },
+        {
+          "id": "C",
+          "text": "乙、丙"
+        },
+        {
+          "id": "D",
+          "text": "丙、丁"
+        }
+      ],
+      "answer": "C",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[第二章 器具、材料與調製法] - [飲料調製的方法]",
+      "conceptId": "beverage-9403122780",
+      "conceptLabel": "飲料調製的方法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "unit-cleanup",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的方法",
+          "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [飲料調製的方法 72]"
+        },
+        {
+          "source": "reference-book-rag",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第三節飲料調製的方法 72",
+          "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。"
+        },
+        {
+          "source": "manual",
+          "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 B：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。 C：此選項符合題幹所問的正確答案「C」。 D：此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範，定位：第三節飲料調製的方法 72（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": "此選項符合題幹所問的正確答案「C」。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "此選項不符合題幹所問的正確答案；本題答案為「C」，需回到題幹關鍵詞與教材小節判斷。"
+          }
+        ],
+        "references": [
+          {
+            "source": "飲料實務",
+            "chapter": "第二章 器具、材料與調製法",
+            "locator": "飲料調製的方法",
+            "note": "清理後的飲料實務章節定位"
+          },
+          {
+            "source": "111年6月餐飲服務技術",
+            "chapter": "第一章 餐廳服務基本觀念",
+            "locator": "第一章 餐廳服務基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          },
+          {
+            "source": "觀光餐旅業導論",
+            "chapter": "第一章 觀光餐旅業基本觀念",
+            "locator": "第一章 觀光餐旅業基本觀念",
+            "note": "由參考書章節目錄與題目關鍵詞定位"
+          }
+        ],
+        "updatedAt": "2026-07-27T14:04:31.422Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [],
+      "searchText": "下列西餐烹飪方法,何者屬於乾熱法?甲:Braise;乙:Deep-Fry;丙:Sauté;丁:Steam 甲、乙 甲、丙 乙、丙 丙、丁 飲料實務 [第二章 器具、材料與調製法] - [飲料調製的方法] 飲料調製的方法 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [飲料調製的方法 72]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節飲料調製的方法 72(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。",
+      "sequence": 2951
+    }
+  ]
+}

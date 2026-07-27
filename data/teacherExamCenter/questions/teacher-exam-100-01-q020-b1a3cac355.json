@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q020-b1a3cac355",
     "sourceYear": 100,
@@ -31,49 +31,78 @@
       }
     ],
     "answer": "B",
-    "subject": "culinary",
-    "subjectLabel": "中西餐烹調",
-    "unit": "烹調原理與食材",
-    "conceptId": "culinary-food-production",
-    "conceptLabel": "烹調法、醬汁與食材處理",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第一章 餐廳服務基本觀念] - [客房餐飲服務 (Room Service)(89、91、95、100)]",
+    "conceptId": "foodservice-6a9931d2c0",
+    "conceptLabel": "客房餐飲服務 (Room Service)(89、91、95、100)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 餐廳服務基本觀念",
+        "locator": "第四節客房餐飲服務 (Room Service)(89、91、95、100)",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第一章 餐廳服務基本觀念] - [客房餐飲服務 (Room Service)(89、91、95、100)]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：anchovy"
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。全華單元無法承接，因為題目與提供的主題無直接關係。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】餐飲服務技術 / CH08 餐飲服務英語與特殊服務 / (3)汽車簡餐服務(Drive through Service)。全華單元無法承接,因為題目與提供的主題無直接關係。 【分類來源】全華/人工分類單元 【核心觀念】客人單點煙燻鮭魚時,通常會附上的配料有那些?甲、Tomato 乙 【詳細解析】客人點單煙燻鮭魚時,通常會附上的配料包括Lemon(檸檬)和Onion(洋葱)。Caper(鷹嘴豆)、Anchovy(沙丁魚醃製品)和Tomato(番茄)雖然在其他菜肴中常見,但在煙燻鮭魚這道菜中較少見。因此,正確答案是乙丙丁。 【錯誤選項錯在哪】A:此選項包含Tomato(番茄),在煙燻鮭魚這道菜中較不常見。因此,此選項錯誤。 修正說法:無需修正 B:此選項包含Lemon(檸檬)和Onion(洋葱),這兩種配料在煙燻鮭魚中常見。因此,此選項正確。 修正說法:無需修正 C:此選項包含Onion(洋葱)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 修正說法:無需修正 D:此選項包含Tomato(番茄)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 修正說法:無需修正 【叮嚀】提醒考生注意煙燻鮭魚的常見配料,避免混淆於其他類似菜肴中的配料。\n\n【選項判斷】A：此選項包含Tomato(番茄),在煙燻鮭魚這道菜中較不常見。因此,此選項錯誤。 B：此選項包含Lemon(檸檬)和Onion(洋葱),這兩種配料在煙燻鮭魚中常見。因此,此選項正確。 C：此選項包含Onion(洋葱)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 D：此選項包含Tomato(番茄)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念，定位：第四節客房餐飲服務 (Room Service)(89、91、95、100)（頁 8）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含Tomato(番茄),在煙燻鮭魚這道菜中較不常見。因此,此選項錯誤。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項包含Lemon(檸檬)和Onion(洋葱),這兩種配料在煙燻鮭魚中常見。因此,此選項正確。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含Onion(洋葱)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含Tomato(番茄)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第四節客房餐飲服務 (Room Service)(89、91、95、100)",
+          "note": "參考書 OCR 估算 頁 8"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "客人單點煙燻鮭魚時，通常會附上的配料有那些？甲、Tomato 乙、Lemon 丙、Onion 丁、Caper 戊、Anchovy 甲乙丙 乙丙丁 丙丁戊 甲丙戊。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "searchText": "客人單點煙燻鮭魚時,通常會附上的配料有那些?甲、Tomato 乙、Lemon 丙、Onion 丁、Caper 戊、Anchovy 甲乙丙 乙丙丁 丙丁戊 甲丙戊。 餐飲服務技術 [第一章 餐廳服務基本觀念] - [客房餐飲服務 (Room Service)(89、91、95、100)] 客房餐飲服務 (Room Service)(89、91、95、100) 【問題分類】餐飲服務技術 / CH08 餐飲服務英語與特殊服務 / (3)汽車簡餐服務(Drive through Service)。全華單元無法承接,因為題目與提供的主題無直接關係。 【分類來源】全華/人工分類單元 【核心觀念】客人單點煙燻鮭魚時,通常會附上的配料有那些?甲、Tomato 乙 【詳細解析】客人點單煙燻鮭魚時,通常會附上的配料包括Lemon(檸檬)和Onion(洋葱)。Caper(鷹嘴豆)、Anchovy(沙丁魚醃製品)和Tomato(番茄)雖然在其他菜肴中常見,但在煙燻鮭魚這道菜中較少見。因此,正確答案是乙丙丁。 【錯誤選項錯在哪】A:此選項包含Tomato(番茄),在煙燻鮭魚這道菜中較不常見。因此,此選項錯誤。 修正說法:無需修正 B:此選項包含Lemon(檸檬)和Onion(洋葱),這兩種配料在煙燻鮭魚中常見。因此,此選項正確。 修正說法:無需修正 C:此選項包含Onion(洋葱)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 修正說法:無需修正 D:此選項包含Tomato(番茄)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 修正說法:無需修正 【叮嚀】提醒考生注意煙燻鮭魚的常見配料,避免混淆於其他類似菜肴中的配料。 【選項判斷】A:此選項包含Tomato(番茄),在煙燻鮭魚這道菜中較不常見。因此,此選項錯誤。 B:此選項包含Lemon(檸檬)和Onion(洋葱),這兩種配料在煙燻鮭魚中常見。因此,此選項正確。 C:此選項包含Onion(洋葱)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 D:此選項包含Tomato(番茄)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第四節客房餐飲服務 (Room Service)(89、91、95、100)(頁 8);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項包含Tomato(番茄),在煙燻鮭魚這道菜中較不常見。因此,此選項錯誤。 此選項包含Lemon(檸檬)和Onion(洋葱),這兩種配料在煙燻鮭魚中常見。因此,此選項正確。 此選項包含Onion(洋葱)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。 此選項包含Tomato(番茄)和Anchovy(沙丁魚醃製品),但不包括Lemon(檸檬)。因此,此選項錯誤。",
     "sequence": 20
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-111-12-q040-0725d297b4",
     "sourceYear": 111,
@@ -41,53 +41,78 @@
       "E"
     ],
     "subject": "foodservice",
-    "subjectLabel": "餐飲服務實務",
-    "unit": "餐飲服務與營運",
-    "conceptId": "foodservice-operations",
-    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第二章 餐廳設備與器具] - [第二章 餐廳設備與器具]",
+    "conceptId": "foodservice-76b7511f45",
+    "conceptLabel": "第二章 餐廳設備與器具",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第二章 餐廳設備與器具",
+        "locator": "第二章 餐廳設備與器具",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第二章 餐廳設備與器具] - [第二章 餐廳設備與器具]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：菜單"
+        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第二章 餐廳設備與器具] - [第二章 餐廳設備與器具]」。標準答案為「B、C、D、E」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案；本題答案為「B、C、D、E」，需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B、C、D、E」。 C：此選項符合題幹所問的正確答案「B、C、D、E」。 D：此選項符合題幹所問的正確答案「B、C、D、E」。 E：此選項符合題幹所問的正確答案「B、C、D、E」。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第二章 餐廳設備與器具，定位：第二章 餐廳設備與器具；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「B、C、D、E」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「B、C、D、E」。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「B、C、D、E」。"
         },
         {
           "optionId": "D",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「B、C、D、E」。"
         },
         {
           "optionId": "E",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「B、C、D、E」。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第二章 餐廳設備與器具",
+          "locator": "第二章 餐廳設備與器具",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "下列何者是「循環式菜單」的優點？ 品質穩定度高... (此為固定式菜單優點) 可減少菜單設計的時間 廚房設備能有效運用 食物存貨易於控制 有助於廚師運用標準食譜 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "searchText": "下列何者是「循環式菜單」的優點? 品質穩定度高... (此為固定式菜單優點) 可減少菜單設計的時間 廚房設備能有效運用 食物存貨易於控制 有助於廚師運用標準食譜 餐飲服務技術 [第二章 餐廳設備與器具] - [第二章 餐廳設備與器具] 第二章 餐廳設備與器具 本題依題幹與選項判斷,核心考點落在「[第二章 餐廳設備與器具] - [第二章 餐廳設備與器具]」。標準答案為「B、C、D、E」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B、C、D、E」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B、C、D、E」。 C:此選項符合題幹所問的正確答案「B、C、D、E」。 D:此選項符合題幹所問的正確答案「B、C、D、E」。 E:此選項符合題幹所問的正確答案「B、C、D、E」。 【參考書依據】主要參考《111年6月餐飲服務技術》第二章 餐廳設備與器具,定位:第二章 餐廳設備與器具;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B、C、D、E」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B、C、D、E」。 此選項符合題幹所問的正確答案「B、C、D、E」。 此選項符合題幹所問的正確答案「B、C、D、E」。 此選項符合題幹所問的正確答案「B、C、D、E」。",
     "sequence": 1834
   }
 }

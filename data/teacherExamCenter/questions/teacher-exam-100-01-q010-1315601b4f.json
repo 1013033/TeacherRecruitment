@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q010-1315601b4f",
     "sourceYear": 100,
@@ -33,47 +33,82 @@
     "answer": "B",
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "酒類與葡萄酒",
-    "conceptId": "wine-and-spirits",
-    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "unit": "[第六章 酒的分類與製程] - [蒸餾酒的分類與製程]",
+    "conceptId": "beverage-850ed8c8e7",
+    "conceptLabel": "蒸餾酒的分類與製程",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chwa-beverage-practice",
-        "note": "命中關鍵詞：whisky、vodka、rum"
+        "source": "unit-cleanup",
+        "chapter": "第六章 酒的分類與製程",
+        "locator": "蒸餾酒的分類與製程",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第六章 酒的分類與製程] - [第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製]"
+      },
+      {
+        "source": "reference-book-rag",
+        "chapter": "第六章 酒的分類與製程",
+        "locator": "第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第六章 酒的分類與製程] - [第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製]」。"
+      },
+      {
+        "source": "manual",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。題目涉及Compounded Alcoholic Beverage，但全華單元無法直接對應，故使用AI建立單元"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / (1)釀造酒 (Fermented Alcoholic Beverage)由穀類或水果經酵母發酵熟成而製成。。題目涉及Compounded Alcoholic Beverage,但全華單元無法直接對應,故使用AI建立單元 【分類來源】全華/人工分類單元 【核心觀念】Compounded Alcoholic Beverage(調和酒) 【詳細解析】Compounded Alcoholic Beverage是指由不同種類的酒精飲料混合而成的酒品。在題目中,Cointreau是橙皮利口酒的一种,属于调和酒的一种,因此正确答案为B。Whisky、Vodka和Rum都是单一蒸馏或发酵后直接蒸馏得到的纯烈酒,并不属于Compounded Alcoholic Beverage。 【錯誤選項錯在哪】A:Whisky是單一純麥威士忌,由大麥發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 修正說法:無需修正 B:Cointreau是橙皮利口酒,由威士忌和橙皮等原料調配而成,屬於Compounded Alcoholic Beverage。 修正說法:無需修正 C:Vodka是伏特加,由馬鈴薯或穀物發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 修正說法:無需修正 D:Rum是朗姆酒,由甘蔗汁發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 修正說法:無需修正 【叮嚀】注意區分單一純烈酒和調和酒的定義。\n\n【選項判斷】A：Whisky是單一純麥威士忌,由大麥發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 B：Cointreau是橙皮利口酒,由威士忌和橙皮等原料調配而成,屬於Compounded Alcoholic Beverage。 C：Vodka是伏特加,由馬鈴薯或穀物發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 D：Rum是朗姆酒,由甘蔗汁發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。\n\n【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程，定位：第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製（頁 199）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Whisky是單一純麥威士忌,由大麥發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "Cointreau是橙皮利口酒,由威士忌和橙皮等原料調配而成,屬於Compounded Alcoholic Beverage。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Vodka是伏特加,由馬鈴薯或穀物發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Rum是朗姆酒,由甘蔗汁發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "飲料實務",
+          "chapter": "第六章 酒的分類與製程",
+          "locator": "蒸餾酒的分類與製程",
+          "note": "清理後的飲料實務章節定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T14:04:31.422Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "下列何者屬於 Compounded Alcoholic Beverage？ Whisky Cointreau Vodka Rum。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "searchText": "下列何者屬於 Compounded Alcoholic Beverage? Whisky Cointreau Vodka Rum。 飲料實務 [第六章 酒的分類與製程] - [蒸餾酒的分類與製程] 蒸餾酒的分類與製程 【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / (1)釀造酒 (Fermented Alcoholic Beverage)由穀類或水果經酵母發酵熟成而製成。。題目涉及Compounded Alcoholic Beverage,但全華單元無法直接對應,故使用AI建立單元 【分類來源】全華/人工分類單元 【核心觀念】Compounded Alcoholic Beverage(調和酒) 【詳細解析】Compounded Alcoholic Beverage是指由不同種類的酒精飲料混合而成的酒品。在題目中,Cointreau是橙皮利口酒的一种,属于调和酒的一种,因此正确答案为B。Whisky、Vodka和Rum都是单一蒸馏或发酵后直接蒸馏得到的纯烈酒,并不属于Compounded Alcoholic Beverage。 【錯誤選項錯在哪】A:Whisky是單一純麥威士忌,由大麥發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 修正說法:無需修正 B:Cointreau是橙皮利口酒,由威士忌和橙皮等原料調配而成,屬於Compounded Alcoholic Beverage。 修正說法:無需修正 C:Vodka是伏特加,由馬鈴薯或穀物發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 修正說法:無需修正 D:Rum是朗姆酒,由甘蔗汁發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 修正說法:無需修正 【叮嚀】注意區分單一純烈酒和調和酒的定義。 【選項判斷】A:Whisky是單一純麥威士忌,由大麥發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 B:Cointreau是橙皮利口酒,由威士忌和橙皮等原料調配而成,屬於Compounded Alcoholic Beverage。 C:Vodka是伏特加,由馬鈴薯或穀物發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 D:Rum是朗姆酒,由甘蔗汁發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Whisky是單一純麥威士忌,由大麥發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 Cointreau是橙皮利口酒,由威士忌和橙皮等原料調配而成,屬於Compounded Alcoholic Beverage。 Vodka是伏特加,由馬鈴薯或穀物發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。 Rum是朗姆酒,由甘蔗汁發酵後蒸餾而成,不屬於Compounded Alcoholic Beverage。",
     "sequence": 107
   }
 }

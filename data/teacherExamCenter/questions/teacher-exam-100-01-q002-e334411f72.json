@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q002-e334411f72",
     "sourceYear": 100,
@@ -31,51 +31,78 @@
       }
     ],
     "answer": "A",
-    "subject": "lodging",
-    "subjectLabel": "旅館實務",
-    "unit": "客房與訂房",
-    "conceptId": "hotel-rooms-and-reservations",
-    "conceptLabel": "旅館客房、訂房與房務",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
+    "conceptId": "tourism-hospitality-6bf9a5e5da",
+    "conceptLabel": "第一章 觀光餐旅業基本觀念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第一章 觀光餐旅業基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：旅館、飯店"
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：待人工審核。本題涉及旅館業的星級評鑑，屬於觀光餐旅業導論中的旅館業單元。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「A」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：福朋喜來登飯店並未列為五星級旅館,因此此選項是正確答案。 B：香格里拉台南遠東國際大飯店被評定為五星級旅館。 C：高雄國賓大飯店被評定為五星級旅館。 D：台南台糖長榮酒店被評定為五星級旅館。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "福朋喜來登飯店並未列為五星級旅館,因此此選項是正確答案。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "香格里拉台南遠東國際大飯店被評定為五星級旅館。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "高雄國賓大飯店被評定為五星級旅館。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "台南台糖長榮酒店被評定為五星級旅館。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "交通部觀光局日前所公佈之第一、二波旅館星級評鑑名單中，下列何者非列為五星級旅館？ 福朋喜來登飯店 香格里拉台南遠東國際大飯店 高雄國賓大飯店 台南台糖長榮酒店。 旅館客房、訂房與房務 客房與訂房",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "交通部觀光局日前所公佈之第一、二波旅館星級評鑑名單中,下列何者非列為五星級旅館? 福朋喜來登飯店 香格里拉台南遠東國際大飯店 高雄國賓大飯店 台南台糖長榮酒店。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「A」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:福朋喜來登飯店並未列為五星級旅館,因此此選項是正確答案。 B:香格里拉台南遠東國際大飯店被評定為五星級旅館。 C:高雄國賓大飯店被評定為五星級旅館。 D:台南台糖長榮酒店被評定為五星級旅館。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 福朋喜來登飯店並未列為五星級旅館,因此此選項是正確答案。 香格里拉台南遠東國際大飯店被評定為五星級旅館。 高雄國賓大飯店被評定為五星級旅館。 台南台糖長榮酒店被評定為五星級旅館。",
     "sequence": 142
   }
 }

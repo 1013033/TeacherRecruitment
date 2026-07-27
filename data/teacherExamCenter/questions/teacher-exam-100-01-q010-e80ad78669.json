@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q010-e80ad78669",
     "sourceYear": 100,
@@ -31,51 +31,84 @@
       }
     ],
     "answer": "B",
-    "subject": "lodging",
-    "subjectLabel": "旅館實務",
-    "unit": "客房與訂房",
-    "conceptId": "hotel-rooms-and-reservations",
-    "conceptLabel": "旅館客房、訂房與房務",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
+    "conceptId": "tourism-hospitality-6bf9a5e5da",
+    "conceptLabel": "第一章 觀光餐旅業基本觀念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "命中關鍵詞：住宿、room、connecting room、adjoining、suite"
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第一章 觀光餐旅業基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。全華單元無法承接，需根據題目內容進行判斷。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】觀光餐旅業導論 / 的是家庭旅遊旅客要求的特殊房間類型 / 的是家庭旅遊旅客要求的特殊房間類型。全華單元無法承接,需根據題目內容進行判斷。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】連房間(Adjoining Room) 【詳細解析】本題考核的是家庭旅遊旅客要求的特殊房間類型。在酒店業中,連房間是指兩個相鄰且可以相通的房間,通常用於父母與子女或親友共同入住的情況。因此,正確答案是 B: Connecting Room。 【錯誤選項錯在哪】A:Adjoining Room 是指兩個相鄰但不相通的房間,不符合題目中要求可相通的房門。 修正說法:正確的表述應該是 Adjoining Room 指的是兩個相鄰但不相通的房間。 B:Connecting Room 是指兩個相連且可以相通的房間,符合題目中要求。 C:Inside Room 通常指的是酒店內部的房間,與題目的需求無關。 修正說法:正確的表述應該是 Inside Room 指的是酒店內部的房間。 D:Executive Suite 是指高級套房,通常包含多個房間和私人休息區,不符合題目中要求的兩個相連且可相通的房間。 修正說法:正確的表述應該是 Executive Suite 指的是高級套房。 【叮嚀】在選擇連房間時,需注意其是否可以相通,這是區分不同類型房間的重要特徵。\n\n【選項判斷】A：Adjoining Room 是指兩個相鄰但不相通的房間,不符合題目中要求可相通的房門。 B：Connecting Room 是指兩個相連且可以相通的房間,符合題目中要求。 C：Inside Room 通常指的是酒店內部的房間,與題目的需求無關。 D：Executive Suite 是指高級套房,通常包含多個房間和私人休息區,不符合題目中要求的兩個相連且可相通的房間。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Adjoining Room 是指兩個相鄰但不相通的房間,不符合題目中要求可相通的房門。",
+          "correctedStatement": "正確的表述應該是 Adjoining Room 指的是兩個相鄰但不相通的房間。"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "Connecting Room 是指兩個相連且可以相通的房間,符合題目中要求。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Inside Room 通常指的是酒店內部的房間,與題目的需求無關。",
+          "correctedStatement": "正確的表述應該是 Inside Room 指的是酒店內部的房間。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Executive Suite 是指高級套房,通常包含多個房間和私人休息區,不符合題目中要求的兩個相連且可相通的房間。",
+          "correctedStatement": "正確的表述應該是 Executive Suite 指的是高級套房。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [
-      "multiple-concept-candidates"
+      "ai-classification-unit"
     ],
-    "searchText": "家庭旅遊之旅客要求安排兩個相連的房間住宿，中間需有可相通的房門，此類型房間稱之為： Adjoining Room Connecting Room Inside Room Executive Suite。 旅館客房、訂房與房務 客房與訂房",
-    "sequence": 10
+    "searchText": "家庭旅遊之旅客要求安排兩個相連的房間住宿,中間需有可相通的房門,此類型房間稱之為: Adjoining Room Connecting Room Inside Room Executive Suite。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 【問題分類】觀光餐旅業導論 / 的是家庭旅遊旅客要求的特殊房間類型 / 的是家庭旅遊旅客要求的特殊房間類型。全華單元無法承接,需根據題目內容進行判斷。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】連房間(Adjoining Room) 【詳細解析】本題考核的是家庭旅遊旅客要求的特殊房間類型。在酒店業中,連房間是指兩個相鄰且可以相通的房間,通常用於父母與子女或親友共同入住的情況。因此,正確答案是 B: Connecting Room。 【錯誤選項錯在哪】A:Adjoining Room 是指兩個相鄰但不相通的房間,不符合題目中要求可相通的房門。 修正說法:正確的表述應該是 Adjoining Room 指的是兩個相鄰但不相通的房間。 B:Connecting Room 是指兩個相連且可以相通的房間,符合題目中要求。 C:Inside Room 通常指的是酒店內部的房間,與題目的需求無關。 修正說法:正確的表述應該是 Inside Room 指的是酒店內部的房間。 D:Executive Suite 是指高級套房,通常包含多個房間和私人休息區,不符合題目中要求的兩個相連且可相通的房間。 修正說法:正確的表述應該是 Executive Suite 指的是高級套房。 【叮嚀】在選擇連房間時,需注意其是否可以相通,這是區分不同類型房間的重要特徵。 【選項判斷】A:Adjoining Room 是指兩個相鄰但不相通的房間,不符合題目中要求可相通的房門。 B:Connecting Room 是指兩個相連且可以相通的房間,符合題目中要求。 C:Inside Room 通常指的是酒店內部的房間,與題目的需求無關。 D:Executive Suite 是指高級套房,通常包含多個房間和私人休息區,不符合題目中要求的兩個相連且可相通的房間。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Adjoining Room 是指兩個相鄰但不相通的房間,不符合題目中要求可相通的房門。 Connecting Room 是指兩個相連且可以相通的房間,符合題目中要求。 Inside Room 通常指的是酒店內部的房間,與題目的需求無關。 Executive Suite 是指高級套房,通常包含多個房間和私人休息區,不符合題目中要求的兩個相連且可相通的房間。",
+    "sequence": 10,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

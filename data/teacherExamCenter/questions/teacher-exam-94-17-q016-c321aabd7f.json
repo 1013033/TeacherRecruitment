@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q016-c321aabd7f",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "C",
-    "subject": "culinary",
-    "subjectLabel": "中西餐烹調",
-    "unit": "烹調原理與食材",
-    "conceptId": "culinary-food-production",
-    "conceptLabel": "烹調法、醬汁與食材處理",
-    "relatedConceptIds": [],
+    "subject": "western-culinary",
+    "subjectLabel": "西餐",
+    "unit": "[觀光餐旅業導論 第三章 餐飲業] - [西餐菜餚、食材與烹調法辨識]",
     "classificationBasis": [
       {
-        "source": "manual",
-        "note": "命中關鍵詞：sauce、salad"
+        "source": "reference-book-rag",
+        "chapter": "第一章 餐廳服務基本觀念",
+        "locator": "第一章 餐廳服務基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「西餐」，主題單元為「[觀光餐旅業導論 第三章 餐飲業] - [西餐菜餚、食材與烹調法辨識]」。"
+      },
+      {
+        "source": "AI",
+        "chapter": "第二章",
+        "locator": "餐廳器具",
+        "note": "確認西餐各式盤碟的尺寸大小並依序排列"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "西式瓷器類餐具的盤碟尺寸由小到大依序為:戊、Coffee Saucer(咖啡底盤,約5吋)→ 丁、B/B Plate(麵包盤,約6~7吋)→ 乙、Salad Plate(沙拉盤,約8~9吋)→ 丙、Dinner Plate(主餐盤,約10~11吋)→ 甲、Show Plate(展示盤,約12~13吋)。因此正確順序為戊→丁→乙→丙→甲。\n\n【選項判斷】A：B/B Plate 應該比 Salad Plate 小。 B：Coffee Saucer 是最小的,應排第一。 C：完全符合由小到大之排列。 D：排列順序完全錯誤。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念，定位：第一章 餐廳服務基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "B/B Plate 應該比 Salad Plate 小。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Coffee Saucer 是最小的,應排第一。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "完全符合由小到大之排列。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "排列順序完全錯誤。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "下列各類型盤碟請依其大小，由小而大依序排列之：甲、Show Plate 乙、Salad Plate 丙、Dinner Plate 丁、B/B Plate 戊、Coffee Saucer 戊→乙→丙→丁→甲 丁→戊→乙→丙→甲 戊→丁→乙→丙→甲 丁→戊→丙→甲→乙。 烹調法、醬汁與食材處理 烹調原理與食材",
-    "sequence": 2683
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "下列各類型盤碟請依其大小,由小而大依序排列之:甲、Show Plate 乙、Salad Plate 丙、Dinner Plate 丁、B/B Plate 戊、Coffee Saucer 戊→乙→丙→丁→甲 丁→戊→乙→丙→甲 戊→丁→乙→丙→甲 丁→戊→丙→甲→乙。 西餐 [觀光餐旅業導論 第三章 餐飲業] - [西餐菜餚、食材與烹調法辨識] 西餐菜餚、食材與烹調法辨識 西式瓷器類餐具的盤碟尺寸由小到大依序為:戊、Coffee Saucer(咖啡底盤,約5吋)→ 丁、B/B Plate(麵包盤,約6~7吋)→ 乙、Salad Plate(沙拉盤,約8~9吋)→ 丙、Dinner Plate(主餐盤,約10~11吋)→ 甲、Show Plate(展示盤,約12~13吋)。因此正確順序為戊→丁→乙→丙→甲。 【選項判斷】A:B/B Plate 應該比 Salad Plate 小。 B:Coffee Saucer 是最小的,應排第一。 C:完全符合由小到大之排列。 D:排列順序完全錯誤。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 B/B Plate 應該比 Salad Plate 小。 Coffee Saucer 是最小的,應排第一。 完全符合由小到大之排列。 排列順序完全錯誤。",
+    "sequence": 2683,
+    "relatedConceptIds": [],
+    "conceptLabel": "西餐菜餚、食材與烹調法辨識",
+    "conceptId": "western-culinary-437acabb05"
   }
 }

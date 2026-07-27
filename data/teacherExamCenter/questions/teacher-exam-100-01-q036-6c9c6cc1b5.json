@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q036-6c9c6cc1b5",
     "sourceYear": 100,
@@ -31,49 +31,77 @@
       }
     ],
     "answer": "A",
-    "subject": "travel-agency",
-    "subjectLabel": "旅行業與航空票務",
-    "unit": "旅行業與航空服務",
-    "conceptId": "travel-agency-and-airline",
-    "conceptLabel": "旅行業、航空票務與入出境",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [觀光餐旅業的定義]",
+    "conceptId": "tourism-hospitality-6b3a29fda8",
+    "conceptLabel": "觀光餐旅業的定義",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第一節觀光餐旅業的定義",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [觀光餐旅業的定義]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：時差、jet lag、flight"
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。本題考核的是「時差失調」的英文用語，與觀光餐旅業的基本概念相關。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】觀光餐旅業導論 / CH01 觀光餐旅業基本概念 / 觀光餐旅業的定義。本題考核的是「時差失調」的英文用語,與觀光餐旅業的基本概念相關。 【分類來源】全華/人工分類單元 【核心觀念】的是「時差失調」的英文用語 【詳細解析】所謂「時差失調」,英文用語稱為 jet lag。此詞源自於飛機(jet)和失調(lag),描述因跨越時區而導致的生理節律紊亂現象。 【錯誤選項錯在哪】A:此選項正確,「時差失調」的英文用語為 jet lag。 B:此選項「flight lost」意指飛機失蹤或飛行中失去,與本題無關。 修正說法:正確的用語應為 jet lag。 C:此選項「time difference」意指時間差異,雖然接近但不完全等同於時差失調。 修正說法:正確的用語應為 jet lag。 D:此選項「time gap」意指時間間隔,與本題無關。 修正說法:正確的用語應為 jet lag。 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無\n\n【選項判斷】A：此選項正確,「時差失調」的英文用語為 jet lag。 B：此選項「flight lost」意指飛機失蹤或飛行中失去,與本題無關。 C：此選項「time difference」意指時間差異,雖然接近但不完全等同於時差失調。 D：此選項「time gap」意指時間間隔,與本題無關。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第一節觀光餐旅業的定義（頁 1）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項正確,「時差失調」的英文用語為 jet lag。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項「flight lost」意指飛機失蹤或飛行中失去,與本題無關。",
+          "correctedStatement": "正確的用語應為 jet lag。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項「time difference」意指時間差異,雖然接近但不完全等同於時差失調。",
+          "correctedStatement": "正確的用語應為 jet lag。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項「time gap」意指時間間隔,與本題無關。",
+          "correctedStatement": "正確的用語應為 jet lag。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一節觀光餐旅業的定義",
+          "note": "參考書 OCR 估算 頁 1"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "所謂「時差失調」，英文用語稱為甚麼？ jet lag flight lost time difference time gap。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "searchText": "所謂「時差失調」,英文用語稱為甚麼? jet lag flight lost time difference time gap。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [觀光餐旅業的定義] 觀光餐旅業的定義 【問題分類】觀光餐旅業導論 / CH01 觀光餐旅業基本概念 / 觀光餐旅業的定義。本題考核的是「時差失調」的英文用語,與觀光餐旅業的基本概念相關。 【分類來源】全華/人工分類單元 【核心觀念】的是「時差失調」的英文用語 【詳細解析】所謂「時差失調」,英文用語稱為 jet lag。此詞源自於飛機(jet)和失調(lag),描述因跨越時區而導致的生理節律紊亂現象。 【錯誤選項錯在哪】A:此選項正確,「時差失調」的英文用語為 jet lag。 B:此選項「flight lost」意指飛機失蹤或飛行中失去,與本題無關。 修正說法:正確的用語應為 jet lag。 C:此選項「time difference」意指時間差異,雖然接近但不完全等同於時差失調。 修正說法:正確的用語應為 jet lag。 D:此選項「time gap」意指時間間隔,與本題無關。 修正說法:正確的用語應為 jet lag。 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無 【選項判斷】A:此選項正確,「時差失調」的英文用語為 jet lag。 B:此選項「flight lost」意指飛機失蹤或飛行中失去,與本題無關。 C:此選項「time difference」意指時間差異,雖然接近但不完全等同於時差失調。 D:此選項「time gap」意指時間間隔,與本題無關。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一節觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項正確,「時差失調」的英文用語為 jet lag。 此選項「flight lost」意指飛機失蹤或飛行中失去,與本題無關。 此選項「time difference」意指時間差異,雖然接近但不完全等同於時差失調。 此選項「time gap」意指時間間隔,與本題無關。",
     "sequence": 61
   }
 }

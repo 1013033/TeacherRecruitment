@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q032-e4dc978a29",
     "sourceYear": 100,
@@ -31,51 +31,85 @@
       }
     ],
     "answer": "D",
-    "subject": "beverage",
-    "subjectLabel": "飲料實務",
-    "unit": "酒類與葡萄酒",
-    "conceptId": "wine-and-spirits",
-    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
+    "conceptId": "tourism-hospitality-6bf9a5e5da",
+    "conceptLabel": "第一章 觀光餐旅業基本觀念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chwa-beverage-practice",
-        "note": "命中關鍵詞：port"
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第一章 觀光餐旅業基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+      },
+      {
+        "source": "ai-generated-unit",
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：AI 分類單元，非全華版本（新建）。題目涉及全華版觀光餐旅業導論中的特定概念，但需確認是否為AI生成單元或待人工審核。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】觀光餐旅業導論 / 的是對國際航空運輸協會(IATA)所制定的三大飛航區(TC1、TC2、TC3)的 / 的是對國際航空運輸協會(IATA)所制定的三大飛航區(TC1、TC2、TC3)的。題目涉及全華版觀光餐旅業導論中的特定概念,但需確認是否為AI生成單元或待人工審核。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】國際航空運輸協會(International Air Transport Association)制定的三大飛航區(TC1、TC2、TC3) 【詳細解析】本題考核的是對國際航空運輸協會(IATA)所制定的三大飛航區(TC1、TC2、TC3)的理解。正確答案是D,美國屬於TC1飛航區。 【錯誤選項錯在哪】A:臺灣並未被劃分在國際航空運輸協會(IATA)的三大飛航區之一。 修正說法:無需修正 B:澳大利亞屬於TC2飛航區,而非TC1。 修正說法:無需修正 C:伊朗屬於TC3飛航區,而非TC1。 修正說法:無需修正 D:美國屬於國際航空運輸協會(IATA)的三大飛航區之一,即TC1飛航區。 修正說法:無需修正 【叮嚀】注意題目中的專業術語和地理知識,避免混淆不同國家所屬的飛航區。\n\n【選項判斷】A：臺灣並未被劃分在國際航空運輸協會(IATA)的三大飛航區之一。 B：澳大利亞屬於TC2飛航區,而非TC1。 C：伊朗屬於TC3飛航區,而非TC1。 D：美國屬於國際航空運輸協會(IATA)的三大飛航區之一,即TC1飛航區。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "臺灣並未被劃分在國際航空運輸協會(IATA)的三大飛航區之一。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "澳大利亞屬於TC2飛航區,而非TC1。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "伊朗屬於TC3飛航區,而非TC1。",
+          "correctedStatement": "無需修正"
         },
         {
           "optionId": "D",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "美國屬於國際航空運輸協會(IATA)的三大飛航區之一,即TC1飛航區。",
+          "correctedStatement": "無需修正"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [
-      "multiple-concept-candidates"
+      "ai-classification-unit"
     ],
-    "searchText": "關於國際航空運輸協會（International Air Transport Association）制定的三大飛航區（TC1、TC2、TC3）的敘述，哪個國家屬於 TC1？ 臺灣 澳大利亞 伊朗 美國。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
-    "sequence": 129
+    "searchText": "關於國際航空運輸協會(International Air Transport Association)制定的三大飛航區(TC1、TC2、TC3)的敘述,哪個國家屬於 TC1? 臺灣 澳大利亞 伊朗 美國。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 【問題分類】觀光餐旅業導論 / 的是對國際航空運輸協會(IATA)所制定的三大飛航區(TC1、TC2、TC3)的 / 的是對國際航空運輸協會(IATA)所制定的三大飛航區(TC1、TC2、TC3)的。題目涉及全華版觀光餐旅業導論中的特定概念,但需確認是否為AI生成單元或待人工審核。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】國際航空運輸協會(International Air Transport Association)制定的三大飛航區(TC1、TC2、TC3) 【詳細解析】本題考核的是對國際航空運輸協會(IATA)所制定的三大飛航區(TC1、TC2、TC3)的理解。正確答案是D,美國屬於TC1飛航區。 【錯誤選項錯在哪】A:臺灣並未被劃分在國際航空運輸協會(IATA)的三大飛航區之一。 修正說法:無需修正 B:澳大利亞屬於TC2飛航區,而非TC1。 修正說法:無需修正 C:伊朗屬於TC3飛航區,而非TC1。 修正說法:無需修正 D:美國屬於國際航空運輸協會(IATA)的三大飛航區之一,即TC1飛航區。 修正說法:無需修正 【叮嚀】注意題目中的專業術語和地理知識,避免混淆不同國家所屬的飛航區。 【選項判斷】A:臺灣並未被劃分在國際航空運輸協會(IATA)的三大飛航區之一。 B:澳大利亞屬於TC2飛航區,而非TC1。 C:伊朗屬於TC3飛航區,而非TC1。 D:美國屬於國際航空運輸協會(IATA)的三大飛航區之一,即TC1飛航區。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 臺灣並未被劃分在國際航空運輸協會(IATA)的三大飛航區之一。 澳大利亞屬於TC2飛航區,而非TC1。 伊朗屬於TC3飛航區,而非TC1。 美國屬於國際航空運輸協會(IATA)的三大飛航區之一,即TC1飛航區。",
+    "sequence": 129,
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    }
   }
 }

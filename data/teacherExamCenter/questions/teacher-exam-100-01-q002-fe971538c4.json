@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q002-fe971538c4",
     "sourceYear": 100,
@@ -31,49 +31,78 @@
       }
     ],
     "answer": "C",
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務實務",
-    "unit": "餐飲服務與營運",
-    "conceptId": "foodservice-operations",
-    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第六章 觀光餐旅相關產業] - [第六章 觀光餐旅相關產業]",
+    "conceptId": "tourism-hospitality-d2343ec2f8",
+    "conceptLabel": "第六章 觀光餐旅相關產業",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第六章 觀光餐旅相關產業",
+        "locator": "第六章 觀光餐旅相關產業",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第六章 觀光餐旅相關產業] - [第六章 觀光餐旅相關產業]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：steward、catering"
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。本題涉及觀光餐旅業導論中的展覽業務，與主題概念一致。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "【問題分類】觀光餐旅業導論 / CH06 觀光相關產業 / 展覽(Exhibition)。本題涉及觀光餐旅業導論中的展覽業務,與主題概念一致。 【分類來源】全華/人工分類單元 【核心觀念】負責會議、自助餐會、展覽等業務的工作由哪個部門負責? 【詳細解析】根據提供的信息,负责会议、自助餐会和展览等业务的部门是餐饮服务部(Catering Dept.)。在观光餐旅业导论中,会展产业包括了各种类型的活动,如会议、展览等。因此,答案为 C。 【錯誤選項錯在哪】A:Dining Dept. 主要负责餐饮服务的日常运营和管理,不涉及大型活动的组织与执行。 修正說法:无 B:Steward Dept. 负责餐厅的服务生工作,主要提供餐桌服务,不负责大型活动的组织。 修正說法:无 C:Catering Dept. 专门负责会议、自助餐会和展览等业务的策划与执行。因此,此选项正确。 修正說法:无 D:Administrating Dept. 负责行政管理事务,不直接参与会议、自助餐会和展览等业务的组织与执行。 修正說法:无 【叮嚀】注意区分不同部门的工作职责,避免混淆。\n\n【選項判斷】A：Dining Dept. 主要负责餐饮服务的日常运营和管理,不涉及大型活动的组织与执行。 B：Steward Dept. 负责餐厅的服务生工作,主要提供餐桌服务,不负责大型活动的组织。 C：Catering Dept. 专门负责会议、自助餐会和展览等业务的策划与执行。因此,此选项正确。 D：Administrating Dept. 负责行政管理事务,不直接参与会议、自助餐会和展览等业务的组织与执行。\n\n【參考書依據】主要參考《觀光餐旅業導論》第六章 觀光餐旅相關產業，定位：第六章 觀光餐旅相關產業（頁 0）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Dining Dept. 主要负责餐饮服务的日常运营和管理,不涉及大型活动的组织与执行。",
+          "correctedStatement": "无"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Steward Dept. 负责餐厅的服务生工作,主要提供餐桌服务,不负责大型活动的组织。",
+          "correctedStatement": "无"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "Catering Dept. 专门负责会议、自助餐会和展览等业务的策划与执行。因此,此选项正确。",
+          "correctedStatement": "无"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "Administrating Dept. 负责行政管理事务,不直接参与会议、自助餐会和展览等业务的组织与执行。",
+          "correctedStatement": "无"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第六章 觀光餐旅相關產業",
+          "locator": "第六章 觀光餐旅相關產業",
+          "note": "參考書 OCR 估算 頁 0"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "負責會議、自助餐會、展覽等業務的工作由哪個部門負責？ Dining Dept. Steward Dept. Catering Dept. Administrating Dept. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "searchText": "負責會議、自助餐會、展覽等業務的工作由哪個部門負責? Dining Dept. Steward Dept. Catering Dept. Administrating Dept. 觀光餐旅業導論 [第六章 觀光餐旅相關產業] - [第六章 觀光餐旅相關產業] 第六章 觀光餐旅相關產業 【問題分類】觀光餐旅業導論 / CH06 觀光相關產業 / 展覽(Exhibition)。本題涉及觀光餐旅業導論中的展覽業務,與主題概念一致。 【分類來源】全華/人工分類單元 【核心觀念】負責會議、自助餐會、展覽等業務的工作由哪個部門負責? 【詳細解析】根據提供的信息,负责会议、自助餐会和展览等业务的部门是餐饮服务部(Catering Dept.)。在观光餐旅业导论中,会展产业包括了各种类型的活动,如会议、展览等。因此,答案为 C。 【錯誤選項錯在哪】A:Dining Dept. 主要负责餐饮服务的日常运营和管理,不涉及大型活动的组织与执行。 修正說法:无 B:Steward Dept. 负责餐厅的服务生工作,主要提供餐桌服务,不负责大型活动的组织。 修正說法:无 C:Catering Dept. 专门负责会议、自助餐会和展览等业务的策划与执行。因此,此选项正确。 修正說法:无 D:Administrating Dept. 负责行政管理事务,不直接参与会议、自助餐会和展览等业务的组织与执行。 修正說法:无 【叮嚀】注意区分不同部门的工作职责,避免混淆。 【選項判斷】A:Dining Dept. 主要负责餐饮服务的日常运营和管理,不涉及大型活动的组织与执行。 B:Steward Dept. 负责餐厅的服务生工作,主要提供餐桌服务,不负责大型活动的组织。 C:Catering Dept. 专门负责会议、自助餐会和展览等业务的策划与执行。因此,此选项正确。 D:Administrating Dept. 负责行政管理事务,不直接参与会议、自助餐会和展览等业务的组织与执行。 【參考書依據】主要參考《觀光餐旅業導論》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業(頁 0);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Dining Dept. 主要负责餐饮服务的日常运营和管理,不涉及大型活动的组织与执行。 Steward Dept. 负责餐厅的服务生工作,主要提供餐桌服务,不负责大型活动的组织。 Catering Dept. 专门负责会议、自助餐会和展览等业务的策划与执行。因此,此选项正确。 Administrating Dept. 负责行政管理事务,不直接参与会议、自助餐会和展览等业务的组织与执行。",
     "sequence": 27
   }
 }

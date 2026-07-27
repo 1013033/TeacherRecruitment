@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q001-d54ae35112",
     "sourceYear": 94,
@@ -32,50 +32,75 @@
     ],
     "answer": "A",
     "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅概論",
-    "unit": "觀光餐旅基礎",
-    "conceptId": "tourism-hospitality-fundamentals",
-    "conceptLabel": "觀光餐旅產業、行銷與永續",
-    "relatedConceptIds": [],
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [旅行業的發展過程]",
     "classificationBasis": [
       {
-        "source": "qili-tourism-hospitality-practice",
-        "note": "命中關鍵詞：觀光、旅館業"
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第二節 旅行業的發展過程",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [旅行業的發展過程]」。"
+      },
+      {
+        "source": "AI",
+        "chapter": "第一章",
+        "locator": "我國觀光餐旅主管機關及法規",
+        "note": "辨識觀光相關法規中不具備觀光專用標識的產業"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "依據《發展觀光條例》相關規定,觀光旅館業、旅館業、觀光遊樂業以及民宿經營者等,為辨識其合法性或品質等級,均訂有相關的「專用標識」(例如:星級旅館標識、好客民宿標章等)。而旅行業並不核發此類觀光專用標識。\n\n【選項判斷】A：旅行業無觀光專用標識,僅核發旅行業執照。 B：觀光旅館業與旅館業有星級旅館評鑑標識。 C：觀光遊樂業有其核准設立之專用標識。 D：民宿經營者有其專用標識或好客民宿標章。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第二節 旅行業的發展過程（頁 366）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "旅行業無觀光專用標識,僅核發旅行業執照。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "觀光旅館業與旅館業有星級旅館評鑑標識。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "觀光遊樂業有其核准設立之專用標識。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "民宿經營者有其專用標識或好客民宿標章。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第二節 旅行業的發展過程",
+          "note": "參考書 OCR 估算 頁 366"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "依「發展觀光條例」規定，以下那一行業沒有「觀光專用標識」？ 旅行業 觀光旅館業、旅館業 觀光遊樂業 民宿經營者。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-    "sequence": 2668
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "依「發展觀光條例」規定,以下那一行業沒有「觀光專用標識」? 旅行業 觀光旅館業、旅館業 觀光遊樂業 民宿經營者。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [旅行業的發展過程] 旅行業的發展過程 依據《發展觀光條例》相關規定,觀光旅館業、旅館業、觀光遊樂業以及民宿經營者等,為辨識其合法性或品質等級,均訂有相關的「專用標識」(例如:星級旅館標識、好客民宿標章等)。而旅行業並不核發此類觀光專用標識。 【選項判斷】A:旅行業無觀光專用標識,僅核發旅行業執照。 B:觀光旅館業與旅館業有星級旅館評鑑標識。 C:觀光遊樂業有其核准設立之專用標識。 D:民宿經營者有其專用標識或好客民宿標章。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第二節 旅行業的發展過程(頁 366);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 旅行業無觀光專用標識,僅核發旅行業執照。 觀光旅館業與旅館業有星級旅館評鑑標識。 觀光遊樂業有其核准設立之專用標識。 民宿經營者有其專用標識或好客民宿標章。",
+    "sequence": 2668,
+    "relatedConceptIds": [],
+    "conceptLabel": "旅行業的發展過程",
+    "conceptId": "tourism-hospitality-872216c58b"
   }
 }

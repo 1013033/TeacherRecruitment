@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q028-4eeed9fc1c",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "C",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [餐飲業的組織與部門]",
+    "conceptId": "tourism-hospitality-4fc572c7aa",
+    "conceptLabel": "餐飲業的組織與部門",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第四節餐飲業的組織與部門",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [餐飲業的組織與部門]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "chapter": "第七章",
+        "locator": "觀光餐旅行銷學常識",
+        "note": "區分產品導向、銷售導向與行銷導向的不同。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "在行銷觀念的演進中,「行銷導向」(Marketing Concept)是將焦點從賣方轉移到買方,強調以「滿足目標顧客的需求和慾望」為核心,進而達成組織的獲利目標。這與過去只注重推銷產品的「銷售導向」或只注重改良產品的「產品導向」截然不同。\n\n【選項判斷】A：產品導向認為只要產品品質好,顧客自然會買。 B：銷售導向認為必須透過大量推銷與促銷手段,顧客才會購買。 C：此選項符合題幹所問的正確答案「C」。 D：社會行銷導向除滿足顧客需求外,還進一步兼顧社會整體利益與環保永續。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第四節餐飲業的組織與部門；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "產品導向認為只要產品品質好,顧客自然會買。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "銷售導向認為必須透過大量推銷與促銷手段,顧客才會購買。"
         },
         {
           "optionId": "C",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「C」。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "社會行銷導向除滿足顧客需求外,還進一步兼顧社會整體利益與環保永續。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第四節餐飲業的組織與部門",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "強調顧客需要的滿足為主的行銷觀念，稱為 產品導向 銷售導向 行銷導向 社會行銷導向 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "強調顧客需要的滿足為主的行銷觀念,稱為 產品導向 銷售導向 行銷導向 社會行銷導向 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [餐飲業的組織與部門] 餐飲業的組織與部門 在行銷觀念的演進中,「行銷導向」(Marketing Concept)是將焦點從賣方轉移到買方,強調以「滿足目標顧客的需求和慾望」為核心,進而達成組織的獲利目標。這與過去只注重推銷產品的「銷售導向」或只注重改良產品的「產品導向」截然不同。 【選項判斷】A:產品導向認為只要產品品質好,顧客自然會買。 B:銷售導向認為必須透過大量推銷與促銷手段,顧客才會購買。 C:此選項符合題幹所問的正確答案「C」。 D:社會行銷導向除滿足顧客需求外,還進一步兼顧社會整體利益與環保永續。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第四節餐飲業的組織與部門;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 產品導向認為只要產品品質好,顧客自然會買。 銷售導向認為必須透過大量推銷與促銷手段,顧客才會購買。 此選項符合題幹所問的正確答案「C」。 社會行銷導向除滿足顧客需求外,還進一步兼顧社會整體利益與環保永續。",
     "sequence": 2603
   }
 }

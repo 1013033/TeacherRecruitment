@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-104-05-q067-46a6b7b558",
     "sourceYear": 104,
@@ -33,49 +33,78 @@
     "answer": "A",
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "酒類與葡萄酒",
-    "conceptId": "wine-and-spirits",
-    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "unit": "[第七章 混合性飲料調製] - [雞尾酒與混合性飲料調製]",
+    "conceptId": "beverage-f774f8a6c8",
+    "conceptLabel": "雞尾酒與混合性飲料調製",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chwa-beverage-practice",
-        "note": "命中關鍵詞：蘭姆"
+        "source": "unit-cleanup",
+        "chapter": "第七章 混合性飲料調製",
+        "locator": "雞尾酒與混合性飲料調製",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第六章 酒的分類與製程] - [第六章 酒的分類與製程]"
+      },
+      {
+        "source": "reference-book-rag",
+        "chapter": "第六章 酒的分類與製程",
+        "locator": "第六章 酒的分類與製程",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第六章 酒的分類與製程] - [第六章 酒的分類與製程]」。"
+      },
+      {
+        "source": "manual",
+        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第六章 酒的分類與製程] - [第六章 酒的分類與製程]」。標準答案為「A」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項符合題幹所問的正確答案「A」。 B：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 C：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程，定位：第六章 酒的分類與製程（頁 26）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「A」。"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項不符合題幹所問的正確答案；本題答案為「A」，需回到題幹關鍵詞與教材小節判斷。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "飲料實務",
+          "chapter": "第七章 混合性飲料調製",
+          "locator": "雞尾酒與混合性飲料調製",
+          "note": "清理後的飲料實務章節定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T14:04:31.422Z"
     },
-    "reviewStatus": "draft",
-    "flags": [
-      "multiple-concept-candidates"
-    ],
-    "searchText": "下列何種雞尾酒的成分中有白色蘭姆酒？ California Punch Planter's Punch Cardinal Punch Fruit Punch。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "下列何種雞尾酒的成分中有白色蘭姆酒? California Punch Planter's Punch Cardinal Punch Fruit Punch。 飲料實務 [第七章 混合性飲料調製] - [雞尾酒與混合性飲料調製] 雞尾酒與混合性飲料調製 本題依題幹與選項判斷,核心考點落在「[第六章 酒的分類與製程] - [第六章 酒的分類與製程]」。標準答案為「A」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。",
     "sequence": 671
   }
 }

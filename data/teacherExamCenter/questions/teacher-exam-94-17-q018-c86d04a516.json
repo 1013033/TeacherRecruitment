@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-94-17-q018-c86d04a516",
     "sourceYear": 94,
@@ -31,51 +31,76 @@
       }
     ],
     "answer": "B",
-    "subject": "other",
-    "subjectLabel": "其他",
-    "unit": "待人工審核",
-    "conceptId": "other-needs-review",
-    "conceptLabel": "其他：待人工審核",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[第八章 餐飲服務] - [第八章 餐飲服務]",
+    "conceptId": "foodservice-6a937023e9",
+    "conceptLabel": "第八章 餐飲服務",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第八章 餐飲服務",
+        "locator": "第八章 餐飲服務",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第八章 餐飲服務] - [第八章 餐飲服務]」。"
+      },
+      {
         "source": "manual",
-        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+        "chapter": "第二章",
+        "locator": "111年6月餐飲服務技術.pdf, p.70",
+        "note": "麵包盤固定放在客人的左手邊。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "根據《餐飲服務技術》第70頁的瓷器類餐具說明,B.B. Plate(Bread & Butter Plate,麵包盤或邊盤),在西餐餐具擺設中,固定放在客人的左手邊(左側)。不論何種服務方式,派送麵包也一律由客人的左側服務。\n\n【選項判斷】A：右側通常擺放水杯、酒杯及刀、匙等餐具。 B：此選項符合題幹所問的正確答案「B」。 C：正上方通常擺放點心叉與點心匙。 D：右下方通常不固定擺放餐具(酒杯會偏右斜上方)。\n\n【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務，定位：第八章 餐飲服務（頁 9）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "右側通常擺放水杯、酒杯及刀、匙等餐具。"
         },
         {
           "optionId": "B",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項符合題幹所問的正確答案「B」。"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "正上方通常擺放點心叉與點心匙。"
         },
         {
           "optionId": "D",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "右下方通常不固定擺放餐具(酒杯會偏右斜上方)。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第八章 餐飲服務",
+          "locator": "第八章 餐飲服務",
+          "note": "參考書 OCR 估算 頁 9"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "needs-review",
-    "flags": [
-      "needs-classification-review"
-    ],
-    "searchText": "西餐中B.B.Plate應擺在客人的？ 右側 左側 正上方 右下方 其他：待人工審核 待人工審核",
+    "reviewStatus": "approved",
+    "flags": [],
+    "searchText": "西餐中B.B.Plate應擺在客人的? 右側 左側 正上方 右下方 餐飲服務技術 [第八章 餐飲服務] - [第八章 餐飲服務] 第八章 餐飲服務 根據《餐飲服務技術》第70頁的瓷器類餐具說明,B.B. Plate(Bread & Butter Plate,麵包盤或邊盤),在西餐餐具擺設中,固定放在客人的左手邊(左側)。不論何種服務方式,派送麵包也一律由客人的左側服務。 【選項判斷】A:右側通常擺放水杯、酒杯及刀、匙等餐具。 B:此選項符合題幹所問的正確答案「B」。 C:正上方通常擺放點心叉與點心匙。 D:右下方通常不固定擺放餐具(酒杯會偏右斜上方)。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 右側通常擺放水杯、酒杯及刀、匙等餐具。 此選項符合題幹所問的正確答案「B」。 正上方通常擺放點心叉與點心匙。 右下方通常不固定擺放餐具(酒杯會偏右斜上方)。",
     "sequence": 2593
   }
 }

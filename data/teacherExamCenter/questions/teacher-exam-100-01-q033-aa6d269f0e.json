@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-aa6b082835",
+  "dataVersion": "teacher-exam-refbook-64e7696494",
   "question": {
     "id": "teacher-exam-100-01-q033-aa6d269f0e",
     "sourceYear": 100,
@@ -31,49 +31,78 @@
       }
     ],
     "answer": "D",
-    "subject": "travel-agency",
-    "subjectLabel": "旅行業與航空票務",
-    "unit": "旅行業與航空服務",
-    "conceptId": "travel-agency-and-airline",
-    "conceptLabel": "旅行業、航空票務與入出境",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
+    "conceptId": "tourism-hospitality-6bf9a5e5da",
+    "conceptLabel": "第一章 觀光餐旅業基本觀念",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
+        "source": "reference-book-rag",
+        "chapter": "第一章 觀光餐旅業基本觀念",
+        "locator": "第一章 觀光餐旅業基本觀念",
+        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+      },
+      {
         "source": "manual",
-        "note": "命中關鍵詞：航空"
+        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：待人工審核。本題為單選題，與現有主題無直接關聯，無法歸類至特定主題。"
       }
     ],
     "explanation": {
-      "status": "draft",
-      "answerExplanation": "",
+      "status": "approved",
+      "answerExplanation": "本題依題幹與選項判斷，核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「D」。作答時應先抓出題幹關鍵詞，再對照參考書中相同章節的定義、流程或分類表。\n\n【選項判斷】A：此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。 B：此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。 C：此選項包含丁(復興),但復興航空公司的代碼應為 TR 而非 TA。 D：此選項包含乙(國泰)、丁(復興),以及戊(菲律賓),這些航空公司代碼均正確。\n\n【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
           "optionId": "A",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。",
+          "correctedStatement": "正確的表述應該是:甲、乙、丙(正確代碼應為:甲、HK;丙、UA)"
         },
         {
           "optionId": "B",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。",
+          "correctedStatement": "正確的表述應該是:甲、乙、丙(正確代碼應為:甲、HK;丙、UA)"
         },
         {
           "optionId": "C",
           "isCorrect": false,
-          "explanation": ""
+          "explanation": "此選項包含丁(復興),但復興航空公司的代碼應為 TR 而非 TA。",
+          "correctedStatement": "正確的表述應該是:乙、丁、戊(正確代碼應為:乙、CX;丁、TR)"
         },
         {
           "optionId": "D",
           "isCorrect": true,
-          "explanation": ""
+          "explanation": "此選項包含乙(國泰)、丁(復興),以及戊(菲律賓),這些航空公司代碼均正確。",
+          "correctedStatement": "無需修正,此選項完全正確。"
         }
       ],
-      "references": [],
-      "updatedAt": ""
+      "references": [
+        {
+          "source": "觀光餐旅業導論",
+          "chapter": "第一章 觀光餐旅業基本觀念",
+          "locator": "第一章 觀光餐旅業基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第一章 飲務的作業規範",
+          "locator": "第一章 飲務的作業規範",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T13:23:21.149Z"
     },
-    "reviewStatus": "draft",
+    "reviewStatus": "approved",
     "flags": [],
-    "searchText": "關於各航空公司的代碼，下列組合何者正確？甲、港龍：HK 乙、國泰：CX 丙、聯合：UA 丁、復興：TA 戊、菲律賓：PR 甲、乙、丙 甲、乙、丁 乙、丁、戊 乙、丙、戊。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "searchText": "關於各航空公司的代碼,下列組合何者正確?甲、港龍:HK 乙、國泰:CX 丙、聯合:UA 丁、復興:TA 戊、菲律賓:PR 甲、乙、丙 甲、乙、丁 乙、丁、戊 乙、丙、戊。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「D」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。 B:此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。 C:此選項包含丁(復興),但復興航空公司的代碼應為 TR 而非 TA。 D:此選項包含乙(國泰)、丁(復興),以及戊(菲律賓),這些航空公司代碼均正確。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。 此選項包含甲(港龍)和丙(聯合),但港龍的代碼應為 HK 而非 HK(重複),而聯合的代碼應為 UA。 此選項包含丁(復興),但復興航空公司的代碼應為 TR 而非 TA。 此選項包含乙(國泰)、丁(復興),以及戊(菲律賓),這些航空公司代碼均正確。",
     "sequence": 130
   }
 }
