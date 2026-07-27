@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q024-65c32b41e8",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 24 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-36691",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "有關中國菜特色之描述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "八大菜系包含新疆菜"
+      },
+      {
+        "id": "B",
+        "text": "東鹹西甜、北辣南酸"
+      },
+      {
+        "id": "C",
+        "text": "叫化雞為江浙菜"
+      },
+      {
+        "id": "D",
+        "text": "佛跳牆為廣東菜"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關中國菜特色之描述，下列何者正確？ 八大菜系包含新疆菜 東鹹西甜、北辣南酸 叫化雞為江浙菜 佛跳牆為廣東菜 其他：待人工審核 待人工審核",
+    "sequence": 2211
+  }
+}

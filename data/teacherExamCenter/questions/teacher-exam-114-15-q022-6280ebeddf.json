@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q022-6280ebeddf",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 22 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-12232",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "關於馬祖夜間「Blue Tears」的景觀，下列敘述何者最正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Blue Tears 是由光蟲（如螢火蟲）聚集海灘造成的夜光現象。"
+      },
+      {
+        "id": "B",
+        "text": "Blue Tears 主要是海中微生物 Noctiluca scintillans 受到攪動時發光產生的現象。"
+      },
+      {
+        "id": "C",
+        "text": "Blue Tears 全島全年可見，最佳觀賞時節在 9–12 月。"
+      },
+      {
+        "id": "D",
+        "text": "想觀賞 Blue Tears 可從台灣搭乘飛機至 MZG 機場。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於馬祖夜間「Blue Tears」的景觀，下列敘述何者最正確？ Blue Tears 是由光蟲（如螢火蟲）聚集海灘造成的夜光現象。 Blue Tears 主要是海中微生物 Noctiluca scintillans 受到攪動時發光產生的現象。 Blue Tears 全島全年可見，最佳觀賞時節在 9–12 月。 想觀賞 Blue Tears 可從台灣搭乘飛機至 MZG 機場。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2303
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q013-51d72aa107",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 13 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-9666",
+    "paperTitle": "二、單選題（1題1分，共76分）",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "餐廳供應每一客牛排有 2oz 重，請問這是屬於餐廳管理的那一種標準？",
+    "options": [
+      {
+        "id": "A",
+        "text": "品質標準"
+      },
+      {
+        "id": "B",
+        "text": "計量標準"
+      },
+      {
+        "id": "C",
+        "text": "服務標準"
+      },
+      {
+        "id": "D",
+        "text": "工作標準"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳供應每一客牛排有 2oz 重，請問這是屬於餐廳管理的那一種標準？ 品質標準 計量標準 服務標準 工作標準 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2908
+  }
+}

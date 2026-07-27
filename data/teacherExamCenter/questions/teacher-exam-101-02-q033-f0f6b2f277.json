@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q033-f0f6b2f277",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 33 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-23653",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "外國旅行業如委託國內綜合旅行業辦理業務，應以何種業務為限？",
+    "options": [
+      {
+        "id": "A",
+        "text": "連絡、推廣、報價，但不對外營業"
+      },
+      {
+        "id": "B",
+        "text": "連絡、買賣、對外營業"
+      },
+      {
+        "id": "C",
+        "text": "連絡、代理、對外營業"
+      },
+      {
+        "id": "D",
+        "text": "連絡、推銷、執行旅行業業務。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "外國旅行業如委託國內綜合旅行業辦理業務，應以何種業務為限？ 連絡、推廣、報價，但不對外營業 連絡、買賣、對外營業 連絡、代理、對外營業 連絡、推銷、執行旅行業業務。 其他：待人工審核 待人工審核",
+    "sequence": 386
+  }
+}

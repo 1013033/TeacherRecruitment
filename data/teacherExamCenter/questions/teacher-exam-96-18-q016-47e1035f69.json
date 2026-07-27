@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q016-47e1035f69",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 16 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-1538",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲科)",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "美國牛肉等級由高至低排列：甲：Standard級、乙：Choice級、丙：Prime級、丁：Select級",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲＞乙＞丙＞丁"
+      },
+      {
+        "id": "B",
+        "text": "丙＞乙＞丁＞甲"
+      },
+      {
+        "id": "C",
+        "text": "乙＞丁＞丙＞甲"
+      },
+      {
+        "id": "D",
+        "text": "丙＞丁＞乙＞甲。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "美國牛肉等級由高至低排列：甲：Standard級、乙：Choice級、丙：Prime級、丁：Select級 甲＞乙＞丙＞丁 丙＞乙＞丁＞甲 乙＞丁＞丙＞甲 丙＞丁＞乙＞甲。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2703
+  }
+}

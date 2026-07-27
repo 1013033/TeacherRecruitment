@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q023-a11ecc2e00",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 23 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-2210",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "有關沙司(sauce)的相關知識下列何者為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "牛肉、羊肉適合搭配基本奶油沙司"
+      },
+      {
+        "id": "B",
+        "text": "基本番茄沙司的稠化劑是奶油糊(Roux)"
+      },
+      {
+        "id": "C",
+        "text": "MushroomSauce 屬於基本白色沙司之衍生沙司"
+      },
+      {
+        "id": "D",
+        "text": "烤過的禽肉類適合搭配基本褐色沙司。"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤、牛肉、羊肉、sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關沙司(sauce)的相關知識下列何者為正確？ 牛肉、羊肉適合搭配基本奶油沙司 基本番茄沙司的稠化劑是奶油糊(Roux) MushroomSauce 屬於基本白色沙司之衍生沙司 烤過的禽肉類適合搭配基本褐色沙司。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2549
+  }
+}

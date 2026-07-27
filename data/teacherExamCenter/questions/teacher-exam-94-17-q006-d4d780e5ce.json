@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q006-d4d780e5ce",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 6 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-7835",
+    "paperTitle": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "我國觀光局未在下列哪個亞洲城市設置辦事處？",
+    "options": [
+      {
+        "id": "A",
+        "text": "SIN"
+      },
+      {
+        "id": "B",
+        "text": "SEL"
+      },
+      {
+        "id": "C",
+        "text": "OSA"
+      },
+      {
+        "id": "D",
+        "text": "HKT。"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "我國觀光局未在下列哪個亞洲城市設置辦事處？ SIN SEL OSA HKT。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2623
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q077-4b5b3c1e85",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 77 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-15515",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 77,
+    "questionType": "single-choice",
+    "prompt": "原標準食譜所記載的產出供應量是 10 人份（portions）、每一人份 600 公克；現在若其他因素不變，但每一人份縮小成 300 公克、共要製作 50 人份；則原食譜中應準備 200 公克的甲材料，現在應該準備多少？",
+    "options": [
+      {
+        "id": "A",
+        "text": "50 公克"
+      },
+      {
+        "id": "B",
+        "text": "100 公克"
+      },
+      {
+        "id": "C",
+        "text": "500 公克"
+      },
+      {
+        "id": "D",
+        "text": "1000 公克"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "原標準食譜所記載的產出供應量是 10 人份（portions）、每一人份 600 公克；現在若其他因素不變，但每一人份縮小成 300 公克、共要製作 50 人份；則原食譜中應準備 200 公克的甲材料，現在應該準備多少？ 50 公克 100 公克 500 公克 1000 公克 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2972
+  }
+}

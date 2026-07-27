@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q015-ea5ee5c759",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 15 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-30867",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "味道是食物的靈魂，美味的關鍵在於使用的調味料，下列調味料的敘述，何 者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "English Mustard:是白芥末籽、白葡萄酒及其他調味料製成，淺黃色，味道 溫和。"
+      },
+      {
+        "id": "B",
+        "text": "Dijon Mustard:由褐色並混合白色芥末籽與小麥粉製成，嗆辣是其特色。"
+      },
+      {
+        "id": "C",
+        "text": "Mustard seed sauce:整粒芥末籽調製，具有鬆脆口感的辛辣味。"
+      },
+      {
+        "id": "D",
+        "text": "American Mustard:由褐色芥末、水、白葡萄酒等製成，呈淡黃色，味道清 爽。 3"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "味道是食物的靈魂，美味的關鍵在於使用的調味料，下列調味料的敘述，何 者正確？ English Mustard:是白芥末籽、白葡萄酒及其他調味料製成，淺黃色，味道 溫和。 Dijon Mustard:由褐色並混合白色芥末籽與小麥粉製成，嗆辣是其特色。 Mustard seed sauce:整粒芥末籽調製，具有鬆脆口感的辛辣味。 American Mustard:由褐色芥末、水、白葡萄酒等製成，呈淡黃色，味道清 爽。 3 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2161
+  }
+}

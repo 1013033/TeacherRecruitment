@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q018-b54e920b3d",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 18 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-36161",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "咖啡烘焙深淺對咖啡造成的影響，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "烘焙愈淺，苦味愈強"
+      },
+      {
+        "id": "B",
+        "text": "淺烘焙具焦 糖香"
+      },
+      {
+        "id": "C",
+        "text": "深烘焙具果香"
+      },
+      {
+        "id": "D",
+        "text": "咖啡因含量會隨著烘焙度成反比"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡烘焙深淺對咖啡造成的影響，下列敘述何者正確？ 烘焙愈淺，苦味愈強 淺烘焙具焦 糖香 深烘焙具果香 咖啡因含量會隨著烘焙度成反比 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2205
+  }
+}

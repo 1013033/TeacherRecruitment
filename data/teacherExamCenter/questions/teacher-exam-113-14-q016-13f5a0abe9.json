@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q016-13f5a0abe9",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 16 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-3936",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "關於中國各大菜系中著名魚料理敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "生燻大黃魚、豆豉蒸魚 為浙菜"
+      },
+      {
+        "id": "B",
+        "text": "酸菜魚、豆辦鯉魚 為川菜"
+      },
+      {
+        "id": "C",
+        "text": "西湖醋魚、宋嫂魚羹 為粵菜"
+      },
+      {
+        "id": "D",
+        "text": "松鼠黃魚、砂鍋魚頭 為湘菜。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於中國各大菜系中著名魚料理敘述，下列何者正確？ 生燻大黃魚、豆豉蒸魚 為浙菜 酸菜魚、豆辦鯉魚 為川菜 西湖醋魚、宋嫂魚羹 為粵菜 松鼠黃魚、砂鍋魚頭 為湘菜。 其他：待人工審核 待人工審核",
+    "sequence": 2013
+  }
+}

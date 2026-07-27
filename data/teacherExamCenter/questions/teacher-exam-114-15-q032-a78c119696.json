@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q032-a78c119696",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 32 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-7732",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 32,
+    "questionType": "multiple-choice",
+    "prompt": "關於餐飲業專業術語的解釋，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Point of Sale：個人銷售技巧"
+      },
+      {
+        "id": "B",
+        "text": "Standard operation procedure：標準食譜"
+      },
+      {
+        "id": "C",
+        "text": "Job Description：工作職責"
+      },
+      {
+        "id": "D",
+        "text": "Job specification：工作條件。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於餐飲業專業術語的解釋，下列何者正確？ Point of Sale：個人銷售技巧 Standard operation procedure：標準食譜 Job Description：工作職責 Job specification：工作條件。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2269
+  }
+}

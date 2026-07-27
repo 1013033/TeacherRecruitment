@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q023-221f733419",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 23 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-6104",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "請問這張機票的目前去程的訂位狀況為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "限空位搭乘"
+      },
+      {
+        "id": "B",
+        "text": "機位確定"
+      },
+      {
+        "id": "C",
+        "text": "機位候補"
+      },
+      {
+        "id": "D",
+        "text": "不佔位子。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問這張機票的目前去程的訂位狀況為？ 限空位搭乘 機位確定 機位候補 不佔位子。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2020
+  }
+}

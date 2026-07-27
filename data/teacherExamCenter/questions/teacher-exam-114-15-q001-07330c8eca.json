@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q001-07330c8eca",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 1 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-297",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於中餐烹調法之敘述，下列何者為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "貼：材料只煎兩面，左右兩側不煎"
+      },
+      {
+        "id": "B",
+        "text": "焯：將材料在水中短時間燙一下的過程"
+      },
+      {
+        "id": "C",
+        "text": "熗：將材料用溫水或溫油稍微加熱，再加入調味料及溫熱的花椒油攪拌"
+      },
+      {
+        "id": "D",
+        "text": "滷：把材料放進滷汁中，中火慢煮，使滷汁滲透進材料中。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、煎、煮"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中餐烹調法之敘述，下列何者為正確？ 貼：材料只煎兩面，左右兩側不煎 焯：將材料在水中短時間燙一下的過程 熗：將材料用溫水或溫油稍微加熱，再加入調味料及溫熱的花椒油攪拌 滷：把材料放進滷汁中，中火慢煮，使滷汁滲透進材料中。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2238
+  }
+}

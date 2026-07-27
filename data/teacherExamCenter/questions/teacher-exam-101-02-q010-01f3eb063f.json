@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q010-01f3eb063f",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 10 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20813",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項最符合餐旅業的服務特徵？",
+    "options": [
+      {
+        "id": "A",
+        "text": "服務具有異質性"
+      },
+      {
+        "id": "B",
+        "text": "服務具有分割性"
+      },
+      {
+        "id": "C",
+        "text": "服務具有儲存性"
+      },
+      {
+        "id": "D",
+        "text": "服務具有有形性。"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：餐旅"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項最符合餐旅業的服務特徵？ 服務具有異質性 服務具有分割性 服務具有儲存性 服務具有有形性。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 363
+  }
+}

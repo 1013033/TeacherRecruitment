@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q008-7e39a84bd8",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 8 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-1881",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "台灣素有手搖杯王國之稱，依據財政部資料顯示，飲料店業超過2萬家，然而，手搖飲 料多以台灣特有飲料為主，就台灣特有飲料之敘述，下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "冬瓜茶：有臺灣國寶茶之稱，最早記載於西元1880年，創始人廖毛，也是三大古早 冰飲之一"
+      },
+      {
+        "id": "B",
+        "text": "仙草茶：為夏季去暑飲品，首見於中國藥植圖鑑，起源於嶺南地區，早 期大多與廟宇、市場有關"
+      },
+      {
+        "id": "C",
+        "text": "愛玉：產地集中在嘉義阿里山地區現關山、南投、高雄 與苗栗地區皆有，和無花果一樣擁有「隱花果實」之稱"
+      },
+      {
+        "id": "D",
+        "text": "Paolyta-B：為藍領階層勞 工團體最具代表性的飲料，其中含有中藥萃取物及胺基酸，經醫事指示用藥，要在有 藥事人員駐店管理的藥商或藥局才能販售。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、萃取"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "台灣素有手搖杯王國之稱，依據財政部資料顯示，飲料店業超過2萬家，然而，手搖飲 料多以台灣特有飲料為主，就台灣特有飲料之敘述，下列何者為非？ 冬瓜茶：有臺灣國寶茶之稱，最早記載於西元1880年，創始人廖毛，也是三大古早 冰飲之一 仙草茶：為夏季去暑飲品，首見於中國藥植圖鑑，起源於嶺南地區，早 期大多與廟宇、市場有關 愛玉：產地集中在嘉義阿里山地區現關山、南投、高雄 與苗栗地區皆有，和無花果一樣擁有「隱花果實」之稱 Paolyta-B：為藍領階層勞 工團體最具代表性的飲料，其中含有中藥萃取物及胺基酸，經醫事指示用藥，要在有 藥事人員駐店管理的藥商或藥局才能販售。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2245
+  }
+}

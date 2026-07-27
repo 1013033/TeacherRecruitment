@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q003-b7603048a6",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 3 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-18322",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "關於旅館房務管理中的「房間狀態」，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "OOO (Out of Order) 代表房間暫時故障，可於當日修復銷售"
+      },
+      {
+        "id": "B",
+        "text": "C/O (Check-out) 代表客人已結帳，房務員可立即安排新客入住"
+      },
+      {
+        "id": "C",
+        "text": "DND (Do Not Disturb) 房客，若超過下午兩點未出，房務員應報備主管處理"
+      },
+      {
+        "id": "D",
+        "text": "Sleep-out 代表房間已售出，但房客當晚未回房睡覺。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：房務、do not disturb"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館房務管理中的「房間狀態」，下列敘述何者正確？ OOO (Out of Order) 代表房間暫時故障，可於當日修復銷售 C/O (Check-out) 代表客人已結帳，房務員可立即安排新客入住 DND (Do Not Disturb) 房客，若超過下午兩點未出，房務員應報備主管處理 Sleep-out 代表房間已售出，但房客當晚未回房睡覺。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2501
+  }
+}

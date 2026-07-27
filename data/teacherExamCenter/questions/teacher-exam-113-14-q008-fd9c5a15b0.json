@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q008-fd9c5a15b0",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 8 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-22049",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "製作雙皮核桃塔時，為避免糖液過軟或焦化，煮核桃 餡的加熱溫度適宜控制在幾度 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "95°C±5°C"
+      },
+      {
+        "id": "B",
+        "text": "110°C±5°C"
+      },
+      {
+        "id": "C",
+        "text": "125°C±5°C"
+      },
+      {
+        "id": "D",
+        "text": "140°C±5°C"
+      },
+      {
+        "id": "E",
+        "text": "155°C±5°C"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煮"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "製作雙皮核桃塔時，為避免糖液過軟或焦化，煮核桃 餡的加熱溫度適宜控制在幾度 ? 95°C±5°C 110°C±5°C 125°C±5°C 140°C±5°C 155°C±5°C 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2103
+  }
+}

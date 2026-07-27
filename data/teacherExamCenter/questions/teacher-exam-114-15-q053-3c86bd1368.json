@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q053-3c86bd1368",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 53 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-19336",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 53,
+    "questionType": "single-choice",
+    "prompt": "依照上表的訊息，甲與乙最有可能是哪一種茶葉?",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲：高山茶、乙：烏龍茶"
+      },
+      {
+        "id": "B",
+        "text": "甲：高山茶、乙：白毫烏龍"
+      },
+      {
+        "id": "C",
+        "text": "甲：包種茶、乙：白毫烏龍"
+      },
+      {
+        "id": "D",
+        "text": "甲：包種茶、乙：紅烏龍"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依照上表的訊息，甲與乙最有可能是哪一種茶葉? 甲：高山茶、乙：烏龍茶 甲：高山茶、乙：白毫烏龍 甲：包種茶、乙：白毫烏龍 甲：包種茶、乙：紅烏龍 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2343
+  }
+}

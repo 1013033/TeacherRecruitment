@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q014-4887a082fd",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 14 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-20655",
+    "paperTitle": "一、單選題（40 題每題 2 分共計 80 分）",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列有關西餐禮儀的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "由外向內取用餐具"
+      },
+      {
+        "id": "B",
+        "text": "麵包要先用手撕成小塊，再抹奶油"
+      },
+      {
+        "id": "C",
+        "text": "由外向內舀湯，由匙腹側喝湯"
+      },
+      {
+        "id": "D",
+        "text": "食用完畢應將刀叉平行放置餐盤中。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列有關西餐禮儀的敘述，何者錯誤？ 由外向內取用餐具 麵包要先用手撕成小塊，再抹奶油 由外向內舀湯，由匙腹側喝湯 食用完畢應將刀叉平行放置餐盤中。 其他：待人工審核 待人工審核",
+    "sequence": 3017
+  }
+}

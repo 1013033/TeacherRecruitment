@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q028-33cbb5e59a",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 28 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-7069",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 28,
+    "questionType": "multiple-choice",
+    "prompt": "國內食安問題頻傳，2024年因寶林茶室食品中毒事件造成多位民眾重症、甚至死亡 ，政府除了要求餐飲業者加強對食品安全的重視外，亦強制要求餐飲業需投保相關 保險，下列何者為政府要求之保險？",
+    "options": [
+      {
+        "id": "A",
+        "text": "商業火險"
+      },
+      {
+        "id": "B",
+        "text": "產品責任險"
+      },
+      {
+        "id": "C",
+        "text": "雇主意外責任險"
+      },
+      {
+        "id": "D",
+        "text": "公共意外責任險。"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "國內食安問題頻傳，2024年因寶林茶室食品中毒事件造成多位民眾重症、甚至死亡 ，政府除了要求餐飲業者加強對食品安全的重視外，亦強制要求餐飲業需投保相關 保險，下列何者為政府要求之保險？ 商業火險 產品責任險 雇主意外責任險 公共意外責任險。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2265
+  }
+}

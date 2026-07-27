@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q043-28e77711ae",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 43 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38377",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 43,
+    "questionType": "multiple-choice",
+    "prompt": "下列各項組合，何者是廿一世紀雙V時代的表現？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vision"
+      },
+      {
+        "id": "B",
+        "text": "Visit"
+      },
+      {
+        "id": "C",
+        "text": "Value"
+      },
+      {
+        "id": "D",
+        "text": "View"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列各項組合，何者是廿一世紀雙V時代的表現？ Vision Visit Value View 其他：待人工審核 待人工審核",
+    "sequence": 2230
+  }
+}

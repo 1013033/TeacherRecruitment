@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q018-7113e53008",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 18 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-13283",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "關於廚房敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "廚房排水溝深度至少要有 15公分以上，底部與溝側面要有 5 公分半徑之圓弧角"
+      },
+      {
+        "id": "B",
+        "text": "廚房油煙罩內的照明燈泡，外圍要有玻璃燈罩及鐵圈保護，在食物處理正上方之燈管應有燈罩以防污染"
+      },
+      {
+        "id": "C",
+        "text": "排水溝出口加裝截流槽，可防止阻隔老鼠或蟑螂等病媒侵入"
+      },
+      {
+        "id": "D",
+        "text": "廚房的高度宜在 2.4 公尺以上，以利於熱的擴散及排油煙罩的裝設。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於廚房敘述，何者錯誤？ 廚房排水溝深度至少要有 15公分以上，底部與溝側面要有 5 公分半徑之圓弧角 廚房油煙罩內的照明燈泡，外圍要有玻璃燈罩及鐵圈保護，在食物處理正上方之燈管應有燈罩以防污染 排水溝出口加裝截流槽，可防止阻隔老鼠或蟑螂等病媒侵入 廚房的高度宜在 2.4 公尺以上，以利於熱的擴散及排油煙罩的裝設。 其他：待人工審核 待人工審核",
+    "sequence": 2685
+  }
+}

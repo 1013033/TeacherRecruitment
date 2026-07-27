@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q010-d005a445d7",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 10 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-2450",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "金勾錐旅行社按往年清明連假的「花現日本·奈良循鹿」團，都會指派金牌領隊-大陳 ，這團在很早以前就爆滿了，總共33人（含大陳領隊），出團時共33人，回國時因部分 因素有四個團員留在日本當地並自願簽妥放棄行程離團切結書，其餘人則跟著回國， 就財政部於114年1月23日修訂之「入境旅客攜帶行李物品報驗稅放辦法」 ，請問這團 總計能帶的酒類為幾公升？",
+    "options": [
+      {
+        "id": "A",
+        "text": "33公升"
+      },
+      {
+        "id": "B",
+        "text": "29公升"
+      },
+      {
+        "id": "C",
+        "text": "49.5公升"
+      },
+      {
+        "id": "D",
+        "text": "43.5公升。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "金勾錐旅行社按往年清明連假的「花現日本·奈良循鹿」團，都會指派金牌領隊-大陳 ，這團在很早以前就爆滿了，總共33人（含大陳領隊），出團時共33人，回國時因部分 因素有四個團員留在日本當地並自願簽妥放棄行程離團切結書，其餘人則跟著回國， 就財政部於114年1月23日修訂之「入境旅客攜帶行李物品報驗稅放辦法」 ，請問這團 總計能帶的酒類為幾公升？ 33公升 29公升 49.5公升 43.5公升。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2247
+  }
+}

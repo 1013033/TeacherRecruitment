@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q059-1af2414bad",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 59 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-34428",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 59,
+    "questionType": "single-choice",
+    "prompt": "旅館大廳值班經理之英文為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lobby Manager"
+      },
+      {
+        "id": "B",
+        "text": "Duty Manager"
+      },
+      {
+        "id": "C",
+        "text": "Hotel Manager"
+      },
+      {
+        "id": "D",
+        "text": "Hall Manager。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館大廳值班經理之英文為： Lobby Manager Duty Manager Hotel Manager Hall Manager。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3179
+  }
+}

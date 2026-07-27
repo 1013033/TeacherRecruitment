@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q011-cf148fa4ae",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 11 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-35560",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "觀光產業是一種服務事業，屬於哪一級的產業之範疇？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一級"
+      },
+      {
+        "id": "B",
+        "text": "第二級"
+      },
+      {
+        "id": "C",
+        "text": "第三級"
+      },
+      {
+        "id": "D",
+        "text": "第四級"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "觀光產業是一種服務事業，屬於哪一級的產業之範疇？ 第一級 第二級 第三級 第四級 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2198
+  }
+}

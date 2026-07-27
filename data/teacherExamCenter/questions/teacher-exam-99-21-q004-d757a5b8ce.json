@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q004-d757a5b8ce",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 4 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-13971",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "煮義大利麵 (pasta) 經常煮至「al dente」的狀態，「al dente」是指",
+    "options": [
+      {
+        "id": "A",
+        "text": "煮到透"
+      },
+      {
+        "id": "B",
+        "text": "不可糊"
+      },
+      {
+        "id": "C",
+        "text": "有嚼感"
+      },
+      {
+        "id": "D",
+        "text": "煮到半熟。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煮"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "煮義大利麵 (pasta) 經常煮至「al dente」的狀態，「al dente」是指 煮到透 不可糊 有嚼感 煮到半熟。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3428
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q001-2cbd814dc3",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 1 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-19163",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "台灣經典藥膳湯品「十全藥燉排骨」的藥材，下列何者材料不是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "茯苓、人參"
+      },
+      {
+        "id": "B",
+        "text": "黃耆、白芍"
+      },
+      {
+        "id": "C",
+        "text": "川芎、甘草"
+      },
+      {
+        "id": "D",
+        "text": "蓮子、芡實"
+      },
+      {
+        "id": "E",
+        "text": "當歸、熟地"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：燉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "台灣經典藥膳湯品「十全藥燉排骨」的藥材，下列何者材料不是？ 茯苓、人參 黃耆、白芍 川芎、甘草 蓮子、芡實 當歸、熟地 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2096
+  }
+}

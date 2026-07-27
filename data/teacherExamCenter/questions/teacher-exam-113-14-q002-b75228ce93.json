@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q002-b75228ce93",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 2 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-9974",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "下列 1～5 項為某頂級旅館目前及未來可能提供的服務，請分別判斷這些服務屬於哪一個產品 層次，並填入正確答案。(10 分)",
+    "options": [
+      {
+        "id": "A",
+        "text": "核心產品"
+      },
+      {
+        "id": "B",
+        "text": "基本產品"
+      },
+      {
+        "id": "C",
+        "text": "期望產品"
+      },
+      {
+        "id": "D",
+        "text": "附加產品"
+      },
+      {
+        "id": "E",
+        "text": "潛在產品 B (1) 提供顧客乾淨舒適的「客房」及「餐廳」 A (2) 滿足顧客「乾淨安全舒適的客房」 、 「衛生安全的餐飲」的需求。 C (3) 提供豐盛自助早餐、無邊際游泳池、多樣健身設備及精品店。 D (4) 提供迎賓水果及小點心、24 小時管家服務、快速入住或退房服務， 讓客人有賓至如歸的感受 E (5) 未來可能會推出「高級管家」從飯店業走入豪宅，幫忙打理豪宅生活， 享有飯店式服務的尊榮專屬服務。"
+      }
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列 1～5 項為某頂級旅館目前及未來可能提供的服務，請分別判斷這些服務屬於哪一個產品 層次，並填入正確答案。(10 分) 核心產品 基本產品 期望產品 附加產品 潛在產品 B (1) 提供顧客乾淨舒適的「客房」及「餐廳」 A (2) 滿足顧客「乾淨安全舒適的客房」 、 「衛生安全的餐飲」的需求。 C (3) 提供豐盛自助早餐、無邊際游泳池、多樣健身設備及精品店。 D (4) 提供迎賓水果及小點心、24 小時管家服務、快速入住或退房服務， 讓客人有賓至如歸的感受 E (5) 未來可能會推出「高級管家」從飯店業走入豪宅，幫忙打理豪宅生活， 享有飯店式服務的尊榮專屬服務。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2039
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q008-20908656ab",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 8 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-12475",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "如果房客致電櫃檯抱怨隔壁客房內嬉鬧噪音太大，櫃檯接待員在第一時間 應請下列 何者去暸解勸說？",
+    "options": [
+      {
+        "id": "A",
+        "text": "General Manager"
+      },
+      {
+        "id": "B",
+        "text": "Floor Captain"
+      },
+      {
+        "id": "C",
+        "text": "Receptionist"
+      },
+      {
+        "id": "D",
+        "text": "Room Service Waiter"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、櫃檯、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "如果房客致電櫃檯抱怨隔壁客房內嬉鬧噪音太大，櫃檯接待員在第一時間 應請下列 何者去暸解勸說？ General Manager Floor Captain Receptionist Room Service Waiter 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2053
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q018-3bf822bd4a",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 18 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-4230",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "Should I pour the sauce on my rice?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The sauce is made with tomatoes."
+      },
+      {
+        "id": "B",
+        "text": "Please eat the rice with your right hands."
+      },
+      {
+        "id": "C",
+        "text": "I suggest you could try a little bit of it at first."
+      },
+      {
+        "id": "D",
+        "text": "You’d better not eat it when it’s still hot."
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Should I pour the sauce on my rice? The sauce is made with tomatoes. Please eat the rice with your right hands. I suggest you could try a little bit of it at first. You’d better not eat it when it’s still hot. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2015
+  }
+}

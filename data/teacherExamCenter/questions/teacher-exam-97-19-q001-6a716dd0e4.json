@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q001-6a716dd0e4",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 1 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-19216",
+    "paperTitle": "一、單選題（40 題每題 2 分共計 80 分）",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於服務飲料的知識，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "服務紅葡萄的適飲溫度為室溫（約 15℃ 至 18℃）"
+      },
+      {
+        "id": "B",
+        "text": "倒啤酒時泡沫的比例應達杯子 1/2"
+      },
+      {
+        "id": "C",
+        "text": "白葡萄酒應使用冰酒桶服務"
+      },
+      {
+        "id": "D",
+        "text": "開香檳時，瓶身傾斜 35 至 45 度開瓶。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、香檳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於服務飲料的知識，下列敘述何者錯誤？ 服務紅葡萄的適飲溫度為室溫（約 15℃ 至 18℃） 倒啤酒時泡沫的比例應達杯子 1/2 白葡萄酒應使用冰酒桶服務 開香檳時，瓶身傾斜 35 至 45 度開瓶。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3004
+  }
+}

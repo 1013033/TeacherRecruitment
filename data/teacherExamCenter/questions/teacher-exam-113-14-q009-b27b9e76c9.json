@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q009-b27b9e76c9",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 9 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-35354",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "中國有史以來第一座夜總會「宵遊宮」是建於何時？",
+    "options": [
+      {
+        "id": "A",
+        "text": "漢成帝"
+      },
+      {
+        "id": "B",
+        "text": "漢武帝"
+      },
+      {
+        "id": "C",
+        "text": "北魏孝文帝"
+      },
+      {
+        "id": "D",
+        "text": "隋文帝"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "中國有史以來第一座夜總會「宵遊宮」是建於何時？ 漢成帝 漢武帝 北魏孝文帝 隋文帝 其他：待人工審核 待人工審核",
+    "sequence": 2196
+  }
+}

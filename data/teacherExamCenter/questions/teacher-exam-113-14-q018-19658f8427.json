@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q018-19658f8427",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 18 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-23850",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 18,
+    "questionType": "multiple-choice",
+    "prompt": "Clerk: Here is your order, sir. Where should I place the tray？ John: Please put it on the desk. Clerk: OK. ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+    "options": [
+      {
+        "id": "A",
+        "text": "Does it come with a drink？"
+      },
+      {
+        "id": "B",
+        "text": "Does everything look satisfactory？"
+      },
+      {
+        "id": "C",
+        "text": "How would you like the steak cooked？"
+      },
+      {
+        "id": "D",
+        "text": "Is there anything I can do for you？"
+      },
+      {
+        "id": "E",
+        "text": "Please sign your name over here, thank you."
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Clerk: Here is your order, sir. Where should I place the tray？ John: Please put it on the desk. Clerk: OK. ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ Does it come with a drink？ Does everything look satisfactory？ How would you like the steak cooked？ Is there anything I can do for you？ Please sign your name over here, thank you. 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2113
+  }
+}

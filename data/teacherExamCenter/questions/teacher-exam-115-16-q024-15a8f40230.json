@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q024-15a8f40230",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 24 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-5468",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 24,
+    "questionType": "multiple-choice",
+    "prompt": "在飲料調製課程中，各種香料是雞尾酒常見之裝飾及風味。下列敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Egg Nog與Port Flip屬於含蛋或乳製品之濃厚型飲品，荳蔻粉兼具風味與裝飾。"
+      },
+      {
+        "id": "B",
+        "text": "Negus為冷飲型雞尾酒，通常以荳蔻粉增添清爽口感。"
+      },
+      {
+        "id": "C",
+        "text": "Brandy Alexander常以荳蔻粉作為表面裝飾，提供輕微辛香氣息。"
+      },
+      {
+        "id": "D",
+        "text": "Hot Toddy屬於典型酸酒（Sour） ，使用荳蔻粉作為裝飾。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：brandy、port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "在飲料調製課程中，各種香料是雞尾酒常見之裝飾及風味。下列敘述，何者正確？ Egg Nog與Port Flip屬於含蛋或乳製品之濃厚型飲品，荳蔻粉兼具風味與裝飾。 Negus為冷飲型雞尾酒，通常以荳蔻粉增添清爽口感。 Brandy Alexander常以荳蔻粉作為表面裝飾，提供輕微辛香氣息。 Hot Toddy屬於典型酸酒（Sour） ，使用荳蔻粉作為裝飾。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2423
+  }
+}

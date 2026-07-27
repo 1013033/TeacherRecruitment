@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q035-b793c74581",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 35 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-8265",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 35,
+    "questionType": "multiple-choice",
+    "prompt": "下列有關於台茶編號與名稱的配對，何者是正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "台茶15號/17號-白燕/白鶴"
+      },
+      {
+        "id": "B",
+        "text": "台茶21號/23號-紅韻/祈韻"
+      },
+      {
+        "id": "C",
+        "text": "台茶19號/24號-迎香/ 山蘊"
+      },
+      {
+        "id": "D",
+        "text": "台茶14號/20號-白文/碧玉。 第二部分：綜合題（共60分）"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關於台茶編號與名稱的配對，何者是正確的？ 台茶15號/17號-白燕/白鶴 台茶21號/23號-紅韻/祈韻 台茶19號/24號-迎香/ 山蘊 台茶14號/20號-白文/碧玉。 第二部分：綜合題（共60分） 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2272
+  }
+}

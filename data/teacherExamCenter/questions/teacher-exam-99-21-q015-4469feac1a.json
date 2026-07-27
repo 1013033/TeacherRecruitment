@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q015-4469feac1a",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 15 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-14952",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "旅館的何種設施能充分彰顯其社交功能？",
+    "options": [
+      {
+        "id": "A",
+        "text": "宴會廳"
+      },
+      {
+        "id": "B",
+        "text": "餐廳"
+      },
+      {
+        "id": "C",
+        "text": "客房"
+      },
+      {
+        "id": "D",
+        "text": "夜總會。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅館的何種設施能充分彰顯其社交功能？ 宴會廳 餐廳 客房 夜總會。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3439
+  }
+}

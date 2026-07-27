@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q061-af1205ccfc",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 61 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-11265",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 61,
+    "questionType": "single-choice",
+    "prompt": "下列何種菜餚不適合分菜服務？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蚵蠣蒸蛋"
+      },
+      {
+        "id": "B",
+        "text": "紅蟳米糕"
+      },
+      {
+        "id": "C",
+        "text": "清蒸鱸魚"
+      },
+      {
+        "id": "D",
+        "text": "沙茶雙魷。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何種菜餚不適合分菜服務？ 蚵蠣蒸蛋 紅蟳米糕 清蒸鱸魚 沙茶雙魷。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 3404
+  }
+}

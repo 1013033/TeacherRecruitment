@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-c06b859808",
+  "dataVersion": "teacher-exam-aa6b082835",
   "concept": {
     "id": "tourism-hospitality-fundamentals",
     "subject": "tourism-hospitality",
@@ -22,16 +22,16 @@
       "teacher-exam-100-01-q009-15f7f84f2b",
       "teacher-exam-101-02-q002-1a1f6e4f62",
       "teacher-exam-101-02-q003-1ffa196f9e",
-      "teacher-exam-101-02-q012-aa9900ad4a",
-      "teacher-exam-101-02-q006-3284cd0bec",
-      "teacher-exam-101-02-q010-9c6f742423",
-      "teacher-exam-101-02-q014-c0c7db0db7",
-      "teacher-exam-101-02-q019-c76a980372",
-      "teacher-exam-101-02-q021-80b934edc3",
-      "teacher-exam-101-02-q023-043478a8c9",
-      "teacher-exam-101-02-q036-fc32c83dde",
-      "teacher-exam-101-02-q043-c51d9db68f",
-      "teacher-exam-101-02-q044-0d81073f38",
+      "teacher-exam-101-02-q012-0bcb6211d8",
+      "teacher-exam-101-02-q006-af45ddebfa",
+      "teacher-exam-101-02-q010-01f3eb063f",
+      "teacher-exam-101-02-q014-636b5325e8",
+      "teacher-exam-101-02-q019-bdca0e6958",
+      "teacher-exam-101-02-q021-357a6acc5a",
+      "teacher-exam-101-02-q023-d4f2041db4",
+      "teacher-exam-101-02-q036-5109a680da",
+      "teacher-exam-101-02-q043-2f7a13c145",
+      "teacher-exam-101-02-q044-124bbaa90a",
       "teacher-exam-102-03-q006-f12545269e",
       "teacher-exam-102-03-q002-6fc5e4233e",
       "teacher-exam-102-03-q004-e70a455fde",
@@ -106,54 +106,96 @@
       "teacher-exam-112-13-q006-4afbffe0e3",
       "teacher-exam-112-13-q010-f1b4bde9ff",
       "teacher-exam-112-13-q003-cd96e8750e",
-      "teacher-exam-94-14-q006-a97365e766",
-      "teacher-exam-94-14-q008-6a5434278c",
-      "teacher-exam-94-14-q010-a2c53f2aaa",
-      "teacher-exam-94-14-q012-1c8f845492",
-      "teacher-exam-94-14-q026-7bf2ad10ff",
-      "teacher-exam-94-14-q001-f1770fc34d",
-      "teacher-exam-94-14-q002-6f61a9baca",
-      "teacher-exam-94-14-q004-0e375b0238",
-      "teacher-exam-94-14-q006-d4d780e5ce",
-      "teacher-exam-94-14-q009-8746d96fa7",
-      "teacher-exam-94-14-q016-70d0594822",
-      "teacher-exam-94-14-q017-0d893cc5d1",
-      "teacher-exam-94-14-q019-8a0372ce65",
-      "teacher-exam-94-14-q001-d54ae35112",
-      "teacher-exam-94-14-q004-74ee010ba0",
-      "teacher-exam-94-14-q006-4eddd639e1",
-      "teacher-exam-96-15-q020-a709ee7c88",
-      "teacher-exam-96-15-q019-f565a17df5",
-      "teacher-exam-96-15-q028-bc763b7d2d",
-      "teacher-exam-96-15-q047-933bb92385",
-      "teacher-exam-97-16-q018-e168eac6e8",
-      "teacher-exam-97-16-q025-a372f99a48",
-      "teacher-exam-97-16-q040-953145fd68",
-      "teacher-exam-97-16-q048-c45d6cf6c0",
-      "teacher-exam-97-16-q040-e2c8c7cfd6",
-      "teacher-exam-97-16-q005-f5cedf6eb6",
-      "teacher-exam-97-16-q005-d717bad3c0",
-      "teacher-exam-97-16-q002-855b21c037",
-      "teacher-exam-97-16-q012-b70c038848",
-      "teacher-exam-97-16-q008-f35df5dda9",
-      "teacher-exam-97-16-q009-9e4ee0c426",
-      "teacher-exam-97-16-q018-d2bad7dd5f",
-      "teacher-exam-97-16-q023-38b3d10f93",
-      "teacher-exam-97-16-q025-69a6cb2163",
-      "teacher-exam-97-16-q030-742004401a",
-      "teacher-exam-97-16-q050-400fc9f255",
-      "teacher-exam-97-16-q051-c82a8360ae",
-      "teacher-exam-97-16-q052-280f043765",
-      "teacher-exam-98-17-q007-c01cb6abed",
-      "teacher-exam-98-17-q008-16a7a1bcb0",
-      "teacher-exam-98-17-q001-b749bbc14c",
-      "teacher-exam-98-17-q001-5f2be9a7ae",
-      "teacher-exam-98-17-q001-cef4ee27db",
-      "teacher-exam-98-17-q004-44322cea60",
-      "teacher-exam-98-17-q014-6a86fb3e91",
-      "teacher-exam-98-17-q020-ae1abdefe3",
-      "teacher-exam-99-18-q008-1479f80891",
-      "teacher-exam-99-18-q013-d59c4b996a"
+      "teacher-exam-113-14-q021-d74f9fadf5",
+      "teacher-exam-113-14-q005-361c6127ab",
+      "teacher-exam-113-14-q001-44269ac10b",
+      "teacher-exam-113-14-q025-54fc2898d8",
+      "teacher-exam-113-14-q037-fea30c7833",
+      "teacher-exam-113-14-q040-cef6f99720",
+      "teacher-exam-113-14-q045-cd9ae04c68",
+      "teacher-exam-113-14-q048-fa88086487",
+      "teacher-exam-113-14-q021-dbc1081500",
+      "teacher-exam-113-14-q007-f7ea4abe1c",
+      "teacher-exam-113-14-q001-48bae69d90",
+      "teacher-exam-113-14-q007-1690fdb868",
+      "teacher-exam-113-14-q011-cf148fa4ae",
+      "teacher-exam-113-14-q016-4d5b0c14d9",
+      "teacher-exam-113-14-q038-2c644e3973",
+      "teacher-exam-113-14-q041-254cb3a07c",
+      "teacher-exam-113-14-q049-c64d00bb55",
+      "teacher-exam-114-15-q021-0a139b9046",
+      "teacher-exam-114-15-q022-fb5314fdc5",
+      "teacher-exam-114-15-q025-99e87f907c",
+      "teacher-exam-114-15-q029-e7be5e8fa9",
+      "teacher-exam-114-15-q006-59c22eb7b6",
+      "teacher-exam-114-15-q014-8bc0d53e8e",
+      "teacher-exam-114-15-q021-905aa46891",
+      "teacher-exam-114-15-q025-439be8a690",
+      "teacher-exam-114-15-q027-e88e7a19d5",
+      "teacher-exam-114-15-q029-942e632ccf",
+      "teacher-exam-114-15-q032-4514354083",
+      "teacher-exam-115-16-q001-80682c4ccb",
+      "teacher-exam-115-16-q008-d7e5bee463",
+      "teacher-exam-115-16-q009-3f5f21b1c3",
+      "teacher-exam-115-16-q013-b208cd12e7",
+      "teacher-exam-115-16-q023-672f85fd0c",
+      "teacher-exam-115-16-q001-f504b8c67a",
+      "teacher-exam-115-16-q003-d9ffdd153b",
+      "teacher-exam-115-16-q021-70f107db24",
+      "teacher-exam-115-16-q022-5f23e4838f",
+      "teacher-exam-115-16-q023-821d7c099c",
+      "teacher-exam-115-16-q024-9e52e6691a",
+      "teacher-exam-115-16-q027-6daa64bccb",
+      "teacher-exam-115-16-q008-7f8ebecda8",
+      "teacher-exam-115-16-q013-ccc74ad060",
+      "teacher-exam-94-17-q006-a97365e766",
+      "teacher-exam-94-17-q008-6a5434278c",
+      "teacher-exam-94-17-q010-a2c53f2aaa",
+      "teacher-exam-94-17-q012-1c8f845492",
+      "teacher-exam-94-17-q026-7bf2ad10ff",
+      "teacher-exam-94-17-q001-f1770fc34d",
+      "teacher-exam-94-17-q002-6f61a9baca",
+      "teacher-exam-94-17-q004-0e375b0238",
+      "teacher-exam-94-17-q006-d4d780e5ce",
+      "teacher-exam-94-17-q009-8746d96fa7",
+      "teacher-exam-94-17-q016-70d0594822",
+      "teacher-exam-94-17-q017-0d893cc5d1",
+      "teacher-exam-94-17-q019-8a0372ce65",
+      "teacher-exam-94-17-q001-d54ae35112",
+      "teacher-exam-94-17-q004-74ee010ba0",
+      "teacher-exam-94-17-q006-4eddd639e1",
+      "teacher-exam-96-18-q020-a709ee7c88",
+      "teacher-exam-96-18-q019-f565a17df5",
+      "teacher-exam-96-18-q028-bc763b7d2d",
+      "teacher-exam-96-18-q047-933bb92385",
+      "teacher-exam-97-19-q018-e168eac6e8",
+      "teacher-exam-97-19-q025-a372f99a48",
+      "teacher-exam-97-19-q040-953145fd68",
+      "teacher-exam-97-19-q048-c45d6cf6c0",
+      "teacher-exam-97-19-q040-e2c8c7cfd6",
+      "teacher-exam-97-19-q005-f5cedf6eb6",
+      "teacher-exam-97-19-q005-d717bad3c0",
+      "teacher-exam-97-19-q002-855b21c037",
+      "teacher-exam-97-19-q012-b70c038848",
+      "teacher-exam-97-19-q008-f35df5dda9",
+      "teacher-exam-97-19-q009-9e4ee0c426",
+      "teacher-exam-97-19-q018-d2bad7dd5f",
+      "teacher-exam-97-19-q023-38b3d10f93",
+      "teacher-exam-97-19-q025-69a6cb2163",
+      "teacher-exam-97-19-q030-742004401a",
+      "teacher-exam-97-19-q050-400fc9f255",
+      "teacher-exam-97-19-q051-c82a8360ae",
+      "teacher-exam-97-19-q052-280f043765",
+      "teacher-exam-98-20-q007-c01cb6abed",
+      "teacher-exam-98-20-q008-16a7a1bcb0",
+      "teacher-exam-98-20-q001-b749bbc14c",
+      "teacher-exam-98-20-q001-5f2be9a7ae",
+      "teacher-exam-98-20-q001-cef4ee27db",
+      "teacher-exam-98-20-q004-44322cea60",
+      "teacher-exam-98-20-q014-6a86fb3e91",
+      "teacher-exam-98-20-q020-ae1abdefe3",
+      "teacher-exam-99-21-q008-1479f80891",
+      "teacher-exam-99-21-q013-d59c4b996a"
     ],
     "years": [
       94,
@@ -172,7 +214,10 @@
       109,
       110,
       111,
-      112
+      112,
+      113,
+      114,
+      115
     ],
     "publisherBasis": [
       {
@@ -670,7 +715,912 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列國內觀光資源介紹何者正確？ 參山國家風景區範圍包含虎頭山、八卦山及梨山 澎湖南方四島國家公園包含東嶼坪嶼、西嶼坪嶼、東吉嶼、西吉嶼，隸屬於海洋國家公園管理處 日月潭國家風景區特色為高山湖泊、原住民邵族文化 東沙環礁國家公園為完整珊瑚礁、海洋生態獨具特色，隸屬於東沙環礁國家公園管理處。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 989
+      "sequence": 988
+    },
+    {
+      "id": "teacher-exam-113-14-q005-361c6127ab",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 5 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-10682",
+      "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+      "schoolName": "113年公立高級中等學校教師甄選",
+      "questionNumber": 5,
+      "questionType": "essay",
+      "prompt": "「舊鞋。救命」不僅是捐舊鞋，走入非洲每個被遺忘的角落，不論是山窮水盡的北肯亞沙漠地帶， 南蘇丹戰亂逃離到北烏干達的難民營，或是肯亞、烏干達的赤貧偏鄉。依據著2030 聯合國 SDGS 永續發展方向前進，在赤貧偏鄉挖水井、建學校、診所、輔導養雞、種植高經濟價值蔬菜等…… 照顧患難中的孤兒寡婦，與一群年輕人捲起袖子、拯救生命，為著偏鄉的改變努力。…摘自於 「社 團法人舊鞋救命國際基督關懷協會」 依據文章中內容，請說明什麼是 SDGs？並說明「舊鞋。救命」活動符應哪些目標？（10 分） 三、翻譯題（共5分）",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：永續"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "「舊鞋。救命」不僅是捐舊鞋，走入非洲每個被遺忘的角落，不論是山窮水盡的北肯亞沙漠地帶， 南蘇丹戰亂逃離到北烏干達的難民營，或是肯亞、烏干達的赤貧偏鄉。依據著2030 聯合國 SDGS 永續發展方向前進，在赤貧偏鄉挖水井、建學校、診所、輔導養雞、種植高經濟價值蔬菜等…… 照顧患難中的孤兒寡婦，與一群年輕人捲起袖子、拯救生命，為著偏鄉的改變努力。…摘自於 「社 團法人舊鞋救命國際基督關懷協會」 依據文章中內容，請說明什麼是 SDGs？並說明「舊鞋。救命」活動符應哪些目標？（10 分） 三、翻譯題（共5分） 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2044
+    },
+    {
+      "id": "teacher-exam-113-14-q021-d74f9fadf5",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 21 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-5005",
+      "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+      "schoolName": "113年公立高級中等學校教師甄選",
+      "questionNumber": 21,
+      "questionType": "single-choice",
+      "prompt": "行政院為落實推動「Tourism 2025—臺灣觀光邁向 2025 方案」 ，其中提到解決當前問 題研擬臺灣觀光發展課題中有提到「中、南部需打造更具國際觀光魅力之景點，分散 來臺觀光客集中北臺灣之承載壓力」 ，請問這是指哪一個課題？",
+      "options": [
+        {
+          "id": "A",
+          "text": "產業疫後亟待轉型，旅遊品質有待提升"
+        },
+        {
+          "id": "B",
+          "text": "數位技術應用不足，觀光平台未臻完備"
+        },
+        {
+          "id": "C",
+          "text": "觀光資源同質性高，旅遊魅力仍待塑造"
+        },
+        {
+          "id": "D",
+          "text": "國際宣傳力道不足，行銷分工有待確立。"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、行銷、tourism"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "行政院為落實推動「Tourism 2025—臺灣觀光邁向 2025 方案」 ，其中提到解決當前問 題研擬臺灣觀光發展課題中有提到「中、南部需打造更具國際觀光魅力之景點，分散 來臺觀光客集中北臺灣之承載壓力」 ，請問這是指哪一個課題？ 產業疫後亟待轉型，旅遊品質有待提升 數位技術應用不足，觀光平台未臻完備 觀光資源同質性高，旅遊魅力仍待塑造 國際宣傳力道不足，行銷分工有待確立。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2018
+    },
+    {
+      "id": "teacher-exam-114-15-q006-59c22eb7b6",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 6 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-9102",
+      "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+      "schoolName": "114年公立高級中等學校教師甄選",
+      "questionNumber": 6,
+      "questionType": "essay",
+      "prompt": "後疫情時代，全球旅遊業加速復甦，台灣市場也與國際旅遊趨勢同步前進。根據交通部觀光署 統計，2024年全年出國人次達1,684萬9,683人次，在旅行的過程中保險占了非常重要的角色，請 說明「旅行業履約保證保險」 、「旅行業責任保險」 、 「旅遊平安保險」 、 「旅遊不便險」四種保險 的內容差異。（8分） <!-- Page 8 --> 國立馬祖高級中學 114 學年度第 1 次正式教師甄試 餐飲管理科 試題卷 單選題",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、旅遊業"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "後疫情時代，全球旅遊業加速復甦，台灣市場也與國際旅遊趨勢同步前進。根據交通部觀光署 統計，2024年全年出國人次達1,684萬9,683人次，在旅行的過程中保險占了非常重要的角色，請 說明「旅行業履約保證保險」 、「旅行業責任保險」 、 「旅遊平安保險」 、 「旅遊不便險」四種保險 的內容差異。（8分） <!-- Page 8 --> 國立馬祖高級中學 114 學年度第 1 次正式教師甄試 餐飲管理科 試題卷 單選題 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2281
+    },
+    {
+      "id": "teacher-exam-114-15-q021-0a139b9046",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 21 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-5392",
+      "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+      "schoolName": "114年公立高級中等學校教師甄選",
+      "questionNumber": 21,
+      "questionType": "single-choice",
+      "prompt": "台灣的郵輪產業為交通部2025年重要發展策略之一，而臺灣擁有絕佳的地理位置，目 前從北到南有多個郵輪港口可供使用，請問下列7個港口：基隆港、臺中港、安平港、 澎湖港、高雄港、花蓮港及蘇澳港。請問有幾個港口提供臺灣港務股份有限公司做郵 輪觀光使用？",
+      "options": [
+        {
+          "id": "A",
+          "text": "7個"
+        },
+        {
+          "id": "B",
+          "text": "6個"
+        },
+        {
+          "id": "C",
+          "text": "5個"
+        },
+        {
+          "id": "D",
+          "text": "4個。"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "台灣的郵輪產業為交通部2025年重要發展策略之一，而臺灣擁有絕佳的地理位置，目 前從北到南有多個郵輪港口可供使用，請問下列7個港口：基隆港、臺中港、安平港、 澎湖港、高雄港、花蓮港及蘇澳港。請問有幾個港口提供臺灣港務股份有限公司做郵 輪觀光使用？ 7個 6個 5個 4個。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2258
+    },
+    {
+      "id": "teacher-exam-114-15-q022-fb5314fdc5",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 22 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-5553",
+      "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+      "schoolName": "114年公立高級中等學校教師甄選",
+      "questionNumber": 22,
+      "questionType": "single-choice",
+      "prompt": "台灣觀光署推動永續旅遊再獲國際肯定，請問下列哪一個國家風景區榮獲2025年 ITB 柏林國際旅展「綠色目的地故事獎」 （Green Destinations Story Awards） 「商業與行銷」 類別第三名，展現臺灣在全球綠色旅遊領域的卓越成果？",
+      "options": [
+        {
+          "id": "A",
+          "text": "日月潭國家風景區"
+        },
+        {
+          "id": "B",
+          "text": "阿里山國家風景區"
+        },
+        {
+          "id": "C",
+          "text": "雲嘉南濱海國家風景區"
+        },
+        {
+          "id": "D",
+          "text": "西拉 雅國家風景區。"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、永續、行銷"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "台灣觀光署推動永續旅遊再獲國際肯定，請問下列哪一個國家風景區榮獲2025年 ITB 柏林國際旅展「綠色目的地故事獎」 （Green Destinations Story Awards） 「商業與行銷」 類別第三名，展現臺灣在全球綠色旅遊領域的卓越成果？ 日月潭國家風景區 阿里山國家風景區 雲嘉南濱海國家風景區 西拉 雅國家風景區。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2259
+    },
+    {
+      "id": "teacher-exam-114-15-q025-99e87f907c",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 25 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-6055",
+      "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+      "schoolName": "114年公立高級中等學校教師甄選",
+      "questionNumber": 25,
+      "questionType": "single-choice",
+      "prompt": "未來餐廳的營運方式正朝著「SDGs」指標前進與運行，請問屬於哪一種行銷觀念？ （A)Marketing Concept",
+      "options": [
+        {
+          "id": "B",
+          "text": "Sales Concept"
+        },
+        {
+          "id": "C",
+          "text": "Product concept"
+        },
+        {
+          "id": "D",
+          "text": "Social Marketing Concept。"
+        }
+      ],
+      "answer": "D",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：行銷、marketing"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "未來餐廳的營運方式正朝著「SDGs」指標前進與運行，請問屬於哪一種行銷觀念？ （A)Marketing Concept Sales Concept Product concept Social Marketing Concept。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2262
+    },
+    {
+      "id": "teacher-exam-114-15-q029-e7be5e8fa9",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 29 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-7215",
+      "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+      "schoolName": "114年公立高級中等學校教師甄選",
+      "questionNumber": 29,
+      "questionType": "multiple-choice",
+      "prompt": "關於「臺灣永續發展目標」18項核心目標敘述，下列何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "強化弱勢群體社會經濟安全照顧服務，落實保障老年經濟安全"
+        },
+        {
+          "id": "B",
+          "text": "確保全面、公 平及高品質教育，提倡終身學習，促進18歲以上成人終身學習"
+        },
+        {
+          "id": "C",
+          "text": "逐步達成環境基 本法所訂非核家園目標，依法推動核能電廠除役"
+        },
+        {
+          "id": "D",
+          "text": "積極推行觀光政策，推動「台 灣觀光100亮點」 ，展現台灣368個鄉鎮多樣的鄉土文化。"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、永續"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "關於「臺灣永續發展目標」18項核心目標敘述，下列何者正確？ 強化弱勢群體社會經濟安全照顧服務，落實保障老年經濟安全 確保全面、公 平及高品質教育，提倡終身學習，促進18歲以上成人終身學習 逐步達成環境基 本法所訂非核家園目標，依法推動核能電廠除役 積極推行觀光政策，推動「台 灣觀光100亮點」 ，展現台灣368個鄉鎮多樣的鄉土文化。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2266
+    },
+    {
+      "id": "teacher-exam-115-16-q001-80682c4ccb",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 1 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-324",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 1,
+      "questionType": "single-choice",
+      "prompt": "香港迪士尼於 2025 年至 2026 年歡慶 20 周年，舉辦一系列慶祝活動，吸引各地旅客 前往遊玩，請問以上所述「香港迪士尼」為觀光系統中哪一個項目？",
+      "options": [
+        {
+          "id": "A",
+          "text": "觀光主體"
+        },
+        {
+          "id": "B",
+          "text": "觀光客體"
+        },
+        {
+          "id": "C",
+          "text": "觀光媒體"
+        },
+        {
+          "id": "D",
+          "text": "觀光載體。"
+        }
+      ],
+      "answer": "B",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "香港迪士尼於 2025 年至 2026 年歡慶 20 周年，舉辦一系列慶祝活動，吸引各地旅客 前往遊玩，請問以上所述「香港迪士尼」為觀光系統中哪一個項目？ 觀光主體 觀光客體 觀光媒體 觀光載體。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2400
+    },
+    {
+      "id": "teacher-exam-115-16-q001-f504b8c67a",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 1 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-8949",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "STPC",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：stp"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "STPC 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2435
+    },
+    {
+      "id": "teacher-exam-115-16-q003-d9ffdd153b",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 3 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-8981",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "KOL Marketing",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：marketing"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "KOL Marketing 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2437
+    },
+    {
+      "id": "teacher-exam-115-16-q008-d7e5bee463",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 8 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-1826",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 8,
+      "questionType": "single-choice",
+      "prompt": "有關觀光遊憩主管機關的配對，下列何者有誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "安平古堡-行政院文建會。"
+        },
+        {
+          "id": "B",
+          "text": "阿里山國家風景區-交通部觀光署。"
+        },
+        {
+          "id": "C",
+          "text": "福壽山農場-行政院農業部林業及自然保育署。"
+        },
+        {
+          "id": "D",
+          "text": "東沙環礁國家公園-內政部國家公園署。"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "有關觀光遊憩主管機關的配對，下列何者有誤？ 安平古堡-行政院文建會。 阿里山國家風景區-交通部觀光署。 福壽山農場-行政院農業部林業及自然保育署。 東沙環礁國家公園-內政部國家公園署。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2407
+    },
+    {
+      "id": "teacher-exam-115-16-q009-3f5f21b1c3",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 9 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-1945",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 9,
+      "questionType": "single-choice",
+      "prompt": "關於觀光遊樂業的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "全世界第一間迪士尼樂園（Disneyland）是在美國奧蘭多成立。"
+        },
+        {
+          "id": "B",
+          "text": "世界上最新的環球影城（Universal Studios）樂園是在俄羅斯莫斯科。"
+        },
+        {
+          "id": "C",
+          "text": "樂高樂園（Legoland）最早成立於丹麥。"
+        },
+        {
+          "id": "D",
+          "text": "南韓樂天世界（LOTTE World）成立於1989年。"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "關於觀光遊樂業的敘述，下列何者錯誤？ 全世界第一間迪士尼樂園（Disneyland）是在美國奧蘭多成立。 世界上最新的環球影城（Universal Studios）樂園是在俄羅斯莫斯科。 樂高樂園（Legoland）最早成立於丹麥。 南韓樂天世界（LOTTE World）成立於1989年。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2408
+    },
+    {
+      "id": "teacher-exam-115-16-q013-b208cd12e7",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 13 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-2529",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 13,
+      "questionType": "single-choice",
+      "prompt": "高雄旗津規劃全長約 17 公里之「旗津環島踩風自行車道」 ，串聯旗后砲台、燈塔、星 空隧道、彩虹教堂、貝殼館及風車公園等景點。遊客多選擇租借電動自行車，不僅可 隨騎隨停、沿途欣賞海景，亦無須自備交通工具；且於租借期間可自由使用該車輛。 請問上述情境符合行銷中的何種效用？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ownership Utility"
+        },
+        {
+          "id": "B",
+          "text": "Time Utility"
+        },
+        {
+          "id": "C",
+          "text": "Form Utility"
+        },
+        {
+          "id": "D",
+          "text": "Place Utility。"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：行銷"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "高雄旗津規劃全長約 17 公里之「旗津環島踩風自行車道」 ，串聯旗后砲台、燈塔、星 空隧道、彩虹教堂、貝殼館及風車公園等景點。遊客多選擇租借電動自行車，不僅可 隨騎隨停、沿途欣賞海景，亦無須自備交通工具；且於租借期間可自由使用該車輛。 請問上述情境符合行銷中的何種效用？ Ownership Utility Time Utility Form Utility Place Utility。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2412
+    },
+    {
+      "id": "teacher-exam-115-16-q023-672f85fd0c",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 23 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-5233",
+      "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+      "schoolName": "115年公立高級中等學校教師甄選",
+      "questionNumber": 23,
+      "questionType": "multiple-choice",
+      "prompt": "依據Tourism 2030–臺灣觀光邁向2030方案（115～119年），臺灣觀光發展以「永續韌性」 與「數位創新」為核心，並透過四大策略推動整體轉型。請判斷下列措施，何者符合 該方案政策方向？",
+      "options": [
+        {
+          "id": "A",
+          "text": "建置智慧景區管理平台，整合數據以提升旅遊體驗與安全。"
+        },
+        {
+          "id": "B",
+          "text": "以單一熱門景點集中投資，強化觀光聚集效應。"
+        },
+        {
+          "id": "C",
+          "text": "推動區域觀光圈，整合食宿遊購行以促進地方均衡發展。"
+        },
+        {
+          "id": "D",
+          "text": "發展多元主題旅遊，如文化、綠色、農遊，以提升旅遊深度。"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、永續、tourism"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "依據Tourism 2030–臺灣觀光邁向2030方案（115～119年），臺灣觀光發展以「永續韌性」 與「數位創新」為核心，並透過四大策略推動整體轉型。請判斷下列措施，何者符合 該方案政策方向？ 建置智慧景區管理平台，整合數據以提升旅遊體驗與安全。 以單一熱門景點集中投資，強化觀光聚集效應。 推動區域觀光圈，整合食宿遊購行以促進地方均衡發展。 發展多元主題旅遊，如文化、綠色、農遊，以提升旅遊深度。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2422
     },
     {
       "id": "teacher-exam-104-05-q001-7f35d900b8",
@@ -745,7 +1695,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "依據行政院主計處之「中華民國行業標準分類」，有關觀光餐旅相關行業之分類，下列敘述何者有誤？ 會議及展覽服務業為N大類 餐館業為I大類 運動服務業為H大類 博弈業為R大類。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 578
+      "sequence": 577
     },
     {
       "id": "teacher-exam-104-05-q007-11d2786c7b",
@@ -820,7 +1770,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "我國旅行業發展的重要紀事中，哪一項的發生日期是最晚的？ 中華民國觀光領隊協會成立 交通部訂定「觀光政策白皮書」 實施隔週休二日 首辦導遊甄試。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 584
+      "sequence": 583
     },
     {
       "id": "teacher-exam-104-05-q015-4a36b0ba56",
@@ -895,7 +1845,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "電視購物頻道在銷售餐旅相關產品時，採用影片或名人推薦的方式進行，讓旅客有親身體驗的感受，是屬於哪一商品特性？ Perishability Inseparability Intangibility Heterogeneity。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 592
+      "sequence": 591
     },
     {
       "id": "teacher-exam-107-08-q002-558400fa02",
@@ -933,7 +1883,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "交通部觀光局為提升新任稀少語別導遊接待服務經驗與技能及儲備接待稀少語別地區來臺團體旅客業務人才，特於105年訂定發布稀少語別隨團導遊或翻譯人員補助要點，其稀少語別係指？（每格2分，共14分） 3. 請將下列敘述翻譯成中文（5分） Before you begin planning an event, SWOT analysis usually must be implemented to underpin your decision making. SWOT analysis assists you in identifying the internal and external variables that may prevent the event from achieving maximum success. 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1358
+      "sequence": 1357
     },
     {
       "id": "teacher-exam-107-08-q005-bd2740db94",
@@ -961,7 +1911,7 @@
         },
         {
           "id": "D",
-          "text": "畸零訂價法。 (第1頁／共5頁)"
+          "text": "畸零訂價法。 ( ／共5頁)"
         }
       ],
       "answer": "B",
@@ -1007,8 +1957,8 @@
       },
       "reviewStatus": "draft",
       "flags": [],
-      "searchText": "在餐旅行銷策略中，將價格訂得比其它相同等級的產品低，以求短期內提高市場佔有率的訂價法，稱為： 市場榨取法 市場滲透法 追隨領袖訂價法 畸零訂價法。 (第1頁／共5頁) 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1316
+      "searchText": "在餐旅行銷策略中，將價格訂得比其它相同等級的產品低，以求短期內提高市場佔有率的訂價法，稱為： 市場榨取法 市場滲透法 追隨領袖訂價法 畸零訂價法。 ( ／共5頁) 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 1315
     },
     {
       "id": "teacher-exam-107-08-q005-4b52c37951",
@@ -1046,7 +1996,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "TME （Taiwan Many Elements / Tourism Market Evaluation 等觀光專業縮寫，依上下文或觀光局相關專案而定） 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1356
+      "sequence": 1355
     },
     {
       "id": "teacher-exam-107-08-q008-fc063e551b",
@@ -1121,7 +2071,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "106年以觀光為目的來臺旅客，其市場佔有率約為多少？ 5成 6成 7成 8成左右。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1319
+      "sequence": 1318
     },
     {
       "id": "teacher-exam-107-08-q010-71bac4d2a9",
@@ -1198,7 +2148,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列「好客民宿」的相關敘述何者有誤？ 全臺已有超過850家的好客民宿 民國102年交通部觀光局推出好客民宿認證 交通部觀光局預計今年挑戰第1000家好客民宿 讓民宿成為在地環保、生態保護的中心，兼具觀光與教育價值。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1321
+      "sequence": 1320
     },
     {
       "id": "teacher-exam-107-08-q019-1194347162",
@@ -1273,7 +2223,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於臺灣的觀光資源，下列敘述何者錯誤？ 9處國家公園 1處國家自然公園 18處森林遊樂區 8處野生動物保護區。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1330
+      "sequence": 1329
     },
     {
       "id": "teacher-exam-107-08-q033-4737eb5075",
@@ -1353,7 +2303,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "關於「Tourism 2020-臺灣永續觀光發展策略」的敘述下列何者正確？ 政策執行期間是105-109年 期望塑造臺灣成為「友善、智慧、體驗」之亞洲重要旅遊目的地 「安全安心，落實旅遊社會責任」為其核心目標 交通部觀光局訂2017年為「臺灣永續觀光發展年」。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1344
+      "sequence": 1343
     },
     {
       "id": "teacher-exam-108-09-q002-a021553d71",
@@ -1391,7 +2341,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "請寫出在 Tourism 2020-臺灣永續觀光發展策略中,其中五項執行策略。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1387
+      "sequence": 1386
     },
     {
       "id": "teacher-exam-109-10-q002-22a3d0b390",
@@ -1429,7 +2379,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "觀餐旅業專業英文翻譯（請寫出中文）。（10分，每格1分） | 專業英文 | 中文 | 專業英文 | 中文 | | --- | --- | --- | --- | | Luggage Rack | (1) | Bermuda Plan | (2) | | Linen Cart | (3) | Butcher | (4) | | Napkin Ring | (5) | Amusement Tourism | (6) | | Rectangular Tray | (7) | Salt Rimmed | (8) | | Reservation Supervisor | (9) | Lemon Spiral | (10) | 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1541
+      "sequence": 1540
     },
     {
       "id": "teacher-exam-109-10-q015-582c8f5a64",
@@ -1506,7 +2456,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "關於臺灣觀光餐旅業的發展，依年份順序下列敘述何者正確？ 甲：88年臺灣溫泉觀光年 乙：46年成立台灣觀光協會 丙：77年將旅行業區分為綜合、甲種、乙種 丁：108年脊梁山脈生態旅遊年 戊：70年觀光局首次辦理國際領隊人員甄試 己：78年旅行業成立 TQAA 甲乙丙 甲丙己 乙丁己 丙丁己。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1529
+      "sequence": 1528
     },
     {
       "id": "teacher-exam-110-11-q002-e22f3465c0",
@@ -1544,7 +2494,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "請寫出「Gaming Entertainment Industry」（博奕娛樂產業）特性、優點、缺點。（5分） 特性：結合觀光、住宿、餐飲、表演與大型賭場設施，具高度資本密集、高利潤及嚴格政府特許管制的綜合娛樂產業。 優點：能吸引大量國際觀光客、創造龐大就業機會、增加政府稅收，並帶動周邊餐旅與會展產業的經濟繁榮。 缺點：容易衍生社會問題（如治安惡化、洗錢防治漏洞、沉迷賭博導致家庭與財務危機）、貧富差距擴大以及對當地文化造成衝擊。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1684
+      "sequence": 1683
     },
     {
       "id": "teacher-exam-110-11-q003-ae7637cfb3",
@@ -1582,7 +2532,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "觀光局推動「臺灣永續觀光發展方案」，並訂定各年度旅遊主題，2020年主題：(1)脊梁山脈旅遊年、2021年主題：(2)自行車旅遊年。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1678
+      "sequence": 1677
     },
     {
       "id": "teacher-exam-110-11-q010-76fac7aecd",
@@ -1657,7 +2607,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "黃太太晚上到超商裡的ATM提款即送某速食店套餐的優惠券一張，是屬於餐旅業未來發展趨勢的哪一種類型？ 連鎖加盟 多角化經營 複合式經營 異業結盟。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1650
+      "sequence": 1649
     },
     {
       "id": "teacher-exam-110-11-q026-0030453464",
@@ -1732,10 +2682,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "注重顧客需求，藉由雙方長期的互動關係了解顧客需求，以創造顧客最高滿意度與維持顧客忠誠度方式獲取利潤。試問以上敘述為下列何者？ Selling Oriented Relationship Marketing Oriented Social Marketing Oriented Green Marketing Oriented。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1666
+      "sequence": 1665
     },
     {
-      "id": "teacher-exam-97-16-q008-f35df5dda9",
+      "id": "teacher-exam-97-19-q008-f35df5dda9",
       "sourceYear": 97,
       "sourceLabel": "97 年第 8 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -1807,10 +2757,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於餐旅行銷通路之考量，下列何者較正確？ 考慮利潤及成本 考慮銷售量 考慮產品特性 銷售對象。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2603
+      "sequence": 3128
     },
     {
-      "id": "teacher-exam-97-16-q009-9e4ee0c426",
+      "id": "teacher-exam-97-19-q009-9e4ee0c426",
       "sourceYear": 97,
       "sourceLabel": "97 年第 9 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -1882,10 +2832,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "餐旅服務人員之職業道德中，所謂「五感一心」，此心係指下列何者而言？ 耐心 細心 恆心 同理心。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2604
+      "sequence": 3129
     },
     {
-      "id": "teacher-exam-97-16-q018-d2bad7dd5f",
+      "id": "teacher-exam-97-19-q018-d2bad7dd5f",
       "sourceYear": 97,
       "sourceLabel": "97 年第 18 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -1957,10 +2907,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "歐洲餐旅業之發展，最早始於何時？ 產業革命 羅馬時代 文藝復興 巴比倫時代。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2613
+      "sequence": 3138
     },
     {
-      "id": "teacher-exam-97-16-q023-38b3d10f93",
+      "id": "teacher-exam-97-19-q023-38b3d10f93",
       "sourceYear": 97,
       "sourceLabel": "97 年第 23 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -2032,10 +2982,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "所謂「綠色行銷」是哪一種導向的考量？ 產品導向 銷售導向 行銷導向 社會導向。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2618
+      "sequence": 3143
     },
     {
-      "id": "teacher-exam-97-16-q025-69a6cb2163",
+      "id": "teacher-exam-97-19-q025-69a6cb2163",
       "sourceYear": 97,
       "sourceLabel": "97 年第 25 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -2107,10 +3057,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "所謂觀光餐旅業，係屬於觀光系統中那一項？ 觀光主體 觀光客體 觀光媒體 觀光形體。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2620
+      "sequence": 3145
     },
     {
-      "id": "teacher-exam-97-16-q030-742004401a",
+      "id": "teacher-exam-97-19-q030-742004401a",
       "sourceYear": 97,
       "sourceLabel": "97 年第 30 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -2182,10 +3132,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "所謂「PAK」，其意思為： 同業間聯合行銷 內部行銷 互動行銷 異業結盟。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2625
+      "sequence": 3150
     },
     {
-      "id": "teacher-exam-97-16-q050-400fc9f255",
+      "id": "teacher-exam-97-19-q050-400fc9f255",
       "sourceYear": 97,
       "sourceLabel": "97 年第 50 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -2257,10 +3207,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "餐旅業全年無休，上班時間長，因此非常重視彈性排班或輪班，此制度稱之為： Shift Work Change Work Turn Work Exchange Work 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2645
+      "sequence": 3170
     },
     {
-      "id": "teacher-exam-97-16-q051-c82a8360ae",
+      "id": "teacher-exam-97-19-q051-c82a8360ae",
       "sourceYear": 97,
       "sourceLabel": "97 年第 51 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -2334,10 +3284,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "為發展全國觀光餐旅產業，強化政府組織統一事權之功能，政府乃於何年正式定名成立「交通部觀光局」？ 民國 60 年 民國 61 年 民國 62 年 民國 63 年。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2646
+      "sequence": 3171
     },
     {
-      "id": "teacher-exam-97-16-q052-280f043765",
+      "id": "teacher-exam-97-19-q052-280f043765",
       "sourceYear": 97,
       "sourceLabel": "97 年第 52 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -2411,7 +3361,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "我國發展觀光條例，關於旅行業的定義係公布在那一條款法規？ 第一條 第二條 第三條 第四條。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2647
+      "sequence": 3172
     },
     {
       "id": "teacher-exam-111-12-q018-c89503649e",
@@ -2495,7 +3445,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "觀光包含部分的旅行，但並非所有的旅行都涵蓋在觀光範疇內，下列哪些旅行不屬於觀光？ 以下皆不是（通勤、移民、短期打工皆非觀光） 通勤 移民 短期打工 以上皆是 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1813
+      "sequence": 1812
     },
     {
       "id": "teacher-exam-111-12-q023-13d0bca48d",
@@ -2581,7 +3531,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "我國政府組織中，負責觀光政策、觀光推展以及觀光統計的行政單位是 行政院觀光發展推動委員會 國家發展委員會觀光局 交通部觀光局 行政院農委會觀光休閒局 以上皆是 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1818
+      "sequence": 1817
     },
     {
       "id": "teacher-exam-111-12-q024-9e22ac2832",
@@ -2665,7 +3615,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "觀光產業包含的範圍非常廣泛，主要的行業包含下面哪一個？ 餐旅業 交通運輸業 觀光遊樂業 郵輪與博弈產業 以上皆是 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1819
+      "sequence": 1818
     },
     {
       "id": "teacher-exam-111-12-q025-5c5f4e904d",
@@ -2754,7 +3704,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "觀光餐旅業在服務業方面的特性，何者正確？ 合作性 僵固性 無歇性 服務性 季節性 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1820
+      "sequence": 1819
     },
     {
       "id": "teacher-exam-111-12-q042-91e02c2d53",
@@ -2842,7 +3792,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "為促進觀光休閒漁業之發展，落實地方文化特色的價值，萬里區漁會、新北市府與漁業署自 2012 年開始共同將漁村資源、漁特產品與周邊觀光產業結合，舉辦「新北萬里蟹季」節慶活動，請問「萬里蟹」包含哪三種野生海蟹？ 花蟹 三點蟹 石蟳 沙公 紅蟳 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1837
+      "sequence": 1836
     },
     {
       "id": "teacher-exam-111-12-q046-387d5002c6",
@@ -2932,7 +3882,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪些是餐旅倫理關心的議題？ 法律責任 公平 實現承諾 避免受傷害 誠實 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1841
+      "sequence": 1840
     },
     {
       "id": "teacher-exam-111-12-q048-7574ba6548",
@@ -3021,7 +3971,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "目前我國觀光行政單位在下列哪些國家設有駐外辦事處？ 英國與愛爾蘭 新加坡與馬來西亞 德國 大韓民國 日本與韓國 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1843
+      "sequence": 1842
     },
     {
       "id": "teacher-exam-112-13-q003-cd96e8750e",
@@ -3057,7 +4007,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "何謂會展 (MICE)？請描述其所涵蓋的範疇及活動內容 (4分)。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1997
+      "sequence": 1993
     },
     {
       "id": "teacher-exam-112-13-q010-f1b4bde9ff",
@@ -3105,7 +4055,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "觀光產業人員要求應變能力要高...這是觀光產業在公共關係中的何種特性？ 創造性。 ##### 第貳部份：填充題（共3題，占14分） 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1993
+      "sequence": 1989
     },
     {
       "id": "teacher-exam-106-07-q003-7883b82f8b",
@@ -3141,7 +4091,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "Green Consumption ：綠色消費（指在消費時選擇對環境友善、節能減碳及永續發展的產品與服務）。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1307
+      "sequence": 1306
     },
     {
       "id": "teacher-exam-106-07-q008-458fab79b2",
@@ -3216,7 +4166,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "高速火車（Fast Trains）是發展大眾觀光相當重要的一環，請問下列各國高速火車之配對何者正確？ 英國：ICE 臺灣：HST 德國：HSR 西班牙：AVE。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1287
+      "sequence": 1286
     },
     {
       "id": "teacher-exam-106-07-q009-196426e7c1",
@@ -3293,7 +4243,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列何者非為交通部觀光局駐外辦事處所在地？ LAX SYD FRA KUL。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1288
+      "sequence": 1287
     },
     {
       "id": "teacher-exam-106-07-q010-e96eab4d7b",
@@ -3370,7 +4320,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "號稱亞洲袖珍版亞馬遜河的「台南四草」，最符合下列哪一種觀光型態？ Conventional tourism Environmental tourism Social tourism Culture tourism。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1289
+      "sequence": 1288
     },
     {
       "id": "teacher-exam-100-01-q009-15f7f84f2b",
@@ -3483,7 +4433,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "請說明下列四種餐旅業特性的意義及內涵： (1) Heterogeneity (2) Inseparability (3) Perishability (4) Sensitive 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1622
+      "sequence": 1621
     },
     {
       "id": "teacher-exam-104-05-q029-9981b3f68f",
@@ -3558,10 +4508,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列關於花東縱谷風景區內觀光景點的敘述何者錯誤？ 鯉魚潭是花蓮縣內最大的堰塞湖泊，當地人稱之為「大阪」 壽豐鄉的豐田移民村保有日式房舍和菸樓 瑞穗牧場、兆豐休閒農場同為花蓮兩大金針栽植區 馬太鞍溼地生態園區因大量地形雨而成為一處湧泉不絕的天然沼澤溼地。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 925
+      "sequence": 924
     },
     {
-      "id": "teacher-exam-97-16-q005-d717bad3c0",
+      "id": "teacher-exam-97-19-q005-d717bad3c0",
       "sourceYear": 97,
       "sourceLabel": "97 年第 5 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -3596,7 +4546,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "MICE ：為會議旅遊，包含有會議 Meeting、獎勵旅遊 Incentive、大型會議 Conference/Convention、展覽 Exhibition，為近年來各國發展之觀光重要產業活動。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2522
+      "sequence": 3047
     },
     {
       "id": "teacher-exam-104-05-q031-6d09cb3700",
@@ -3671,7 +4621,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於餐旅發展紀事，下列何有錯誤？ 開放 outbound - 民國68年 開放大陸探親政策 - 民國76年 外交部開始核發 MRP - 民國84年 開放大陸人民第一類來臺觀光 - 民國94年。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 636
+      "sequence": 635
     },
     {
       "id": "teacher-exam-104-05-q033-f8699487e6",
@@ -3748,7 +4698,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列何者不是觀光局規劃的台灣八大旗艦景點？ 合歡山 玉山 愛河 太魯閣。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 638
+      "sequence": 637
     },
     {
       "id": "teacher-exam-104-05-q036-fad116fae9",
@@ -3825,7 +4775,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "關於觀光遊憩相關主管單位，下列何者錯誤？ 清境農場 - 農委會 國家公園 - 內政部 國家風景區 - 觀光局 溪頭台大實驗林場 - 教育部。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 641
+      "sequence": 640
     },
     {
       "id": "teacher-exam-101-02-q002-1a1f6e4f62",
@@ -3978,6 +4928,543 @@
       ],
       "searchText": "依交通部觀光局統計資料顯示，下列敘述何者不正確？ 蘭嶼地區 101 年 6 月遊客人數較前年同月大幅減少 知本溫泉風景特定區 101 年 6 月遊客人數較前年大幅增加 綠島 101 年 6 月遊客人數為 36,236 人次 截至民國 101 年 6 月止，臺東縣境合法民宿有 411 家。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
       "sequence": 302
+    },
+    {
+      "id": "teacher-exam-113-14-q001-48bae69d90",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 1 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-34702",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 1,
+      "questionType": "single-choice",
+      "prompt": "所謂服務的「關鍵時刻」 （Moment of Truth）主要是用來強調",
+      "options": [
+        {
+          "id": "A",
+          "text": "服務接觸的重要性"
+        },
+        {
+          "id": "B",
+          "text": "抱怨處 理的重要性"
+        },
+        {
+          "id": "C",
+          "text": "電話訂位的重要性"
+        },
+        {
+          "id": "D",
+          "text": "告別服務的重要性"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：服務接觸"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "所謂服務的「關鍵時刻」 （Moment of Truth）主要是用來強調 服務接觸的重要性 抱怨處 理的重要性 電話訂位的重要性 告別服務的重要性 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2188
+    },
+    {
+      "id": "teacher-exam-113-14-q007-1690fdb868",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 7 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-35220",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 7,
+      "questionType": "single-choice",
+      "prompt": "在西洋歷史上，最早表現接待精神呈現餐旅業高尚美德的人要算是",
+      "options": [
+        {
+          "id": "A",
+          "text": "羅馬人"
+        },
+        {
+          "id": "B",
+          "text": "馬來人"
+        },
+        {
+          "id": "C",
+          "text": "拉丁人"
+        },
+        {
+          "id": "D",
+          "text": "希臘人"
+        }
+      ],
+      "answer": "D",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "在西洋歷史上，最早表現接待精神呈現餐旅業高尚美德的人要算是 羅馬人 馬來人 拉丁人 希臘人 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2194
+    },
+    {
+      "id": "teacher-exam-113-14-q011-cf148fa4ae",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 11 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-35560",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 11,
+      "questionType": "single-choice",
+      "prompt": "觀光產業是一種服務事業，屬於哪一級的產業之範疇？",
+      "options": [
+        {
+          "id": "A",
+          "text": "第一級"
+        },
+        {
+          "id": "B",
+          "text": "第二級"
+        },
+        {
+          "id": "C",
+          "text": "第三級"
+        },
+        {
+          "id": "D",
+          "text": "第四級"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "觀光產業是一種服務事業，屬於哪一級的產業之範疇？ 第一級 第二級 第三級 第四級 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2198
+    },
+    {
+      "id": "teacher-exam-113-14-q016-4d5b0c14d9",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 16 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-35974",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "下列何者不是餐旅業發展的正面效益？",
+      "options": [
+        {
+          "id": "A",
+          "text": "提升國家經濟成長"
+        },
+        {
+          "id": "B",
+          "text": "塑造地方在地特色"
+        },
+        {
+          "id": "C",
+          "text": "帶給居 民示範效果"
+        },
+        {
+          "id": "D",
+          "text": "增加國民就業機會"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列何者不是餐旅業發展的正面效益？ 提升國家經濟成長 塑造地方在地特色 帶給居 民示範效果 增加國民就業機會 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2203
+    },
+    {
+      "id": "teacher-exam-113-14-q038-2c644e3973",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 38 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-37854",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 38,
+      "questionType": "single-choice",
+      "prompt": "根據交通部觀光局公布的觀光資源統計資料，觀光水庫如翡翠水庫、谷關溫泉等的主管機關是？",
+      "options": [
+        {
+          "id": "A",
+          "text": "交通部觀光局"
+        },
+        {
+          "id": "B",
+          "text": "體委會"
+        },
+        {
+          "id": "C",
+          "text": "經濟部"
+        },
+        {
+          "id": "D",
+          "text": "行政院"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "根據交通部觀光局公布的觀光資源統計資料，觀光水庫如翡翠水庫、谷關溫泉等的主管機關是？ 交通部觀光局 體委會 經濟部 行政院 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2225
+    },
+    {
+      "id": "teacher-exam-113-14-q041-254cb3a07c",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 41 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-38193",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 41,
+      "questionType": "multiple-choice",
+      "prompt": "下列何者屬於國外學者Chon & Sparrowe所認定的餐旅業的服務內容？",
+      "options": [
+        {
+          "id": "A",
+          "text": "觀光旅遊業"
+        },
+        {
+          "id": "B",
+          "text": "觀 光百貨業"
+        },
+        {
+          "id": "C",
+          "text": "交通運輸業"
+        },
+        {
+          "id": "D",
+          "text": "休閒運動與娛樂產業"
+        }
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、餐旅、旅遊業"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列何者屬於國外學者Chon & Sparrowe所認定的餐旅業的服務內容？ 觀光旅遊業 觀 光百貨業 交通運輸業 休閒運動與娛樂產業 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2228
+    },
+    {
+      "id": "teacher-exam-113-14-q049-c64d00bb55",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 49 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-38899",
+      "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+      "schoolName": "國立金門高級農工職業學校",
+      "questionNumber": 49,
+      "questionType": "multiple-choice",
+      "prompt": "下列哪項較屬於餐旅從業人員的專業能力？",
+      "options": [
+        {
+          "id": "A",
+          "text": "基礎專業能力"
+        },
+        {
+          "id": "B",
+          "text": "流利的外語會話能力"
+        },
+        {
+          "id": "C",
+          "text": "快捷的電腦資訊處理能力"
+        },
+        {
+          "id": "D",
+          "text": "溝通及表達能力"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列哪項較屬於餐旅從業人員的專業能力？ 基礎專業能力 流利的外語會話能力 快捷的電腦資訊處理能力 溝通及表達能力 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2236
     },
     {
       "id": "teacher-exam-100-01-q005-90acbe52f9",
@@ -4281,10 +5768,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列敘述何者不是餐旅行銷的原則？ 制定行銷策略前，通常會進行Strengths、Weaknesses、Opportunities 與Threats 之分析 餐旅業所有行銷工作僅能由業務部門同仁統一執行 目標行銷又稱STP，包含Segmentation、Targeting 與Positioning 餐旅外部行銷環境之分析包含經濟、社會、政治、科技與競爭環境等。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1004
+      "sequence": 1003
     },
     {
-      "id": "teacher-exam-99-18-q008-1479f80891",
+      "id": "teacher-exam-99-21-q008-1479f80891",
       "sourceYear": 99,
       "sourceLabel": "99 年第 8 題",
       "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
@@ -4356,10 +5843,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "政府自何時起全面開放大陸人士來臺觀光？ 民國 95 年 7 月 民國 96 年 7 月 民國 97 年 7 月 民國 98 年 1 月。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2934
+      "sequence": 3459
     },
     {
-      "id": "teacher-exam-99-18-q013-d59c4b996a",
+      "id": "teacher-exam-99-21-q013-d59c4b996a",
       "sourceYear": 99,
       "sourceLabel": "99 年第 13 題",
       "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
@@ -4392,10 +5879,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "ATM ：中華民國觀光領隊協會 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2956
+      "sequence": 3481
     },
     {
-      "id": "teacher-exam-98-17-q001-cef4ee27db",
+      "id": "teacher-exam-98-20-q001-cef4ee27db",
       "sourceYear": 98,
       "sourceLabel": "98 年第 1 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -4467,10 +5954,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "餐旅業的英文是 Hospitality Industry，其中 Hospitality 的語源是 拉丁文 法文 英文 義大利文。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2717
+      "sequence": 3242
     },
     {
-      "id": "teacher-exam-98-17-q004-44322cea60",
+      "id": "teacher-exam-98-20-q004-44322cea60",
       "sourceYear": 98,
       "sourceLabel": "98 年第 4 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -4542,10 +6029,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一種旅行業不得接待國外觀光客？ 綜合旅行業 甲種旅行業 乙種旅行業 以上皆可。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2720
+      "sequence": 3245
     },
     {
-      "id": "teacher-exam-98-17-q014-6a86fb3e91",
+      "id": "teacher-exam-98-20-q014-6a86fb3e91",
       "sourceYear": 98,
       "sourceLabel": "98 年第 14 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -4619,10 +6106,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "我國的旅館業，其主管機關為 各縣市政府觀光單位（交通部為中央主管機關） 臺灣省政府交通處 交通部觀光局 內政部營建署。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2730
+      "sequence": 3255
     },
     {
-      "id": "teacher-exam-98-17-q020-ae1abdefe3",
+      "id": "teacher-exam-98-20-q020-ae1abdefe3",
       "sourceYear": 98,
       "sourceLabel": "98 年第 20 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -4696,14 +6183,14 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列哪一項不屬於餐飲行銷組合的 4P？ 產品 地點 價格 人力。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2736
+      "sequence": 3261
     },
     {
-      "id": "teacher-exam-101-02-q006-3284cd0bec",
+      "id": "teacher-exam-101-02-q006-af45ddebfa",
       "sourceYear": 101,
       "sourceLabel": "101 年第 6 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20283",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20325",
       "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 6,
@@ -4771,14 +6258,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列何者不是行銷組合 4P 中的推廣促銷（promotion）經常使用的工具？ 置入性行銷 產品廣告 產品之研發設計 公共關係。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 360
+      "sequence": 359
     },
     {
-      "id": "teacher-exam-101-02-q010-9c6f742423",
+      "id": "teacher-exam-101-02-q010-01f3eb063f",
       "sourceYear": 101,
       "sourceLabel": "101 年第 10 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20771",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20813",
       "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 10,
@@ -4846,14 +6333,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一項最符合餐旅業的服務特徵？ 服務具有異質性 服務具有分割性 服務具有儲存性 服務具有有形性。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 364
+      "sequence": 363
     },
     {
-      "id": "teacher-exam-101-02-q014-c0c7db0db7",
+      "id": "teacher-exam-101-02-q014-636b5325e8",
       "sourceYear": 101,
       "sourceLabel": "101 年第 14 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21043",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21085",
       "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 14,
@@ -4923,14 +6410,14 @@
         "multiple-concept-candidates"
       ],
       "searchText": "阿進具有碩士學位，目前在國內某大學休閒系擔任專任教師，並教授觀光專業課程，但未曾在旅行業工作過。若他希望取得旅行業經理人資格，依現行「旅行業管理規則」，請問阿進需具備下列哪一項條件，才能於最短的時間內參加經理人講習（訓練）？ 在校授課滿 1 年後始可參加 在校授課滿 2 年後始可參加 須前往旅行業觀摩實習滿 2 年後始可參加 因無旅行業工作經驗，故不具參加資格。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 368
+      "sequence": 367
     },
     {
-      "id": "teacher-exam-101-02-q019-c76a980372",
+      "id": "teacher-exam-101-02-q019-bdca0e6958",
       "sourceYear": 101,
       "sourceLabel": "101 年第 19 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21723",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21765",
       "paperTitle": "未標示試卷",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 19,
@@ -5000,14 +6487,14 @@
         "multiple-concept-candidates"
       ],
       "searchText": "政府發放消費券，在餐旅業經營之 SWOT 分析中可歸為哪一項？ strength weakness threat opportunity。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 373
+      "sequence": 372
     },
     {
-      "id": "teacher-exam-101-02-q021-80b934edc3",
+      "id": "teacher-exam-101-02-q021-357a6acc5a",
       "sourceYear": 101,
       "sourceLabel": "101 年第 21 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21896",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21938",
       "paperTitle": "未標示試卷",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 21,
@@ -5075,14 +6562,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "觀光業者經常在淡季期間加強促銷活動，此種作法是為了克服產品的何種特性？ Intangibility Heterogeneity Perishability Inseparability。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 375
+      "sequence": 374
     },
     {
-      "id": "teacher-exam-101-02-q023-043478a8c9",
+      "id": "teacher-exam-101-02-q023-d4f2041db4",
       "sourceYear": 101,
       "sourceLabel": "101 年第 23 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-22082",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-22124",
       "paperTitle": "未標示試卷",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 23,
@@ -5150,14 +6637,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "大陸觀光客喜愛到台灣陽明山國家公園其主管機關為何？ 內政部 交通部 教育部 行政院。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 377
+      "sequence": 376
     },
     {
-      "id": "teacher-exam-101-02-q036-fc32c83dde",
+      "id": "teacher-exam-101-02-q036-5109a680da",
       "sourceYear": 101,
       "sourceLabel": "101 年第 36 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-23946",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-23988",
       "paperTitle": "未標示試卷",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 36,
@@ -5225,14 +6712,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "餐旅業注意到選用低污染物料、不過度包裝等環保議題，是指行銷發展的哪一階段？ 生產導向 行銷導向 銷售導向 社會導向。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 390
+      "sequence": 389
     },
     {
-      "id": "teacher-exam-101-02-q043-c51d9db68f",
+      "id": "teacher-exam-101-02-q043-2f7a13c145",
       "sourceYear": 101,
       "sourceLabel": "101 年第 43 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-24697",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-24739",
       "paperTitle": "未標示試卷",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 43,
@@ -5300,14 +6787,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "餐旅業界中常實行的「工作輪調」，請問下列敘述何者不正確？ 可降低員工的工作倦怠感 專業性較高的工作較難進行輪調 員工可藉此吸收不同的知識與經驗 輪調後工作擴展的範圍通常為廣度窄但深度深。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 397
+      "sequence": 396
     },
     {
-      "id": "teacher-exam-101-02-q044-0d81073f38",
+      "id": "teacher-exam-101-02-q044-124bbaa90a",
       "sourceYear": 101,
       "sourceLabel": "101 年第 44 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-24815",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-24857",
       "paperTitle": "未標示試卷",
       "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
       "questionNumber": 44,
@@ -5375,10 +6862,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "「無形的外交」與「無語言的宣傳」主要可以發揮哪一類層面的觀光效益？ 經濟 政治 文化 環境。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 398
+      "sequence": 397
     },
     {
-      "id": "teacher-exam-96-15-q019-f565a17df5",
+      "id": "teacher-exam-96-18-q019-f565a17df5",
       "sourceYear": 96,
       "sourceLabel": "96 年第 19 題",
       "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
@@ -5452,10 +6939,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "餐旅業的行銷導向觀念，下列何者不包括在內？ 旅館市場行銷組合 旅館市場外社會環境研究 旅館生產力之提升 旅館市場調查及市場區隔。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2236
+      "sequence": 2761
     },
     {
-      "id": "teacher-exam-96-15-q028-bc763b7d2d",
+      "id": "teacher-exam-96-18-q028-bc763b7d2d",
       "sourceYear": 96,
       "sourceLabel": "96 年第 28 題",
       "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
@@ -5529,10 +7016,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "根據交通部觀光局觀光統計資料，民國 93 年來臺之旅客，合計約有多少萬人次？ 261 282 295 321。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2245
+      "sequence": 2770
     },
     {
-      "id": "teacher-exam-96-15-q047-933bb92385",
+      "id": "teacher-exam-96-18-q047-933bb92385",
       "sourceYear": 96,
       "sourceLabel": "96 年第 47 題",
       "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
@@ -5604,14 +7091,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "我國政府提出之觀光客倍增計畫中，明訂二○○八年來華旅客倍增至五百萬人次，其中觀光客由現行之一百萬增加至多少人次？ 一百萬 一百五十萬 二百萬 二百五十萬。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2265
+      "sequence": 2790
     },
     {
-      "id": "teacher-exam-101-02-q012-aa9900ad4a",
+      "id": "teacher-exam-101-02-q012-0bcb6211d8",
       "sourceYear": 101,
       "sourceLabel": "101 年第 12 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-18102",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-18124",
       "paperTitle": "未標示試卷",
       "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
       "questionNumber": 12,
@@ -5682,6 +7169,464 @@
       ],
       "searchText": "台灣的觀光資源眾多，由不同的主管機關單位來負責管理，下列描述何者錯誤？ 台江國家公園—內政部營建署 溪頭森林遊樂區—退輔會 大鵬灣國家風景區—交通部觀光局 奧萬大森林遊樂區—農委會林務局 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
       "sequence": 346
+    },
+    {
+      "id": "teacher-exam-114-15-q014-8bc0d53e8e",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 14 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-11189",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 14,
+      "questionType": "single-choice",
+      "prompt": "觀光餐旅產品短期供給缺乏彈性，如床位、機位等銷售完畢，難以臨時加班增加生產，是屬於下 列哪種特性？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rigidity"
+        },
+        {
+          "id": "B",
+          "text": "Heterogeneity"
+        },
+        {
+          "id": "C",
+          "text": "Perishability"
+        },
+        {
+          "id": "D",
+          "text": "Sensibility"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "觀光餐旅產品短期供給缺乏彈性，如床位、機位等銷售完畢，難以臨時加班增加生產，是屬於下 列哪種特性？ Rigidity Heterogeneity Perishability Sensibility 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2295
+    },
+    {
+      "id": "teacher-exam-114-15-q021-905aa46891",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 21 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-12115",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 21,
+      "questionType": "single-choice",
+      "prompt": "目前台灣共有幾個國家風景區？馬祖國家風景區管理處的主管機關為何？",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 個／文化部文化資產局"
+        },
+        {
+          "id": "B",
+          "text": "11 個／內政部國家公園署"
+        },
+        {
+          "id": "C",
+          "text": "13 個／交通部觀光署"
+        },
+        {
+          "id": "D",
+          "text": "15 個／農業部林業及自然保育署"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "目前台灣共有幾個國家風景區？馬祖國家風景區管理處的主管機關為何？ 9 個／文化部文化資產局 11 個／內政部國家公園署 13 個／交通部觀光署 15 個／農業部林業及自然保育署 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2302
+    },
+    {
+      "id": "teacher-exam-114-15-q025-439be8a690",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 25 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-12770",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 25,
+      "questionType": "single-choice",
+      "prompt": "2025 年某次強烈颱風襲台，南竿至其他離島的飛機與船班全面停駛，造成數百名旅客滯留南竿 島上。當地福馬旅店不僅第一時間讓旅客暫留，還配合縣府與馬祖航港單位，協調食宿安排並提供生 活協助。事件被當地媒體曝光後，獲得顧客與民眾的高度好評，旅店被報導為「交通受阻時島上旅客 的救助港」 。請問從行銷的角度，福馬旅店協助救災的義行可將其視為哪一種類型的行銷導向？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Product Orientation"
+        },
+        {
+          "id": "B",
+          "text": "Production Orientation"
+        },
+        {
+          "id": "C",
+          "text": "Market Orientation"
+        },
+        {
+          "id": "D",
+          "text": "Social Marketing Orientation"
+        }
+      ],
+      "answer": "D",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：行銷、marketing"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "2025 年某次強烈颱風襲台，南竿至其他離島的飛機與船班全面停駛，造成數百名旅客滯留南竿 島上。當地福馬旅店不僅第一時間讓旅客暫留，還配合縣府與馬祖航港單位，協調食宿安排並提供生 活協助。事件被當地媒體曝光後，獲得顧客與民眾的高度好評，旅店被報導為「交通受阻時島上旅客 的救助港」 。請問從行銷的角度，福馬旅店協助救災的義行可將其視為哪一種類型的行銷導向？ Product Orientation Production Orientation Market Orientation Social Marketing Orientation 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2306
+    },
+    {
+      "id": "teacher-exam-114-15-q027-e88e7a19d5",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 27 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-13269",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 27,
+      "questionType": "single-choice",
+      "prompt": "關於我國餐旅業發展的重要事件發生順序，下列何者正確？ 甲、民宿管理辦法實施，規範民宿經營與發展 乙、啟動兩岸大三通，促進餐旅業發展 丙、澎湖博弈公投未通過，博弈產業未能落地 丁、馬祖通過博弈公投，引發離島觀光發展熱議 戊、脊梁山脈旅遊年推動，深化在地觀光特色 己、觀光局改制為觀光署，提升觀光發展位階",
+      "options": [
+        {
+          "id": "A",
+          "text": "甲→乙→丙→丁→戊→己"
+        },
+        {
+          "id": "B",
+          "text": "乙→甲→丙→丁→戊→己"
+        },
+        {
+          "id": "C",
+          "text": "甲→丙→乙→丁→戊→己"
+        },
+        {
+          "id": "D",
+          "text": "乙→甲→丁→丙→戊→己"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "關於我國餐旅業發展的重要事件發生順序，下列何者正確？ 甲、民宿管理辦法實施，規範民宿經營與發展 乙、啟動兩岸大三通，促進餐旅業發展 丙、澎湖博弈公投未通過，博弈產業未能落地 丁、馬祖通過博弈公投，引發離島觀光發展熱議 戊、脊梁山脈旅遊年推動，深化在地觀光特色 己、觀光局改制為觀光署，提升觀光發展位階 甲→乙→丙→丁→戊→己 乙→甲→丙→丁→戊→己 甲→丙→乙→丁→戊→己 乙→甲→丁→丙→戊→己 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2308
+    },
+    {
+      "id": "teacher-exam-114-15-q029-942e632ccf",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 29 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-13925",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 29,
+      "questionType": "single-choice",
+      "prompt": "「Tourism 2025─台灣觀光邁向 2025 方案」是交通部觀光署為推動臺灣觀光永續發展所擘劃的國 家級觀光發展戰略計畫。請問下列哪一個敘述並非此方案所列舉的「五大政策」之一？",
+      "options": [
+        {
+          "id": "A",
+          "text": "整合區域資源"
+        },
+        {
+          "id": "B",
+          "text": "廣拓觀光客源"
+        },
+        {
+          "id": "C",
+          "text": "優化產業環境"
+        },
+        {
+          "id": "D",
+          "text": "推展智慧體驗"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、永續、tourism"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "「Tourism 2025─台灣觀光邁向 2025 方案」是交通部觀光署為推動臺灣觀光永續發展所擘劃的國 家級觀光發展戰略計畫。請問下列哪一個敘述並非此方案所列舉的「五大政策」之一？ 整合區域資源 廣拓觀光客源 優化產業環境 推展智慧體驗 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2319
+    },
+    {
+      "id": "teacher-exam-114-15-q032-4514354083",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 32 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-14615",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 32,
+      "questionType": "single-choice",
+      "prompt": "某餐飲連鎖品牌為推廣新推出的「Future Kitchen」 ，主打以智慧烹飪設備所製作的菜餚。該品牌與 知名 YouTuber「美味生活家 M」合作。在「美味生活家 M」的最新影片中，於自宅廚房展示如何使用 該品牌提供的智慧烹飪設備，並在影片資訊欄提供獨家折扣碼。 請問，上述情境主要展現了哪兩種行銷推廣方式？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Direct Marketing & Personal Selling"
+        },
+        {
+          "id": "B",
+          "text": "Public Relations & Sales Promotion"
+        },
+        {
+          "id": "C",
+          "text": "Placement Marketing & Digital Marketing"
+        },
+        {
+          "id": "D",
+          "text": "Co-branding & Relationship Marketing"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：行銷、marketing"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "某餐飲連鎖品牌為推廣新推出的「Future Kitchen」 ，主打以智慧烹飪設備所製作的菜餚。該品牌與 知名 YouTuber「美味生活家 M」合作。在「美味生活家 M」的最新影片中，於自宅廚房展示如何使用 該品牌提供的智慧烹飪設備，並在影片資訊欄提供獨家折扣碼。 請問，上述情境主要展現了哪兩種行銷推廣方式？ Direct Marketing & Personal Selling Public Relations & Sales Promotion Placement Marketing & Digital Marketing Co-branding & Relationship Marketing 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2322
     },
     {
       "id": "teacher-exam-105-06-q004-251e7ba1bf",
@@ -5758,7 +7703,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "九族櫻花祭開鑼，旅館業者順應推出「雙人房+早晚餐+賞花門票，每人只要1599元」的特惠組合產品，以吸引旅客入住；請問此為屬於何種行銷？ 內部行銷 節慶行銷 淡季促銷 置入性行銷。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1032
+      "sequence": 1031
     },
     {
       "id": "teacher-exam-105-06-q012-130ae91947",
@@ -5833,7 +7778,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "餐旅行業中常為了需要，而採用Shift Work，請問這是基於何種特性？ 易變性 異質性 無歇性 立地性。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1040
+      "sequence": 1039
     },
     {
       "id": "teacher-exam-105-06-q001-ea7710e6a1",
@@ -5869,7 +7814,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "請寫出行銷目標三步驟(STP行銷)的英文及中文（6分）： S: Segmentation (市場區隔) T: Targeting (目標市場選擇) P: Positioning (定位) 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1068
+      "sequence": 1067
     },
     {
       "id": "teacher-exam-104-05-q003-596ab04332",
@@ -5905,7 +7850,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "請分別寫出88年~102年度觀光推展年度主題。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 733
+      "sequence": 732
     },
     {
       "id": "teacher-exam-104-05-q006-960865dd65",
@@ -5982,7 +7927,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "開放陸客自由行對餐旅業經營之 SWOT 分析中，應屬於哪一項？ strength weakness threat opportunity. 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 944
+      "sequence": 943
     },
     {
       "id": "teacher-exam-104-05-q008-57f237c7ce",
@@ -6057,7 +8002,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列各觀光餐旅相關活動，主辦單位並非該縣（市）政府的是 2015台灣美食展 宜蘭國際童玩藝術節 2015台灣國際熱氣球嘉年華 2015年澎湖海上花火節。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 713
+      "sequence": 712
     },
     {
       "id": "teacher-exam-104-05-q015-0c033b036a",
@@ -6132,10 +8077,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "有關於兩岸間近年的觀光政策與發展，下列敘述何者錯誤？ 民國76年受理國人赴大陸探親申請 民國91年開放（開放第二、三類條件）大陸人民來臺觀光 民國97年全面開放大陸人士可組團來臺觀光 民國103年全面開放大陸人士自由行來臺觀光。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 953
+      "sequence": 952
     },
     {
-      "id": "teacher-exam-94-14-q001-d54ae35112",
+      "id": "teacher-exam-94-17-q001-d54ae35112",
       "sourceYear": 94,
       "sourceLabel": "94 年第 1 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -6209,10 +8154,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "依「發展觀光條例」規定，以下那一行業沒有「觀光專用標識」？ 旅行業 觀光旅館業、旅館業 觀光遊樂業 民宿經營者。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2143
+      "sequence": 2668
     },
     {
-      "id": "teacher-exam-94-14-q004-74ee010ba0",
+      "id": "teacher-exam-94-17-q004-74ee010ba0",
       "sourceYear": 94,
       "sourceLabel": "94 年第 4 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -6286,10 +8231,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列有關國內觀光資源管轄單位之敘述，何者錯誤？ 國家級風景區目前係屬交通部觀光局管轄 國家公園係屬內政部營建署管轄 大學實驗林係屬教育部管轄 森林遊樂區係屬行政院退除役官兵輔導委員會管轄。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2146
+      "sequence": 2671
     },
     {
-      "id": "teacher-exam-94-14-q006-4eddd639e1",
+      "id": "teacher-exam-94-17-q006-4eddd639e1",
       "sourceYear": 94,
       "sourceLabel": "94 年第 6 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -6361,10 +8306,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列何者屬於廣義的觀光政策？ 觀光客倍增計畫 21 世紀台灣發展觀光新戰略 2004 台灣觀光年 小三通。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2148
+      "sequence": 2673
     },
     {
-      "id": "teacher-exam-94-14-q026-7bf2ad10ff",
+      "id": "teacher-exam-94-17-q026-7bf2ad10ff",
       "sourceYear": 94,
       "sourceLabel": "94 年第 26 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -6436,7 +8381,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列何者不是構成觀光現象的基本要素？ 人 空間 時間 金錢 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2076
+      "sequence": 2601
     },
     {
       "id": "teacher-exam-102-03-q013-d0a67b8167",
@@ -6511,7 +8456,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "近 10 年來，政府在臺灣觀光發展方面，推動下列多項計畫方案，其推動年別之先後順序為何？ (1) 臺灣觀光年工作計畫 (2) 旅行臺灣年工作計畫 (3) 觀光客倍增計畫 (4) 觀光拔尖領航方案行動計畫 (3)(2)(1)(4) (3)(4)(2)(1) (3)(1)(4)(2) (3)(1)(2)(4)。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 475
+      "sequence": 474
     },
     {
       "id": "teacher-exam-102-03-q014-f57041aa7d",
@@ -6588,10 +8533,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "依據旅行業管理規則規定，小花為大學觀光事業學系畢業，如欲取得旅行業經理人資格，必須任職於旅行業幾年之資格？（原題或敘述導遊/經理人年資） 5 年 4 年 3 年 2 年。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 476
+      "sequence": 475
     },
     {
-      "id": "teacher-exam-97-16-q025-a372f99a48",
+      "id": "teacher-exam-97-19-q025-a372f99a48",
       "sourceYear": 97,
       "sourceLabel": "97 年第 25 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -6663,10 +8608,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "民國 92 年哪一項事件讓臺灣觀光客劇減？ 921 大地震 SARS 娜莉颱風 總統大選。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2345
+      "sequence": 2870
     },
     {
-      "id": "teacher-exam-97-16-q040-953145fd68",
+      "id": "teacher-exam-97-19-q040-953145fd68",
       "sourceYear": 97,
       "sourceLabel": "97 年第 40 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -6738,10 +8683,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "我國民間最早成立的觀光組織是 HARC ATM TGA TVA 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2360
+      "sequence": 2885
     },
     {
-      "id": "teacher-exam-97-16-q048-c45d6cf6c0",
+      "id": "teacher-exam-97-19-q048-c45d6cf6c0",
       "sourceYear": 97,
       "sourceLabel": "97 年第 48 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -6813,10 +8758,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "我國政府提出之觀光客倍增計畫中，明訂二○○八年來華旅客倍增至五百萬人次，其中觀光客由現行之一百萬增加至多少人次？ 一百萬 一百五十萬 二百萬 二百五十萬。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2368
+      "sequence": 2893
     },
     {
-      "id": "teacher-exam-98-17-q001-b749bbc14c",
+      "id": "teacher-exam-98-20-q001-b749bbc14c",
       "sourceYear": 98,
       "sourceLabel": "98 年第 1 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -6849,10 +8794,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "配合政府全力推動開放大陸觀光客來台之政策，自 97 年 7 月起實施每日開放來台大陸觀光客為 3000 人。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2679
+      "sequence": 3204
     },
     {
-      "id": "teacher-exam-98-17-q001-5f2be9a7ae",
+      "id": "teacher-exam-98-20-q001-5f2be9a7ae",
       "sourceYear": 98,
       "sourceLabel": "98 年第 1 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -6885,7 +8830,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "簡述觀光政策「觀光拔尖領航方案」中所規劃的台灣區域發展定位為何？（5分） 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2692
+      "sequence": 3217
     },
     {
       "id": "teacher-exam-100-01-q001-051ae249de",
@@ -6922,6 +8867,81 @@
       "flags": [],
       "searchText": "請解釋「關鍵時刻（Moments of Truth）」。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
       "sequence": 93
+    },
+    {
+      "id": "teacher-exam-113-14-q007-f7ea4abe1c",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 7 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-29965",
+      "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+      "schoolName": "國立臺南家齊高級中等學校",
+      "questionNumber": 7,
+      "questionType": "single-choice",
+      "prompt": "以提醒性廣告做為行銷策略在 PLC 屬於哪一個階段？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Introduction"
+        },
+        {
+          "id": "B",
+          "text": "Growth"
+        },
+        {
+          "id": "C",
+          "text": "Maturity"
+        },
+        {
+          "id": "D",
+          "text": "Decline 門口 A B=主人 D C G H F E 2"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：行銷"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "以提醒性廣告做為行銷策略在 PLC 屬於哪一個階段？ Introduction Growth Maturity Decline 門口 A B=主人 D C G H F E 2 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2153
     },
     {
       "id": "teacher-exam-109-10-q003-00784abc6d",
@@ -6996,7 +9016,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "電視購物頻道在銷售餐旅相關產品時，採用影片或名人推薦的方式進行，讓旅客有親身體驗的感受，是屬於哪一商品特性？ Perishability Inseparability Intangibility Heterogeneity. 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1575
+      "sequence": 1574
     },
     {
       "id": "teacher-exam-109-10-q004-adb2b5a000",
@@ -7034,7 +9054,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "旅館的服務中心又稱為 ABC 團隊，請寫出其 ABC 中英文全名：（6分） 5. 請說明餐旅行銷 STP 分析，並寫出其中英文全名？（6分） 6. 學習障礙學生通常都有學習低成就的狀況，進而引發學習動機低落或是產生一些行為問題。請問若你的導師班上有三位學習障礙學生，你有什麼具體的班級經營作為？（10分） 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1602
+      "sequence": 1601
     },
     {
       "id": "teacher-exam-112-13-q006-4afbffe0e3",
@@ -7111,10 +9131,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "行政院為落實推動「Tourism 2025-臺灣觀光邁向2025方案」，研訂5大策略，請問其中促進旅宿業發展及台灣觀光品牌深化分別落在於哪兩個策略當中？ 優化產業環境、打造魅力景點 廣拓觀光客源、優化產業環境 優化產業環境、廣拓觀光客源 廣拓觀光客源、推展數位體驗。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1953
+      "sequence": 1949
     },
     {
-      "id": "teacher-exam-94-14-q001-f1770fc34d",
+      "id": "teacher-exam-94-17-q001-f1770fc34d",
       "sourceYear": 94,
       "sourceLabel": "94 年第 1 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7188,10 +9208,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "觀光系統(Tourism system)中，所謂「觀光媒體」指的是？ 觀光客 觀光資源 領隊及導遊 觀光據點之文化傳統。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2093
+      "sequence": 2618
     },
     {
-      "id": "teacher-exam-94-14-q002-6f61a9baca",
+      "id": "teacher-exam-94-17-q002-6f61a9baca",
       "sourceYear": 94,
       "sourceLabel": "94 年第 2 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7265,10 +9285,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "生 態 觀 光 (Eco-tourism) 與 下 列 哪 一 項 觀光 意 義 相 違 背 ？ Mass tourism Sustainabletourism Environmental tourism Responsible tourism。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2094
+      "sequence": 2619
     },
     {
-      "id": "teacher-exam-94-14-q004-0e375b0238",
+      "id": "teacher-exam-94-17-q004-0e375b0238",
       "sourceYear": 94,
       "sourceLabel": "94 年第 4 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7340,10 +9360,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "有關觀光客倍增計畫，下列敘述何者錯誤？ 民國 93 年提出 由行政院負責推動 打造五百萬人次之來華旅客 觀光客倍增至二百萬人次。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2096
+      "sequence": 2621
     },
     {
-      "id": "teacher-exam-94-14-q006-d4d780e5ce",
+      "id": "teacher-exam-94-17-q006-d4d780e5ce",
       "sourceYear": 94,
       "sourceLabel": "94 年第 6 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7417,10 +9437,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "我國觀光局未在下列哪個亞洲城市設置辦事處？ SIN SEL OSA HKT。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2098
+      "sequence": 2623
     },
     {
-      "id": "teacher-exam-94-14-q009-8746d96fa7",
+      "id": "teacher-exam-94-17-q009-8746d96fa7",
       "sourceYear": 94,
       "sourceLabel": "94 年第 9 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7494,10 +9514,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "阿里山、太平山、墾丁等森林遊樂區的主管機關是？ 交通部觀光局 內政部營建署 農委會林務局 教育部。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2101
+      "sequence": 2626
     },
     {
-      "id": "teacher-exam-94-14-q016-70d0594822",
+      "id": "teacher-exam-94-17-q016-70d0594822",
       "sourceYear": 94,
       "sourceLabel": "94 年第 16 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7569,10 +9589,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "「均衡地方發展」是屬於哪一層面的觀光效益？ 社會 經濟 環境 文化。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2108
+      "sequence": 2633
     },
     {
-      "id": "teacher-exam-94-14-q017-0d893cc5d1",
+      "id": "teacher-exam-94-17-q017-0d893cc5d1",
       "sourceYear": 94,
       "sourceLabel": "94 年第 17 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7644,10 +9664,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "「金門酒廠」在觀光資源的分類上，是屬於？ 自然資源 人文資源 遊樂資源 產業資源。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2109
+      "sequence": 2634
     },
     {
-      "id": "teacher-exam-94-14-q019-8a0372ce65",
+      "id": "teacher-exam-94-17-q019-8a0372ce65",
       "sourceYear": 94,
       "sourceLabel": "94 年第 19 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -7721,7 +9741,157 @@
         "multiple-concept-candidates"
       ],
       "searchText": "依發展觀光條例之規定，公司組織之觀光產業，配合政府參與國際宣傳推廣之費用，得在支出金額多少比例的限度內，抵減當年應納營利事業所得稅額？ 0～5% 5～15% 10～20% 20～25%。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2111
+      "sequence": 2636
+    },
+    {
+      "id": "teacher-exam-115-16-q008-7f8ebecda8",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 8 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-19263",
+      "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+      "schoolName": "國立頭城高級家事商業職業學校",
+      "questionNumber": 8,
+      "questionType": "single-choice",
+      "prompt": "關於觀光產業的特性，下列敘述何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "觀光產品具備「不可移轉性」，指旅客必須親自前往目的地消費"
+        },
+        {
+          "id": "B",
+          "text": "觀光產品具備「可儲存性」，飯店沒賣出的房間可以留到隔日再賣"
+        },
+        {
+          "id": "C",
+          "text": "觀光需求具備「高度彈性」，不受政治或匯率波動影響"
+        },
+        {
+          "id": "D",
+          "text": "觀光產業具備「勞力密集性」，自動化設備可完全取代人力服務。"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "關於觀光產業的特性，下列敘述何者正確？ 觀光產品具備「不可移轉性」，指旅客必須親自前往目的地消費 觀光產品具備「可儲存性」，飯店沒賣出的房間可以留到隔日再賣 觀光需求具備「高度彈性」，不受政治或匯率波動影響 觀光產業具備「勞力密集性」，自動化設備可完全取代人力服務。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2506
+    },
+    {
+      "id": "teacher-exam-115-16-q013-ccc74ad060",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 13 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-20059",
+      "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+      "schoolName": "國立頭城高級家事商業職業學校",
+      "questionNumber": 13,
+      "questionType": "single-choice",
+      "prompt": "關於博奕娛樂業定義及相關法規，下列敘述何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "依據行政院主計總處中華民國行業標準分類中，屬於休閒服務業"
+        },
+        {
+          "id": "B",
+          "text": "博奕船舶因透過船舶客運，故屬於中華民國行業標準分類中 H 大類：運輸及倉儲類之水上運輸業"
+        },
+        {
+          "id": "C",
+          "text": "立法院通過離島建設條例「博弈條款」，離島將可設置賭場合法賭博；「博弈條款」的通過，開放所有離島 都可設置賭場，但須先經當地公投同意"
+        },
+        {
+          "id": "D",
+          "text": "是一種建立在博奕活動上的觀光餐旅產業"
+        }
+      ],
+      "answer": "B",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "關於博奕娛樂業定義及相關法規，下列敘述何者錯誤？ 依據行政院主計總處中華民國行業標準分類中，屬於休閒服務業 博奕船舶因透過船舶客運，故屬於中華民國行業標準分類中 H 大類：運輸及倉儲類之水上運輸業 立法院通過離島建設條例「博弈條款」，離島將可設置賭場合法賭博；「博弈條款」的通過，開放所有離島 都可設置賭場，但須先經當地公投同意 是一種建立在博奕活動上的觀光餐旅產業 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2511
     },
     {
       "id": "teacher-exam-109-10-q005-1e4a1ed3ff",
@@ -7798,7 +9968,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "小花在星星網路旅行社看到以下文宣「賞櫻北海道39888元起，升等五星希爾頓、鑽石百萬夜景、星形櫻花五稜郭、海洋公園、螃蟹泡湯5日......四人同行一人免費」，針對行銷4P策略敘述，下列何者正確？ 團費39888元，是屬於 Product 四人同行一人免費，是屬於 Price 去日本北海道旅行，是屬於 Promotion 星星網路旅行社，是屬於 Place 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1547
+      "sequence": 1546
     },
     {
       "id": "teacher-exam-109-10-q005-00912b32b0",
@@ -7834,7 +10004,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "SWOT 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1565
+      "sequence": 1564
     },
     {
       "id": "teacher-exam-109-10-q006-614d5eaa2a",
@@ -7870,7 +10040,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "MICE 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1566
+      "sequence": 1565
     },
     {
       "id": "teacher-exam-109-10-q009-4be3ab54ef",
@@ -7947,10 +10117,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "試排列出餐飲業決定市場的步驟：i. 市場區隔、ii. 定位、iii. 確定目標市場、iv. 市場分析。 iii→ii→i→iv i→iv→ii→iii iii→iv→i→ii iv→i→iii→ii 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1551
+      "sequence": 1550
     },
     {
-      "id": "teacher-exam-97-16-q002-855b21c037",
+      "id": "teacher-exam-97-19-q002-855b21c037",
       "sourceYear": 97,
       "sourceLabel": "97 年第 2 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -8022,10 +10192,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "卡爾森針對餐旅服務業正確的服務態度，提出「黃金十五秒」理論下列何者為是？ 顧客決定是否接受服務的最後十五秒 顧客決定是否再度惠顧的最初十五秒 服務人員與顧客服務接觸的最後十五秒 服務人員與顧客服務接觸的最初十五秒 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2524
+      "sequence": 3049
     },
     {
-      "id": "teacher-exam-97-16-q012-b70c038848",
+      "id": "teacher-exam-97-19-q012-b70c038848",
       "sourceYear": 97,
       "sourceLabel": "97 年第 12 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -8097,10 +10267,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "有 Clefs d Or（金鑰匙）標章之稱的人員是屬於哪個部門？ Housekeeping Concierge Night Audit Marketing 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2534
+      "sequence": 3059
     },
     {
-      "id": "teacher-exam-97-16-q005-f5cedf6eb6",
+      "id": "teacher-exam-97-19-q005-f5cedf6eb6",
       "sourceYear": 97,
       "sourceLabel": "97 年第 5 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -8172,7 +10342,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列各國觀光特色中，何者有誤？ 世界最大的蝴蝶世界——馬來西亞吉隆坡湖濱公園 有獅城之稱（魚尾獅身像）——菲律賓 水上市場——泰國曼谷 世界領土分布最零散的國家——印尼 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2463
+      "sequence": 2988
     },
     {
       "id": "teacher-exam-102-03-q002-6fc5e4233e",
@@ -8210,7 +10380,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "Modified American Plan (MAP) ：美式計費方式的一種，房租費用包含房間及早晚餐（Breakfast & Dinner）。 3. Tourism Satellite Account (TSA)：觀光衛星帳，是一種用以衡量觀光產業對國家經濟貢獻（如GDP、就業機會等）的統計會計框架與工具。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 426
+      "sequence": 425
     },
     {
       "id": "teacher-exam-102-03-q004-e70a455fde",
@@ -8248,7 +10418,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "請說明餐旅行銷 STP 分析？（6分） 解答： 市場區隔 (Segmentation, S)：根據顧客的地理、人口統計、心理或行為等變數，將整體餐飲市場細分為不同的客群。 目標市場選擇 (Targeting, T)：評估各細分市場的吸引力，選擇一個或多個最具潛力與獲利能力的族群作為主要的服務對象。 市場定位 (Positioning, P)：在目標顧客心中塑造獨特且有利的產品形象，使餐廳或餐點與競爭對手產生差異化。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 436
+      "sequence": 435
     },
     {
       "id": "teacher-exam-102-03-q006-f12545269e",
@@ -8325,7 +10495,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "某餐廳將場地借給偶像劇當拍攝場地，戲劇上檔後大量粉絲到餐廳來朝聖用餐，請問此餐廳所採用的行銷手法為何？ Internal Marketing Placement Marketing Internet Marketing Relationship Marketing。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 407
+      "sequence": 406
     },
     {
       "id": "teacher-exam-106-07-q002-f917693488",
@@ -8402,7 +10572,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "有關觀光乘數效果（Tourism Multiplier Effects）的敘述，下列何者正確？ 在餐旅發展效益中，屬於社會層面的考量 可瞭解一國之觀光產業在國家整體經濟中的比重 是觀光客在觀光地所花費的金額，經循環使用後所產生數倍之經濟效益 乘數效果越小，表示旅客觀光支出所產生的效益越顯著。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1079
+      "sequence": 1078
     },
     {
       "id": "teacher-exam-106-07-q003-7c62819378",
@@ -8479,10 +10649,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "在多元的觀光型態中，觀光種類可依不同目的來分類，下列敘述何者錯誤？ 參觀臺灣菸酒公司台中觀光酒廠，屬於 Industrial Tourism 由社會福利機構協助弱勢兒童前往臺北新兒童樂園旅遊，屬於 Social Tourism 參加宜蘭龜山島賞鯨豚之旅，屬於 Eco Tourism 參加南庄客家桐花祭系列活動-苗栗山城·南庄花園之旅，屬於 Sustainable Tourism。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1080
+      "sequence": 1079
     },
     {
-      "id": "teacher-exam-97-16-q018-e168eac6e8",
+      "id": "teacher-exam-97-19-q018-e168eac6e8",
       "sourceYear": 97,
       "sourceLabel": "97 年第 18 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -8554,10 +10724,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "如麥當勞、摩斯漢堡、SUBWAY 速食業採大量產大量銷售為目標的型態，是傾向於何種類型之行銷策略？ 無差異化市場策略 集中市場策略 單一目標市場策略 差異化市場策略。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2286
+      "sequence": 2811
     },
     {
-      "id": "teacher-exam-98-17-q007-c01cb6abed",
+      "id": "teacher-exam-98-20-q007-c01cb6abed",
       "sourceYear": 98,
       "sourceLabel": "98 年第 7 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -8631,10 +10801,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "甲、二岸包機直航 乙、開放國人出國觀光 丙、交通部觀光局成立 丁、首度開放大陸人士來台觀光 以上事件發生的先後順序為： 丙乙甲丁 乙丙丁甲 丙乙丁甲 丙丁甲乙。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2665
+      "sequence": 3190
     },
     {
-      "id": "teacher-exam-98-17-q008-16a7a1bcb0",
+      "id": "teacher-exam-98-20-q008-16a7a1bcb0",
       "sourceYear": 98,
       "sourceLabel": "98 年第 8 題",
       "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
@@ -8706,10 +10876,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "以下何者不屬於會議觀光 MICE 之旅客？ Meeting Incentive Conversation Exhibition 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2666
+      "sequence": 3191
     },
     {
-      "id": "teacher-exam-96-15-q020-a709ee7c88",
+      "id": "teacher-exam-96-18-q020-a709ee7c88",
       "sourceYear": 96,
       "sourceLabel": "96 年第 20 題",
       "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
@@ -8781,10 +10951,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "人們所從事的一般活動，若以LRT來詮釋，其中“L”所代表的為： 觀光 運動 遊憩 休閒。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2182
+      "sequence": 2707
     },
     {
-      "id": "teacher-exam-94-14-q006-a97365e766",
+      "id": "teacher-exam-94-17-q006-a97365e766",
       "sourceYear": 94,
       "sourceLabel": "94 年第 6 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -8856,10 +11026,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "在 WTO 對各國觀光形態分類中，National Travel 是指： Domestic and Outbound Travel Domestic and Inbound Travel Inbound and Outbound Travel Regional and National Travel。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2007
+      "sequence": 2532
     },
     {
-      "id": "teacher-exam-94-14-q008-6a5434278c",
+      "id": "teacher-exam-94-17-q008-6a5434278c",
       "sourceYear": 94,
       "sourceLabel": "94 年第 8 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -8933,10 +11103,10 @@
         "multiple-concept-candidates"
       ],
       "searchText": "觀光局政策白皮書在「針對目標市場研擬配套行銷措施」策略中提到：「鎖定 MICE 為目標市場」，其概念係以 inbound 會議及商務旅遊為主，不包括下列何者？ 大眾觀光(Masstourism) 獎勵旅遊(Incentive) 大型會議(Conference) 展演(Exhibition)。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2009
+      "sequence": 2534
     },
     {
-      "id": "teacher-exam-94-14-q010-a2c53f2aaa",
+      "id": "teacher-exam-94-17-q010-a2c53f2aaa",
       "sourceYear": 94,
       "sourceLabel": "94 年第 10 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -9008,10 +11178,10 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "念小二的阿強假日跟家人到某國家風景區觀光，他在聯絡簿上面寫著：「今天爸爸帶我去海邊玩，那裡可以看到紅樹林還有黑面琵鷺，後來我們又去鹽堆成的山滑雪，真好玩！」請問，阿強和家人是到我國哪一個國家風景區觀光？ 東部海岸 東北角 西拉雅 雲嘉南。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2011
+      "sequence": 2536
     },
     {
-      "id": "teacher-exam-94-14-q012-1c8f845492",
+      "id": "teacher-exam-94-17-q012-1c8f845492",
       "sourceYear": 94,
       "sourceLabel": "94 年第 12 題",
       "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
@@ -9085,7 +11255,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "我國觀光局現正推動的主題之旅中，不包括下列何項？ 工藝之旅 溫泉之旅 冒險之旅 鐵路之旅。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2013
+      "sequence": 2538
     },
     {
       "id": "teacher-exam-111-12-q002-ff9dfe26ac",
@@ -9166,7 +11336,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "近日，海洋文學作家-夏曼·藍波安親身經歷之拼板舟事件，再次點出觀光旅遊與在地文化間的衝擊性。有關蘭嶼拼板舟文化，以下描述何者正確？ 想拍攝拼板舟一定要經過船主的同意。 達悟族人秉持尊重生態永續的精神，伐木前與樹木對話，之後也會種下新的樹。 平時女性不可靠近拼板舟，惟在「飛魚祭」祭典期間，女性才有機會接近拼板舟。 拼板舟上的雕刻彩繪主要的顏色是白、紅、黑三個顏色。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1689
+      "sequence": 1688
     },
     {
       "id": "teacher-exam-111-12-q003-c243babc07",
@@ -9243,7 +11413,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列有關穆斯林友善餐旅認證條件與規定，何者有誤？ 餐飲業所使用之瓷器不得為骨瓷。 任何添加物均須符合伊斯蘭教法。 餐飲業所使用之毛巾、餐巾等用餐使用之清潔用品不得含有酒精。 申請認證之廚房可為共用但經刷洗乾淨之未區隔烹煮環境。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1690
+      "sequence": 1689
     },
     {
       "id": "teacher-exam-111-12-q004-ec31075769",
@@ -9281,7 +11451,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "請寫出 Taiwan Tourism 2030 觀光政策白皮書之六大主軸策略為何？ (1) 資源永續、(2) 品牌奠基、(3) 數位轉型、(4) 智慧觀光、(5) 產業升級、(6) 觀光立國。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1731
+      "sequence": 1730
     },
     {
       "id": "teacher-exam-111-12-q012-80711a6442",
@@ -9356,7 +11526,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "有關目標市場行銷方式的描述如下，何者正確？ 差異行銷又稱小眾行銷。 集中行銷拓展專攻某個市場。 無差異行銷針對不同市場客群進行行銷。 個人化行銷主要針對大眾市場進行行銷。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1699
+      "sequence": 1698
     },
     {
       "id": "teacher-exam-111-12-q024-40778af11e",
@@ -9431,7 +11601,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "觀光遊樂產業應投保責任保險，其保險期間總保險金額為新台幣多少元？ 2400 萬元 3400 萬元 5400 萬元 6400 萬元 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1711
+      "sequence": 1710
     },
     {
       "id": "teacher-exam-112-13-q004-04a759c3e8",
@@ -9469,7 +11639,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "「高雄港旅運中心於2023年3月6日舉行啟用典禮。遠傳以世界級的5G網路結合5G科技及雲端技術，攜手高雄市政府和臺灣港務公司，在全新亮相的高雄港旅運中心打造5G智慧旅運服務，透過融合在地需求的創新應用協助高雄港躍升科技智慧港。除了致力協助高雄港區的建設之外，另也協助市府建置觀光大數據，提供旅客在下船後，透過網頁或 App (Mengo) 即時取得高雄市十大景點的人流資訊，避開擁塞景點，並結合當地名產優惠、交通套票等，協助旅客方便且愉快地完成旅行。」此段新聞內容為 Taiwan Tourism 2030 觀光政策白皮書哪一項主軸呢？並簡略說明該主軸之策略。 (8分) 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1943
+      "sequence": 1939
     },
     {
       "id": "teacher-exam-112-13-q010-2b04a644ec",
@@ -9544,7 +11714,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "博弈娛樂業 (Gaming Entertainment Industry) 是一種多元化、全方位的觀光餐旅產業，該產業已成為今日世界潮流，而其中包含之遊戲種類繁多，請問右圖為何種博奕遊戲之種類？ Table Game Poker Game Slot Machine Bingo. 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1912
+      "sequence": 1908
     },
     {
       "id": "teacher-exam-112-13-q024-c74b61f35b",
@@ -9619,7 +11789,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "Product Life Cycle (PLC) 係指新產品從進入市場到退出市場的過程。當產品已獲得市場接受，利潤顯著增加階段，此時行銷的重點為何？ 建立產品知名度 建立消費者品牌偏好 維持消費者的忠誠度 效果的廣告。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1926
+      "sequence": 1922
     },
     {
       "id": "teacher-exam-111-12-q001-4eda9f044f",
@@ -9696,7 +11866,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "下列有關觀光餐旅產業常用專業用語之敘述，何者說明不適宜？ Tourism Satellite Account: 可蒐集、分析觀光消費支出、觀光商品供給與觀光生產毛額，有助於國家了解觀光產值所佔比例及產業發展的潛力。 Sustainable Tourism: 透過產業生產，配合展示與教育體驗，讓觀光客於觀光體驗過程中，了解其發展價值，以達示範及寓教於樂之效，所進行的觀光活動。 Social Dualism: 觀光活動使得外來文化的價值觀與生活習性，逐漸影響觀光地居民之生活方式與行為。 Tourism Multiplier Effects: 觀光客於觀光地區消費，為當地帶來觀光收入，當地居民再將此收入轉作其他的消費，如此又帶動其他的收入。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1733
+      "sequence": 1732
     },
     {
       "id": "teacher-exam-111-12-q012-b9b3435047",
@@ -9771,7 +11941,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列何行業非觀光餐旅業的範疇？ Disneyland Park bb.q CHICKEN Family Mart World Gym 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1744
+      "sequence": 1743
     },
     {
       "id": "teacher-exam-111-12-q017-8ca22736d7",
@@ -9846,7 +12016,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "根據上文所述，何者為觀光系統中的客體？ 商務客 日本 交通部 雄獅集團 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1749
+      "sequence": 1748
     },
     {
       "id": "teacher-exam-111-12-q018-462eefafad",
@@ -9923,7 +12093,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "日本 3 月底賞櫻、4 月中雪牆、7、8 月份薰衣草、秋天賞楓、冬天賞雪是指觀光餐飲業的那種特性？ Perishability Variability Heterogeneity Seasonality 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1750
+      "sequence": 1749
     },
     {
       "id": "teacher-exam-111-12-q019-7c8f11d240",
@@ -10000,7 +12170,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "文中所指「國旅內需市場的優良、優質行程」是指 UNWTO 對「觀光產業」分類中的： Inbound Tourism International Tourism Internal Tourism Domestic Tourism 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1751
+      "sequence": 1750
     },
     {
       "id": "teacher-exam-111-12-q021-12e4c20e4b",
@@ -10075,7 +12245,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "達美樂為了讓消費者能夠安心在家與親朋好友相聚，啟動「大小比薩外帶買一送一」優惠活動，關於此一行銷策略，何者錯誤？ 提高更多的銷售量：為了維持購買一次的顧客單價，與其半價販售，買一送一的收費方式在促銷上更有效果。 整體來說成本降低：賣給一個人一份和賣給一個人二份，雖然在原料等變動費用上會加倍，但在接待等人事費用和租金等固定費用上追加成本變少，就結果來說，具有提高利潤的好處。 將條件限定為外帶，就不需要外送，可節省人事費用。 比薩的原料成本偏高。比薩的原料成本約為 40%~45%，無力承擔更多人力成本，多採外送外帶的策略。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1753
+      "sequence": 1752
     },
     {
       "id": "teacher-exam-111-12-q045-8148c2f8b6",
@@ -10164,7 +12334,7 @@
         "multiple-concept-candidates"
       ],
       "searchText": "有關觀光餐旅業行銷策略運用之敘述，下列何者正確？ 基於消費者喜愛韓國偶像劇推出韓國追星旅遊行程，屬於「心理特性」市場區隔基礎策略運用 以直接行銷、仲介商等方式進行市場開發與經營，屬於「Participants」策略運用 以極高價格訂定新產品價格...（略） 讓消費者可透過 KLOOK 客路購買門票...（略） 服務人員主動建議旅客加價購買館內特惠商品組合屬於「Cross Selling」策略運用 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1777
+      "sequence": 1776
     },
     {
       "id": "teacher-exam-111-12-q047-04324eafed",
@@ -10252,10 +12422,879 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "Gaming Entertainment 除了可提供多元就業機會...有關其全球發展概況之敘述，下列何者錯誤？ 全球最早的合法賭場設立於 TC2...（略） LAX 為美國以賭博業、購物和娛樂產業聞名的賭城，又稱「世界娛樂之都」、「結婚之都」 SIN 為亞洲地區博奕娛樂事領航者，享譽有「東方蒙地卡羅」、「東方拉斯維加斯」雅稱 我國觀光賭場僅得設立於離島，由當地居民透過公投決定...（略） 為提升社會福利，我國於民國 88 年起，由內政部主辦中華民國公益彩券發行 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 1779
+      "sequence": 1778
     },
     {
-      "id": "teacher-exam-97-16-q040-e2c8c7cfd6",
+      "id": "teacher-exam-113-14-q001-44269ac10b",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 1 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-11511",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 1,
+      "questionType": "single-choice",
+      "prompt": "餐旅業的特性，下列敘述何者錯誤？",
+      "options": [
+        {
+          "id": "A",
+          "text": "生產過程顧客的介入程度高"
+        },
+        {
+          "id": "B",
+          "text": "重視口碑形象"
+        },
+        {
+          "id": "C",
+          "text": "關聯性產業不多且各自獨立"
+        },
+        {
+          "id": "D",
+          "text": "季節性明顯"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "餐旅業的特性，下列敘述何者錯誤？ 生產過程顧客的介入程度高 重視口碑形象 關聯性產業不多且各自獨立 季節性明顯 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2046
+    },
+    {
+      "id": "teacher-exam-113-14-q021-dbc1081500",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 21 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-28855",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 21,
+      "questionType": "essay",
+      "prompt": "22. 23. 24. 25. 重奶油蛋糕_ 優先採用當地當 令食材 遵循永續生態及 海洋原則 減少添加物使用 提供蔬食餐點選 項",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：永續"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "22. 23. 24. 25. 重奶油蛋糕_ 優先採用當地當 令食材 遵循永續生態及 海洋原則 減少添加物使用 提供蔬食餐點選 項 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2143
+    },
+    {
+      "id": "teacher-exam-113-14-q025-54fc2898d8",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 25 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-15032",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 25,
+      "questionType": "single-choice",
+      "prompt": "陳先生晚上到超商裡的 ATM 提款即送某速食店套餐的優惠券一張，是屬於餐旅業未 來發展趨勢的哪一種類型？",
+      "options": [
+        {
+          "id": "A",
+          "text": "異業結盟"
+        },
+        {
+          "id": "B",
+          "text": "多角化經營"
+        },
+        {
+          "id": "C",
+          "text": "複合式經營"
+        },
+        {
+          "id": "D",
+          "text": "連鎖加盟"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "陳先生晚上到超商裡的 ATM 提款即送某速食店套餐的優惠券一張，是屬於餐旅業未 來發展趨勢的哪一種類型？ 異業結盟 多角化經營 複合式經營 連鎖加盟 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2070
+    },
+    {
+      "id": "teacher-exam-113-14-q037-fea30c7833",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 37 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-16574",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 37,
+      "questionType": "single-choice",
+      "prompt": "餐旅消費者的喜好會受經濟情況、國際情勢、媒體報導與網路傳播的因素 進而影響 其最後抉擇，此現象說明存在餐旅產業特質中的何種特性？",
+      "options": [
+        {
+          "id": "A",
+          "text": "敏感性（Sensibility）"
+        },
+        {
+          "id": "B",
+          "text": "季節性（Seasonality）"
+        },
+        {
+          "id": "C",
+          "text": "合作性（Cooperation）"
+        },
+        {
+          "id": "D",
+          "text": "競爭性（Competition）"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "餐旅消費者的喜好會受經濟情況、國際情勢、媒體報導與網路傳播的因素 進而影響 其最後抉擇，此現象說明存在餐旅產業特質中的何種特性？ 敏感性（Sensibility） 季節性（Seasonality） 合作性（Cooperation） 競爭性（Competition） 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2082
+    },
+    {
+      "id": "teacher-exam-113-14-q040-cef6f99720",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 40 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-17060",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 40,
+      "questionType": "single-choice",
+      "prompt": "關於提昇臺灣觀光的政策，下列何者最早推動？",
+      "options": [
+        {
+          "id": "A",
+          "text": "全面開放大陸人士來臺觀光"
+        },
+        {
+          "id": "B",
+          "text": "觀光拔尖領航方案"
+        },
+        {
+          "id": "C",
+          "text": "觀光客倍增計畫"
+        },
+        {
+          "id": "D",
+          "text": "推動一縣市一旗艦觀光計畫"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "關於提昇臺灣觀光的政策，下列何者最早推動？ 全面開放大陸人士來臺觀光 觀光拔尖領航方案 觀光客倍增計畫 推動一縣市一旗艦觀光計畫 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2085
+    },
+    {
+      "id": "teacher-exam-113-14-q045-cd9ae04c68",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 45 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-17790",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 45,
+      "questionType": "single-choice",
+      "prompt": "旅館業者特別為女性顧客提供專屬的仕女樓層（lady’s floor ），較符合下列哪一種行 銷觀念？",
+      "options": [
+        {
+          "id": "A",
+          "text": "行銷導向（marketing orientation）"
+        },
+        {
+          "id": "B",
+          "text": "社會行銷導向（social marketing orientation）"
+        },
+        {
+          "id": "C",
+          "text": "生產導向（production orientation）"
+        },
+        {
+          "id": "D",
+          "text": "銷售導向（sales orientation）"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：旅館業、行銷、marketing"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "旅館業者特別為女性顧客提供專屬的仕女樓層（lady’s floor ），較符合下列哪一種行 銷觀念？ 行銷導向（marketing orientation） 社會行銷導向（social marketing orientation） 生產導向（production orientation） 銷售導向（sales orientation） 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2090
+    },
+    {
+      "id": "teacher-exam-113-14-q048-fa88086487",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 48 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-18287",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 48,
+      "questionType": "single-choice",
+      "prompt": "有關目標市場行銷方式的描述如下，何者正確？",
+      "options": [
+        {
+          "id": "A",
+          "text": "差異行銷又稱小眾行銷"
+        },
+        {
+          "id": "B",
+          "text": "個人化行銷主要針對大眾市場進行行銷"
+        },
+        {
+          "id": "C",
+          "text": "無差異行銷針對不同市場客群進行行銷"
+        },
+        {
+          "id": "D",
+          "text": "集中行銷拓展專攻某個市場"
+        }
+      ],
+      "answer": "D",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：行銷"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "有關目標市場行銷方式的描述如下，何者正確？ 差異行銷又稱小眾行銷 個人化行銷主要針對大眾市場進行行銷 無差異行銷針對不同市場客群進行行銷 集中行銷拓展專攻某個市場 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2093
+    },
+    {
+      "id": "teacher-exam-115-16-q021-70f107db24",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 21 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-12336",
+      "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 21,
+      "questionType": "single-choice",
+      "prompt": "餐旅業具有「不可儲存性」（Perishability），下列哪種做法是為了解決此特性？",
+      "options": [
+        {
+          "id": "A",
+          "text": "晚上七點後麵包打折"
+        },
+        {
+          "id": "B",
+          "text": "增加員工教育訓練"
+        },
+        {
+          "id": "C",
+          "text": "提升裝潢品質"
+        },
+        {
+          "id": "D",
+          "text": "提供連鎖服務"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：餐旅"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "餐旅業具有「不可儲存性」（Perishability），下列哪種做法是為了解決此特性？ 晚上七點後麵包打折 增加員工教育訓練 提升裝潢品質 提供連鎖服務 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2469
+    },
+    {
+      "id": "teacher-exam-115-16-q022-5f23e4838f",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 22 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-12439",
+      "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 22,
+      "questionType": "single-choice",
+      "prompt": "依據我國《國家公園法》，國家公園之設立、廢止及其區域之劃定、變更，是由哪個 單位報請哪個單位核定公告？",
+      "options": [
+        {
+          "id": "A",
+          "text": "由內政部報請行政院核定公告之"
+        },
+        {
+          "id": "B",
+          "text": "由觀光署報請行政院核定公告之"
+        },
+        {
+          "id": "C",
+          "text": "由內政部報請觀光署核定公告之"
+        },
+        {
+          "id": "D",
+          "text": "由觀光署報請內政部核定公告之"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "依據我國《國家公園法》，國家公園之設立、廢止及其區域之劃定、變更，是由哪個 單位報請哪個單位核定公告？ 由內政部報請行政院核定公告之 由觀光署報請行政院核定公告之 由內政部報請觀光署核定公告之 由觀光署報請內政部核定公告之 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2470
+    },
+    {
+      "id": "teacher-exam-115-16-q023-821d7c099c",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 23 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-12576",
+      "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 23,
+      "questionType": "single-choice",
+      "prompt": "根據觀光署相關資料顯示，下列何處，曾被全球永續旅遊委員會（Global Sustainable Tourism Council, GSTC）認證通過（Accredited）為綠色目的地（Green Destinations） 金質獎章？",
+      "options": [
+        {
+          "id": "A",
+          "text": "東部海岸國家風景區"
+        },
+        {
+          "id": "B",
+          "text": "東北角及宜蘭海岸國家風景區"
+        },
+        {
+          "id": "C",
+          "text": "日月潭國家風景區"
+        },
+        {
+          "id": "D",
+          "text": "澎湖國家風景區"
+        }
+      ],
+      "answer": "B",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、永續、tourism、sustainable"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "根據觀光署相關資料顯示，下列何處，曾被全球永續旅遊委員會（Global Sustainable Tourism Council, GSTC）認證通過（Accredited）為綠色目的地（Green Destinations） 金質獎章？ 東部海岸國家風景區 東北角及宜蘭海岸國家風景區 日月潭國家風景區 澎湖國家風景區 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2471
+    },
+    {
+      "id": "teacher-exam-115-16-q024-9e52e6691a",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 24 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-12794",
+      "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 24,
+      "questionType": "single-choice",
+      "prompt": "根據交通部觀光署《Tourism 2030－臺灣觀光邁向 2030 方案（115－119 年）》、114 年 11 月核定本內容顯示，將持續優化與強化「Taiwan PASS」產品與品牌。「Taiwan PASS」 係整合國內哪些主要大眾運輸？",
+      "options": [
+        {
+          "id": "A",
+          "text": "高鐵、臺鐵、捷運、臺灣好行"
+        },
+        {
+          "id": "B",
+          "text": "高鐵、臺鐵、捷運、各縣市客運"
+        },
+        {
+          "id": "C",
+          "text": "臺鐵、捷運、臺灣好行、U-bike"
+        },
+        {
+          "id": "D",
+          "text": "臺鐵、臺灣好行、各縣市客運、U-bike"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光、tourism"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "根據交通部觀光署《Tourism 2030－臺灣觀光邁向 2030 方案（115－119 年）》、114 年 11 月核定本內容顯示，將持續優化與強化「Taiwan PASS」產品與品牌。「Taiwan PASS」 係整合國內哪些主要大眾運輸？ 高鐵、臺鐵、捷運、臺灣好行 高鐵、臺鐵、捷運、各縣市客運 臺鐵、捷運、臺灣好行、U-bike 臺鐵、臺灣好行、各縣市客運、U-bike 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2472
+    },
+    {
+      "id": "teacher-exam-115-16-q027-6daa64bccb",
+      "sourceYear": 115,
+      "sourceLabel": "115 年第 27 題",
+      "sourceFile": "115 教甄題.md",
+      "sourceLocator": "115 教甄題.md#offset-13326",
+      "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 27,
+      "questionType": "single-choice",
+      "prompt": "下列哪一項標章主要是由交通部觀光署核發？",
+      "options": [
+        {
+          "id": "A",
+          "text": ""
+        },
+        {
+          "id": "B",
+          "text": ""
+        },
+        {
+          "id": "C",
+          "text": ""
+        },
+        {
+          "id": "D",
+          "text": ""
+        }
+      ],
+      "answer": "D",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅概論",
+      "unit": "觀光餐旅基礎",
+      "conceptId": "tourism-hospitality-fundamentals",
+      "conceptLabel": "觀光餐旅產業、行銷與永續",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "qili-tourism-hospitality-practice",
+          "note": "命中關鍵詞：觀光"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [
+        "multiple-concept-candidates"
+      ],
+      "searchText": "下列哪一項標章主要是由交通部觀光署核發？ 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+      "sequence": 2475
+    },
+    {
+      "id": "teacher-exam-97-19-q040-e2c8c7cfd6",
       "sourceYear": 97,
       "sourceLabel": "97 年第 40 題",
       "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
@@ -10327,7 +13366,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "所謂內部行銷（internal marketing）是指： 向員工推銷公司的產品 向員工的親友推銷公司的產品 向消費者的親友推銷公司的產品 向員工推銷公司的經營理念及政策 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
-      "sequence": 2410
+      "sequence": 2935
     }
   ]
 }

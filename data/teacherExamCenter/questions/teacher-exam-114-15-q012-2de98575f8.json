@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q012-2de98575f8",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 12 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-10882",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "關於葡萄酒服務的敘述，下列何者不正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "站在主人或主賓的左側進行點選佐餐酒服務"
+      },
+      {
+        "id": "B",
+        "text": "展 示驗酒時，將葡萄酒標籤正面朝向顧客"
+      },
+      {
+        "id": "C",
+        "text": "品嚐紅酒 4S 步驟為 Sight→Swirl→Smell→Sip"
+      },
+      {
+        "id": "D",
+        "text": "試酒後 由主賓開始以順時針方向進行倒酒，最後為主人服務"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於葡萄酒服務的敘述，下列何者不正確？ 站在主人或主賓的左側進行點選佐餐酒服務 展 示驗酒時，將葡萄酒標籤正面朝向顧客 品嚐紅酒 4S 步驟為 Sight→Swirl→Smell→Sip 試酒後 由主賓開始以順時針方向進行倒酒，最後為主人服務 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2293
+  }
+}

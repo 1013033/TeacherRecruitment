@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q004-8371ab09bb",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 4 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-23668",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "依據《民宿管理辦法》（民國 113 年 12 月 19 日修正）第 4 條，民宿經營規模之客房 數應為 A 間以下，且客房總樓地板面積 B 平方公尺以下。上述 A、B 分別為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "五、二百四十"
+      },
+      {
+        "id": "B",
+        "text": "八、二百四十"
+      },
+      {
+        "id": "C",
+        "text": "九、三百"
+      },
+      {
+        "id": "D",
+        "text": "十二、四百"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據《民宿管理辦法》（民國 113 年 12 月 19 日修正）第 4 條，民宿經營規模之客房 數應為 A 間以下，且客房總樓地板面積 B 平方公尺以下。上述 A、B 分別為？ 五、二百四十 八、二百四十 九、三百 十二、四百 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2358
+  }
+}

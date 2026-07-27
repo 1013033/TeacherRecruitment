@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q040-1788cbf0bd",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 40 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-9135",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "臺灣發展觀光事業，以年代背景與實際需求而言，下列哪一個單位，會是較早成立的觀光組織？",
+    "options": [
+      {
+        "id": "A",
+        "text": "中華民國觀光領隊協會(ATM)"
+      },
+      {
+        "id": "B",
+        "text": "中華民國旅行業品質保障協會(TQAA)"
+      },
+      {
+        "id": "C",
+        "text": "中華民國觀光導遊協會(TGA)"
+      },
+      {
+        "id": "D",
+        "text": "中華民國旅館事業協會(HARC)。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "臺灣發展觀光事業，以年代背景與實際需求而言，下列哪一個單位，會是較早成立的觀光組織？ 中華民國觀光領隊協會(ATM) 中華民國旅行業品質保障協會(TQAA) 中華民國觀光導遊協會(TGA) 中華民國旅館事業協會(HARC)。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2782
+  }
+}

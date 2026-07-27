@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q005-375a9ecf02",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 5 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-29725",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "齊齊在烘焙實務課程製作麵包，老師要求製作分割重量為 300 公克的麵包 100 個。配方如下：麵粉 100%、水 60%、鹽 2%、酵母 2%、合計 164%，假設損 耗為 5%，其所需麵粉量為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "18.25 公斤"
+      },
+      {
+        "id": "B",
+        "text": "19.26 公斤"
+      },
+      {
+        "id": "C",
+        "text": "20.35 公斤"
+      },
+      {
+        "id": "D",
+        "text": "21.24 公斤"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "齊齊在烘焙實務課程製作麵包，老師要求製作分割重量為 300 公克的麵包 100 個。配方如下：麵粉 100%、水 60%、鹽 2%、酵母 2%、合計 164%，假設損 耗為 5%，其所需麵粉量為： 18.25 公斤 19.26 公斤 20.35 公斤 21.24 公斤 其他：待人工審核 待人工審核",
+    "sequence": 2151
+  }
+}

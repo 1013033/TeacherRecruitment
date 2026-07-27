@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q041-254cb3a07c",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 41 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38193",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 41,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者屬於國外學者Chon & Sparrowe所認定的餐旅業的服務內容？",
+    "options": [
+      {
+        "id": "A",
+        "text": "觀光旅遊業"
+      },
+      {
+        "id": "B",
+        "text": "觀 光百貨業"
+      },
+      {
+        "id": "C",
+        "text": "交通運輸業"
+      },
+      {
+        "id": "D",
+        "text": "休閒運動與娛樂產業"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、餐旅、旅遊業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者屬於國外學者Chon & Sparrowe所認定的餐旅業的服務內容？ 觀光旅遊業 觀 光百貨業 交通運輸業 休閒運動與娛樂產業 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2228
+  }
+}

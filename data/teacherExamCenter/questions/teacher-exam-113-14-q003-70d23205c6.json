@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q003-70d23205c6",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 3 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-32684",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 3,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者選項屬於感染型的食物中毒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "腸炎弧菌"
+      },
+      {
+        "id": "B",
+        "text": "金黃色葡萄球菌"
+      },
+      {
+        "id": "C",
+        "text": "肉毒桿菌"
+      },
+      {
+        "id": "D",
+        "text": "沙門氏菌"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者選項屬於感染型的食物中毒？ 腸炎弧菌 金黃色葡萄球菌 肉毒桿菌 沙門氏菌 其他：待人工審核 待人工審核",
+    "sequence": 2169
+  }
+}

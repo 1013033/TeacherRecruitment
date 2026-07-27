@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q028-81ccaa6fc4",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 28 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-31932",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "ABACUS 航空訂位系統係下列那一地區最常用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "亞洲地區"
+      },
+      {
+        "id": "B",
+        "text": "美洲地區"
+      },
+      {
+        "id": "C",
+        "text": "歐洲地區"
+      },
+      {
+        "id": "D",
+        "text": "歐亞地區。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、abacus"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "ABACUS 航空訂位系統係下列那一地區最常用？ 亞洲地區 美洲地區 歐洲地區 歐亞地區。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3148
+  }
+}

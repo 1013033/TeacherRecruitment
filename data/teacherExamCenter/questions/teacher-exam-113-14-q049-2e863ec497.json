@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q049-2e863ec497",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 49 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-18395",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "新冠肺炎疫情，對於觀光產業產生巨大影響，形成航空公司與旅行社經濟上之壓力， 此衝擊是屬於下列觀光業的哪一種特性？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Variability"
+      },
+      {
+        "id": "B",
+        "text": "Heterogeneity"
+      },
+      {
+        "id": "C",
+        "text": "Competition"
+      },
+      {
+        "id": "D",
+        "text": "Seasonality"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "新冠肺炎疫情，對於觀光產業產生巨大影響，形成航空公司與旅行社經濟上之壓力， 此衝擊是屬於下列觀光業的哪一種特性？ Variability Heterogeneity Competition Seasonality 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2094
+  }
+}

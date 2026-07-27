@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q005-59d3816aa4",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 5 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-18721",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "有關發酵酒（釀造酒）與蒸餾酒的製程辨析，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "威士忌（Whisky）與啤酒（Beer）的共同原始原料皆為穀物"
+      },
+      {
+        "id": "B",
+        "text": "白蘭地（Brandy）是將發酵後的果酒進行蒸餾，通常使用銅製壺式蒸餾器或連續蒸餾器"
+      },
+      {
+        "id": "C",
+        "text": "伏特加（V odka）為了追求極致純淨，通常不經過任何過濾程序直接裝瓶"
+      },
+      {
+        "id": "D",
+        "text": "蘭姆酒（Rum）是以甘蔗糖蜜或甘蔗汁為原料，經發酵與蒸餾而成。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌、伏特加、brandy、whisky、rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關發酵酒（釀造酒）與蒸餾酒的製程辨析，下列何者錯誤？ 威士忌（Whisky）與啤酒（Beer）的共同原始原料皆為穀物 白蘭地（Brandy）是將發酵後的果酒進行蒸餾，通常使用銅製壺式蒸餾器或連續蒸餾器 伏特加（V odka）為了追求極致純淨，通常不經過任何過濾程序直接裝瓶 蘭姆酒（Rum）是以甘蔗糖蜜或甘蔗汁為原料，經發酵與蒸餾而成。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2503
+  }
+}

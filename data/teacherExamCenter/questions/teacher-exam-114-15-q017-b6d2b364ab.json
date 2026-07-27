@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q017-b6d2b364ab",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 17 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-4220",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "小丸子是阿美族歌手A-Lin的粉絲，為了想更加知道偶像的背景，特地上網搜尋原住 民相關資訊，請問下列關於阿美族的敘述，何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "阿美族的漁撈祭包含海祭與河祭，在每年5、6 月間祭祀海神或河川神的活動，族 人藉此祈求出海平安或撈捕魚類滿載而歸"
+      },
+      {
+        "id": "B",
+        "text": "阿美族的傳統領袖與貴族有花紋圖案 特權，會使用人像或百步蛇的圖騰來表現自己的尊貴地位，此外古陶壺、琉璃珠與青 銅刀又稱「阿美族三寶」"
+      },
+      {
+        "id": "C",
+        "text": "阿美族的部落男子在13、14歲時，會進入集會所接受各 類知識學習與訓練，訓練時以2至5歲為一個年齡層級，並按照不同年齡層分擔不同類 別的部落任務"
+      },
+      {
+        "id": "D",
+        "text": "傳統阿美族每個家庭都是以母系為中心，由母系來繼承、相傳。結 婚時，男孩會入贅到女方家中，婚後男生會住在女方家，財產也由女方家所有。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "小丸子是阿美族歌手A-Lin的粉絲，為了想更加知道偶像的背景，特地上網搜尋原住 民相關資訊，請問下列關於阿美族的敘述，何者為非？ 阿美族的漁撈祭包含海祭與河祭，在每年5、6 月間祭祀海神或河川神的活動，族 人藉此祈求出海平安或撈捕魚類滿載而歸 阿美族的傳統領袖與貴族有花紋圖案 特權，會使用人像或百步蛇的圖騰來表現自己的尊貴地位，此外古陶壺、琉璃珠與青 銅刀又稱「阿美族三寶」 阿美族的部落男子在13、14歲時，會進入集會所接受各 類知識學習與訓練，訓練時以2至5歲為一個年齡層級，並按照不同年齡層分擔不同類 別的部落任務 傳統阿美族每個家庭都是以母系為中心，由母系來繼承、相傳。結 婚時，男孩會入贅到女方家中，婚後男生會住在女方家，財產也由女方家所有。 其他：待人工審核 待人工審核",
+    "sequence": 2254
+  }
+}

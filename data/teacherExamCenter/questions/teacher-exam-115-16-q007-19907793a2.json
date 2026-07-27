@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q007-19907793a2",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 7 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-19030",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "關於氣泡飲料與礦水服務，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "蘇打水（Soda Water）與湯力水（Tuning Water / Tonic）成分完全相同，僅名稱不同"
+      },
+      {
+        "id": "B",
+        "text": "氣泡礦泉水（Sparkling Mineral Water）的氣泡均為人工充填，無天然產出"
+      },
+      {
+        "id": "C",
+        "text": "提供冰鎮礦泉水服務時，應詢問客人是否需要「加片檸檬（With a twist of lemon）」"
+      },
+      {
+        "id": "D",
+        "text": "為了保鮮，所有罐裝碳酸飲料應在開啟前用力搖晃，確保二氧化碳均勻分布。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於氣泡飲料與礦水服務，下列敘述何者正確？ 蘇打水（Soda Water）與湯力水（Tuning Water / Tonic）成分完全相同，僅名稱不同 氣泡礦泉水（Sparkling Mineral Water）的氣泡均為人工充填，無天然產出 提供冰鎮礦泉水服務時，應詢問客人是否需要「加片檸檬（With a twist of lemon）」 為了保鮮，所有罐裝碳酸飲料應在開啟前用力搖晃，確保二氧化碳均勻分布。 其他：待人工審核 待人工審核",
+    "sequence": 2505
+  }
+}

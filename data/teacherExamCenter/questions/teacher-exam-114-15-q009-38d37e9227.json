@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q009-38d37e9227",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 9 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-2187",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "茶的原鄉來自中國雲南省，自宋代已有點茶帶動鬥茶之風氣，時至今日，宜興式沖泡 法又可稱為功夫茶泡法，就茶葉沖泡步驟的說明，下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "乾壺：倒茶前，要將壺底水分去除以免滴入茶中"
+      },
+      {
+        "id": "B",
+        "text": "分茶、奉茶：茶杯緊排成一 列，持茶盅來回左右倒出茶湯，使每杯茶湯濃淡一致，通常用茶盤來奉茶較為正式"
+      },
+      {
+        "id": "C",
+        "text": "溫潤泡（洗茶）：將熱水注入水壺，再立即倒入茶荷中，目的是去除茶葉中的雜質 ，通常此泡不飲用"
+      },
+      {
+        "id": "D",
+        "text": "運壺：將茶壺自茶船中提起，延茶船邊緣運行，運壺可抹去壺 底部分的水，不讓壺底的水滴溼桌面或順流到杯中。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "茶的原鄉來自中國雲南省，自宋代已有點茶帶動鬥茶之風氣，時至今日，宜興式沖泡 法又可稱為功夫茶泡法，就茶葉沖泡步驟的說明，下列何者為非？ 乾壺：倒茶前，要將壺底水分去除以免滴入茶中 分茶、奉茶：茶杯緊排成一 列，持茶盅來回左右倒出茶湯，使每杯茶湯濃淡一致，通常用茶盤來奉茶較為正式 溫潤泡（洗茶）：將熱水注入水壺，再立即倒入茶荷中，目的是去除茶葉中的雜質 ，通常此泡不飲用 運壺：將茶壺自茶船中提起，延茶船邊緣運行，運壺可抹去壺 底部分的水，不讓壺底的水滴溼桌面或順流到杯中。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2246
+  }
+}

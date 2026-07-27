@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q014-47aef2362e",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 14 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-2783",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "茶的歷史悠久，最初作為藥用，經數千年發展成日常飲品，除了生津解渴外還可以延 緩衰老、促進脂肪代謝、保護心血管、降低膽固醇等功能，以下有關茶葉中的成分敘 述，那一項錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "胺基酸是茶甘味及構成香氣的主要成分之一，其中以茶胺酸含量最多。"
+      },
+      {
+        "id": "B",
+        "text": "礦物質是造成茶湯顏色的主要成分，使茶葉成鹼性，具澀味。"
+      },
+      {
+        "id": "C",
+        "text": "咖啡因含量高低與採收季節相關，具有苦味還有提神作用。"
+      },
+      {
+        "id": "D",
+        "text": "發酵程度越高兒茶素越少，茶湯苦澀味越輕，含量的多寡與茶葉品質息息相關。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "茶的歷史悠久，最初作為藥用，經數千年發展成日常飲品，除了生津解渴外還可以延 緩衰老、促進脂肪代謝、保護心血管、降低膽固醇等功能，以下有關茶葉中的成分敘 述，那一項錯誤？ 胺基酸是茶甘味及構成香氣的主要成分之一，其中以茶胺酸含量最多。 礦物質是造成茶湯顏色的主要成分，使茶葉成鹼性，具澀味。 咖啡因含量高低與採收季節相關，具有苦味還有提神作用。 發酵程度越高兒茶素越少，茶湯苦澀味越輕，含量的多寡與茶葉品質息息相關。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2413
+  }
+}

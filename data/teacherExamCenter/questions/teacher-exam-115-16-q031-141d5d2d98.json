@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q031-141d5d2d98",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 31 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-13941",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "依據《旅館業管理規則》，旅館營業場所至少應有下列哪些空間之設置？",
+    "options": [
+      {
+        "id": "A",
+        "text": "旅客接待處、客房、浴室"
+      },
+      {
+        "id": "B",
+        "text": "旅客接待處、客房、餐廳"
+      },
+      {
+        "id": "C",
+        "text": "客房、浴室、餐廳、公共空間"
+      },
+      {
+        "id": "D",
+        "text": "旅客接待處、客房、浴室、公共空間"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據《旅館業管理規則》，旅館營業場所至少應有下列哪些空間之設置？ 旅客接待處、客房、浴室 旅客接待處、客房、餐廳 客房、浴室、餐廳、公共空間 旅客接待處、客房、浴室、公共空間 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2479
+  }
+}

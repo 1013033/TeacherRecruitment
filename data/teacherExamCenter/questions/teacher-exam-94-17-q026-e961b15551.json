@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q026-e961b15551",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 26 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-2513",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "下列菜名與菜系配對何者正確？甲.高麗銀魚---天津菜乙.香酥鴨---山東菜丙.油林子鷄---上海菜丁.青椒牛肉---北平菜戊.鍋巴蝦仁---廣東菜",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丁戊"
+      },
+      {
+        "id": "C",
+        "text": "甲乙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲丙丁。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列菜名與菜系配對何者正確？甲.高麗銀魚---天津菜乙.香酥鴨---山東菜丙.油林子鷄---上海菜丁.青椒牛肉---北平菜戊.鍋巴蝦仁---廣東菜 甲乙丙 乙丁戊 甲乙丁 甲丙丁。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2552
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q017-ebc6fc349d",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 17 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-11570",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "餐廳內食材均有其適合之儲存溫度，下列食材中有幾項適合存放在 2-5℃的儲存環境？甲、洋蔥； 乙、鮮奶；丙、魚類；丁、蛋類；戊、葉菜類蔬菜；己、吐司",
+    "options": [
+      {
+        "id": "A",
+        "text": "一項"
+      },
+      {
+        "id": "B",
+        "text": "二項"
+      },
+      {
+        "id": "C",
+        "text": "三項"
+      },
+      {
+        "id": "D",
+        "text": "四項"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳內食材均有其適合之儲存溫度，下列食材中有幾項適合存放在 2-5℃的儲存環境？甲、洋蔥； 乙、鮮奶；丙、魚類；丁、蛋類；戊、葉菜類蔬菜；己、吐司 一項 二項 三項 四項 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2298
+  }
+}

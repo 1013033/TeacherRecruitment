@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q005-5adcf466e2",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 5 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-11014",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "餐廳為了防止「No Show」的損失，通常採取何種策略？",
+    "options": [
+      {
+        "id": "A",
+        "text": "升等銷售 Up-selling"
+      },
+      {
+        "id": "B",
+        "text": "保證訂位 Guaranteed Reservation"
+      },
+      {
+        "id": "C",
+        "text": "超額訂位 Overbooking"
+      },
+      {
+        "id": "D",
+        "text": "降價求售 Price reduction"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：reservation、booking、overbooking"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐廳為了防止「No Show」的損失，通常採取何種策略？ 升等銷售 Up-selling 保證訂位 Guaranteed Reservation 超額訂位 Overbooking 降價求售 Price reduction 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2453
+  }
+}

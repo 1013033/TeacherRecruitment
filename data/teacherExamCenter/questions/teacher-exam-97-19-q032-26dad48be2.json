@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q032-26dad48be2",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 32 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-32157",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "旅行業經常使用的歐洲市場航空訂位系統為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sabre"
+      },
+      {
+        "id": "B",
+        "text": "Galileo"
+      },
+      {
+        "id": "C",
+        "text": "Amadeus"
+      },
+      {
+        "id": "D",
+        "text": "Axess."
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、galileo、sabre"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行業經常使用的歐洲市場航空訂位系統為： Sabre Galileo Amadeus Axess. 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3152
+  }
+}

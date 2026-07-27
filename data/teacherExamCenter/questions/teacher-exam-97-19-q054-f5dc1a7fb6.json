@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q054-f5dc1a7fb6",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 54 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-34070",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 54,
+    "questionType": "single-choice",
+    "prompt": "日本旅行業其業務以經營海內外包辦旅遊業務為主係屬於下列那類旅行業？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一種"
+      },
+      {
+        "id": "B",
+        "text": "第二種"
+      },
+      {
+        "id": "C",
+        "text": "第三種"
+      },
+      {
+        "id": "D",
+        "text": "第四種旅行業。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "日本旅行業其業務以經營海內外包辦旅遊業務為主係屬於下列那類旅行業？ 第一種 第二種 第三種 第四種旅行業。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3174
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q024-9e52e6691a",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 24 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-12794",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "根據交通部觀光署《Tourism 2030－臺灣觀光邁向 2030 方案（115－119 年）》、114 年 11 月核定本內容顯示，將持續優化與強化「Taiwan PASS」產品與品牌。「Taiwan PASS」 係整合國內哪些主要大眾運輸？",
+    "options": [
+      {
+        "id": "A",
+        "text": "高鐵、臺鐵、捷運、臺灣好行"
+      },
+      {
+        "id": "B",
+        "text": "高鐵、臺鐵、捷運、各縣市客運"
+      },
+      {
+        "id": "C",
+        "text": "臺鐵、捷運、臺灣好行、U-bike"
+      },
+      {
+        "id": "D",
+        "text": "臺鐵、臺灣好行、各縣市客運、U-bike"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "根據交通部觀光署《Tourism 2030－臺灣觀光邁向 2030 方案（115－119 年）》、114 年 11 月核定本內容顯示，將持續優化與強化「Taiwan PASS」產品與品牌。「Taiwan PASS」 係整合國內哪些主要大眾運輸？ 高鐵、臺鐵、捷運、臺灣好行 高鐵、臺鐵、捷運、各縣市客運 臺鐵、捷運、臺灣好行、U-bike 臺鐵、臺灣好行、各縣市客運、U-bike 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2472
+  }
+}

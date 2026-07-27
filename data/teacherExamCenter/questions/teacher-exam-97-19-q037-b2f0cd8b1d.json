@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q037-b2f0cd8b1d",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 37 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-6837",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "下列工作何者與旅館的餐務部內容相近？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ware Wash"
+      },
+      {
+        "id": "B",
+        "text": "Butcher"
+      },
+      {
+        "id": "C",
+        "text": "Entremetier"
+      },
+      {
+        "id": "D",
+        "text": "Pastry。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列工作何者與旅館的餐務部內容相近？ Ware Wash Butcher Entremetier Pastry。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2882
+  }
+}

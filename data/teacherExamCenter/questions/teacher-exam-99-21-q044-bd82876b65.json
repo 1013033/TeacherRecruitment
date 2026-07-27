@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q044-bd82876b65",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 44 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-9612",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "銀器餐具易氧化變為青綠色，故使用前應泡在何種溶液中擦洗清潔後，始可使用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "熱水"
+      },
+      {
+        "id": "B",
+        "text": "冷水"
+      },
+      {
+        "id": "C",
+        "text": "雙氧水"
+      },
+      {
+        "id": "D",
+        "text": "丙酮中。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "銀器餐具易氧化變為青綠色，故使用前應泡在何種溶液中擦洗清潔後，始可使用？ 熱水 冷水 雙氧水 丙酮中。 其他：待人工審核 待人工審核",
+    "sequence": 3387
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q032-f688fabc55",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 32 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-7841",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "品飲會中所提供的雞尾酒，下列哪一款飲品不會出現？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Black Russian"
+      },
+      {
+        "id": "B",
+        "text": "B-52"
+      },
+      {
+        "id": "C",
+        "text": "Irish Coffee"
+      },
+      {
+        "id": "D",
+        "text": "Pousse-café"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、black russian"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "品飲會中所提供的雞尾酒，下列哪一款飲品不會出現？ Black Russian B-52 Irish Coffee Pousse-café 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2029
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q004-635fb54e57",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 4 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-11800",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "有關廚房的敘述，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "排水溝口應距牆壁 3 公尺"
+      },
+      {
+        "id": "B",
+        "text": "工作檯面亮度應在 100 米燭光以上"
+      },
+      {
+        "id": "C",
+        "text": "天花板高度 4 公尺"
+      },
+      {
+        "id": "D",
+        "text": "天花板應選擇能通風，能減少油脂的材料"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關廚房的敘述，下列何者有誤？ 排水溝口應距牆壁 3 公尺 工作檯面亮度應在 100 米燭光以上 天花板高度 4 公尺 天花板應選擇能通風，能減少油脂的材料 其他：待人工審核 待人工審核",
+    "sequence": 2049
+  }
+}

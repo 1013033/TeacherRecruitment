@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q021-169af22308",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 21 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-36463",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "在眾多中式餐廳所提供的菜色中， 「佛跳牆」起源於下列哪一種菜系？",
+    "options": [
+      {
+        "id": "A",
+        "text": "四川菜"
+      },
+      {
+        "id": "B",
+        "text": "福建菜"
+      },
+      {
+        "id": "C",
+        "text": "山東菜"
+      },
+      {
+        "id": "D",
+        "text": "江浙菜"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在眾多中式餐廳所提供的菜色中， 「佛跳牆」起源於下列哪一種菜系？ 四川菜 福建菜 山東菜 江浙菜 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2208
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q010-54803d4ef3",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 10 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-8116",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "「PATA」為哪一國際觀光組織之簡稱？",
+    "options": [
+      {
+        "id": "A",
+        "text": "世界旅行業協會"
+      },
+      {
+        "id": "B",
+        "text": "亞太旅行協會"
+      },
+      {
+        "id": "C",
+        "text": "東亞觀光協會"
+      },
+      {
+        "id": "D",
+        "text": "美洲旅遊協會。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "「PATA」為哪一國際觀光組織之簡稱？ 世界旅行業協會 亞太旅行協會 東亞觀光協會 美洲旅遊協會。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2627
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q048-37e375a5ef",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 48 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-18305",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "關於客房餐飲服務的敘述，下列何者錯誤? 甲、客房餐飲服務的菜單價格，通常較同旅館內餐廳同品項的菜單價格高 乙、客房餐飲服務英文為 room service 丙、客房餐飲服務一般以午餐供應最多 丁、客房餐飲服務部門，編制在客務部之下",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲、菜單、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於客房餐飲服務的敘述，下列何者錯誤? 甲、客房餐飲服務的菜單價格，通常較同旅館內餐廳同品項的菜單價格高 乙、客房餐飲服務英文為 room service 丙、客房餐飲服務一般以午餐供應最多 丁、客房餐飲服務部門，編制在客務部之下 甲、乙 甲、丁 乙、丙 丙、丁 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2338
+  }
+}

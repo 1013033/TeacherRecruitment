@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q022-c1dee7d35f",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 22 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-5222",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "小白是一家飯店的員工，他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作 帳，飯店內所有的客房都有1～2 間臥室外加一個小客廳的配備，非常適合親子旅遊， 而旅館本身的財務、人事完全獨立，僅掛這間連鎖旅館的商標，總公司會常派人不定 期抽驗，符合繼續續約，反之可能終止契約，請問以下何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "小白職務為 Night Manager/飯店型態 Villa/連鎖方式 Management Contract"
+      },
+      {
+        "id": "B",
+        "text": "小白職務為 Reservation Clerk/飯店型態 All Suites/連鎖方式 Franchise"
+      },
+      {
+        "id": "C",
+        "text": "小白職務為 Operator/飯店型態 Resort/連鎖方式 Franchise"
+      },
+      {
+        "id": "D",
+        "text": "小白職務為 Reception/飯店型態 City Hotel/連鎖方式 Management Contract。 請依照以下所提供之電子機票訊息，回答第 23～25 題（見次頁）。 Passenger Ticket Receipt CHEN/MING JU E-ticket：6168981433273 Ticket Issue Date：9 APR 2024 Issuing Airline：Thai Airways Flight Details Departing Arriving Thai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NV A：01 NOV 2024 Thai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NV A：01 NOV 2024"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、客房、hotel、reservation"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "小白是一家飯店的員工，他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作 帳，飯店內所有的客房都有1～2 間臥室外加一個小客廳的配備，非常適合親子旅遊， 而旅館本身的財務、人事完全獨立，僅掛這間連鎖旅館的商標，總公司會常派人不定 期抽驗，符合繼續續約，反之可能終止契約，請問以下何者正確？ 小白職務為 Night Manager/飯店型態 Villa/連鎖方式 Management Contract 小白職務為 Reservation Clerk/飯店型態 All Suites/連鎖方式 Franchise 小白職務為 Operator/飯店型態 Resort/連鎖方式 Franchise 小白職務為 Reception/飯店型態 City Hotel/連鎖方式 Management Contract。 請依照以下所提供之電子機票訊息，回答第 23～25 題（見次頁）。 Passenger Ticket Receipt CHEN/MING JU E-ticket：6168981433273 Ticket Issue Date：9 APR 2024 Issuing Airline：Thai Airways Flight Details Departing Arriving Thai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NV A：01 NOV 2024 Thai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NV A：01 NOV 2024 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2019
+  }
+}

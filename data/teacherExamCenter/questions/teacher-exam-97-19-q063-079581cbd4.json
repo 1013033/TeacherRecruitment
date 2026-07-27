@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q063-079581cbd4",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 63 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-14091",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 63,
+    "questionType": "single-choice",
+    "prompt": "所謂的「julienne」是將食材切割成什麼形狀？",
+    "options": [
+      {
+        "id": "A",
+        "text": "塊狀"
+      },
+      {
+        "id": "B",
+        "text": "絲狀"
+      },
+      {
+        "id": "C",
+        "text": "碎狀"
+      },
+      {
+        "id": "D",
+        "text": "丁狀"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "所謂的「julienne」是將食材切割成什麼形狀？ 塊狀 絲狀 碎狀 丁狀 其他：待人工審核 待人工審核",
+    "sequence": 2958
+  }
+}

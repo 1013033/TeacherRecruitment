@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q007-9d118637e5",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 7 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-25069",
+    "paperTitle": "一、選擇題：（30 題每題 2 分）",
+    "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "關於酒類的敘述，請選出正確的選項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "紅酒於正常狀態下是不需要冷藏"
+      },
+      {
+        "id": "B",
+        "text": "甜葡萄酒是餐前酒"
+      },
+      {
+        "id": "C",
+        "text": "香檳的溫度大約在室溫最適於飲用"
+      },
+      {
+        "id": "D",
+        "text": "德國啤酒大都清淡爽口"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、香檳、紅酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於酒類的敘述，請選出正確的選項？ 紅酒於正常狀態下是不需要冷藏 甜葡萄酒是餐前酒 香檳的溫度大約在室溫最適於飲用 德國啤酒大都清淡爽口 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3054
+  }
+}

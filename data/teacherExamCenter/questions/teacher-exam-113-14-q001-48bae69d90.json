@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q001-48bae69d90",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 1 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-34702",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "所謂服務的「關鍵時刻」 （Moment of Truth）主要是用來強調",
+    "options": [
+      {
+        "id": "A",
+        "text": "服務接觸的重要性"
+      },
+      {
+        "id": "B",
+        "text": "抱怨處 理的重要性"
+      },
+      {
+        "id": "C",
+        "text": "電話訂位的重要性"
+      },
+      {
+        "id": "D",
+        "text": "告別服務的重要性"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：服務接觸"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "所謂服務的「關鍵時刻」 （Moment of Truth）主要是用來強調 服務接觸的重要性 抱怨處 理的重要性 電話訂位的重要性 告別服務的重要性 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2188
+  }
+}

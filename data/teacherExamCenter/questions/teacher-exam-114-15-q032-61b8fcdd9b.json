@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q032-61b8fcdd9b",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 32 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-27997",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "How would a server recommend today's special?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eat this, it's good."
+      },
+      {
+        "id": "B",
+        "text": "I highly recommend our grilled salmon today."
+      },
+      {
+        "id": "C",
+        "text": "You must eat this."
+      },
+      {
+        "id": "D",
+        "text": "We don't have specials."
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：grill"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "How would a server recommend today's special? Eat this, it's good. I highly recommend our grilled salmon today. You must eat this. We don't have specials. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2386
+  }
+}

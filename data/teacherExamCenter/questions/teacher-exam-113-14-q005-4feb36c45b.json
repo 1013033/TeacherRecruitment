@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q005-4feb36c45b",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 5 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-11903",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "預防食物中毒的原則中，關於細菌之生長與溫度條件的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "冷藏溫度應在 7℃以下，冷凍溫度應在-18℃以下，急速冷凍則在-40℃以下"
+      },
+      {
+        "id": "B",
+        "text": "以低溫-18℃冷凍剩餘菜餚時，細菌會被凍死而無法繁殖，因此從冰箱取出食物 時，不一定要以高溫來殺菌即可放心食用"
+      },
+      {
+        "id": "C",
+        "text": "若溫度達到 7℃或 60℃的臨界點時，細菌就會停止繁殖且死亡"
+      },
+      {
+        "id": "D",
+        "text": "一般細菌生長最適宜之溫度為 7℃～60℃之間，又稱為安全溫度區間"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "預防食物中毒的原則中，關於細菌之生長與溫度條件的敘述，何者正確？ 冷藏溫度應在 7℃以下，冷凍溫度應在-18℃以下，急速冷凍則在-40℃以下 以低溫-18℃冷凍剩餘菜餚時，細菌會被凍死而無法繁殖，因此從冰箱取出食物 時，不一定要以高溫來殺菌即可放心食用 若溫度達到 7℃或 60℃的臨界點時，細菌就會停止繁殖且死亡 一般細菌生長最適宜之溫度為 7℃～60℃之間，又稱為安全溫度區間 其他：待人工審核 待人工審核",
+    "sequence": 2050
+  }
+}

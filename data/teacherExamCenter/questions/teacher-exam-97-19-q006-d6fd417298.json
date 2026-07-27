@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q006-d6fd417298",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 6 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-17674",
+    "paperTitle": "一、選擇題",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "各地著名的 casino，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "馬來西亞——雲頂高原"
+      },
+      {
+        "id": "B",
+        "text": "澳洲→葡京"
+      },
+      {
+        "id": "C",
+        "text": "南非——太陽城"
+      },
+      {
+        "id": "D",
+        "text": "美國——內華達州拉斯維加斯"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "各地著名的 casino，下列何者有誤？ 馬來西亞——雲頂高原 澳洲→葡京 南非——太陽城 美國——內華達州拉斯維加斯 其他：待人工審核 待人工審核",
+    "sequence": 2989
+  }
+}

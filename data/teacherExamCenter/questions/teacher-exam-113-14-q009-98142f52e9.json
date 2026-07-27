@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q009-98142f52e9",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 9 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-22174",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種豬體部位最適合製作「無錫排骨」 、 「粉蒸排骨」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "飯匙骨"
+      },
+      {
+        "id": "B",
+        "text": "大排"
+      },
+      {
+        "id": "C",
+        "text": "粗排"
+      },
+      {
+        "id": "D",
+        "text": "龍骨"
+      },
+      {
+        "id": "E",
+        "text": "小排"
+      }
+    ],
+    "answer": "E",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪一種豬體部位最適合製作「無錫排骨」 、 「粉蒸排骨」？ 飯匙骨 大排 粗排 龍骨 小排 其他：待人工審核 待人工審核",
+    "sequence": 2104
+  }
+}

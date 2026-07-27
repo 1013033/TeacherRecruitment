@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q016-09bc8cf073",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 16 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-3231",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "Mary plans to travel to Kaohsiung at the end of 2024 and chooses to stay at Nikko Hotel, which is soon to be open for business. She also wants to try local specialties. Which department of the hotel can Mary get the information？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Executive Business Center"
+      },
+      {
+        "id": "B",
+        "text": "Information Technology Department"
+      },
+      {
+        "id": "C",
+        "text": "Concierge"
+      },
+      {
+        "id": "D",
+        "text": "F&B Department。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Mary plans to travel to Kaohsiung at the end of 2024 and chooses to stay at Nikko Hotel, which is soon to be open for business. She also wants to try local specialties. Which department of the hotel can Mary get the information？ Executive Business Center Information Technology Department Concierge F&B Department。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2415
+  }
+}

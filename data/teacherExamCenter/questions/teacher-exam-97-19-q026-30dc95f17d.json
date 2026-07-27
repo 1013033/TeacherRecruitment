@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q026-30dc95f17d",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 26 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-31817",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "我國第一家旅行社成立於何年？",
+    "options": [
+      {
+        "id": "A",
+        "text": "1927年"
+      },
+      {
+        "id": "B",
+        "text": "1928年"
+      },
+      {
+        "id": "C",
+        "text": "1929年"
+      },
+      {
+        "id": "D",
+        "text": "1930年。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國第一家旅行社成立於何年？ 1927年 1928年 1929年 1930年。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3146
+  }
+}

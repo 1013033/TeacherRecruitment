@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q010-56865db18b",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 10 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-2117",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "根據圖1葡萄酒標，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "①為在酒莊裝瓶之意"
+      },
+      {
+        "id": "B",
+        "text": "②為酒莊的名稱"
+      },
+      {
+        "id": "C",
+        "text": "③葡萄裝瓶的年份"
+      },
+      {
+        "id": "D",
+        "text": "④Pauillac地區法定產區葡萄酒。 圖1"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據圖1葡萄酒標，下列敘述何者錯誤？ ①為在酒莊裝瓶之意 ②為酒莊的名稱 ③葡萄裝瓶的年份 ④Pauillac地區法定產區葡萄酒。 圖1 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2409
+  }
+}

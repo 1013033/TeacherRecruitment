@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q001-fb631d467f",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 1 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-32511",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 1,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者選項為傳統餐廳外場編制人員？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Commis de suite"
+      },
+      {
+        "id": "B",
+        "text": "Maitre d’ hotel de carre"
+      },
+      {
+        "id": "C",
+        "text": "Commis de Debarrasseur"
+      },
+      {
+        "id": "D",
+        "text": "Demi Chef de Rang"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、chef de rang、maitre"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者選項為傳統餐廳外場編制人員？ Commis de suite Maitre d’ hotel de carre Commis de Debarrasseur Demi Chef de Rang 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2167
+  }
+}

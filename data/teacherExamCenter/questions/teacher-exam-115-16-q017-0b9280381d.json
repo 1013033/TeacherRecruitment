@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q017-0b9280381d",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 17 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-3588",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "A: Does the price include tax？ B: ____________",
+    "options": [
+      {
+        "id": "A",
+        "text": "My personal tax in Taiwan is 13%."
+      },
+      {
+        "id": "B",
+        "text": "There is a 10% service charge excluded from the bill."
+      },
+      {
+        "id": "C",
+        "text": "Yes, I pay my taxes on time every year."
+      },
+      {
+        "id": "D",
+        "text": "Yes, sir. There is a 5% V AT included in the bill."
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "A: Does the price include tax？ B: ____________ My personal tax in Taiwan is 13%. There is a 10% service charge excluded from the bill. Yes, I pay my taxes on time every year. Yes, sir. There is a 5% V AT included in the bill. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2416
+  }
+}

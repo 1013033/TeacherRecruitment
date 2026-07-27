@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q056-3e48fe1073",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 56 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-20089",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 56,
+    "questionType": "single-choice",
+    "prompt": "請問，依照上表的資訊，（甲）可以填入的英文字，不包含下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fine Grind"
+      },
+      {
+        "id": "B",
+        "text": "Coarse Grind"
+      },
+      {
+        "id": "C",
+        "text": "Regular Grind"
+      },
+      {
+        "id": "D",
+        "text": "Percolator Grind"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請問，依照上表的資訊，（甲）可以填入的英文字，不包含下列何者？ Fine Grind Coarse Grind Regular Grind Percolator Grind 其他：待人工審核 待人工審核",
+    "sequence": 2346
+  }
+}

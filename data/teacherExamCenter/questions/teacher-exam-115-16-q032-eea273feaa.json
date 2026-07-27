@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q032-eea273feaa",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 32 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-14054",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "依據《觀光旅館業管理規則》之條文，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "觀光旅館業應登記每日住宿旅客資料，其保存期間為一年"
+      },
+      {
+        "id": "B",
+        "text": "觀光旅館業開業後，應將每月營業收入、客房住用率、住客人數統計及外匯收入 實績，於次月十五日前，依限填表分報交通部觀光署及該管直轄市政府"
+      },
+      {
+        "id": "C",
+        "text": "觀光旅館業客房之定價，由該觀光旅館業自行訂定後，報經濟部備查，並副知當 地觀光旅館商業同業公會，變更時亦同"
+      },
+      {
+        "id": "D",
+        "text": "觀光旅館業於開業前或開業後，不得以保證支付租金或利潤等方式招攬銷售其 建築物及設備之一部或全部"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據《觀光旅館業管理規則》之條文，下列敘述何者正確？ 觀光旅館業應登記每日住宿旅客資料，其保存期間為一年 觀光旅館業開業後，應將每月營業收入、客房住用率、住客人數統計及外匯收入 實績，於次月十五日前，依限填表分報交通部觀光署及該管直轄市政府 觀光旅館業客房之定價，由該觀光旅館業自行訂定後，報經濟部備查，並副知當 地觀光旅館商業同業公會，變更時亦同 觀光旅館業於開業前或開業後，不得以保證支付租金或利潤等方式招攬銷售其 建築物及設備之一部或全部 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2480
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q032-2e9c64379a",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 32 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-7434",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 32,
+    "questionType": "multiple-choice",
+    "prompt": "In a formal Western-style fine dining event, the server needs to decide whether to provide a finger bowl based on how the dishes are eaten. Please determine which of the following dishes is most suitable to be served with a finger bowl.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shrimp Cocktail"
+      },
+      {
+        "id": "B",
+        "text": "Artichokes（served whole with dipping sauce）"
+      },
+      {
+        "id": "C",
+        "text": "Cantaloupe（served as wedges with rind）"
+      },
+      {
+        "id": "D",
+        "text": "Grilled Lobster（served in shell, partially cracked）"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：sauce、grill"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "In a formal Western-style fine dining event, the server needs to decide whether to provide a finger bowl based on how the dishes are eaten. Please determine which of the following dishes is most suitable to be served with a finger bowl. Shrimp Cocktail Artichokes（served whole with dipping sauce） Cantaloupe（served as wedges with rind） Grilled Lobster（served in shell, partially cracked） 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2431
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q019-531f62e9ae",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 19 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-18963",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列何種菜餚不是上亮膠（glazing）的菜？",
+    "options": [
+      {
+        "id": "A",
+        "text": "chicken galantine"
+      },
+      {
+        "id": "B",
+        "text": "glazed carrot"
+      },
+      {
+        "id": "C",
+        "text": "honey glazed ham"
+      },
+      {
+        "id": "D",
+        "text": "Irish stew"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：ham"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何種菜餚不是上亮膠（glazing）的菜？ chicken galantine glazed carrot honey glazed ham Irish stew 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3002
+  }
+}

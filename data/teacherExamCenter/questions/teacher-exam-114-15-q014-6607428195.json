@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q014-6607428195",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 14 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-25229",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "根據我國農業部茶及飲料作物改良場資料顯示，「紅烏龍」是結合烏龍茶與紅茶之加 工特點與品質特色所新創製出來的台灣特色茶。請問此茶最初主要是茶改場要突破 哪個茶區的困境，所製研出來的特色茶？",
+    "options": [
+      {
+        "id": "A",
+        "text": "新北石門"
+      },
+      {
+        "id": "B",
+        "text": "新竹北埔"
+      },
+      {
+        "id": "C",
+        "text": "南投竹山"
+      },
+      {
+        "id": "D",
+        "text": "臺東鹿野"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、紅茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據我國農業部茶及飲料作物改良場資料顯示，「紅烏龍」是結合烏龍茶與紅茶之加 工特點與品質特色所新創製出來的台灣特色茶。請問此茶最初主要是茶改場要突破 哪個茶區的困境，所製研出來的特色茶？ 新北石門 新竹北埔 南投竹山 臺東鹿野 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2368
+  }
+}

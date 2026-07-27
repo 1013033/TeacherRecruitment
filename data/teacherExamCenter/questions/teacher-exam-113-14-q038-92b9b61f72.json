@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q038-92b9b61f72",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 38 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-16732",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "關於客房清潔作業之敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "清理客房時依循「環狀清理」 、 「由外而內」 、 「由上而下」等基本原則"
+      },
+      {
+        "id": "B",
+        "text": "應盡量利用住客外出時清理客房"
+      },
+      {
+        "id": "C",
+        "text": "進入客房後首先應拉上窗簾，以維護住客隱私"
+      },
+      {
+        "id": "D",
+        "text": "清理未冷卻燈泡時，必須先擰乾抹布水分以免危險"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於客房清潔作業之敘述，下列何者正確？ 清理客房時依循「環狀清理」 、 「由外而內」 、 「由上而下」等基本原則 應盡量利用住客外出時清理客房 進入客房後首先應拉上窗簾，以維護住客隱私 清理未冷卻燈泡時，必須先擰乾抹布水分以免危險 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2083
+  }
+}

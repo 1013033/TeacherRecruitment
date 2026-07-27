@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q028-1ab5ddcc26",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 28 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-8490",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "澎湖受東北季風影響不利於海上觀光旅遊活動，是屬於哪一種觀光產業之特質？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綜合性"
+      },
+      {
+        "id": "B",
+        "text": "敏感性"
+      },
+      {
+        "id": "C",
+        "text": "季節性"
+      },
+      {
+        "id": "D",
+        "text": "無形性。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "澎湖受東北季風影響不利於海上觀光旅遊活動，是屬於哪一種觀光產業之特質？ 綜合性 敏感性 季節性 無形性。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3269
+  }
+}

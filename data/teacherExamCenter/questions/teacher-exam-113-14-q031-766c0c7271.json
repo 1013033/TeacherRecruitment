@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q031-766c0c7271",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 31 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-7487",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "甲：外形「青蒂綠腹蜻蜓頭」狀，茶湯呈琥珀色，味道醇厚 乙：外形「扁平如劍」，以色綠、香郁、味醇、形美四絕著稱 丙：外形「緊結成半球」，被稱為臺灣茶中之聖 丁：外形「呈條索狀」，有香、濃、醇、韻、美等特色，被稱為茶中美人 以上四種茶葉依其發酵程度由低到高是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙<丁<丙<甲"
+      },
+      {
+        "id": "B",
+        "text": "乙<甲<丙<丁"
+      },
+      {
+        "id": "C",
+        "text": "甲<丁<丙<乙"
+      },
+      {
+        "id": "D",
+        "text": "甲<丁<乙<丙。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "甲：外形「青蒂綠腹蜻蜓頭」狀，茶湯呈琥珀色，味道醇厚 乙：外形「扁平如劍」，以色綠、香郁、味醇、形美四絕著稱 丙：外形「緊結成半球」，被稱為臺灣茶中之聖 丁：外形「呈條索狀」，有香、濃、醇、韻、美等特色，被稱為茶中美人 以上四種茶葉依其發酵程度由低到高是？ 乙<丁<丙<甲 乙<甲<丙<丁 甲<丁<丙<乙 甲<丁<乙<丙。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2028
+  }
+}

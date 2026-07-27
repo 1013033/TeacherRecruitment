@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q004-6f45f0e2bf",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 4 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-20204",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "美國農業部(USDA)之牛肉評級制度，依品質評級區劃為： 甲、U.S. Choice 乙、U.S. Canner 丙、U.S. Standard 丁、U.S. Cutter 戊、U.S. Commercial 己、U.S. Prime 庚、U.S. Utility 辛、U.S. Select 其上述牛肉品質以大理石紋脂肪(marbling)的含量，由最高排至最低之正確排序應為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "己甲辛丙庚戊丁乙"
+      },
+      {
+        "id": "B",
+        "text": "己甲辛庚戊丁丙乙"
+      },
+      {
+        "id": "C",
+        "text": "己甲辛丙戊庚丁乙"
+      },
+      {
+        "id": "D",
+        "text": "己辛甲庚丁戊丙乙"
+      },
+      {
+        "id": "E",
+        "text": "己辛丙甲戊庚丁乙"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：牛肉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "美國農業部(USDA)之牛肉評級制度，依品質評級區劃為： 甲、U.S. Choice 乙、U.S. Canner 丙、U.S. Standard 丁、U.S. Cutter 戊、U.S. Commercial 己、U.S. Prime 庚、U.S. Utility 辛、U.S. Select 其上述牛肉品質以大理石紋脂肪(marbling)的含量，由最高排至最低之正確排序應為： 己甲辛丙庚戊丁乙 己甲辛庚戊丁丙乙 己甲辛丙戊庚丁乙 己辛甲庚丁戊丙乙 己辛丙甲戊庚丁乙 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2099
+  }
+}

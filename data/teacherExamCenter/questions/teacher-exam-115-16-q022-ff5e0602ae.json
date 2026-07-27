@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q022-ff5e0602ae",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 22 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-4680",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "美以伊戰爭進入和談，和談後各方使者進行餐敘，使者的宗教信仰如下： 美國使者 A 是 Christianity、使者 B 是 Mormonism、以色列使者 C 是Judaism、 伊朗使者 D 是 Islam。 【菜單內容】 Menu Ⅰ Nicoise Salad Filet Mignon Tiramisu Menu Ⅱ Fresh Fruit Yogurt Salad Schweinshaxe with Sauerkraut Crème Brûlèe Menu Ⅲ Lentil Soup Halal Chicken Thigh & Pilaf Rice Baklava MenuⅣ Shrimp Bisque Halal Beef Burger Panna Cotta 請提供使者們「完全符合該宗教最嚴謹飲食規範且無風險疑慮」之餐點，下列配對何 者最適當？",
+    "options": [
+      {
+        "id": "A",
+        "text": "使者C服務Menu Ⅳ"
+      },
+      {
+        "id": "B",
+        "text": "使者B服務Menu Ⅰ"
+      },
+      {
+        "id": "C",
+        "text": "使者A服務Menu Ⅲ"
+      },
+      {
+        "id": "D",
+        "text": "使者D服務Menu Ⅱ。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單、menu"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "美以伊戰爭進入和談，和談後各方使者進行餐敘，使者的宗教信仰如下： 美國使者 A 是 Christianity、使者 B 是 Mormonism、以色列使者 C 是Judaism、 伊朗使者 D 是 Islam。 【菜單內容】 Menu Ⅰ Nicoise Salad Filet Mignon Tiramisu Menu Ⅱ Fresh Fruit Yogurt Salad Schweinshaxe with Sauerkraut Crème Brûlèe Menu Ⅲ Lentil Soup Halal Chicken Thigh & Pilaf Rice Baklava MenuⅣ Shrimp Bisque Halal Beef Burger Panna Cotta 請提供使者們「完全符合該宗教最嚴謹飲食規範且無風險疑慮」之餐點，下列配對何 者最適當？ 使者C服務Menu Ⅳ 使者B服務Menu Ⅰ 使者A服務Menu Ⅲ 使者D服務Menu Ⅱ。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2421
+  }
+}

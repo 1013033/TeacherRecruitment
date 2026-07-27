@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q017-9c3399fa5b",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 17 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-1712",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "茶葉依發酵程度不同分類，請問下列哪些屬於不發酵茶葉：甲.白毫烏龍 乙.龍井茶 丙.煎茶 丁.碧螺春 戊.水仙",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙、丁"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁、戊"
+      },
+      {
+        "id": "D",
+        "text": "甲、丁、戊。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "茶葉依發酵程度不同分類，請問下列哪些屬於不發酵茶葉：甲.白毫烏龍 乙.龍井茶 丙.煎茶 丁.碧螺春 戊.水仙 甲、丙、丁 乙、丙、丁 乙、丁、戊 甲、丁、戊。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2810
+  }
+}

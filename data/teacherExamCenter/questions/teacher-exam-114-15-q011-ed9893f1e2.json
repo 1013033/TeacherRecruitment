@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q011-ed9893f1e2",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 11 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-24718",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列酒款，酒精濃度由高至低的正確排列順序為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hennessy、Chablis、Oloroso、Taiwan beer"
+      },
+      {
+        "id": "B",
+        "text": "Hennessy、Oloroso、Chablis、Taiwan beer"
+      },
+      {
+        "id": "C",
+        "text": "Chablis、Hennessy、Taiwan beer、Oloroso"
+      },
+      {
+        "id": "D",
+        "text": "Oloroso、Hennessy、Taiwan beer、Chablis"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列酒款，酒精濃度由高至低的正確排列順序為？ Hennessy、Chablis、Oloroso、Taiwan beer Hennessy、Oloroso、Chablis、Taiwan beer Chablis、Hennessy、Taiwan beer、Oloroso Oloroso、Hennessy、Taiwan beer、Chablis 其他：待人工審核 待人工審核",
+    "sequence": 2365
+  }
+}

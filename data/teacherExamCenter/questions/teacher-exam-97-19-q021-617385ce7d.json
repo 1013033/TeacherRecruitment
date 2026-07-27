@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q021-617385ce7d",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 21 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-31468",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "目前觀光旅館餐廳蛋糕、甜點、麵包及西點，係由下列何者負責製作？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Station Cook"
+      },
+      {
+        "id": "B",
+        "text": "Pastry Cook"
+      },
+      {
+        "id": "C",
+        "text": "Butcher"
+      },
+      {
+        "id": "D",
+        "text": "Assistant。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "目前觀光旅館餐廳蛋糕、甜點、麵包及西點，係由下列何者負責製作？ Station Cook Pastry Cook Butcher Assistant。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3141
+  }
+}

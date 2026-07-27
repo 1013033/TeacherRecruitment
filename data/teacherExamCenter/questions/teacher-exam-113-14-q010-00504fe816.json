@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q010-00504fe816",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 10 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-35417",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "關於旅館經營概念之敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "歐式計價方式是指房租不包含任何餐食費用的計 價方式"
+      },
+      {
+        "id": "B",
+        "text": "客房通常因裝修及人事成本，較餐飲更不容易降價促銷"
+      },
+      {
+        "id": "C",
+        "text": "休閒旅館連續假期常折扣促銷，以達 最高住房率及營收"
+      },
+      {
+        "id": "D",
+        "text": "休閒旅館營收比重一般以餐飲收入為主，客房收入為輔"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於旅館經營概念之敘述，下列何者正確？ 歐式計價方式是指房租不包含任何餐食費用的計 價方式 客房通常因裝修及人事成本，較餐飲更不容易降價促銷 休閒旅館連續假期常折扣促銷，以達 最高住房率及營收 休閒旅館營收比重一般以餐飲收入為主，客房收入為輔 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2197
+  }
+}

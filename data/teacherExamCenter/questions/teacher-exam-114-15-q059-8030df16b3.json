@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q059-8030df16b3",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 59 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-20617",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 59,
+    "questionType": "single-choice",
+    "prompt": "「Mojito」的由來跟大航海時代的殖民歷史有很大的關係，是一種以蘭姆酒(Rum) 為基底的調酒，一 般認為發明的靈感來自古巴原住民傳統飲食常用的醬料「Mojo 莫侯醬」．請問調製本款酒不需要用到什麼 器具？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Measure"
+      },
+      {
+        "id": "B",
+        "text": "Zester"
+      },
+      {
+        "id": "C",
+        "text": "Boston Shaker"
+      },
+      {
+        "id": "D",
+        "text": "Muddler"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：蘭姆、rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "「Mojito」的由來跟大航海時代的殖民歷史有很大的關係，是一種以蘭姆酒(Rum) 為基底的調酒，一 般認為發明的靈感來自古巴原住民傳統飲食常用的醬料「Mojo 莫侯醬」．請問調製本款酒不需要用到什麼 器具？ Measure Zester Boston Shaker Muddler 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2349
+  }
+}

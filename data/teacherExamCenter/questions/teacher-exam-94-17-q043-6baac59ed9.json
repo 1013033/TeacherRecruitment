@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q043-6baac59ed9",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 43 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-10742",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "定期盤點法，可以計算出何種餐飲業相關資訊？",
+    "options": [
+      {
+        "id": "A",
+        "text": "材料成本"
+      },
+      {
+        "id": "B",
+        "text": "人事費用"
+      },
+      {
+        "id": "C",
+        "text": "營業費用"
+      },
+      {
+        "id": "D",
+        "text": "餐飲總成本。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "定期盤點法，可以計算出何種餐飲業相關資訊？ 材料成本 人事費用 營業費用 餐飲總成本。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2660
+  }
+}

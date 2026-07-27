@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q042-177d2ff740",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 42 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38308",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 42,
+    "questionType": "multiple-choice",
+    "prompt": "以下航空公司代碼，何者正確?",
+    "options": [
+      {
+        "id": "A",
+        "text": "AI印尼航空"
+      },
+      {
+        "id": "B",
+        "text": "HU：海南航空"
+      },
+      {
+        "id": "C",
+        "text": "AF法國航空"
+      },
+      {
+        "id": "D",
+        "text": "9P帛琉太 平洋航空"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下航空公司代碼，何者正確? AI印尼航空 HU：海南航空 AF法國航空 9P帛琉太 平洋航空 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2229
+  }
+}

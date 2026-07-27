@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q023-672f85fd0c",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 23 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-5233",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 23,
+    "questionType": "multiple-choice",
+    "prompt": "依據Tourism 2030–臺灣觀光邁向2030方案（115～119年），臺灣觀光發展以「永續韌性」 與「數位創新」為核心，並透過四大策略推動整體轉型。請判斷下列措施，何者符合 該方案政策方向？",
+    "options": [
+      {
+        "id": "A",
+        "text": "建置智慧景區管理平台，整合數據以提升旅遊體驗與安全。"
+      },
+      {
+        "id": "B",
+        "text": "以單一熱門景點集中投資，強化觀光聚集效應。"
+      },
+      {
+        "id": "C",
+        "text": "推動區域觀光圈，整合食宿遊購行以促進地方均衡發展。"
+      },
+      {
+        "id": "D",
+        "text": "發展多元主題旅遊，如文化、綠色、農遊，以提升旅遊深度。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、永續、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據Tourism 2030–臺灣觀光邁向2030方案（115～119年），臺灣觀光發展以「永續韌性」 與「數位創新」為核心，並透過四大策略推動整體轉型。請判斷下列措施，何者符合 該方案政策方向？ 建置智慧景區管理平台，整合數據以提升旅遊體驗與安全。 以單一熱門景點集中投資，強化觀光聚集效應。 推動區域觀光圈，整合食宿遊購行以促進地方均衡發展。 發展多元主題旅遊，如文化、綠色、農遊，以提升旅遊深度。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2422
+  }
+}

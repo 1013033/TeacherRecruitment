@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q008-6af675a0c9",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 8 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-11308",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列何者不屬於「六大基酒」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gin"
+      },
+      {
+        "id": "B",
+        "text": "Brandy"
+      },
+      {
+        "id": "C",
+        "text": "Sherry"
+      },
+      {
+        "id": "D",
+        "text": "Tequila"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：brandy、tequila、sherry"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不屬於「六大基酒」？ Gin Brandy Sherry Tequila 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2456
+  }
+}

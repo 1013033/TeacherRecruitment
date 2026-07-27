@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q005-0319a4d412",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 5 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-20478",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "Compared with Non-Vintage Champagne, which of the following are typical for Vintage Champagne？ a. The base wine comes from a single year. b. It is made from black gapes only. c. It may come from Spain. d. It spends longer ageing in the cellar before disgorgement. e. It is sweeter. f. It has more intense biscuit, bready autolytic characteristics.",
+    "options": [
+      {
+        "id": "A",
+        "text": "a, b and c only."
+      },
+      {
+        "id": "B",
+        "text": "b, d, e and f only."
+      },
+      {
+        "id": "C",
+        "text": "a, d and f only."
+      },
+      {
+        "id": "D",
+        "text": "b, c and d only."
+      },
+      {
+        "id": "E",
+        "text": "none of these."
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：wine、champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Compared with Non-Vintage Champagne, which of the following are typical for Vintage Champagne？ a. The base wine comes from a single year. b. It is made from black gapes only. c. It may come from Spain. d. It spends longer ageing in the cellar before disgorgement. e. It is sweeter. f. It has more intense biscuit, bready autolytic characteristics. a, b and c only. b, d, e and f only. a, d and f only. b, c and d only. none of these. 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2100
+  }
+}

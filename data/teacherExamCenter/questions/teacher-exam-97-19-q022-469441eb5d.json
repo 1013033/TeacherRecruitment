@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q022-469441eb5d",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 22 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-10327",
+    "paperTitle": "二、單選題（1題1分，共76分）",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "許多飯店的餐飲部其紅利和年終獎金均以各餐廳的營業績效來發放，此種制度稱為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "彈性管理"
+      },
+      {
+        "id": "B",
+        "text": "工作分析"
+      },
+      {
+        "id": "C",
+        "text": "利潤中心"
+      },
+      {
+        "id": "D",
+        "text": "工作設計"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "許多飯店的餐飲部其紅利和年終獎金均以各餐廳的營業績效來發放，此種制度稱為： 彈性管理 工作分析 利潤中心 工作設計 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2917
+  }
+}

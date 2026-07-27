@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q044-cab79e8c4b",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 44 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-7525",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "所謂外帶餐店與下列何者意義不同？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Take Away"
+      },
+      {
+        "id": "B",
+        "text": "Outside Order"
+      },
+      {
+        "id": "C",
+        "text": "Take Out"
+      },
+      {
+        "id": "D",
+        "text": "Delivery Restaurant"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：restaurant"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "所謂外帶餐店與下列何者意義不同？ Take Away Outside Order Take Out Delivery Restaurant 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2889
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q019-6281df065c",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 19 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-3030",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "$\\underline{\\quad(C)\\quad}$ is a sweet, yellow Italian herbal liqueur. It is flavored with various herbs, flowers and spices, including anise, licorice and vanilla, giving it an unique taste.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Amaretto"
+      },
+      {
+        "id": "B",
+        "text": "Baileys"
+      },
+      {
+        "id": "C",
+        "text": "Galliano"
+      },
+      {
+        "id": "D",
+        "text": "Kahlua"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "$\\underline{\\quad(C)\\quad}$ is a sweet, yellow Italian herbal liqueur. It is flavored with various herbs, flowers and spices, including anise, licorice and vanilla, giving it an unique taste. Amaretto Baileys Galliano Kahlua 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3202
+  }
+}

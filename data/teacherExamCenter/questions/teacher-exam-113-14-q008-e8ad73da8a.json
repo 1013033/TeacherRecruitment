@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q008-e8ad73da8a",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 8 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-35286",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種冰咖啡不須加入烈酒或香甜酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "百合冰咖啡"
+      },
+      {
+        "id": "B",
+        "text": "墨西哥冰咖啡"
+      },
+      {
+        "id": "C",
+        "text": "摩卡冰咖啡"
+      },
+      {
+        "id": "D",
+        "text": "亞歷山大冰咖啡"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種冰咖啡不須加入烈酒或香甜酒？ 百合冰咖啡 墨西哥冰咖啡 摩卡冰咖啡 亞歷山大冰咖啡 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2195
+  }
+}

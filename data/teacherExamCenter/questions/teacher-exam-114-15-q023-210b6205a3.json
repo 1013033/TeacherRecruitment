@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q023-210b6205a3",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 23 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-5745",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 23,
+    "questionType": "essay",
+    "prompt": "飲料系列以「是含有咖啡因」來分類，請問「花草茶飲」 、 「果粒茶飲」 、 「果乾水」 、 「水果茶系列」 、 「養生調味茶飲」 、 「紅酒香料包茶」 ，以上6種茶飲系列中，有幾種 富有咖啡因的茶飲系列？ （A）1種（B）2種（C）3種（D）4種。",
+    "options": [],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "飲料系列以「是含有咖啡因」來分類，請問「花草茶飲」 、 「果粒茶飲」 、 「果乾水」 、 「水果茶系列」 、 「養生調味茶飲」 、 「紅酒香料包茶」 ，以上6種茶飲系列中，有幾種 富有咖啡因的茶飲系列？ （A）1種（B）2種（C）3種（D）4種。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2260
+  }
+}

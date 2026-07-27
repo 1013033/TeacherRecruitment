@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q006-b4fc093bde",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 6 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-23975",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "依據外交部領事事務局 2017 年 7 月 20 日發布，中華民國申請其他國家度假打工（青 年交流）簽證，目前已與我國簽署相關協定並已生效之國家約計17 國。其中不包含 下列何國？",
+    "options": [
+      {
+        "id": "A",
+        "text": "波蘭"
+      },
+      {
+        "id": "B",
+        "text": "英國"
+      },
+      {
+        "id": "C",
+        "text": "德國"
+      },
+      {
+        "id": "D",
+        "text": "美國"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據外交部領事事務局 2017 年 7 月 20 日發布，中華民國申請其他國家度假打工（青 年交流）簽證，目前已與我國簽署相關協定並已生效之國家約計17 國。其中不包含 下列何國？ 波蘭 英國 德國 美國 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2360
+  }
+}

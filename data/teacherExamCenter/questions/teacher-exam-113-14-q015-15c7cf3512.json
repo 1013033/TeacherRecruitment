@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q015-15c7cf3512",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 15 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-3693",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "以下旅行所需文件及出入國境的相關手續及負責執行機關單位哪幾個配對為錯誤？ 甲：旅客行李安全檢查及機艙或船艙的清艙作業負責單位為：財政部關務署 乙：查驗進出我國旅客護照、簽證及相關作業機關為：外交部領事事務局 丙：旅客檢疫為由：衛生福利部疾病管制署執行 丁：動植物檢疫由：行政院農業委員會動植物防疫檢疫局擔任 戊：中華民國護照申請核發及管理機關為：外交部領事事務局 己：簽證核發機關為：內政部移民署負責",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 個"
+      },
+      {
+        "id": "B",
+        "text": "4 個"
+      },
+      {
+        "id": "C",
+        "text": "3 個"
+      },
+      {
+        "id": "D",
+        "text": "2 個。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下旅行所需文件及出入國境的相關手續及負責執行機關單位哪幾個配對為錯誤？ 甲：旅客行李安全檢查及機艙或船艙的清艙作業負責單位為：財政部關務署 乙：查驗進出我國旅客護照、簽證及相關作業機關為：外交部領事事務局 丙：旅客檢疫為由：衛生福利部疾病管制署執行 丁：動植物檢疫由：行政院農業委員會動植物防疫檢疫局擔任 戊：中華民國護照申請核發及管理機關為：外交部領事事務局 己：簽證核發機關為：內政部移民署負責 5 個 4 個 3 個 2 個。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2012
+  }
+}

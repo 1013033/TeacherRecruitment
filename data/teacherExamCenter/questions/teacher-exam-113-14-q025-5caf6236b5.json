@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q025-5caf6236b5",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 25 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-6224",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "請問此班航空公司正在執行第幾航權？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第五航權"
+      },
+      {
+        "id": "B",
+        "text": "第七航權"
+      },
+      {
+        "id": "C",
+        "text": "第八航權"
+      },
+      {
+        "id": "D",
+        "text": "第九航權。 請依照以下所提供之菜單訊息，回答第 26～28 題。 Vichyssoise、Lobster、Caipirinha、Cole Slaw"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請問此班航空公司正在執行第幾航權？ 第五航權 第七航權 第八航權 第九航權。 請依照以下所提供之菜單訊息，回答第 26～28 題。 Vichyssoise、Lobster、Caipirinha、Cole Slaw 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2022
+  }
+}

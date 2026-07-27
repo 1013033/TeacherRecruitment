@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q045-27a84c5902",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 45 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-9673",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "何 謂 MRP ？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Machine Report Paper"
+      },
+      {
+        "id": "B",
+        "text": "Multiple Report Procedure"
+      },
+      {
+        "id": "C",
+        "text": "Multiple RecentryPermit"
+      },
+      {
+        "id": "D",
+        "text": "Machine Readable Passport。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "何 謂 MRP ？ Machine Report Paper Multiple Report Procedure Multiple RecentryPermit Machine Readable Passport。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2787
+  }
+}

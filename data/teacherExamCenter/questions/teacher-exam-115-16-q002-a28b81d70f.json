@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q002-a28b81d70f",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 2 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-18172",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "關於「銀盤服務」（Silver Service）的操作要領，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "服務員應從客人左側，以右手持服務叉匙分菜"
+      },
+      {
+        "id": "B",
+        "text": "服務順序應秉持「女士優先」，最後才是主人"
+      },
+      {
+        "id": "C",
+        "text": "分菜時，叉匙應呈「鉗狀」或「掌狀」操作"
+      },
+      {
+        "id": "D",
+        "text": "若為最後一位客人分完菜，銀盤應從客人左側撤離。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：服務員、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於「銀盤服務」（Silver Service）的操作要領，下列何者錯誤？ 服務員應從客人左側，以右手持服務叉匙分菜 服務順序應秉持「女士優先」，最後才是主人 分菜時，叉匙應呈「鉗狀」或「掌狀」操作 若為最後一位客人分完菜，銀盤應從客人左側撤離。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2500
+  }
+}

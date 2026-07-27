@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q039-79e3a66edf",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 39 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-37938",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "G.I.T.代表",
+    "options": [
+      {
+        "id": "A",
+        "text": "Group Inclusive Tour Traveler"
+      },
+      {
+        "id": "B",
+        "text": "Garantee Independent Tour"
+      },
+      {
+        "id": "C",
+        "text": "Guest Independent Tourist"
+      },
+      {
+        "id": "D",
+        "text": "Group In Tourism"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "G.I.T.代表 Group Inclusive Tour Traveler Garantee Independent Tour Guest Independent Tourist Group In Tourism 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2226
+  }
+}

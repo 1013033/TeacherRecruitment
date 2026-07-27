@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q023-92998ead8e",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 23 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-21576",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "下列配對何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Punch Bowl-雞尾酒缸"
+      },
+      {
+        "id": "B",
+        "text": "Wine Tasting Glass-品酒杯"
+      },
+      {
+        "id": "C",
+        "text": "Shot Glass-純飲杯"
+      },
+      {
+        "id": "D",
+        "text": "Ice Bucket-冰桶架。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：wine"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列配對何者錯誤？ Punch Bowl-雞尾酒缸 Wine Tasting Glass-品酒杯 Shot Glass-純飲杯 Ice Bucket-冰桶架。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3026
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q042-c3c0156f70",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 42 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-32960",
+    "paperTitle": "未標示試卷",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "旅館住店旅客常常會要求“Room Service”，對於客人所點叫的餐食，最慢不得超過多長時間才送達客房？",
+    "options": [
+      {
+        "id": "A",
+        "text": "20分鐘"
+      },
+      {
+        "id": "B",
+        "text": "30分鐘"
+      },
+      {
+        "id": "C",
+        "text": "40分鐘"
+      },
+      {
+        "id": "D",
+        "text": "60分鐘。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅館住店旅客常常會要求“Room Service”，對於客人所點叫的餐食，最慢不得超過多長時間才送達客房？ 20分鐘 30分鐘 40分鐘 60分鐘。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3162
+  }
+}

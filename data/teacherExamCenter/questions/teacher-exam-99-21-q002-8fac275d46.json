@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q002-8fac275d46",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 2 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-323",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "住房狀況記錄表中的英文縮寫NS、HU、D/O分別代表什麼意思？",
+    "options": [
+      {
+        "id": "A",
+        "text": "不需夜床服務、房客已遷出，待整理、預計住房"
+      },
+      {
+        "id": "B",
+        "text": "訂房旅客無故未到、房客遷出、超額訂房"
+      },
+      {
+        "id": "C",
+        "text": "續住、旅客住宿中、待整理，預定退房"
+      },
+      {
+        "id": "D",
+        "text": "訂房旅客無故未到、因公使用、預定退房"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：訂房、超額訂房、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "住房狀況記錄表中的英文縮寫NS、HU、D/O分別代表什麼意思？ 不需夜床服務、房客已遷出，待整理、預計住房 訂房旅客無故未到、房客遷出、超額訂房 續住、旅客住宿中、待整理，預定退房 訂房旅客無故未到、因公使用、預定退房 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3313
+  }
+}

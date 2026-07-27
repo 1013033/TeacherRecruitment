@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q011-fa23683d15",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 11 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20888",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "國民旅遊卡是鼓勵何人從事旅遊活動？",
+    "options": [
+      {
+        "id": "A",
+        "text": "醫務人員"
+      },
+      {
+        "id": "B",
+        "text": "公教人員"
+      },
+      {
+        "id": "C",
+        "text": "學生"
+      },
+      {
+        "id": "D",
+        "text": "商務人員。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國民旅遊卡是鼓勵何人從事旅遊活動？ 醫務人員 公教人員 學生 商務人員。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 364
+  }
+}

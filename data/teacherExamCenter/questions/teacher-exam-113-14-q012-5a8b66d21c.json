@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q012-5a8b66d21c",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 12 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-2857",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "Clerk: Front desk. May I help you? Guest: Yes! This is Room 1221. The light in our room is not working. Clerk: I’m sorry. I’ll send someone to take a look at it for you right now. Guest: OK, we’ll go out in just moment. Clerk: That’s ok! I’ll let the man know. Thank you!",
+    "options": [
+      {
+        "id": "A",
+        "text": "maintenance"
+      },
+      {
+        "id": "B",
+        "text": "maintain"
+      },
+      {
+        "id": "C",
+        "text": "mainstream"
+      },
+      {
+        "id": "D",
+        "text": "mainland"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Clerk: Front desk. May I help you? Guest: Yes! This is Room 1221. The light in our room is not working. Clerk: I’m sorry. I’ll send someone to take a look at it for you right now. Guest: OK, we’ll go out in just moment. Clerk: That’s ok! I’ll let the man know. Thank you! maintenance maintain mainstream mainland 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2009
+  }
+}

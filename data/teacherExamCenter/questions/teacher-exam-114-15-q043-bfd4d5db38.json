@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q043-bfd4d5db38",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 43 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-17110",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader"
+      },
+      {
+        "id": "B",
+        "text": "Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader"
+      },
+      {
+        "id": "C",
+        "text": "Clear Spoon、Fish Knife、Fish Fork、Butter Spreader"
+      },
+      {
+        "id": "D",
+        "text": "Clear Spoon、Table Knife、Table Fork、Butter Spreader"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？ Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader Clear Spoon、Fish Knife、Fish Fork、Butter Spreader Clear Spoon、Table Knife、Table Fork、Butter Spreader 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2333
+  }
+}

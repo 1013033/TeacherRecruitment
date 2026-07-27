@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q002-5709ad125c",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 2 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-436",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "有關內政部移民署於民國114年起實施之新世代自動查驗通關（e-Gate），下列何者為 非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "申請人有行動不便而無法自行操作情形者，不得使用"
+      },
+      {
+        "id": "B",
+        "text": "具有閘道自助註冊（無 需事先註冊）功能，註冊及通關時間大約30秒"
+      },
+      {
+        "id": "C",
+        "text": "年滿12歲以上身高120公分以上之 有戶籍國民"
+      },
+      {
+        "id": "D",
+        "text": "註冊完成後，申請者可永久使用自動通關，若申請者申辦新護照，不 須重新註冊仍可繼續使用。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關內政部移民署於民國114年起實施之新世代自動查驗通關（e-Gate），下列何者為 非？ 申請人有行動不便而無法自行操作情形者，不得使用 具有閘道自助註冊（無 需事先註冊）功能，註冊及通關時間大約30秒 年滿12歲以上身高120公分以上之 有戶籍國民 註冊完成後，申請者可永久使用自動通關，若申請者申辦新護照，不 須重新註冊仍可繼續使用。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2239
+  }
+}

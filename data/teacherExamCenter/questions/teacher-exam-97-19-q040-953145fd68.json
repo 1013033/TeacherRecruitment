@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q040-953145fd68",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 40 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-7153",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "我國民間最早成立的觀光組織是",
+    "options": [
+      {
+        "id": "A",
+        "text": "HARC"
+      },
+      {
+        "id": "B",
+        "text": "ATM"
+      },
+      {
+        "id": "C",
+        "text": "TGA"
+      },
+      {
+        "id": "D",
+        "text": "TVA"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國民間最早成立的觀光組織是 HARC ATM TGA TVA 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2885
+  }
+}

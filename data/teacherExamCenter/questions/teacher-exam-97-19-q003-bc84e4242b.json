@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q003-bc84e4242b",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 3 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-19441",
+    "paperTitle": "一、單選題（40 題每題 2 分共計 80 分）",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "葡萄酒品嚐的先後順序，何者正確？甲、先喝紅酒再喝白酒；乙、先喝淡酒再喝烈酒；丙、先喝甜的酒再喝不甜的酒；丁、先喝年輕的酒再喝成熟的酒；戊、先喝昂貴的酒，再喝便宜的酒。",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丁"
+      },
+      {
+        "id": "C",
+        "text": "丙戊"
+      },
+      {
+        "id": "D",
+        "text": "丁戊。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒、白酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "葡萄酒品嚐的先後順序，何者正確？甲、先喝紅酒再喝白酒；乙、先喝淡酒再喝烈酒；丙、先喝甜的酒再喝不甜的酒；丁、先喝年輕的酒再喝成熟的酒；戊、先喝昂貴的酒，再喝便宜的酒。 甲丙 乙丁 丙戊 丁戊。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3006
+  }
+}

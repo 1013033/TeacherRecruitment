@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q015-2368d8ef32",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 15 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-3874",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "大雄報名A旅行社參加韓國五日遊，並簽訂國外旅遊定型化契約，完成繳費新臺幣 56,000元，卻在出發前兩天接獲旅行社告知，未能取得機位無法出團，依契約書範本 規定，旅行社需賠償旅客多少違約金？",
+    "options": [
+      {
+        "id": "A",
+        "text": "5,600元"
+      },
+      {
+        "id": "B",
+        "text": "11,200元"
+      },
+      {
+        "id": "C",
+        "text": "16,800元"
+      },
+      {
+        "id": "D",
+        "text": "56,000元。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "大雄報名A旅行社參加韓國五日遊，並簽訂國外旅遊定型化契約，完成繳費新臺幣 56,000元，卻在出發前兩天接獲旅行社告知，未能取得機位無法出團，依契約書範本 規定，旅行社需賠償旅客多少違約金？ 5,600元 11,200元 16,800元 56,000元。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2252
+  }
+}

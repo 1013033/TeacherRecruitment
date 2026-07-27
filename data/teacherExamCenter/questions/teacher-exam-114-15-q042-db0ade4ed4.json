@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q042-db0ade4ed4",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 42 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-17030",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "請問上述菜單較可能是哪一個宗教食用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mormonism"
+      },
+      {
+        "id": "B",
+        "text": "Muslim"
+      },
+      {
+        "id": "C",
+        "text": "Hindu"
+      },
+      {
+        "id": "D",
+        "text": "Catholicism。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問上述菜單較可能是哪一個宗教食用？ Mormonism Muslim Hindu Catholicism。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2332
+  }
+}

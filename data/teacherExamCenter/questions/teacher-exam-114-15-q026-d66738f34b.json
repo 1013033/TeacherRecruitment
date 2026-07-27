@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q026-d66738f34b",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 26 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-13074",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "小明目前身處馬祖，準備透過網路電話與居住在美國紐約（GMT-5）的家人聯繫。已知紐約目前 實施夏令時間，比其標準時間提早 1 小時。如果小明希望在紐約時間的當天晚上 8 點與家人通話，請 問他應該在馬祖時間的幾點撥打電話？",
+    "options": [
+      {
+        "id": "A",
+        "text": "當天早上 8 點"
+      },
+      {
+        "id": "B",
+        "text": "當天晚上 8 點"
+      },
+      {
+        "id": "C",
+        "text": "隔天早上 8 點"
+      },
+      {
+        "id": "D",
+        "text": "隔天晚上 8 點"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "小明目前身處馬祖，準備透過網路電話與居住在美國紐約（GMT-5）的家人聯繫。已知紐約目前 實施夏令時間，比其標準時間提早 1 小時。如果小明希望在紐約時間的當天晚上 8 點與家人通話，請 問他應該在馬祖時間的幾點撥打電話？ 當天早上 8 點 當天晚上 8 點 隔天早上 8 點 隔天晚上 8 點 其他：待人工審核 待人工審核",
+    "sequence": 2307
+  }
+}

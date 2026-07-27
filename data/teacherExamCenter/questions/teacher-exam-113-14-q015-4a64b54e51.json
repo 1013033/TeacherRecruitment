@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q015-4a64b54e51",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 15 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-13414",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "下列有關餐桌禮儀的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "喝湯時不可以用口吹涼"
+      },
+      {
+        "id": "B",
+        "text": "吃生蠔時，可使用專用的蠔叉"
+      },
+      {
+        "id": "C",
+        "text": "麵包可用手剝開，不須使用刀子切"
+      },
+      {
+        "id": "D",
+        "text": "鮮蝦盅（Shrimp Cocktail）通常以點心碗裝盛食用"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關餐桌禮儀的敘述，何者錯誤？ 喝湯時不可以用口吹涼 吃生蠔時，可使用專用的蠔叉 麵包可用手剝開，不須使用刀子切 鮮蝦盅（Shrimp Cocktail）通常以點心碗裝盛食用 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2060
+  }
+}

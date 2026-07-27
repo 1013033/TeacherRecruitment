@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q047-9e4853e18c",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 47 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-18084",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "在酒類的知識中，下列何者敘述較不適宜？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Campari 適合做餐前酒（Aperitif Wine）"
+      },
+      {
+        "id": "B",
+        "text": "含有酒精的調配飲料，如雞尾酒血腥瑪莉（Bloody Mary）、馬丁尼（Martini）等"
+      },
+      {
+        "id": "C",
+        "text": "釀造酒是將水果、穀物等原料經過糖化、發酵、過濾、蒸餾及儲存等步驟而製 成的酒，米酒、二鍋頭屬之"
+      },
+      {
+        "id": "D",
+        "text": "根據我國菸酒管理法：酒係指含酒精成分以容量計算超過 0.5％之飲料"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、martini"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "在酒類的知識中，下列何者敘述較不適宜？ Campari 適合做餐前酒（Aperitif Wine） 含有酒精的調配飲料，如雞尾酒血腥瑪莉（Bloody Mary）、馬丁尼（Martini）等 釀造酒是將水果、穀物等原料經過糖化、發酵、過濾、蒸餾及儲存等步驟而製 成的酒，米酒、二鍋頭屬之 根據我國菸酒管理法：酒係指含酒精成分以容量計算超過 0.5％之飲料 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2092
+  }
+}

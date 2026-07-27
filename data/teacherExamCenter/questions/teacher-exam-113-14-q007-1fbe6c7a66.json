@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q007-1fbe6c7a66",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 7 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-1650",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "Captain: We’ll be landing in New York soon. The local time is 7:35, and the ground temperature is 20 degrees Celsius. Flight Attendant: _______________ Passenger: Is the plane going to land? Flight Attendant: Yes, sir. Captain: Thank you for flying with us and we look forward to seeing you again in the future.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Are you feeling alright?"
+      },
+      {
+        "id": "B",
+        "text": "Sir, please return to your seat."
+      },
+      {
+        "id": "C",
+        "text": "The plane is going to land."
+      },
+      {
+        "id": "D",
+        "text": "You may unlock your seat belt now."
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：flight"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Captain: We’ll be landing in New York soon. The local time is 7:35, and the ground temperature is 20 degrees Celsius. Flight Attendant: _______________ Passenger: Is the plane going to land? Flight Attendant: Yes, sir. Captain: Thank you for flying with us and we look forward to seeing you again in the future. Are you feeling alright? Sir, please return to your seat. The plane is going to land. You may unlock your seat belt now. 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2004
+  }
+}

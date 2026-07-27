@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q019-c7be7564c2",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 19 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-21117",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "每年 1 1月第 3 個星期四全球同步販售的薄酒萊新酒，會出現在哪一種酒單中？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cocktail List"
+      },
+      {
+        "id": "B",
+        "text": "Seasonal Drinks List"
+      },
+      {
+        "id": "C",
+        "text": "Aperitif List (D )After-dinner Drinks List"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：薄酒萊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "每年 1 1月第 3 個星期四全球同步販售的薄酒萊新酒，會出現在哪一種酒單中？ Cocktail List Seasonal Drinks List Aperitif List (D )After-dinner Drinks List 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2517
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q030-f6ed28da63",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 30 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-14069",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "依據中華民國 113 年 12 月 27 日最新修正施行的「旅行業管理規則」 ，馬福旅行社已取得中央 主管機關認可足以保障旅客權益之觀光公益法人會員資格，其總公司位於臺北，資本額已達新臺幣 3,000 萬元，並已依規定繳納應有的保證金與履約保證保險。由於疫情後業務量大增，馬福旅行社計畫 在金門和馬祖各開設一家分公司。請問在開設這兩家分公司時，其資本額至少共須增資多少元？以及總 共需增加多少履約保證保險金額才能符合現行法規？",
+    "options": [
+      {
+        "id": "A",
+        "text": "資本額共須增資 150 萬元；履約保證保險共須增加 800 萬元"
+      },
+      {
+        "id": "B",
+        "text": "資本額共須增資 150 萬元；履約保證保險共須增加 1,600 萬元"
+      },
+      {
+        "id": "C",
+        "text": "資本額共須增資 300 萬元；履約保證保險共須增加 800 萬元"
+      },
+      {
+        "id": "D",
+        "text": "資本額共須增資 300 萬元；履約保證保險共須增加 1,600 萬元"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據中華民國 113 年 12 月 27 日最新修正施行的「旅行業管理規則」 ，馬福旅行社已取得中央 主管機關認可足以保障旅客權益之觀光公益法人會員資格，其總公司位於臺北，資本額已達新臺幣 3,000 萬元，並已依規定繳納應有的保證金與履約保證保險。由於疫情後業務量大增，馬福旅行社計畫 在金門和馬祖各開設一家分公司。請問在開設這兩家分公司時，其資本額至少共須增資多少元？以及總 共需增加多少履約保證保險金額才能符合現行法規？ 資本額共須增資 150 萬元；履約保證保險共須增加 800 萬元 資本額共須增資 150 萬元；履約保證保險共須增加 1,600 萬元 資本額共須增資 300 萬元；履約保證保險共須增加 800 萬元 資本額共須增資 300 萬元；履約保證保險共須增加 1,600 萬元 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2320
+  }
+}

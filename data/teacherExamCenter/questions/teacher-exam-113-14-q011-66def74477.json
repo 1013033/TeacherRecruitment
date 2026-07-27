@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q011-66def74477",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 11 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-30334",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "藥膳料理具有中醫療效，且有特殊香氣，請問下列敘述何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "枸杞是新鮮枸杞漿果乾燥製成，具甜味。"
+      },
+      {
+        "id": "B",
+        "text": "黃耆是地黃的塊根添加黃酒等材料蒸製而成。"
+      },
+      {
+        "id": "C",
+        "text": "草豆蔻是草果果實乾燥製成，具有辛辣味。"
+      },
+      {
+        "id": "D",
+        "text": "丁香是丁香樹未開花的花蕾乾燥製成，具有辛辣味。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "藥膳料理具有中醫療效，且有特殊香氣，請問下列敘述何者有誤？ 枸杞是新鮮枸杞漿果乾燥製成，具甜味。 黃耆是地黃的塊根添加黃酒等材料蒸製而成。 草豆蔻是草果果實乾燥製成，具有辛辣味。 丁香是丁香樹未開花的花蕾乾燥製成，具有辛辣味。 其他：待人工審核 待人工審核",
+    "sequence": 2157
+  }
+}

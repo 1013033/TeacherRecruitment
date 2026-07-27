@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q017-164bb56c1d",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 17 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-11168",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立佳冬高級農業職業學校九十八學年度第一次教師甄選【餐飲管理科】筆試試卷",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "明火烤箱的用處在於",
+    "options": [
+      {
+        "id": "A",
+        "text": "有照明設備上、下火溫度不高"
+      },
+      {
+        "id": "B",
+        "text": "溫度不高用來低溫煮"
+      },
+      {
+        "id": "C",
+        "text": "可用來保溫食物（在出菜前）"
+      },
+      {
+        "id": "D",
+        "text": "可用來燒烤羊腿。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煮、烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "明火烤箱的用處在於 有照明設備上、下火溫度不高 溫度不高用來低溫煮 可用來保溫食物（在出菜前） 可用來燒烤羊腿。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3297
+  }
+}

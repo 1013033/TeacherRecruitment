@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q038-2c644e3973",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 38 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-37854",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "根據交通部觀光局公布的觀光資源統計資料，觀光水庫如翡翠水庫、谷關溫泉等的主管機關是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "交通部觀光局"
+      },
+      {
+        "id": "B",
+        "text": "體委會"
+      },
+      {
+        "id": "C",
+        "text": "經濟部"
+      },
+      {
+        "id": "D",
+        "text": "行政院"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "根據交通部觀光局公布的觀光資源統計資料，觀光水庫如翡翠水庫、谷關溫泉等的主管機關是？ 交通部觀光局 體委會 經濟部 行政院 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2225
+  }
+}

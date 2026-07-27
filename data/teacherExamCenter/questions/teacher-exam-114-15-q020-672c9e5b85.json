@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q020-672c9e5b85",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 20 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-12001",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "當我國政府邀請對我國有貢獻的外國人士及其眷屬來臺灣時，應核發哪種簽證？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Resident Visa"
+      },
+      {
+        "id": "B",
+        "text": "Diplomatic Visa"
+      },
+      {
+        "id": "C",
+        "text": "Courtesy Visa"
+      },
+      {
+        "id": "D",
+        "text": "Visitor Visa"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：簽證、visa"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "當我國政府邀請對我國有貢獻的外國人士及其眷屬來臺灣時，應核發哪種簽證？ Resident Visa Diplomatic Visa Courtesy Visa Visitor Visa 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2301
+  }
+}

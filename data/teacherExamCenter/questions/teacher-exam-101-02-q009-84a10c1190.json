@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q009-84a10c1190",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 9 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20664",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列飯店與品牌之關係，何者屬於會員連鎖（referral）之經營型態？",
+    "options": [
+      {
+        "id": "A",
+        "text": "台北喜來登飯店與 Sheraton"
+      },
+      {
+        "id": "B",
+        "text": "台北君悅飯店與 Hyatt"
+      },
+      {
+        "id": "C",
+        "text": "台北六福皇宮與 Westin"
+      },
+      {
+        "id": "D",
+        "text": "台北亞都麗緻飯店與 The Leading Hotels of the World。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列飯店與品牌之關係，何者屬於會員連鎖（referral）之經營型態？ 台北喜來登飯店與 Sheraton 台北君悅飯店與 Hyatt 台北六福皇宮與 Westin 台北亞都麗緻飯店與 The Leading Hotels of the World。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 362
+  }
+}

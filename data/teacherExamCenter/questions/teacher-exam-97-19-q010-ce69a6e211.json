@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q010-ce69a6e211",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 10 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-941",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "關於歐式計價方式（European Plan）旅館，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "房租含早餐"
+      },
+      {
+        "id": "B",
+        "text": "房租含早餐、中餐"
+      },
+      {
+        "id": "C",
+        "text": "房租含早餐、中餐、晚餐"
+      },
+      {
+        "id": "D",
+        "text": "房租不含早餐、中餐、晚餐。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於歐式計價方式（European Plan）旅館，下列何者正確？ 房租含早餐 房租含早餐、中餐 房租含早餐、中餐、晚餐 房租不含早餐、中餐、晚餐。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2803
+  }
+}

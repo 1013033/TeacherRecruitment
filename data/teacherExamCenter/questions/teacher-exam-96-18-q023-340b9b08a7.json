@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q023-340b9b08a7",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 23 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-2000",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲科)",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "依民宿管理辦法，欲經營民宿者，應向下列何單位申請登記：",
+    "options": [
+      {
+        "id": "A",
+        "text": "交通部"
+      },
+      {
+        "id": "B",
+        "text": "內政部"
+      },
+      {
+        "id": "C",
+        "text": "農委會"
+      },
+      {
+        "id": "D",
+        "text": "當地主管機關。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依民宿管理辦法，欲經營民宿者，應向下列何單位申請登記： 交通部 內政部 農委會 當地主管機關。 其他：待人工審核 待人工審核",
+    "sequence": 2710
+  }
+}

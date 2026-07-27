@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q010-fb5c79082d",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 10 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-19584",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "關於餐飲業的演進與歷史，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "世界上第一家咖啡廳據考證起源於義大利威尼斯"
+      },
+      {
+        "id": "B",
+        "text": "「Restaurant」一詞最早出現在法國，原意是指一種「具有恢復體力的湯」"
+      },
+      {
+        "id": "C",
+        "text": "米其林指南（Michelin Guide）最初是為了推薦高級旅館而創立"
+      },
+      {
+        "id": "D",
+        "text": "歐式自助餐（Buffet）起源於英國，發展於美國。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲、restaurant"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於餐飲業的演進與歷史，下列何者正確？ 世界上第一家咖啡廳據考證起源於義大利威尼斯 「Restaurant」一詞最早出現在法國，原意是指一種「具有恢復體力的湯」 米其林指南（Michelin Guide）最初是為了推薦高級旅館而創立 歐式自助餐（Buffet）起源於英國，發展於美國。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2508
+  }
+}

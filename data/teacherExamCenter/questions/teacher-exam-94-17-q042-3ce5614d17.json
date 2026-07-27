@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q042-3ce5614d17",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 42 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-4057",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "下列敘述何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "所有水產類都富含維生素 B1、B2"
+      },
+      {
+        "id": "B",
+        "text": "海水魚的含碘量是其他食物所不及的"
+      },
+      {
+        "id": "C",
+        "text": "冷凍蝦類的黑變，是體內的酪胺酸因酵素的氧化作用成黑色素所致"
+      },
+      {
+        "id": "D",
+        "text": "魚死後體內的IMP很快分解成 ATP而產生苦味。"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列敘述何者有誤？ 所有水產類都富含維生素 B1、B2 海水魚的含碘量是其他食物所不及的 冷凍蝦類的黑變，是體內的酪胺酸因酵素的氧化作用成黑色素所致 魚死後體內的IMP很快分解成 ATP而產生苦味。 其他：待人工審核 待人工審核",
+    "sequence": 2568
+  }
+}

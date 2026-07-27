@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q006-07dd961bfd",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 6 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-1222",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "近年韓國、日本 皆是國人喜愛的旅遊地點，大學生 小賴暑假規劃高雄搭德威航空 （T’way air）前往韓國釜山，再由韓國釜山搭乘新山茶花號渡輪前往日本福岡，最後由日 本福岡搭乘德威航空（T’way air）飛回高雄，請問關於行程的內容，下列何者為是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "以上各城市的代碼為-高雄KHH、釜山BUS、福岡FUK。"
+      },
+      {
+        "id": "B",
+        "text": "小賴的行程為一種Open Jaw Journey。"
+      },
+      {
+        "id": "C",
+        "text": "小賴高雄至釜山這趟航程屬於第一航權。"
+      },
+      {
+        "id": "D",
+        "text": "此趟旅程，小賴的機票種類為INF。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票、旅遊、open jaw"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "近年韓國、日本 皆是國人喜愛的旅遊地點，大學生 小賴暑假規劃高雄搭德威航空 （T’way air）前往韓國釜山，再由韓國釜山搭乘新山茶花號渡輪前往日本福岡，最後由日 本福岡搭乘德威航空（T’way air）飛回高雄，請問關於行程的內容，下列何者為是？ 以上各城市的代碼為-高雄KHH、釜山BUS、福岡FUK。 小賴的行程為一種Open Jaw Journey。 小賴高雄至釜山這趟航程屬於第一航權。 此趟旅程，小賴的機票種類為INF。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2405
+  }
+}

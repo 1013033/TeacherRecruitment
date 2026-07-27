@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q007-27c9ec6996",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 7 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-11844",
+    "paperTitle": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "目前海洋生物博物館將部份業務委託民間機構營運，營運期屆滿後，營運權歸還政府，是屬於那一種經營方式？",
+    "options": [
+      {
+        "id": "A",
+        "text": "ROT"
+      },
+      {
+        "id": "B",
+        "text": "BOT"
+      },
+      {
+        "id": "C",
+        "text": "OT"
+      },
+      {
+        "id": "D",
+        "text": "BO。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "目前海洋生物博物館將部份業務委託民間機構營運，營運期屆滿後，營運權歸還政府，是屬於那一種經營方式？ ROT BOT OT BO。 其他：待人工審核 待人工審核",
+    "sequence": 2674
+  }
+}

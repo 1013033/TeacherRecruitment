@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q003-9fad92a506",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 3 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-572",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列有關於西餐餐具擺設的敘述，下列何者為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "在服務「帕瑪火腿佐哈密瓜」時要擺放Salad knife和Salad fork"
+      },
+      {
+        "id": "B",
+        "text": "客人點到「芒果奶酪」時要擺放Dessert fork和Dessert spoon"
+      },
+      {
+        "id": "C",
+        "text": "在服務「白酒蛤蜊義大利麵」時，要擺放Cream soup spoon和Dinner knife"
+      },
+      {
+        "id": "D",
+        "text": "在服務「法式焗烤田螺」時要擺放Oyster fork。"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤、salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關於西餐餐具擺設的敘述，下列何者為正確？ 在服務「帕瑪火腿佐哈密瓜」時要擺放Salad knife和Salad fork 客人點到「芒果奶酪」時要擺放Dessert fork和Dessert spoon 在服務「白酒蛤蜊義大利麵」時，要擺放Cream soup spoon和Dinner knife 在服務「法式焗烤田螺」時要擺放Oyster fork。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2000
+  }
+}

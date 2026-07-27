@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q002-245f5b6832",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 2 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-19335",
+    "paperTitle": "一、單選題（40 題每題 2 分共計 80 分）",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "依葡萄酒的服務流程排列之。甲、接受點酒；乙、開瓶；丙、倒酒；丁、試飲；戊、展示點酒",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙→丁→戊"
+      },
+      {
+        "id": "B",
+        "text": "甲→丙→戊→乙→丁"
+      },
+      {
+        "id": "C",
+        "text": "甲→丁→乙→丙→戊"
+      },
+      {
+        "id": "D",
+        "text": "甲→戊→乙→丁→丙。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依葡萄酒的服務流程排列之。甲、接受點酒；乙、開瓶；丙、倒酒；丁、試飲；戊、展示點酒 甲→乙→丙→丁→戊 甲→丙→戊→乙→丁 甲→丁→乙→丙→戊 甲→戊→乙→丁→丙。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3005
+  }
+}

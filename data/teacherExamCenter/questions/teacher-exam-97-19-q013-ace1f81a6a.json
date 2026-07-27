@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q013-ace1f81a6a",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 13 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-18406",
+    "paperTitle": "一、選擇題",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "Which the hotel technical term is wrong?",
+    "options": [
+      {
+        "id": "A",
+        "text": "接機-pick up"
+      },
+      {
+        "id": "B",
+        "text": "轎車服務-limousine service"
+      },
+      {
+        "id": "C",
+        "text": "預計遷出-out of order"
+      },
+      {
+        "id": "D",
+        "text": "客人逃帳-walk out"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which the hotel technical term is wrong? 接機-pick up 轎車服務-limousine service 預計遷出-out of order 客人逃帳-walk out 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2996
+  }
+}

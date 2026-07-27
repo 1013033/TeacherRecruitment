@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q021-d74f9fadf5",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 21 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-5005",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "行政院為落實推動「Tourism 2025—臺灣觀光邁向 2025 方案」 ，其中提到解決當前問 題研擬臺灣觀光發展課題中有提到「中、南部需打造更具國際觀光魅力之景點，分散 來臺觀光客集中北臺灣之承載壓力」 ，請問這是指哪一個課題？",
+    "options": [
+      {
+        "id": "A",
+        "text": "產業疫後亟待轉型，旅遊品質有待提升"
+      },
+      {
+        "id": "B",
+        "text": "數位技術應用不足，觀光平台未臻完備"
+      },
+      {
+        "id": "C",
+        "text": "觀光資源同質性高，旅遊魅力仍待塑造"
+      },
+      {
+        "id": "D",
+        "text": "國際宣傳力道不足，行銷分工有待確立。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、行銷、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "行政院為落實推動「Tourism 2025—臺灣觀光邁向 2025 方案」 ，其中提到解決當前問 題研擬臺灣觀光發展課題中有提到「中、南部需打造更具國際觀光魅力之景點，分散 來臺觀光客集中北臺灣之承載壓力」 ，請問這是指哪一個課題？ 產業疫後亟待轉型，旅遊品質有待提升 數位技術應用不足，觀光平台未臻完備 觀光資源同質性高，旅遊魅力仍待塑造 國際宣傳力道不足，行銷分工有待確立。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2018
+  }
+}

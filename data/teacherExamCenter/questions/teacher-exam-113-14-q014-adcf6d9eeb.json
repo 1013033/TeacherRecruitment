@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q014-adcf6d9eeb",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 14 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-23087",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何者是中式三大火腿其中一個著名產地？",
+    "options": [
+      {
+        "id": "A",
+        "text": "雲南"
+      },
+      {
+        "id": "B",
+        "text": "廣東"
+      },
+      {
+        "id": "C",
+        "text": "湖南"
+      },
+      {
+        "id": "D",
+        "text": "四川"
+      },
+      {
+        "id": "E",
+        "text": "北京"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者是中式三大火腿其中一個著名產地？ 雲南 廣東 湖南 四川 北京 其他：待人工審核 待人工審核",
+    "sequence": 2109
+  }
+}

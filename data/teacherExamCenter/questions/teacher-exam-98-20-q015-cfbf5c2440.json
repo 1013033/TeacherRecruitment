@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q015-cfbf5c2440",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 15 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-2173",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "$\\underline{\\quad(A)\\quad}$ is a thick, creamy soup which can be made from lobster, crab, shrimp or crayfish.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bisque"
+      },
+      {
+        "id": "B",
+        "text": "Consommé"
+      },
+      {
+        "id": "C",
+        "text": "Purée"
+      },
+      {
+        "id": "D",
+        "text": "Stock"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：stock"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "$\\underline{\\quad(A)\\quad}$ is a thick, creamy soup which can be made from lobster, crab, shrimp or crayfish. Bisque Consommé Purée Stock 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3198
+  }
+}

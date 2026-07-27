@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q033-adf9106bd8",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 33 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-14302",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "關於旅館專業術語，下列何者正確？ 甲：due out－已退房的房間、乙：house use－家庭用房、 丙：house phone－館內電話、丁：on the way－已抵達機場而赴飯店途中的房客",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於旅館專業術語，下列何者正確？ 甲：due out－已退房的房間、乙：house use－家庭用房、 丙：house phone－館內電話、丁：on the way－已抵達機場而赴飯店途中的房客 甲、乙 甲、丙 乙、丁 丙、丁 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2481
+  }
+}

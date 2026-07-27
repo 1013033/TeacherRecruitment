@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q035-9e34582eac",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 35 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-37618",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "旅客提出特殊要求，經確定後房間做保留稱之為",
+    "options": [
+      {
+        "id": "A",
+        "text": "Confirm"
+      },
+      {
+        "id": "B",
+        "text": "Block Room"
+      },
+      {
+        "id": "C",
+        "text": "Guaranteed"
+      },
+      {
+        "id": "D",
+        "text": "Deposit"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅客提出特殊要求，經確定後房間做保留稱之為 Confirm Block Room Guaranteed Deposit 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2222
+  }
+}

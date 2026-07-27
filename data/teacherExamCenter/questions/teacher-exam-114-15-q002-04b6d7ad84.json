@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q002-04b6d7ad84",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 2 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-23408",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "依據國際禮儀，接受旅宿業服務人員所提供的服務後，宜給小費以表達謝意 ，但下 列何種服務人員，原則上不需要給予？",
+    "options": [
+      {
+        "id": "A",
+        "text": "bellboy"
+      },
+      {
+        "id": "B",
+        "text": "doorman"
+      },
+      {
+        "id": "C",
+        "text": "front desk receptionist"
+      },
+      {
+        "id": "D",
+        "text": "room service attendant"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據國際禮儀，接受旅宿業服務人員所提供的服務後，宜給小費以表達謝意 ，但下 列何種服務人員，原則上不需要給予？ bellboy doorman front desk receptionist room service attendant 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2356
+  }
+}

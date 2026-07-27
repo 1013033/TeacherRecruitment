@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q034-397bc1af5d",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 34 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-14479",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "下列關於八大菜系的敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "九轉大腸是江浙菜系的代表之一"
+      },
+      {
+        "id": "B",
+        "text": "白切雞是閩菜菜系的代表菜色之一"
+      },
+      {
+        "id": "C",
+        "text": "福建菜系的主要代表菜餚有佛跳牆"
+      },
+      {
+        "id": "D",
+        "text": "川菜菜系的主要代表菜餚有剁椒魚頭"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列關於八大菜系的敘述，何者正確？ 九轉大腸是江浙菜系的代表之一 白切雞是閩菜菜系的代表菜色之一 福建菜系的主要代表菜餚有佛跳牆 川菜菜系的主要代表菜餚有剁椒魚頭 其他：待人工審核 待人工審核",
+    "sequence": 2482
+  }
+}

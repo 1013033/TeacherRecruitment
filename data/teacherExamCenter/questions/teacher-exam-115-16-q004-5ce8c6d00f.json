@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q004-5ce8c6d00f",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 4 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-788",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "天下大飯店客房數總共有600間，因配合房間裝修關閉150間客房（OOO），5月9日房 間售出280間，住房人數為300人，GIT人數為80人，客房總收入為4,188,000元，試問 下列統計數字何者正確？（百分比四捨五入至小數點第二位、金額四捨五入至個位數）",
+    "options": [
+      {
+        "id": "A",
+        "text": "Occupancy Rate 住房率為46.67%"
+      },
+      {
+        "id": "B",
+        "text": "ADR每日平均房價為9,307元"
+      },
+      {
+        "id": "C",
+        "text": "RevPAR每房平均營收為14,957元"
+      },
+      {
+        "id": "D",
+        "text": "ARPG每人平均房價為13,960元。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "天下大飯店客房數總共有600間，因配合房間裝修關閉150間客房（OOO），5月9日房 間售出280間，住房人數為300人，GIT人數為80人，客房總收入為4,188,000元，試問 下列統計數字何者正確？（百分比四捨五入至小數點第二位、金額四捨五入至個位數） Occupancy Rate 住房率為46.67% ADR每日平均房價為9,307元 RevPAR每房平均營收為14,957元 ARPG每人平均房價為13,960元。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2403
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q009-5e73c382ae",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 9 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-12006",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "我國旅館產業發展之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "華王飯店為第一家以本土資金興建的飯店"
+      },
+      {
+        "id": "B",
+        "text": "Hilton International 是最先被引進臺灣地區的國際性連鎖飯店"
+      },
+      {
+        "id": "C",
+        "text": "民國 72 年觀光局建立梅花評鑑分級制度，沿用至今"
+      },
+      {
+        "id": "D",
+        "text": "西華飯店是 Preferred Hotel 成員之一。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "我國旅館產業發展之敘述，下列何者錯誤？ 華王飯店為第一家以本土資金興建的飯店 Hilton International 是最先被引進臺灣地區的國際性連鎖飯店 民國 72 年觀光局建立梅花評鑑分級制度，沿用至今 西華飯店是 Preferred Hotel 成員之一。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2676
+  }
+}

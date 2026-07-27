@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q010-0a436084f2",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 10 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-7135",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "學徒、實習生、見習生，指的是下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aboyeur"
+      },
+      {
+        "id": "B",
+        "text": "Tournant"
+      },
+      {
+        "id": "C",
+        "text": "Apprentice"
+      },
+      {
+        "id": "D",
+        "text": "Demi Chef"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "學徒、實習生、見習生，指的是下列何者？ Aboyeur Tournant Apprentice Demi Chef 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3251
+  }
+}

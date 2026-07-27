@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q011-79cccaf7df",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 11 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-19754",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列何者屬於餐飲「Implicit Services)」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐點色香味、菜單的清晰度、飲料的溫度適切性"
+      },
+      {
+        "id": "B",
+        "text": "服務人員的服務技巧與專業程度"
+      },
+      {
+        "id": "C",
+        "text": "消費者身份的隱密度或尊榮感"
+      },
+      {
+        "id": "D",
+        "text": "餐廳建築、室內裝潢、用餐環境與餐具的清潔度"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲、菜單、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者屬於餐飲「Implicit Services)」？ 餐點色香味、菜單的清晰度、飲料的溫度適切性 服務人員的服務技巧與專業程度 消費者身份的隱密度或尊榮感 餐廳建築、室內裝潢、用餐環境與餐具的清潔度 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2509
+  }
+}

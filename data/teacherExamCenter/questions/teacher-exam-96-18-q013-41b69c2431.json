@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q013-41b69c2431",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 13 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-6765",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "餐飲業的特性中，在銷售方面的特性為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "標準食譜受時間的限制"
+      },
+      {
+        "id": "B",
+        "text": "以收現為主，資金週轉快"
+      },
+      {
+        "id": "C",
+        "text": "店址擇地力的正確性"
+      },
+      {
+        "id": "D",
+        "text": "營業時段有尖離峰之區別。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐飲業的特性中，在銷售方面的特性為： 標準食譜受時間的限制 以收現為主，資金週轉快 店址擇地力的正確性 營業時段有尖離峰之區別。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2755
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q023-12762aa5a3",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 23 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-6072",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "淺炒的咖啡豆，所呈現的味道，下列何者較顯著？",
+    "options": [
+      {
+        "id": "A",
+        "text": "苦味"
+      },
+      {
+        "id": "B",
+        "text": "甜味"
+      },
+      {
+        "id": "C",
+        "text": "酸味"
+      },
+      {
+        "id": "D",
+        "text": "澀味"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "淺炒的咖啡豆，所呈現的味道，下列何者較顯著？ 苦味 甜味 酸味 澀味 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2598
+  }
+}

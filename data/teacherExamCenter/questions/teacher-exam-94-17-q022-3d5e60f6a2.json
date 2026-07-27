@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q022-3d5e60f6a2",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 22 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-8887",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "台南市赤崁樓古蹟屬於內政部與文建會評定的第幾級古蹟？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一級"
+      },
+      {
+        "id": "B",
+        "text": "第二級"
+      },
+      {
+        "id": "C",
+        "text": "第三級"
+      },
+      {
+        "id": "D",
+        "text": "第四級。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "台南市赤崁樓古蹟屬於內政部與文建會評定的第幾級古蹟？ 第一級 第二級 第三級 第四級。 其他：待人工審核 待人工審核",
+    "sequence": 2639
+  }
+}

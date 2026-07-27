@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q031-acf2cabf96",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 31 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-37290",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "以機能為主要考量，針對特定任務，另外成立專案小組和原有的組織配合，組織形式呈現行列交 叉，此架構類型是指？",
+    "options": [
+      {
+        "id": "A",
+        "text": "產品型組織"
+      },
+      {
+        "id": "B",
+        "text": "矩陣型組織"
+      },
+      {
+        "id": "C",
+        "text": "職能型組織"
+      },
+      {
+        "id": "D",
+        "text": "簡單型組織"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "以機能為主要考量，針對特定任務，另外成立專案小組和原有的組織配合，組織形式呈現行列交 叉，此架構類型是指？ 產品型組織 矩陣型組織 職能型組織 簡單型組織 其他：待人工審核 待人工審核",
+    "sequence": 2218
+  }
+}

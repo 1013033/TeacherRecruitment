@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q014-9d414d071a",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 14 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-35820",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "在地球環境保護的意識中，那一種現象影響旅遊季節最明顯？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Green House Effect"
+      },
+      {
+        "id": "B",
+        "text": "EL Nino"
+      },
+      {
+        "id": "C",
+        "text": "Ozone Layer"
+      },
+      {
+        "id": "D",
+        "text": "La Nina"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在地球環境保護的意識中，那一種現象影響旅遊季節最明顯？ Green House Effect EL Nino Ozone Layer La Nina 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2201
+  }
+}

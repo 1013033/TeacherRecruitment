@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q028-9647171797",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 28 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-37039",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "旅館客人住宿登記作業，首先應填寫以下何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Registration Card"
+      },
+      {
+        "id": "B",
+        "text": "Reservation Card"
+      },
+      {
+        "id": "C",
+        "text": "Credit card"
+      },
+      {
+        "id": "D",
+        "text": "Service Card"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、住宿、reservation"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "旅館客人住宿登記作業，首先應填寫以下何者？ Registration Card Reservation Card Credit card Service Card 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2215
+  }
+}

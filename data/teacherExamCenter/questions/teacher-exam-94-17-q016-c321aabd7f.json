@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q016-c321aabd7f",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 16 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-13000",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "下列各類型盤碟請依其大小，由小而大依序排列之：甲、Show Plate 乙、Salad Plate 丙、Dinner Plate 丁、B/B Plate 戊、Coffee Saucer",
+    "options": [
+      {
+        "id": "A",
+        "text": "戊→乙→丙→丁→甲"
+      },
+      {
+        "id": "B",
+        "text": "丁→戊→乙→丙→甲"
+      },
+      {
+        "id": "C",
+        "text": "戊→丁→乙→丙→甲"
+      },
+      {
+        "id": "D",
+        "text": "丁→戊→丙→甲→乙。"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：sauce、salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列各類型盤碟請依其大小，由小而大依序排列之：甲、Show Plate 乙、Salad Plate 丙、Dinner Plate 丁、B/B Plate 戊、Coffee Saucer 戊→乙→丙→丁→甲 丁→戊→乙→丙→甲 戊→丁→乙→丙→甲 丁→戊→丙→甲→乙。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2683
+  }
+}

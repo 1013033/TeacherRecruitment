@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q031-f5bdf39bbe",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 31 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-7196",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 31,
+    "questionType": "multiple-choice",
+    "prompt": "某旅客購買一張「TPE→DXB→AMS」之機票，訂位系統顯示航空公司代碼為「EK」 （Emirates） ，第一段航班（TPE→DXB）標註「Operated by BR」（EV A Air） 。請判 斷下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "旅客將於Dublin轉機。"
+      },
+      {
+        "id": "B",
+        "text": "旅客報到時應以前往開立機票之航空公司櫃檯為原則。"
+      },
+      {
+        "id": "C",
+        "text": "此情形屬於航空業之「聯營航班（Code-share Flight）」。"
+      },
+      {
+        "id": "D",
+        "text": "旅客向EK購票，但實際搭乘由BR營運之航班。"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、機票、flight"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "某旅客購買一張「TPE→DXB→AMS」之機票，訂位系統顯示航空公司代碼為「EK」 （Emirates） ，第一段航班（TPE→DXB）標註「Operated by BR」（EV A Air） 。請判 斷下列敘述何者正確？ 旅客將於Dublin轉機。 旅客報到時應以前往開立機票之航空公司櫃檯為原則。 此情形屬於航空業之「聯營航班（Code-share Flight）」。 旅客向EK購票，但實際搭乘由BR營運之航班。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2430
+  }
+}

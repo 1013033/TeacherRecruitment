@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q040-a104847359",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 40 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-16665",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "請問以上菜單會使用到那些器具，請選出正確選項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate"
+      },
+      {
+        "id": "B",
+        "text": "Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate"
+      },
+      {
+        "id": "C",
+        "text": "Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate"
+      },
+      {
+        "id": "D",
+        "text": "Soup Bowl、Dinner Plate、Snifter、Dessert Plate。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請問以上菜單會使用到那些器具，請選出正確選項？ Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate Soup Bowl、Dinner Plate、Snifter、Dessert Plate。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2330
+  }
+}

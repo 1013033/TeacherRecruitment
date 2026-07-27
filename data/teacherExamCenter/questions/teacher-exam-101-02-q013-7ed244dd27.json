@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q013-7ed244dd27",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 13 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-18240",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "鹿鳴溫泉飯店於暑假期間推出一泊三食優惠住宿專案，每人只需 4999 元，請問該住宿專案是採用旅館的何種房租計價方式？",
+    "options": [
+      {
+        "id": "A",
+        "text": "BP"
+      },
+      {
+        "id": "B",
+        "text": "MAP"
+      },
+      {
+        "id": "C",
+        "text": "AP"
+      },
+      {
+        "id": "D",
+        "text": "EP"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "鹿鳴溫泉飯店於暑假期間推出一泊三食優惠住宿專案，每人只需 4999 元，請問該住宿專案是採用旅館的何種房租計價方式？ BP MAP AP EP 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 347
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q030-bdfd6db51f",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 30 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-7411",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 30,
+    "questionType": "multiple-choice",
+    "prompt": "下列何者不屬於西餐烹調法中的Moist-heat Cooking烹調法？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stewing"
+      },
+      {
+        "id": "B",
+        "text": "Blanching"
+      },
+      {
+        "id": "C",
+        "text": "Broiling"
+      },
+      {
+        "id": "D",
+        "text": "Steaming。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、broil"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者不屬於西餐烹調法中的Moist-heat Cooking烹調法？ Stewing Blanching Broiling Steaming。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2267
+  }
+}

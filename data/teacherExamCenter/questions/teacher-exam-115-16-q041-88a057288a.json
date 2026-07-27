@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q041-88a057288a",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 41 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-15767",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "根據我國農業部茶及飲料作物改良場資料顯示，關於咖啡沖泡之咖啡研磨粗細度與 泡煮時間以及水溫、時間和水流的內容，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "粗細度應與萃取時間成正比"
+      },
+      {
+        "id": "B",
+        "text": "泡煮時間應與烘焙度成正比"
+      },
+      {
+        "id": "C",
+        "text": "泡煮水溫應與烘焙度成反比"
+      },
+      {
+        "id": "D",
+        "text": "攪拌水流應與烘焙度成反比"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、茶、萃取"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "根據我國農業部茶及飲料作物改良場資料顯示，關於咖啡沖泡之咖啡研磨粗細度與 泡煮時間以及水溫、時間和水流的內容，下列敘述何者錯誤？ 粗細度應與萃取時間成正比 泡煮時間應與烘焙度成正比 泡煮水溫應與烘焙度成反比 攪拌水流應與烘焙度成反比 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2489
+  }
+}

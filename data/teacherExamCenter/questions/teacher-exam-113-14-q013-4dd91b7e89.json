@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q013-4dd91b7e89",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 13 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-3203",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "臺灣第一家 Pet Friendly 酒店，設有專屬寵物樓層客房，寵物可與主人一同入住的飯 店？",
+    "options": [
+      {
+        "id": "A",
+        "text": "礁溪寒沐酒店(Mu Jiaoxi hotel)"
+      },
+      {
+        "id": "B",
+        "text": "臺北趣淘漫旅(Hotel Cham Cham Taipei)"
+      },
+      {
+        "id": "C",
+        "text": "大安金普頓酒店(Kimpton Hotels Daan)"
+      },
+      {
+        "id": "D",
+        "text": "凱悅酒店(Hyatt Regency)。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "臺灣第一家 Pet Friendly 酒店，設有專屬寵物樓層客房，寵物可與主人一同入住的飯 店？ 礁溪寒沐酒店(Mu Jiaoxi hotel) 臺北趣淘漫旅(Hotel Cham Cham Taipei) 大安金普頓酒店(Kimpton Hotels Daan) 凱悅酒店(Hyatt Regency)。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2010
+  }
+}

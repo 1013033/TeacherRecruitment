@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q050-7e478e500a",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 50 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-18680",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "茶為風靡全球之飲品，下列有關茶的敘述，下列何者錯誤?",
+    "options": [
+      {
+        "id": "A",
+        "text": "烹茶三階段，即所謂的「三沸」。當水煮到出現魚眼般的氣泡，視為第一沸；當鍋邊冒出連珠般的水 泡，視為第二沸，當水面波浪翻滾時，視為第三沸。"
+      },
+      {
+        "id": "B",
+        "text": "所謂的泡茶的三要素：茶葉的用量、泡茶的水溫、沖泡的時間。"
+      },
+      {
+        "id": "C",
+        "text": "半發酵茶的製作過程為 採茶→萎凋→發酵→殺菁→揉捻→乾燥"
+      },
+      {
+        "id": "D",
+        "text": "臺茶18號又稱紅韻，具有天然的肉桂香與薄荷香。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "茶為風靡全球之飲品，下列有關茶的敘述，下列何者錯誤? 烹茶三階段，即所謂的「三沸」。當水煮到出現魚眼般的氣泡，視為第一沸；當鍋邊冒出連珠般的水 泡，視為第二沸，當水面波浪翻滾時，視為第三沸。 所謂的泡茶的三要素：茶葉的用量、泡茶的水溫、沖泡的時間。 半發酵茶的製作過程為 採茶→萎凋→發酵→殺菁→揉捻→乾燥 臺茶18號又稱紅韻，具有天然的肉桂香與薄荷香。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2340
+  }
+}

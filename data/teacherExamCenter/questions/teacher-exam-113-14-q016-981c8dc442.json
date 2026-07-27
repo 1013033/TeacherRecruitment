@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q016-981c8dc442",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 16 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-31131",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "台灣著名茶區多沿中央山脈及其支脈而上，將近有 30 種不同風味的茶葉， 種植範圍幾乎遍布全台，下列何者錯誤?",
+    "options": [
+      {
+        "id": "A",
+        "text": "新北市三峽區生產知名的包種茶、龍井茶、鐵觀音"
+      },
+      {
+        "id": "B",
+        "text": "南投縣鹿谷鄉生產知名的凍頂烏龍茶"
+      },
+      {
+        "id": "C",
+        "text": "嘉義阿里山區生產知名的珠露茶、烏龍茶"
+      },
+      {
+        "id": "D",
+        "text": "新竹縣北埔鄉、峨眉鄉生產知名的白毫烏龍茶"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "台灣著名茶區多沿中央山脈及其支脈而上，將近有 30 種不同風味的茶葉， 種植範圍幾乎遍布全台，下列何者錯誤? 新北市三峽區生產知名的包種茶、龍井茶、鐵觀音 南投縣鹿谷鄉生產知名的凍頂烏龍茶 嘉義阿里山區生產知名的珠露茶、烏龍茶 新竹縣北埔鄉、峨眉鄉生產知名的白毫烏龍茶 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2162
+  }
+}

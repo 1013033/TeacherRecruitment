@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q019-69b179aac5",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 19 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-3957",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "Which of the following combinations is best suited for \"Apéritif \"？ Sweet Martini Rusty Nail Gin&It Apple Manhattan Dry Martini Gin French",
+    "options": [
+      {
+        "id": "A",
+        "text": "、、、"
+      },
+      {
+        "id": "B",
+        "text": "、、、"
+      },
+      {
+        "id": "C",
+        "text": "、、、"
+      },
+      {
+        "id": "D",
+        "text": "、、、。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：martini、manhattan"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which of the following combinations is best suited for \"Apéritif \"？ Sweet Martini Rusty Nail Gin&It Apple Manhattan Dry Martini Gin French 、、、 、、、 、、、 、、、。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2418
+  }
+}

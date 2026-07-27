@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q034-1e07806165",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 34 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-37505",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "服務員進行餐桌清理，並服務餐後點心和飲料時，哪個方式正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "撤主菜盤時，可以留下麵 包盤和奶油刀"
+      },
+      {
+        "id": "B",
+        "text": "上飲料前，展示盤都需要留著"
+      },
+      {
+        "id": "C",
+        "text": "上甜點時撤下水杯"
+      },
+      {
+        "id": "D",
+        "text": "用 Crumb Scoop清除 麵包屑"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "服務員進行餐桌清理，並服務餐後點心和飲料時，哪個方式正確？ 撤主菜盤時，可以留下麵 包盤和奶油刀 上飲料前，展示盤都需要留著 上甜點時撤下水杯 用 Crumb Scoop清除 麵包屑 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2221
+  }
+}

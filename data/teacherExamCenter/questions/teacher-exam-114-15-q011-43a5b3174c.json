@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q011-43a5b3174c",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 11 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-10785",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "關於西餐進餐禮儀的敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "喝湯時可用吸食方式喝湯"
+      },
+      {
+        "id": "B",
+        "text": "肉類切割時由右向左， 切一口吃一口"
+      },
+      {
+        "id": "C",
+        "text": "帶皮烤馬鈴薯可帶皮一起吃"
+      },
+      {
+        "id": "D",
+        "text": "食用肉串時，可以用拿起咬食"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於西餐進餐禮儀的敘述，下列何者正確？ 喝湯時可用吸食方式喝湯 肉類切割時由右向左， 切一口吃一口 帶皮烤馬鈴薯可帶皮一起吃 食用肉串時，可以用拿起咬食 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2292
+  }
+}

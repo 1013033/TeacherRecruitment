@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q031-52927660ad",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 31 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-8716",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "下列何種烹飪法所製備出來的食物，冷藏後再重新加熱食用仍能保有其品質？",
+    "options": [
+      {
+        "id": "A",
+        "text": "燴"
+      },
+      {
+        "id": "B",
+        "text": "爐烤"
+      },
+      {
+        "id": "C",
+        "text": "煎"
+      },
+      {
+        "id": "D",
+        "text": "深油炸。"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煎、炸、烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何種烹飪法所製備出來的食物，冷藏後再重新加熱食用仍能保有其品質？ 燴 爐烤 煎 深油炸。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3272
+  }
+}

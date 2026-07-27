@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q014-375ae8a4f2",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 14 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-11753",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列哪道菜餚不需要經過「油炸」烹調？",
+    "options": [
+      {
+        "id": "A",
+        "text": "芋泥鴨"
+      },
+      {
+        "id": "B",
+        "text": "叫化雞"
+      },
+      {
+        "id": "C",
+        "text": "家常茄子"
+      },
+      {
+        "id": "D",
+        "text": "芙蓉雞片"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、炸"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪道菜餚不需要經過「油炸」烹調？ 芋泥鴨 叫化雞 家常茄子 芙蓉雞片 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2462
+  }
+}

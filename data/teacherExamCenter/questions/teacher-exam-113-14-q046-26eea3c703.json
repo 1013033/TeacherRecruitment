@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q046-26eea3c703",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 46 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38644",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 46,
+    "questionType": "multiple-choice",
+    "prompt": "下列哪一款咖啡飲品，原則上須注入奶泡？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Café Irish"
+      },
+      {
+        "id": "B",
+        "text": "Café Latte"
+      },
+      {
+        "id": "C",
+        "text": "Café Royal"
+      },
+      {
+        "id": "D",
+        "text": "Café Cappuccino"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、cappuccino"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一款咖啡飲品，原則上須注入奶泡？ Café Irish Café Latte Café Royal Café Cappuccino 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2233
+  }
+}

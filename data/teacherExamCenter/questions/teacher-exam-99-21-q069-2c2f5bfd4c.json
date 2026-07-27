@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q069-2c2f5bfd4c",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 69 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-12158",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 69,
+    "questionType": "single-choice",
+    "prompt": "點菜的禮節何者為是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "由女士先點菜"
+      },
+      {
+        "id": "B",
+        "text": "客隨主便，不宜表意見"
+      },
+      {
+        "id": "C",
+        "text": "二式的菜單，有價位者當給客人"
+      },
+      {
+        "id": "D",
+        "text": "客人當點價位高者以示身分。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "點菜的禮節何者為是？ 由女士先點菜 客隨主便，不宜表意見 二式的菜單，有價位者當給客人 客人當點價位高者以示身分。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 3412
+  }
+}

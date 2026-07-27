@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q007-31ac62d78d",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 7 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-6883",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "餐廳的經營空間中，外場不包含：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lounge"
+      },
+      {
+        "id": "B",
+        "text": "Storage"
+      },
+      {
+        "id": "C",
+        "text": "Clock Room"
+      },
+      {
+        "id": "D",
+        "text": "Waiting Area"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐廳的經營空間中，外場不包含： Lounge Storage Clock Room Waiting Area 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3248
+  }
+}

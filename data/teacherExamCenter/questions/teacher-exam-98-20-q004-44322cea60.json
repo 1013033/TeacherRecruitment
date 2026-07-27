@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q004-44322cea60",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 4 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-6700",
+    "paperTitle": "一、單選題（45 題每題 2 分共 90 分）",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種旅行業不得接待國外觀光客？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綜合旅行業"
+      },
+      {
+        "id": "B",
+        "text": "甲種旅行業"
+      },
+      {
+        "id": "C",
+        "text": "乙種旅行業"
+      },
+      {
+        "id": "D",
+        "text": "以上皆可。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種旅行業不得接待國外觀光客？ 綜合旅行業 甲種旅行業 乙種旅行業 以上皆可。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 3245
+  }
+}

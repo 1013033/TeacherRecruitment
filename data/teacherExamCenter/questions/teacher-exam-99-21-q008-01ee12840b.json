@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q008-01ee12840b",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 8 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-14250",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "西餐菜單中「雪波 (Sherbet)」的食用方法是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "介於主菜與甜點之間"
+      },
+      {
+        "id": "B",
+        "text": "介於享用主菜之前（或主菜中清除口味）"
+      },
+      {
+        "id": "C",
+        "text": "介於湯與沙拉之間"
+      },
+      {
+        "id": "D",
+        "text": "介於甜點與咖啡之間。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "西餐菜單中「雪波 (Sherbet)」的食用方法是？ 介於主菜與甜點之間 介於享用主菜之前（或主菜中清除口味） 介於湯與沙拉之間 介於甜點與咖啡之間。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 3432
+  }
+}

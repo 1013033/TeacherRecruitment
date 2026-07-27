@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q008-bb03aba2f2",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 8 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-760",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "有關房務床型，下列敘述何者不正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Extra bed 是指加床"
+      },
+      {
+        "id": "B",
+        "text": "Hollywood bed 是指沒有床架床頭板及床尾板的床"
+      },
+      {
+        "id": "C",
+        "text": "TWB 是指附有浴室的雙床房間"
+      },
+      {
+        "id": "D",
+        "text": "Queen Size Bed 指加大雙人床。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關房務床型，下列敘述何者不正確？ Extra bed 是指加床 Hollywood bed 是指沒有床架床頭板及床尾板的床 TWB 是指附有浴室的雙床房間 Queen Size Bed 指加大雙人床。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2801
+  }
+}

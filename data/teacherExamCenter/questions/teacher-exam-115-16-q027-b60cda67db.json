@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q027-b60cda67db",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 27 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-6367",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 27,
+    "questionType": "multiple-choice",
+    "prompt": "前檯與房務部門進行交接時，需透過客房狀態代碼（V/R、V/D、OOS、HU）即時 掌握房間狀況，以利安排房務清潔與客房銷售。新進員工小林在閱讀系統資料時， 對各代碼意義進行判讀。以下為其對各術語的理解，請判斷何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "V/R可售空房。"
+      },
+      {
+        "id": "B",
+        "text": "V/D已清潔但尚未經領班檢查之空房。"
+      },
+      {
+        "id": "C",
+        "text": "OOS故障房，進行工程的房間，停止銷售。"
+      },
+      {
+        "id": "D",
+        "text": "HU房客外宿。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "前檯與房務部門進行交接時，需透過客房狀態代碼（V/R、V/D、OOS、HU）即時 掌握房間狀況，以利安排房務清潔與客房銷售。新進員工小林在閱讀系統資料時， 對各代碼意義進行判讀。以下為其對各術語的理解，請判斷何者正確？ V/R可售空房。 V/D已清潔但尚未經領班檢查之空房。 OOS故障房，進行工程的房間，停止銷售。 HU房客外宿。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2426
+  }
+}

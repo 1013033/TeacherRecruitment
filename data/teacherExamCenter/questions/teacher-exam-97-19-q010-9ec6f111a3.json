@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q010-9ec6f111a3",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 10 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-25304",
+    "paperTitle": "一、選擇題：（30 題每題 2 分）",
+    "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "請選出屬於強化酒精葡萄酒的酒類？",
+    "options": [
+      {
+        "id": "A",
+        "text": "玫瑰紅酒"
+      },
+      {
+        "id": "B",
+        "text": "雪莉酒"
+      },
+      {
+        "id": "C",
+        "text": "香檳"
+      },
+      {
+        "id": "D",
+        "text": "苦艾酒"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、香檳、紅酒、雪莉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請選出屬於強化酒精葡萄酒的酒類？ 玫瑰紅酒 雪莉酒 香檳 苦艾酒 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3057
+  }
+}

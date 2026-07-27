@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q034-7f025c17cc",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 34 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-28379",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 34,
+    "questionType": "multiple-choice",
+    "prompt": "根據交通部訂定之國內旅遊定型化契約範例（112 年 9 月 8 日修正），第八條旅遊費 用所涵蓋的項目中，應該包含的保險費有？",
+    "options": [
+      {
+        "id": "A",
+        "text": "責任保險"
+      },
+      {
+        "id": "B",
+        "text": "旅遊平安險"
+      },
+      {
+        "id": "C",
+        "text": "旅遊不便險"
+      },
+      {
+        "id": "D",
+        "text": "履約保證保險"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據交通部訂定之國內旅遊定型化契約範例（112 年 9 月 8 日修正），第八條旅遊費 用所涵蓋的項目中，應該包含的保險費有？ 責任保險 旅遊平安險 旅遊不便險 履約保證保險 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2388
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q049-4e6b02f3de",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 49 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-18473",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "西式套餐菜單有： Ham & Melon、Mussel、Bouillabaisse、sherbet、Fish steak 與 Pannacotta，服務人員收拾 salt & pepper shakers 的最佳時機，原則上是在顧客用完哪一道菜餚時與 其器皿一起撤除？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bouillabaisse"
+      },
+      {
+        "id": "B",
+        "text": "Mussel"
+      },
+      {
+        "id": "C",
+        "text": "Fish steak"
+      },
+      {
+        "id": "D",
+        "text": "Pannacotta"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "西式套餐菜單有： Ham & Melon、Mussel、Bouillabaisse、sherbet、Fish steak 與 Pannacotta，服務人員收拾 salt & pepper shakers 的最佳時機，原則上是在顧客用完哪一道菜餚時與 其器皿一起撤除？ Bouillabaisse Mussel Fish steak Pannacotta 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2339
+  }
+}

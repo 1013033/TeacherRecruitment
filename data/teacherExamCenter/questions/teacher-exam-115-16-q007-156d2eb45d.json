@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q007-156d2eb45d",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 7 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-1468",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "2026世界盃足球賽（FIFA World Cup 2026）即將在2026年6月11日至7月19日登場，首 次由美國、加拿大、墨西哥3國共同主辦，臺灣足球迷阿翔預計前往觀賞總冠軍賽，希 望在現場得到足球球迷的共鳴，經歷一場熱血沸騰的賽事。冠軍戰場地於美國大都會 人壽體育場舉行，美國大都會人壽體育場位於美國新紐澤西州，關於阿翔本次出國下 列敘述何者無誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "阿翔現年32歲，使用的普通護照效期為5年。"
+      },
+      {
+        "id": "B",
+        "text": "阿翔去美國需要取得ESTA授權許可，目前官方申請費用為美金40元。"
+      },
+      {
+        "id": "C",
+        "text": "赴美國的飛航區域為TC-1，阿翔搭乘經濟艙可以免費託運1件23公斤行李。"
+      },
+      {
+        "id": "D",
+        "text": "阿翔搭乘美國聯合航空前往美國，美國聯合航空之代碼為AA。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "2026世界盃足球賽（FIFA World Cup 2026）即將在2026年6月11日至7月19日登場，首 次由美國、加拿大、墨西哥3國共同主辦，臺灣足球迷阿翔預計前往觀賞總冠軍賽，希 望在現場得到足球球迷的共鳴，經歷一場熱血沸騰的賽事。冠軍戰場地於美國大都會 人壽體育場舉行，美國大都會人壽體育場位於美國新紐澤西州，關於阿翔本次出國下 列敘述何者無誤？ 阿翔現年32歲，使用的普通護照效期為5年。 阿翔去美國需要取得ESTA授權許可，目前官方申請費用為美金40元。 赴美國的飛航區域為TC-1，阿翔搭乘經濟艙可以免費託運1件23公斤行李。 阿翔搭乘美國聯合航空前往美國，美國聯合航空之代碼為AA。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2406
+  }
+}

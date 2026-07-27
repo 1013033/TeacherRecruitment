@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q001-80682c4ccb",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 1 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-324",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "香港迪士尼於 2025 年至 2026 年歡慶 20 周年，舉辦一系列慶祝活動，吸引各地旅客 前往遊玩，請問以上所述「香港迪士尼」為觀光系統中哪一個項目？",
+    "options": [
+      {
+        "id": "A",
+        "text": "觀光主體"
+      },
+      {
+        "id": "B",
+        "text": "觀光客體"
+      },
+      {
+        "id": "C",
+        "text": "觀光媒體"
+      },
+      {
+        "id": "D",
+        "text": "觀光載體。"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "香港迪士尼於 2025 年至 2026 年歡慶 20 周年，舉辦一系列慶祝活動，吸引各地旅客 前往遊玩，請問以上所述「香港迪士尼」為觀光系統中哪一個項目？ 觀光主體 觀光客體 觀光媒體 觀光載體。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2400
+  }
+}

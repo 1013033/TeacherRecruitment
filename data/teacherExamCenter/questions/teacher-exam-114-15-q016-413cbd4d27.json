@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q016-413cbd4d27",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 16 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-4026",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "交通部觀光署於2024年推出臺灣觀光品牌3.0版，打造「台灣為優質旅遊目的地，傳 達台灣獨特旅遊價值」引領臺灣開創新的十年。請問此觀光品牌名稱為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "TAIWAN-Touch Your Heart."
+      },
+      {
+        "id": "B",
+        "text": "TAIWAN-Waves of Wonder."
+      },
+      {
+        "id": "C",
+        "text": "TAIWAN-The Heart of Asia."
+      },
+      {
+        "id": "D",
+        "text": "TAIWAN-Truly Asia."
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "交通部觀光署於2024年推出臺灣觀光品牌3.0版，打造「台灣為優質旅遊目的地，傳 達台灣獨特旅遊價值」引領臺灣開創新的十年。請問此觀光品牌名稱為何？ TAIWAN-Touch Your Heart. TAIWAN-Waves of Wonder. TAIWAN-The Heart of Asia. TAIWAN-Truly Asia. 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2253
+  }
+}

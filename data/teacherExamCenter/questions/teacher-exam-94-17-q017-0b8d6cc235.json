@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q017-0b8d6cc235",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 17 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-13149",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列西式菜單項目，依一般上菜之標準程式而言，應如何排序？甲、Cheese 乙、SmokedSalmon 丙、Grilled Tenderloin 丁、Minestrone",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙→丁→丙→甲"
+      },
+      {
+        "id": "B",
+        "text": "丁→乙→丙→甲"
+      },
+      {
+        "id": "C",
+        "text": "甲→乙→丙→丁"
+      },
+      {
+        "id": "D",
+        "text": "乙→丙→丁→甲。"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列西式菜單項目，依一般上菜之標準程式而言，應如何排序？甲、Cheese 乙、SmokedSalmon 丙、Grilled Tenderloin 丁、Minestrone 乙→丁→丙→甲 丁→乙→丙→甲 甲→乙→丙→丁 乙→丙→丁→甲。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2684
+  }
+}

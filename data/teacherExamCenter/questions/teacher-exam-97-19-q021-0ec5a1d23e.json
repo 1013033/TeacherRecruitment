@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q021-0ec5a1d23e",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 21 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-10256",
+    "paperTitle": "二、單選題（1題1分，共76分）",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "觀光旅館附設餐廳負責一切餐具的管理、清潔、維護及換發等工作之部門為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐廳部"
+      },
+      {
+        "id": "B",
+        "text": "餐務部"
+      },
+      {
+        "id": "C",
+        "text": "飲務部"
+      },
+      {
+        "id": "D",
+        "text": "廚房部"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "觀光旅館附設餐廳負責一切餐具的管理、清潔、維護及換發等工作之部門為： 餐廳部 餐務部 飲務部 廚房部 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2916
+  }
+}

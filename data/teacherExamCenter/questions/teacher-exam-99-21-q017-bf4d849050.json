@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q017-bf4d849050",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 17 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15115",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列何者非航空公司研發應用之「全球訂位訂房系統」 (G.D.S.) 之一種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "ABACUS"
+      },
+      {
+        "id": "B",
+        "text": "SABRE"
+      },
+      {
+        "id": "C",
+        "text": "GALILEO"
+      },
+      {
+        "id": "D",
+        "text": "FIDELIO。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、abacus、galileo、sabre"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者非航空公司研發應用之「全球訂位訂房系統」 (G.D.S.) 之一種？ ABACUS SABRE GALILEO FIDELIO。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3441
+  }
+}

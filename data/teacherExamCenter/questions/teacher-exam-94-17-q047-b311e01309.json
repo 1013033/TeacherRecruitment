@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q047-b311e01309",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 47 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-4466",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "下列是採購作業的步驟：甲商議採購的方式、乙確定採購的數量與品質、丙開立訂單、丁尋求貨源、戊確定需要。請選出排序正確的選項：",
+    "options": [
+      {
+        "id": "A",
+        "text": "丁→甲→丙→乙→戊"
+      },
+      {
+        "id": "B",
+        "text": "戊→乙→丁→甲→丙"
+      },
+      {
+        "id": "C",
+        "text": "丁→戊→乙→甲→丙"
+      },
+      {
+        "id": "D",
+        "text": "戊→丁→乙→甲→丙。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列是採購作業的步驟：甲商議採購的方式、乙確定採購的數量與品質、丙開立訂單、丁尋求貨源、戊確定需要。請選出排序正確的選項： 丁→甲→丙→乙→戊 戊→乙→丁→甲→丙 丁→戊→乙→甲→丙 戊→丁→乙→甲→丙。 其他：待人工審核 待人工審核",
+    "sequence": 2573
+  }
+}

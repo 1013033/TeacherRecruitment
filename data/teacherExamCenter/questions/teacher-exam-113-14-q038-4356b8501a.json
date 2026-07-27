@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q038-4356b8501a",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 38 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-9198",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 38,
+    "questionType": "multiple-choice",
+    "prompt": "請問下列臺灣各溫泉區景點與縣市的分布哪一些是正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "文山溫泉-花蓮縣"
+      },
+      {
+        "id": "B",
+        "text": "四稜溫泉-桃園市"
+      },
+      {
+        "id": "C",
+        "text": "栗松溫泉-臺東縣"
+      },
+      {
+        "id": "D",
+        "text": "東埔溫泉-嘉義 縣。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "請問下列臺灣各溫泉區景點與縣市的分布哪一些是正確的？ 文山溫泉-花蓮縣 四稜溫泉-桃園市 栗松溫泉-臺東縣 東埔溫泉-嘉義 縣。 其他：待人工審核 待人工審核",
+    "sequence": 2035
+  }
+}

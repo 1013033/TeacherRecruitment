@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q005-14fe60ce84",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 5 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-32788",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 5,
+    "questionType": "multiple-choice",
+    "prompt": "台灣種植的茶樹多為灌木品種，下列何者茶樹為大葉種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "台茶 19 號"
+      },
+      {
+        "id": "B",
+        "text": "台茶 20 號"
+      },
+      {
+        "id": "C",
+        "text": "台茶 21 號"
+      },
+      {
+        "id": "D",
+        "text": "台茶 23 號"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "台灣種植的茶樹多為灌木品種，下列何者茶樹為大葉種？ 台茶 19 號 台茶 20 號 台茶 21 號 台茶 23 號 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2171
+  }
+}

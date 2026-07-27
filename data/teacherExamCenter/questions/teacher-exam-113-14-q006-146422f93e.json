@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q006-146422f93e",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 6 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-1078",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "Shane: Do I have to pay extra for checked baggage if I fly economy? Nicky: It depends. The free baggage allowance of the airline may differ from one another. Shane: Okay. Then, what suggestion do you have when it comes to packing for a vacation? Nicky: _______________ Shane: How about shampoo and shaving gel. Nicky: The hotel offers the bathroom amenities so it’s no need to worry about that.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Just bring something that you really need."
+      },
+      {
+        "id": "B",
+        "text": "I can’t wait for my vacation."
+      },
+      {
+        "id": "C",
+        "text": "That’s not enough."
+      },
+      {
+        "id": "D",
+        "text": "I believe you can make it."
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：hotel、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Shane: Do I have to pay extra for checked baggage if I fly economy? Nicky: It depends. The free baggage allowance of the airline may differ from one another. Shane: Okay. Then, what suggestion do you have when it comes to packing for a vacation? Nicky: _______________ Shane: How about shampoo and shaving gel. Nicky: The hotel offers the bathroom amenities so it’s no need to worry about that. Just bring something that you really need. I can’t wait for my vacation. That’s not enough. I believe you can make it. 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2003
+  }
+}

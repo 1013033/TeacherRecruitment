@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q010-fa4190c4dc",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 10 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-22253",
+    "paperTitle": "桃園市立高級中等學校113學年度教師聯合甄選餐飲管理科筆試試題",
+    "schoolName": "桃園市立高級中等學校",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "There’s a NT$300 room service charge here, but I didn’t order anything.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mr. Lin. We are so sorry that you are not happy with our environment."
+      },
+      {
+        "id": "B",
+        "text": "I’ll be back in a moment with your item."
+      },
+      {
+        "id": "C",
+        "text": "I’m sorry. Your room isn’t ready yet."
+      },
+      {
+        "id": "D",
+        "text": "Breakfast is served between seven and nine."
+      },
+      {
+        "id": "E",
+        "text": "My apologies. I’ll deduct the charge from your bill."
+      }
+    ],
+    "answer": "E",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "There’s a NT$300 room service charge here, but I didn’t order anything. Mr. Lin. We are so sorry that you are not happy with our environment. I’ll be back in a moment with your item. I’m sorry. Your room isn’t ready yet. Breakfast is served between seven and nine. My apologies. I’ll deduct the charge from your bill. 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2105
+  }
+}

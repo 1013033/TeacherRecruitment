@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q051-5527dd80b4",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 51 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-18887",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 51,
+    "questionType": "single-choice",
+    "prompt": "甲：外形「青蒂綠腹蜻蜓頭」狀，茶湯呈琥珀色，味道醇厚 乙：外形「扁平如劍」，以色綠、香郁、味醇、形美四絕著稱 丙：外形「緊結成半球」，被稱為臺灣茶中之聖 丁：外形「呈條索狀」，有香、濃、醇、韻、美等特色，被稱為茶中美人 以上四種茶葉依其發酵程度由高到低是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲>丙>丁>乙"
+      },
+      {
+        "id": "B",
+        "text": "丁>丙>甲>乙"
+      },
+      {
+        "id": "C",
+        "text": "乙>丙>丁>甲"
+      },
+      {
+        "id": "D",
+        "text": "丙>乙>丁>甲。 （52-53題）下表為台灣著要的茶葉及其特色，請回答下列問題。 發酵程度 茶葉名稱 揉捻 泡茶溫度 主要產地 0 龍井 極輕 （6） 三峽 12-15% 甲( 8 ) 輕 90°C 石碇、深坑 （7） 鐵觀音 輕 ( 7 ) 木柵、石門 45-70% 乙( 8 ) 輕 80-85°C 坪林、石碇"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "甲：外形「青蒂綠腹蜻蜓頭」狀，茶湯呈琥珀色，味道醇厚 乙：外形「扁平如劍」，以色綠、香郁、味醇、形美四絕著稱 丙：外形「緊結成半球」，被稱為臺灣茶中之聖 丁：外形「呈條索狀」，有香、濃、醇、韻、美等特色，被稱為茶中美人 以上四種茶葉依其發酵程度由高到低是？ 甲>丙>丁>乙 丁>丙>甲>乙 乙>丙>丁>甲 丙>乙>丁>甲。 （52-53題）下表為台灣著要的茶葉及其特色，請回答下列問題。 發酵程度 茶葉名稱 揉捻 泡茶溫度 主要產地 0 龍井 極輕 （6） 三峽 12-15% 甲( 8 ) 輕 90°C 石碇、深坑 （7） 鐵觀音 輕 ( 7 ) 木柵、石門 45-70% 乙( 8 ) 輕 80-85°C 坪林、石碇 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2341
+  }
+}

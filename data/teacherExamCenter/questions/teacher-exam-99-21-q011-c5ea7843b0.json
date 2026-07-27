@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q011-c5ea7843b0",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 11 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-1547",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "以下何者為錯誤的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綠茶的製作過程：殺菁 → 揉捻 → 烘乾"
+      },
+      {
+        "id": "B",
+        "text": "醱酵的多寡會影響茶湯的顏色，醱酵愈多，顏色愈紅"
+      },
+      {
+        "id": "C",
+        "text": "採摘下來的茶菁須於日下攤晒，以自然逸出水分，俗稱為渥紅"
+      },
+      {
+        "id": "D",
+        "text": "煎茶、珠茶及碧螺春等，都是屬於綠茶類 --- 一共 3 頁，"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、綠茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下何者為錯誤的？ 綠茶的製作過程：殺菁 → 揉捻 → 烘乾 醱酵的多寡會影響茶湯的顏色，醱酵愈多，顏色愈紅 採摘下來的茶菁須於日下攤晒，以自然逸出水分，俗稱為渥紅 煎茶、珠茶及碧螺春等，都是屬於綠茶類 --- 一共 3 頁， 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 3322
+  }
+}

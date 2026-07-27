@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q006-d4ff6fd380",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 6 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-18917",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "關於茶葉的發酵程度分類，下列配對何者完全正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "龍井、碧螺春：不發酵茶（綠茶）"
+      },
+      {
+        "id": "B",
+        "text": "鐵觀音、東方美人：全發酵茶（紅茶）"
+      },
+      {
+        "id": "C",
+        "text": "普洱茶：半發酵茶（烏龍茶）"
+      },
+      {
+        "id": "D",
+        "text": "白毫銀針：後發酵茶（黑茶）。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於茶葉的發酵程度分類，下列配對何者完全正確？ 龍井、碧螺春：不發酵茶（綠茶） 鐵觀音、東方美人：全發酵茶（紅茶） 普洱茶：半發酵茶（烏龍茶） 白毫銀針：後發酵茶（黑茶）。 其他：待人工審核 待人工審核",
+    "sequence": 2504
+  }
+}

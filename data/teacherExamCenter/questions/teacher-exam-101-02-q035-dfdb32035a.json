@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q035-dfdb32035a",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 35 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-23866",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "小明需在中華民國境內停留六個月以上從事留學或研習中文他必須辦理哪一種簽證？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Courtesy Visa"
+      },
+      {
+        "id": "B",
+        "text": "Diplomatic Visa"
+      },
+      {
+        "id": "C",
+        "text": "Reside Visa"
+      },
+      {
+        "id": "D",
+        "text": "Immigration Visa。"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：簽證、visa"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "小明需在中華民國境內停留六個月以上從事留學或研習中文他必須辦理哪一種簽證？ Courtesy Visa Diplomatic Visa Reside Visa Immigration Visa。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 388
+  }
+}

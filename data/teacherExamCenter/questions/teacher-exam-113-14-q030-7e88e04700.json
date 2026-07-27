@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q030-7e88e04700",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 30 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-37188",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "舉辦演講時，若聽眾人數多，可以採用哪種類型的場地擺設方式？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Classroom Style"
+      },
+      {
+        "id": "B",
+        "text": "Theater Style"
+      },
+      {
+        "id": "C",
+        "text": "T Shape"
+      },
+      {
+        "id": "D",
+        "text": "Rectangular"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "舉辦演講時，若聽眾人數多，可以採用哪種類型的場地擺設方式？ Classroom Style Theater Style T Shape Rectangular 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2217
+  }
+}

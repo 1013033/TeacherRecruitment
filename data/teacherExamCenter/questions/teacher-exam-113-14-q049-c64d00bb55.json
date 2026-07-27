@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q049-c64d00bb55",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 49 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38899",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 49,
+    "questionType": "multiple-choice",
+    "prompt": "下列哪項較屬於餐旅從業人員的專業能力？",
+    "options": [
+      {
+        "id": "A",
+        "text": "基礎專業能力"
+      },
+      {
+        "id": "B",
+        "text": "流利的外語會話能力"
+      },
+      {
+        "id": "C",
+        "text": "快捷的電腦資訊處理能力"
+      },
+      {
+        "id": "D",
+        "text": "溝通及表達能力"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：餐旅"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪項較屬於餐旅從業人員的專業能力？ 基礎專業能力 流利的外語會話能力 快捷的電腦資訊處理能力 溝通及表達能力 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2236
+  }
+}

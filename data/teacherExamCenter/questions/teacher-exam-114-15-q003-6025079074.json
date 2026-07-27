@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q003-6025079074",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 3 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-630",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "有關早餐菜單（Breakfast Menu）之敘述，下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chinese Breakfast→北方：燒餅油條配鹹豆漿；南方：地瓜稀飯配小菜"
+      },
+      {
+        "id": "B",
+        "text": "American Breakfast→又稱Regular Breakfast、Meat Breakfast，其餐點內容有蛋類、 肉類、燕麥粥及黑布丁"
+      },
+      {
+        "id": "C",
+        "text": "Oriental Breakfast→清粥附煎蛋、醬菜、花生、小菜等"
+      },
+      {
+        "id": "D",
+        "text": "Fry Up：內容最為豐富，肉類種類較多。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單、menu"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關早餐菜單（Breakfast Menu）之敘述，下列何者為非？ Chinese Breakfast→北方：燒餅油條配鹹豆漿；南方：地瓜稀飯配小菜 American Breakfast→又稱Regular Breakfast、Meat Breakfast，其餐點內容有蛋類、 肉類、燕麥粥及黑布丁 Oriental Breakfast→清粥附煎蛋、醬菜、花生、小菜等 Fry Up：內容最為豐富，肉類種類較多。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2240
+  }
+}

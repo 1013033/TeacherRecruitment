@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q017-a12e707962",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 17 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-25567",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "食品安全管理系統 HACCP 的第一步是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "確保食品標示正確"
+      },
+      {
+        "id": "B",
+        "text": "設立監控程序"
+      },
+      {
+        "id": "C",
+        "text": "驗證關鍵控制點"
+      },
+      {
+        "id": "D",
+        "text": "進行危害分析"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "食品安全管理系統 HACCP 的第一步是？ 確保食品標示正確 設立監控程序 驗證關鍵控制點 進行危害分析 其他：待人工審核 待人工審核",
+    "sequence": 2371
+  }
+}

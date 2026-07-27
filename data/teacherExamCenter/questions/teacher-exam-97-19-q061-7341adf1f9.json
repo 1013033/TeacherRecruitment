@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q061-7341adf1f9",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 61 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-13854",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 61,
+    "questionType": "single-choice",
+    "prompt": "西餐烹飪常用的月桂葉、迷迭香與百里香的英文字順序，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "anise、marjoram、vanilla"
+      },
+      {
+        "id": "B",
+        "text": "basil、rosemary、mint"
+      },
+      {
+        "id": "C",
+        "text": "basil、lavender、thyme"
+      },
+      {
+        "id": "D",
+        "text": "bay leave、rosemary、thyme"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "西餐烹飪常用的月桂葉、迷迭香與百里香的英文字順序，下列何者正確？ anise、marjoram、vanilla basil、rosemary、mint basil、lavender、thyme bay leave、rosemary、thyme 其他：待人工審核 待人工審核",
+    "sequence": 2956
+  }
+}

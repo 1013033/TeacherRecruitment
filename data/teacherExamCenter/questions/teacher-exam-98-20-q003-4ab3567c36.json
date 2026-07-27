@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q003-4ab3567c36",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 3 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-678",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "我國開放觀光後，最先推出的旅遊產品為下列何者？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inclusive Tour"
+      },
+      {
+        "id": "B",
+        "text": "Package Tour"
+      },
+      {
+        "id": "C",
+        "text": "Backpack Tour"
+      },
+      {
+        "id": "D",
+        "text": "City Breaks"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "我國開放觀光後，最先推出的旅遊產品為下列何者？ Inclusive Tour Package Tour Backpack Tour City Breaks 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3186
+  }
+}

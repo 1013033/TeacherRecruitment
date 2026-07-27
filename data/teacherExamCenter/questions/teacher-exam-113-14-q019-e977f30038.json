@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q019-e977f30038",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 19 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-31743",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "用來釀造葡萄酒的葡萄品種超過數千種，各有不同的香氣和味道，以下關於 葡萄品種敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pinot Noir 帶有紅色莓果香氣，顏色深、單寧含量高、辛辣且具澀味，是最 受歡迎的紅葡萄品種。"
+      },
+      {
+        "id": "B",
+        "text": "Gamay 是釀製 Beaujolais Nouveau 的其中一個品種，果香味足、風味濃郁、 丹寧酸含量低，不適合久存。"
+      },
+      {
+        "id": "C",
+        "text": "Merlot 是法國種植面積最廣的品種，富有果香味、酸度低、單寧少，適合 推薦給入門的消費者。"
+      },
+      {
+        "id": "D",
+        "text": "Chardonnay 產自德國或法國 Alsace 地區，是最受歡迎的白葡萄品種，有 「白 酒中貴族」之稱。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、pinot、chardonnay、beaujolais"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "用來釀造葡萄酒的葡萄品種超過數千種，各有不同的香氣和味道，以下關於 葡萄品種敘述何者正確？ Pinot Noir 帶有紅色莓果香氣，顏色深、單寧含量高、辛辣且具澀味，是最 受歡迎的紅葡萄品種。 Gamay 是釀製 Beaujolais Nouveau 的其中一個品種，果香味足、風味濃郁、 丹寧酸含量低，不適合久存。 Merlot 是法國種植面積最廣的品種，富有果香味、酸度低、單寧少，適合 推薦給入門的消費者。 Chardonnay 產自德國或法國 Alsace 地區，是最受歡迎的白葡萄品種，有 「白 酒中貴族」之稱。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2165
+  }
+}

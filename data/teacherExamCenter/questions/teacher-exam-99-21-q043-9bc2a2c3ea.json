@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q043-9bc2a2c3ea",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 43 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-9544",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "Doily Paper 指的是：",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐墊紙"
+      },
+      {
+        "id": "B",
+        "text": "口布紙巾"
+      },
+      {
+        "id": "C",
+        "text": "裝飾用花邊紙"
+      },
+      {
+        "id": "D",
+        "text": "廚房用紙巾。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Doily Paper 指的是： 餐墊紙 口布紙巾 裝飾用花邊紙 廚房用紙巾。 其他：待人工審核 待人工審核",
+    "sequence": 3386
+  }
+}

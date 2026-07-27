@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q019-bdca0e6958",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 19 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21765",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "政府發放消費券，在餐旅業經營之 SWOT 分析中可歸為哪一項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "strength"
+      },
+      {
+        "id": "B",
+        "text": "weakness"
+      },
+      {
+        "id": "C",
+        "text": "threat"
+      },
+      {
+        "id": "D",
+        "text": "opportunity。"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：餐旅、swot"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "政府發放消費券，在餐旅業經營之 SWOT 分析中可歸為哪一項？ strength weakness threat opportunity。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 372
+  }
+}

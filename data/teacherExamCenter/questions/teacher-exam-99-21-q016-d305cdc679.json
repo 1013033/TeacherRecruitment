@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q016-d305cdc679",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 16 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-2456",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "以下有關旅行業之敘述，何者為正確的？ (甲) 我國旅行業是於民國 81 年起陸續實施銀行清帳作業，以制定與提供航空公司與旅行業問的統一作業模式 (乙) 交通部觀光局於民國 86 年起強制旅行業必須為旅客投保履約保險與責任保險 (丙) 觀光一詞源自於西周時代易經觀卦六四爻辭中出現有「觀光之國」一句 (丁) 我國旅行業是於民國 76 年起陸續啟用電腦訂位系統，以取代傳統的航空訂位作業",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙"
+      },
+      {
+        "id": "C",
+        "text": "甲丙"
+      },
+      {
+        "id": "D",
+        "text": "丙丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下有關旅行業之敘述，何者為正確的？ (甲) 我國旅行業是於民國 81 年起陸續實施銀行清帳作業，以制定與提供航空公司與旅行業問的統一作業模式 (乙) 交通部觀光局於民國 86 年起強制旅行業必須為旅客投保履約保險與責任保險 (丙) 觀光一詞源自於西周時代易經觀卦六四爻辭中出現有「觀光之國」一句 (丁) 我國旅行業是於民國 76 年起陸續啟用電腦訂位系統，以取代傳統的航空訂位作業 甲乙 乙丙 甲丙 丙丁 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3327
+  }
+}

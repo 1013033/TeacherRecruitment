@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q018-b9b49e54db",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 18 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-6603",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列那一部門不屬於 Back of the House？",
+    "options": [
+      {
+        "id": "A",
+        "text": "人事部"
+      },
+      {
+        "id": "B",
+        "text": "客房部"
+      },
+      {
+        "id": "C",
+        "text": "採購部"
+      },
+      {
+        "id": "D",
+        "text": "財務部。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列那一部門不屬於 Back of the House？ 人事部 客房部 採購部 財務部。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3361
+  }
+}

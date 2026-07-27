@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q030-0e80da986f",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 30 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-27553",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "Customer: Can I have my order to go? Server:______",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, we can prepare it for takeout."
+      },
+      {
+        "id": "B",
+        "text": "No, we don’t allow takeout orders."
+      },
+      {
+        "id": "C",
+        "text": "You have to eat here."
+      },
+      {
+        "id": "D",
+        "text": "Takeout orders are not available after 5 PM."
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "Customer: Can I have my order to go? Server:______ Yes, we can prepare it for takeout. No, we don’t allow takeout orders. You have to eat here. Takeout orders are not available after 5 PM. 其他：待人工審核 待人工審核",
+    "sequence": 2384
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q042-7a280ec1f0",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 42 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-17395",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "關於旅館對遺失物品處理的敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "又稱為 left and found 服務"
+      },
+      {
+        "id": "B",
+        "text": "遺失物品統一交予服務中心保管"
+      },
+      {
+        "id": "C",
+        "text": "房務部須填寫遺失物品登記本或輸入電腦"
+      },
+      {
+        "id": "D",
+        "text": "如無人認領達三個月即轉贈拾獲者"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、房務"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館對遺失物品處理的敘述，下列何者正確？ 又稱為 left and found 服務 遺失物品統一交予服務中心保管 房務部須填寫遺失物品登記本或輸入電腦 如無人認領達三個月即轉贈拾獲者 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2087
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q038-e9a9cc05c7",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 38 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-29011",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 38,
+    "questionType": "multiple-choice",
+    "prompt": "行政院環境部官網、淨零綠生活網誌上（2025/03/19）揭露，在 2030 年紐西蘭南島 皇后鎮（Queenstown, South Island, New Zealand）將成為世界上第一個零碳旅遊目的 地。此地區主要執行的措施為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "消費當地時令產品"
+      },
+      {
+        "id": "B",
+        "text": "再生能源的推廣"
+      },
+      {
+        "id": "C",
+        "text": "鼓勵永續的旅行方式"
+      },
+      {
+        "id": "D",
+        "text": "環保建築與永續材料"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "行政院環境部官網、淨零綠生活網誌上（2025/03/19）揭露，在 2030 年紐西蘭南島 皇后鎮（Queenstown, South Island, New Zealand）將成為世界上第一個零碳旅遊目的 地。此地區主要執行的措施為？ 消費當地時令產品 再生能源的推廣 鼓勵永續的旅行方式 環保建築與永續材料 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2392
+  }
+}

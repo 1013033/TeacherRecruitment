@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q016-4504e5f340",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 16 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-7078",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "國際觀光飯店於特定期間編列一定預算，推出各國美食節、節慶組合套裝行程等活動，結合不同部門的專業人力合作完成，此為何種類型之組織架構？",
+    "options": [
+      {
+        "id": "A",
+        "text": "地區型"
+      },
+      {
+        "id": "B",
+        "text": "功能型"
+      },
+      {
+        "id": "C",
+        "text": "產品型"
+      },
+      {
+        "id": "D",
+        "text": "矩陣型。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "國際觀光飯店於特定期間編列一定預算，推出各國美食節、節慶組合套裝行程等活動，結合不同部門的專業人力合作完成，此為何種類型之組織架構？ 地區型 功能型 產品型 矩陣型。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2758
+  }
+}

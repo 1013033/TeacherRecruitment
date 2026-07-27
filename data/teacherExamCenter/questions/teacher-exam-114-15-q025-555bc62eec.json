@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q025-555bc62eec",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 25 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-26412",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "「循環經濟」 （Circular Economy）在餐飲業的應用主要包含？",
+    "options": [
+      {
+        "id": "A",
+        "text": "主動告知顧客食物份量減少浪費"
+      },
+      {
+        "id": "B",
+        "text": "增加塑膠包裝防止流出湯汁"
+      },
+      {
+        "id": "C",
+        "text": "多提供油炸食物"
+      },
+      {
+        "id": "D",
+        "text": "提供高檔進口食材來烹調高品質菜餚"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、炸"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "「循環經濟」 （Circular Economy）在餐飲業的應用主要包含？ 主動告知顧客食物份量減少浪費 增加塑膠包裝防止流出湯汁 多提供油炸食物 提供高檔進口食材來烹調高品質菜餚 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2379
+  }
+}

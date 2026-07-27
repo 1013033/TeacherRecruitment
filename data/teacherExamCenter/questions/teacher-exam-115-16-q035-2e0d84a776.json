@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q035-2e0d84a776",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 35 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-14586",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "關於中餐廚房組織之職稱及其主要負責的工作內容，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "水台師傅：主要負責蔬果、冷（拼）盤、冰箱管理等"
+      },
+      {
+        "id": "B",
+        "text": "砧板師傅：又稱白案，主要負責冷（拼）盤、蔬果等"
+      },
+      {
+        "id": "C",
+        "text": "排菜師傅：又稱打荷，主要負責爐邊雜事、排盤等"
+      },
+      {
+        "id": "D",
+        "text": "爐灶師傅：主要負責燉蒸湯菜、熬製高湯等"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：高湯、燉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中餐廚房組織之職稱及其主要負責的工作內容，下列敘述何者正確？ 水台師傅：主要負責蔬果、冷（拼）盤、冰箱管理等 砧板師傅：又稱白案，主要負責冷（拼）盤、蔬果等 排菜師傅：又稱打荷，主要負責爐邊雜事、排盤等 爐灶師傅：主要負責燉蒸湯菜、熬製高湯等 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2483
+  }
+}

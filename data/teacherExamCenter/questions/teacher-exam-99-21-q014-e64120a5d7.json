@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q014-e64120a5d7",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 14 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-14809",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "在旅行業的產品中下列何者不屬於 G.I.T.？",
+    "options": [
+      {
+        "id": "A",
+        "text": "group inclusive package tour"
+      },
+      {
+        "id": "B",
+        "text": "special interest package tour"
+      },
+      {
+        "id": "C",
+        "text": "incentive tour"
+      },
+      {
+        "id": "D",
+        "text": "business travel。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在旅行業的產品中下列何者不屬於 G.I.T.？ group inclusive package tour special interest package tour incentive tour business travel。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3438
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q005-255920119a",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 5 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-973",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 5,
+    "questionType": "multiple-choice",
+    "prompt": "臺灣茶葉改良場改出許多適應臺灣地區地形與氣候的茶樹，其中的臺茶的配對與名稱 何者為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "臺茶16號-白鶴"
+      },
+      {
+        "id": "B",
+        "text": "臺茶21號-紅韻"
+      },
+      {
+        "id": "C",
+        "text": "臺茶19號-紅玉"
+      },
+      {
+        "id": "D",
+        "text": "臺茶17號-白燕。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣茶葉改良場改出許多適應臺灣地區地形與氣候的茶樹，其中的臺茶的配對與名稱 何者為正確？ 臺茶16號-白鶴 臺茶21號-紅韻 臺茶19號-紅玉 臺茶17號-白燕。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2002
+  }
+}

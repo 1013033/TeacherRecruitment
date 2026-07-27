@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q002-cf1f158679",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 2 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-9526",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "茶葉依採收季節有適合製成的茶葉類型，其中春茶較不適合製成下列哪種茶葉？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綠茶"
+      },
+      {
+        "id": "B",
+        "text": "包種 茶"
+      },
+      {
+        "id": "C",
+        "text": "烏龍茶"
+      },
+      {
+        "id": "D",
+        "text": "白毫烏龍茶"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、綠茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "茶葉依採收季節有適合製成的茶葉類型，其中春茶較不適合製成下列哪種茶葉？ 綠茶 包種 茶 烏龍茶 白毫烏龍茶 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2283
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q055-1fcbc35220",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 55 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-19605",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 55,
+    "questionType": "single-choice",
+    "prompt": "有關咖啡磨豆機的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "平刀磨豆機由兩片水平排列的圓形刀盤組成，以高速旋轉的方式來切削咖啡豆，磨出的咖啡粉顆粒不均勻， 風味較不和諧。"
+      },
+      {
+        "id": "B",
+        "text": "錐刀磨豆機由一個圓錐形內刀與環狀外刀組成，透過重力和刀盤旋轉先被碾碎、擊破，再被切割成咖啡粉， 錐刀磨出的咖啡粉粒徑通常呈現「雙峰分佈」顆粒較爲多元，讓咖啡呈現豐富感的風味變化。"
+      },
+      {
+        "id": "C",
+        "text": "鬼齒刀磨豆機的刀盤上有許多鋸齒狀突起的方形釘，可以把咖啡豆迅速切碎成不規則的塊狀顆粒，並用刀 盤上的鋸齒進行打磨，磨出的咖啡粉粒平均風味平衡乾淨，減少摩擦生熱流失豆子香氣，讓咖啡保有更多 原始風味。"
+      },
+      {
+        "id": "D",
+        "text": "鬼齒刀磨豆機較適合單品手沖、法式濾壓壺；若要使用義式咖啡機沖泡咖啡，應該使用平刀或是錐刀的磨 豆幾。 下表為咖啡沖煮設備及研磨粗細度的對照表，請回答下列問題。 研磨程度 粗研磨 中研磨 細研磨 極細研磨 英文名稱 （甲） Medium Grind X Turkish Grind 適用沖煮設備 （乙） （丙） 義式咖啡機 土耳其咖啡"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、義式"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關咖啡磨豆機的敘述，下列何者錯誤？ 平刀磨豆機由兩片水平排列的圓形刀盤組成，以高速旋轉的方式來切削咖啡豆，磨出的咖啡粉顆粒不均勻， 風味較不和諧。 錐刀磨豆機由一個圓錐形內刀與環狀外刀組成，透過重力和刀盤旋轉先被碾碎、擊破，再被切割成咖啡粉， 錐刀磨出的咖啡粉粒徑通常呈現「雙峰分佈」顆粒較爲多元，讓咖啡呈現豐富感的風味變化。 鬼齒刀磨豆機的刀盤上有許多鋸齒狀突起的方形釘，可以把咖啡豆迅速切碎成不規則的塊狀顆粒，並用刀 盤上的鋸齒進行打磨，磨出的咖啡粉粒平均風味平衡乾淨，減少摩擦生熱流失豆子香氣，讓咖啡保有更多 原始風味。 鬼齒刀磨豆機較適合單品手沖、法式濾壓壺；若要使用義式咖啡機沖泡咖啡，應該使用平刀或是錐刀的磨 豆幾。 下表為咖啡沖煮設備及研磨粗細度的對照表，請回答下列問題。 研磨程度 粗研磨 中研磨 細研磨 極細研磨 英文名稱 （甲） Medium Grind X Turkish Grind 適用沖煮設備 （乙） （丙） 義式咖啡機 土耳其咖啡 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2345
+  }
+}

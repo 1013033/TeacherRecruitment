@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q016-e21dcc1811",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 16 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-7621",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "餐飲業屬於服務業，在中華民國產業分類中是屬於第幾類的產業？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第一類"
+      },
+      {
+        "id": "B",
+        "text": "第二類"
+      },
+      {
+        "id": "C",
+        "text": "第三類"
+      },
+      {
+        "id": "D",
+        "text": "第四類。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐飲業屬於服務業，在中華民國產業分類中是屬於第幾類的產業？ 第一類 第二類 第三類 第四類。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 3257
+  }
+}

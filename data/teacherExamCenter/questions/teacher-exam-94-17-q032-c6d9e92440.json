@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q032-c6d9e92440",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 32 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-6635",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "依海關規定旅客出境每人攜帶之外幣現金限額，不得超過美金",
+    "options": [
+      {
+        "id": "A",
+        "text": "5000元"
+      },
+      {
+        "id": "B",
+        "text": "1萬元"
+      },
+      {
+        "id": "C",
+        "text": "2萬元"
+      },
+      {
+        "id": "D",
+        "text": "4萬元"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依海關規定旅客出境每人攜帶之外幣現金限額，不得超過美金 5000元 1萬元 2萬元 4萬元 其他：待人工審核 待人工審核",
+    "sequence": 2607
+  }
+}

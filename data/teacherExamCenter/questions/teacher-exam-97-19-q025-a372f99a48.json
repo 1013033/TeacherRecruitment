@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q025-a372f99a48",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 25 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-5877",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "民國 92 年哪一項事件讓臺灣觀光客劇減？",
+    "options": [
+      {
+        "id": "A",
+        "text": "921 大地震"
+      },
+      {
+        "id": "B",
+        "text": "SARS"
+      },
+      {
+        "id": "C",
+        "text": "娜莉颱風"
+      },
+      {
+        "id": "D",
+        "text": "總統大選。"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "民國 92 年哪一項事件讓臺灣觀光客劇減？ 921 大地震 SARS 娜莉颱風 總統大選。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2870
+  }
+}

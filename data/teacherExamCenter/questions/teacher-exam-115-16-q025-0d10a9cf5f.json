@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q025-0d10a9cf5f",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 25 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-13012",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "依據我國《外國護照簽證條例》第七條，外國護照之簽證，有四種類，下列何者不是 其中之一？",
+    "options": [
+      {
+        "id": "A",
+        "text": "COURTESY VISA"
+      },
+      {
+        "id": "B",
+        "text": "DIPLOMATIC VISA"
+      },
+      {
+        "id": "C",
+        "text": "RESIDENT VISA"
+      },
+      {
+        "id": "D",
+        "text": "TOURISM VISA"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、簽證、visa、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依據我國《外國護照簽證條例》第七條，外國護照之簽證，有四種類，下列何者不是 其中之一？ COURTESY VISA DIPLOMATIC VISA RESIDENT VISA TOURISM VISA 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2473
+  }
+}

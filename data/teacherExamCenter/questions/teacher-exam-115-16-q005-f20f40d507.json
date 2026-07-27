@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q005-f20f40d507",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 5 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-1028",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "關於外國旅行業的發展，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "西元前776年，古希臘人舉行奧林匹克運動競技，目的為維護城邦間的和平。"
+      },
+      {
+        "id": "B",
+        "text": "上古時期，耶路撒冷為猶太教、基督教和伊斯蘭教三教之聖地，宗教朝聖旅遊為當 時代的代表。"
+      },
+      {
+        "id": "C",
+        "text": "工業革命時期，英國人湯瑪斯．庫克（Thomas Cook）首創世界第一張旅行支票。"
+      },
+      {
+        "id": "D",
+        "text": "一次世界大戰後，噴射客機正式啟用，大眾旅遊興起。"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於外國旅行業的發展，下列敘述何者正確？ 西元前776年，古希臘人舉行奧林匹克運動競技，目的為維護城邦間的和平。 上古時期，耶路撒冷為猶太教、基督教和伊斯蘭教三教之聖地，宗教朝聖旅遊為當 時代的代表。 工業革命時期，英國人湯瑪斯．庫克（Thomas Cook）首創世界第一張旅行支票。 一次世界大戰後，噴射客機正式啟用，大眾旅遊興起。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2404
+  }
+}

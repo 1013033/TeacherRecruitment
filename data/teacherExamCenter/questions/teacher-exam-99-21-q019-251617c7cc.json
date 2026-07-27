@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q019-251617c7cc",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 19 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-3237",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "以下何者為正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "綜合旅行業本公司的「旅行業經理人」不得少於 3 人"
+      },
+      {
+        "id": "B",
+        "text": "台灣地區光復後，首先出現的公營旅行業機構為台灣旅行社"
+      },
+      {
+        "id": "C",
+        "text": "一種幫助公司規劃、組織與推廣，由公司出錢或補貼旅費的旅遊，以激勵員工或顧客的旅遊方案稱之為 SIT"
+      },
+      {
+        "id": "D",
+        "text": "領隊之管理機關為外交部領事事務局，導遊為交通部觀光局"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下何者為正確的？ 綜合旅行業本公司的「旅行業經理人」不得少於 3 人 台灣地區光復後，首先出現的公營旅行業機構為台灣旅行社 一種幫助公司規劃、組織與推廣，由公司出錢或補貼旅費的旅遊，以激勵員工或顧客的旅遊方案稱之為 SIT 領隊之管理機關為外交部領事事務局，導遊為交通部觀光局 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3330
+  }
+}

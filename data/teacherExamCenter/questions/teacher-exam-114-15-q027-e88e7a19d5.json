@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q027-e88e7a19d5",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 27 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-13269",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "關於我國餐旅業發展的重要事件發生順序，下列何者正確？ 甲、民宿管理辦法實施，規範民宿經營與發展 乙、啟動兩岸大三通，促進餐旅業發展 丙、澎湖博弈公投未通過，博弈產業未能落地 丁、馬祖通過博弈公投，引發離島觀光發展熱議 戊、脊梁山脈旅遊年推動，深化在地觀光特色 己、觀光局改制為觀光署，提升觀光發展位階",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙→丁→戊→己"
+      },
+      {
+        "id": "B",
+        "text": "乙→甲→丙→丁→戊→己"
+      },
+      {
+        "id": "C",
+        "text": "甲→丙→乙→丁→戊→己"
+      },
+      {
+        "id": "D",
+        "text": "乙→甲→丁→丙→戊→己"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、餐旅"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於我國餐旅業發展的重要事件發生順序，下列何者正確？ 甲、民宿管理辦法實施，規範民宿經營與發展 乙、啟動兩岸大三通，促進餐旅業發展 丙、澎湖博弈公投未通過，博弈產業未能落地 丁、馬祖通過博弈公投，引發離島觀光發展熱議 戊、脊梁山脈旅遊年推動，深化在地觀光特色 己、觀光局改制為觀光署，提升觀光發展位階 甲→乙→丙→丁→戊→己 乙→甲→丙→丁→戊→己 甲→丙→乙→丁→戊→己 乙→甲→丁→丙→戊→己 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2308
+  }
+}

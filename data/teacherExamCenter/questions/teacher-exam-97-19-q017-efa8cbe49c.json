@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q017-efa8cbe49c",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 17 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-20914",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "匙緣呈鋸齒狀的匙具是",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dessert Spoon"
+      },
+      {
+        "id": "B",
+        "text": "Iced-Tea Spoon"
+      },
+      {
+        "id": "C",
+        "text": "Grapefruit Spoon"
+      },
+      {
+        "id": "D",
+        "text": "Ice Cream Spoon"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "匙緣呈鋸齒狀的匙具是 Dessert Spoon Iced-Tea Spoon Grapefruit Spoon Ice Cream Spoon 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 3020
+  }
+}

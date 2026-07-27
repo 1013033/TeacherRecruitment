@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q041-51d1c5b331",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 41 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-7209",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "臺灣發展觀光事業，以年代背景與實際需求而言，下列哪一個單位，會是較早成立的觀光組織？",
+    "options": [
+      {
+        "id": "A",
+        "text": "中華民國觀光領隊協會(ATM)"
+      },
+      {
+        "id": "B",
+        "text": "中華民國旅行業品質保障協會(TQAA)"
+      },
+      {
+        "id": "C",
+        "text": "中華民國觀光導遊協會(TGA)"
+      },
+      {
+        "id": "D",
+        "text": "中華民國旅館事業協會(HARC)。"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "臺灣發展觀光事業，以年代背景與實際需求而言，下列哪一個單位，會是較早成立的觀光組織？ 中華民國觀光領隊協會(ATM) 中華民國旅行業品質保障協會(TQAA) 中華民國觀光導遊協會(TGA) 中華民國旅館事業協會(HARC)。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2886
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q057-49832d1f65",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 57 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-20203",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 57,
+    "questionType": "single-choice",
+    "prompt": "有關萃取咖啡的能源種類，下列分類何者完全正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "使用火力（直接熱源）：美式咖啡機、虹吸式咖啡、比利時咖啡壺"
+      },
+      {
+        "id": "B",
+        "text": "使用電力：義式咖啡機、摩卡壺、聰明濾杯"
+      },
+      {
+        "id": "C",
+        "text": "不使用電力也不使用火力：聰明濾杯、愛樂壓、濾壓壺"
+      },
+      {
+        "id": "D",
+        "text": "使用電力也可以使用火力：美式咖啡壺、虹吸式咖啡壺、摩卡壺"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡、義式、萃取"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關萃取咖啡的能源種類，下列分類何者完全正確？ 使用火力（直接熱源）：美式咖啡機、虹吸式咖啡、比利時咖啡壺 使用電力：義式咖啡機、摩卡壺、聰明濾杯 不使用電力也不使用火力：聰明濾杯、愛樂壓、濾壓壺 使用電力也可以使用火力：美式咖啡壺、虹吸式咖啡壺、摩卡壺 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2347
+  }
+}

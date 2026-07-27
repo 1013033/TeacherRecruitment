@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q040-6260cdbf7c",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 40 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38067",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "下列何者不包含在「星級旅館評鑑制度」的範圍內？",
+    "options": [
+      {
+        "id": "A",
+        "text": "安全設施"
+      },
+      {
+        "id": "B",
+        "text": "建築物外觀"
+      },
+      {
+        "id": "C",
+        "text": "用餐品質"
+      },
+      {
+        "id": "D",
+        "text": "員工人數"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不包含在「星級旅館評鑑制度」的範圍內？ 安全設施 建築物外觀 用餐品質 員工人數 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2227
+  }
+}

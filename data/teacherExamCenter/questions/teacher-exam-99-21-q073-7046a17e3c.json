@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q073-7046a17e3c",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 73 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-12582",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 73,
+    "questionType": "single-choice",
+    "prompt": "使用西餐餐具時，原則應？",
+    "options": [
+      {
+        "id": "A",
+        "text": "先餐刀、餐叉，再使用餐匙"
+      },
+      {
+        "id": "B",
+        "text": "由左右側從外往內取用，上側從下往上取用"
+      },
+      {
+        "id": "C",
+        "text": "由左右側從內往外取用，上側從上往下取用"
+      },
+      {
+        "id": "D",
+        "text": "先餐匙、餐叉，再使用餐刀。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "使用西餐餐具時，原則應？ 先餐刀、餐叉，再使用餐匙 由左右側從外往內取用，上側從下往上取用 由左右側從內往外取用，上側從上往下取用 先餐匙、餐叉，再使用餐刀。 其他：待人工審核 待人工審核",
+    "sequence": 3416
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q001-00cec2be80",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 1 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-23266",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於我國國家公園之相關敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "主管機關為交通部國家公園署"
+      },
+      {
+        "id": "B",
+        "text": "第一個是成立於民國 84 年的墾丁國家公園"
+      },
+      {
+        "id": "C",
+        "text": "截至 2024 年為止，共計已成立了十二座國家公園"
+      },
+      {
+        "id": "D",
+        "text": "成立於 1985 年的陽明山國家公園，其中部分範圍隸屬於新北市行政區域"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於我國國家公園之相關敘述，何者正確？ 主管機關為交通部國家公園署 第一個是成立於民國 84 年的墾丁國家公園 截至 2024 年為止，共計已成立了十二座國家公園 成立於 1985 年的陽明山國家公園，其中部分範圍隸屬於新北市行政區域 其他：待人工審核 待人工審核",
+    "sequence": 2355
+  }
+}

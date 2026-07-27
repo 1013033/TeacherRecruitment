@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q026-39b3d1f468",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 26 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-6067",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 26,
+    "questionType": "multiple-choice",
+    "prompt": "「2026臺灣燈會」於嘉義盛大舉行，小旺想要規劃一天燈會快閃之旅，早上他就 （甲：搭乘高鐵從臺中到嘉義） ，隨後轉乘（乙：火車抵達市區租借共享單車） ，騎 車前往第一站（丙：嘉義燈會主燈區參觀燈展） ，加入人潮與主燈拍照，結束後隨即 前往（丁：文化路夜市吃了火雞肉飯及豆花） ，之後返回（戊：嘉義火車站） ，搭火 車前到（己：7-11買了一杯咖啡）悠閒地返回臺中。請就上述行程內有出現的行政 院主計處行業分類代碼，選擇正確答案？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲─H、丙─N、丁─G。"
+      },
+      {
+        "id": "B",
+        "text": "乙─N、戊─H、己─G。"
+      },
+      {
+        "id": "C",
+        "text": "甲─H、丙─R、丁─I。"
+      },
+      {
+        "id": "D",
+        "text": "乙─H、戊─H、己─I。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「2026臺灣燈會」於嘉義盛大舉行，小旺想要規劃一天燈會快閃之旅，早上他就 （甲：搭乘高鐵從臺中到嘉義） ，隨後轉乘（乙：火車抵達市區租借共享單車） ，騎 車前往第一站（丙：嘉義燈會主燈區參觀燈展） ，加入人潮與主燈拍照，結束後隨即 前往（丁：文化路夜市吃了火雞肉飯及豆花） ，之後返回（戊：嘉義火車站） ，搭火 車前到（己：7-11買了一杯咖啡）悠閒地返回臺中。請就上述行程內有出現的行政 院主計處行業分類代碼，選擇正確答案？ 甲─H、丙─N、丁─G。 乙─N、戊─H、己─G。 甲─H、丙─R、丁─I。 乙─H、戊─H、己─I。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2425
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q008-a81b272f98",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 8 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-10282",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "塑膠材質種類眾多，其中一種俗稱為寶特瓶的材質，具有良好的耐酸鹼特性，是碳酸飲料常用的 包裝材料，耐熱溫度約為 60～85℃。上述敘述指的是哪一種塑膠材質？",
+    "options": [
+      {
+        "id": "A",
+        "text": "PE"
+      },
+      {
+        "id": "B",
+        "text": "PVC"
+      },
+      {
+        "id": "C",
+        "text": "PET"
+      },
+      {
+        "id": "D",
+        "text": "PP"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "塑膠材質種類眾多，其中一種俗稱為寶特瓶的材質，具有良好的耐酸鹼特性，是碳酸飲料常用的 包裝材料，耐熱溫度約為 60～85℃。上述敘述指的是哪一種塑膠材質？ PE PVC PET PP 其他：待人工審核 待人工審核",
+    "sequence": 2289
+  }
+}

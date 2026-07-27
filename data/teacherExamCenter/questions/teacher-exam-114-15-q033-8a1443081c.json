@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q033-8a1443081c",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 33 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-28241",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 33,
+    "questionType": "multiple-choice",
+    "prompt": "民國 109 年核定 2030 觀光白皮書與簡報中，回顧 21 世紀觀光政策下，各年度推廣 體驗觀光推動主軸，下列哪些選項為正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "2023：自行車旅遊年"
+      },
+      {
+        "id": "B",
+        "text": "2021：鐵道觀光旅遊年"
+      },
+      {
+        "id": "C",
+        "text": "2019：小鎮漫遊年"
+      },
+      {
+        "id": "D",
+        "text": "2017：生態旅遊年"
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "民國 109 年核定 2030 觀光白皮書與簡報中，回顧 21 世紀觀光政策下，各年度推廣 體驗觀光推動主軸，下列哪些選項為正確？ 2023：自行車旅遊年 2021：鐵道觀光旅遊年 2019：小鎮漫遊年 2017：生態旅遊年 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2387
+  }
+}

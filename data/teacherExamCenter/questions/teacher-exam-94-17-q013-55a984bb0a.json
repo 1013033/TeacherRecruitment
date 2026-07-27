@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q013-55a984bb0a",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 13 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-12494",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "關於餐廳類型之敘述，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "麥當勞採用之「得來速服務」稱為 Vending MachineService"
+      },
+      {
+        "id": "B",
+        "text": "餐廳提供有限的菜色，並由服務人員提供送菜、舀取一定份量的菜餚給客人，客人繳交定額餐費後，自行拿到餐桌食用，稱為團膳服務"
+      },
+      {
+        "id": "C",
+        "text": "客人到有提供餐桌椅設備的餐廳用餐時，由領檯員引領入座，服務員依客人點叫內容填寫菜單之後，再將食物端到餐桌上請客人食用，此種服務方式稱為 Counter Service"
+      },
+      {
+        "id": "D",
+        "text": "由客人親自到餐檯選取自己喜歡的食物，再依食物各項的單價核算付款的餐飲供應方式稱為 Buffet Service。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲、服務員、菜單、領檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐廳類型之敘述，何者正確？ 麥當勞採用之「得來速服務」稱為 Vending MachineService 餐廳提供有限的菜色，並由服務人員提供送菜、舀取一定份量的菜餚給客人，客人繳交定額餐費後，自行拿到餐桌食用，稱為團膳服務 客人到有提供餐桌椅設備的餐廳用餐時，由領檯員引領入座，服務員依客人點叫內容填寫菜單之後，再將食物端到餐桌上請客人食用，此種服務方式稱為 Counter Service 由客人親自到餐檯選取自己喜歡的食物，再依食物各項的單價核算付款的餐飲供應方式稱為 Buffet Service。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2680
+  }
+}

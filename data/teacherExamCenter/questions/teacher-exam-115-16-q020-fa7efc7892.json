@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q020-fa7efc7892",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 20 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-12268",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "在庫存管理中，縮寫「FIFO」是指什麼原則？",
+    "options": [
+      {
+        "id": "A",
+        "text": "後進先出"
+      },
+      {
+        "id": "B",
+        "text": "先進先出"
+      },
+      {
+        "id": "C",
+        "text": "隨機出貨"
+      },
+      {
+        "id": "D",
+        "text": "貴重先出"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "在庫存管理中，縮寫「FIFO」是指什麼原則？ 後進先出 先進先出 隨機出貨 貴重先出 其他：待人工審核 待人工審核",
+    "sequence": 2468
+  }
+}

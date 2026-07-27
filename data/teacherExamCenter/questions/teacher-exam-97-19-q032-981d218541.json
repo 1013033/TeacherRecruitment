@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q032-981d218541",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 32 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-6499",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "旅客搭機返國，機票最後只剩哪一聯可當紀念或公司報帳使用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "審計聯"
+      },
+      {
+        "id": "B",
+        "text": "公司存根聯"
+      },
+      {
+        "id": "C",
+        "text": "搭乘票根聯"
+      },
+      {
+        "id": "D",
+        "text": "旅客存根聯。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅客搭機返國，機票最後只剩哪一聯可當紀念或公司報帳使用？ 審計聯 公司存根聯 搭乘票根聯 旅客存根聯。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2877
+  }
+}

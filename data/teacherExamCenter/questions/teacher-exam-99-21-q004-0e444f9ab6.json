@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q004-0e444f9ab6",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 4 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-16550",
+    "paperTitle": "一、單選題（每題二分，共四十分）",
+    "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "馬鈴薯用水煮熟後冷卻的方法要用下列哪一種？",
+    "options": [
+      {
+        "id": "A",
+        "text": "冷水沖"
+      },
+      {
+        "id": "B",
+        "text": "冷風吹"
+      },
+      {
+        "id": "C",
+        "text": "溫水沖"
+      },
+      {
+        "id": "D",
+        "text": "放冰箱。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煮"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "馬鈴薯用水煮熟後冷卻的方法要用下列哪一種？ 冷水沖 冷風吹 溫水沖 放冰箱。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3455
+  }
+}

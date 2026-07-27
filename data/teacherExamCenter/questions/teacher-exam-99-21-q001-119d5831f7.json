@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q001-119d5831f7",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 1 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-4822",
+    "paperTitle": "一、單選題（80%）",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "客房內放置三張單人床的房間是",
+    "options": [
+      {
+        "id": "A",
+        "text": "Double Room"
+      },
+      {
+        "id": "B",
+        "text": "Triple Room"
+      },
+      {
+        "id": "C",
+        "text": "Suite Room"
+      },
+      {
+        "id": "D",
+        "text": "Quad Room。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房、room、suite"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "客房內放置三張單人床的房間是 Double Room Triple Room Suite Room Quad Room。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3344
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q034-3fda4982a6",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 34 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-8032",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "承上題，若要以冰鎮純飲(未稀釋)方式飲用，現場服務人員要以下列何種方式服務？",
+    "options": [
+      {
+        "id": "A",
+        "text": "On The Rocks"
+      },
+      {
+        "id": "B",
+        "text": "Straight"
+      },
+      {
+        "id": "C",
+        "text": "Straight Up"
+      },
+      {
+        "id": "D",
+        "text": "Neat。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "承上題，若要以冰鎮純飲(未稀釋)方式飲用，現場服務人員要以下列何種方式服務？ On The Rocks Straight Straight Up Neat。 其他：待人工審核 待人工審核",
+    "sequence": 2031
+  }
+}

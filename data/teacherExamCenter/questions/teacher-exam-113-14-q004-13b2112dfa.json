@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q004-13b2112dfa",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 4 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-775",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "關於中國八大菜系的敘述，何者完全正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "粵菜著重食物的原味，其代表菜色為腰果蝦仁、咕咾肉、京醬肉絲"
+      },
+      {
+        "id": "B",
+        "text": "湘菜以辣味豐富適當，並且講究刀工，其代表菜色為豆酥鯧魚、豆豉蒸魚、玉鄰香腰"
+      },
+      {
+        "id": "C",
+        "text": "閩菜喜好使用「糟」 ，並且喜愛使用「海鮮類」 ，代表菜色有佛跳牆、紅糟雞、雞湯 汆海蚌"
+      },
+      {
+        "id": "D",
+        "text": "魯菜發展甚早，是明清時期的宮廷御膳，其代表菜色有九轉大腸、拔絲地瓜、清蒸 石雞。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於中國八大菜系的敘述，何者完全正確？ 粵菜著重食物的原味，其代表菜色為腰果蝦仁、咕咾肉、京醬肉絲 湘菜以辣味豐富適當，並且講究刀工，其代表菜色為豆酥鯧魚、豆豉蒸魚、玉鄰香腰 閩菜喜好使用「糟」 ，並且喜愛使用「海鮮類」 ，代表菜色有佛跳牆、紅糟雞、雞湯 汆海蚌 魯菜發展甚早，是明清時期的宮廷御膳，其代表菜色有九轉大腸、拔絲地瓜、清蒸 石雞。 其他：待人工審核 待人工審核",
+    "sequence": 2001
+  }
+}

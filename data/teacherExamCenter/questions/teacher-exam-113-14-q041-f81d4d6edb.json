@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q041-f81d4d6edb",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 41 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-17150",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "依據衛生福利部食品藥物管理署所定義食物中毒，下列敘述何者錯誤？ 甲、二人或二人以上攝取相同的食品而發生相似的症狀，稱為一件食品中毒案件 乙、如因攝食化學物質造成急性中毒，即使只有一人，也視為一件食品中毒案件 丙、如因攝食天然毒素造成急性中毒，有三人或三人以上，稱為一件食品中毒案件 丁、如因肉毒桿菌毒素而引起中毒症狀，且自人體檢體檢驗出肉毒桿菌毒素，則有 三人或三人以上，才可視為一件食品中毒案件",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據衛生福利部食品藥物管理署所定義食物中毒，下列敘述何者錯誤？ 甲、二人或二人以上攝取相同的食品而發生相似的症狀，稱為一件食品中毒案件 乙、如因攝食化學物質造成急性中毒，即使只有一人，也視為一件食品中毒案件 丙、如因攝食天然毒素造成急性中毒，有三人或三人以上，稱為一件食品中毒案件 丁、如因肉毒桿菌毒素而引起中毒症狀，且自人體檢體檢驗出肉毒桿菌毒素，則有 三人或三人以上，才可視為一件食品中毒案件 甲、乙 甲、丙 乙、丁 丙、丁 其他：待人工審核 待人工審核",
+    "sequence": 2086
+  }
+}

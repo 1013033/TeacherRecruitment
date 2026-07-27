@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q014-f2dda3a994",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 14 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-3565",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "政府推行新階段「五環2.0食安政策」的執行工作內容中，下列敘述何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "「源頭管理」 ：持續整合跨部會環安、農安、食安監測資訊，推動農產品驗證與溯 源體系，並加強國際食品風險預警，確保輸入原料與食品安全"
+      },
+      {
+        "id": "B",
+        "text": "「整合產製銷鏈」 ：加強原料與農產品收穫後之處理、分切、製造加工、倉儲與通路之跨部會管理，並 加強上下游檢驗資訊連結"
+      },
+      {
+        "id": "C",
+        "text": "「中央地方合作稽核檢驗」 ：健全業者自主通報與產品 下架機制，並持續精進食品標示與管理及強化消費者保護機制，嚴懲黑心廠商"
+      },
+      {
+        "id": "D",
+        "text": "「輔導教育與管理」 ：加強餐飲業防治食品中毒的輔導，持續推動食安、飲食與食 農教育，輔導業者品格、食安文化與自主管理。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "政府推行新階段「五環2.0食安政策」的執行工作內容中，下列敘述何者為非？ 「源頭管理」 ：持續整合跨部會環安、農安、食安監測資訊，推動農產品驗證與溯 源體系，並加強國際食品風險預警，確保輸入原料與食品安全 「整合產製銷鏈」 ：加強原料與農產品收穫後之處理、分切、製造加工、倉儲與通路之跨部會管理，並 加強上下游檢驗資訊連結 「中央地方合作稽核檢驗」 ：健全業者自主通報與產品 下架機制，並持續精進食品標示與管理及強化消費者保護機制，嚴懲黑心廠商 「輔導教育與管理」 ：加強餐飲業防治食品中毒的輔導，持續推動食安、飲食與食 農教育，輔導業者品格、食安文化與自主管理。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2251
+  }
+}

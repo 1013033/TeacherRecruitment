@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q034-c6456f8729",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 34 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-16164",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "關於酒類屬性之歸類，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "釀造酒：Wine、Beer"
+      },
+      {
+        "id": "B",
+        "text": "香甜酒：Bailey's Irish Cream、Cherry Liqueur"
+      },
+      {
+        "id": "C",
+        "text": "蒸餾酒：Gin、Port"
+      },
+      {
+        "id": "D",
+        "text": "氣泡酒：Sparkling Wine、Champagne"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：liqueur、wine、champagne、port"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於酒類屬性之歸類，下列何者錯誤？ 釀造酒：Wine、Beer 香甜酒：Bailey's Irish Cream、Cherry Liqueur 蒸餾酒：Gin、Port 氣泡酒：Sparkling Wine、Champagne 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2079
+  }
+}

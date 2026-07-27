@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q002-643fc05fd4",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 2 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-19809",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "下列說明何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "雲南普洱茶屬於黑茶類，加工時需經渥堆程序"
+      },
+      {
+        "id": "B",
+        "text": "Dimbula Tea 具有獨特芳香和香醇口感有黃金杯之稱"
+      },
+      {
+        "id": "C",
+        "text": "茶葉中 BOP 是根據茶葉採摘部分分類並非等級好壞"
+      },
+      {
+        "id": "D",
+        "text": "綠茶只經過殺菁、揉捻、乾燥所製成。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶、綠茶、tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列說明何者錯誤？ 雲南普洱茶屬於黑茶類，加工時需經渥堆程序 Dimbula Tea 具有獨特芳香和香醇口感有黃金杯之稱 茶葉中 BOP 是根據茶葉採摘部分分類並非等級好壞 綠茶只經過殺菁、揉捻、乾燥所製成。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 355
+  }
+}

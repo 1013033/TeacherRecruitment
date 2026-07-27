@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q032-5dffff0e12",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 32 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-8498",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "下列國家級風景區的吉祥物敘述，何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "北觀－野柳女王頭"
+      },
+      {
+        "id": "B",
+        "text": "大鵬灣－曼波魚"
+      },
+      {
+        "id": "C",
+        "text": "東部海岸－阿美族娃娃"
+      },
+      {
+        "id": "D",
+        "text": "茂林－紫蝶。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列國家級風景區的吉祥物敘述，何者有誤？ 北觀－野柳女王頭 大鵬灣－曼波魚 東部海岸－阿美族娃娃 茂林－紫蝶。 其他：待人工審核 待人工審核",
+    "sequence": 2774
+  }
+}

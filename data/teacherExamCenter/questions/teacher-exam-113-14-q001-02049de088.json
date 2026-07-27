@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q001-02049de088",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 1 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-29164",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "111 年 7 月公告之星級旅館評鑑作業要點，四星級旅館基本條件公共廁所設有 免治馬桶須達總間數？",
+    "options": [
+      {
+        "id": "A",
+        "text": "20%以上"
+      },
+      {
+        "id": "B",
+        "text": "25%以上"
+      },
+      {
+        "id": "C",
+        "text": "30%以上"
+      },
+      {
+        "id": "D",
+        "text": "35%以上"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "111 年 7 月公告之星級旅館評鑑作業要點，四星級旅館基本條件公共廁所設有 免治馬桶須達總間數？ 20%以上 25%以上 30%以上 35%以上 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2147
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q008-d7e5bee463",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 8 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-1826",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "有關觀光遊憩主管機關的配對，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "安平古堡-行政院文建會。"
+      },
+      {
+        "id": "B",
+        "text": "阿里山國家風景區-交通部觀光署。"
+      },
+      {
+        "id": "C",
+        "text": "福壽山農場-行政院農業部林業及自然保育署。"
+      },
+      {
+        "id": "D",
+        "text": "東沙環礁國家公園-內政部國家公園署。"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "有關觀光遊憩主管機關的配對，下列何者有誤？ 安平古堡-行政院文建會。 阿里山國家風景區-交通部觀光署。 福壽山農場-行政院農業部林業及自然保育署。 東沙環礁國家公園-內政部國家公園署。 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2407
+  }
+}

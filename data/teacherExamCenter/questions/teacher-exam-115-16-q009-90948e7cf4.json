@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q009-90948e7cf4",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 9 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-19423",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "旅館經營中常使用的指標「RevPAR」（每間可售房平均房價），其計算公式應為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "總客房收入 ÷ 總來客人數"
+      },
+      {
+        "id": "B",
+        "text": "平均房價（ADR） × 客房出租率（Occupancy Rate）"
+      },
+      {
+        "id": "C",
+        "text": "總營業額 ÷ 客房總數 2"
+      },
+      {
+        "id": "D",
+        "text": "客位數 ÷ 總成本。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館經營中常使用的指標「RevPAR」（每間可售房平均房價），其計算公式應為： 總客房收入 ÷ 總來客人數 平均房價（ADR） × 客房出租率（Occupancy Rate） 總營業額 ÷ 客房總數 2 客位數 ÷ 總成本。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2507
+  }
+}

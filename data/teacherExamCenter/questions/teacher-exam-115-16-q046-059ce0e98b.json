@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q046-059ce0e98b",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 46 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-16624",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "下列哪些雞尾酒的調製方法相同，且酒譜中有一款酒款相同？ 甲：Americano、乙：Campari soda、丙：Mojito、丁：Rusty nail",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "乙、丁"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些雞尾酒的調製方法相同，且酒譜中有一款酒款相同？ 甲：Americano、乙：Campari soda、丙：Mojito、丁：Rusty nail 甲、乙 甲、丁 乙、丙 乙、丁 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2494
+  }
+}

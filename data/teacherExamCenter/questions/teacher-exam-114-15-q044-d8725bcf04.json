@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q044-d8725bcf04",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 44 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-17371",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "關於服務的基本原則，下列敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "一致性原則：對於來店消費相同餐點的顧客，應提供相同的服務方式與內容。"
+      },
+      {
+        "id": "B",
+        "text": "不跨越原則：服務人員若從顧客右側提供服務，應以右手來服務顧客；若從顧客左側提供服務，應以左 手來服務顧客"
+      },
+      {
+        "id": "C",
+        "text": "右順左逆原則：服務人員服務同桌顧客，若服務第一位顧客時是自顧客右側提供服務，則應以順時針方 向服務下一位顧客。反之，若是自顧客左側提供服務，則應以逆時針方向服務下一位顧客"
+      },
+      {
+        "id": "D",
+        "text": "同步原則：若同桌用餐的客人超過一位，在上菜或收拾殘盤時，除非顧客有特別要求，服務人員應對同 桌顧客同步完成上菜或收拾殘盤的服務。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於服務的基本原則，下列敘述何者錯誤？ 一致性原則：對於來店消費相同餐點的顧客，應提供相同的服務方式與內容。 不跨越原則：服務人員若從顧客右側提供服務，應以右手來服務顧客；若從顧客左側提供服務，應以左 手來服務顧客 右順左逆原則：服務人員服務同桌顧客，若服務第一位顧客時是自顧客右側提供服務，則應以順時針方 向服務下一位顧客。反之，若是自顧客左側提供服務，則應以逆時針方向服務下一位顧客 同步原則：若同桌用餐的客人超過一位，在上菜或收拾殘盤時，除非顧客有特別要求，服務人員應對同 桌顧客同步完成上菜或收拾殘盤的服務。 其他：待人工審核 待人工審核",
+    "sequence": 2334
+  }
+}

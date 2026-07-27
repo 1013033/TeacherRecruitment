@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q029-32324a1646",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 29 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-13642",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "依據《領隊人員管理規則》（113 年 10 月 16 日修正）第 11 條，下列哪些人若符合相 關資格，得參加外語領隊人員類科通用制及華語領隊人員類科評量測驗？ 甲：中華民國國民、乙：外國人、丙：香港居民、丁：澳門居民",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲可以，乙、丙、丁皆不得參加"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙可以，丙、丁皆不得參加"
+      },
+      {
+        "id": "C",
+        "text": "甲、丙、丁皆可以，僅乙不得參加"
+      },
+      {
+        "id": "D",
+        "text": "甲、乙、丙、丁皆可"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據《領隊人員管理規則》（113 年 10 月 16 日修正）第 11 條，下列哪些人若符合相 關資格，得參加外語領隊人員類科通用制及華語領隊人員類科評量測驗？ 甲：中華民國國民、乙：外國人、丙：香港居民、丁：澳門居民 甲可以，乙、丙、丁皆不得參加 甲、乙可以，丙、丁皆不得參加 甲、丙、丁皆可以，僅乙不得參加 甲、乙、丙、丁皆可 其他：待人工審核 待人工審核",
+    "sequence": 2477
+  }
+}

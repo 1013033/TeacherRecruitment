@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q006-7ae92917ef",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 6 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-17338",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "國華大飯店的單人房房租價格為 1500 元，小新於 8 月 21 日凌晨 1 點辦理 Check-in 手續，於 8月24日下午5點辦理 Check-out 手續，請問小新需支付多少元的房租費用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "5250 元"
+      },
+      {
+        "id": "B",
+        "text": "6000 元"
+      },
+      {
+        "id": "C",
+        "text": "6750 元"
+      },
+      {
+        "id": "D",
+        "text": "7500 元"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國華大飯店的單人房房租價格為 1500 元，小新於 8 月 21 日凌晨 1 點辦理 Check-in 手續，於 8月24日下午5點辦理 Check-out 手續，請問小新需支付多少元的房租費用？ 5250 元 6000 元 6750 元 7500 元 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 340
+  }
+}

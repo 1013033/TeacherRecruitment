@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q039-58fcfd7b82",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 39 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-16873",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "關於火災的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "依可燃物性質不同，火災可分為四類，其中 C 類係指電氣火災"
+      },
+      {
+        "id": "B",
+        "text": "撲滅火災的黃金時段為剛發生時的最初 3~5 分鐘內"
+      },
+      {
+        "id": "C",
+        "text": "火災所產生的濃煙中，最致命的毒氣是二氧化碳"
+      },
+      {
+        "id": "D",
+        "text": "餐廳之木造建築、原木傢俱及和室廳房所引發的火災，屬於 A 類火災"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於火災的敘述，下列何者錯誤？ 依可燃物性質不同，火災可分為四類，其中 C 類係指電氣火災 撲滅火災的黃金時段為剛發生時的最初 3~5 分鐘內 火災所產生的濃煙中，最致命的毒氣是二氧化碳 餐廳之木造建築、原木傢俱及和室廳房所引發的火災，屬於 A 類火災 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2084
+  }
+}

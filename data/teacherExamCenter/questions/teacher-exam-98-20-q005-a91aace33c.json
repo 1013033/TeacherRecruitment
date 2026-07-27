@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q005-a91aace33c",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 5 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-5524",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校 98 學年度第一次教師甄審餐飲管理科試卷",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "有關西餐禮儀之敘述，何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "由外向內取用餐具"
+      },
+      {
+        "id": "B",
+        "text": "由外向內舀湯並由匙腹側喝湯"
+      },
+      {
+        "id": "C",
+        "text": "麵包先用手撕成小塊後再抹奶油"
+      },
+      {
+        "id": "D",
+        "text": "食用完畢應將刀叉平行放置餐盤中。"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關西餐禮儀之敘述，何者為非？ 由外向內取用餐具 由外向內舀湯並由匙腹側喝湯 麵包先用手撕成小塊後再抹奶油 食用完畢應將刀叉平行放置餐盤中。 其他：待人工審核 待人工審核",
+    "sequence": 3230
+  }
+}

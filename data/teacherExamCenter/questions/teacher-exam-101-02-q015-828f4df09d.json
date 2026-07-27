@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q015-828f4df09d",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 15 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-21292",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "國際觀光旅館評鑑的「建築設備」須達多少分，方可進行第二階段評鑑？",
+    "options": [
+      {
+        "id": "A",
+        "text": "181分以上"
+      },
+      {
+        "id": "B",
+        "text": "301分以上"
+      },
+      {
+        "id": "C",
+        "text": "601分以上"
+      },
+      {
+        "id": "D",
+        "text": "750分以上。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "國際觀光旅館評鑑的「建築設備」須達多少分，方可進行第二階段評鑑？ 181分以上 301分以上 601分以上 750分以上。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 368
+  }
+}

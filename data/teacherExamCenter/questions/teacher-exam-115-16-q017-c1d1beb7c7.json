@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q017-c1d1beb7c7",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 17 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-12034",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "關於蛋的料理方式，「Sunny side up」是指？",
+    "options": [
+      {
+        "id": "A",
+        "text": "全熟水煮蛋"
+      },
+      {
+        "id": "B",
+        "text": "單面煎蛋"
+      },
+      {
+        "id": "C",
+        "text": "歐姆蛋"
+      },
+      {
+        "id": "D",
+        "text": "炒蛋"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：煎、煮、炒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於蛋的料理方式，「Sunny side up」是指？ 全熟水煮蛋 單面煎蛋 歐姆蛋 炒蛋 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2465
+  }
+}

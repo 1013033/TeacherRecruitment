@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q011-ad3495f3e3",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 11 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-2684",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "葡萄酒在用餐禮儀中的品嚐敘述，何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Swirl是指紅酒倒入杯子後轉動杯子，加速酒與氧氣的接觸，增加香氣"
+      },
+      {
+        "id": "B",
+        "text": "Sight是 指將酒杯微微傾斜，對著光線觀看酒呈現的顏色及光澤"
+      },
+      {
+        "id": "C",
+        "text": "Smell是指將鼻子深入杯 子中，辨識酒類散發的各式香氣"
+      },
+      {
+        "id": "D",
+        "text": "Sip是使用強烈的吸氣將酒水霧化在口腔內感受 其味道。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、紅酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "葡萄酒在用餐禮儀中的品嚐敘述，何者為非？ Swirl是指紅酒倒入杯子後轉動杯子，加速酒與氧氣的接觸，增加香氣 Sight是 指將酒杯微微傾斜，對著光線觀看酒呈現的顏色及光澤 Smell是指將鼻子深入杯 子中，辨識酒類散發的各式香氣 Sip是使用強烈的吸氣將酒水霧化在口腔內感受 其味道。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2008
+  }
+}

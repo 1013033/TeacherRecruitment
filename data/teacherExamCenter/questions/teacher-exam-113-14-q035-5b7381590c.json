@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q035-5b7381590c",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 35 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-16303",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "關於細菌與其感染或傳播途徑之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "沙門氏菌：經常存在人體、家畜及家禽類腸胃內"
+      },
+      {
+        "id": "B",
+        "text": "肉毒桿菌：會經由昆蟲或灰塵傳播而感染食物，致死率高"
+      },
+      {
+        "id": "C",
+        "text": "病原性大腸桿菌：經常存在飲水、土壤及人體腸胃道內"
+      },
+      {
+        "id": "D",
+        "text": "金黃色葡萄球菌：易存在傷口膿瘡，引起細菌性食物中毒"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於細菌與其感染或傳播途徑之敘述，下列何者錯誤？ 沙門氏菌：經常存在人體、家畜及家禽類腸胃內 肉毒桿菌：會經由昆蟲或灰塵傳播而感染食物，致死率高 病原性大腸桿菌：經常存在飲水、土壤及人體腸胃道內 金黃色葡萄球菌：易存在傷口膿瘡，引起細菌性食物中毒 其他：待人工審核 待人工審核",
+    "sequence": 2080
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q036-a884937d7e",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 36 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-16452",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列提供給住宿房客之服務，何者需要額外付費？",
+    "options": [
+      {
+        "id": "A",
+        "text": "wake-up service"
+      },
+      {
+        "id": "B",
+        "text": "lost & found service"
+      },
+      {
+        "id": "C",
+        "text": "turndown service"
+      },
+      {
+        "id": "D",
+        "text": "baby-sitter service"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列提供給住宿房客之服務，何者需要額外付費？ wake-up service lost & found service turndown service baby-sitter service 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2081
+  }
+}

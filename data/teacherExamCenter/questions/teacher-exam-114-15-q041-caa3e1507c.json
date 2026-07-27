@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q041-caa3e1507c",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 41 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-16939",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Digestif"
+      },
+      {
+        "id": "B",
+        "text": "Entrée"
+      },
+      {
+        "id": "C",
+        "text": "Potage"
+      },
+      {
+        "id": "D",
+        "text": "Entremets。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？ Digestif Entrée Potage Entremets。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2331
+  }
+}

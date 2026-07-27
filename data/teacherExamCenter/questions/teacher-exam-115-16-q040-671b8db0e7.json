@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q040-671b8db0e7",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 40 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-15554",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "Which of the following is inappropriate when restaurant customers ask for payment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Would you like a receipt?"
+      },
+      {
+        "id": "B",
+        "text": "Would you like to split the bill?"
+      },
+      {
+        "id": "C",
+        "text": "This is your bill."
+      },
+      {
+        "id": "D",
+        "text": "I’ll show you your table."
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：restaurant"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which of the following is inappropriate when restaurant customers ask for payment? Would you like a receipt? Would you like to split the bill? This is your bill. I’ll show you your table. 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2488
+  }
+}

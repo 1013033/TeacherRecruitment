@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q001-68609a09dd",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 1 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-21088",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 1,
+    "questionType": "multiple-choice",
+    "prompt": "皇天不服苦心人，小美經過不斷地反覆練習，終於順利考取飲調乙級證照，畢業後前往五星級飯 店飲務部擔任實習調酒師。公司規定需要通過調酒、調製方法及正確的裝飾物配對測驗，才能取得正式 調酒師的資格。下列哪些配對是正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gibson: Stir/Cocktail Onion"
+      },
+      {
+        "id": "B",
+        "text": "Flying Grasshopper: Build/Mint Sprig"
+      },
+      {
+        "id": "C",
+        "text": "Kamikaze: Shake/Lemon Wedge"
+      },
+      {
+        "id": "D",
+        "text": "Manhattan: Shake/Cherry"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：調酒、cocktail、manhattan"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "皇天不服苦心人，小美經過不斷地反覆練習，終於順利考取飲調乙級證照，畢業後前往五星級飯 店飲務部擔任實習調酒師。公司規定需要通過調酒、調製方法及正確的裝飾物配對測驗，才能取得正式 調酒師的資格。下列哪些配對是正確的？ Gibson: Stir/Cocktail Onion Flying Grasshopper: Build/Mint Sprig Kamikaze: Shake/Lemon Wedge Manhattan: Shake/Cherry 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2351
+  }
+}

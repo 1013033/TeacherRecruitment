@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q032-a131f0a7b1",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 32 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-22645",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "關於美式服務，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "飲料以右手自客人左後方供應（註：或依標準常規）"
+      },
+      {
+        "id": "B",
+        "text": "所有湯道或菜餚自客人右後方供應"
+      },
+      {
+        "id": "C",
+        "text": "收拾餐具與桌面盤碟時，一律於客人左側收拾"
+      },
+      {
+        "id": "D",
+        "text": "帳單面朝下置於客人左側之桌緣上。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於美式服務，下列敘述何者正確？ 飲料以右手自客人左後方供應（註：或依標準常規） 所有湯道或菜餚自客人右後方供應 收拾餐具與桌面盤碟時，一律於客人左側收拾 帳單面朝下置於客人左側之桌緣上。 其他：待人工審核 待人工審核",
+    "sequence": 3035
+  }
+}

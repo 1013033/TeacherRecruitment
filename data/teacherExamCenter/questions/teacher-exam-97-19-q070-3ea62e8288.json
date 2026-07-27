@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q070-3ea62e8288",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 70 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-14614",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 70,
+    "questionType": "single-choice",
+    "prompt": "下列飲料容積單位之容量順序（大>小）的排列，何者正確？甲：1 Jigger；乙：1 Dash；丙：1 Tablespoon",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲>乙>丙"
+      },
+      {
+        "id": "B",
+        "text": "甲>丙>乙"
+      },
+      {
+        "id": "C",
+        "text": "乙>丙>甲"
+      },
+      {
+        "id": "D",
+        "text": "丙>甲>乙"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：jigger"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列飲料容積單位之容量順序（大>小）的排列，何者正確？甲：1 Jigger；乙：1 Dash；丙：1 Tablespoon 甲>乙>丙 甲>丙>乙 乙>丙>甲 丙>甲>乙 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2965
+  }
+}

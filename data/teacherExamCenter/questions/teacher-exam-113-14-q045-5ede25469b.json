@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q045-5ede25469b",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 45 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38567",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 45,
+    "questionType": "multiple-choice",
+    "prompt": "北美行業分類系統將餐飲業分為四類，下列何者為是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "全服務式餐廳"
+      },
+      {
+        "id": "B",
+        "text": "無人服務式餐廳"
+      },
+      {
+        "id": "C",
+        "text": "有限服務式餐店"
+      },
+      {
+        "id": "D",
+        "text": "特殊餐飲服務"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、餐飲"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "北美行業分類系統將餐飲業分為四類，下列何者為是？ 全服務式餐廳 無人服務式餐廳 有限服務式餐店 特殊餐飲服務 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2232
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q015-add42cd445",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 15 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-1537",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "良質的葡萄酒在商標上有載明葡萄的品種和產地，且標示的葡萄品種使用比率最少要含有：",
+    "options": [
+      {
+        "id": "A",
+        "text": "50%"
+      },
+      {
+        "id": "B",
+        "text": "65%"
+      },
+      {
+        "id": "C",
+        "text": "75%"
+      },
+      {
+        "id": "D",
+        "text": "85% 的含量。（一共 2 頁， ）"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "良質的葡萄酒在商標上有載明葡萄的品種和產地，且標示的葡萄品種使用比率最少要含有： 50% 65% 75% 85% 的含量。（一共 2 頁， ） 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2808
+  }
+}

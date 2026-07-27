@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q005-aed3efd4e8",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 5 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-16616",
+    "paperTitle": "一、單選題（每題二分，共四十分）",
+    "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "巧達湯 (Chowder) 現今是哪一國的名湯？",
+    "options": [
+      {
+        "id": "A",
+        "text": "德國"
+      },
+      {
+        "id": "B",
+        "text": "法國"
+      },
+      {
+        "id": "C",
+        "text": "美國"
+      },
+      {
+        "id": "D",
+        "text": "奧國。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "巧達湯 (Chowder) 現今是哪一國的名湯？ 德國 法國 美國 奧國。 其他：待人工審核 待人工審核",
+    "sequence": 3456
+  }
+}

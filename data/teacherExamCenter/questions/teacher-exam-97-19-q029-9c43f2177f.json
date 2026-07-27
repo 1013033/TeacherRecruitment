@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q029-9c43f2177f",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 29 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-22309",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "下列各國名菜配對，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fish and Chips-The United Kingdom"
+      },
+      {
+        "id": "B",
+        "text": "Paella-Germany"
+      },
+      {
+        "id": "C",
+        "text": "Foie Gras-France"
+      },
+      {
+        "id": "D",
+        "text": "Lasagne-Italy."
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：foie gras"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各國名菜配對，何者錯誤？ Fish and Chips-The United Kingdom Paella-Germany Foie Gras-France Lasagne-Italy. 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3032
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q001-ef622a5e26",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 1 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-193",
+    "paperTitle": "第一部分：選擇題（每題2分，共40分）",
+    "schoolName": "未標示學校",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於住宿設施所提供的服務，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cottage：營地住宿"
+      },
+      {
+        "id": "B",
+        "text": "Lodge：農場民宿"
+      },
+      {
+        "id": "C",
+        "text": "Condominium：分時共享渡假公寓"
+      },
+      {
+        "id": "D",
+        "text": "youth hotel：住宿旅客具有房間的所有權"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於住宿設施所提供的服務，下列敘述何者正確？ Cottage：營地住宿 Lodge：農場民宿 Condominium：分時共享渡假公寓 youth hotel：住宿旅客具有房間的所有權 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3312
+  }
+}

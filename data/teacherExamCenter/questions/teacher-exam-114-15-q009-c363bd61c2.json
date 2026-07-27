@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q009-c363bd61c2",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 9 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-10393",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "餐廳若依照傳統西餐菜單的結構順序出菜，下列哪一種出菜順序是正確的？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hors d'Oeuvre Froid→Potage→Grosse Pièce→Légume→Entremets"
+      },
+      {
+        "id": "B",
+        "text": "Hors d'Oeuvre Chaud→Potage→Poisson→Entrée Chaud→Savoury"
+      },
+      {
+        "id": "C",
+        "text": "Potage→Entrée Froid→Grosse Pièce→Rôti Froid→Dessert"
+      },
+      {
+        "id": "D",
+        "text": "Potage→Poisson→Sorbet→Entrée Chaud→Entremets"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳若依照傳統西餐菜單的結構順序出菜，下列哪一種出菜順序是正確的？ Hors d'Oeuvre Froid→Potage→Grosse Pièce→Légume→Entremets Hors d'Oeuvre Chaud→Potage→Poisson→Entrée Chaud→Savoury Potage→Entrée Froid→Grosse Pièce→Rôti Froid→Dessert Potage→Poisson→Sorbet→Entrée Chaud→Entremets 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2290
+  }
+}

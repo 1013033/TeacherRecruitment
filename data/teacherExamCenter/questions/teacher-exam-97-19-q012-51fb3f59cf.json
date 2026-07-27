@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q012-51fb3f59cf",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 12 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-1164",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "餐廳應用三種口布摺疊，包括（甲）：「大蓮花」、（乙）：「濟公帽」、（丙）：「野玫瑰」。下列關於這三種口布功能的說明，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲：服勤用、乙：服勤用、丙：觀賞用"
+      },
+      {
+        "id": "B",
+        "text": "甲：服勤用、乙：顧客用、丙：觀賞用"
+      },
+      {
+        "id": "C",
+        "text": "甲：觀賞用、乙：顧客用、丙：服勤用"
+      },
+      {
+        "id": "D",
+        "text": "甲：顧客用、乙：服勤用、丙：服勤用。"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳應用三種口布摺疊，包括（甲）：「大蓮花」、（乙）：「濟公帽」、（丙）：「野玫瑰」。下列關於這三種口布功能的說明，何者正確？ 甲：服勤用、乙：服勤用、丙：觀賞用 甲：服勤用、乙：顧客用、丙：觀賞用 甲：觀賞用、乙：顧客用、丙：服勤用 甲：顧客用、乙：服勤用、丙：服勤用。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2805
+  }
+}

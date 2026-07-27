@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q024-7433b5ced6",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 24 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-11752",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立佳冬高級農業職業學校九十八學年度第一次教師甄選【餐飲管理科】筆試試卷",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "西餐烹調中，有關高湯的製作下列何者為非",
+    "options": [
+      {
+        "id": "A",
+        "text": "從冷水中煮起"
+      },
+      {
+        "id": "B",
+        "text": "Brown Stock 的骨頭須經過烤後才可使用"
+      },
+      {
+        "id": "C",
+        "text": "煮高湯不須用蓋子"
+      },
+      {
+        "id": "D",
+        "text": "煮高湯須用大火持續煮之。"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、高湯、煮、烤、stock"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西餐烹調中，有關高湯的製作下列何者為非 從冷水中煮起 Brown Stock 的骨頭須經過烤後才可使用 煮高湯不須用蓋子 煮高湯須用大火持續煮之。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3304
+  }
+}

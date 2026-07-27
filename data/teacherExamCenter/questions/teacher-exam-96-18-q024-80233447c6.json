@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-96-18-q024-80233447c6",
+    "sourceYear": 96,
+    "sourceLabel": "96 年第 24 題",
+    "sourceFile": "96餐旅群教師甄試合併檔(列印) 8頁.md",
+    "sourceLocator": "96餐旅群教師甄試合併檔(列印) 8頁.md#offset-2063",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲科)",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "PATA是指下列那一個組織：",
+    "options": [
+      {
+        "id": "A",
+        "text": "美洲旅遊協會"
+      },
+      {
+        "id": "B",
+        "text": "亞太旅行協會"
+      },
+      {
+        "id": "C",
+        "text": "國際航空運輸協會"
+      },
+      {
+        "id": "D",
+        "text": "東亞觀光協會。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "PATA是指下列那一個組織： 美洲旅遊協會 亞太旅行協會 國際航空運輸協會 東亞觀光協會。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2711
+  }
+}

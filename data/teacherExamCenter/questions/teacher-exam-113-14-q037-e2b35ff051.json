@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q037-e2b35ff051",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 37 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-8879",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 37,
+    "questionType": "multiple-choice",
+    "prompt": "關於白蘭地(Brandy)的敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Champagne 的詞源為石灰地質，故大小香檳區是指土質中石灰含量多寡。"
+      },
+      {
+        "id": "B",
+        "text": "標示 Grande Champagne 屬特級的干邑白蘭地，所用的葡萄是大香檳區與小香檳區 的葡萄，且大香檳區的葡萄不得少於 50%。"
+      },
+      {
+        "id": "C",
+        "text": "殘渣白蘭地(Marc)為製造葡萄酒所剩之渣滓為原料，經過蒸餾、裝桶、儲存等過程 而製成的，在義大利殘渣白蘭地稱為 Grappa、在英國稱為 Pomas Brandy。"
+      },
+      {
+        "id": "D",
+        "text": "常見的白蘭地品牌有：Hennessy、Remy Martin、Camus、Chabot。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、香檳、干邑、白蘭地、champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於白蘭地(Brandy)的敘述，下列何者正確？ Champagne 的詞源為石灰地質，故大小香檳區是指土質中石灰含量多寡。 標示 Grande Champagne 屬特級的干邑白蘭地，所用的葡萄是大香檳區與小香檳區 的葡萄，且大香檳區的葡萄不得少於 50%。 殘渣白蘭地(Marc)為製造葡萄酒所剩之渣滓為原料，經過蒸餾、裝桶、儲存等過程 而製成的，在義大利殘渣白蘭地稱為 Grappa、在英國稱為 Pomas Brandy。 常見的白蘭地品牌有：Hennessy、Remy Martin、Camus、Chabot。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2034
+  }
+}

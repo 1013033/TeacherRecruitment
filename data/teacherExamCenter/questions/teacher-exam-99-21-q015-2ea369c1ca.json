@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q015-2ea369c1ca",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 15 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-2212",
+    "paperTitle": "未標示試卷",
+    "schoolName": "未標示學校",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "以下有關基酒的敘述，何者為錯誤的？ (甲) Vodka 原產於蘇俄，主要原料為馬鈴薯 (乙) Gin 發源於英國，如今荷蘭所產最負盛名 (丙) 含有杜松子的酒，稱為 Rum (丁) Mezcal 是產於美國的一種威士忌，主要的原料為玉米 (戊) 美國 Vodka 的原料多以玉米或小麥等穀類蒸餾而成 (己) Rum 主要產於西印度群島，是以蔗糖為主要原料",
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "B",
+        "text": "乙丙己"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁"
+      },
+      {
+        "id": "D",
+        "text": "丁戊己"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌、vodka、rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下有關基酒的敘述，何者為錯誤的？ (甲) Vodka 原產於蘇俄，主要原料為馬鈴薯 (乙) Gin 發源於英國，如今荷蘭所產最負盛名 (丙) 含有杜松子的酒，稱為 Rum (丁) Mezcal 是產於美國的一種威士忌，主要的原料為玉米 (戊) 美國 Vodka 的原料多以玉米或小麥等穀類蒸餾而成 (己) Rum 主要產於西印度群島，是以蔗糖為主要原料 乙丙丁 乙丙己 甲丙丁 丁戊己 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 3326
+  }
+}

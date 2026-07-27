@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q022-ad5533d88f",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 22 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-22056",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "長榮航空飛行於澳洲雪梨與墨爾本之間的航權，是屬於航空自由的第幾航權？",
+    "options": [
+      {
+        "id": "A",
+        "text": "五"
+      },
+      {
+        "id": "B",
+        "text": "六"
+      },
+      {
+        "id": "C",
+        "text": "七"
+      },
+      {
+        "id": "D",
+        "text": "八。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "長榮航空飛行於澳洲雪梨與墨爾本之間的航權，是屬於航空自由的第幾航權？ 五 六 七 八。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 375
+  }
+}

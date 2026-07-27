@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q018-9468a27766",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 18 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-13791",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "歐陸式早餐（Continental Breakfast）與美式早餐（American Breakfast）所供應的餐食 中，相同者為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "麵包（Bread）"
+      },
+      {
+        "id": "B",
+        "text": "蛋（Eggs）"
+      },
+      {
+        "id": "C",
+        "text": "培根、香腸（Bacons & Sausages）"
+      },
+      {
+        "id": "D",
+        "text": "火腿（Hams）"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：ham"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "歐陸式早餐（Continental Breakfast）與美式早餐（American Breakfast）所供應的餐食 中，相同者為： 麵包（Bread） 蛋（Eggs） 培根、香腸（Bacons & Sausages） 火腿（Hams） 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2063
+  }
+}

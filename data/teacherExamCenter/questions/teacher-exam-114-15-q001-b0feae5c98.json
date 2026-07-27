@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q001-b0feae5c98",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 1 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-9324",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "關於台灣特有飲料的說明，下列有幾項不正確？甲、青草茶的必要原料有仙草、咸豐草、薄荷； 乙、1921 年連橫著作《臺灣通史》記載愛玉子名稱的來源；丙、國內 70%的仙草來自新竹縣關西鎮； 丁、生豆漿加水燒開，持續煮5 分鐘，可將皂素煮掉；戊、古早味酸梅湯是以洛神、仙楂、烏梅與甘草 為主要配方；己、臺灣三大古早冷飲是楊桃茶、甘蔗汁、青草茶",
+    "options": [
+      {
+        "id": "A",
+        "text": "一項"
+      },
+      {
+        "id": "B",
+        "text": "二項"
+      },
+      {
+        "id": "C",
+        "text": "三項"
+      },
+      {
+        "id": "D",
+        "text": "四項"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於台灣特有飲料的說明，下列有幾項不正確？甲、青草茶的必要原料有仙草、咸豐草、薄荷； 乙、1921 年連橫著作《臺灣通史》記載愛玉子名稱的來源；丙、國內 70%的仙草來自新竹縣關西鎮； 丁、生豆漿加水燒開，持續煮5 分鐘，可將皂素煮掉；戊、古早味酸梅湯是以洛神、仙楂、烏梅與甘草 為主要配方；己、臺灣三大古早冷飲是楊桃茶、甘蔗汁、青草茶 一項 二項 三項 四項 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2282
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q007-8984f748f0",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 7 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-671",
+    "paperTitle": "第一部分：選擇題（每題 2 分，共 40 分）",
+    "schoolName": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列中式筵席菜餚上菜順序的原則，何者正確？甲：先炒後燒 乙：先甜後鹹 丙：先普通後精緻 丁：先冷菜後熱菜",
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙"
+      },
+      {
+        "id": "C",
+        "text": "丙丁"
+      },
+      {
+        "id": "D",
+        "text": "甲丁。"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：炒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列中式筵席菜餚上菜順序的原則，何者正確？甲：先炒後燒 乙：先甜後鹹 丙：先普通後精緻 丁：先冷菜後熱菜 甲乙 乙丙 丙丁 甲丁。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2800
+  }
+}

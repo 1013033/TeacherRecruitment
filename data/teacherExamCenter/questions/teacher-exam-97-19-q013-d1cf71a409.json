@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q013-d1cf71a409",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 13 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-5012",
+    "paperTitle": "一、單選題（50 題每題 2 分共 100 分）",
+    "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "專業在廚房燒烤、碳烤的廚師名稱為：",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rôtisseur"
+      },
+      {
+        "id": "B",
+        "text": "Poissonier"
+      },
+      {
+        "id": "C",
+        "text": "Pantry Chef"
+      },
+      {
+        "id": "D",
+        "text": "Potage"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "專業在廚房燒烤、碳烤的廚師名稱為： Rôtisseur Poissonier Pantry Chef Potage 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2858
+  }
+}

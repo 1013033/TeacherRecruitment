@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q002-1461845139",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 2 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-446",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "韓國天團BTS預計於2026年11月19、21、22日於高雄舉辦世界巡迴演唱會，從日期公 告開始，粉絲開始訂房，活動期間高雄地區大小飯店一房難求，請問以上現象為旅宿 業何種特性？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Perishability"
+      },
+      {
+        "id": "B",
+        "text": "Rigidity"
+      },
+      {
+        "id": "C",
+        "text": "Hospitality"
+      },
+      {
+        "id": "D",
+        "text": "Persistency。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店、訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "韓國天團BTS預計於2026年11月19、21、22日於高雄舉辦世界巡迴演唱會，從日期公 告開始，粉絲開始訂房，活動期間高雄地區大小飯店一房難求，請問以上現象為旅宿 業何種特性？ Perishability Rigidity Hospitality Persistency。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2401
+  }
+}

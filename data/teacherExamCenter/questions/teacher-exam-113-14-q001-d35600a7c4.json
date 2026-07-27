@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q001-d35600a7c4",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 1 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-9560",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns. (6 分)",
+    "options": [
+      {
+        "id": "A",
+        "text": "egg sandwich"
+      },
+      {
+        "id": "B",
+        "text": "scones"
+      },
+      {
+        "id": "C",
+        "text": "butter and jam"
+      },
+      {
+        "id": "D",
+        "text": "small cakes"
+      },
+      {
+        "id": "E",
+        "text": "Madeleines (F) Victoria Sponge (G) finger sandwiches (H) tarts ( I ) samll savories ( J) Mini grilled chicken quiche 3rd Course D、 E、 F、H 2nd Course B、C、H 1st Course A、G、I、J"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns. (6 分) egg sandwich scones butter and jam small cakes Madeleines (F) Victoria Sponge (G) finger sandwiches (H) tarts ( I ) samll savories ( J) Mini grilled chicken quiche 3rd Course D、 E、 F、H 2nd Course B、C、H 1st Course A、G、I、J 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2038
+  }
+}

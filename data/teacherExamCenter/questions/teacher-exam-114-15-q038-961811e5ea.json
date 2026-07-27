@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q038-961811e5ea",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 38 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-16015",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "Customer: Excuse me, is there a table available for us? Server: Yes, madam. __________ Customer: There are four of us.",
+    "options": [
+      {
+        "id": "A",
+        "text": "What time do you want to leave?"
+      },
+      {
+        "id": "B",
+        "text": "Are you ready to order?"
+      },
+      {
+        "id": "C",
+        "text": "How many people are in your group?"
+      },
+      {
+        "id": "D",
+        "text": "Do you have a reservation?"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：reservation"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Customer: Excuse me, is there a table available for us? Server: Yes, madam. __________ Customer: There are four of us. What time do you want to leave? Are you ready to order? How many people are in your group? Do you have a reservation? 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2328
+  }
+}

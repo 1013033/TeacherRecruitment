@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q003-c04881bcf4",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 3 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-30176",
+    "paperTitle": "選擇題：每題 1 分",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列那類餐廳通常均設有開放式廚房？",
+    "options": [
+      {
+        "id": "A",
+        "text": "餐桌服務餐廳"
+      },
+      {
+        "id": "B",
+        "text": "櫃檯服務餐廳"
+      },
+      {
+        "id": "C",
+        "text": "自助餐式餐廳"
+      },
+      {
+        "id": "D",
+        "text": "速簡餐廳。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：櫃檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列那類餐廳通常均設有開放式廚房？ 餐桌服務餐廳 櫃檯服務餐廳 自助餐式餐廳 速簡餐廳。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3123
+  }
+}

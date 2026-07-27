@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q003-80bcb86119",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 3 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-34890",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列各時事，何者發生之日期最晚？",
+    "options": [
+      {
+        "id": "A",
+        "text": "強制休假補助費改為國民旅遊卡方式辦理"
+      },
+      {
+        "id": "B",
+        "text": "以 “Touch Your Heart”圖樣做為觀光局新局徽"
+      },
+      {
+        "id": "C",
+        "text": "外交部核發機器可判讀護照（MRP）"
+      },
+      {
+        "id": "D",
+        "text": "全面開放大陸 人士來臺觀光"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列各時事，何者發生之日期最晚？ 強制休假補助費改為國民旅遊卡方式辦理 以 “Touch Your Heart”圖樣做為觀光局新局徽 外交部核發機器可判讀護照（MRP） 全面開放大陸 人士來臺觀光 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2190
+  }
+}

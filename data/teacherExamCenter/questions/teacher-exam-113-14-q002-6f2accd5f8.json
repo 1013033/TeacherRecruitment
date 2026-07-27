@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q002-6f2accd5f8",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 2 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-29255",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "臺灣素來有「自行車王國」的美譽，壯闊的山海景色結合全球知名的自行車 公司，打造享譽國際的自行車旅遊品牌。今年交通部針對全台各地不同地方特 色，發展出多樣化且豐富的「臺灣自行車旅遊節」特色遊程。下列選項何者非 此次的活動主軸？",
+    "options": [
+      {
+        "id": "A",
+        "text": "臺灣自行車登山王挑戰KOM"
+      },
+      {
+        "id": "B",
+        "text": "騎遇福爾摩沙FORMOSA900"
+      },
+      {
+        "id": "C",
+        "text": "Light up Taiwan極點慢旅"
+      },
+      {
+        "id": "D",
+        "text": "馬祖跳島追淚168"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣素來有「自行車王國」的美譽，壯闊的山海景色結合全球知名的自行車 公司，打造享譽國際的自行車旅遊品牌。今年交通部針對全台各地不同地方特 色，發展出多樣化且豐富的「臺灣自行車旅遊節」特色遊程。下列選項何者非 此次的活動主軸？ 臺灣自行車登山王挑戰KOM 騎遇福爾摩沙FORMOSA900 Light up Taiwan極點慢旅 馬祖跳島追淚168 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2148
+  }
+}

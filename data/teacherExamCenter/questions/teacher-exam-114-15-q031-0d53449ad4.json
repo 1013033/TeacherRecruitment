@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q031-0d53449ad4",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 31 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-14449",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "在西式餐廳的傳統服務體系中， 「Commis de Débarrasseur」職位的工作內容為何？",
+    "options": [
+      {
+        "id": "A",
+        "text": "負責接待客人、點菜並提供桌邊服務"
+      },
+      {
+        "id": "B",
+        "text": "負責清理餐桌、整理餐具並協助備餐與補水"
+      },
+      {
+        "id": "C",
+        "text": "負責監督整體餐廳營運"
+      },
+      {
+        "id": "D",
+        "text": "負責點菜、送餐，同時能協助桌邊展示與烹飾"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在西式餐廳的傳統服務體系中， 「Commis de Débarrasseur」職位的工作內容為何？ 負責接待客人、點菜並提供桌邊服務 負責清理餐桌、整理餐具並協助備餐與補水 負責監督整體餐廳營運 負責點菜、送餐，同時能協助桌邊展示與烹飾 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2321
+  }
+}

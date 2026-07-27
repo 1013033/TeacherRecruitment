@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q008-679d6cb484",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 8 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20558",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列關於旅館業的敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "渡假旅館有多樣的休閒娛樂設施"
+      },
+      {
+        "id": "B",
+        "text": "公寓式旅館較可能有廚房設備"
+      },
+      {
+        "id": "C",
+        "text": "商業旅館之住房淡旺季比其他類型旅館明顯"
+      },
+      {
+        "id": "D",
+        "text": "汽車旅館的營業收入甚少來自餐飲。"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列關於旅館業的敘述，何者錯誤？ 渡假旅館有多樣的休閒娛樂設施 公寓式旅館較可能有廚房設備 商業旅館之住房淡旺季比其他類型旅館明顯 汽車旅館的營業收入甚少來自餐飲。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 361
+  }
+}

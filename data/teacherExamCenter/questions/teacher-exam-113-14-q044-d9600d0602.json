@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q044-d9600d0602",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 44 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38449",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 44,
+    "questionType": "multiple-choice",
+    "prompt": "下列各單位的住宿設施與其主管機關之敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "澎湖青年活動中心由體育委員會管 轄"
+      },
+      {
+        "id": "B",
+        "text": "台北國軍英雄館由台北市政府管轄"
+      },
+      {
+        "id": "C",
+        "text": "日月潭教師會館由教育部管轄"
+      },
+      {
+        "id": "D",
+        "text": "清境農場由行政 院退除役官兵輔導委員會管轄"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各單位的住宿設施與其主管機關之敘述，何者錯誤？ 澎湖青年活動中心由體育委員會管 轄 台北國軍英雄館由台北市政府管轄 日月潭教師會館由教育部管轄 清境農場由行政 院退除役官兵輔導委員會管轄 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2231
+  }
+}

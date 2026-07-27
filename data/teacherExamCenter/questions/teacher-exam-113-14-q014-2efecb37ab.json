@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q014-2efecb37ab",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 14 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-13266",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "由客人自行取食或由服務人員為客人依其所需取菜之計價方式，是下列哪 一種餐廳 型態？",
+    "options": [
+      {
+        "id": "A",
+        "text": "buffet restaurant"
+      },
+      {
+        "id": "B",
+        "text": "cafeteria restaurant"
+      },
+      {
+        "id": "C",
+        "text": "fast food restaurant"
+      },
+      {
+        "id": "D",
+        "text": "specialty restaurant"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、restaurant"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "由客人自行取食或由服務人員為客人依其所需取菜之計價方式，是下列哪 一種餐廳 型態？ buffet restaurant cafeteria restaurant fast food restaurant specialty restaurant 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2059
+  }
+}

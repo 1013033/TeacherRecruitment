@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q048-56faab614d",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 48 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-38828",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 48,
+    "questionType": "multiple-choice",
+    "prompt": "以下哪一個國家未與我國簽署「Working Holiday Visa」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "英國"
+      },
+      {
+        "id": "B",
+        "text": "泰國"
+      },
+      {
+        "id": "C",
+        "text": "美國"
+      },
+      {
+        "id": "D",
+        "text": "日本"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：visa"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下哪一個國家未與我國簽署「Working Holiday Visa」？ 英國 泰國 美國 日本 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2235
+  }
+}

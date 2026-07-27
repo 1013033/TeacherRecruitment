@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q029-ef8f847528",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 29 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-6781",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 29,
+    "questionType": "multiple-choice",
+    "prompt": "以下為各國料理介紹，請問以下敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "日本料理→又稱合食，烹調簡單保持材料本身的風味，非常重視五感(視聽嗅味觸)"
+      },
+      {
+        "id": "B",
+        "text": "韓式料理→料理特色少油多辣，伴隨熱湯同食，有陰陽五行的精神，將五味(甜酸 苦辣鹹)及五色(黃綠紅白黑)融入菜餚中"
+      },
+      {
+        "id": "C",
+        "text": "義式料理→又稱地中海飲食，講求天然，Lasagna、Paella、Salami 都是代表菜餚"
+      },
+      {
+        "id": "D",
+        "text": "法式料理→使用新鮮當令食材與廚師獨特的調理手法，Foie Gras、Truffle、Caviar 號稱法國三大珍寶。"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烹調、foie gras"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "以下為各國料理介紹，請問以下敘述何者錯誤？ 日本料理→又稱合食，烹調簡單保持材料本身的風味，非常重視五感(視聽嗅味觸) 韓式料理→料理特色少油多辣，伴隨熱湯同食，有陰陽五行的精神，將五味(甜酸 苦辣鹹)及五色(黃綠紅白黑)融入菜餚中 義式料理→又稱地中海飲食，講求天然，Lasagna、Paella、Salami 都是代表菜餚 法式料理→使用新鮮當令食材與廚師獨特的調理手法，Foie Gras、Truffle、Caviar 號稱法國三大珍寶。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2026
+  }
+}

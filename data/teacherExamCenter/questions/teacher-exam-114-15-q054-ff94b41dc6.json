@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q054-ff94b41dc6",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 54 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-19442",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 54,
+    "questionType": "single-choice",
+    "prompt": "咖啡的金杯理論提供了科學化的算式，透過量化指標，更能精確地沖煮一杯咖啡，達成一致的風味， 若TDS=1.5%、水16：1咖啡粉，咖啡粉量共20g，而咖啡粉的吸水量為15%，就以上數據，請問EXT, Extraction Percentage是多少？",
+    "options": [
+      {
+        "id": "A",
+        "text": "18%"
+      },
+      {
+        "id": "B",
+        "text": "20%"
+      },
+      {
+        "id": "C",
+        "text": "22%"
+      },
+      {
+        "id": "D",
+        "text": "23%"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "咖啡的金杯理論提供了科學化的算式，透過量化指標，更能精確地沖煮一杯咖啡，達成一致的風味， 若TDS=1.5%、水16：1咖啡粉，咖啡粉量共20g，而咖啡粉的吸水量為15%，就以上數據，請問EXT, Extraction Percentage是多少？ 18% 20% 22% 23% 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2344
+  }
+}

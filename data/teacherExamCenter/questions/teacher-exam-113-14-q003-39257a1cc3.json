@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q003-39257a1cc3",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 3 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-29465",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "住台北的小齊到高雄參加知名韓團的演唱會，事先以信用卡預付訂金訂了家 家大飯店一間典雅雙人房，但在入住飯店的前一日，因為身體不適無法參加， 若小齊要與家家大飯店解約，家家大飯店需退還訂金比例之",
+    "options": [
+      {
+        "id": "A",
+        "text": "40%"
+      },
+      {
+        "id": "B",
+        "text": "30%"
+      },
+      {
+        "id": "C",
+        "text": "20%"
+      },
+      {
+        "id": "D",
+        "text": "0%"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "住台北的小齊到高雄參加知名韓團的演唱會，事先以信用卡預付訂金訂了家 家大飯店一間典雅雙人房，但在入住飯店的前一日，因為身體不適無法參加， 若小齊要與家家大飯店解約，家家大飯店需退還訂金比例之 40% 30% 20% 0% 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2149
+  }
+}

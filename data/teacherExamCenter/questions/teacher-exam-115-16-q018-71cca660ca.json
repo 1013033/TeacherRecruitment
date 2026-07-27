@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q018-71cca660ca",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 18 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-3849",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "酒水為餐廳盈收的重要一環，員工需具備酒類相關知識。中式白酒依香型可分為五 類，下列敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "貴州茅台-兼香酒"
+      },
+      {
+        "id": "B",
+        "text": "五糧液-濃香酒"
+      },
+      {
+        "id": "C",
+        "text": "桂林三花酒-清香酒"
+      },
+      {
+        "id": "D",
+        "text": "汾酒-米香酒。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：白酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "酒水為餐廳盈收的重要一環，員工需具備酒類相關知識。中式白酒依香型可分為五 類，下列敘述何者正確？ 貴州茅台-兼香酒 五糧液-濃香酒 桂林三花酒-清香酒 汾酒-米香酒。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2417
+  }
+}

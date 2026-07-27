@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q019-6d504e060a",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 19 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-13457",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於調酒使用的基酒之敘述，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brandy係以葡萄或水果為原料，經發酵、蒸餾後再儲存於橡木桶中的高濃度烈酒"
+      },
+      {
+        "id": "B",
+        "text": "Gin又稱為生命之水，是俄羅斯人民最常飲用的高濃度酒精酒"
+      },
+      {
+        "id": "C",
+        "text": "Gin 有兩種製作方法，一是經過蒸餾過程而製成的酒，一是添加杜松子香料的合成酒"
+      },
+      {
+        "id": "D",
+        "text": "Rum係以甘蔗為原料，經發酵釀造而成。"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：brandy、rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於調酒使用的基酒之敘述，何者錯誤？ Brandy係以葡萄或水果為原料，經發酵、蒸餾後再儲存於橡木桶中的高濃度烈酒 Gin又稱為生命之水，是俄羅斯人民最常飲用的高濃度酒精酒 Gin 有兩種製作方法，一是經過蒸餾過程而製成的酒，一是添加杜松子香料的合成酒 Rum係以甘蔗為原料，經發酵釀造而成。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2686
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q033-de64ec9d86",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 33 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-14945",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "Which of the following ingredients is NOT typically found in a classic「Caesar Salad」?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Croutons"
+      },
+      {
+        "id": "B",
+        "text": "Mayonnaise"
+      },
+      {
+        "id": "C",
+        "text": "Parmesan Cheese"
+      },
+      {
+        "id": "D",
+        "text": "Romaine Lettuce"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：caesar salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "Which of the following ingredients is NOT typically found in a classic「Caesar Salad」? Croutons Mayonnaise Parmesan Cheese Romaine Lettuce 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2323
+  }
+}

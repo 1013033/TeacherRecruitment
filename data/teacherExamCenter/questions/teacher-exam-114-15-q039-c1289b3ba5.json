@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q039-c1289b3ba5",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 39 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-16282",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "Customer: I can’t finish this sandwich, so I’d like to take it with me. __________ Waitress: Certainly. I’ll pack it up for you right away.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Could you take it away?"
+      },
+      {
+        "id": "B",
+        "text": "Would you clear the table?"
+      },
+      {
+        "id": "C",
+        "text": "Could you pack it up for me?"
+      },
+      {
+        "id": "D",
+        "text": "Do you mind if I take it home? 請依照以下所提供之菜單訊息，回答第40 ～43 題。 Bourride、Pan-fried Red Snapper 、Caipirinha、Souffle"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Customer: I can’t finish this sandwich, so I’d like to take it with me. __________ Waitress: Certainly. I’ll pack it up for you right away. Could you take it away? Would you clear the table? Could you pack it up for me? Do you mind if I take it home? 請依照以下所提供之菜單訊息，回答第40 ～43 題。 Bourride、Pan-fried Red Snapper 、Caipirinha、Souffle 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2329
+  }
+}

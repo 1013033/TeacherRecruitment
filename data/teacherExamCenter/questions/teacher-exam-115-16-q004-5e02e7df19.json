@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q004-5e02e7df19",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 4 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-18524",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "關於葡萄酒的標示與服務，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "法國產區管制法律（A.O.C.）中，級別越高代表規範越嚴格，產區範圍通常越小"
+      },
+      {
+        "id": "B",
+        "text": "為了展現專業，紅葡萄酒不論年份久遠，皆必須進行「換瓶（Decanting）」"
+      },
+      {
+        "id": "C",
+        "text": "香檳（Champagne）若標示為「Brut」，代表其口感極甜"
+      },
+      {
+        "id": "D",
+        "text": "白葡萄酒開瓶後，應立即倒入大容量的氣球型杯（Balloon Glass）中醒酒。"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒、香檳、champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於葡萄酒的標示與服務，下列何者正確？ 法國產區管制法律（A.O.C.）中，級別越高代表規範越嚴格，產區範圍通常越小 為了展現專業，紅葡萄酒不論年份久遠，皆必須進行「換瓶（Decanting）」 香檳（Champagne）若標示為「Brut」，代表其口感極甜 白葡萄酒開瓶後，應立即倒入大容量的氣球型杯（Balloon Glass）中醒酒。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2502
+  }
+}

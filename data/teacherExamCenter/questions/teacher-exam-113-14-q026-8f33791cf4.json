@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q026-8f33791cf4",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 26 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-15132",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "機票的所有特殊限制，均會加註 Non reroutable，其中文意義敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "不准更改行程"
+      },
+      {
+        "id": "B",
+        "text": "不准退票"
+      },
+      {
+        "id": "C",
+        "text": "無餐食提供"
+      },
+      {
+        "id": "D",
+        "text": "禁止背書轉讓"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "機票的所有特殊限制，均會加註 Non reroutable，其中文意義敘述何者正確？ 不准更改行程 不准退票 無餐食提供 禁止背書轉讓 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2071
+  }
+}

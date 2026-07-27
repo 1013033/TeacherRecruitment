@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q010-3b04da7d50",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 10 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-14413",
+    "paperTitle": "一、選擇題：每題 2 分，共 40%",
+    "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "「Catering」是指？",
+    "options": [
+      {
+        "id": "A",
+        "text": "速食餐廳"
+      },
+      {
+        "id": "B",
+        "text": "機關團體餐廳"
+      },
+      {
+        "id": "C",
+        "text": "自助餐"
+      },
+      {
+        "id": "D",
+        "text": "外燴。"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：餐廳、外燴、catering"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「Catering」是指？ 速食餐廳 機關團體餐廳 自助餐 外燴。 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 3434
+  }
+}

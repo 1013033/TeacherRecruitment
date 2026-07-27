@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q001-33fdc3591c",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 1 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-311",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "博奕娛樂業是指博彩設備、娛樂設施、住宿及餐飲...等的設施場所，但在世界上也具 有些許爭議，部分國家尚未合法化。請問下列哪些城市組合是賭場合法化的組合？",
+    "options": [
+      {
+        "id": "A",
+        "text": "SIN、MCM、JNB"
+      },
+      {
+        "id": "B",
+        "text": "MFK、MFM、LAS"
+      },
+      {
+        "id": "C",
+        "text": "CNX、MEL、ACY"
+      },
+      {
+        "id": "D",
+        "text": "ICN、SYD、OKA。"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "博奕娛樂業是指博彩設備、娛樂設施、住宿及餐飲...等的設施場所，但在世界上也具 有些許爭議，部分國家尚未合法化。請問下列哪些城市組合是賭場合法化的組合？ SIN、MCM、JNB MFK、MFM、LAS CNX、MEL、ACY ICN、SYD、OKA。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 1998
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q015-895af548d1",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 15 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-3018",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "啤酒的釀製需要經過層層步驟，才能完成，請問以下的步驟敘述何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mashing-在粉碎的麥芽中加入熱水，利用麥芽中的蛋白質將麥粒中的澱粉轉化為糖。"
+      },
+      {
+        "id": "B",
+        "text": "Fermentation-加入酵母菌進行發酵，糖會被分解成酒精和二氧化碳。"
+      },
+      {
+        "id": "C",
+        "text": "Aging-又稱為後發酵，釀好的啤酒冷藏 2 個月，殘留的糖會繼續發酵。"
+      },
+      {
+        "id": "D",
+        "text": "將生啤酒裝瓶，以 60~65 度的熱水淋 30 分鐘殺菌，終止發酵。"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "啤酒的釀製需要經過層層步驟，才能完成，請問以下的步驟敘述何者錯誤？ Mashing-在粉碎的麥芽中加入熱水，利用麥芽中的蛋白質將麥粒中的澱粉轉化為糖。 Fermentation-加入酵母菌進行發酵，糖會被分解成酒精和二氧化碳。 Aging-又稱為後發酵，釀好的啤酒冷藏 2 個月，殘留的糖會繼續發酵。 將生啤酒裝瓶，以 60~65 度的熱水淋 30 分鐘殺菌，終止發酵。 其他：待人工審核 待人工審核",
+    "sequence": 2414
+  }
+}

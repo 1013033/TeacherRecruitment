@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q016-89256cebbc",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 16 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-20843",
+    "paperTitle": "一、單選題（40 題每題 2 分共計 80 分）",
+    "schoolName": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "overnight allowance 是指",
+    "options": [
+      {
+        "id": "A",
+        "text": "護照遺失"
+      },
+      {
+        "id": "B",
+        "text": "行李遺失"
+      },
+      {
+        "id": "C",
+        "text": "旅行支票遺失"
+      },
+      {
+        "id": "D",
+        "text": "簽證遺失的賠償金額。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：護照、簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "overnight allowance 是指 護照遺失 行李遺失 旅行支票遺失 簽證遺失的賠償金額。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3019
+  }
+}

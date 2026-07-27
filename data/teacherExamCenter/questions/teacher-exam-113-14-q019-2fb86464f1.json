@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q019-2fb86464f1",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 19 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-36248",
+    "paperTitle": "國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷",
+    "schoolName": "國立金門高級農工職業學校",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "由投資者親自經營或聘請專業經理人管理，可自行設定營運目標、策略、菜單與格局裝潢等，屬 於",
+    "options": [
+      {
+        "id": "A",
+        "text": "直營連鎖"
+      },
+      {
+        "id": "B",
+        "text": "合夥經營"
+      },
+      {
+        "id": "C",
+        "text": "獨資經營"
+      },
+      {
+        "id": "D",
+        "text": "委任加盟"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "由投資者親自經營或聘請專業經理人管理，可自行設定營運目標、策略、菜單與格局裝潢等，屬 於 直營連鎖 合夥經營 獨資經營 委任加盟 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2206
+  }
+}

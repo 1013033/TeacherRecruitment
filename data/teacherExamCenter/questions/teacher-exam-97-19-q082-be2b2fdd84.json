@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q082-be2b2fdd84",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 82 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-16188",
+    "paperTitle": "未標示試卷",
+    "schoolName": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+    "questionNumber": 82,
+    "questionType": "single-choice",
+    "prompt": "依據用餐禮儀原則，西餐用餐用到一半，刀叉應如何擺放較適當？",
+    "options": [
+      {
+        "id": "A",
+        "text": "刀、叉交叉，置放於餐盤內"
+      },
+      {
+        "id": "B",
+        "text": "刀、叉分別置放於原餐桌桌面上之擺放位置"
+      },
+      {
+        "id": "C",
+        "text": "刀、叉平行並排，斜放於餐盤內或擺放於原桌位置"
+      },
+      {
+        "id": "D",
+        "text": "刀、叉分別置放於盤右、盤左側，一端放於盤緣、另一端置於桌面上"
+      }
+    ],
+    "answer": "D",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據用餐禮儀原則，西餐用餐用到一半，刀叉應如何擺放較適當？ 刀、叉交叉，置放於餐盤內 刀、叉分別置放於原餐桌桌面上之擺放位置 刀、叉平行並排，斜放於餐盤內或擺放於原桌位置 刀、叉分別置放於盤右、盤左側，一端放於盤緣、另一端置於桌面上 其他：待人工審核 待人工審核",
+    "sequence": 2977
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q020-32e9837448",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 20 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-21256",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "依現代西餐菜單排列原則，下列出菜順序何者正確？ (1)Beef Stewed in Red Wine (2)Cream of Pumpkin Soup (3)Ham & M e l o n ( 4 ) I r i s h C o f f e e ( 5 ) M u s s e l s ( 6)Soufflé (7)Cheese",
+    "options": [
+      {
+        "id": "A",
+        "text": "5216734"
+      },
+      {
+        "id": "B",
+        "text": "5231764"
+      },
+      {
+        "id": "C",
+        "text": "3251764"
+      },
+      {
+        "id": "D",
+        "text": "2531764 二 綜合題 （共計 20 分）"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：beef、ham"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "依現代西餐菜單排列原則，下列出菜順序何者正確？ (1)Beef Stewed in Red Wine (2)Cream of Pumpkin Soup (3)Ham & M e l o n ( 4 ) I r i s h C o f f e e ( 5 ) M u s s e l s ( 6)Soufflé (7)Cheese 5216734 5231764 3251764 2531764 二 綜合題 （共計 20 分） 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2518
+  }
+}

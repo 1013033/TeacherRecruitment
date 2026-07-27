@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q034-1623652390",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 34 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-8045",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 34,
+    "questionType": "multiple-choice",
+    "prompt": "大林是一位新進的調酒實習生，公司規定大林需要通過調酒、杯型及基酒的配對測 驗，方能成為正式的調酒師，下列哪些配對是錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kamikaze-Old Fashion Glass-V odka"
+      },
+      {
+        "id": "B",
+        "text": "Strawberry Night-Cocktail Glass-Rum"
+      },
+      {
+        "id": "C",
+        "text": "Scorpion-Highball-Rum"
+      },
+      {
+        "id": "D",
+        "text": "Stinger- Old Fashion Glass-V odka。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：調酒、cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "大林是一位新進的調酒實習生，公司規定大林需要通過調酒、杯型及基酒的配對測 驗，方能成為正式的調酒師，下列哪些配對是錯誤？ Kamikaze-Old Fashion Glass-V odka Strawberry Night-Cocktail Glass-Rum Scorpion-Highball-Rum Stinger- Old Fashion Glass-V odka。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2271
+  }
+}

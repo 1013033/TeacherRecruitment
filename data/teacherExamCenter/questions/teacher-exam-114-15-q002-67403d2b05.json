@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q002-67403d2b05",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 2 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-21361",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 2,
+    "questionType": "multiple-choice",
+    "prompt": "威士忌有「生命之水」的美稱，關於威士忌之敘述，下列何者正確?",
+    "options": [
+      {
+        "id": "A",
+        "text": "威士忌是由搗碎穀物發酵、蒸餾後，至於橡木桶中熟成製成的烈性酒。"
+      },
+      {
+        "id": "B",
+        "text": "美國威士忌中著名的波本威士忌玉米含量須達51%以上，需儲放於新烤過橡木桶中，陳年2年以上"
+      },
+      {
+        "id": "C",
+        "text": "日本威士忌釀製方法已是多種穀物蒸餾後，立即混合再裝捅儲存，被稱為「最清淡的威士忌」"
+      },
+      {
+        "id": "D",
+        "text": "愛爾蘭威士忌以單式蒸餾器蒸餾3 次，再至橡木桶內陳年至少3年。"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "威士忌有「生命之水」的美稱，關於威士忌之敘述，下列何者正確? 威士忌是由搗碎穀物發酵、蒸餾後，至於橡木桶中熟成製成的烈性酒。 美國威士忌中著名的波本威士忌玉米含量須達51%以上，需儲放於新烤過橡木桶中，陳年2年以上 日本威士忌釀製方法已是多種穀物蒸餾後，立即混合再裝捅儲存，被稱為「最清淡的威士忌」 愛爾蘭威士忌以單式蒸餾器蒸餾3 次，再至橡木桶內陳年至少3年。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2352
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-98-20-q006-9aef64e79b",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 6 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-1021",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "我國旅館房價表上所列之「Room Rate」，何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "內含 5% TAX 及 S/C"
+      },
+      {
+        "id": "B",
+        "text": "內含 5% TAX，不含 S/C"
+      },
+      {
+        "id": "C",
+        "text": "內含 S/C，不含 5% TAX"
+      },
+      {
+        "id": "D",
+        "text": "S/C 及 5% TAX 都不含。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國旅館房價表上所列之「Room Rate」，何者正確？ 內含 5% TAX 及 S/C 內含 5% TAX，不含 S/C 內含 S/C，不含 5% TAX S/C 及 5% TAX 都不含。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 3189
+  }
+}

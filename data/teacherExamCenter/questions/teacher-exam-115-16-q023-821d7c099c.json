@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q023-821d7c099c",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 23 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-12576",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "根據觀光署相關資料顯示，下列何處，曾被全球永續旅遊委員會（Global Sustainable Tourism Council, GSTC）認證通過（Accredited）為綠色目的地（Green Destinations） 金質獎章？",
+    "options": [
+      {
+        "id": "A",
+        "text": "東部海岸國家風景區"
+      },
+      {
+        "id": "B",
+        "text": "東北角及宜蘭海岸國家風景區"
+      },
+      {
+        "id": "C",
+        "text": "日月潭國家風景區"
+      },
+      {
+        "id": "D",
+        "text": "澎湖國家風景區"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅概論",
+    "unit": "觀光餐旅基礎",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅產業、行銷與永續",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "qili-tourism-hospitality-practice",
+        "note": "命中關鍵詞：觀光、永續、tourism、sustainable"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "根據觀光署相關資料顯示，下列何處，曾被全球永續旅遊委員會（Global Sustainable Tourism Council, GSTC）認證通過（Accredited）為綠色目的地（Green Destinations） 金質獎章？ 東部海岸國家風景區 東北角及宜蘭海岸國家風景區 日月潭國家風景區 澎湖國家風景區 觀光餐旅產業、行銷與永續 觀光餐旅基礎",
+    "sequence": 2471
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q006-e506e1af30",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 6 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-9995",
+    "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+    "schoolName": "國立馬祖高級中學",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "源於德國，規定釀造原料只能有大麥芽、小麥芽、啤酒花、酵母和水，且小麥含量必須超過50%， 以上層發酵方式釀造，是指下列哪一種啤酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Weizen"
+      },
+      {
+        "id": "B",
+        "text": "Pale Lager"
+      },
+      {
+        "id": "C",
+        "text": "Draught Beer"
+      },
+      {
+        "id": "D",
+        "text": "Brown Ale"
+      }
+    ],
+    "answer": "A",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "源於德國，規定釀造原料只能有大麥芽、小麥芽、啤酒花、酵母和水，且小麥含量必須超過50%， 以上層發酵方式釀造，是指下列哪一種啤酒？ Weizen Pale Lager Draught Beer Brown Ale 其他：待人工審核 待人工審核",
+    "sequence": 2287
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-94-17-q035-f158077c6a",
+    "sourceYear": 94,
+    "sourceLabel": "94 年第 35 題",
+    "sourceFile": "94.95餐旅群教師甄試合併檔(列印) 9頁.md",
+    "sourceLocator": "94.95餐旅群教師甄試合併檔(列印) 9頁.md#offset-3351",
+    "paperTitle": "未標示試卷",
+    "schoolName": "教師甄選參考題目(餐飲管理科)",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "Sherry 酒釀製之特色下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "運用Solera 系統取酒，年輕的酒，桶在下；陳年的酒，桶在上"
+      },
+      {
+        "id": "B",
+        "text": "在醱酵後加入石膏產生 Flor 現象"
+      },
+      {
+        "id": "C",
+        "text": "因加入 Brandy 使其醱酵停止，糖分提高"
+      },
+      {
+        "id": "D",
+        "text": "置於瓶內陳年稱 BottleAged。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：brandy、sherry"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Sherry 酒釀製之特色下列何者正確？ 運用Solera 系統取酒，年輕的酒，桶在下；陳年的酒，桶在上 在醱酵後加入石膏產生 Flor 現象 因加入 Brandy 使其醱酵停止，糖分提高 置於瓶內陳年稱 BottleAged。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2561
+  }
+}

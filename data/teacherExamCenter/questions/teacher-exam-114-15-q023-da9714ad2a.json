@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q023-da9714ad2a",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 23 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-26168",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "當顧客點選葡萄酒時，服務人員應該如何與客人確認是客人點的酒？",
+    "options": [
+      {
+        "id": "A",
+        "text": "左手呈酒同時右手倒酒"
+      },
+      {
+        "id": "B",
+        "text": "將酒瓶放在桌上由顧客自取"
+      },
+      {
+        "id": "C",
+        "text": "使用右手呈酒並向顧客展示酒標"
+      },
+      {
+        "id": "D",
+        "text": "直接倒酒不需展示酒標"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "當顧客點選葡萄酒時，服務人員應該如何與客人確認是客人點的酒？ 左手呈酒同時右手倒酒 將酒瓶放在桌上由顧客自取 使用右手呈酒並向顧客展示酒標 直接倒酒不需展示酒標 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2377
+  }
+}

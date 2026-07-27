@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-c06b859808",
+  "dataVersion": "teacher-exam-aa6b082835",
   "concept": {
     "id": "hospitality-english",
     "subject": "english-service",
@@ -9,15 +9,31 @@
     "label": "餐旅英文情境與服務對話",
     "description": "",
     "questionIds": [
-      "teacher-exam-100-01-q008-507a036ccf"
+      "teacher-exam-100-01-q008-507a036ccf",
+      "teacher-exam-114-15-q027-00009c8999",
+      "teacher-exam-114-15-q028-faad76a08f",
+      "teacher-exam-114-15-q029-508b0f76f4"
     ],
     "years": [
-      100
+      100,
+      114
     ],
     "publisherBasis": [
       {
         "source": "manual",
         "note": "命中關鍵詞：we will be landing、upright position"
+      },
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：would you like"
+      },
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：would you like"
+      },
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：would you like"
       }
     ],
     "reviewStatus": "draft",
@@ -59,6 +75,231 @@
       "flags": [],
       "searchText": "請將下列英文翻譯成適當的中文 （6 分） We will be landing shortly, so please raise your tray tables and put your seats on upright position. Thank you. 餐旅英文情境與服務對話 餐旅英文",
       "sequence": 25
+    },
+    {
+      "id": "teacher-exam-114-15-q027-00009c8999",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 27 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-26770",
+      "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 27,
+      "questionType": "single-choice",
+      "prompt": "Customer: I’d like to order some food for takeout. Server:______",
+      "options": [
+        {
+          "id": "A",
+          "text": "Would you like to eat here?"
+        },
+        {
+          "id": "B",
+          "text": "Sure! Would you like any drinks with that?"
+        },
+        {
+          "id": "C",
+          "text": "We only accept cash payments."
+        },
+        {
+          "id": "D",
+          "text": "You need to book a table first."
+        }
+      ],
+      "answer": "B",
+      "subject": "english-service",
+      "subjectLabel": "餐旅英文與服務溝通",
+      "unit": "餐旅英文",
+      "conceptId": "hospitality-english",
+      "conceptLabel": "餐旅英文情境與服務對話",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "note": "命中關鍵詞：would you like"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "Customer: I’d like to order some food for takeout. Server:______ Would you like to eat here? Sure! Would you like any drinks with that? We only accept cash payments. You need to book a table first. 餐旅英文情境與服務對話 餐旅英文",
+      "sequence": 2381
+    },
+    {
+      "id": "teacher-exam-114-15-q028-faad76a08f",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 28 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-27028",
+      "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 28,
+      "questionType": "single-choice",
+      "prompt": "Which sentence is the most appropriate way to ask customers about their food preference?",
+      "options": [
+        {
+          "id": "A",
+          "text": "You should order our special dish."
+        },
+        {
+          "id": "B",
+          "text": "What food do you want?"
+        },
+        {
+          "id": "C",
+          "text": "Would you like to try our chef’s special today?"
+        },
+        {
+          "id": "D",
+          "text": "Hurry up, we are closing soon."
+        }
+      ],
+      "answer": "C",
+      "subject": "english-service",
+      "subjectLabel": "餐旅英文與服務溝通",
+      "unit": "餐旅英文",
+      "conceptId": "hospitality-english",
+      "conceptLabel": "餐旅英文情境與服務對話",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "note": "命中關鍵詞：would you like"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "Which sentence is the most appropriate way to ask customers about their food preference? You should order our special dish. What food do you want? Would you like to try our chef’s special today? Hurry up, we are closing soon. 餐旅英文情境與服務對話 餐旅英文",
+      "sequence": 2382
+    },
+    {
+      "id": "teacher-exam-114-15-q029-508b0f76f4",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 29 題",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-27279",
+      "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 29,
+      "questionType": "single-choice",
+      "prompt": "Which of the following phrases is NOT commonly used when a customer orders food online?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Would you like to pick it up or have it delivered?"
+        },
+        {
+          "id": "B",
+          "text": "Please enter your delivery address."
+        },
+        {
+          "id": "C",
+          "text": "You must pay with cash only."
+        },
+        {
+          "id": "D",
+          "text": "Your estimated delivery time is 30 minutes."
+        }
+      ],
+      "answer": "C",
+      "subject": "english-service",
+      "subjectLabel": "餐旅英文與服務溝通",
+      "unit": "餐旅英文",
+      "conceptId": "hospitality-english",
+      "conceptLabel": "餐旅英文情境與服務對話",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "note": "命中關鍵詞：would you like"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "Which of the following phrases is NOT commonly used when a customer orders food online? Would you like to pick it up or have it delivered? Please enter your delivery address. You must pay with cash only. Your estimated delivery time is 30 minutes. 餐旅英文情境與服務對話 餐旅英文",
+      "sequence": 2383
     }
   ]
 }

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q011-5a6c1364cc",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 11 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-2672",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "「From seed to cup 從種子到杯子」 ，每一段歷程都很重要，有關磨豆機之樣式與其刀 盤之說明，下列何者為非？",
+    "options": [
+      {
+        "id": "A",
+        "text": "砍刀式：砍刀式磨豆機與一般果汁機原理相同，利用砍刀瞬間攪動，使其咖啡豆碎 裂"
+      },
+      {
+        "id": "B",
+        "text": "平刀：由兩片刀盤夾住咖啡豆轉動研磨，平刀屬於「削」的方式，粉體會成片 狀而且產生較多的細粉，缺點是均勻度略差，但咖啡香氣十足，適合細研磨"
+      },
+      {
+        "id": "C",
+        "text": "錐刀 ：同樣由兩片刀盤夾住咖啡豆轉動研磨，錐刀屬於「輾」的方式，粉體呈現塊狀較厚 實，但較易產生細粉與雜味"
+      },
+      {
+        "id": "D",
+        "text": "鬼齒刀：鬼齒刀結合平刀與錐刀的優點，以「磨」的 方式，讓粉體呈現球形，均勻度高、適合手沖。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「From seed to cup 從種子到杯子」 ，每一段歷程都很重要，有關磨豆機之樣式與其刀 盤之說明，下列何者為非？ 砍刀式：砍刀式磨豆機與一般果汁機原理相同，利用砍刀瞬間攪動，使其咖啡豆碎 裂 平刀：由兩片刀盤夾住咖啡豆轉動研磨，平刀屬於「削」的方式，粉體會成片 狀而且產生較多的細粉，缺點是均勻度略差，但咖啡香氣十足，適合細研磨 錐刀 ：同樣由兩片刀盤夾住咖啡豆轉動研磨，錐刀屬於「輾」的方式，粉體呈現塊狀較厚 實，但較易產生細粉與雜味 鬼齒刀：鬼齒刀結合平刀與錐刀的優點，以「磨」的 方式，讓粉體呈現球形，均勻度高、適合手沖。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2248
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q011-efafa0b703",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 11 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-2215",
+    "paperTitle": "115年公立高級中等學校教師甄選餐飲管理科試題",
+    "schoolName": "115年公立高級中等學校教師甄選",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "Amy 在哥本哈根入住 Crowne Plaza Hotel，請問該飯店屬於哪個國際旅館集團？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hyatt"
+      },
+      {
+        "id": "B",
+        "text": "IHG"
+      },
+      {
+        "id": "C",
+        "text": "Marriott"
+      },
+      {
+        "id": "D",
+        "text": "Hilton。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "Amy 在哥本哈根入住 Crowne Plaza Hotel，請問該飯店屬於哪個國際旅館集團？ Hyatt IHG Marriott Hilton。 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2410
+  }
+}

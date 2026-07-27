@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q042-72667b69ec",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 42 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-29565",
+    "paperTitle": "新北市公立高級中等學校114學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 42,
+    "questionType": "multiple-choice",
+    "prompt": "文文咖啡廳將客人點的麵點，盛擺、裝在客人個人直接食用的碗盤內，並直接以手 持方式，將其端至客人的餐桌上，讓客人食用。這種方式，較符合下列何種服務方 式的操作？",
+    "options": [
+      {
+        "id": "A",
+        "text": "American service"
+      },
+      {
+        "id": "B",
+        "text": "guéridon service"
+      },
+      {
+        "id": "C",
+        "text": "plate service"
+      },
+      {
+        "id": "D",
+        "text": "Russian service"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "文文咖啡廳將客人點的麵點，盛擺、裝在客人個人直接食用的碗盤內，並直接以手 持方式，將其端至客人的餐桌上，讓客人食用。這種方式，較符合下列何種服務方 式的操作？ American service guéridon service plate service Russian service 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2396
+  }
+}

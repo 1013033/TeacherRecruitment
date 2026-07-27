@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q003-156350549f",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 3 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-24566",
+    "paperTitle": "一、選擇題：（30 題每題 2 分）",
+    "schoolName": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "交通部觀光局配合行政院「挑戰 2008 觀光客倍增計劃」，於 2002 年 6 月招開「觀光客倍增計劃全國研討會」並提出相關配套計畫，其目的是希望增加哪一個旅遊市場客源？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Outbound 旅遊"
+      },
+      {
+        "id": "B",
+        "text": "Domestic 旅遊"
+      },
+      {
+        "id": "C",
+        "text": "Inbound 旅遊"
+      },
+      {
+        "id": "D",
+        "text": "Incentive 旅遊"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "交通部觀光局配合行政院「挑戰 2008 觀光客倍增計劃」，於 2002 年 6 月招開「觀光客倍增計劃全國研討會」並提出相關配套計畫，其目的是希望增加哪一個旅遊市場客源？ Outbound 旅遊 Domestic 旅遊 Inbound 旅遊 Incentive 旅遊 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 3050
+  }
+}

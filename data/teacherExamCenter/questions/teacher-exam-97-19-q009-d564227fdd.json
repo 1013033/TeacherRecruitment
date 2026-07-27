@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q009-d564227fdd",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 9 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-17954",
+    "paperTitle": "一、選擇題",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是指「葡萄酒服務員」？",
+    "options": [
+      {
+        "id": "A",
+        "text": "sommelier"
+      },
+      {
+        "id": "B",
+        "text": "bartender"
+      },
+      {
+        "id": "C",
+        "text": "wine butler"
+      },
+      {
+        "id": "D",
+        "text": "wine steward"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務實務",
+    "unit": "餐飲服務與營運",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲服務、菜單與營運管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：服務員、sommelier、steward"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列何者不是指「葡萄酒服務員」？ sommelier bartender wine butler wine steward 餐飲服務、菜單與營運管理 餐飲服務與營運",
+    "sequence": 2992
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-114-15-q020-3792b85194",
+    "sourceYear": 114,
+    "sourceLabel": "114 年第 20 題",
+    "sourceFile": "114 教師甄試題目.md",
+    "sourceLocator": "114 教師甄試題目.md#offset-5176",
+    "paperTitle": "114年公立高級中等學校教師甄選觀光事業科試題",
+    "schoolName": "114年公立高級中等學校教師甄選",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "航空公司針對於搭乘對象與行李都有特別規定，各家航空略有差異，以中華航空為例 ，下列敘述有幾項是正確？ (1)出生未滿14天(以搭機日計)之嬰兒，不接受搭機。 (2)懷孕36週以上單胞胎孕婦，不接受搭機。 (3)懷孕32週以上多胞胎孕婦，不接受搭機。 (4)孕婦產後未滿14天，不接受搭機。 (5)寵物懷孕不可超過40天及產後7天內之寵物不得受理。",
+    "options": [
+      {
+        "id": "A",
+        "text": "2項"
+      },
+      {
+        "id": "B",
+        "text": "3項"
+      },
+      {
+        "id": "C",
+        "text": "4項"
+      },
+      {
+        "id": "D",
+        "text": "5項。"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "航空公司針對於搭乘對象與行李都有特別規定，各家航空略有差異，以中華航空為例 ，下列敘述有幾項是正確？ (1)出生未滿14天(以搭機日計)之嬰兒，不接受搭機。 (2)懷孕36週以上單胞胎孕婦，不接受搭機。 (3)懷孕32週以上多胞胎孕婦，不接受搭機。 (4)孕婦產後未滿14天，不接受搭機。 (5)寵物懷孕不可超過40天及產後7天內之寵物不得受理。 2項 3項 4項 5項。 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2257
+  }
+}

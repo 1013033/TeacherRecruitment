@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q015-16fa8bed7e",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 15 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-11815",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "當顧客抱怨「This steak is undercooked.」，是指牛排怎麼了？",
+    "options": [
+      {
+        "id": "A",
+        "text": "煮太老"
+      },
+      {
+        "id": "B",
+        "text": "沒煮熟"
+      },
+      {
+        "id": "C",
+        "text": "太鹹了"
+      },
+      {
+        "id": "D",
+        "text": "燒焦了"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：tea"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "當顧客抱怨「This steak is undercooked.」，是指牛排怎麼了？ 煮太老 沒煮熟 太鹹了 燒焦了 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2463
+  }
+}

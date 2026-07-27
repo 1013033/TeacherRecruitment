@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-99-21-q080-df9489a8cb",
+    "sourceYear": 99,
+    "sourceLabel": "99 年第 80 題",
+    "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+    "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-13513",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+    "questionNumber": 80,
+    "questionType": "single-choice",
+    "prompt": "下列敘述何者為是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "打電話只要方便任何時間皆可撥電話找人"
+      },
+      {
+        "id": "B",
+        "text": "會議時與用餐中是遞名片最佳時機"
+      },
+      {
+        "id": "C",
+        "text": "接受名片時應雙手接下，且高度約為胸部高"
+      },
+      {
+        "id": "D",
+        "text": "行進間或談話時，宜為他人做介紹。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列敘述何者為是？ 打電話只要方便任何時間皆可撥電話找人 會議時與用餐中是遞名片最佳時機 接受名片時應雙手接下，且高度約為胸部高 行進間或談話時，宜為他人做介紹。 其他：待人工審核 待人工審核",
+    "sequence": 3423
+  }
+}

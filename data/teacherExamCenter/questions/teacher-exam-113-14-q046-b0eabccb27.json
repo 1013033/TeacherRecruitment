@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q046-b0eabccb27",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 46 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-17984",
+    "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "關於旅館 due out 的敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "櫃檯誤記為有人住宿之空置房"
+      },
+      {
+        "id": "B",
+        "text": "已整理完畢可供銷售之客房"
+      },
+      {
+        "id": "C",
+        "text": "辦理住宿登記後外出未歸"
+      },
+      {
+        "id": "D",
+        "text": "預計今日遷出之待退房"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館實務",
+    "unit": "客房與訂房",
+    "conceptId": "hotel-rooms-and-reservations",
+    "conceptLabel": "旅館客房、訂房與房務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：旅館、客房、櫃檯、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館 due out 的敘述，下列何者正確？ 櫃檯誤記為有人住宿之空置房 已整理完畢可供銷售之客房 辦理住宿登記後外出未歸 預計今日遷出之待退房 旅館客房、訂房與房務 客房與訂房",
+    "sequence": 2091
+  }
+}

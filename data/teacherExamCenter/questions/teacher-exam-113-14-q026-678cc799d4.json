@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q026-678cc799d4",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 26 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-6356",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "請問以上菜單會使用到那些器具，請選出正確選項？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate"
+      },
+      {
+        "id": "B",
+        "text": "Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate"
+      },
+      {
+        "id": "C",
+        "text": "Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate"
+      },
+      {
+        "id": "D",
+        "text": "Soup Bowl、Round Plate、Snifter、Divided Dish。"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：sauce、salad"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "請問以上菜單會使用到那些器具，請選出正確選項？ Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate Soup Bowl、Round Plate、Snifter、Divided Dish。 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 2023
+  }
+}

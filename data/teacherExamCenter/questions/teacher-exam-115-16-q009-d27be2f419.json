@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q009-d27be2f419",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 9 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-11373",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "葡萄酒服務中，紅葡萄酒通常應倒至杯中多少比例？",
+    "options": [
+      {
+        "id": "A",
+        "text": "三分滿"
+      },
+      {
+        "id": "B",
+        "text": "七分滿"
+      },
+      {
+        "id": "C",
+        "text": "九分滿"
+      },
+      {
+        "id": "D",
+        "text": "倒滿"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "葡萄酒服務中，紅葡萄酒通常應倒至杯中多少比例？ 三分滿 七分滿 九分滿 倒滿 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2457
+  }
+}

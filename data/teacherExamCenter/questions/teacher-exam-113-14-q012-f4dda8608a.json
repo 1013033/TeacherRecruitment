@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q012-f4dda8608a",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 12 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-30471",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "關於料理的調味料，下列敘述何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "味霖是以糯米、酒麴釀製而成的調味料，具有酒香味與甘甜味。"
+      },
+      {
+        "id": "B",
+        "text": "蒸肉粉是添加辛香料的米粒粉"
+      },
+      {
+        "id": "C",
+        "text": "黑胡椒是完全成熟的胡椒漿果去皮乾燥製成。"
+      },
+      {
+        "id": "D",
+        "text": "樹子又稱破布子，具鹹甘味。"
+      }
+    ],
+    "answer": "C",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於料理的調味料，下列敘述何者有誤？ 味霖是以糯米、酒麴釀製而成的調味料，具有酒香味與甘甜味。 蒸肉粉是添加辛香料的米粒粉 黑胡椒是完全成熟的胡椒漿果去皮乾燥製成。 樹子又稱破布子，具鹹甘味。 其他：待人工審核 待人工審核",
+    "sequence": 2158
+  }
+}

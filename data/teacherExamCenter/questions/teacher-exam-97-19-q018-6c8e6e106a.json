@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q018-6c8e6e106a",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 18 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-18891",
+    "paperTitle": "未標示試卷",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列名菜所搭配的調味醬，何者錯誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "白肉——番茄醬"
+      },
+      {
+        "id": "B",
+        "text": "法式烤鴨——柳橙醬"
+      },
+      {
+        "id": "C",
+        "text": "鹹豬腳——酸菜"
+      },
+      {
+        "id": "D",
+        "text": "羊排——薄荷醬"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "烹調原理與食材",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "烹調法、醬汁與食材處理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：烤"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列名菜所搭配的調味醬，何者錯誤？ 白肉——番茄醬 法式烤鴨——柳橙醬 鹹豬腳——酸菜 羊排——薄荷醬 烹調法、醬汁與食材處理 烹調原理與食材",
+    "sequence": 3001
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q015-a8fb717e4b",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 15 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-20425",
+    "paperTitle": "國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷",
+    "schoolName": "國立頭城高級家事商業職業學校",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "為求儘速擴大銷售量，新咖啡業者推出 30 元的平價咖啡，採用低價策略薄利多銷，更增加其曝光率；則 其為何種定價方式？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Market Skimming Pricing"
+      },
+      {
+        "id": "B",
+        "text": "Marketing Penetration Pricing"
+      },
+      {
+        "id": "C",
+        "text": "Prestige Pricing"
+      },
+      {
+        "id": "D",
+        "text": "Complementary Pricing"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "為求儘速擴大銷售量，新咖啡業者推出 30 元的平價咖啡，採用低價策略薄利多銷，更增加其曝光率；則 其為何種定價方式？ Market Skimming Pricing Marketing Penetration Pricing Prestige Pricing Complementary Pricing 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 2513
+  }
+}

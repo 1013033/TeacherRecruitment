@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q010-efc4d0134d",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 10 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-30640",
+    "paperTitle": "選擇題：每題 1 分",
+    "schoolName": "光復商工教師甄選餐飲管理科",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "餐廳的前身，是西元 1645 年出現在義大利威尼斯的哪一類型餐廳？",
+    "options": [
+      {
+        "id": "A",
+        "text": "速食餐廳"
+      },
+      {
+        "id": "B",
+        "text": "自助餐廳"
+      },
+      {
+        "id": "C",
+        "text": "外送餐廳"
+      },
+      {
+        "id": "D",
+        "text": "咖啡屋。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "咖啡與茶",
+    "conceptId": "coffee-and-tea",
+    "conceptLabel": "咖啡、茶與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "餐廳的前身，是西元 1645 年出現在義大利威尼斯的哪一類型餐廳？ 速食餐廳 自助餐廳 外送餐廳 咖啡屋。 咖啡、茶與非酒精飲料 咖啡與茶",
+    "sequence": 3130
+  }
+}

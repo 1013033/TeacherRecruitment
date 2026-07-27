@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-101-02-q004-98fd0f8893",
+    "sourceYear": 101,
+    "sourceLabel": "101 年第 4 題",
+    "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+    "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-20018",
+    "paperTitle": "一、選擇題：四選一，每題二分共佔90%。",
+    "schoolName": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列有關香檳說明何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vintage Champagne 意指混合不同年份、不同葡萄品種所釀造而成"
+      },
+      {
+        "id": "B",
+        "text": "甜度由低至高為 Brut -> Demi Sec -> Sec"
+      },
+      {
+        "id": "C",
+        "text": "製造以 La Méthode Champenoise 進行發酵並加入蔗糖或酵母"
+      },
+      {
+        "id": "D",
+        "text": "需使用 Champagne 區三種法定白葡萄品種。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：香檳、champagne"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列有關香檳說明何者正確？ Vintage Champagne 意指混合不同年份、不同葡萄品種所釀造而成 甜度由低至高為 Brut -> Demi Sec -> Sec 製造以 La Méthode Champenoise 進行發酵並加入蔗糖或酵母 需使用 Champagne 區三種法定白葡萄品種。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 357
+  }
+}

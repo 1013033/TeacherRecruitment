@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q010-1ed0f6d6dc",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 10 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-30254",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "蔬菜水果是台灣農業的驕傲，蔬菜的食用部位中的莖菜類中，下列選項何者 非地上莖蔬菜？",
+    "options": [
+      {
+        "id": "A",
+        "text": "台灣芹菜"
+      },
+      {
+        "id": "B",
+        "text": "紅莧菜"
+      },
+      {
+        "id": "C",
+        "text": "筊白筍"
+      },
+      {
+        "id": "D",
+        "text": "蘆筍"
+      }
+    ],
+    "answer": "B",
+    "subject": "other",
+    "subjectLabel": "其他",
+    "unit": "待人工審核",
+    "conceptId": "other-needs-review",
+    "conceptLabel": "其他：待人工審核",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中保守分類規則，依需求列入其他並等待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "蔬菜水果是台灣農業的驕傲，蔬菜的食用部位中的莖菜類中，下列選項何者 非地上莖蔬菜？ 台灣芹菜 紅莧菜 筊白筍 蘆筍 其他：待人工審核 待人工審核",
+    "sequence": 2156
+  }
+}

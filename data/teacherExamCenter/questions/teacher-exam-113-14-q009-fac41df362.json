@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q009-fac41df362",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 9 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-2325",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 9,
+    "questionType": "multiple-choice",
+    "prompt": "請問下列Hard drink所對應的成品杯，哪一個是完全正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Martini Glass: Apple Manhattan、Dry Martini、Gibson"
+      },
+      {
+        "id": "B",
+        "text": "Collin Glass: Caravan、Singapore Sling、Apple Mojito"
+      },
+      {
+        "id": "C",
+        "text": "Old Fashioned Glass: Caipirinha、Rusty Nail、Mai Tai"
+      },
+      {
+        "id": "D",
+        "text": "Highball Glass: Ginger Mojito、Americano、Jack Frost。"
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：martini、manhattan、singapore sling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問下列Hard drink所對應的成品杯，哪一個是完全正確？ Martini Glass: Apple Manhattan、Dry Martini、Gibson Collin Glass: Caravan、Singapore Sling、Apple Mojito Old Fashioned Glass: Caipirinha、Rusty Nail、Mai Tai Highball Glass: Ginger Mojito、Americano、Jack Frost。 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2006
+  }
+}

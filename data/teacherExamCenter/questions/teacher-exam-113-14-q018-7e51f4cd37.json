@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-113-14-q018-7e51f4cd37",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 18 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-31524",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列對於 Champagne 相關的敘述何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "使用「Traditional Method」進行瓶內二次發酵，產生二氧化碳。"
+      },
+      {
+        "id": "B",
+        "text": "需使用法定品種：Chardonnay、Pinot Meunier、Pinot Blanc。"
+      },
+      {
+        "id": "C",
+        "text": "全球市佔率最高的口味是「Brut」 ，口感分級代表的是不甜，每公升含糖量 15g 以下。"
+      },
+      {
+        "id": "D",
+        "text": "Vintage Champagne 是指單一年份葡萄釀造製成，所占比例最高。"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "酒類與葡萄酒",
+    "conceptId": "wine-and-spirits",
+    "conceptLabel": "酒類、葡萄酒與烈酒",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：champagne、pinot、chardonnay"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "下列對於 Champagne 相關的敘述何者正確？ 使用「Traditional Method」進行瓶內二次發酵，產生二氧化碳。 需使用法定品種：Chardonnay、Pinot Meunier、Pinot Blanc。 全球市佔率最高的口味是「Brut」 ，口感分級代表的是不甜，每公升含糖量 15g 以下。 Vintage Champagne 是指單一年份葡萄釀造製成，所占比例最高。 酒類、葡萄酒與烈酒 酒類與葡萄酒",
+    "sequence": 2164
+  }
+}

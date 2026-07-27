@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-97-19-q007-608c253e72",
+    "sourceYear": 97,
+    "sourceLabel": "97 年第 7 題",
+    "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+    "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-17753",
+    "paperTitle": "一、選擇題",
+    "schoolName": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "IATA 將全世界劃分為三個區域中，下列何者有誤？",
+    "options": [
+      {
+        "id": "A",
+        "text": "NYC 是 AREA3"
+      },
+      {
+        "id": "B",
+        "text": "PAR 是 AREA2"
+      },
+      {
+        "id": "C",
+        "text": "YVR 走 AREA1"
+      },
+      {
+        "id": "D",
+        "text": "TPE 是 AREA3"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業與航空票務",
+    "unit": "旅行業與航空服務",
+    "conceptId": "travel-agency-and-airline",
+    "conceptLabel": "旅行業、航空票務與入出境",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "命中關鍵詞：iata"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "IATA 將全世界劃分為三個區域中，下列何者有誤？ NYC 是 AREA3 PAR 是 AREA2 YVR 走 AREA1 TPE 是 AREA3 旅行業、航空票務與入出境 旅行業與航空服務",
+    "sequence": 2990
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-aa6b082835",
+  "question": {
+    "id": "teacher-exam-115-16-q044-775f833ef0",
+    "sourceYear": 115,
+    "sourceLabel": "115 年第 44 題",
+    "sourceFile": "115 教甄題.md",
+    "sourceLocator": "115 教甄題.md#offset-16258",
+    "paperTitle": "新北市公立高級中等學校115學年度教師聯合甄選餐飲管理科試題",
+    "schoolName": "新北市公立高級中等學校",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "關於 Singapore Sling 這款雞尾酒的相關敘述，下列何者正確？",
+    "options": [
+      {
+        "id": "A",
+        "text": "成分包含有 gin 與 vodka 兩款基酒"
+      },
+      {
+        "id": "B",
+        "text": "發源地在新加坡萊佛士酒店（Raffles Hotel）"
+      },
+      {
+        "id": "C",
+        "text": "所使用到的 DOM Bénédictine 是產於義大利的一款香甜酒"
+      },
+      {
+        "id": "D",
+        "text": "屬於 long drinks，原則上以 cocktail glass 盛裝"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "雞尾酒與吧檯",
+    "conceptId": "cocktails-and-bar",
+    "conceptLabel": "雞尾酒、吧檯器具與調製",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chwa-beverage-practice",
+        "note": "命中關鍵詞：雞尾酒、cocktail、singapore sling"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "multiple-concept-candidates"
+    ],
+    "searchText": "關於 Singapore Sling 這款雞尾酒的相關敘述，下列何者正確？ 成分包含有 gin 與 vodka 兩款基酒 發源地在新加坡萊佛士酒店（Raffles Hotel） 所使用到的 DOM Bénédictine 是產於義大利的一款香甜酒 屬於 long drinks，原則上以 cocktail glass 盛裝 雞尾酒、吧檯器具與調製 雞尾酒與吧檯",
+    "sequence": 2492
+  }
+}
