@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-refbook-fe4b60e4ea",
+  "dataVersion": "teacher-exam-chapters-29e62be768",
   "question": {
     "id": "teacher-exam-100-01-q020-7e3b8adf9f",
     "sourceYear": 100,
@@ -33,16 +33,16 @@
     "answer": "D",
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "[第一章 飲務的作業規範] - [第一章 飲務的作業規範]",
-    "conceptId": "beverage-25601ed5b5",
-    "conceptLabel": "第一章 飲務的作業規範",
+    "unit": "[CH6 酒的分類與製程] - [6-1 釀造酒的分類與製程]",
+    "conceptId": "beverage-45bcb2c9c2",
+    "conceptLabel": "6-1 釀造酒的分類與製程",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "reference-book-rag",
-        "chapter": "第一章 飲務的作業規範",
-        "locator": "第一章 飲務的作業規範",
-        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「飲料實務」，主題單元為「[第一章 飲務的作業規範] - [第一章 飲務的作業規範]」。"
+        "source": "chapter-classification-files",
+        "chapter": "CH6 酒的分類與製程",
+        "locator": "6-1 釀造酒的分類與製程",
+        "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
       },
       {
         "source": "unit-cleanup",
@@ -79,6 +79,12 @@
       ],
       "references": [
         {
+          "source": "chapter-classification-files",
+          "chapter": "CH6 酒的分類與製程",
+          "locator": "6-1 釀造酒的分類與製程",
+          "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
           "source": "飲料實務-章節分類",
           "chapter": "第一章 飲務的作業規範",
           "locator": "第一章 飲務的作業規範",
@@ -89,19 +95,13 @@
           "chapter": "第一章 餐廳服務基本觀念",
           "locator": "第一章 餐廳服務基本觀念",
           "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
         }
       ],
-      "updatedAt": "2026-07-27T15:20:37.838Z"
+      "updatedAt": "2026-07-27T15:37:07.176Z"
     },
     "reviewStatus": "approved",
     "flags": [],
-    "searchText": "以下的敘述,何者為非? Sparkling Wine 是屬於 Fermented Alcoholic Beverages Vodka 屬於 Distilled Alcoholic Beverages Bitter 是屬於 Compounded Alcoholic Beverages Liqueur 的含糖量不得低於 5%。 飲料實務 [第一章 飲務的作業規範] - [第一章 飲務的作業規範] 第一章 飲務的作業規範 【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / 酒類分類。全華單元無法承接,需確認是否為AI建立單元或需要人工審核。 【分類來源】全華/人工分類單元 【核心觀念】酒類分類:Sparkling Wine、Vodka、Bitter、Liqueur 【詳細解析】本題考核的是對不同酒精饮料分类的理解。选项A、B和C都是正确的,而D选项关于利口酒(liqueur)的含糖量要求是错误的。 【錯誤選項錯在哪】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 修正說法:Liqueur 的含糖量可以低於 5%。 【叮嚀】提醒考生注意不同酒精饮料的具体分类和特性,以及它们在实际应用中的差异。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務-章節分類》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。",
+    "searchText": "以下的敘述,何者為非? Sparkling Wine 是屬於 Fermented Alcoholic Beverages Vodka 屬於 Distilled Alcoholic Beverages Bitter 是屬於 Compounded Alcoholic Beverages Liqueur 的含糖量不得低於 5%。 飲料實務 [CH6 酒的分類與製程] - [6-1 釀造酒的分類與製程] 6-1 釀造酒的分類與製程 【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / 酒類分類。全華單元無法承接,需確認是否為AI建立單元或需要人工審核。 【分類來源】全華/人工分類單元 【核心觀念】酒類分類:Sparkling Wine、Vodka、Bitter、Liqueur 【詳細解析】本題考核的是對不同酒精饮料分类的理解。选项A、B和C都是正确的,而D选项关于利口酒(liqueur)的含糖量要求是错误的。 【錯誤選項錯在哪】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 修正說法:Liqueur 的含糖量可以低於 5%。 【叮嚀】提醒考生注意不同酒精饮料的具体分类和特性,以及它们在实际应用中的差异。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 B:Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 C:Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 D:Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。 【參考書依據】主要參考《飲料實務-章節分類》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Sparkling Wine 是一種經發酵後添加二氧化碳的酒精飲料,屬於 Fermented Alcoholic Beverages(發酵酒)。 Vodka 屬於蒸餾酒,因此屬於 Distilled Alcoholic Beverages(蒸餾酒)。 Bitter 是一種經發酵後添加苦味成分的酒精飲料,屬於 Compounded Alcoholic Beverages(合成酒)。 Liqueur 的含糖量並無固定標準,可以低於 5%,因此 D 选项是错误的。例如一些利口酒可能含糖量很低。",
     "sequence": 160
   }
 }

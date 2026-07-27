@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-refbook-fe4b60e4ea",
+  "dataVersion": "teacher-exam-chapters-29e62be768",
   "question": {
     "id": "teacher-exam-100-01-q013-f669d450ae",
     "sourceYear": 100,
@@ -31,18 +31,18 @@
       }
     ],
     "answer": "D",
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[觀光餐旅業導論 第三章 餐飲業] - [西餐菜餚、食材與烹調法辨識]",
-    "conceptId": "western-culinary-437acabb05",
-    "conceptLabel": "西餐菜餚、食材與烹調法辨識",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH1 餐廳服務基本觀念] - [1-1 餐飲商品]",
+    "conceptId": "foodservice-1cdb593773",
+    "conceptLabel": "1-1 餐飲商品",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "reference-book-rag",
-        "chapter": "觀光餐旅業導論 第三章 餐飲業",
-        "locator": "西餐菜餚、食材與烹調法辨識",
-        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「西餐」，主題單元為「[觀光餐旅業導論 第三章 餐飲業] - [西餐菜餚、食材與烹調法辨識]」。"
+        "source": "chapter-classification-files",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 餐飲商品",
+        "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
       },
       {
         "source": "ai-generated-unit",
@@ -80,6 +80,12 @@
       ],
       "references": [
         {
+          "source": "chapter-classification-files",
+          "chapter": "CH1 餐廳服務基本觀念",
+          "locator": "1-1 餐飲商品",
+          "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
           "source": "reference-book-derived-unit",
           "chapter": "觀光餐旅業導論 第三章 餐飲業",
           "locator": "西餐菜餚、食材與烹調法辨識",
@@ -90,21 +96,15 @@
           "chapter": "第一章 餐廳服務基本觀念",
           "locator": "第一章 餐廳服務基本觀念",
           "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
         }
       ],
-      "updatedAt": "2026-07-27T15:20:37.838Z"
+      "updatedAt": "2026-07-27T15:37:07.176Z"
     },
     "reviewStatus": "approved",
     "flags": [
       "ai-classification-unit"
     ],
-    "searchText": "下列有關餐廳中餐具及杯皿的敘述,何者正確? All Purpose Glass 只可用來同時服務紅白酒,不可當成水杯使用 服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉 圓筒形平底水杯稱為 Goblet Champagne Saucer 常用來疊香檳塔,適用於一般酒會與慶功宴。 西餐 [觀光餐旅業導論 第三章 餐飲業] - [西餐菜餚、食材與烹調法辨識] 西餐菜餚、食材與烹調法辨識 【問題分類】餐飲服務技術 / 餐飲服務技術中關於餐具及杯皿的知識 / 餐飲服務技術中關於餐具及杯皿的知識。本題涉及餐飲服務技術中關於餐具及杯皿的知識,與全華版教材中的「(二)常見有腳杯类(Goblet) 杯子」單元相關。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】餐飲服務技術中關於餐具及杯皿的知識 【詳細解析】本題考核的是對餐飲服務中常用餐具及杯皿的識別能力。正確答案為 D,Champagne Saucer 常用來疊香檳塔,適用於一般酒會與慶功宴。A 选项错误在于 All Purpose Glass 可以用于多种场合,并非只能服务红白酒;B 选项错误在于服务 Bouillabaisse 所需的餐具并非牛排刀及牛排叉;C 选项错误在于圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 【錯誤選項錯在哪】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 修正說法:All Purpose Glass 适用于多种饮品,包括但不限于红白葡萄酒。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 修正說法:服务 Bouillabaisse 所需的餐具包括汤匙、叉子以及勺子。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 修正說法:圆筒形平底水杯应被称为 Tumbler。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 修正說法:此选项正确。 【叮嚀】提醒考生注意餐具及杯皿的名称和用途,避免混淆。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《reference-book-derived-unit》觀光餐旅業導論 第三章 餐飲業,定位:西餐菜餚、食材與烹調法辨識;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《reference-book-derived-unit》觀光餐旅業導論 第三章 餐飲業,定位:西餐菜餚、食材與烹調法辨識;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。",
+    "searchText": "下列有關餐廳中餐具及杯皿的敘述,何者正確? All Purpose Glass 只可用來同時服務紅白酒,不可當成水杯使用 服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉 圓筒形平底水杯稱為 Goblet Champagne Saucer 常用來疊香檳塔,適用於一般酒會與慶功宴。 餐飲服務技術 [CH1 餐廳服務基本觀念] - [1-1 餐飲商品] 1-1 餐飲商品 【問題分類】餐飲服務技術 / 餐飲服務技術中關於餐具及杯皿的知識 / 餐飲服務技術中關於餐具及杯皿的知識。本題涉及餐飲服務技術中關於餐具及杯皿的知識,與全華版教材中的「(二)常見有腳杯类(Goblet) 杯子」單元相關。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】餐飲服務技術中關於餐具及杯皿的知識 【詳細解析】本題考核的是對餐飲服務中常用餐具及杯皿的識別能力。正確答案為 D,Champagne Saucer 常用來疊香檳塔,適用於一般酒會與慶功宴。A 选项错误在于 All Purpose Glass 可以用于多种场合,并非只能服务红白酒;B 选项错误在于服务 Bouillabaisse 所需的餐具并非牛排刀及牛排叉;C 选项错误在于圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 【錯誤選項錯在哪】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 修正說法:All Purpose Glass 适用于多种饮品,包括但不限于红白葡萄酒。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 修正說法:服务 Bouillabaisse 所需的餐具包括汤匙、叉子以及勺子。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 修正說法:圆筒形平底水杯应被称为 Tumbler。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 修正說法:此选项正确。 【叮嚀】提醒考生注意餐具及杯皿的名称和用途,避免混淆。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第八章 餐飲服務,定位:第八章 餐飲服務(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《reference-book-derived-unit》觀光餐旅業導論 第三章 餐飲業,定位:西餐菜餚、食材與烹調法辨識;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 B:服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 C:圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 D:Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。 【參考書依據】主要參考《reference-book-derived-unit》觀光餐旅業導論 第三章 餐飲業,定位:西餐菜餚、食材與烹調法辨識;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 All Purpose Glass 可以用于多种场合,如咖啡、茶等,并非只能服务红白酒。因此此选项错误。 服务 Bouillabaisse 所需的餐具通常为汤匙和叉子等,而非牛排刀及牛排叉。 圆筒形平底水杯应称为 Tumbler 而不是 Goblet。 Champagne Saucer 常用作叠香槟塔,适用于一般酒会与庆功宴。",
     "sequence": 110,
     "aiClassificationUnit": {
       "sourceType": "ai-unit-generated",

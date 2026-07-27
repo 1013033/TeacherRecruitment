@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-refbook-fe4b60e4ea",
+  "dataVersion": "teacher-exam-chapters-29e62be768",
   "question": {
     "id": "teacher-exam-100-01-q013-b6b6787a46",
     "sourceYear": 100,
@@ -33,16 +33,16 @@
     "answer": "B",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
-    "conceptId": "tourism-hospitality-6bf9a5e5da",
-    "conceptLabel": "第一章 觀光餐旅業基本觀念",
+    "unit": "[CH4 旅宿業] - [4-1 旅宿業的定義與特性]",
+    "conceptId": "tourism-hospitality-6fc3f93edd",
+    "conceptLabel": "4-1 旅宿業的定義與特性",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "reference-book-rag",
-        "chapter": "第一章 觀光餐旅業基本觀念",
-        "locator": "第一章 觀光餐旅業基本觀念",
-        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+        "source": "chapter-classification-files",
+        "chapter": "CH4 旅宿業",
+        "locator": "4-1 旅宿業的定義與特性",
+        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
       },
       {
         "source": "manual",
@@ -79,6 +79,12 @@
       ],
       "references": [
         {
+          "source": "chapter-classification-files",
+          "chapter": "CH4 旅宿業",
+          "locator": "4-1 旅宿業的定義與特性",
+          "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
           "source": "觀光餐旅業導論-章節分類",
           "chapter": "第一章 觀光餐旅業基本觀念",
           "locator": "第一章 觀光餐旅業基本觀念",
@@ -89,19 +95,13 @@
           "chapter": "第一章 餐廳服務基本觀念",
           "locator": "第一章 餐廳服務基本觀念",
           "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
         }
       ],
-      "updatedAt": "2026-07-27T15:20:37.838Z"
+      "updatedAt": "2026-07-27T15:37:07.176Z"
     },
     "reviewStatus": "approved",
     "flags": [],
-    "searchText": "以下關於旅館種類之敘述,何者正確? Transient Hotel 房內附有廚房設備 Airport Hotel 需特別注意 Guest Ledger 之收取 Motel Hotel 源起於法國,客人勿須為了小費煩惱 Capsule Hotel 源起於德國。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 【問題分類】觀光餐旅業導論 / 全華單元 / 旅館種類。題目涉及旅館種類的敘述,屬於觀光餐旅業導論中的旅館種類相關知識。 【分類來源】全華/人工分類單元 【核心觀念】Transient Hotel, Airport Hotel, Motel Hotel, Capsule Hotel 【詳細解析】本題考核的是對不同旅館種類的了解。正確答案為 B:Airport Hotel 需特別注意 Guest Ledger 之收取。 - A: Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 - B: Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取,此敘述正確。 - C: Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 - D: Capsule Hotel 源起於德國。 - 此敘述錯誤,Capsule Hotel 現多見於日本,起源地為日本。 【錯誤選項錯在哪】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 修正說法:Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 修正說法:Motel Hotel 起源於美國,客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 修正說法:Capsule Hotel 現多見於日本。 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。",
+    "searchText": "以下關於旅館種類之敘述,何者正確? Transient Hotel 房內附有廚房設備 Airport Hotel 需特別注意 Guest Ledger 之收取 Motel Hotel 源起於法國,客人勿須為了小費煩惱 Capsule Hotel 源起於德國。 觀光餐旅業導論 [CH4 旅宿業] - [4-1 旅宿業的定義與特性] 4-1 旅宿業的定義與特性 【問題分類】觀光餐旅業導論 / 全華單元 / 旅館種類。題目涉及旅館種類的敘述,屬於觀光餐旅業導論中的旅館種類相關知識。 【分類來源】全華/人工分類單元 【核心觀念】Transient Hotel, Airport Hotel, Motel Hotel, Capsule Hotel 【詳細解析】本題考核的是對不同旅館種類的了解。正確答案為 B:Airport Hotel 需特別注意 Guest Ledger 之收取。 - A: Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 - B: Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取,此敘述正確。 - C: Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 - D: Capsule Hotel 源起於德國。 - 此敘述錯誤,Capsule Hotel 現多見於日本,起源地為日本。 【錯誤選項錯在哪】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 修正說法:Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 修正說法:Motel Hotel 起源於美國,客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 修正說法:Capsule Hotel 現多見於日本。 【叮嚀】檢定或教甄常考陷阱提醒;沒有則填無 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 B:Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 C:Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 D:Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Transient Hotel 房內附有廚房設備 - 此敘述錯誤,Transient Hotel 是指短期住宿的飯店,通常不提供廚房設備。 Airport Hotel 需特別注意 Guest Ledger 之收取 - 空港旅館確實需要特別注意客人帳單的記錄和收取。 Motel Hotel 源起於法國,客人勿須為了小費煩惱 - 此敘述錯誤,Motel Hotel 起源於美國,且客人是否支付小費依當地習慣而定。 Capsule Hotel 源起於德國 - 此敘述錯誤,Capsule Hotel 現多見於日本。",
     "sequence": 153
   }
 }

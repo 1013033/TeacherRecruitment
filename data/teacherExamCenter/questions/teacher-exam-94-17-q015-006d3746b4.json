@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-refbook-fe4b60e4ea",
+  "dataVersion": "teacher-exam-chapters-29e62be768",
   "question": {
     "id": "teacher-exam-94-17-q015-006d3746b4",
     "sourceYear": 94,
@@ -31,15 +31,15 @@
       }
     ],
     "answer": "A",
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務技術",
-    "unit": "[第十章 餐廳服務流程] - [第十章 餐廳服務流程]",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-1 餐飲業的定義與特性]",
     "classificationBasis": [
       {
-        "source": "reference-book-rag",
-        "chapter": "第十章 餐廳服務流程",
-        "locator": "第十章 餐廳服務流程",
-        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第十章 餐廳服務流程] - [第十章 餐廳服務流程]」。"
+        "source": "chapter-classification-files",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-1 餐飲業的定義與特性",
+        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
       },
       {
         "source": "AI",
@@ -75,6 +75,12 @@
       ],
       "references": [
         {
+          "source": "chapter-classification-files",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-1 餐飲業的定義與特性",
+          "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
           "source": "111年6月餐飲服務技術-章節分類",
           "chapter": "第十章 餐廳服務流程",
           "locator": "第十章 餐廳服務流程",
@@ -85,22 +91,16 @@
           "chapter": "第一章 餐廳服務基本觀念",
           "locator": "第一章 餐廳服務基本觀念",
           "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "飲料實務-章節分類",
-          "chapter": "第一章 飲務的作業規範",
-          "locator": "第一章 飲務的作業規範",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
         }
       ],
-      "updatedAt": "2026-07-27T15:20:37.838Z"
+      "updatedAt": "2026-07-27T15:37:07.176Z"
     },
     "reviewStatus": "approved",
     "flags": [],
-    "searchText": "以下為餐廳工作流程,請依正確流程排列之:1.Mise en Place;2.Turn Over;3.Tear-Down;4.Briefing;5.Service 1→4→5→3→2 1→4→5→2→3 3→2→1→5→4 1→5→4→3→2。 餐飲服務技術 [第十章 餐廳服務流程] - [第十章 餐廳服務流程] 第十章 餐廳服務流程 依據餐廳標準作業流程:首先是營業前準備工作(Mise en Place),接著是服務前會議(Briefing),再來進行營業服務(Service),服務結束後收拾桌面(Tear-down),最後才是換場重新佈置(Turn Over),準備迎接下一組客人。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第四章 營業前的準備工作與營業後的收善工作,定位:第四章 營業前的準備工作與營業後的收善工作;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第四章 營業前的準備工作與營業後的收善工作,定位:第四章 營業前的準備工作與營業後的收善工作;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術-章節分類》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 依序為準備、會議、服務、收拾、重新佈置,順序正確。 Turn Over 必須在 Tear-down 之後。 Tear-down 不可能在 Mise en Place 之前。 Briefing 應在 Service 之前進行。",
+    "searchText": "以下為餐廳工作流程,請依正確流程排列之:1.Mise en Place;2.Turn Over;3.Tear-Down;4.Briefing;5.Service 1→4→5→3→2 1→4→5→2→3 3→2→1→5→4 1→5→4→3→2。 觀光餐旅業導論 [CH3 餐飲業] - [3-1 餐飲業的定義與特性] 3-1 餐飲業的定義與特性 依據餐廳標準作業流程:首先是營業前準備工作(Mise en Place),接著是服務前會議(Briefing),再來進行營業服務(Service),服務結束後收拾桌面(Tear-down),最後才是換場重新佈置(Turn Over),準備迎接下一組客人。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第四章 營業前的準備工作與營業後的收善工作,定位:第四章 營業前的準備工作與營業後的收善工作;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第四章 營業前的準備工作與營業後的收善工作,定位:第四章 營業前的準備工作與營業後的收善工作;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:依序為準備、會議、服務、收拾、重新佈置,順序正確。 B:Turn Over 必須在 Tear-down 之後。 C:Tear-down 不可能在 Mise en Place 之前。 D:Briefing 應在 Service 之前進行。 【參考書依據】主要參考《111年6月餐飲服務技術-章節分類》第十章 餐廳服務流程,定位:第十章 餐廳服務流程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 依序為準備、會議、服務、收拾、重新佈置,順序正確。 Turn Over 必須在 Tear-down 之後。 Tear-down 不可能在 Mise en Place 之前。 Briefing 應在 Service 之前進行。",
     "sequence": 2682,
     "relatedConceptIds": [],
-    "conceptLabel": "第十章 餐廳服務流程",
-    "conceptId": "foodservice-8db7457fbe"
+    "conceptLabel": "3-1 餐飲業的定義與特性",
+    "conceptId": "tourism-hospitality-3f958e062e"
   }
 }

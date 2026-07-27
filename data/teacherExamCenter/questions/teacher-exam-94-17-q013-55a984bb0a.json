@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-refbook-fe4b60e4ea",
+  "dataVersion": "teacher-exam-chapters-29e62be768",
   "question": {
     "id": "teacher-exam-94-17-q013-55a984bb0a",
     "sourceYear": 94,
@@ -33,13 +33,13 @@
     "answer": "B",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責]",
+    "unit": "[CH1 餐廳服務基本觀念] - [1-3 餐廳服務人員的組織與工作職責]",
     "classificationBasis": [
       {
-        "source": "reference-book-rag",
-        "chapter": "第一章 餐廳服務基本觀念",
-        "locator": "餐廳服務人員的組織與工作職責",
-        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「餐飲服務技術」，主題單元為「[第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責]」。"
+        "source": "chapter-classification-files",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-3 餐廳服務人員的組織與工作職責",
+        "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
       },
       {
         "source": "AI",
@@ -75,6 +75,12 @@
       ],
       "references": [
         {
+          "source": "chapter-classification-files",
+          "chapter": "CH1 餐廳服務基本觀念",
+          "locator": "1-3 餐廳服務人員的組織與工作職責",
+          "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
           "source": "111年6月餐飲服務技術",
           "chapter": "第一章 餐廳服務基本觀念",
           "locator": "餐廳服務人員的組織與工作職責",
@@ -85,22 +91,16 @@
           "chapter": "第一章 餐廳服務基本觀念",
           "locator": "第一章 餐廳服務基本觀念",
           "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "飲料實務-章節分類",
-          "chapter": "第一章 飲務的作業規範",
-          "locator": "第一章 飲務的作業規範",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
         }
       ],
-      "updatedAt": "2026-07-27T15:20:37.838Z"
+      "updatedAt": "2026-07-27T15:37:07.176Z"
     },
     "reviewStatus": "approved",
     "flags": [],
-    "searchText": "關於餐廳類型之敘述,何者正確? 麥當勞採用之「得來速服務」稱為 Vending MachineService 餐廳提供有限的菜色,並由服務人員提供送菜、舀取一定份量的菜餚給客人,客人繳交定額餐費後,自行拿到餐桌食用,稱為團膳服務 客人到有提供餐桌椅設備的餐廳用餐時,由領檯員引領入座,服務員依客人點叫內容填寫菜單之後,再將食物端到餐桌上請客人食用,此種服務方式稱為 Counter Service 由客人親自到餐檯選取自己喜歡的食物,再依食物各項的單價核算付款的餐飲供應方式稱為 Buffet Service。 餐飲服務技術 [第一章 餐廳服務基本觀念] - [餐廳服務人員的組織與工作職責] 餐廳服務人員的組織與工作職責 依據餐廳服務類型分類,餐廳提供有限菜色,由服務員分取定量菜餚,客人繳交定額餐費後自行端至餐桌食用,屬於機關團膳服務(Institutional Feeding Service / Feeding)。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第三節餐廳服務人員的組織與工作職責 24;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 此敘述符合團膳服務(Institutional Feeding Service)的定義。 由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。",
+    "searchText": "關於餐廳類型之敘述,何者正確? 麥當勞採用之「得來速服務」稱為 Vending MachineService 餐廳提供有限的菜色,並由服務人員提供送菜、舀取一定份量的菜餚給客人,客人繳交定額餐費後,自行拿到餐桌食用,稱為團膳服務 客人到有提供餐桌椅設備的餐廳用餐時,由領檯員引領入座,服務員依客人點叫內容填寫菜單之後,再將食物端到餐桌上請客人食用,此種服務方式稱為 Counter Service 由客人親自到餐檯選取自己喜歡的食物,再依食物各項的單價核算付款的餐飲供應方式稱為 Buffet Service。 餐飲服務技術 [CH1 餐廳服務基本觀念] - [1-3 餐廳服務人員的組織與工作職責] 1-3 餐廳服務人員的組織與工作職責 依據餐廳服務類型分類,餐廳提供有限菜色,由服務員分取定量菜餚,客人繳交定額餐費後自行端至餐桌食用,屬於機關團膳服務(Institutional Feeding Service / Feeding)。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第三節餐廳服務人員的組織與工作職責 24;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 B:此敘述符合團膳服務(Institutional Feeding Service)的定義。 C:由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 D:由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:餐廳服務人員的組織與工作職責;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 得來速為 Drive-through Service,Vending Machine Service 為自動販賣機服務。 此敘述符合團膳服務(Institutional Feeding Service)的定義。 由領檯引領、服務員點菜並端菜上桌的服務,稱為餐桌服務(Table Service),而非櫃檯服務(Counter Service)。 由客人親自拿取食物再依單價核算付款的為速簡餐服務(Cafeteria Service),Buffet 應為單一價格吃到飽。",
     "sequence": 2680,
     "relatedConceptIds": [],
-    "conceptLabel": "餐廳服務人員的組織與工作職責",
-    "conceptId": "foodservice-2fc1ea6c80"
+    "conceptLabel": "1-3 餐廳服務人員的組織與工作職責",
+    "conceptId": "foodservice-b4e9eec6ad"
   }
 }

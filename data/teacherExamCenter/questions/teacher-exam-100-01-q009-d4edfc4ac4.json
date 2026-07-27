@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-refbook-fe4b60e4ea",
+  "dataVersion": "teacher-exam-chapters-29e62be768",
   "question": {
     "id": "teacher-exam-100-01-q009-d4edfc4ac4",
     "sourceYear": 100,
@@ -31,18 +31,18 @@
       }
     ],
     "answer": "A",
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]",
-    "conceptId": "tourism-hospitality-6bf9a5e5da",
-    "conceptLabel": "第一章 觀光餐旅業基本觀念",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[CH6 酒的分類與製程] - [6-2 蒸餾酒的分類與製程]",
+    "conceptId": "beverage-f2243ec660",
+    "conceptLabel": "6-2 蒸餾酒的分類與製程",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "reference-book-rag",
-        "chapter": "第一章 觀光餐旅業基本觀念",
-        "locator": "第一章 觀光餐旅業基本觀念",
-        "note": "依題幹、選項、答案與附件三本參考書目錄/章節關鍵詞比對，判定科目為「觀光餐旅業導論」，主題單元為「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。"
+        "source": "chapter-classification-files",
+        "chapter": "CH6 酒的分類與製程",
+        "locator": "6-2 蒸餾酒的分類與製程",
+        "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
       },
       {
         "source": "ai-generated-unit",
@@ -76,6 +76,12 @@
       ],
       "references": [
         {
+          "source": "chapter-classification-files",
+          "chapter": "CH6 酒的分類與製程",
+          "locator": "6-2 蒸餾酒的分類與製程",
+          "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
           "source": "觀光餐旅業導論-章節分類",
           "chapter": "第一章 觀光餐旅業基本觀念",
           "locator": "第一章 觀光餐旅業基本觀念",
@@ -86,21 +92,15 @@
           "chapter": "第一章 餐廳服務基本觀念",
           "locator": "第一章 餐廳服務基本觀念",
           "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
         }
       ],
-      "updatedAt": "2026-07-27T15:20:37.838Z"
+      "updatedAt": "2026-07-27T15:37:07.176Z"
     },
     "reviewStatus": "approved",
     "flags": [
       "ai-classification-unit"
     ],
-    "searchText": "Seagram's Crown Royal 是一種威士忌,產於下列那一個國家? 加拿大 日本 英國 美國。 觀光餐旅業導論 [第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念] 第一章 觀光餐旅業基本觀念 【問題分類】觀光餐旅業導論 / Seagram's Crown Royal 是一種威士忌,產於下 / Seagram's Crown Royal 是一種威士忌,產於下。此為教師甄選試卷中的選擇題,非教材內容,無法直接歸類至既有主題。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】Seagram's Crown Royal 是一種威士忌,產於下列那一個國家? 【詳細解析】Seagram's Crown Royal 是一種來自加拿大的威士忌。該品牌由加拿大最大的酒精製造商之一的 Seagram 公司所生產,其主要原料為玉米和大麥,並在橡木桶中陳年數年以獲得特有的風味。 【錯誤選項錯在哪】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【叮嚀】此題考核的是學生對威士忌品牌產地的了解程度。在回答選擇題時,需注意各選項之間的區別,並確保答案的準確性。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。",
+    "searchText": "Seagram's Crown Royal 是一種威士忌,產於下列那一個國家? 加拿大 日本 英國 美國。 飲料實務 [CH6 酒的分類與製程] - [6-2 蒸餾酒的分類與製程] 6-2 蒸餾酒的分類與製程 【問題分類】觀光餐旅業導論 / Seagram's Crown Royal 是一種威士忌,產於下 / Seagram's Crown Royal 是一種威士忌,產於下。此為教師甄選試卷中的選擇題,非教材內容,無法直接歸類至既有主題。 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】Seagram's Crown Royal 是一種威士忌,產於下列那一個國家? 【詳細解析】Seagram's Crown Royal 是一種來自加拿大的威士忌。該品牌由加拿大最大的酒精製造商之一的 Seagram 公司所生產,其主要原料為玉米和大麥,並在橡木桶中陳年數年以獲得特有的風味。 【錯誤選項錯在哪】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【叮嚀】此題考核的是學生對威士忌品牌產地的了解程度。在回答選擇題時,需注意各選項之間的區別,並確保答案的準確性。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 B:日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 C:英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 D:美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Seagram's Crown Royal 確實是來自加拿大的威士忌品牌。 日本並非 Seagram's Crown Royal 威士忌的產地,該品牌屬於加拿大。 英國雖然也有威士忌生產,但 Seagram's Crown Royal 不是出自英國。 美國雖然也是威士忌的重要產地之一,但 Seagram's Crown Royal 并非來自美國。",
     "sequence": 106,
     "aiClassificationUnit": {
       "sourceType": "ai-unit-generated",
