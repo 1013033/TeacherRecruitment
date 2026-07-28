@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "question": {
+    "id": "teacher-exam-98-20-q007-ce08a7a7d7",
+    "sourceYear": 98,
+    "sourceLabel": "98 年第 7 題",
+    "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+    "sourceLocator": "98??????????(??) 10?.md#manual-restore-katong-7",
+    "paperTitle": "是非/選擇：共 30 題，每題 2 分，共 60 分",
+    "schoolName": "國立佳冬高級農業職業學校九十八學年度第一次教師甄選【餐飲管理科】筆試試卷",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列何種方法，可防止冷藏（凍）庫的二次污染？",
+    "options": [
+      {
+        "id": "1",
+        "text": "各類食物妥善包裝並分類"
+      },
+      {
+        "id": "2",
+        "text": "食物交互置放"
+      },
+      {
+        "id": "3",
+        "text": "經常將食物取出並定期除霜"
+      },
+      {
+        "id": "4",
+        "text": "增加開關庫門之次數。"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[CH7 混合性飲料調製] - [7-1 混合性飲料的種類]",
+    "conceptId": "beverage-9fa87255a3",
+    "conceptLabel": "7-1 混合性飲料的種類",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chapter-classification-files",
+        "chapter": "CH7 混合性飲料調製",
+        "locator": "7-1 混合性飲料的種類",
+        "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+      },
+      {
+        "source": "unit-cleanup",
+        "chapter": "第七章 混合性飲料調製",
+        "locator": "雞尾酒與混合性飲料調製",
+        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [1. (A) 2. (A) 3. (A) 4. (C) 5. (A) 6. (D) 7. (B)]"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "此題已依原始試題修正為選擇題格式，解析需重新檢核。",
+      "optionExplanations": [],
+      "references": [
+        {
+          "source": "chapter-classification-files",
+          "chapter": "CH7 混合性飲料調製",
+          "locator": "7-1 混合性飲料的種類",
+          "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
+          "source": "飲料實務",
+          "chapter": "第二章 器具、材料與調製法",
+          "locator": "飲料調製的材料",
+          "note": "參考書 OCR 估算 頁 26"
+        },
+        {
+          "source": "111年6月餐飲服務技術-章節分類",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T15:51:42.468Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "manual-restore-numeric-choice"
+    ],
+    "searchText": "下列何種方法，可防止冷藏（凍）庫的二次污染？ 各類食物妥善包裝並分類 食物交互置放 經常將食物取出並定期除霜 增加開關庫門之次數。 飲料實務 [CH7 混合性飲料調製] - [7-1 混合性飲料的種類] 7-1 混合性飲料的種類 此題已依原始試題修正為選擇題格式，解析需重新檢核。",
+    "sequence": 3289.05,
+    "answer": "1"
+  }
+}

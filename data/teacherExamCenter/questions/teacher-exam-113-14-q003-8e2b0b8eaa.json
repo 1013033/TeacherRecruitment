@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "question": {
+    "id": "teacher-exam-113-14-q003-8e2b0b8eaa",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 3 題",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#manual-restore-q3",
+    "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校",
+    "questionNumber": 3,
+    "questionType": "essay",
+    "prompt": "請寫出常見的會議場地布置形式",
+    "options": [],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務",
+    "unit": "[CH10 餐廳服務流程] - [10-4 宴會廳服務流程]",
+    "conceptId": "foodservice-e1f68d170c",
+    "conceptLabel": "10-4 宴會廳服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "chapter-classification-files",
+        "chapter": "CH2 食材處理與刀工",
+        "locator": "2-3 魚類、蝦蟹與海鮮處理",
+        "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+      },
+      {
+        "source": "manual",
+        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "此題已依原始試題修正題幹格式，解析需重新檢核。",
+      "optionExplanations": [],
+      "references": [
+        {
+          "source": "chapter-classification-files",
+          "chapter": "CH2 食材處理與刀工",
+          "locator": "2-3 魚類、蝦蟹與海鮮處理",
+          "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
+        },
+        {
+          "source": "111年6月餐飲服務技術",
+          "chapter": "第六章 餐桌布置與擺設",
+          "locator": "中餐餐桌布置與擺設",
+          "note": "參考書 OCR 估算 頁 209"
+        },
+        {
+          "source": "111年6月餐飲服務技術-章節分類",
+          "chapter": "第一章 餐廳服務基本觀念",
+          "locator": "第一章 餐廳服務基本觀念",
+          "note": "由參考書章節目錄與題目關鍵詞定位"
+        }
+      ],
+      "updatedAt": "2026-07-27T15:51:42.468Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "manual-trim-merged-answer-key",
+      "manual-restore-missing-question"
+    ],
+    "searchText": "請寫出常見的會議場地布置形式 餐飲服務 [CH10 餐廳服務流程] - [10-4 宴會廳服務流程] 10-4 宴會廳服務流程 此題已依原始試題修正題幹格式，解析需重新檢核。",
+    "sequence": 2175.3
+  }
+}
