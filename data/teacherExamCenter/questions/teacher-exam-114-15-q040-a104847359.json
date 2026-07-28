@@ -4,105 +4,56 @@
   "question": {
     "id": "teacher-exam-114-15-q040-a104847359",
     "sourceYear": 114,
-    "sourceLabel": "114 年第 40 題",
+    "sourceLabel": "114 年第 40-43 題（菜單題組）",
     "sourceFile": "114 教師甄試題目.md",
     "sourceLocator": "114 教師甄試題目.md#offset-16665",
     "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
     "schoolName": "國立馬祖高級中學",
     "questionNumber": 40,
-    "questionType": "single-choice",
-    "prompt": "請問以上菜單會使用到那些器具，請選出正確選項？",
+    "questionType": "short-answer",
+    "prompt": "40. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate\n(B) Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate\n(C) Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate\n(D) Soup Bowl、Dinner Plate、Snifter、Dessert Plate。\n\n41. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Entremets。\n\n42. 請問上述菜單較可能是哪一個宗教食用？\n(A) Mormonism\n(B) Muslim\n(C) Hindu\n(D) Catholicism。\n\n43. 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？\n(A) Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader\n(B) Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader\n(C) Clear Spoon、Fish Knife、Fish Fork、Butter Spreader\n(D) Clear Spoon、Table Knife、Table Fork、Butter Spreader",
     "options": [
       {
-        "id": "A",
-        "text": "Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate"
+        "id": "40",
+        "text": "答案：B"
       },
       {
-        "id": "B",
-        "text": "Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate"
+        "id": "41",
+        "text": "答案：D"
       },
       {
-        "id": "C",
-        "text": "Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate"
+        "id": "42",
+        "text": "答案：D"
       },
       {
-        "id": "D",
-        "text": "Soup Bowl、Dinner Plate、Snifter、Dessert Plate。"
+        "id": "43",
+        "text": "答案：C"
       }
     ],
-    "answer": "B",
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[CH1 西餐基本概念與菜單] - [1-2 西餐菜單結構與上菜順序]",
-    "conceptId": "western-culinary-a2461a283c",
-    "conceptLabel": "1-2 西餐菜單結構與上菜順序",
-    "relatedConceptIds": [],
-    "classificationBasis": [
-      {
-        "source": "chapter-classification-files",
-        "chapter": "CH1 西餐基本概念與菜單",
-        "locator": "1-2 西餐菜單結構與上菜順序",
-        "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
-        "source": "unit-cleanup",
-        "chapter": "第七章 混合性飲料調製",
-        "locator": "雞尾酒與混合性飲料調製",
-        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第二章 器具、材料與調製法] - [第二章 器具、材料與調製法]"
-      }
+    "answer": "40:B、41:D、42:D、43:C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
+    "conceptId": "foodservice-55b2fc90e4",
+    "conceptLabel": "5-2 菜單功能與結構",
+    "relatedConceptIds": [
+      "western-culinary-a2461a283c",
+      "foodservice-b69ba8c6d0",
+      "foodservice-bf1e166427"
     ],
+    "classificationBasis": "人工修正：第 40-43 題共用同一組菜單題幹，合併成題組入口，避免各子題分散在不同分類造成作答資訊不完整。",
     "explanation": {
       "status": "approved",
-      "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第二章 器具、材料與調製法] - [第二章 器具、材料與調製法]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務-章節分類》第二章 器具、材料與調製法，定位：第二章 器具、材料與調製法；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
-      "optionExplanations": [
-        {
-          "optionId": "A",
-          "isCorrect": false,
-          "explanation": "此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。"
-        },
-        {
-          "optionId": "B",
-          "isCorrect": true,
-          "explanation": "此選項符合題幹所問的正確答案「B」。"
-        },
-        {
-          "optionId": "C",
-          "isCorrect": false,
-          "explanation": "此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。"
-        },
-        {
-          "optionId": "D",
-          "isCorrect": false,
-          "explanation": "此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。"
-        }
-      ],
-      "references": [
-        {
-          "source": "chapter-classification-files",
-          "chapter": "CH1 西餐基本概念與菜單",
-          "locator": "1-2 西餐菜單結構與上菜順序",
-          "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "飲料實務-章節分類",
-          "chapter": "第二章 器具、材料與調製法",
-          "locator": "第二章 器具、材料與調製法",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        }
-      ],
-      "updatedAt": "2026-07-28T00:00:00.000+08:00"
+      "answerExplanation": "答案為 40:B、41:D、42:D、43:C。此題組需共同參照 Bourride、Pan-fried Red Snapper、Caipirinha、Souffle 菜單資訊作答。",
+      "optionExplanations": [],
+      "generatedAt": "2026-07-28",
+      "model": "manual-correction"
     },
     "reviewStatus": "approved",
     "flags": [
       "manual-add-reading-passage"
     ],
-    "searchText": "請依照以下所提供之菜單訊息,回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 請問以上菜單會使用到那些器具,請選出正確選項? AShallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate BSoup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate CSoup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate DSoup Bowl、Dinner Plate、Snifter、Dessert Plate。 西餐 [CH1 西餐基本概念與菜單] - [1-2 西餐菜單結構與上菜順序] 1-2 西餐菜單結構與上菜順序 本題依題幹與選項判斷,核心考點落在「[第二章 器具、材料與調製法] - [第二章 器具、材料與調製法]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第二章 器具、材料與調製法,定位:第二章 器具、材料與調製法;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B」。 C：此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D：此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務-章節分類》第二章 器具、材料與調製法,定位：第二章 器具、材料與調製法；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。",
+    "searchText": "114 年第 40-43 題（菜單題組） 國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 40. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate\n(B) Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate\n(C) Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate\n(D) Soup Bowl、Dinner Plate、Snifter、Dessert Plate。\n\n41. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Entremets。\n\n42. 請問上述菜單較可能是哪一個宗教食用？\n(A) Mormonism\n(B) Muslim\n(C) Hindu\n(D) Catholicism。\n\n43. 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？\n(A) Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader\n(B) Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader\n(C) Clear Spoon、Fish Knife、Fish Fork、Butter Spreader\n(D) Clear Spoon、Table Knife、Table Fork、Butter Spreader 40:B、41:D、42:D、43:C 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 40 答案：B 41 答案：D 42 答案：D 43 答案：C 答案為 40:B、41:D、42:D、43:C。此題組需共同參照 Bourride、Pan-fried Red Snapper、Caipirinha、Souffle 菜單資訊作答。",
     "sequence": 2330,
     "readingPassage": "請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle"
   }
