@@ -2,30 +2,10 @@
   "schemaVersion": 1,
   "dataVersion": "teacher-exam-chapters-ee58421d72",
   "generatedAt": "2026-07-28T10:55:29.925Z",
-  "questionCount": 3495,
+  "questionCount": 3492,
   "conceptCount": 130,
   "unresolvedQuestionCount": 0,
   "subjects": [
-    {
-      "id": "tourism-hospitality",
-      "label": "觀光餐旅業導論",
-      "questionCount": 1642
-    },
-    {
-      "id": "beverage",
-      "label": "飲料實務",
-      "questionCount": 824
-    },
-    {
-      "id": "foodservice",
-      "label": "餐飲服務技術",
-      "questionCount": 399
-    },
-    {
-      "id": "western-culinary",
-      "label": "西餐",
-      "questionCount": 321
-    },
     {
       "id": "chinese-culinary",
       "label": "中餐",
@@ -35,300 +15,150 @@
       "id": "baking",
       "label": "烘焙",
       "questionCount": 119
+    },
+    {
+      "id": "western-culinary",
+      "label": "西餐",
+      "questionCount": 321
+    },
+    {
+      "id": "tourism-hospitality",
+      "label": "觀光餐旅",
+      "questionCount": 2
+    },
+    {
+      "id": "tourism-hospitality",
+      "label": "觀光餐旅業導論",
+      "questionCount": 1638
+    },
+    {
+      "id": "beverage",
+      "label": "飲料實務",
+      "questionCount": 824
+    },
+    {
+      "id": "foodservice",
+      "label": "餐飲服務",
+      "questionCount": 2
+    },
+    {
+      "id": "foodservice",
+      "label": "餐飲服務技術",
+      "questionCount": 397
     }
   ],
   "schools": [
     {
-      "name": "100 學年度餐旅群教師甄試試題彙編",
-      "questionCount": 66
-    },
-    {
-      "name": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
-      "questionCount": 30
-    },
-    {
-      "name": "113年公立高級中等學校教師甄選",
-      "questionCount": 48
-    },
-    {
-      "name": "114年公立高級中等學校教師甄選",
-      "questionCount": 44
-    },
-    {
-      "name": "115年公立高級中等學校教師甄選",
-      "questionCount": 49
-    },
-    {
       "name": "未標示學校",
-      "questionCount": 245
+      "questionCount": 241
     },
     {
-      "name": "光復商工教師甄選餐飲管理科",
-      "questionCount": 63
-    },
-    {
-      "name": "桃園市立高級中等學校",
-      "questionCount": 20
-    },
-    {
-      "name": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
-      "questionCount": 50
-    },
-    {
-      "name": "桃園市立高級中等學校 112學年度教師聯合甄選筆試試題",
-      "questionCount": 18
-    },
-    {
-      "name": "高中部觀光科試題卷",
-      "questionCount": 32
-    },
-    {
-      "name": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
-      "questionCount": 20
-    },
-    {
-      "name": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
-      "questionCount": 20
-    },
-    {
-      "name": "高雄市101學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
-      "questionCount": 10
-    },
-    {
-      "name": "高雄市108學年度市立高級中等學校聯合教師甄選餐飲管理科試題卷",
-      "questionCount": 12
-    },
-    {
-      "name": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
-      "questionCount": 23
-    },
-    {
-      "name": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
-      "questionCount": 20
-    },
-    {
-      "name": "高雄市立餐旅國民中學104學年度教師甄選",
-      "questionCount": 26
-    },
-    {
-      "name": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
-      "questionCount": 50
-    },
-    {
-      "name": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
-      "questionCount": 27
-    },
-    {
-      "name": "國立玉井工商104學年度第二次教師甄試題目卷",
-      "questionCount": 42
-    },
-    {
-      "name": "國立玉井高級工商職業學校 98 學年度第一次教師甄審餐飲管理科試卷",
-      "questionCount": 16
-    },
-    {
-      "name": "國立玉井高級工商職業學校101學年度第1次教師甄試餐飲科題目卷",
-      "questionCount": 41
-    },
-    {
-      "name": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
-      "questionCount": 44
+      "name": "新北市公立高級中等學校",
+      "questionCount": 174
     },
     {
       "name": "國立光復高級商工職業學校104學年度教師甄選",
       "questionCount": 100
     },
     {
-      "name": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
-      "questionCount": 25
-    },
-    {
-      "name": "國立佳冬高級農業職業學校九十八學年度第一次教師甄選【餐飲管理科】筆試試卷",
-      "questionCount": 31
-    },
-    {
-      "name": "國立金門高級農工職業學校",
-      "questionCount": 50
-    },
-    {
-      "name": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
-      "questionCount": 43
-    },
-    {
-      "name": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
-      "questionCount": 30
-    },
-    {
-      "name": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
-      "questionCount": 34
-    },
-    {
-      "name": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
-      "questionCount": 46
-    },
-    {
-      "name": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
-      "questionCount": 47
-    },
-    {
-      "name": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
-      "questionCount": 51
-    },
-    {
-      "name": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
-      "questionCount": 19
-    },
-    {
-      "name": "國立馬祖高級中學",
-      "questionCount": 73
-    },
-    {
-      "name": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
-      "questionCount": 24
-    },
-    {
-      "name": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
-      "questionCount": 25
-    },
-    {
-      "name": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
-      "questionCount": 51
-    },
-    {
-      "name": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
-      "questionCount": 58
-    },
-    {
-      "name": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
-      "questionCount": 50
-    },
-    {
-      "name": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
-      "questionCount": 20
-    },
-    {
-      "name": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
-      "questionCount": 42
-    },
-    {
-      "name": "國立溪湖高中96學年度教師甄選觀光餐飲科試題",
-      "questionCount": 25
-    },
-    {
-      "name": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
-      "questionCount": 22
-    },
-    {
-      "name": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
-      "questionCount": 20
-    },
-    {
-      "name": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
-      "questionCount": 81
-    },
-    {
-      "name": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
-      "questionCount": 82
-    },
-    {
-      "name": "國立臺南家齊女中 98 學年度第一次專任及代理教師甄選考試餐飲科",
-      "questionCount": 22
-    },
-    {
-      "name": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
-      "questionCount": 44
-    },
-    {
-      "name": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
-      "questionCount": 31
-    },
-    {
-      "name": "國立臺南家齊高級中等學校",
-      "questionCount": 38
-    },
-    {
-      "name": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
-      "questionCount": 30
-    },
-    {
-      "name": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
-      "questionCount": 36
-    },
-    {
-      "name": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
-      "questionCount": 50
-    },
-    {
-      "name": "國立頭城高級家事商業職業學校",
-      "questionCount": 28
-    },
-    {
-      "name": "國立頭城高級家事商業職業學校 109 學年度第 1 次教師甄選觀光事業科題目卷",
-      "questionCount": 18
-    },
-    {
-      "name": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
-      "questionCount": 26
-    },
-    {
-      "name": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
-      "questionCount": 30
-    },
-    {
-      "name": "國立羅東高級商業職業學校104學年度教師甄選",
-      "questionCount": 34
-    },
-    {
-      "name": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
-      "questionCount": 30
+      "name": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
+      "questionCount": 100
     },
     {
       "name": "國立關西高中104學年度第一次教師甄試試題卷",
       "questionCount": 90
     },
     {
-      "name": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
-      "questionCount": 13
-    },
-    {
-      "name": "國立關西高級中學 106 學年度第 1 次教師甄選試卷",
-      "questionCount": 100
-    },
-    {
       "name": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
       "questionCount": 90
     },
     {
-      "name": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
-      "questionCount": 20
+      "name": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
+      "questionCount": 88
     },
     {
-      "name": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
-      "questionCount": 35
+      "name": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
+      "questionCount": 82
     },
     {
-      "name": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
-      "questionCount": 25
+      "name": "國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題",
+      "questionCount": 81
+    },
+    {
+      "name": "國立馬祖高級中學",
+      "questionCount": 73
+    },
+    {
+      "name": "100 學年度餐旅群教師甄試試題彙編",
+      "questionCount": 66
+    },
+    {
+      "name": "光復商工教師甄選餐飲管理科",
+      "questionCount": 63
+    },
+    {
+      "name": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
+      "questionCount": 63
+    },
+    {
+      "name": "國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選",
+      "questionCount": 59
+    },
+    {
+      "name": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
+      "questionCount": 51
+    },
+    {
+      "name": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
+      "questionCount": 51
     },
     {
       "name": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
       "questionCount": 51
     },
     {
-      "name": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
-      "questionCount": 20
+      "name": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
+      "questionCount": 51
     },
     {
-      "name": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
-      "questionCount": 20
+      "name": "國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷",
+      "questionCount": 50
     },
     {
-      "name": "教師甄選參考題目(餐飲科)",
-      "questionCount": 30
+      "name": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
+      "questionCount": 50
+    },
+    {
+      "name": "國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題",
+      "questionCount": 50
+    },
+    {
+      "name": "國立金門高級農工職業學校",
+      "questionCount": 50
+    },
+    {
+      "name": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+      "questionCount": 50
+    },
+    {
+      "name": "115年公立高級中等學校教師甄選",
+      "questionCount": 49
     },
     {
       "name": "教師甄選參考題目(餐飲管理科)",
       "questionCount": 49
+    },
+    {
+      "name": "113年公立高級中等學校教師甄選",
+      "questionCount": 48
+    },
+    {
+      "name": "國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷",
+      "questionCount": 47
+    },
+    {
+      "name": "國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論",
+      "questionCount": 46
     },
     {
       "name": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
@@ -339,24 +169,212 @@
       "questionCount": 45
     },
     {
-      "name": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
-      "questionCount": 63
+      "name": "114年公立高級中等學校教師甄選",
+      "questionCount": 44
+    },
+    {
+      "name": "國立玉井高級工商職業學校餐飲管理科 97 學年度第一次教師甄試學科試題",
+      "questionCount": 44
+    },
+    {
+      "name": "國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題",
+      "questionCount": 44
+    },
+    {
+      "name": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionCount": 43
+    },
+    {
+      "name": "國立玉井工商104學年度第二次教師甄試題目卷",
+      "questionCount": 42
+    },
+    {
+      "name": "國立新營高工職業學校95學年度教師甄選餐飲科試題",
+      "questionCount": 42
+    },
+    {
+      "name": "國立玉井高級工商職業學校101學年度第1次教師甄試餐飲科題目卷",
+      "questionCount": 41
+    },
+    {
+      "name": "國立臺南家齊高級中等學校",
+      "questionCount": 38
+    },
+    {
+      "name": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
+      "questionCount": 35
+    },
+    {
+      "name": "國立羅東高級商業職業學校104學年度教師甄選",
+      "questionCount": 34
+    },
+    {
+      "name": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+      "questionCount": 34
+    },
+    {
+      "name": "高中部觀光科試題卷",
+      "questionCount": 32
+    },
+    {
+      "name": "國立佳冬高級農業職業學校九十八學年度第一次教師甄選【餐飲管理科】筆試試卷",
+      "questionCount": 31
+    },
+    {
+      "name": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+      "questionCount": 31
+    },
+    {
+      "name": "105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題",
+      "questionCount": 30
+    },
+    {
+      "name": "國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告",
+      "questionCount": 30
+    },
+    {
+      "name": "國立羅東高級商業職業學校九十七學年度第一次教師甄選（餐飲科）筆試試題答案",
+      "questionCount": 30
+    },
+    {
+      "name": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+      "questionCount": 30
+    },
+    {
+      "name": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+      "questionCount": 30
+    },
+    {
+      "name": "教師甄選參考題目(餐飲科)",
+      "questionCount": 30
+    },
+    {
+      "name": "國立頭城高級家事商業職業學校",
+      "questionCount": 28
+    },
+    {
+      "name": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+      "questionCount": 27
+    },
+    {
+      "name": "國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題",
+      "questionCount": 26
+    },
+    {
+      "name": "高雄市立餐旅國民中學104學年度教師甄選",
+      "questionCount": 26
+    },
+    {
+      "name": "國立成功商水101學年度第一次教師甄試筆試試題觀光事業科試題答案卷",
+      "questionCount": 25
+    },
+    {
+      "name": "國立溪湖高中96學年度教師甄選觀光餐飲科試題",
+      "questionCount": 25
+    },
+    {
+      "name": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷",
+      "questionCount": 25
+    },
+    {
+      "name": "教育部受託辦理 103 學年度公立高級中等學校教師甄選",
+      "questionCount": 25
+    },
+    {
+      "name": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
+      "questionCount": 24
+    },
+    {
+      "name": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+      "questionCount": 23
+    },
+    {
+      "name": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+      "questionCount": 22
+    },
+    {
+      "name": "國立臺南家齊女中 98 學年度第一次專任及代理教師甄選考試餐飲科",
+      "questionCount": 22
+    },
+    {
+      "name": "國立嘉義高級家事職業學校 102 學年度第 1 次教師甄選餐飲管理科筆試試題暨答案",
+      "questionCount": 20
+    },
+    {
+      "name": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
+      "questionCount": 20
+    },
+    {
+      "name": "國立霧峰農工 97 學年度教師甄選餐飲管理科筆試試題",
+      "questionCount": 20
+    },
+    {
+      "name": "教育部受託辦理 97 學年度公立高級中等學校教師甄選餐飲管理科試題",
+      "questionCount": 20
+    },
+    {
+      "name": "教育部受託辦理 98 學年度公立高級中等學校教師甄選觀光事業科試題",
+      "questionCount": 20
+    },
+    {
+      "name": "桃園市立高級中等學校",
+      "questionCount": 20
+    },
+    {
+      "name": "高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題",
+      "questionCount": 20
+    },
+    {
+      "name": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
+      "questionCount": 20
+    },
+    {
+      "name": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+      "questionCount": 20
+    },
+    {
+      "name": "國立恆春高級工商職業學校101學年度觀光事業科教師甄選筆試試題卷",
+      "questionCount": 19
+    },
+    {
+      "name": "國立臺南家齊高級中等學校 112 學年度第 1 次餐飲管理科專任教師甄選初試筆試試題",
+      "questionCount": 18
+    },
+    {
+      "name": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+      "questionCount": 18
+    },
+    {
+      "name": "國立頭城高級家事商業職業學校 109 學年度第 1 次教師甄選觀光事業科題目卷",
+      "questionCount": 18
+    },
+    {
+      "name": "桃園市立高級中等學校 112學年度教師聯合甄選筆試試題",
+      "questionCount": 18
+    },
+    {
+      "name": "國立玉井高級工商職業學校 98 學年度第一次教師甄審餐飲管理科試卷",
+      "questionCount": 16
+    },
+    {
+      "name": "國立關西高級中學 104 學年度教師甄選 餐飲管理科 西餐試題",
+      "questionCount": 13
+    },
+    {
+      "name": "高雄市108學年度市立高級中等學校聯合教師甄選餐飲管理科試題卷",
+      "questionCount": 12
+    },
+    {
+      "name": "高雄市101學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+      "questionCount": 10
     },
     {
       "name": "第五部分：高雄市 111 學年度市立高級中等學校聯合教師甄選餐飲管理科試題卷",
       "questionCount": 3
     },
     {
-      "name": "新北市公立高級中等學校",
-      "questionCount": 174
-    },
-    {
-      "name": "新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題",
-      "questionCount": 51
-    },
-    {
-      "name": "臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷",
-      "questionCount": 88
+      "name": "國立臺南家齊女子高級中學",
+      "questionCount": 1
     }
   ],
   "years": [
@@ -385,6 +403,7 @@
   "questionTypes": [
     "essay",
     "multiple-choice",
+    "short-answer",
     "single-choice",
     "true-false"
   ],
@@ -397,63 +416,6 @@
       "label": "1-1 觀光餐旅業的定義",
       "description": "",
       "questionIds": [
-        "teacher-exam-94-17-q026-7bf2ad10ff",
-        "teacher-exam-94-17-q002-6f61a9baca",
-        "teacher-exam-94-17-q003-a5b3aa17ab",
-        "teacher-exam-94-17-q006-a97365e766",
-        "teacher-exam-94-17-q010-a2c53f2aaa",
-        "teacher-exam-96-18-q006-08d9c32cf2",
-        "teacher-exam-96-18-q047-933bb92385",
-        "teacher-exam-96-18-q002-172b4fb128",
-        "teacher-exam-96-18-q004-5601bae97d",
-        "teacher-exam-96-18-q006-71f825d96a",
-        "teacher-exam-96-18-q007-ba7da79118",
-        "teacher-exam-96-18-q008-6149fad55d",
-        "teacher-exam-96-18-q014-b64399999a",
-        "teacher-exam-96-18-q021-9f65138e89",
-        "teacher-exam-96-18-q025-7618d6bf3a",
-        "teacher-exam-97-19-q020-37e88be91b",
-        "teacher-exam-97-19-q025-69a6cb2163",
-        "teacher-exam-97-19-q050-400fc9f255",
-        "teacher-exam-97-19-q013-14003c1fcd",
-        "teacher-exam-97-19-q050-3894054268",
-        "teacher-exam-97-19-q020-ef8617d6d4",
-        "teacher-exam-97-19-q025-a372f99a48",
-        "teacher-exam-97-19-q027-7ab6cccd7c",
-        "teacher-exam-97-19-q048-c45d6cf6c0",
-        "teacher-exam-97-19-q049-a533ce6e54",
-        "teacher-exam-97-19-q005-f5cedf6eb6",
-        "teacher-exam-97-19-q021-0ec5a1d23e",
-        "teacher-exam-98-20-q001-cef4ee27db",
-        "teacher-exam-98-20-q002-638bcecd5e",
-        "teacher-exam-98-20-q005-dbdc917049",
-        "teacher-exam-98-20-q008-4bfcc1c0e8",
-        "teacher-exam-98-20-q009-8eb9b87035",
-        "teacher-exam-98-20-q010-0a436084f2",
-        "teacher-exam-98-20-q022-e47cad300c",
-        "teacher-exam-98-20-q023-1a574e68a9",
-        "teacher-exam-98-20-q024-dd8908de5b",
-        "teacher-exam-98-20-q026-924e4e496c",
-        "teacher-exam-98-20-q032-16782f27eb",
-        "teacher-exam-98-20-q035-3ef38ba310",
-        "teacher-exam-98-20-q036-c51a28b522",
-        "teacher-exam-98-20-q039-70953b8ae5",
-        "teacher-exam-98-20-q040-1ae4f8215a",
-        "teacher-exam-98-20-q041-36c84ffbbb",
-        "teacher-exam-98-20-q043-497a158eca",
-        "teacher-exam-98-20-q044-ba048180be",
-        "teacher-exam-98-20-q001-b749bbc14c",
-        "teacher-exam-98-20-q001-f151981ae1",
-        "teacher-exam-98-20-q009-4d743d2104",
-        "teacher-exam-98-20-q010-50bac6c75c",
-        "teacher-exam-98-20-q017-b00333dac3",
-        "teacher-exam-98-20-q018-9f34c15f7e",
-        "teacher-exam-98-20-q020-cc341da585",
-        "teacher-exam-99-21-q013-cd834b5fa6",
-        "teacher-exam-99-21-q001-f11eedd1ad",
-        "teacher-exam-99-21-q005-4d6771c477",
-        "teacher-exam-99-21-q008-1479f80891",
-        "teacher-exam-99-21-q013-d59c4b996a",
         "teacher-exam-100-01-q003-58fb22f595",
         "teacher-exam-100-01-q015-61478ece55",
         "teacher-exam-100-01-q005-e0da2948a3",
@@ -465,40 +427,47 @@
         "teacher-exam-100-01-q034-13ecc72353",
         "teacher-exam-100-01-q036-6c9c6cc1b5",
         "teacher-exam-100-01-q039-af95138fe8",
+        "teacher-exam-100-01-q001-051ae249de",
+        "teacher-exam-100-01-q005-90acbe52f9",
+        "teacher-exam-100-01-q012-9d652ae5f6",
+        "teacher-exam-100-01-q023-830e33e27e",
         "teacher-exam-100-01-q001-1396f85cd4",
         "teacher-exam-100-01-q003-1504723cf6",
         "teacher-exam-100-01-q004-1beea3a925",
         "teacher-exam-100-01-q007-0fa946ff98",
         "teacher-exam-100-01-q008-18d4d6eec5",
         "teacher-exam-100-01-q009-15f7f84f2b",
-        "teacher-exam-100-01-q005-90acbe52f9",
-        "teacher-exam-100-01-q012-9d652ae5f6",
-        "teacher-exam-100-01-q023-830e33e27e",
-        "teacher-exam-100-01-q001-051ae249de",
         "teacher-exam-101-02-q005-7f3a0f63c5",
         "teacher-exam-101-02-q001-e0c0abcd9f",
         "teacher-exam-101-02-q003-47471bea18",
         "teacher-exam-101-02-q005-f1fb3fad0f",
         "teacher-exam-101-02-q003-f56f59e044",
         "teacher-exam-101-02-q004-50291b7966",
-        "teacher-exam-101-02-q001-15b64f0360",
-        "teacher-exam-101-02-q008-75d9e7e978",
-        "teacher-exam-101-02-q010-e8155bb4a8",
+        "teacher-exam-101-02-q011-73a19cafa4",
+        "teacher-exam-101-02-q003-6dead6423f",
+        "teacher-exam-101-02-q004-cdc4d59e00",
         "teacher-exam-101-02-q007-f07c4f2674",
         "teacher-exam-101-02-q008-4273c04e5e",
         "teacher-exam-101-02-q009-d604ebd84e",
         "teacher-exam-101-02-q010-6d8bbc2c28",
         "teacher-exam-101-02-q017-bd79c6fe44",
         "teacher-exam-101-02-q018-8ecf45131f",
-        "teacher-exam-101-02-q015-828f4df09d",
-        "teacher-exam-101-02-q019-bdca0e6958",
+        "teacher-exam-101-02-q001-15b64f0360",
+        "teacher-exam-101-02-q008-75d9e7e978",
+        "teacher-exam-101-02-q010-e8155bb4a8",
         "teacher-exam-101-02-q010-9638dd4c02",
         "teacher-exam-101-02-q015-b1dc06dc6d",
         "teacher-exam-101-02-q016-64940b4e87",
         "teacher-exam-101-02-q017-229285ae2d",
-        "teacher-exam-101-02-q003-6dead6423f",
-        "teacher-exam-101-02-q004-cdc4d59e00",
-        "teacher-exam-101-02-q011-73a19cafa4",
+        "teacher-exam-101-02-q015-828f4df09d",
+        "teacher-exam-101-02-q019-bdca0e6958",
+        "teacher-exam-102-03-q010-98476d7575",
+        "teacher-exam-102-03-q002-6fc5e4233e",
+        "teacher-exam-102-03-q003-bf1d229222",
+        "teacher-exam-102-03-q001-1af5392d6a",
+        "teacher-exam-102-03-q002-f922a10b69",
+        "teacher-exam-102-03-q003-48b2927ed4",
+        "teacher-exam-102-03-q011-33d8268c0f",
         "teacher-exam-102-03-q007-35a0c67a3e",
         "teacher-exam-102-03-q008-1c7afee92a",
         "teacher-exam-102-03-q009-942617e053",
@@ -506,35 +475,10 @@
         "teacher-exam-102-03-q014-ebac842a64",
         "teacher-exam-102-03-q015-712d42ccd2",
         "teacher-exam-102-03-q018-59a32ddced",
-        "teacher-exam-102-03-q011-33d8268c0f",
-        "teacher-exam-102-03-q010-98476d7575",
-        "teacher-exam-102-03-q002-6fc5e4233e",
-        "teacher-exam-102-03-q003-bf1d229222",
-        "teacher-exam-102-03-q001-1af5392d6a",
-        "teacher-exam-102-03-q002-f922a10b69",
-        "teacher-exam-102-03-q003-48b2927ed4",
-        "teacher-exam-103-04-q008-2bdbdda9b8",
         "teacher-exam-103-04-q005-0d6d2ab545",
         "teacher-exam-103-04-q003-7e5e3e7319",
+        "teacher-exam-103-04-q008-2bdbdda9b8",
         "teacher-exam-104-05-q014-a2c279f96e",
-        "teacher-exam-104-05-q001-f4a5c432fe",
-        "teacher-exam-104-05-q004-01d9f1f438",
-        "teacher-exam-104-05-q006-463a02c569",
-        "teacher-exam-104-05-q008-3c3077c2ff",
-        "teacher-exam-104-05-q009-66e0c46584",
-        "teacher-exam-104-05-q016-f9d5638646",
-        "teacher-exam-104-05-q018-914d1b1882",
-        "teacher-exam-104-05-q002-693fcab549",
-        "teacher-exam-104-05-q001-75afd33a13",
-        "teacher-exam-104-05-q002-bcaa56a20d",
-        "teacher-exam-104-05-q012-5a24e3ddee",
-        "teacher-exam-104-05-q014-b66ae4315f",
-        "teacher-exam-104-05-q015-88af9e1dd1",
-        "teacher-exam-104-05-q020-745a4be34e",
-        "teacher-exam-104-05-q024-c192754588",
-        "teacher-exam-104-05-q029-9981b3f68f",
-        "teacher-exam-104-05-q036-664c9f8365",
-        "teacher-exam-104-05-q038-d963c04015",
         "teacher-exam-104-05-q031-6d09cb3700",
         "teacher-exam-104-05-q060-7696058022",
         "teacher-exam-104-05-q007-17509a0c29",
@@ -547,6 +491,28 @@
         "teacher-exam-104-05-q005-44e8e954cf",
         "teacher-exam-104-05-q001-dbecd2f1c1",
         "teacher-exam-104-05-q003-596ab04332",
+        "teacher-exam-104-05-q001-f4a5c432fe",
+        "teacher-exam-104-05-q004-01d9f1f438",
+        "teacher-exam-104-05-q006-463a02c569",
+        "teacher-exam-104-05-q008-3c3077c2ff",
+        "teacher-exam-104-05-q009-66e0c46584",
+        "teacher-exam-104-05-q016-f9d5638646",
+        "teacher-exam-104-05-q018-914d1b1882",
+        "teacher-exam-104-05-q002-693fcab549",
+        "teacher-exam-104-05-q006-d2f4048a0f",
+        "teacher-exam-104-05-q006-e0e9571653",
+        "teacher-exam-104-05-q001-d3964baf30",
+        "teacher-exam-104-05-q002-2b5b3c3341",
+        "teacher-exam-104-05-q001-75afd33a13",
+        "teacher-exam-104-05-q002-bcaa56a20d",
+        "teacher-exam-104-05-q012-5a24e3ddee",
+        "teacher-exam-104-05-q014-b66ae4315f",
+        "teacher-exam-104-05-q015-88af9e1dd1",
+        "teacher-exam-104-05-q020-745a4be34e",
+        "teacher-exam-104-05-q024-c192754588",
+        "teacher-exam-104-05-q029-9981b3f68f",
+        "teacher-exam-104-05-q036-664c9f8365",
+        "teacher-exam-104-05-q038-d963c04015",
         "teacher-exam-104-05-q003-23294f8e79",
         "teacher-exam-104-05-q006-960865dd65",
         "teacher-exam-104-05-q009-4f28b50763",
@@ -559,10 +525,6 @@
         "teacher-exam-104-05-q001-8d0defee70",
         "teacher-exam-104-05-q002-1e8af30c1b",
         "teacher-exam-104-05-q003-a4a5360286",
-        "teacher-exam-104-05-q001-d3964baf30",
-        "teacher-exam-104-05-q002-2b5b3c3341",
-        "teacher-exam-104-05-q006-d2f4048a0f",
-        "teacher-exam-104-05-q006-e0e9571653",
         "teacher-exam-105-06-q001-489938457f",
         "teacher-exam-105-06-q002-38a676e043",
         "teacher-exam-105-06-q007-75a0221037",
@@ -592,14 +554,12 @@
         "teacher-exam-105-06-q004-91f20ec7b3",
         "teacher-exam-105-06-q005-fd7f6a7eab",
         "teacher-exam-105-06-q002-a4a7bd435c",
-        "teacher-exam-106-07-q005-2d198bfa0c",
-        "teacher-exam-106-07-q008-458fab79b2",
-        "teacher-exam-106-07-q010-e96eab4d7b",
-        "teacher-exam-106-07-q014-c45c1d9870",
-        "teacher-exam-106-07-q016-a825caf470",
-        "teacher-exam-106-07-q018-a69d7df2a8",
-        "teacher-exam-106-07-q005-8da7383e8d",
-        "teacher-exam-106-07-q004-5089836d29",
+        "teacher-exam-106-07-q003-7c62819378",
+        "teacher-exam-106-07-q018-23b79ded3f",
+        "teacher-exam-106-07-q031-60ba8b778f",
+        "teacher-exam-106-07-q033-b7b43dd452",
+        "teacher-exam-106-07-q002-72150f3054",
+        "teacher-exam-106-07-q003-04af283e1e",
         "teacher-exam-106-07-q005-5481cc388c",
         "teacher-exam-106-07-q006-ac8c52a5c8",
         "teacher-exam-106-07-q010-e087715eb1",
@@ -625,12 +585,14 @@
         "teacher-exam-106-07-q001-8ffea57447",
         "teacher-exam-106-07-q047-bbe836caf6",
         "teacher-exam-106-07-q050-10bfc2ef62",
-        "teacher-exam-106-07-q003-7c62819378",
-        "teacher-exam-106-07-q018-23b79ded3f",
-        "teacher-exam-106-07-q031-60ba8b778f",
-        "teacher-exam-106-07-q033-b7b43dd452",
-        "teacher-exam-106-07-q002-72150f3054",
-        "teacher-exam-106-07-q003-04af283e1e",
+        "teacher-exam-106-07-q005-2d198bfa0c",
+        "teacher-exam-106-07-q008-458fab79b2",
+        "teacher-exam-106-07-q010-e96eab4d7b",
+        "teacher-exam-106-07-q014-c45c1d9870",
+        "teacher-exam-106-07-q016-a825caf470",
+        "teacher-exam-106-07-q018-a69d7df2a8",
+        "teacher-exam-106-07-q005-8da7383e8d",
+        "teacher-exam-106-07-q004-5089836d29",
         "teacher-exam-107-08-q006-f001544864",
         "teacher-exam-107-08-q019-1194347162",
         "teacher-exam-107-08-q001-be850fbc95",
@@ -643,6 +605,10 @@
         "teacher-exam-108-09-q005-296c9519e3",
         "teacher-exam-108-09-q001-b6900012d3",
         "teacher-exam-108-09-q002-a021553d71",
+        "teacher-exam-108-09-q015-319a84303f",
+        "teacher-exam-108-09-q030-2730fe4106",
+        "teacher-exam-108-09-q039-4b4826236e",
+        "teacher-exam-108-09-q005-326af7e42c",
         "teacher-exam-108-09-q001-4f95261067",
         "teacher-exam-108-09-q002-f0555483ce",
         "teacher-exam-108-09-q006-b74c71bab8",
@@ -655,13 +621,10 @@
         "teacher-exam-108-09-q003-4a09e005be",
         "teacher-exam-108-09-q004-54b8d77ef1",
         "teacher-exam-108-09-q005-ff231f3f3c",
-        "teacher-exam-108-09-q015-319a84303f",
-        "teacher-exam-108-09-q030-2730fe4106",
-        "teacher-exam-108-09-q039-4b4826236e",
-        "teacher-exam-108-09-q005-326af7e42c",
         "teacher-exam-109-10-q001-4697c982fe",
         "teacher-exam-109-10-q002-22a3d0b390",
         "teacher-exam-109-10-q001-154e0aa843",
+        "teacher-exam-109-10-q001-59d3f68e32",
         "teacher-exam-109-10-q003-835a164298",
         "teacher-exam-109-10-q006-68ad29ee7e",
         "teacher-exam-109-10-q008-c2c98e889a",
@@ -680,13 +643,12 @@
         "teacher-exam-109-10-q001-fb70ed7f23",
         "teacher-exam-109-10-q002-6d69a17fa4",
         "teacher-exam-109-10-q003-9309129f0c",
-        "teacher-exam-109-10-q001-59d3f68e32",
-        "teacher-exam-111-12-q004-20ab472392",
-        "teacher-exam-111-12-q018-c89503649e",
         "teacher-exam-111-12-q006-09de56959c",
         "teacher-exam-111-12-q019-7a07c0834c",
         "teacher-exam-111-12-q022-ee61502ed6",
         "teacher-exam-111-12-q019-7c8f11d240",
+        "teacher-exam-111-12-q004-20ab472392",
+        "teacher-exam-111-12-q018-c89503649e",
         "teacher-exam-112-13-q025-678461fe8c",
         "teacher-exam-113-14-q007-1fbe6c7a66",
         "teacher-exam-113-14-q012-5a8b66d21c",
@@ -698,10 +660,10 @@
         "teacher-exam-113-14-q038-4356b8501a",
         "teacher-exam-113-14-q001-310a387dcb",
         "teacher-exam-113-14-q001-058aa27545",
+        "teacher-exam-113-14-q040-cef6f99720",
         "teacher-exam-113-14-q007-1690fdb868",
         "teacher-exam-113-14-q011-cf148fa4ae",
         "teacher-exam-113-14-q039-79e3a66edf",
-        "teacher-exam-113-14-q040-cef6f99720",
         "teacher-exam-114-15-q002-5709ad125c",
         "teacher-exam-114-15-q012-9b8f04edf0",
         "teacher-exam-114-15-q017-b6d2b364ab",
@@ -710,7 +672,63 @@
         "teacher-exam-114-15-q014-8bc0d53e8e",
         "teacher-exam-114-15-q033-8a1443081c",
         "teacher-exam-115-16-q001-80682c4ccb",
-        "teacher-exam-115-16-q016-173a46937f"
+        "teacher-exam-115-16-q016-173a46937f",
+        "teacher-exam-94-17-q006-a97365e766",
+        "teacher-exam-94-17-q010-a2c53f2aaa",
+        "teacher-exam-94-17-q026-7bf2ad10ff",
+        "teacher-exam-94-17-q002-6f61a9baca",
+        "teacher-exam-94-17-q003-a5b3aa17ab",
+        "teacher-exam-96-18-q021-9f65138e89",
+        "teacher-exam-96-18-q025-7618d6bf3a",
+        "teacher-exam-96-18-q002-172b4fb128",
+        "teacher-exam-96-18-q004-5601bae97d",
+        "teacher-exam-96-18-q006-71f825d96a",
+        "teacher-exam-96-18-q007-ba7da79118",
+        "teacher-exam-96-18-q008-6149fad55d",
+        "teacher-exam-96-18-q014-b64399999a",
+        "teacher-exam-96-18-q006-08d9c32cf2",
+        "teacher-exam-96-18-q047-933bb92385",
+        "teacher-exam-97-19-q020-ef8617d6d4",
+        "teacher-exam-97-19-q025-a372f99a48",
+        "teacher-exam-97-19-q027-7ab6cccd7c",
+        "teacher-exam-97-19-q048-c45d6cf6c0",
+        "teacher-exam-97-19-q049-a533ce6e54",
+        "teacher-exam-97-19-q021-0ec5a1d23e",
+        "teacher-exam-97-19-q005-f5cedf6eb6",
+        "teacher-exam-97-19-q013-14003c1fcd",
+        "teacher-exam-97-19-q050-3894054268",
+        "teacher-exam-97-19-q020-37e88be91b",
+        "teacher-exam-97-19-q025-69a6cb2163",
+        "teacher-exam-97-19-q050-400fc9f255",
+        "teacher-exam-98-20-q001-f151981ae1",
+        "teacher-exam-98-20-q009-4d743d2104",
+        "teacher-exam-98-20-q010-50bac6c75c",
+        "teacher-exam-98-20-q017-b00333dac3",
+        "teacher-exam-98-20-q018-9f34c15f7e",
+        "teacher-exam-98-20-q020-cc341da585",
+        "teacher-exam-98-20-q001-b749bbc14c",
+        "teacher-exam-98-20-q001-cef4ee27db",
+        "teacher-exam-98-20-q002-638bcecd5e",
+        "teacher-exam-98-20-q005-dbdc917049",
+        "teacher-exam-98-20-q008-4bfcc1c0e8",
+        "teacher-exam-98-20-q009-8eb9b87035",
+        "teacher-exam-98-20-q010-0a436084f2",
+        "teacher-exam-98-20-q022-e47cad300c",
+        "teacher-exam-98-20-q023-1a574e68a9",
+        "teacher-exam-98-20-q024-dd8908de5b",
+        "teacher-exam-98-20-q026-924e4e496c",
+        "teacher-exam-98-20-q032-16782f27eb",
+        "teacher-exam-98-20-q035-3ef38ba310",
+        "teacher-exam-98-20-q036-c51a28b522",
+        "teacher-exam-98-20-q039-70953b8ae5",
+        "teacher-exam-98-20-q040-1ae4f8215a",
+        "teacher-exam-98-20-q041-36c84ffbbb",
+        "teacher-exam-98-20-q043-497a158eca",
+        "teacher-exam-98-20-q044-ba048180be",
+        "teacher-exam-99-21-q013-cd834b5fa6",
+        "teacher-exam-99-21-q005-4d6771c477",
+        "teacher-exam-99-21-q008-1479f80891",
+        "teacher-exam-99-21-q013-d59c4b996a"
       ],
       "years": [
         115,
@@ -748,7 +766,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 314,
+      "questionCount": 313,
       "sampleQuestion": "下列何者不是構成觀光現象的基本要素？"
     },
     {
@@ -811,15 +829,6 @@
       "label": "1-3 觀光餐旅業的特性",
       "description": "",
       "questionIds": [
-        "teacher-exam-94-17-q039-697a7bff16",
-        "teacher-exam-96-18-q039-7380e9ed4e",
-        "teacher-exam-96-18-q003-1149f8326b",
-        "teacher-exam-97-19-q005-d6d51c7dd6",
-        "teacher-exam-97-19-q033-f7fabee474",
-        "teacher-exam-97-19-q017-137ad7df27",
-        "teacher-exam-98-20-q010-b0b885d9db",
-        "teacher-exam-98-20-q028-1ab5ddcc26",
-        "teacher-exam-99-21-q002-7f8c8c929a",
         "teacher-exam-101-02-q010-01f3eb063f",
         "teacher-exam-102-03-q001-97da4f4294",
         "teacher-exam-104-05-q007-93648c2624",
@@ -829,7 +838,16 @@
         "teacher-exam-113-14-q020-45c1769c4f",
         "teacher-exam-113-14-q001-44269ac10b",
         "teacher-exam-113-14-q037-fea30c7833",
-        "teacher-exam-115-16-q008-7f8ebecda8"
+        "teacher-exam-115-16-q008-7f8ebecda8",
+        "teacher-exam-94-17-q039-697a7bff16",
+        "teacher-exam-96-18-q003-1149f8326b",
+        "teacher-exam-96-18-q039-7380e9ed4e",
+        "teacher-exam-97-19-q033-f7fabee474",
+        "teacher-exam-97-19-q017-137ad7df27",
+        "teacher-exam-97-19-q005-d6d51c7dd6",
+        "teacher-exam-98-20-q010-b0b885d9db",
+        "teacher-exam-98-20-q028-1ab5ddcc26",
+        "teacher-exam-99-21-q001-f11eedd1ad"
       ],
       "years": [
         115,
@@ -859,7 +877,7 @@
       "reviewStatus": "approved",
       "unresolvedCount": 0,
       "questionCount": 19,
-      "sampleQuestion": "蛋白的起泡作用為蛋黃的 4 倍，主要是因為蛋白中的何種物質具有降低表面張力的特性，使空氣快速加入？"
+      "sampleQuestion": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性，並填入正確代號：\n1. 冰島火山爆發影響航空業，泰國紅衫軍影響觀光。\n2. 火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。\n3. 金品飯店推出「住宿送遊樂園入場卷"
     },
     {
       "id": "tourism-hospitality-059ffe1e0b",
@@ -1893,18 +1911,91 @@
       "label": "4-1 旅宿業的定義與特性",
       "description": "",
       "questionIds": [
+        "teacher-exam-100-01-q005-f1121f608d",
+        "teacher-exam-100-01-q001-4516435b86",
+        "teacher-exam-100-01-q035-ea5cdd9344",
+        "teacher-exam-100-01-q013-b6b6787a46",
+        "teacher-exam-101-02-q015-e7b72ab241",
+        "teacher-exam-101-02-q008-3fa20dadb0",
+        "teacher-exam-101-02-q033-9be8ab4fb2",
+        "teacher-exam-101-02-q034-2f4729253a",
+        "teacher-exam-101-02-q003-d2b0c3e664",
+        "teacher-exam-101-02-q011-f06eef5841",
+        "teacher-exam-101-02-q009-d7c6755087",
+        "teacher-exam-101-02-q013-7ed244dd27",
+        "teacher-exam-101-02-q008-679d6cb484",
+        "teacher-exam-101-02-q013-610bb8ec1b",
+        "teacher-exam-102-03-q003-80034c76a0",
+        "teacher-exam-102-03-q002-7050405f75",
+        "teacher-exam-102-03-q001-b1dfb1b254",
+        "teacher-exam-102-03-q020-d2fe7b285d",
+        "teacher-exam-102-03-q001-4e5ff9d611",
+        "teacher-exam-102-03-q016-4cd78146dc",
+        "teacher-exam-104-05-q010-757ad081f7",
+        "teacher-exam-104-05-q001-467be3650f",
+        "teacher-exam-104-05-q045-76d9309d0c",
+        "teacher-exam-104-05-q046-8e3f2bea64",
+        "teacher-exam-104-05-q049-270fb0de8d",
+        "teacher-exam-104-05-q051-f783f8b7e1",
+        "teacher-exam-104-05-q053-8309025ed2",
+        "teacher-exam-104-05-q022-e48107a8c1",
+        "teacher-exam-104-05-q024-e5ab049cf4",
+        "teacher-exam-104-05-q017-882a349a11",
+        "teacher-exam-104-05-q023-f0208ce45d",
+        "teacher-exam-104-05-q004-a8f662c917",
+        "teacher-exam-104-05-q009-54250c1ff4",
+        "teacher-exam-104-05-q006-2e13439fbb",
+        "teacher-exam-105-06-q020-aa9c66d21b",
+        "teacher-exam-105-06-q025-49597e7c40",
+        "teacher-exam-106-07-q008-8e8c3950b0",
+        "teacher-exam-106-07-q010-d14b6e70b8",
+        "teacher-exam-106-07-q019-7673e5a730",
+        "teacher-exam-106-07-q024-b36827e4dc",
+        "teacher-exam-106-07-q031-5d89269a14",
+        "teacher-exam-106-07-q033-64ae70b949",
+        "teacher-exam-106-07-q013-878142464c",
+        "teacher-exam-107-08-q004-4b6694d921",
+        "teacher-exam-107-08-q025-f4929ba900",
+        "teacher-exam-107-08-q027-de70bd9859",
+        "teacher-exam-107-08-q039-cb23356ffe",
+        "teacher-exam-108-09-q002-c3c7c738a5",
+        "teacher-exam-108-09-q003-7e209ed02f",
+        "teacher-exam-109-10-q008-79b7685e32",
+        "teacher-exam-109-10-q008-b9b4a46edc",
+        "teacher-exam-110-11-q005-fee8f8f496",
+        "teacher-exam-111-12-q009-09cea01e20",
+        "teacher-exam-111-12-q034-a13cfbdb94",
+        "teacher-exam-111-12-q036-7d255b56a3",
+        "teacher-exam-111-12-q017-53f55b8b3e",
+        "teacher-exam-111-12-q027-0e1627a934",
+        "teacher-exam-112-13-q029-bb5cabb22b",
+        "teacher-exam-112-13-q035-e3a3ef29ab",
+        "teacher-exam-112-13-q007-f78f3c101e",
+        "teacher-exam-113-14-q006-146422f93e",
+        "teacher-exam-113-14-q013-4dd91b7e89",
+        "teacher-exam-113-14-q002-b75228ce93",
+        "teacher-exam-113-14-q027-4eb1b4c8f9",
+        "teacher-exam-113-14-q042-7a280ec1f0",
+        "teacher-exam-113-14-q013-c4e4dbf91e",
+        "teacher-exam-113-14-q001-fb631d467f",
+        "teacher-exam-113-14-q037-c7a5f32a67",
+        "teacher-exam-114-15-q013-3799be2e74",
+        "teacher-exam-114-15-q036-97e84cb740",
+        "teacher-exam-115-16-q002-1461845139",
+        "teacher-exam-115-16-q011-efafa0b703",
+        "teacher-exam-115-16-q016-09bc8cf073",
+        "teacher-exam-115-16-q002-00f2c9f77b",
+        "teacher-exam-115-16-q033-adf9106bd8",
+        "teacher-exam-115-16-q001-ac2b2eb82f",
+        "teacher-exam-94-17-q001-350703f8ae",
         "teacher-exam-94-17-q036-d81e3994e9",
         "teacher-exam-94-17-q011-9175166e6c",
         "teacher-exam-94-17-q012-e54e00b5c3",
         "teacher-exam-94-17-q049-a43ba4ec82",
-        "teacher-exam-94-17-q001-350703f8ae",
         "teacher-exam-96-18-q021-489180a129",
         "teacher-exam-96-18-q022-a7eae61719",
-        "teacher-exam-97-19-q035-d91fcf68fb",
-        "teacher-exam-97-19-q037-5178bf6ab0",
-        "teacher-exam-97-19-q041-141b2e6433",
-        "teacher-exam-97-19-q059-1af2414bad",
-        "teacher-exam-97-19-q003-f743ef2319",
+        "teacher-exam-97-19-q010-ce69a6e211",
+        "teacher-exam-97-19-q011-bd470e8e35",
         "teacher-exam-97-19-q009-7d8d97ef0e",
         "teacher-exam-97-19-q010-4bc8131a35",
         "teacher-exam-97-19-q011-72fbeaf4e2",
@@ -1915,100 +2006,26 @@
         "teacher-exam-97-19-q035-78be4163f0",
         "teacher-exam-97-19-q037-b2f0cd8b1d",
         "teacher-exam-97-19-q050-47d7b9f56c",
-        "teacher-exam-97-19-q027-ea77b120d6",
-        "teacher-exam-97-19-q028-9d2731e502",
         "teacher-exam-97-19-q012-f6126aa04f",
         "teacher-exam-97-19-q013-ace1f81a6a",
-        "teacher-exam-97-19-q010-ce69a6e211",
-        "teacher-exam-97-19-q011-bd470e8e35",
-        "teacher-exam-98-20-q025-9bd2a0ba99",
-        "teacher-exam-98-20-q002-2345186132",
+        "teacher-exam-97-19-q003-f743ef2319",
+        "teacher-exam-97-19-q027-ea77b120d6",
+        "teacher-exam-97-19-q028-9d2731e502",
+        "teacher-exam-97-19-q035-d91fcf68fb",
+        "teacher-exam-97-19-q037-5178bf6ab0",
+        "teacher-exam-97-19-q041-141b2e6433",
+        "teacher-exam-97-19-q059-1af2414bad",
         "teacher-exam-98-20-q002-f6bc859eba",
+        "teacher-exam-98-20-q002-2345186132",
+        "teacher-exam-98-20-q025-9bd2a0ba99",
         "teacher-exam-99-21-q020-7a8f33ffb9",
-        "teacher-exam-99-21-q004-0328d91c61",
-        "teacher-exam-99-21-q016-7f1656d757",
-        "teacher-exam-99-21-q001-f12830701b",
         "teacher-exam-99-21-q008-071593f1fe",
         "teacher-exam-99-21-q015-7f52d25fdb",
         "teacher-exam-99-21-q016-adeac7c776",
         "teacher-exam-99-21-q017-cb9dd05b03",
         "teacher-exam-99-21-q020-5981a4680a",
-        "teacher-exam-100-01-q005-f1121f608d",
-        "teacher-exam-100-01-q001-4516435b86",
-        "teacher-exam-100-01-q013-b6b6787a46",
-        "teacher-exam-100-01-q035-ea5cdd9344",
-        "teacher-exam-101-02-q015-e7b72ab241",
-        "teacher-exam-101-02-q011-f06eef5841",
-        "teacher-exam-101-02-q008-679d6cb484",
-        "teacher-exam-101-02-q013-610bb8ec1b",
-        "teacher-exam-101-02-q009-d7c6755087",
-        "teacher-exam-101-02-q013-7ed244dd27",
-        "teacher-exam-101-02-q008-3fa20dadb0",
-        "teacher-exam-101-02-q033-9be8ab4fb2",
-        "teacher-exam-101-02-q034-2f4729253a",
-        "teacher-exam-101-02-q003-d2b0c3e664",
-        "teacher-exam-102-03-q001-4e5ff9d611",
-        "teacher-exam-102-03-q016-4cd78146dc",
-        "teacher-exam-102-03-q001-b1dfb1b254",
-        "teacher-exam-102-03-q020-d2fe7b285d",
-        "teacher-exam-102-03-q003-80034c76a0",
-        "teacher-exam-102-03-q002-7050405f75",
-        "teacher-exam-104-05-q010-757ad081f7",
-        "teacher-exam-104-05-q001-467be3650f",
-        "teacher-exam-104-05-q006-2e13439fbb",
-        "teacher-exam-104-05-q045-76d9309d0c",
-        "teacher-exam-104-05-q046-8e3f2bea64",
-        "teacher-exam-104-05-q049-270fb0de8d",
-        "teacher-exam-104-05-q051-f783f8b7e1",
-        "teacher-exam-104-05-q053-8309025ed2",
-        "teacher-exam-104-05-q004-a8f662c917",
-        "teacher-exam-104-05-q009-54250c1ff4",
-        "teacher-exam-104-05-q022-e48107a8c1",
-        "teacher-exam-104-05-q024-e5ab049cf4",
-        "teacher-exam-104-05-q017-882a349a11",
-        "teacher-exam-104-05-q023-f0208ce45d",
-        "teacher-exam-105-06-q020-aa9c66d21b",
-        "teacher-exam-105-06-q025-49597e7c40",
-        "teacher-exam-106-07-q013-878142464c",
-        "teacher-exam-106-07-q019-7673e5a730",
-        "teacher-exam-106-07-q024-b36827e4dc",
-        "teacher-exam-106-07-q031-5d89269a14",
-        "teacher-exam-106-07-q033-64ae70b949",
-        "teacher-exam-106-07-q008-8e8c3950b0",
-        "teacher-exam-106-07-q010-d14b6e70b8",
-        "teacher-exam-107-08-q004-4b6694d921",
-        "teacher-exam-107-08-q025-f4929ba900",
-        "teacher-exam-107-08-q027-de70bd9859",
-        "teacher-exam-107-08-q039-cb23356ffe",
-        "teacher-exam-108-09-q002-c3c7c738a5",
-        "teacher-exam-108-09-q003-7e209ed02f",
-        "teacher-exam-109-10-q008-b9b4a46edc",
-        "teacher-exam-109-10-q008-79b7685e32",
-        "teacher-exam-110-11-q005-fee8f8f496",
-        "teacher-exam-111-12-q017-53f55b8b3e",
-        "teacher-exam-111-12-q027-0e1627a934",
-        "teacher-exam-111-12-q009-09cea01e20",
-        "teacher-exam-111-12-q034-a13cfbdb94",
-        "teacher-exam-111-12-q036-7d255b56a3",
-        "teacher-exam-112-13-q007-f78f3c101e",
-        "teacher-exam-112-13-q029-bb5cabb22b",
-        "teacher-exam-112-13-q035-e3a3ef29ab",
-        "teacher-exam-113-14-q006-146422f93e",
-        "teacher-exam-113-14-q013-4dd91b7e89",
-        "teacher-exam-113-14-q002-b75228ce93",
-        "teacher-exam-113-14-q037-c7a5f32a67",
-        "teacher-exam-113-14-q001-fb631d467f",
-        "teacher-exam-113-14-q027-4eb1b4c8f9",
-        "teacher-exam-113-14-q042-7a280ec1f0",
-        "teacher-exam-113-14-q013-c4e4dbf91e",
-        "teacher-exam-114-15-q013-3799be2e74",
-        "teacher-exam-114-15-q036-97e84cb740",
-        "teacher-exam-115-16-q002-1461845139",
-        "teacher-exam-115-16-q011-efafa0b703",
-        "teacher-exam-115-16-q016-09bc8cf073",
-        "teacher-exam-115-16-q002-00f2c9f77b",
-        "teacher-exam-115-16-q001-ac2b2eb82f",
-        "teacher-exam-115-16-q033-adf9106bd8"
+        "teacher-exam-99-21-q016-7f1656d757",
+        "teacher-exam-99-21-q001-f12830701b"
       ],
       "years": [
         115,
@@ -2046,7 +2063,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 116,
+      "questionCount": 115,
       "sampleQuestion": "旅館商品的特性，下列何者有誤？"
     },
     {
@@ -2817,10 +2834,6 @@
       "label": "6-1 觀光遊樂產業",
       "description": "",
       "questionIds": [
-        "teacher-exam-96-18-q020-a709ee7c88",
-        "teacher-exam-98-20-q013-74a25f56f6",
-        "teacher-exam-99-21-q018-f29684f345",
-        "teacher-exam-99-21-q003-cb06c1a1c2",
         "teacher-exam-100-01-q038-d79d1ffe42",
         "teacher-exam-104-05-q015-4a36b0ba56",
         "teacher-exam-104-05-q008-57f237c7ce",
@@ -2829,7 +2842,10 @@
         "teacher-exam-111-12-q042-139be9603f",
         "teacher-exam-112-13-q022-4892c9bb69",
         "teacher-exam-113-14-q009-24e27440b1",
-        "teacher-exam-115-16-q009-3f5f21b1c3"
+        "teacher-exam-115-16-q009-3f5f21b1c3",
+        "teacher-exam-96-18-q020-a709ee7c88",
+        "teacher-exam-98-20-q013-74a25f56f6",
+        "teacher-exam-99-21-q018-f29684f345"
       ],
       "years": [
         115,
@@ -2857,7 +2873,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 13,
+      "questionCount": 12,
       "sampleQuestion": "人們所從事的一般活動，若以LRT來詮釋，其中“L”所代表的為："
     },
     {
@@ -26018,86 +26034,23 @@
     {
       "id": "teacher-exam-99-21-q001-f11eedd1ad",
       "sourceYear": 99,
-      "sourceLabel": "99 家齊 1 題",
+      "sourceLabel": "99 家齊 1-4 題",
       "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
       "schoolName": "國立臺南家齊女子高級中學",
       "questionNumber": 1,
-      "questionType": "single-choice",
+      "questionType": "short-answer",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
       "conceptId": "tourism-hospitality-6e854393ac",
       "conceptLabel": "1-3 觀光餐旅業的特性",
-      "answer": "B",
+      "answer": "1:B、2:A、3:G、4:F",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [],
       "sequence": 3332,
-      "promptPreview": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：冰島火山爆發影響航空業，泰國紅衫軍影響觀光。",
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：冰島火山爆發影響航空業，泰國紅衫軍影響觀光。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 B"
-    },
-    {
-      "id": "teacher-exam-99-21-q002-7f8c8c929a",
-      "sourceYear": 99,
-      "sourceLabel": "99 家齊 2 題",
-      "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
-      "schoolName": "國立臺南家齊女子高級中學",
-      "questionNumber": 2,
-      "questionType": "single-choice",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
-      "conceptId": "tourism-hospitality-6e854393ac",
-      "conceptLabel": "1-3 觀光餐旅業的特性",
-      "answer": "A",
-      "reviewStatus": "approved",
-      "explanationStatus": "approved",
-      "flags": [],
-      "sequence": 3333,
-      "promptPreview": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。",
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 A"
-    },
-    {
-      "id": "teacher-exam-99-21-q003-cb06c1a1c2",
-      "sourceYear": 99,
-      "sourceLabel": "99 家齊 3 題",
-      "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
-      "schoolName": "國立臺南家齊女子高級中學",
-      "questionNumber": 3,
-      "questionType": "single-choice",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
-      "conceptId": "tourism-hospitality-6e854393ac",
-      "conceptLabel": "1-3 觀光餐旅業的特性",
-      "reviewStatus": "approved",
-      "explanationStatus": "approved",
-      "flags": [],
-      "sequence": 3334,
-      "promptPreview": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：金品飯店推出「住宿送遊樂園入場卷」的促銷方案，以吸引顧客入住，隨後華貴飯店馬上跟進，推出「住宿送下午茶及泡湯卷」的促銷方案。",
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：金品飯店推出「住宿送遊樂園入場卷」的促銷方案，以吸引顧客入住，隨後華貴飯店馬上跟進，推出「住宿送下午茶及泡湯卷」的促銷方案。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 G",
-      "answer": "G"
-    },
-    {
-      "id": "teacher-exam-99-21-q004-0328d91c61",
-      "sourceYear": 99,
-      "sourceLabel": "99 家齊 4 題",
-      "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
-      "schoolName": "國立臺南家齊女子高級中學",
-      "questionNumber": 4,
-      "questionType": "single-choice",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
-      "conceptId": "tourism-hospitality-6e854393ac",
-      "conceptLabel": "1-3 觀光餐旅業的特性",
-      "reviewStatus": "approved",
-      "explanationStatus": "approved",
-      "flags": [],
-      "sequence": 3335,
-      "promptPreview": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：國王飯店與永欣客運合作，提供旅客飯店至機場的接駁服務。",
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：國王飯店與永欣客運合作，提供旅客飯店至機場的接駁服務。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 F",
-      "answer": "F"
+      "promptPreview": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性，並填入正確代號：\n1. 冰島火山爆發影響航空業，泰國紅衫軍影響觀光。\n2. 火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。\n3. 金品飯店推出「住宿送遊樂園入場卷",
+      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性，並填入正確代號：\n1. 冰島火山爆發影響航空業，泰國紅衫軍影響觀光。\n2. 火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。\n3. 金品飯店推出「住宿送遊樂園入場卷」的促銷方案，以吸引顧客入住，隨後華貴飯店馬上跟進，推出「住宿送下午茶及泡湯卷」的促銷方案。\n4. 國王飯店與永欣客運合作，提供旅客飯店至機場的接駁服務。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 1:B、2:A、3:G、4:F"
     },
     {
       "id": "teacher-exam-99-21-q001-fff143b3a2",

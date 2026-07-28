@@ -9,15 +9,6 @@
     "label": "1-3 觀光餐旅業的特性",
     "description": "",
     "questionIds": [
-      "teacher-exam-94-17-q039-697a7bff16",
-      "teacher-exam-96-18-q039-7380e9ed4e",
-      "teacher-exam-96-18-q003-1149f8326b",
-      "teacher-exam-97-19-q005-d6d51c7dd6",
-      "teacher-exam-97-19-q033-f7fabee474",
-      "teacher-exam-97-19-q017-137ad7df27",
-      "teacher-exam-98-20-q010-b0b885d9db",
-      "teacher-exam-98-20-q028-1ab5ddcc26",
-      "teacher-exam-99-21-q002-7f8c8c929a",
       "teacher-exam-101-02-q010-01f3eb063f",
       "teacher-exam-102-03-q001-97da4f4294",
       "teacher-exam-104-05-q007-93648c2624",
@@ -27,7 +18,16 @@
       "teacher-exam-113-14-q020-45c1769c4f",
       "teacher-exam-113-14-q001-44269ac10b",
       "teacher-exam-113-14-q037-fea30c7833",
-      "teacher-exam-115-16-q008-7f8ebecda8"
+      "teacher-exam-115-16-q008-7f8ebecda8",
+      "teacher-exam-94-17-q039-697a7bff16",
+      "teacher-exam-96-18-q003-1149f8326b",
+      "teacher-exam-96-18-q039-7380e9ed4e",
+      "teacher-exam-97-19-q033-f7fabee474",
+      "teacher-exam-97-19-q017-137ad7df27",
+      "teacher-exam-97-19-q005-d6d51c7dd6",
+      "teacher-exam-98-20-q010-b0b885d9db",
+      "teacher-exam-98-20-q028-1ab5ddcc26",
+      "teacher-exam-99-21-q001-f11eedd1ad"
     ],
     "years": [
       115,
@@ -56,7 +56,8 @@
     ],
     "reviewStatus": "approved",
     "unresolvedCount": 0,
-    "questionCount": 19
+    "questionCount": 19,
+    "sampleQuestion": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性，並填入正確代號：\n1. 冰島火山爆發影響航空業，泰國紅衫軍影響觀光。\n2. 火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。\n3. 金品飯店推出「住宿送遊樂園入場卷"
   },
   "questions": [
     {
@@ -1846,14 +1847,14 @@
     {
       "id": "teacher-exam-99-21-q001-f11eedd1ad",
       "sourceYear": 99,
-      "sourceLabel": "99 家齊 1 題",
+      "sourceLabel": "99 家齊 1-4 題",
       "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
       "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-3757",
       "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
       "schoolName": "國立臺南家齊女子高級中學",
       "questionNumber": 1,
-      "questionType": "single-choice",
-      "prompt": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：冰島火山爆發影響航空業，泰國紅衫軍影響觀光。",
+      "questionType": "short-answer",
+      "prompt": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性，並填入正確代號：\n1. 冰島火山爆發影響航空業，泰國紅衫軍影響觀光。\n2. 火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。\n3. 金品飯店推出「住宿送遊樂園入場卷」的促銷方案，以吸引顧客入住，隨後華貴飯店馬上跟進，推出「住宿送下午茶及泡湯卷」的促銷方案。\n4. 國王飯店與永欣客運合作，提供旅客飯店至機場的接駁服務。",
       "options": [
         {
           "id": "A",
@@ -1884,7 +1885,7 @@
           "text": "競爭性"
         }
       ],
-      "answer": "B",
+      "answer": "1:B、2:A、3:G、4:F",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
@@ -1896,16 +1897,16 @@
           "source": "manual",
           "chapter": "CH1 觀光餐旅業基本觀念",
           "locator": "1-3 觀光餐旅業的特性",
-          "note": "依原始試題截圖與整理後試題，修正 99 年家齊第 1-4 題配合題代號表。"
+          "note": "依原始試題截圖與整理後試題，將 99 年家齊第 1-4 題合併為同一題配合題呈現。"
         }
       ],
       "explanation": {
         "status": "approved",
-        "answerExplanation": "火山爆發、政治事件等外在環境會使觀光需求快速改變，符合觀光餐旅業受環境影響而呈現的易變性。",
+        "answerExplanation": "1 為易變性，外在事件會使觀光需求快速改變；2 為季節性，夏季火鍋淡季以促銷縮小營收落差；3 為競爭性，同業跟進促銷方案爭取客源；4 為互補性，飯店與客運合作提供接駁服務。",
         "optionExplanations": [
           {
             "optionId": "A",
-            "isCorrect": false,
+            "isCorrect": true,
             "explanation": ""
           },
           {
@@ -1930,12 +1931,12 @@
           },
           {
             "optionId": "F",
-            "isCorrect": false,
+            "isCorrect": true,
             "explanation": ""
           },
           {
             "optionId": "G",
-            "isCorrect": false,
+            "isCorrect": true,
             "explanation": ""
           }
         ],
@@ -1943,349 +1944,16 @@
           {
             "source": "99餐旅群教師甄試合併檔(列印) 14頁",
             "chapter": "觀光餐旅業特性配合題",
-            "locator": "第 1 題",
+            "locator": "第 1-4 題",
             "note": "依使用者提供截圖與整理後題目文字修正。"
           }
         ],
-        "updatedAt": "2026-07-28T20:05:00+08:00"
+        "updatedAt": "2026-07-28T20:30:00+08:00"
       },
       "reviewStatus": "approved",
       "flags": [],
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：冰島火山爆發影響航空業，泰國紅衫軍影響觀光。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 B",
+      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性，並填入正確代號：\n1. 冰島火山爆發影響航空業，泰國紅衫軍影響觀光。\n2. 火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。\n3. 金品飯店推出「住宿送遊樂園入場卷」的促銷方案，以吸引顧客入住，隨後華貴飯店馬上跟進，推出「住宿送下午茶及泡湯卷」的促銷方案。\n4. 國王飯店與永欣客運合作，提供旅客飯店至機場的接駁服務。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 1:B、2:A、3:G、4:F",
       "sequence": 3332
-    },
-    {
-      "id": "teacher-exam-99-21-q002-7f8c8c929a",
-      "sourceYear": 99,
-      "sourceLabel": "99 家齊 2 題",
-      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
-      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-3790",
-      "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
-      "schoolName": "國立臺南家齊女子高級中學",
-      "questionNumber": 2,
-      "questionType": "single-choice",
-      "prompt": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。",
-      "options": [
-        {
-          "id": "A",
-          "text": "季節性"
-        },
-        {
-          "id": "B",
-          "text": "易變性"
-        },
-        {
-          "id": "C",
-          "text": "變化性"
-        },
-        {
-          "id": "D",
-          "text": "無歇性"
-        },
-        {
-          "id": "E",
-          "text": "不可儲存性"
-        },
-        {
-          "id": "F",
-          "text": "互補性"
-        },
-        {
-          "id": "G",
-          "text": "競爭性"
-        }
-      ],
-      "answer": "A",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
-      "conceptId": "tourism-hospitality-6e854393ac",
-      "conceptLabel": "1-3 觀光餐旅業的特性",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH1 觀光餐旅業基本觀念",
-          "locator": "1-3 觀光餐旅業的特性",
-          "note": "依原始試題截圖與整理後試題，修正 99 年家齊第 1-4 題配合題代號表。"
-        }
-      ],
-      "explanation": {
-        "status": "approved",
-        "answerExplanation": "火鍋在夏季較容易進入淡季，業者以促銷縮小淡季營收落差，對應餐旅業受淡旺季影響的季節性。",
-        "optionExplanations": [
-          {
-            "optionId": "A",
-            "isCorrect": true,
-            "explanation": ""
-          },
-          {
-            "optionId": "B",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "C",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "D",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "E",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "F",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "G",
-            "isCorrect": false,
-            "explanation": ""
-          }
-        ],
-        "references": [
-          {
-            "source": "99餐旅群教師甄試合併檔(列印) 14頁",
-            "chapter": "觀光餐旅業特性配合題",
-            "locator": "第 2 題",
-            "note": "依使用者提供截圖與整理後題目文字修正。"
-          }
-        ],
-        "updatedAt": "2026-07-28T20:05:00+08:00"
-      },
-      "reviewStatus": "approved",
-      "flags": [],
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：火鍋業者在夏天推出「吃火鍋送冰品」的優惠方案，以縮小淡季營收減少的幅度。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 A",
-      "sequence": 3333
-    },
-    {
-      "id": "teacher-exam-99-21-q003-cb06c1a1c2",
-      "sourceYear": 99,
-      "sourceLabel": "99 家齊 3 題",
-      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
-      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-3837",
-      "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
-      "schoolName": "國立臺南家齊女子高級中學",
-      "questionNumber": 3,
-      "questionType": "single-choice",
-      "prompt": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：金品飯店推出「住宿送遊樂園入場卷」的促銷方案，以吸引顧客入住，隨後華貴飯店馬上跟進，推出「住宿送下午茶及泡湯卷」的促銷方案。",
-      "options": [
-        {
-          "id": "A",
-          "text": "季節性"
-        },
-        {
-          "id": "B",
-          "text": "易變性"
-        },
-        {
-          "id": "C",
-          "text": "變化性"
-        },
-        {
-          "id": "D",
-          "text": "無歇性"
-        },
-        {
-          "id": "E",
-          "text": "不可儲存性"
-        },
-        {
-          "id": "F",
-          "text": "互補性"
-        },
-        {
-          "id": "G",
-          "text": "競爭性"
-        }
-      ],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
-      "conceptId": "tourism-hospitality-6e854393ac",
-      "conceptLabel": "1-3 觀光餐旅業的特性",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH1 觀光餐旅業基本觀念",
-          "locator": "1-3 觀光餐旅業的特性",
-          "note": "依原始試題截圖與整理後試題，修正 99 年家齊第 1-4 題配合題代號表。"
-        }
-      ],
-      "explanation": {
-        "status": "approved",
-        "answerExplanation": "一家飯店推出促銷後，其他飯店隨即跟進相似方案，呈現同業間爭取客源的競爭性。",
-        "optionExplanations": [
-          {
-            "optionId": "A",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "B",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "C",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "D",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "E",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "F",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "G",
-            "isCorrect": true,
-            "explanation": ""
-          }
-        ],
-        "references": [
-          {
-            "source": "99餐旅群教師甄試合併檔(列印) 14頁",
-            "chapter": "觀光餐旅業特性配合題",
-            "locator": "第 3 題",
-            "note": "依使用者提供截圖與整理後題目文字修正。"
-          }
-        ],
-        "updatedAt": "2026-07-28T20:05:00+08:00"
-      },
-      "reviewStatus": "approved",
-      "flags": [],
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：金品飯店推出「住宿送遊樂園入場卷」的促銷方案，以吸引顧客入住，隨後華貴飯店馬上跟進，推出「住宿送下午茶及泡湯卷」的促銷方案。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 G",
-      "sequence": 3334,
-      "answer": "G"
-    },
-    {
-      "id": "teacher-exam-99-21-q004-0328d91c61",
-      "sourceYear": 99,
-      "sourceLabel": "99 家齊 4 題",
-      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
-      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-3910",
-      "paperTitle": "一、試判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性（10分）",
-      "schoolName": "國立臺南家齊女子高級中學",
-      "questionNumber": 4,
-      "questionType": "single-choice",
-      "prompt": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：國王飯店與永欣客運合作，提供旅客飯店至機場的接駁服務。",
-      "options": [
-        {
-          "id": "A",
-          "text": "季節性"
-        },
-        {
-          "id": "B",
-          "text": "易變性"
-        },
-        {
-          "id": "C",
-          "text": "變化性"
-        },
-        {
-          "id": "D",
-          "text": "無歇性"
-        },
-        {
-          "id": "E",
-          "text": "不可儲存性"
-        },
-        {
-          "id": "F",
-          "text": "互補性"
-        },
-        {
-          "id": "G",
-          "text": "競爭性"
-        }
-      ],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性]",
-      "conceptId": "tourism-hospitality-6e854393ac",
-      "conceptLabel": "1-3 觀光餐旅業的特性",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH1 觀光餐旅業基本觀念",
-          "locator": "1-3 觀光餐旅業的特性",
-          "note": "依原始試題截圖與整理後試題，修正 99 年家齊第 1-4 題配合題代號表。"
-        }
-      ],
-      "explanation": {
-        "status": "approved",
-        "answerExplanation": "飯店與客運合作提供接駁，說明餐旅服務常需與交通等相關產業互相配合，屬於互補性。",
-        "optionExplanations": [
-          {
-            "optionId": "A",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "B",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "C",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "D",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "E",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "F",
-            "isCorrect": true,
-            "explanation": ""
-          },
-          {
-            "optionId": "G",
-            "isCorrect": false,
-            "explanation": ""
-          }
-        ],
-        "references": [
-          {
-            "source": "99餐旅群教師甄試合併檔(列印) 14頁",
-            "chapter": "觀光餐旅業特性配合題",
-            "locator": "第 4 題",
-            "note": "依使用者提供截圖與整理後題目文字修正。"
-          }
-        ],
-        "updatedAt": "2026-07-28T20:05:00+08:00"
-      },
-      "reviewStatus": "approved",
-      "flags": [],
-      "searchText": "請判斷下列餐旅業者的做法主要是為因應哪一種餐旅特性：國王飯店與永欣客運合作，提供旅客飯店至機場的接駁服務。 A 季節性 B 易變性 C 變化性 D 無歇性 E 不可儲存性 F 互補性 G 競爭性 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 觀光餐旅業的特性] 1-3 觀光餐旅業的特性 標準答案 F",
-      "sequence": 3335,
-      "answer": "F"
     }
   ]
 }
