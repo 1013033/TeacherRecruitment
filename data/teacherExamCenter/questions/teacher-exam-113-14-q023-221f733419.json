@@ -12,20 +12,7 @@
     "questionNumber": 23,
     "questionType": "short-answer",
     "prompt": "23. 請問這張機票的目前去程的訂位狀況為？\n(A) 限空位搭乘\n(B) 機位確定\n(C) 機位候補\n(D) 不佔位子。\n\n24. 請問這張機票的效期多長？\n(A) 30 天\n(B) 5 個月\n(C) 7 個月\n(D) 1 年。\n\n25. 請問此班航空公司正在執行第幾航權？\n(A) 第五航權\n(B) 第七航權\n(C) 第八航權\n(D) 第九航權。",
-    "options": [
-      {
-        "id": "23",
-        "text": "答案：A"
-      },
-      {
-        "id": "24",
-        "text": "答案：C"
-      },
-      {
-        "id": "25",
-        "text": "答案：D"
-      }
-    ],
+    "options": [],
     "answer": "23:A、24:C、25:D",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
@@ -35,17 +22,23 @@
     "relatedConceptIds": [
       "tourism-hospitality-6f8b56c16c"
     ],
-    "classificationBasis": "人工修正：第 23-25 題共用電子機票題幹，合併成題組入口，避免共同題幹在連續列印與匯出時重複。",
+    "classificationBasis": [
+      "人工修正：第 23-25 題共用電子機票題幹，合併成題組入口，避免共同題幹在連續列印與匯出時重複。",
+      {
+        "source": "manual",
+        "note": "人工修正：113-23 至 25 題組移除重複顯示在下方的答案列，保留 answer 欄位供揭示答案使用。"
+      }
+    ],
     "explanation": {
       "status": "approved",
-      "answerExplanation": "答案為 23:A、24:C、25:D。此題組需共同參照電子機票資訊作答。",
+      "answerExplanation": "此題組共用電子機票資訊作答，答案為 23:A、24:C、25:D。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
       "model": "manual-correction"
     },
     "reviewStatus": "approved",
     "flags": [],
-    "searchText": "113 年第 23-25 題（電子機票題組） 113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題 113年公立高級中等學校教師甄選 請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024 23. 請問這張機票的目前去程的訂位狀況為？\n(A) 限空位搭乘\n(B) 機位確定\n(C) 機位候補\n(D) 不佔位子。\n\n24. 請問這張機票的效期多長？\n(A) 30 天\n(B) 5 個月\n(C) 7 個月\n(D) 1 年。\n\n25. 請問此班航空公司正在執行第幾航權？\n(A) 第五航權\n(B) 第七航權\n(C) 第八航權\n(D) 第九航權。 23:A、24:C、25:D 觀光餐旅業導論 [CH6 旅館業] - [6-3 旅館客務部組織與業務] 6-3 旅館客務部組織與業務 23 答案：A 24 答案：C 25 答案：D 答案為 23:A、24:C、25:D。此題組需共同參照電子機票資訊作答。",
+    "searchText": "113 年第 23-25 題（電子機票題組） 113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題 113年公立高級中等學校教師甄選 23. 請問這張機票的目前去程的訂位狀況為？ (A) 限空位搭乘 (B) 機位確定 (C) 機位候補 (D) 不佔位子。  24. 請問這張機票的效期多長？ (A) 30 天 (B) 5 個月 (C) 7 個月 (D) 1 年。  25. 請問此班航空公司正在執行第幾航權？ (A) 第五航權 (B) 第七航權 (C) 第八航權 (D) 第九航權。 請依照以下所提供之電子機票訊息，回答第 23-25 題。 Passenger Ticket Receipt CHEN/MING JU E-ticket：6168981433273 Ticket Issue Date：9 APR 2024 Issuing Airline：Thai Airways Flight Details Departing Arriving Thai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024 Thai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024 23:A、24:C、25:D 此題組共用電子機票資訊作答，答案為 23:A、24:C、25:D。",
     "sequence": 2020,
     "readingPassage": "請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024"
   }

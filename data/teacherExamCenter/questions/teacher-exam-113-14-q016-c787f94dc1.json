@@ -4,14 +4,14 @@
   "question": {
     "id": "teacher-exam-113-14-q016-c787f94dc1",
     "sourceYear": 113,
-    "sourceLabel": "113 年第 17-18 題",
+    "sourceLabel": "113 年第 17-18 題（填空題組）",
     "sourceFile": "113年教師甄試題目.md",
     "sourceLocator": "113年教師甄試題目.md#offset-28752",
     "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
     "schoolName": "新北市公立高級中等學校",
     "questionNumber": 17,
-    "questionType": "essay",
-    "prompt": "第 17-18 題：Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar\n\n17. ________\n18. ________",
+    "questionType": "short-answer",
+    "prompt": "第 17-18 題：Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar\n\n17. All the drinks in the ___________ are complimentary.\n18. Ben exchanged his US dollars for the local _________ after he arrived in Mumbai.",
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅",
@@ -29,11 +29,15 @@
       {
         "source": "manual",
         "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+      },
+      {
+        "source": "manual",
+        "note": "人工修正：依原始試題補回第 17-18 題完整填空句子，並作為題組呈現。"
       }
     ],
     "explanation": {
-      "status": "needs-review",
-      "answerExplanation": "此題已依原始試題修正題幹格式，解析需重新檢核。",
+      "status": "approved",
+      "answerExplanation": "答案為 17:minibar、18:currency。",
       "optionExplanations": [],
       "references": [
         {
@@ -55,13 +59,16 @@
           "note": "由參考書章節目錄與題目關鍵詞定位"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-27T15:51:42.468Z",
+      "generatedAt": "2026-07-28",
+      "model": "manual-correction"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-restore-fill-in-blank-group"
     ],
-    "searchText": "第 17-18 題:Fill in the blanks using the words provided. access、bistro、money、path、connive、currency、minibar 17. ________ 18. ________ 觀光餐旅 [CH8 觀光餐旅英文與專有名詞] - [8-1 餐旅英文專有名詞] 8-1 餐旅英文專有名詞 此題已依原始試題修正題幹格式，解析需重新檢核。",
-    "sequence": 2142
+    "searchText": "113 年第 17-18 題（填空題組） 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 第 17-18 題：Fill in the blanks using the words provided.  access、bistro、money、path、connive、currency、minibar  17. All the drinks in the ___________ are complimentary. 18. Ben exchanged his US dollars for the local _________ after he arrived in Mumbai. 17:minibar、18:currency 答案為 17:minibar、18:currency。",
+    "sequence": 2142,
+    "answer": "17:minibar、18:currency"
   }
 }
