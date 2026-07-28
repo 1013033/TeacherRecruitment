@@ -76,17 +76,26 @@
     ],
     "explanation": {
       "status": "needs-review",
-      "answerExplanation": "本題為英式下午茶三層點心架配對題。依原題答案：3rd Course：D、E、F、H；2nd Course：B、C、H；1st Course：A、G、I、J。",
+      "answerExplanation": "本題為英式下午茶三層點心架配對題，請依圖片中的 3rd Course、2nd Course、1st Course 欄位填入對應代號。\n3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
       "optionExplanations": [],
       "references": [],
       "updatedAt": "2026-07-28T00:00:00.000Z"
     },
     "reviewStatus": "needs-review",
     "flags": [
-      "manual-format-fix"
+      "manual-format-fix",
+      "manual-image-source"
     ],
-    "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns. egg sandwich scones butter and jam small cakes Madeleines Victoria Sponge finger sandwiches tarts small savories Mini grilled chicken quiche 3rd Course：D、E、F、H 2nd Course：B、C、H 1st Course：A、G、I、J 西餐 4-2 雞肉菜餚 本題為英式下午茶三層點心架配對題。依原題答案：3rd Course：D、E、F、H；2nd Course：B、C、H；1st Course：A、G、I、J。",
+    "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns. egg sandwich scones butter and jam small cakes Madeleines Victoria Sponge finger sandwiches tarts small savories Mini grilled chicken quiche 3rd Course D E F H 2nd Course B C H 1st Course A G I J 西餐 4-2 雞肉菜餚 本題為英式下午茶三層點心架配對題，請依圖片中的 3rd Course、2nd Course、1st Course 欄位填入對應代號。\n3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
     "sequence": 2038,
-    "answer": "3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J"
+    "answer": "3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
+    "images": [
+      {
+        "id": "afternoon-tea-stand",
+        "src": "data/teacherExamCenter/images/113-1-afternoon-tea-stand.png",
+        "alt": "Three-tier sandwich stand for formal British afternoon tea with 1st Course, 2nd Course, and 3rd Course columns.",
+        "caption": "Formal British afternoon tea three-tier stand"
+      }
+    ]
   }
 }
