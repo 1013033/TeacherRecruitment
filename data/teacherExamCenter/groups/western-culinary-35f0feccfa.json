@@ -6025,8 +6025,8 @@
       "sourceLabel": "112 年第 11 題",
       "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
       "sourceLocator": "112餐旅群教師甄試合併檔 (列印) 20頁.md#offset-10197",
-      "paperTitle": "未標示試卷",
-      "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+      "paperTitle": "國立臺南家齊高級中等學校 112 學年度第 1 次餐飲管理科專任教師甄選初試筆試試題",
+      "schoolName": "國立臺南家齊高級中等學校 112 學年度第 1 次餐飲管理科專任教師甄選初試筆試試題",
       "questionNumber": 11,
       "questionType": "single-choice",
       "prompt": "這間西餐廳融合了各國代表料理，請問以下配對哪個錯誤？",
@@ -6110,12 +6110,14 @@
         ],
         "updatedAt": "2026-07-28T00:00:00.000+08:00"
       },
-      "reviewStatus": "approved",
+      "reviewStatus": "needs-review",
       "flags": [
-        "manual-restore-missing-options"
+        "manual-restore-missing-options",
+        "manual-restore-112-jiaqi-options"
       ],
-      "searchText": "這間西餐廳融合了各國代表料理,請問以下配對哪個錯誤? AHungarian Goulash 匈牙利 BRisotto 德國 CBouillabaisse 法國 DMinestrone 義大利 西餐 [CH1 西餐基本概念與菜單] - [1-1 西餐發展、廚房制度與餐飲成本] 1-1 西餐發展、廚房制度與餐飲成本 本題問配對錯誤者,標準答案為 B。Risotto 是義大利料理,不是德國料理。 Hungarian Goulash 為匈牙利代表料理,配對正確。 Risotto 為義大利料理,配對為德國錯誤。 Bouillabaisse 為法國普羅旺斯魚湯,配對正確。 Minestrone 為義大利蔬菜湯,配對正確。",
-      "sequence": 1954
+      "searchText": "歡樂週五夜晚，信奉 Muslim的 Lily、信奉 Hinduism的 Mary、信奉 Judaism的 Jason及信奉 Catholicism的Jay，準備到西餐廳用餐，請依照下列餐廳所提供的菜單提示，選出正確的答案： 這間西餐廳融合了各國代表料理，請問以下配對哪個錯誤？ Hungarian Goulash 匈牙利 Risotto 德國 Bouillabaisse 法國 Minestrone 義大利 西餐 [CH1 西餐基本概念與菜單] - [1-1 西餐發展、廚房制度與餐飲成本] 1-1 西餐發展、廚房制度與餐飲成本",
+      "sequence": 1954,
+      "readingPassage": "歡樂週五夜晚，信奉 Muslim的 Lily、信奉 Hinduism的 Mary、信奉 Judaism的 Jason及信奉 Catholicism的Jay，準備到西餐廳用餐，請依照下列餐廳所提供的菜單提示，選出正確的答案："
     },
     {
       "id": "teacher-exam-112-13-q005-e0a4026fa0",
