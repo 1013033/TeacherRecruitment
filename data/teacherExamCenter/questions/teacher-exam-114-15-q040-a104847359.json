@@ -4,33 +4,33 @@
   "question": {
     "id": "teacher-exam-114-15-q040-a104847359",
     "sourceYear": 114,
-    "sourceLabel": "114 年第 40-43 題（菜單題組）",
+    "sourceLabel": "114 年第 40 題（菜單題組）",
     "sourceFile": "114 教師甄試題目.md",
     "sourceLocator": "114 教師甄試題目.md#offset-16665",
     "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
     "schoolName": "國立馬祖高級中學",
     "questionNumber": 40,
-    "questionType": "short-answer",
-    "prompt": "40. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate\n(B) Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate\n(C) Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate\n(D) Soup Bowl、Dinner Plate、Snifter、Dessert Plate。\n\n41. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Entremets。\n\n42. 請問上述菜單較可能是哪一個宗教食用？\n(A) Mormonism\n(B) Muslim\n(C) Hindu\n(D) Catholicism。\n\n43. 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？\n(A) Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader\n(B) Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader\n(C) Clear Spoon、Fish Knife、Fish Fork、Butter Spreader\n(D) Clear Spoon、Table Knife、Table Fork、Butter Spreader",
+    "questionType": "single-choice",
+    "prompt": "請問以上菜單會使用到那些器具，請選出正確選項？",
     "options": [
       {
-        "id": "40",
-        "text": "答案：B"
+        "id": "A",
+        "text": "Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate"
       },
       {
-        "id": "41",
-        "text": "答案：D"
+        "id": "B",
+        "text": "Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate"
       },
       {
-        "id": "42",
-        "text": "答案：D"
+        "id": "C",
+        "text": "Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate"
       },
       {
-        "id": "43",
-        "text": "答案：C"
+        "id": "D",
+        "text": "Soup Bowl、Dinner Plate、Snifter、Dessert Plate"
       }
     ],
-    "answer": "40:B、41:D、42:D、43:C",
+    "answer": "B",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
     "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
@@ -41,19 +41,19 @@
       "foodservice-b69ba8c6d0",
       "foodservice-bf1e166427"
     ],
-    "classificationBasis": "人工修正：第 40-43 題共用同一組菜單題幹，合併成題組入口，避免各子題分散在不同分類造成作答資訊不完整。",
+    "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
     "explanation": {
       "status": "approved",
-      "answerExplanation": "答案為 40:B、41:D、42:D、43:C。此題組需共同參照 Bourride、Pan-fried Red Snapper、Caipirinha、Souffle 菜單資訊作答。",
+      "answerExplanation": "答案為 B。此題需參照共同菜單資訊作答。",
       "optionExplanations": [],
-      "generatedAt": "2026-07-28",
+      "generatedAt": "2026-07-29",
       "model": "manual-correction"
     },
     "reviewStatus": "approved",
     "flags": [
-      "manual-add-reading-passage"
+      "manual-split-question-group"
     ],
-    "searchText": "114 年第 40-43 題（菜單題組） 國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 40. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate\n(B) Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate\n(C) Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate\n(D) Soup Bowl、Dinner Plate、Snifter、Dessert Plate。\n\n41. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Entremets。\n\n42. 請問上述菜單較可能是哪一個宗教食用？\n(A) Mormonism\n(B) Muslim\n(C) Hindu\n(D) Catholicism。\n\n43. 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？\n(A) Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader\n(B) Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader\n(C) Clear Spoon、Fish Knife、Fish Fork、Butter Spreader\n(D) Clear Spoon、Table Knife、Table Fork、Butter Spreader 40:B、41:D、42:D、43:C 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 40 答案：B 41 答案：D 42 答案：D 43 答案：C 答案為 40:B、41:D、42:D、43:C。此題組需共同參照 Bourride、Pan-fried Red Snapper、Caipirinha、Souffle 菜單資訊作答。",
+    "searchText": "114 年第 40 題（菜單題組） 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 請問以上菜單會使用到那些器具，請選出正確選項？ A Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate B Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate C Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate D Soup Bowl、Dinner Plate、Snifter、Dessert Plate B 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 B。此題需參照共同菜單資訊作答。",
     "sequence": 2330,
     "readingPassage": "請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle"
   }

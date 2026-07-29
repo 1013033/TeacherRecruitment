@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "question": {
+    "id": "teacher-exam-113-14-q028-menu-vichyssoise-lobster",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 28 題（菜單題組）",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-6356",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "請問上述菜單較可能是哪一個宗教食用？",
+    "options": [
+      {
+        "id": "A",
+        "text": "Catholicism"
+      },
+      {
+        "id": "B",
+        "text": "Muslim"
+      },
+      {
+        "id": "C",
+        "text": "Hindu"
+      },
+      {
+        "id": "D",
+        "text": "Mormonism"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
+    "conceptId": "foodservice-55b2fc90e4",
+    "conceptLabel": "5-2 菜單功能與結構",
+    "relatedConceptIds": [
+      "western-culinary-a2461a283c",
+      "foodservice-b69ba8c6d0"
+    ],
+    "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
+    "explanation": {
+      "status": "approved",
+      "answerExplanation": "答案為 A。此題需參照共同菜單資訊作答。",
+      "optionExplanations": [],
+      "generatedAt": "2026-07-29",
+      "model": "manual-correction"
+    },
+    "reviewStatus": "approved",
+    "flags": [
+      "manual-split-question-group"
+    ],
+    "searchText": "113 年第 28 題（菜單題組） 113年公立高級中等學校教師甄選 請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問上述菜單較可能是哪一個宗教食用？ A Catholicism B Muslim C Hindu D Mormonism A 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 A。此題需參照共同菜單資訊作答。",
+    "sequence": 2023.2
+  }
+}

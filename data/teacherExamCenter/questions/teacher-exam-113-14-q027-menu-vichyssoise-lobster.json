@@ -2,32 +2,32 @@
   "schemaVersion": 1,
   "dataVersion": "teacher-exam-chapters-ee58421d72",
   "question": {
-    "id": "teacher-exam-113-14-q026-678cc799d4",
+    "id": "teacher-exam-113-14-q027-menu-vichyssoise-lobster",
     "sourceYear": 113,
-    "sourceLabel": "113 年第 26 題（菜單題組）",
+    "sourceLabel": "113 年第 27 題（菜單題組）",
     "sourceFile": "113年教師甄試題目.md",
     "sourceLocator": "113年教師甄試題目.md#offset-6356",
     "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
     "schoolName": "113年公立高級中等學校教師甄選",
-    "questionNumber": 26,
+    "questionNumber": 27,
     "questionType": "single-choice",
-    "prompt": "請問以上菜單會使用到那些器具，請選出正確選項？",
+    "prompt": "請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？",
     "options": [
       {
         "id": "A",
-        "text": "Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate"
+        "text": "Digestif"
       },
       {
         "id": "B",
-        "text": "Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate"
+        "text": "Entrée"
       },
       {
         "id": "C",
-        "text": "Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate"
+        "text": "Potage"
       },
       {
         "id": "D",
-        "text": "Soup Bowl、Round Plate、Snifter、Divided Dish"
+        "text": "Poisson"
       }
     ],
     "answer": "B",
@@ -52,8 +52,7 @@
     "flags": [
       "manual-split-question-group"
     ],
-    "searchText": "113 年第 26 題（菜單題組） 113年公立高級中等學校教師甄選 請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問以上菜單會使用到那些器具，請選出正確選項？ A Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate B Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate C Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate D Soup Bowl、Round Plate、Snifter、Divided Dish B 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 B。此題需參照共同菜單資訊作答。",
-    "sequence": 2023,
-    "readingPassage": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw"
+    "searchText": "113 年第 27 題（菜單題組） 113年公立高級中等學校教師甄選 請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？ A Digestif B Entrée C Potage D Poisson B 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 B。此題需參照共同菜單資訊作答。",
+    "sequence": 2023.1
   }
 }

@@ -14,8 +14,13 @@
       "teacher-exam-111-12-q014-e0a2fb59ba",
       "teacher-exam-111-12-q040-0725d297b4",
       "teacher-exam-113-14-q026-678cc799d4",
+      "teacher-exam-113-14-q027-menu-vichyssoise-lobster",
+      "teacher-exam-113-14-q028-menu-vichyssoise-lobster",
       "teacher-exam-113-14-q020-a744820695",
       "teacher-exam-114-15-q040-a104847359",
+      "teacher-exam-114-15-q041-menu-bourride-red-snapper",
+      "teacher-exam-114-15-q042-menu-bourride-red-snapper",
+      "teacher-exam-114-15-q043-menu-bourride-red-snapper",
       "teacher-exam-94-17-q004-1c78e3355b",
       "teacher-exam-94-17-q017-a07cac9c6a",
       "teacher-exam-94-17-q034-7e344f9834"
@@ -42,7 +47,7 @@
     ],
     "reviewStatus": "approved",
     "unresolvedCount": 0,
-    "questionCount": 10,
+    "questionCount": 15,
     "sampleQuestion": "設計菜單的原則，在下列選項中何者可不予考慮？"
   },
   "questions": [
@@ -463,29 +468,33 @@
     {
       "id": "teacher-exam-113-14-q026-678cc799d4",
       "sourceYear": 113,
-      "sourceLabel": "113 年第 26-28 題（菜單題組）",
+      "sourceLabel": "113 年第 26 題（菜單題組）",
       "sourceFile": "113年教師甄試題目.md",
       "sourceLocator": "113年教師甄試題目.md#offset-6356",
       "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
       "schoolName": "113年公立高級中等學校教師甄選",
       "questionNumber": 26,
-      "questionType": "short-answer",
-      "prompt": "26. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate\n(B) Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate\n(C) Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate\n(D) Soup Bowl、Round Plate、Snifter、Divided Dish。\n\n27. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Poisson。\n\n28. 請問上述菜單較可能是哪一個宗教食用？\n(A) Catholicism\n(B) Muslim\n(C) Hindu\n(D) Mormonism。",
+      "questionType": "single-choice",
+      "prompt": "請問以上菜單會使用到那些器具，請選出正確選項？",
       "options": [
         {
-          "id": "26",
-          "text": "答案：B"
+          "id": "A",
+          "text": "Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate"
         },
         {
-          "id": "27",
-          "text": "答案：B"
+          "id": "B",
+          "text": "Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate"
         },
         {
-          "id": "28",
-          "text": "答案：A"
+          "id": "C",
+          "text": "Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate"
+        },
+        {
+          "id": "D",
+          "text": "Soup Bowl、Round Plate、Snifter、Divided Dish"
         }
       ],
-      "answer": "26:B、27:B、28:A",
+      "answer": "B",
       "subject": "foodservice",
       "subjectLabel": "餐飲服務技術",
       "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
@@ -495,19 +504,129 @@
         "western-culinary-a2461a283c",
         "foodservice-b69ba8c6d0"
       ],
-      "classificationBasis": "人工修正：第 26-28 題共用菜單題幹，合併成題組入口，避免共同題幹在連續列印與匯出時重複。",
+      "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
       "explanation": {
         "status": "approved",
-        "answerExplanation": "答案為 26:B、27:B、28:A。此題組需共同參照 Vichyssoise、Lobster、Caipirinha、Cole Slaw 菜單資訊作答。",
+        "answerExplanation": "答案為 B。此題需參照共同菜單資訊作答。",
         "optionExplanations": [],
-        "generatedAt": "2026-07-28",
+        "generatedAt": "2026-07-29",
         "model": "manual-correction"
       },
       "reviewStatus": "approved",
-      "flags": [],
-      "searchText": "113 年第 26-28 題（菜單題組） 113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題 113年公立高級中等學校教師甄選 請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 26. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate\n(B) Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate\n(C) Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate\n(D) Soup Bowl、Round Plate、Snifter、Divided Dish。\n\n27. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Poisson。\n\n28. 請問上述菜單較可能是哪一個宗教食用？\n(A) Catholicism\n(B) Muslim\n(C) Hindu\n(D) Mormonism。 26:B、27:B、28:A 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 26 答案：B 27 答案：B 28 答案：A 答案為 26:B、27:B、28:A。此題組需共同參照 Vichyssoise、Lobster、Caipirinha、Cole Slaw 菜單資訊作答。",
+      "flags": [
+        "manual-split-question-group"
+      ],
+      "searchText": "113 年第 26 題（菜單題組） 113年公立高級中等學校教師甄選 請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問以上菜單會使用到那些器具，請選出正確選項？ A Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate B Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate C Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate D Soup Bowl、Round Plate、Snifter、Divided Dish B 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 B。此題需參照共同菜單資訊作答。",
       "sequence": 2023,
       "readingPassage": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw"
+    },
+    {
+      "id": "teacher-exam-113-14-q027-menu-vichyssoise-lobster",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 27 題（菜單題組）",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-6356",
+      "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+      "schoolName": "113年公立高級中等學校教師甄選",
+      "questionNumber": 27,
+      "questionType": "single-choice",
+      "prompt": "請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digestif"
+        },
+        {
+          "id": "B",
+          "text": "Entrée"
+        },
+        {
+          "id": "C",
+          "text": "Potage"
+        },
+        {
+          "id": "D",
+          "text": "Poisson"
+        }
+      ],
+      "answer": "B",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
+      "conceptId": "foodservice-55b2fc90e4",
+      "conceptLabel": "5-2 菜單功能與結構",
+      "relatedConceptIds": [
+        "western-culinary-a2461a283c",
+        "foodservice-b69ba8c6d0"
+      ],
+      "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "答案為 B。此題需參照共同菜單資訊作答。",
+        "optionExplanations": [],
+        "generatedAt": "2026-07-29",
+        "model": "manual-correction"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-split-question-group"
+      ],
+      "searchText": "113 年第 27 題（菜單題組） 113年公立高級中等學校教師甄選 請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？ A Digestif B Entrée C Potage D Poisson B 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 B。此題需參照共同菜單資訊作答。",
+      "sequence": 2023.1
+    },
+    {
+      "id": "teacher-exam-113-14-q028-menu-vichyssoise-lobster",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 28 題（菜單題組）",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-6356",
+      "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+      "schoolName": "113年公立高級中等學校教師甄選",
+      "questionNumber": 28,
+      "questionType": "single-choice",
+      "prompt": "請問上述菜單較可能是哪一個宗教食用？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Catholicism"
+        },
+        {
+          "id": "B",
+          "text": "Muslim"
+        },
+        {
+          "id": "C",
+          "text": "Hindu"
+        },
+        {
+          "id": "D",
+          "text": "Mormonism"
+        }
+      ],
+      "answer": "A",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
+      "conceptId": "foodservice-55b2fc90e4",
+      "conceptLabel": "5-2 菜單功能與結構",
+      "relatedConceptIds": [
+        "western-culinary-a2461a283c",
+        "foodservice-b69ba8c6d0"
+      ],
+      "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "答案為 A。此題需參照共同菜單資訊作答。",
+        "optionExplanations": [],
+        "generatedAt": "2026-07-29",
+        "model": "manual-correction"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-split-question-group"
+      ],
+      "searchText": "113 年第 28 題（菜單題組） 113年公立高級中等學校教師甄選 請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問上述菜單較可能是哪一個宗教食用？ A Catholicism B Muslim C Hindu D Mormonism A 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 A。此題需參照共同菜單資訊作答。",
+      "sequence": 2023.2
     },
     {
       "id": "teacher-exam-113-14-q020-a744820695",
@@ -612,33 +731,33 @@
     {
       "id": "teacher-exam-114-15-q040-a104847359",
       "sourceYear": 114,
-      "sourceLabel": "114 年第 40-43 題（菜單題組）",
+      "sourceLabel": "114 年第 40 題（菜單題組）",
       "sourceFile": "114 教師甄試題目.md",
       "sourceLocator": "114 教師甄試題目.md#offset-16665",
       "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
       "schoolName": "國立馬祖高級中學",
       "questionNumber": 40,
-      "questionType": "short-answer",
-      "prompt": "40. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate\n(B) Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate\n(C) Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate\n(D) Soup Bowl、Dinner Plate、Snifter、Dessert Plate。\n\n41. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Entremets。\n\n42. 請問上述菜單較可能是哪一個宗教食用？\n(A) Mormonism\n(B) Muslim\n(C) Hindu\n(D) Catholicism。\n\n43. 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？\n(A) Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader\n(B) Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader\n(C) Clear Spoon、Fish Knife、Fish Fork、Butter Spreader\n(D) Clear Spoon、Table Knife、Table Fork、Butter Spreader",
+      "questionType": "single-choice",
+      "prompt": "請問以上菜單會使用到那些器具，請選出正確選項？",
       "options": [
         {
-          "id": "40",
-          "text": "答案：B"
+          "id": "A",
+          "text": "Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate"
         },
         {
-          "id": "41",
-          "text": "答案：D"
+          "id": "B",
+          "text": "Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate"
         },
         {
-          "id": "42",
-          "text": "答案：D"
+          "id": "C",
+          "text": "Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate"
         },
         {
-          "id": "43",
-          "text": "答案：C"
+          "id": "D",
+          "text": "Soup Bowl、Dinner Plate、Snifter、Dessert Plate"
         }
       ],
-      "answer": "40:B、41:D、42:D、43:C",
+      "answer": "B",
       "subject": "foodservice",
       "subjectLabel": "餐飲服務技術",
       "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
@@ -649,21 +768,186 @@
         "foodservice-b69ba8c6d0",
         "foodservice-bf1e166427"
       ],
-      "classificationBasis": "人工修正：第 40-43 題共用同一組菜單題幹，合併成題組入口，避免各子題分散在不同分類造成作答資訊不完整。",
+      "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
       "explanation": {
         "status": "approved",
-        "answerExplanation": "答案為 40:B、41:D、42:D、43:C。此題組需共同參照 Bourride、Pan-fried Red Snapper、Caipirinha、Souffle 菜單資訊作答。",
+        "answerExplanation": "答案為 B。此題需參照共同菜單資訊作答。",
         "optionExplanations": [],
-        "generatedAt": "2026-07-28",
+        "generatedAt": "2026-07-29",
         "model": "manual-correction"
       },
       "reviewStatus": "approved",
       "flags": [
-        "manual-add-reading-passage"
+        "manual-split-question-group"
       ],
-      "searchText": "114 年第 40-43 題（菜單題組） 國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 40. 請問以上菜單會使用到那些器具，請選出正確選項？\n(A) Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate\n(B) Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate\n(C) Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate\n(D) Soup Bowl、Dinner Plate、Snifter、Dessert Plate。\n\n41. 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？\n(A) Digestif\n(B) Entrée\n(C) Potage\n(D) Entremets。\n\n42. 請問上述菜單較可能是哪一個宗教食用？\n(A) Mormonism\n(B) Muslim\n(C) Hindu\n(D) Catholicism。\n\n43. 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？\n(A) Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader\n(B) Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader\n(C) Clear Spoon、Fish Knife、Fish Fork、Butter Spreader\n(D) Clear Spoon、Table Knife、Table Fork、Butter Spreader 40:B、41:D、42:D、43:C 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 40 答案：B 41 答案：D 42 答案：D 43 答案：C 答案為 40:B、41:D、42:D、43:C。此題組需共同參照 Bourride、Pan-fried Red Snapper、Caipirinha、Souffle 菜單資訊作答。",
+      "searchText": "114 年第 40 題（菜單題組） 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 請問以上菜單會使用到那些器具，請選出正確選項？ A Shallow Bowl、Dinner Plate、Cocktail Glass、Dessert Plate B Soup Bowl & Saucer、Dinner Plate、Old Fashion Glass、Dessert Plate C Soup Plate、Dinner Plate、Old Fashion Glass、Dessert Plate D Soup Bowl、Dinner Plate、Snifter、Dessert Plate B 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 B。此題需參照共同菜單資訊作答。",
       "sequence": 2330,
       "readingPassage": "請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle"
+    },
+    {
+      "id": "teacher-exam-114-15-q041-menu-bourride-red-snapper",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 41 題（菜單題組）",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-16665",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 41,
+      "questionType": "single-choice",
+      "prompt": "請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digestif"
+        },
+        {
+          "id": "B",
+          "text": "Entrée"
+        },
+        {
+          "id": "C",
+          "text": "Potage"
+        },
+        {
+          "id": "D",
+          "text": "Entremets"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
+      "conceptId": "foodservice-55b2fc90e4",
+      "conceptLabel": "5-2 菜單功能與結構",
+      "relatedConceptIds": [
+        "western-culinary-a2461a283c",
+        "foodservice-b69ba8c6d0",
+        "foodservice-bf1e166427"
+      ],
+      "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "答案為 D。此題需參照共同菜單資訊作答。",
+        "optionExplanations": [],
+        "generatedAt": "2026-07-29",
+        "model": "manual-correction"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-split-question-group"
+      ],
+      "searchText": "114 年第 41 題（菜單題組） 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 請問以上餐點如以傳統西式菜單結構來看，以下哪一個選項未出現？ A Digestif B Entrée C Potage D Entremets D 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 D。此題需參照共同菜單資訊作答。",
+      "sequence": 2330.1
+    },
+    {
+      "id": "teacher-exam-114-15-q042-menu-bourride-red-snapper",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 42 題（菜單題組）",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-16665",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 42,
+      "questionType": "single-choice",
+      "prompt": "請問上述菜單較可能是哪一個宗教食用？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mormonism"
+        },
+        {
+          "id": "B",
+          "text": "Muslim"
+        },
+        {
+          "id": "C",
+          "text": "Hindu"
+        },
+        {
+          "id": "D",
+          "text": "Catholicism"
+        }
+      ],
+      "answer": "D",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
+      "conceptId": "foodservice-55b2fc90e4",
+      "conceptLabel": "5-2 菜單功能與結構",
+      "relatedConceptIds": [
+        "western-culinary-a2461a283c",
+        "foodservice-b69ba8c6d0",
+        "foodservice-bf1e166427"
+      ],
+      "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "答案為 D。此題需參照共同菜單資訊作答。",
+        "optionExplanations": [],
+        "generatedAt": "2026-07-29",
+        "model": "manual-correction"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-split-question-group"
+      ],
+      "searchText": "114 年第 42 題（菜單題組） 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 請問上述菜單較可能是哪一個宗教食用？ A Mormonism B Muslim C Hindu D Catholicism D 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 D。此題需參照共同菜單資訊作答。",
+      "sequence": 2330.2
+    },
+    {
+      "id": "teacher-exam-114-15-q043-menu-bourride-red-snapper",
+      "sourceYear": 114,
+      "sourceLabel": "114 年第 43 題（菜單題組）",
+      "sourceFile": "114 教師甄試題目.md",
+      "sourceLocator": "114 教師甄試題目.md#offset-16665",
+      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
+      "schoolName": "國立馬祖高級中學",
+      "questionNumber": 43,
+      "questionType": "single-choice",
+      "prompt": "請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader"
+        },
+        {
+          "id": "B",
+          "text": "Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader"
+        },
+        {
+          "id": "C",
+          "text": "Clear Spoon、Fish Knife、Fish Fork、Butter Spreader"
+        },
+        {
+          "id": "D",
+          "text": "Clear Spoon、Table Knife、Table Fork、Butter Spreader"
+        }
+      ],
+      "answer": "C",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
+      "conceptId": "foodservice-55b2fc90e4",
+      "conceptLabel": "5-2 菜單功能與結構",
+      "relatedConceptIds": [
+        "western-culinary-a2461a283c",
+        "foodservice-b69ba8c6d0",
+        "foodservice-bf1e166427"
+      ],
+      "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "答案為 C。此題需參照共同菜單資訊作答。",
+        "optionExplanations": [],
+        "generatedAt": "2026-07-29",
+        "model": "manual-correction"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-split-question-group"
+      ],
+      "searchText": "114 年第 43 題（菜單題組） 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？ A Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader B Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader C Clear Spoon、Fish Knife、Fish Fork、Butter Spreader D Clear Spoon、Table Knife、Table Fork、Butter Spreader C 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 C。此題需參照共同菜單資訊作答。",
+      "sequence": 2330.3
     },
     {
       "id": "teacher-exam-94-17-q004-1c78e3355b",

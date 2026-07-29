@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "question": {
+    "id": "teacher-exam-105-06-q001-dialogue1-3",
+    "sourceYear": 105,
+    "sourceLabel": "105 年金門情境對話 1-3",
+    "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
+    "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-8986",
+    "paperTitle": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "schoolName": "國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "情境對話 1 第 (3) 空格，請選出正確選項。",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sorry about the mess."
+      },
+      {
+        "id": "B",
+        "text": "Oops!"
+      },
+      {
+        "id": "C",
+        "text": "Sorry for your mistake"
+      },
+      {
+        "id": "D",
+        "text": "I'm getting on your nerves!"
+      }
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH11 餐廳顧客抱怨及緊急事件處理] - [11-2 餐廳客訴及緊急事件處理]",
+    "conceptId": "foodservice-1ed9b6e972",
+    "conceptLabel": "11-2 餐廳客訴及緊急事件處理",
+    "relatedConceptIds": [
+      "foodservice-1cdb593773"
+    ],
+    "classificationBasis": "人工修正：原始資料將兩段情境對話的六個空格合併為簡答題，依空格拆成單選題；同一段對話只在第一小題顯示共同情境。",
+    "explanation": {
+      "status": "approved",
+      "answerExplanation": "答案為 C。此題需參照情境對話內容作答。",
+      "optionExplanations": [],
+      "generatedAt": "2026-07-29",
+      "model": "manual-correction"
+    },
+    "reviewStatus": "approved",
+    "flags": [
+      "manual-split-question-group"
+    ],
+    "searchText": "105 年金門情境對話 1-3 國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷 情境對話 1\nJosh: Excuse me. Could we have a clean glass? There's a (1) ______ on this one.\nWaiter: I'm terribly sorry. I'll change it for you right away. (2) ______\nJosh: Thank you. Could you please bring us some Taiwan beer on your way back?\nWaiter: Certainly. (3) ______\nJosh: Bottle, please, with two glasses. CLEAN glasses.\nWaiter: I'll make sure the glasses are clean. One moment, please. 情境對話 1 第 (3) 空格，請選出正確選項。 A Sorry about the mess. B Oops! C Sorry for your mistake D I'm getting on your nerves! C 餐飲服務技術 [CH11 餐廳顧客抱怨及緊急事件處理] - [11-2 餐廳客訴及緊急事件處理] 11-2 餐廳客訴及緊急事件處理 答案為 C。此題需參照情境對話內容作答。",
+    "sequence": 1023.02,
+    "answer": "C"
+  }
+}
