@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q010-25531c1db3",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 10 題",
+    "sourceFile": "107\\output\\117-4專二試題\\auto\\117-4專二試題.md",
+    "sourceLocator": "107\\output\\117-4專二試題\\auto\\117-4專二試題.md#offset-1177",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "下列何者屬於房務員在退房作業的檢視工作？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "掌握房客離開的正確時間，盡量運用房客在房間時進房檢查"
+      },
+      {
+        "id": "B",
+        "text": "檢視房客是否遺留物品或未取衣物"
+      },
+      {
+        "id": "C",
+        "text": "發現客房設備故障時，應盡快要求房客進行賠償"
+      },
+      {
+        "id": "D",
+        "text": "檢查房客交辦是否完成，進行Mini Bar飲料之補充"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者屬於房務員在退房作業的檢視工作？ 掌握房客離開的正確時間，盡量運用房客在房間時進房檢查 檢視房客是否遺留物品或未取衣物 發現客房設備故障時，應盡快要求房客進行賠償 檢查房客交辦是否完成，進行Mini Bar飲料之補充 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 316
+  }
+}

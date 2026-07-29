@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q045-421300d754",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 45 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-5889",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "國際觀光飯店於特定期間編列一定預算，推出各國美食節、節慶組合套裝行程等活動，結合不同部門的專業人力合作完成，此爲何種類型之組織架構？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "地區型"
+      },
+      {
+        "id": "B",
+        "text": "功能型"
+      },
+      {
+        "id": "C",
+        "text": "產品型"
+      },
+      {
+        "id": "D",
+        "text": "矩陣型"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國際觀光飯店於特定期間編列一定預算，推出各國美食節、節慶組合套裝行程等活動，結合不同部門的專業人力合作完成，此爲何種類型之組織架構？ 地區型 功能型 產品型 矩陣型 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 970
+  }
+}

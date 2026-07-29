@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p2-q028-1e70774534",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(二) 第 28 題",
+    "sourceFile": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md",
+    "sourceLocator": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md#offset-3461",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "中餐酒類服務中，下列何者不需幫客人進行溫燙？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "花雕酒"
+      },
+      {
+        "id": "B",
+        "text": "紹興酒"
+      },
+      {
+        "id": "C",
+        "text": "玫瑰紅酒"
+      },
+      {
+        "id": "D",
+        "text": "黃酒"
+      }
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：中餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：中餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "中餐酒類服務中，下列何者不需幫客人進行溫燙？ 花雕酒 紹興酒 玫瑰紅酒 黃酒 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1367
+  }
+}

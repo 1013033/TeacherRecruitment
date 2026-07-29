@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p2-q010-8ff29551d1",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(二) 第 10 題",
+    "sourceFile": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md",
+    "sourceLocator": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md#offset-1624",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "有關服務人員禮儀之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "一般服務人員在工作時遇到賓客，行點頭禮即可"
+      },
+      {
+        "id": "B",
+        "text": "向賓客遞上名片時，應將正面朝向對方，並以雙手遞上"
+      },
+      {
+        "id": "C",
+        "text": "交換名片後，為避免遺失，應馬上將對方的名片收起來"
+      },
+      {
+        "id": "D",
+        "text": "通話完畢時，應等對方先掛斷電話"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關服務人員禮儀之敘述，下列何者錯誤？ 一般服務人員在工作時遇到賓客，行點頭禮即可 向賓客遞上名片時，應將正面朝向對方，並以雙手遞上 交換名片後，為避免遺失，應馬上將對方的名片收起來 通話完畢時，應等對方先掛斷電話 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1349
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q034-80bced395a",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 34 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-5438",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "下列關於飲料分類的敘述，何者正確？甲：思樂冰屬於 frozen drinks 乙：藥酒屬於 tall drinks丙：紹興酒屬於釀造酒 丁： ginger ale 屬於果蔬汁飲料",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於飲料分類的敘述，何者正確？甲：思樂冰屬於 frozen drinks 乙：藥酒屬於 tall drinks丙：紹興酒屬於釀造酒 丁： ginger ale 屬於果蔬汁飲料 甲、乙 甲、丙 乙、丁 丙、丁 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1767
+  }
+}

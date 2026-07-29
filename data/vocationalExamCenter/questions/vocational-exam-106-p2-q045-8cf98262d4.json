@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p2-q045-8cf98262d4",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(二) 第 45 題",
+    "sourceFile": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md",
+    "sourceLocator": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md#offset-5640",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "有關紅茶等級之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "BOP 等級較 OP 等級品質佳"
+      },
+      {
+        "id": "B",
+        "text": "Dust 紅茶常做成茶包"
+      },
+      {
+        "id": "C",
+        "text": "FOP的茶葉含有許多嫩芽"
+      },
+      {
+        "id": "D",
+        "text": "Pekoe 是白毫之意"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關紅茶等級之敘述，下列何者錯誤？ BOP 等級較 OP 等級品質佳 Dust 紅茶常做成茶包 FOP的茶葉含有許多嫩芽 Pekoe 是白毫之意 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1632
+  }
+}

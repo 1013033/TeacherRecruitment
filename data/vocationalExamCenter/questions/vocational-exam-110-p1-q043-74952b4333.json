@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q043-74952b4333",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 43 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-4610",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "關於我國旅館業的發展重要記事，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "圓山飯店開幕於民國41年，提供接待外賓之用"
+      },
+      {
+        "id": "B",
+        "text": "政府於民國60年代頒布旅館禁建令，造成旅館荒"
+      },
+      {
+        "id": "C",
+        "text": "政府於民國80年全面實施週休二日，為旅館業帶來商機"
+      },
+      {
+        "id": "D",
+        "text": "由政府規劃的BOT案「美麗信花園酒店」於民國95年開幕"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於我國旅館業的發展重要記事，下列敘述何者錯誤？ 圓山飯店開幕於民國41年，提供接待外賓之用 政府於民國60年代頒布旅館禁建令，造成旅館荒 政府於民國80年全面實施週休二日，為旅館業帶來商機 由政府規劃的BOT案「美麗信花園酒店」於民國95年開幕 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 529
+  }
+}

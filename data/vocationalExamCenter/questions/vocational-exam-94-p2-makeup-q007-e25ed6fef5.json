@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-makeup-q007-e25ed6fef5",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md",
+    "sourceLocator": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md#offset-590",
+    "paperTitle": "專業科目(二)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個是明火烤箱？",
+    "images": [
+      {
+        "id": "vocational-exam-94-p2-makeup-q007-e25ed6fef5-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-94-p2-makeup-q007-e25ed6fef5-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "deep fryer"
+      },
+      {
+        "id": "B",
+        "text": "grill"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：grill"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：grill"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個是明火烤箱？ deep fryer grill 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2255
+  }
+}

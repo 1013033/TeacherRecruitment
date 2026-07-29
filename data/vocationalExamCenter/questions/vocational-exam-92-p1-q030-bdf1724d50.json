@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p1-q030-bdf1724d50",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(一) 第 30 題",
+    "sourceFile": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md",
+    "sourceLocator": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md#offset-3024",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "觀光旅館附設餐廳負責一切餐具的管理、清潔、維護及換發等工作之部門為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "餐廳部"
+      },
+      {
+        "id": "B",
+        "text": "餐務部"
+      },
+      {
+        "id": "C",
+        "text": "飲務部"
+      },
+      {
+        "id": "D",
+        "text": "廚房部"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "觀光旅館附設餐廳負責一切餐具的管理、清潔、維護及換發等工作之部門為： 餐廳部 餐務部 飲務部 廚房部 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 905
+  }
+}

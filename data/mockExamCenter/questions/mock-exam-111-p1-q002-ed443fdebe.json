@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q002-ed443fdebe",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 2 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-248",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "下列國內知名節慶活動中，利用氣候條件而形成季節性觀光資源者為何？甲、宜蘭國際童玩藝術節 乙、阿里山四季茶旅活動丙、屏東東港黑鮪魚文化觀光季 丁、苗栗三義木雕藝術節",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙"
+      },
+      {
+        "id": "B",
+        "text": "甲丙"
+      },
+      {
+        "id": "C",
+        "text": "乙丙"
+      },
+      {
+        "id": "D",
+        "text": "丙丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列國內知名節慶活動中，利用氣候條件而形成季節性觀光資源者為何？甲、宜蘭國際童玩藝術節 乙、阿里山四季茶旅活動丙、屏東東港黑鮪魚文化觀光季 丁、苗栗三義木雕藝術節 甲乙 甲丙 乙丙 丙丁 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1849
+  }
+}

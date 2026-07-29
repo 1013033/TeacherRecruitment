@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q031-60274c6514",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 31 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-4068",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "關於餐廳食材計算，甲 (耗損率) 與乙 (產出率，或稱淨料率) 之關聯，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲×乙=100%"
+      },
+      {
+        "id": "B",
+        "text": "甲÷乙=100%"
+      },
+      {
+        "id": "C",
+        "text": "甲-乙=100%"
+      },
+      {
+        "id": "D",
+        "text": "甲+乙=100%"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐廳食材計算，甲 (耗損率) 與乙 (產出率，或稱淨料率) 之關聯，下列何者正確？ 甲×乙=100% 甲÷乙=100% 甲-乙=100% 甲+乙=100% 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 268
+  }
+}

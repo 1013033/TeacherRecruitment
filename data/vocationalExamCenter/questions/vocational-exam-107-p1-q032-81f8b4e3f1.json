@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q032-81f8b4e3f1",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 32 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-4898",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "旅館組織中，下列何者不屬於服務中心？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "uniformed service"
+      },
+      {
+        "id": "B",
+        "text": "bell service"
+      },
+      {
+        "id": "C",
+        "text": "public relation department"
+      },
+      {
+        "id": "D",
+        "text": "concierge"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、concierge"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、concierge"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館組織中，下列何者不屬於服務中心？ uniformed service bell service public relation department concierge 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 368
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p2-q025-3c0dbac8fc",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 25 題",
+    "sourceFile": "專二\\output\\110-1專二試題\\auto\\110-1專二試題.md",
+    "sourceLocator": "專二\\output\\110-1專二試題\\auto\\110-1專二試題.md#offset-4046",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "西式套餐菜單有： shrimp cocktail、cream of corn soup、steamed tiger prawn、sherbet、ribeye steak與cheese cake，服務人員收拾 salt & pepper shakers的最佳時機，原則上是在顧客用完哪一道菜餚時與其器皿一起撤除？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "cream of corn soup"
+      },
+      {
+        "id": "B",
+        "text": "steamed tiger prawn"
+      },
+      {
+        "id": "C",
+        "text": "ribeye steak"
+      },
+      {
+        "id": "D",
+        "text": "cheese cake"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：cocktail"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西式套餐菜單有： shrimp cocktail、cream of corn soup、steamed tiger prawn、sherbet、ribeye steak與cheese cake，服務人員收拾 salt & pepper shakers的最佳時機，原則上是在顧客用完哪一道菜餚時與其器皿一起撤除？ cream of corn soup steamed tiger prawn ribeye steak cheese cake 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1808
+  }
+}

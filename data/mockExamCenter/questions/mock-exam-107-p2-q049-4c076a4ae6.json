@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q049-4c076a4ae6",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 49 題",
+    "sourceFile": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md",
+    "sourceLocator": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md#offset-6982",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "下列各款雞尾酒使用之調製方法與基酒組合，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Dry Martini：Stir、Gin"
+      },
+      {
+        "id": "B",
+        "text": "Flying Grashopper：Shake、Vodka"
+      },
+      {
+        "id": "C",
+        "text": "God Father：Build、Scotch Whisky"
+      },
+      {
+        "id": "D",
+        "text": "Mojito：Blend、White Rum"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：vodka、gin、rum、martini"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：vodka、gin、rum、martini"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各款雞尾酒使用之調製方法與基酒組合，何者錯誤？ Dry Martini：Stir、Gin Flying Grashopper：Shake、Vodka God Father：Build、Scotch Whisky Mojito：Blend、White Rum 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 257
+  }
+}

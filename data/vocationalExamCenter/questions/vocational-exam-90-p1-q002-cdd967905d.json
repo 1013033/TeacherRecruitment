@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-90-p1-q002-cdd967905d",
+    "sourceYear": 90,
+    "sourceLabel": "90 年 專業科目(一) 第 2 題",
+    "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
+    "sourceLocator": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md#offset-545",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "以㆘有關生啤酒和熟啤酒製造過程的描述，何者是對的？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "生啤酒未經發酵"
+      },
+      {
+        "id": "B",
+        "text": "熟啤酒未經發酵"
+      },
+      {
+        "id": "C",
+        "text": "生啤酒經過發酵程序，且在 0℃以㆘冷藏 2 個月"
+      },
+      {
+        "id": "D",
+        "text": "熟啤酒經過發酵程序，但不需經過加溫殺菌手續"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：啤酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：啤酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "以㆘有關生啤酒和熟啤酒製造過程的描述，何者是對的？ 生啤酒未經發酵 熟啤酒未經發酵 生啤酒經過發酵程序，且在 0℃以㆘冷藏 2 個月 熟啤酒經過發酵程序，但不需經過加溫殺菌手續 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 778
+  }
+}

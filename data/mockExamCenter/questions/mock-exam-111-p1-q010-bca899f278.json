@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q010-bca899f278",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 10 題",
+    "sourceFile": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md",
+    "sourceLocator": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md#offset-1934",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "小新全家於寒假期間前往臺北旅行，旅途中在臺北 101 享用了「頂呱呱炸雞」，到了萬華區，也在知名的「萬華林宅星巴克(艋舺門市)」品味咖啡，更重遊爸爸兒時回憶的「波麗路(BOLERO)」西餐廳，品嚐了牛排套餐，行程尾聲返回臺北車站，最後以「三商巧福牛肉麵」為美好的行程畫下完美句點。試問：小新全家走訪的餐飲據點，如依其開業時間前後排序，正確順序為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "頂呱呱→波麗露BOLERO→三商巧福→星巴克 Starbucks"
+      },
+      {
+        "id": "B",
+        "text": "頂呱呱→波麗露BOLERO→星巴克 Starbucks→三商巧福"
+      },
+      {
+        "id": "C",
+        "text": "波麗露BOLERO→三商巧福→頂呱呱→星巴克 Starbucks"
+      },
+      {
+        "id": "D",
+        "text": "波麗露 BOLERO→頂呱呱→三商巧福→星巴克 Starbucks"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小新全家於寒假期間前往臺北旅行，旅途中在臺北 101 享用了「頂呱呱炸雞」，到了萬華區，也在知名的「萬華林宅星巴克(艋舺門市)」品味咖啡，更重遊爸爸兒時回憶的「波麗路(BOLERO)」西餐廳，品嚐了牛排套餐，行程尾聲返回臺北車站，最後以「三商巧福牛肉麵」為美好的行程畫下完美句點。試問：小新全家走訪的餐飲據點，如依其開業時間前後排序，正確順序為何？ 頂呱呱→波麗露BOLERO→三商巧福→星巴克 Starbucks 頂呱呱→波麗露BOLERO→星巴克 Starbucks→三商巧福 波麗露BOLERO→三商巧福→頂呱呱→星巴克 Starbucks 波麗露 BOLERO→頂呱呱→三商巧福→星巴克 Starbucks 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2040
+  }
+}

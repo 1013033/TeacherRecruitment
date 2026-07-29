@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p1-q023-9ef15a924b",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 23 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-7684",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "享享旅行業為擴大營業，派符合受訓資格的員工去參加交通部觀光署或其委託之有關機關、團體舉辦的經理人、領隊人員及導遊人員訓練，且受訓人員需符合訓練節次及測驗成績及格才能取得證書。他們都是第一次參加受訓。根據表(四)下列何者的出席狀況沒有取得執業證明的機會，且會被退訓？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Amy 員工 職務 出席狀況"
+      },
+      {
+        "id": "B",
+        "text": "Ben Ben 經理人 缺課 6 節"
+      },
+      {
+        "id": "C",
+        "text": "Ken Ken 領隊 缺課 6 節"
+      },
+      {
+        "id": "D",
+        "text": "May Amy 導遊 缺課 6 節表(四) May 導遊 遲到 8 次"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "享享旅行業為擴大營業，派符合受訓資格的員工去參加交通部觀光署或其委託之有關機關、團體舉辦的經理人、領隊人員及導遊人員訓練，且受訓人員需符合訓練節次及測驗成績及格才能取得證書。他們都是第一次參加受訓。根據表(四)下列何者的出席狀況沒有取得執業證明的機會，且會被退訓？ Amy 員工 職務 出席狀況 Ben Ben 經理人 缺課 6 節 Ken Ken 領隊 缺課 6 節 May Amy 導遊 缺課 6 節表(四) May 導遊 遲到 8 次 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 758
+  }
+}

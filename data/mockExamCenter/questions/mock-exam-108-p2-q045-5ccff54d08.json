@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q045-5ccff54d08",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 45 題",
+    "sourceFile": "108\\output\\118-4專二試題\\auto\\118-4專二試題.md",
+    "sourceLocator": "108\\output\\118-4專二試題\\auto\\118-4專二試題.md#offset-5944",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "慶祝1818 酒吧開幕，下列選項何者為Bartender專業技術的展現？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "向客人介紹雞尾酒飲料分為 Long Drinks、Short Drinks"
+      },
+      {
+        "id": "B",
+        "text": "提供 Decoration 多以 Olive、Pearl Onion 呈現"
+      },
+      {
+        "id": "C",
+        "text": "業界最常使用的冰塊大小為 Lump of Ice"
+      },
+      {
+        "id": "D",
+        "text": "客人點選雞尾酒鹹狗，以糖口杯的方式供應"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "慶祝1818 酒吧開幕，下列選項何者為Bartender專業技術的展現？ 向客人介紹雞尾酒飲料分為 Long Drinks、Short Drinks 提供 Decoration 多以 Olive、Pearl Onion 呈現 業界最常使用的冰塊大小為 Lump of Ice 客人點選雞尾酒鹹狗，以糖口杯的方式供應 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 810
+  }
+}

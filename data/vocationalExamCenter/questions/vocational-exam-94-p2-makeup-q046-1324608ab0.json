@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-makeup-q046-1324608ab0",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 46 題",
+    "sourceFile": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md",
+    "sourceLocator": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md#offset-3993",
+    "paperTitle": "專業科目(二)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種器皿的外型與主要用途，與其他三種器具迥然不同？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "crepe pan"
+      },
+      {
+        "id": "B",
+        "text": "frying pan"
+      },
+      {
+        "id": "C",
+        "text": "hotel pan"
+      },
+      {
+        "id": "D",
+        "text": "sauté pan"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種器皿的外型與主要用途，與其他三種器具迥然不同？ crepe pan frying pan hotel pan sauté pan 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2294
+  }
+}

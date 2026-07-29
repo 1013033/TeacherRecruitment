@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q014-6e5d9c9c67",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 14 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-2231",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "美麗大飯店提供的美式早餐中，飲品的部份包含：咖啡、茶、巧克力飲品、綜合新鮮果汁、牛奶，請問哪幾款飲料可供虔誠的摩門教徒飲用？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡不能飲用，其它皆可以"
+      },
+      {
+        "id": "C",
+        "text": "只能喝新鮮果汁及牛奶"
+      },
+      {
+        "id": "D",
+        "text": "全部可以飲用"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "美麗大飯店提供的美式早餐中，飲品的部份包含：咖啡、茶、巧克力飲品、綜合新鮮果汁、牛奶，請問哪幾款飲料可供虔誠的摩門教徒飲用？ 咖啡不能飲用，其它皆可以 只能喝新鮮果汁及牛奶 全部可以飲用 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 968
+  }
+}

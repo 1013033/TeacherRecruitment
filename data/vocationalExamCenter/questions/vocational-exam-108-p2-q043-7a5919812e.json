@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p2-q043-7a5919812e",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 43 題",
+    "sourceFile": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md",
+    "sourceLocator": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md#offset-5867",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "依據飲料的定義與分類基準，Virgin Mary屬於下列哪一類？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "frozen drinks"
+      },
+      {
+        "id": "B",
+        "text": "short drinks"
+      },
+      {
+        "id": "C",
+        "text": "straight drinks"
+      },
+      {
+        "id": "D",
+        "text": "tall drinks"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據飲料的定義與分類基準，Virgin Mary屬於下列哪一類？ frozen drinks short drinks straight drinks tall drinks 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1726
+  }
+}

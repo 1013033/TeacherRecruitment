@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q015-96b3a855e0",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 15 題",
+    "sourceFile": "110\\output\\110-4專一試題\\auto\\110-4專一試題.md",
+    "sourceLocator": "110\\output\\110-4專一試題\\auto\\110-4專一試題.md#offset-2278",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "交通運輸為觀光產業之母，大眾旅遊得力於交通運輸的改善得以快速推動。如將時光倒轉，下列交通工具之問世，由現代回溯至上古時期，正確排序為何？甲、Train 乙、Motor 丙、Carriage 丁、Steamboat 戊、Plane",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丁甲戊丙"
+      },
+      {
+        "id": "B",
+        "text": "丙丁甲乙戊"
+      },
+      {
+        "id": "C",
+        "text": "丁戊甲乙丙"
+      },
+      {
+        "id": "D",
+        "text": "戊乙甲丁丙"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "交通運輸為觀光產業之母，大眾旅遊得力於交通運輸的改善得以快速推動。如將時光倒轉，下列交通工具之問世，由現代回溯至上古時期，正確排序為何？甲、Train 乙、Motor 丙、Carriage 丁、Steamboat 戊、Plane 乙丁甲戊丙 丙丁甲乙戊 丁戊甲乙丙 戊乙甲丁丙 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1673
+  }
+}

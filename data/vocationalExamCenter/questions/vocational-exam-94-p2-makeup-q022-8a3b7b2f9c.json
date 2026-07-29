@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-makeup-q022-8a3b7b2f9c",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 22 題",
+    "sourceFile": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md",
+    "sourceLocator": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md#offset-1589",
+    "paperTitle": "專業科目(二)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "equisition form 是指下列哪一項？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "請領單"
+      },
+      {
+        "id": "B",
+        "text": "驗收單"
+      },
+      {
+        "id": "C",
+        "text": "發放單"
+      },
+      {
+        "id": "D",
+        "text": "週期檢查單."
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "equisition form 是指下列哪一項？ 請領單 驗收單 發放單 週期檢查單. 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2270
+  }
+}

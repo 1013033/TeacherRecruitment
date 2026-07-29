@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q024-df9d4f8863",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 24 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-3018",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "蘋果派內餡的凝膠現象，通常是因為加上水、糖以及下列哪一種原料而形成？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "玉米澱粉"
+      },
+      {
+        "id": "B",
+        "text": "動物膠"
+      },
+      {
+        "id": "C",
+        "text": "洋菜粉"
+      },
+      {
+        "id": "D",
+        "text": "高筋麵粉"
+      }
+    ],
+    "answer": "A",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：麵粉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：麵粉"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "蘋果派內餡的凝膠現象，通常是因為加上水、糖以及下列哪一種原料而形成？ 玉米澱粉 動物膠 洋菜粉 高筋麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2417
+  }
+}

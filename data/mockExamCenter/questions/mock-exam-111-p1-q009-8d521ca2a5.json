@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q009-8d521ca2a5",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 9 題",
+    "sourceFile": "111\\output\\111-4專一試題\\auto\\111-4專一試題.md",
+    "sourceLocator": "111\\output\\111-4專一試題\\auto\\111-4專一試題.md#offset-1296",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "有關餐飲業的字義，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Restaurant 指飯店、餐廳、菜館，源自於法文 Restaurer"
+      },
+      {
+        "id": "B",
+        "text": "啤酒店Brasserie，原指釀酒廠、供應簡單低價食品的餐館"
+      },
+      {
+        "id": "C",
+        "text": "餐飲 F & B 即餐點及飲料，為 Fun and Beer 的縮稱"
+      },
+      {
+        "id": "D",
+        "text": "Bistro 源自法文，指供應家常菜的小酒館或平價餐廳"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐飲業的字義，下列敘述何者錯誤？ Restaurant 指飯店、餐廳、菜館，源自於法文 Restaurer 啤酒店Brasserie，原指釀酒廠、供應簡單低價食品的餐館 餐飲 F & B 即餐點及飲料，為 Fun and Beer 的縮稱 Bistro 源自法文，指供應家常菜的小酒館或平價餐廳 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2139
+  }
+}

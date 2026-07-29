@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-makeup-q015-a5af209a0a",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 15 題",
+    "sourceFile": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md",
+    "sourceLocator": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md#offset-1155",
+    "paperTitle": "專業科目(二)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "ea Cucumber 是指下列哪一個食材？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "海參"
+      },
+      {
+        "id": "B",
+        "text": "干貝"
+      },
+      {
+        "id": "C",
+        "text": "魚翅"
+      },
+      {
+        "id": "D",
+        "text": "海瓜"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食材"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食材"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "ea Cucumber 是指下列哪一個食材？ 海參 干貝 魚翅 海瓜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2263
+  }
+}

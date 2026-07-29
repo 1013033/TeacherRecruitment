@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q039-ea486a9c84",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 39 題",
+    "sourceFile": "110\\output\\110-1專二試題\\auto\\110-1專二試題.md",
+    "sourceLocator": "110\\output\\110-1專二試題\\auto\\110-1專二試題.md#offset-8661",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "乳品類包裝飲料種類眾多，各有不同的製作過程或內含物不同，下列何種乳品飲料是以50%以上的生乳並添加各式調味料加工製成的？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Fresh Milk"
+      },
+      {
+        "id": "B",
+        "text": "Fortified Milk"
+      },
+      {
+        "id": "C",
+        "text": "Sterilized Milk"
+      },
+      {
+        "id": "D",
+        "text": "Flavored Milk"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "乳品類包裝飲料種類眾多，各有不同的製作過程或內含物不同，下列何種乳品飲料是以50%以上的生乳並添加各式調味料加工製成的？ Fresh Milk Fortified Milk Sterilized Milk Flavored Milk 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1451
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p2-q037-20eddb6eba",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(二) 第 37 題",
+    "sourceFile": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md",
+    "sourceLocator": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md#offset-4737",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "關於軟性飲料的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Perrier是法國最著名的碳酸性飲料品牌"
+      },
+      {
+        "id": "B",
+        "text": "apple sidra 是一種含有蘋果風味的碳酸性飲料"
+      },
+      {
+        "id": "C",
+        "text": "以 ginger ale 調製飲品時，原則上應使用 shaking 的方式"
+      },
+      {
+        "id": "D",
+        "text": "soda water 主要原料是從黃樟樹 ( sassafras ) 的根皮提煉出來的"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於軟性飲料的敘述，下列何者正確？ Perrier是法國最著名的碳酸性飲料品牌 apple sidra 是一種含有蘋果風味的碳酸性飲料 以 ginger ale 調製飲品時，原則上應使用 shaking 的方式 soda water 主要原料是從黃樟樹 ( sassafras ) 的根皮提煉出來的 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1624
+  }
+}

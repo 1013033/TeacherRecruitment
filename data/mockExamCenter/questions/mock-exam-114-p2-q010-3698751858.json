@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q010-3698751858",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 10 題",
+    "sourceFile": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md",
+    "sourceLocator": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md#offset-1362",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "餐廳內最常使用的玻璃器皿以玻璃杯為主，依用途可分為許多種類，若以是否盛裝純飲類酒品進行飲用，下列何者較不屬於純飲類酒杯？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Port Glass"
+      },
+      {
+        "id": "B",
+        "text": "Martini Glass"
+      },
+      {
+        "id": "C",
+        "text": "Brandy Snifter"
+      },
+      {
+        "id": "D",
+        "text": "Sherry Glass"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：martini、酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：martini、酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳內最常使用的玻璃器皿以玻璃杯為主，依用途可分為許多種類，若以是否盛裝純飲類酒品進行飲用，下列何者較不屬於純飲類酒杯？ Port Glass Martini Glass Brandy Snifter Sherry Glass 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 3289
+  }
+}

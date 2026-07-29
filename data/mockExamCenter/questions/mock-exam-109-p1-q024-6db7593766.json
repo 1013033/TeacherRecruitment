@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q024-6db7593766",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 24 題",
+    "sourceFile": "109\\output\\109-5專一試題\\auto\\109-5專一試題.md",
+    "sourceLocator": "109\\output\\109-5專一試題\\auto\\109-5專一試題.md#offset-4489",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "下列各式旅館樣態類別中，服務功能敘述正確者有哪些？甲、Villa：屬獨棟型別墅設施，提供管家服務，給予旅客完全私密的空間乙、Condominium：提供傢俱及廚房，採樓中樓住宿設計丙、Casino Hotel：結合博奕娛樂營運，提供完善的膳宿與娛樂功能丁、Transient Hotel：提供過境旅客、搭早班或晚班飛機旅客及航空公司員工住宿戊、Parador：由具有歷史價值的建築物改建而成，提供Day Use房價己、Extended Hotel：可同時提供旅館的服務及公寓式住宿",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丁"
+      },
+      {
+        "id": "B",
+        "text": "甲丙己"
+      },
+      {
+        "id": "C",
+        "text": "甲丙戊己"
+      },
+      {
+        "id": "D",
+        "text": "乙丙丁戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、住宿、房價、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、住宿、房價、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各式旅館樣態類別中，服務功能敘述正確者有哪些？甲、Villa：屬獨棟型別墅設施，提供管家服務，給予旅客完全私密的空間乙、Condominium：提供傢俱及廚房，採樓中樓住宿設計丙、Casino Hotel：結合博奕娛樂營運，提供完善的膳宿與娛樂功能丁、Transient Hotel：提供過境旅客、搭早班或晚班飛機旅客及航空公司員工住宿戊、Parador：由具有歷史價值的建築物改建而成，提供Day Use房價己、Extended Hotel：可同時提供旅館的服務及公寓式住宿 甲乙丁 甲丙己 甲丙戊己 乙丙丁戊 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1298
+  }
+}

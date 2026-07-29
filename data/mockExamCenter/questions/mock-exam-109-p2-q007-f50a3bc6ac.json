@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q007-f50a3bc6ac",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 7 題",
+    "sourceFile": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md",
+    "sourceLocator": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md#offset-1459",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "電影「麻雀變鳳凰」中，男主角帶不曾上過高級西餐廳的女主角去和朋友餐敘，有關用餐禮儀，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "男主角吃乾煎鱒魚時，吃完<sup>一</sup>面再翻<sup>一</sup>面繼續吃"
+      },
+      {
+        "id": "B",
+        "text": "女主角點用 Grilled Tenderloin 時，男主角應貼心幫她把肉<sup>一</sup>次切完，成小塊狀，比較不會燙口"
+      },
+      {
+        "id": "C",
+        "text": "吃帶殼田螺時，女主角會使用到 Snail Tong & Snail Fork"
+      },
+      {
+        "id": "D",
+        "text": "吃帶殼田螺時，女主角因為不會使用餐具，田螺不慎飛出去，女主角趕快去撿起來"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、fork"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、fork"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "電影「麻雀變鳳凰」中，男主角帶不曾上過高級西餐廳的女主角去和朋友餐敘，有關用餐禮儀，下列敘述何者正確？ 男主角吃乾煎鱒魚時，吃完<sup>一</sup>面再翻<sup>一</sup>面繼續吃 女主角點用 Grilled Tenderloin 時，男主角應貼心幫她把肉<sup>一</sup>次切完，成小塊狀，比較不會燙口 吃帶殼田螺時，女主角會使用到 Snail Tong & Snail Fork 吃帶殼田螺時，女主角因為不會使用餐具，田螺不慎飛出去，女主角趕快去撿起來 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1059
+  }
+}

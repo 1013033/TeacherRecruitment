@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q010-801178e9af",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 10 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-854",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "某美食展的主題館中，展示的菜餚有：龍井蝦仁、蜜汁火方、炸響鈴、水晶肴肉、荷葉粉蒸肉等，請問此次主題館介紹的是那一菜系？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "山東"
+      },
+      {
+        "id": "B",
+        "text": "湖南"
+      },
+      {
+        "id": "C",
+        "text": "浙江"
+      },
+      {
+        "id": "D",
+        "text": "廣東"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜系"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜系"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某美食展的主題館中，展示的菜餚有：龍井蝦仁、蜜汁火方、炸響鈴、水晶肴肉、荷葉粉蒸肉等，請問此次主題館介紹的是那一菜系？ 山東 湖南 浙江 廣東 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2162
+  }
+}

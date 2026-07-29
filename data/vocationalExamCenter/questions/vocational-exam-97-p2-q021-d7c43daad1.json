@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q021-d7c43daad1",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 21 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-2286",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "點心房吳師傅交代實習生阿明製作土司麵包 243 條。已知每條土司重量為 1,000 公克，耗損率為10 %，實習生阿明查看土司製作的配方如下： <table><tr><td>材料名稱</td><td>烘焙百分比 %</td><td>材料名稱</td><td>烘焙百分比 %</td></tr><tr><td>高筋麵粉</td><td>100</td><td>鹽</td><td>1.5</td></tr><tr><td>水</td><td>65</td><td>奶粉</td><td>5.7</td></tr><tr><td>新鮮酵母</td><td>3</td><td>改良劑</td><td>0.3</td></tr><tr><td>糖</td><td>4.5</td><td></td><td></td></tr></table> 依照土司麵包配方，阿明應該準備幾公斤的麵粉？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "135kg"
+      },
+      {
+        "id": "B",
+        "text": "150 kg"
+      },
+      {
+        "id": "C",
+        "text": "267kg"
+      },
+      {
+        "id": "D",
+        "text": "270kg"
+      }
+    ],
+    "answer": "B",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：烘焙、麵包、麵粉、酵母"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：烘焙、麵包、麵粉、酵母"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "點心房吳師傅交代實習生阿明製作土司麵包 243 條。已知每條土司重量為 1,000 公克，耗損率為10 %，實習生阿明查看土司製作的配方如下： <table><tr><td>材料名稱</td><td>烘焙百分比 %</td><td>材料名稱</td><td>烘焙百分比 %</td></tr><tr><td>高筋麵粉</td><td>100</td><td>鹽</td><td>1.5</td></tr><tr><td>水</td><td>65</td><td>奶粉</td><td>5.7</td></tr><tr><td>新鮮酵母</td><td>3</td><td>改良劑</td><td>0.3</td></tr><tr><td>糖</td><td>4.5</td><td></td><td></td></tr></table> 依照土司麵包配方，阿明應該準備幾公斤的麵粉？ 135kg 150 kg 267kg 270kg 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2414
+  }
+}

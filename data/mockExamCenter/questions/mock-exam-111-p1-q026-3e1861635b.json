@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q026-3e1861635b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 26 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-4918",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "有關餐廳格局設計原則之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "顧客用餐區桌椅採對角配置較平行配置節省空間"
+      },
+      {
+        "id": "B",
+        "text": "理想的廚房面積與供膳場所的比例為3：1"
+      },
+      {
+        "id": "C",
+        "text": "廚房工作區域規劃，應以食物採購時間先後劃分不同作業區"
+      },
+      {
+        "id": "D",
+        "text": "廚房設備採面對面平行排列可將烹調設備集中"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐廳格局設計原則之敘述，下列何者正確？ 顧客用餐區桌椅採對角配置較平行配置節省空間 理想的廚房面積與供膳場所的比例為3：1 廚房工作區域規劃，應以食物採購時間先後劃分不同作業區 廚房設備採面對面平行排列可將烹調設備集中 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1873
+  }
+}

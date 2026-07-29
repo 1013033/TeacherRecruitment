@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q005-95bf153a1a",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 5 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-995",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "西式餐廳中負責製備沙拉、菜凍、肉凍及開胃點心等的人員是下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "butcher cook"
+      },
+      {
+        "id": "B",
+        "text": "pastry cook"
+      },
+      {
+        "id": "C",
+        "text": "pantry cook"
+      },
+      {
+        "id": "D",
+        "text": "vegetable cook"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西式餐廳中負責製備沙拉、菜凍、肉凍及開胃點心等的人員是下列何者？ butcher cook pastry cook pantry cook vegetable cook 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 590
+  }
+}

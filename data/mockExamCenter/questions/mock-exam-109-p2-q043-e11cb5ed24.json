@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q043-e11cb5ed24",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 43 題",
+    "sourceFile": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md",
+    "sourceLocator": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md#offset-6922",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "下列哪一款酒，不適合做為「Aperitif Wine」？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Campari"
+      },
+      {
+        "id": "B",
+        "text": "Dubonnet"
+      },
+      {
+        "id": "C",
+        "text": "Sweet Vermouth"
+      },
+      {
+        "id": "D",
+        "text": "Cream Sherry"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：aperitif"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：aperitif"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一款酒，不適合做為「Aperitif Wine」？ Campari Dubonnet Sweet Vermouth Cream Sherry 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1183
+  }
+}

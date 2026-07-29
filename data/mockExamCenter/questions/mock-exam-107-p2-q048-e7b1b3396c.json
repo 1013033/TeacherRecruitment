@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q048-e7b1b3396c",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 48 題",
+    "sourceFile": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md",
+    "sourceLocator": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md#offset-6841",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "雞尾酒調製過程中，需使用 Glass Rimmer 者為何？甲、Bloody Mary 乙、Margarita 丙、Frozen Margarita 丁、Orange Blossom 戊、Salty Dog",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙丁"
+      },
+      {
+        "id": "B",
+        "text": "乙丙丁戊"
+      },
+      {
+        "id": "C",
+        "text": "甲丙丁戊"
+      },
+      {
+        "id": "D",
+        "text": "甲乙戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "雞尾酒調製過程中，需使用 Glass Rimmer 者為何？甲、Bloody Mary 乙、Margarita 丙、Frozen Margarita 丁、Orange Blossom 戊、Salty Dog 甲乙丙丁 乙丙丁戊 甲丙丁戊 甲乙戊 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 256
+  }
+}

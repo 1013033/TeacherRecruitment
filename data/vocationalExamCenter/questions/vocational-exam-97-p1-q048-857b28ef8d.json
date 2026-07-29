@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p1-q048-857b28ef8d",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(一) 第 48 題",
+    "sourceFile": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md",
+    "sourceLocator": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md#offset-5626",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "下列何者是正確之「觀光衛星帳」的英文縮寫？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "TSA"
+      },
+      {
+        "id": "B",
+        "text": "TAS"
+      },
+      {
+        "id": "C",
+        "text": "TSB"
+      },
+      {
+        "id": "D",
+        "text": "TBS"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者是正確之「觀光衛星帳」的英文縮寫？ TSA TAS TSB TBS 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1199
+  }
+}

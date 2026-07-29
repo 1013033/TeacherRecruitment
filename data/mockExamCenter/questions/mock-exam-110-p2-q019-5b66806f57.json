@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q019-5b66806f57",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 19 題",
+    "sourceFile": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md",
+    "sourceLocator": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md#offset-2651",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "有關西餐餐桌擺設的敘述，下列何者正確？甲：餐具由內而外、先右後左乙：點心匙在展示盤上方，握柄朝左、匙面朝上丙：麵包盤置於餐叉左側，奶油刀置於麵包盤右側約 $\\frac { 1 } { 4 }$ 處丁：餐桌擺設中「cover」指的是轉檯布覆蓋桌面比率",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "甲、丙、丁"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關西餐餐桌擺設的敘述，下列何者正確？甲：餐具由內而外、先右後左乙：點心匙在展示盤上方，握柄朝左、匙面朝上丙：麵包盤置於餐叉左側，奶油刀置於麵包盤右側約 $\\frac { 1 } { 4 }$ 處丁：餐桌擺設中「cover」指的是轉檯布覆蓋桌面比率 甲、乙 甲、丙 乙、丙 甲、丙、丁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1530
+  }
+}

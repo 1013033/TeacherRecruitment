@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p1-q011-7e8034cfb4",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(一) 第 11 題",
+    "sourceFile": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md",
+    "sourceLocator": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md#offset-1521",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列依據國際航空運輸協會公告的城市編碼代號 ( city code )，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "首爾：SEL"
+      },
+      {
+        "id": "B",
+        "text": "上海：SHI"
+      },
+      {
+        "id": "C",
+        "text": "舊金山：SFO"
+      },
+      {
+        "id": "D",
+        "text": "台北：TPE"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：航空"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列依據國際航空運輸協會公告的城市編碼代號 ( city code )，何者錯誤？ 首爾：SEL 上海：SHI 舊金山：SFO 台北：TPE 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1112
+  }
+}

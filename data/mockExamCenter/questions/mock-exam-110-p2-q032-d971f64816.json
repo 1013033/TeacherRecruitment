@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q032-d971f64816",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 32 題",
+    "sourceFile": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md",
+    "sourceLocator": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md#offset-4803",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "飲料杯器皿的選擇，多以飲用時間、飲料成分做為考量依據，下列哪一款玻璃器皿外型身長深底，適合盛裝酒精含量低、果汁比例高的飲料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Old Fashioned Glass"
+      },
+      {
+        "id": "B",
+        "text": "Highball Glass"
+      },
+      {
+        "id": "C",
+        "text": "Sour Glass"
+      },
+      {
+        "id": "D",
+        "text": "Champagne Flute"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "飲料杯器皿的選擇，多以飲用時間、飲料成分做為考量依據，下列哪一款玻璃器皿外型身長深底，適合盛裝酒精含量低、果汁比例高的飲料？ Old Fashioned Glass Highball Glass Sour Glass Champagne Flute 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1542
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q048-9a0bf6bdbf",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 48 題",
+    "sourceFile": "114\\output\\114-3專一試題\\auto\\114-3專一試題.md",
+    "sourceLocator": "114\\output\\114-3專一試題\\auto\\114-3專一試題.md#offset-14501",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "牛霸三代牛肉麵每碗供應牛腱肉 56 g、手工拉麵 90 g、青江菜 36 g；已知牛腱廢棄率 20%、漲縮率 70%、 青江菜可食用率 90%。今天牛老闆接到一筆訂單，預訂下星期三的午餐 50 碗牛肉麵，則各需準備多少 食材？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "牛腱 5 kg、拉麵 4.5 kg、青江菜 2 kg"
+      },
+      {
+        "id": "B",
+        "text": "牛腱 20 kg、拉麵 4.5 kg、青江菜 18 kg"
+      },
+      {
+        "id": "C",
+        "text": "牛腱 4 kg、拉麵 4.5 kg、青江菜 4 kg"
+      },
+      {
+        "id": "D",
+        "text": "牛腱 3.5 kg、拉麵 4.5 kg、青江菜 360 g"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：食材"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：食材"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "牛霸三代牛肉麵每碗供應牛腱肉 56 g、手工拉麵 90 g、青江菜 36 g；已知牛腱廢棄率 20%、漲縮率 70%、 青江菜可食用率 90%。今天牛老闆接到一筆訂單，預訂下星期三的午餐 50 碗牛肉麵，則各需準備多少 食材？ 牛腱 5 kg、拉麵 4.5 kg、青江菜 2 kg 牛腱 20 kg、拉麵 4.5 kg、青江菜 18 kg 牛腱 4 kg、拉麵 4.5 kg、青江菜 4 kg 牛腱 3.5 kg、拉麵 4.5 kg、青江菜 360 g 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 3477
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p1-q022-3b21fef4db",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 22 題",
+    "sourceFile": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md",
+    "sourceLocator": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md#offset-5454",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "旅館開幕的傳統儀式中，會將鑰匙遠遠向外丟棄。此象徵性的動作說明，旅宿業的哪一個特性？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "restless"
+      },
+      {
+        "id": "B",
+        "text": "seasonality"
+      },
+      {
+        "id": "C",
+        "text": "competition"
+      },
+      {
+        "id": "D",
+        "text": "intangibility"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館開幕的傳統儀式中，會將鑰匙遠遠向外丟棄。此象徵性的動作說明，旅宿業的哪一個特性？ restless seasonality competition intangibility 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 657
+  }
+}

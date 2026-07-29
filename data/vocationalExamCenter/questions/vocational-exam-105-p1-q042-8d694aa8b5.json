@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q042-8d694aa8b5",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 42 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-5319",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "某餐廳年營業額為 1,500,000元，每月平均食材成本為 60,000元，員工薪資為 60,000元，該餐廳其年度銷售毛利為多少元？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "60,000 元"
+      },
+      {
+        "id": "B",
+        "text": "780,000 元"
+      },
+      {
+        "id": "C",
+        "text": "1,380,000 元"
+      },
+      {
+        "id": "D",
+        "text": "1,440,000 元 # <sup>餐旅群</sup> <sup>專業科目(一)</sup> 公告試題僅供參考"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、食材成本、毛利、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、食材成本、毛利、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某餐廳年營業額為 1,500,000元，每月平均食材成本為 60,000元，員工薪資為 60,000元，該餐廳其年度銷售毛利為多少元？ 60,000 元 780,000 元 1,380,000 元 1,440,000 元 # <sup>餐旅群</sup> <sup>專業科目(一)</sup> 公告試題僅供參考 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 279
+  }
+}

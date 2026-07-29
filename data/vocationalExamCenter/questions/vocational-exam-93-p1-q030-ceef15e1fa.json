@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q030-ceef15e1fa",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 30 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-3552",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "餐飲内場面積規劃時，需考慮的因素很多，下列敘述何者錯誤？(A）便利性食材或半成品使用比例越高，廚房的面積與運作内容將隨之增加",
+    "images": [],
+    "options": [
+      {
+        "id": "B",
+        "text": "爲因應未來法令規定的改變，一般建議廚房面積應爲供餐場所面積的1/3；餐飲儲藏設施的面積占總餐飲場所面積的1/10"
+      },
+      {
+        "id": "C",
+        "text": "越複雜的菜單，所需廚房的面積就越大"
+      },
+      {
+        "id": "D",
+        "text": "翻檯率、食物單價越高時，廚房的使用空間應成正比例增加"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜單、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜單、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲内場面積規劃時，需考慮的因素很多，下列敘述何者錯誤？(A）便利性食材或半成品使用比例越高，廚房的面積與運作内容將隨之增加 爲因應未來法令規定的改變，一般建議廚房面積應爲供餐場所面積的1/3；餐飲儲藏設施的面積占總餐飲場所面積的1/10 越複雜的菜單，所需廚房的面積就越大 翻檯率、食物單價越高時，廚房的使用空間應成正比例增加 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 955
+  }
+}

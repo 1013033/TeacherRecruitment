@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q034-fd6b40c000",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 34 題",
+    "sourceFile": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md",
+    "sourceLocator": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md#offset-6431",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "旅館業者對於婚宴舉辦達一定桌數之新人，提供蜜月套房(Wedding Room)免費住宿，此一優惠採行之房 租計價方式為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Upgrade"
+      },
+      {
+        "id": "B",
+        "text": "Complimentary"
+      },
+      {
+        "id": "C",
+        "text": "Discount Rate"
+      },
+      {
+        "id": "D",
+        "text": "House Use"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、住宿、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、住宿、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館業者對於婚宴舉辦達一定桌數之新人，提供蜜月套房(Wedding Room)免費住宿，此一優惠採行之房 租計價方式為何？ Upgrade Complimentary Discount Rate House Use 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2064
+  }
+}

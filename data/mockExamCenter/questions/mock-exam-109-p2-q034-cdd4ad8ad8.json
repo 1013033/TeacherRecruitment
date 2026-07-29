@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q034-cdd4ad8ad8",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 34 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-5105",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "小華想要開一間手搖飲料店，以投資經營的角度，下列何者不是小華評估開飲料店業的優勢？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "薄利多銷"
+      },
+      {
+        "id": "B",
+        "text": "需求市場大"
+      },
+      {
+        "id": "C",
+        "text": "技術門檻低"
+      },
+      {
+        "id": "D",
+        "text": "低風險"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小華想要開一間手搖飲料店，以投資經營的角度，下列何者不是小華評估開飲料店業的優勢？ 薄利多銷 需求市場大 技術門檻低 低風險 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 987
+  }
+}

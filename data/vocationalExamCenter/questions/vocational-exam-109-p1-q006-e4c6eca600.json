@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q006-e4c6eca600",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 6 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-1106",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "關於臺灣餐旅業未來發展趨勢，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "為了減少人力，日漸增加科技技術的運用"
+      },
+      {
+        "id": "B",
+        "text": "為了增加收入，日漸減少異業間的策略聯盟"
+      },
+      {
+        "id": "C",
+        "text": "為了善盡社會責任，企業逐漸重視綠色管理"
+      },
+      {
+        "id": "D",
+        "text": "為了減少成本支出，平價旅館將是未來趨勢之一"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於臺灣餐旅業未來發展趨勢，下列何者錯誤？ 為了減少人力，日漸增加科技技術的運用 為了增加收入，日漸減少異業間的策略聯盟 為了善盡社會責任，企業逐漸重視綠色管理 為了減少成本支出，平價旅館將是未來趨勢之一 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 442
+  }
+}

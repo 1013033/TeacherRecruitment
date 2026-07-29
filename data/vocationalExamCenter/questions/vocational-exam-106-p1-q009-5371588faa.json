@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p1-q009-5371588faa",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md",
+    "sourceLocator": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md#offset-1351",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "以百慕達式計價(Bermuda Plan,BP)之旅館，房租費用包含下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "歐式早餐"
+      },
+      {
+        "id": "B",
+        "text": "美式早餐"
+      },
+      {
+        "id": "C",
+        "text": "美式早餐及晚餐"
+      },
+      {
+        "id": "D",
+        "text": "歐式早餐及午餐"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以百慕達式計價(Bermuda Plan,BP)之旅館，房租費用包含下列何者？ 歐式早餐 美式早餐 美式早餐及晚餐 歐式早餐及午餐 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 296
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p2-q002-de28fdde94",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(二) 第 2 題",
+    "sourceFile": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md",
+    "sourceLocator": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md#offset-483",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "我們欣賞「佛跳牆」的美，美在它的風味濃淳，而其口感與質地的美則在：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "柔嫩鮮脆而具彈性"
+      },
+      {
+        "id": "B",
+        "text": "質地軟爛而入口即化"
+      },
+      {
+        "id": "C",
+        "text": "堅韌而質地爽脆"
+      },
+      {
+        "id": "D",
+        "text": "軟硬適中而耐咀嚼"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "我們欣賞「佛跳牆」的美，美在它的風味濃淳，而其口感與質地的美則在： 柔嫩鮮脆而具彈性 質地軟爛而入口即化 堅韌而質地爽脆 軟硬適中而耐咀嚼 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2299
+  }
+}

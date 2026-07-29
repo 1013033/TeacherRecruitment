@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q022-ec7efbc8c2",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 22 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-3706",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "下列旅館專業用語，何者代表住客已離開旅館但未結清應付帳款？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "day use"
+      },
+      {
+        "id": "B",
+        "text": "occupied & dirty"
+      },
+      {
+        "id": "C",
+        "text": "skipper"
+      },
+      {
+        "id": "D",
+        "text": "sleep out"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列旅館專業用語，何者代表住客已離開旅館但未結清應付帳款？ day use occupied & dirty skipper sleep out 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1755
+  }
+}

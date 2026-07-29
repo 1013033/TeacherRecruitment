@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q031-c46fd68e13",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 31 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-8526",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "哈力栗任職於巴特獅旅行社，主要職務是「負責掌控各線旅客順利出團事務，包含機位、航班確認及證照辦理等」；由此推測，哈力栗正確的工作職稱應為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "線控 R/C(Route Controller)"
+      },
+      {
+        "id": "B",
+        "text": "控團 O/P(Operationist)"
+      },
+      {
+        "id": "C",
+        "text": "團控 T/C(Tour Controller)"
+      },
+      {
+        "id": "D",
+        "text": "票務 T/C(Ticket Clerk)"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行社、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行社、tour"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "哈力栗任職於巴特獅旅行社，主要職務是「負責掌控各線旅客順利出團事務，包含機位、航班確認及證照辦理等」；由此推測，哈力栗正確的工作職稱應為下列何者？ 線控 R/C(Route Controller) 控團 O/P(Operationist) 團控 T/C(Tour Controller) 票務 T/C(Ticket Clerk) 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1784
+  }
+}

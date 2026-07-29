@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p2-q024-7f3a2b781f",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(二) 第 24 題",
+    "sourceFile": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md",
+    "sourceLocator": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md#offset-3559",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "旅館在房客退房後，下列布巾何者每次皆應清洗？甲、毛毯 乙、床單 丙、枕套 丁、被套 戊、羽絨被",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙、丁"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、戊"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁、戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館在房客退房後，下列布巾何者每次皆應清洗？甲、毛毯 乙、床單 丙、枕套 丁、被套 戊、羽絨被 甲、丙、丁 乙、丙、丁 乙、丙、戊 丙、丁、戊 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1561
+  }
+}

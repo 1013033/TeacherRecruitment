@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q018-966f4a7cbb",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 18 題",
+    "sourceFile": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md",
+    "sourceLocator": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md#offset-3015",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "在餐飲組織的工作設計中，「將工作分為許多不同的類別或等級，其中相同價值的工作在相同薪資給付層級」，稱之為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Job Description"
+      },
+      {
+        "id": "B",
+        "text": "Job Classification"
+      },
+      {
+        "id": "C",
+        "text": "Job Assignment"
+      },
+      {
+        "id": "D",
+        "text": "Job Specification"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "在餐飲組織的工作設計中，「將工作分為許多不同的類別或等級，其中相同價值的工作在相同薪資給付層級」，稱之為下列何者？ Job Description Job Classification Job Assignment Job Specification 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 183
+  }
+}

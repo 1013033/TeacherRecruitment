@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q033-17b7e31883",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 33 題",
+    "sourceFile": "109\\output\\109-3專一試題\\auto\\109-3專一試題.md",
+    "sourceLocator": "109\\output\\109-3專一試題\\auto\\109-3專一試題.md#offset-5065",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "「新竹關西六福莊」是亞洲首座以自然生態與草食性動物為景觀設計的旅館，客房擁有大片觀景落地窗，可見各式非洲放養草食性動物，讓所有住宿貴賓零距離和動物親密相遇，學習愛護生態。由此推測，六福莊應屬下列哪一種類型旅館？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Metropolitan Hotel"
+      },
+      {
+        "id": "B",
+        "text": "Casino Hotel"
+      },
+      {
+        "id": "C",
+        "text": "Resort Hotel"
+      },
+      {
+        "id": "D",
+        "text": "Boutique Hotel"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、住宿、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「新竹關西六福莊」是亞洲首座以自然生態與草食性動物為景觀設計的旅館，客房擁有大片觀景落地窗，可見各式非洲放養草食性動物，讓所有住宿貴賓零距離和動物親密相遇，學習愛護生態。由此推測，六福莊應屬下列哪一種類型旅館？ Metropolitan Hotel Casino Hotel Resort Hotel Boutique Hotel 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1130
+  }
+}

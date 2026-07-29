@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p1-q018-97a5572d1d",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 18 題",
+    "sourceFile": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md",
+    "sourceLocator": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md#offset-3403",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "關於中餐廚房工作人員的職掌，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "負責肉類處理、切菜及配菜工作的職掌稱為白案師傅"
+      },
+      {
+        "id": "B",
+        "text": "負責魚貝、家禽類處理工作的職掌稱為水檯師傅"
+      },
+      {
+        "id": "C",
+        "text": "負責依不同菜餚做適當擺盤與裝飾工作的職掌稱為墩子師傅"
+      },
+      {
+        "id": "D",
+        "text": "負責中式麵食、點心及甜點工作的職掌稱為紅案師傅"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中餐廚房工作人員的職掌，下列何者正確？ 負責肉類處理、切菜及配菜工作的職掌稱為白案師傅 負責魚貝、家禽類處理工作的職掌稱為水檯師傅 負責依不同菜餚做適當擺盤與裝飾工作的職掌稱為墩子師傅 負責中式麵食、點心及甜點工作的職掌稱為紅案師傅 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 404
+  }
+}

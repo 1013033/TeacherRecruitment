@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q010-1136923e1b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 10 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-1987",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "餐廳服務人員手持sauceboat為顧客服務sauce時，下列何種服務方式正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以右手持sauceboat、右腳前左腳後，從顧客左側服務"
+      },
+      {
+        "id": "B",
+        "text": "以左手持sauce boat、左腳前右腳後，從顧客左側服務"
+      },
+      {
+        "id": "C",
+        "text": "以右手持sauce boat、右腳前左腳後，從顧客右側服務"
+      },
+      {
+        "id": "D",
+        "text": "以左手持sauce boat、左腳前右腳後，從顧客右側服務"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳服務人員手持sauceboat為顧客服務sauce時，下列何種服務方式正確？ 以右手持sauceboat、右腳前左腳後，從顧客左側服務 以左手持sauce boat、左腳前右腳後，從顧客左側服務 以右手持sauce boat、右腳前左腳後，從顧客右側服務 以左手持sauce boat、左腳前右腳後，從顧客右側服務 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1743
+  }
+}

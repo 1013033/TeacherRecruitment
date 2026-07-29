@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p1-q021-7ae6f9171e",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(一) 第 21 題",
+    "sourceFile": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md",
+    "sourceLocator": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md#offset-2805",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "旅館內各餐廳的 cashier隸屬於下列哪一部門？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "餐務部"
+      },
+      {
+        "id": "B",
+        "text": "訂席組"
+      },
+      {
+        "id": "C",
+        "text": "財務部"
+      },
+      {
+        "id": "D",
+        "text": "資訊部"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館內各餐廳的 cashier隸屬於下列哪一部門？ 餐務部 訂席組 財務部 資訊部 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1222
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q009-a84414f4a1",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-1287",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列有關餐旅從業人員職業道德的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "依照客人性別的不同，提供不同的服務態度"
+      },
+      {
+        "id": "B",
+        "text": "即使付出稍高成本，仍須以提供消費者安全的餐飲為前提"
+      },
+      {
+        "id": "C",
+        "text": "檢視員工服務環境中之潛在危險因子，非餐旅業者之職責"
+      },
+      {
+        "id": "D",
+        "text": "執行工作時，將個人利益置於顧客需求之上"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關餐旅從業人員職業道德的敘述，何者正確？ 依照客人性別的不同，提供不同的服務態度 即使付出稍高成本，仍須以提供消費者安全的餐飲為前提 檢視員工服務環境中之潛在危險因子，非餐旅業者之職責 執行工作時，將個人利益置於顧客需求之上 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 196
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q017-2754fb921e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 17 題",
+    "sourceFile": "111\\output\\111-4專一試題\\auto\\111-4專一試題.md",
+    "sourceLocator": "111\\output\\111-4專一試題\\auto\\111-4專一試題.md#offset-2795",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "科學園區某公司為其海外客戶安排在臺灣的短期住宿，粗估每年度訂房至少220間。慮及訂房成本，公司應該採取下列哪一種房價計價方式與飯店商談較為合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Entertainment Rate"
+      },
+      {
+        "id": "B",
+        "text": "Corporate Rate"
+      },
+      {
+        "id": "C",
+        "text": "Rack Rate"
+      },
+      {
+        "id": "D",
+        "text": "Flat Rate"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飯店、訂房、住宿、房價"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飯店、訂房、住宿、房價"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "科學園區某公司為其海外客戶安排在臺灣的短期住宿，粗估每年度訂房至少220間。慮及訂房成本，公司應該採取下列哪一種房價計價方式與飯店商談較為合適？ Entertainment Rate Corporate Rate Rack Rate Flat Rate 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2147
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p2-q040-53f7290faa",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 40 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-4407",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "餐桌上擺設杯子時，下列何者應擺在客人的最右手邊？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "白酒杯"
+      },
+      {
+        "id": "B",
+        "text": "水杯"
+      },
+      {
+        "id": "C",
+        "text": "紅酒杯"
+      },
+      {
+        "id": "D",
+        "text": "果汁杯"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐桌上擺設杯子時，下列何者應擺在客人的最右手邊？ 白酒杯 水杯 紅酒杯 果汁杯 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2383
+  }
+}

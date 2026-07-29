@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q050-cfcf092241",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 50 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-5183",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "咖啡屋依照標準成本表，每杯咖啡需要10公克咖啡豆，若平均每日銷售400杯，安全存量爲銷售量的10%，則每日需要進貨1磅裝的咖啡豆多少包？",
+    "images": [
+      {
+        "id": "vocational-exam-93-p2-q050-cfcf092241-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-93-p2-q050-cfcf092241-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "7包"
+      },
+      {
+        "id": "B",
+        "text": "8 包"
+      },
+      {
+        "id": "C",
+        "text": "9包"
+      },
+      {
+        "id": "D",
+        "text": "10 包 # 公告試題 # 公告試題"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡屋依照標準成本表，每杯咖啡需要10公克咖啡豆，若平均每日銷售400杯，安全存量爲銷售量的10%，則每日需要進貨1磅裝的咖啡豆多少包？ 7包 8 包 9包 10 包 # 公告試題 # 公告試題 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2201
+  }
+}

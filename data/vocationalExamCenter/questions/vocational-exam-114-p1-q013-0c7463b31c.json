@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q013-0c7463b31c",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 13 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-4291",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "e Flamme餐廳受邀籌備一場高端晚宴，Hugo準備香料爐烤火雞作為主菜，這道料理需使用專業技法均勻塗抹香料，並以適當溫度長時間烘烤，使雞皮酥脆、肉質鮮嫩。Hugo最有可能擔任下列哪一個職位？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "pantry cook"
+      },
+      {
+        "id": "B",
+        "text": "pastry cook"
+      },
+      {
+        "id": "C",
+        "text": "roast cook"
+      },
+      {
+        "id": "D",
+        "text": "sauce cook"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：爐烤、roast、sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：爐烤、roast、sauce"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "e Flamme餐廳受邀籌備一場高端晚宴，Hugo準備香料爐烤火雞作為主菜，這道料理需使用專業技法均勻塗抹香料，並以適當溫度長時間烘烤，使雞皮酥脆、肉質鮮嫩。Hugo最有可能擔任下列哪一個職位？ pantry cook pastry cook roast cook sauce cook 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 698
+  }
+}

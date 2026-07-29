@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q008-6d7800ae75",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 8 題",
+    "sourceFile": "109\\output\\109-3專一試題\\auto\\109-3專一試題.md",
+    "sourceLocator": "109\\output\\109-3專一試題\\auto\\109-3專一試題.md#offset-1236",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列旅館從業人員中，隸屬於「Uniform Service」編制者有哪些？甲、Cloak Attendant 乙、Office Clerk 丙、Door Man丁、Porter 戊、Chamber Maid 己、Chief Concierge",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙、戊"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙、戊"
+      },
+      {
+        "id": "C",
+        "text": "甲、丙、丁、己"
+      },
+      {
+        "id": "D",
+        "text": "甲、丙、丁、戊、己"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、concierge"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、concierge"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列旅館從業人員中，隸屬於「Uniform Service」編制者有哪些？甲、Cloak Attendant 乙、Office Clerk 丙、Door Man丁、Porter 戊、Chamber Maid 己、Chief Concierge 乙、戊 甲、乙、戊 甲、丙、丁、己 甲、丙、丁、戊、己 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1105
+  }
+}

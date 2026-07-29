@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q026-6225db1e89",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 26 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-3819",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "在飲料的分類中，下列何者不屬於嗜好性飲料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡"
+      },
+      {
+        "id": "B",
+        "text": "巧克力"
+      },
+      {
+        "id": "C",
+        "text": "紅牛"
+      },
+      {
+        "id": "D",
+        "text": "果蔬汁"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在飲料的分類中，下列何者不屬於嗜好性飲料？ 咖啡 巧克力 紅牛 果蔬汁 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2006
+  }
+}

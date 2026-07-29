@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q047-eff9fb9374",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 47 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-10422",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "依據飲料實務課程指導老師提供的建議，除了熟粉圓之外，還需要準備下列哪些材料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "奶精粉、冰糖、伯爵紅茶"
+      },
+      {
+        "id": "B",
+        "text": "奶精粉、糖水、阿薩姆紅茶"
+      },
+      {
+        "id": "C",
+        "text": "無糖液態奶精、糖水、伯爵紅茶"
+      },
+      {
+        "id": "D",
+        "text": "無糖液體奶精、冰糖、阿薩姆紅茶"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據飲料實務課程指導老師提供的建議，除了熟粉圓之外，還需要準備下列哪些材料？ 奶精粉、冰糖、伯爵紅茶 奶精粉、糖水、阿薩姆紅茶 無糖液態奶精、糖水、伯爵紅茶 無糖液體奶精、冰糖、阿薩姆紅茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1954
+  }
+}

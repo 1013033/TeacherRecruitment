@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p1-q018-e2698ffa51",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(一) 第 18 題",
+    "sourceFile": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md",
+    "sourceLocator": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md#offset-1713",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "關於 Abacus International 的描述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "由日航等六家航空公司結盟創立"
+      },
+      {
+        "id": "B",
+        "text": "是一種電腦訂位系統"
+      },
+      {
+        "id": "C",
+        "text": "目前為我國旅行業所使用的CRS之一"
+      },
+      {
+        "id": "D",
+        "text": "其總部設於新加坡"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、航空、abacus"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、航空、abacus"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於 Abacus International 的描述，下列何者錯誤？ 由日航等六家航空公司結盟創立 是一種電腦訂位系統 目前為我國旅行業所使用的CRS之一 其總部設於新加坡 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1070
+  }
+}

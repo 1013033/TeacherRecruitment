@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-makeup-q032-9c16df00eb",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 32 題",
+    "sourceFile": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md",
+    "sourceLocator": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md#offset-2462",
+    "paperTitle": "專業科目(二)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "餐廳服務工作中，所謂「SOP」是什麼意思？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "服務組織規劃"
+      },
+      {
+        "id": "B",
+        "text": "服務作業政策"
+      },
+      {
+        "id": "C",
+        "text": "標準作業流程"
+      },
+      {
+        "id": "D",
+        "text": "標準組織規劃"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳服務工作中，所謂「SOP」是什麼意思？ 服務組織規劃 服務作業政策 標準作業流程 標準組織規劃 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2280
+  }
+}

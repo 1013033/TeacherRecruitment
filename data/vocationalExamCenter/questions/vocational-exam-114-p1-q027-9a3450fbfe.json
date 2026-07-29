@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q027-9a3450fbfe",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 27 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-7221",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "美國聯合航空(UA)正式宣布，將於2025年夏季推出大規模的國際擴張計畫，新增8個新城市的航點，其中包括東京和高雄間的直飛航線，這條由美國出發、經過東京前往高雄的新增航線是屬於下列哪一個航權？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "第三航權"
+      },
+      {
+        "id": "B",
+        "text": "第四航權"
+      },
+      {
+        "id": "C",
+        "text": "第五航權"
+      },
+      {
+        "id": "D",
+        "text": "第六航權"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：航空"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "美國聯合航空(UA)正式宣布，將於2025年夏季推出大規模的國際擴張計畫，新增8個新城市的航點，其中包括東京和高雄間的直飛航線，這條由美國出發、經過東京前往高雄的新增航線是屬於下列哪一個航權？ 第三航權 第四航權 第五航權 第六航權 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 712
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q018-aa905522de",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 18 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-3487",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "餐飲業泛指從事調理餐食或飲料供立即食用或飲用之行業。因進入門檻低、高勞力密集、產品或服務易於模仿等特性而屬於高度競爭產業。有關其行業特質之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "銷售量可用預訂估算"
+      },
+      {
+        "id": "B",
+        "text": "產品生產製備時程短"
+      },
+      {
+        "id": "C",
+        "text": "產品易變質儲存不易"
+      },
+      {
+        "id": "D",
+        "text": "營業時段離尖峰明顯"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲業泛指從事調理餐食或飲料供立即食用或飲用之行業。因進入門檻低、高勞力密集、產品或服務易於模仿等特性而屬於高度競爭產業。有關其行業特質之敘述，下列何者錯誤？ 銷售量可用預訂估算 產品生產製備時程短 產品易變質儲存不易 營業時段離尖峰明顯 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1865
+  }
+}

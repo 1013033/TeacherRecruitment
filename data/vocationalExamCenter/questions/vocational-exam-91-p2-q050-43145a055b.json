@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q050-43145a055b",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 50 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-4917",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "下列有關烹調材料重量與容積單位之換算，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "半台斤 = 8 兩"
+      },
+      {
+        "id": "C",
+        "text": "半台斤 = 400 公克"
+      },
+      {
+        "id": "B",
+        "text": "1 英磅 = 16 盎司"
+      },
+      {
+        "id": "D",
+        "text": "1 量杯水重 = 236 公克 【以下空白】 餐旅類 專業科目(二)"
+      }
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：烹調"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "下列有關烹調材料重量與容積單位之換算，何者錯誤？ 半台斤 = 8 兩 半台斤 = 400 公克 1 英磅 = 16 盎司 1 量杯水重 = 236 公克 【以下空白】 餐旅類 專業科目(二) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2103
+  }
+}

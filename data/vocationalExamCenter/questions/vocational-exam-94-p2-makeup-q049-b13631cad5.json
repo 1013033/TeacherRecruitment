@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-makeup-q049-b13631cad5",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 49 題",
+    "sourceFile": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md",
+    "sourceLocator": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md#offset-4149",
+    "paperTitle": "專業科目(二)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "下列麵粉類別與其主要製成品的配對，何者正確？麵粉類：甲、高筋麵粉； 乙、中筋麵粉； 丙、低筋麵粉。製成品：ㄅ、饅頭； ㄆ、法國麵包； ㄇ、海綿蛋糕。",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲ㄅ、乙ㄆ、丙ㄇ"
+      },
+      {
+        "id": "B",
+        "text": "甲ㄆ、乙ㄅ、丙ㄇ"
+      },
+      {
+        "id": "C",
+        "text": "甲ㄇ、乙ㄆ、丙ㄅ"
+      },
+      {
+        "id": "D",
+        "text": "甲ㄇ、乙ㄅ、丙ㄆ"
+      }
+    ],
+    "answer": "B",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：麵包、蛋糕、麵粉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：麵包、蛋糕、麵粉"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列麵粉類別與其主要製成品的配對，何者正確？麵粉類：甲、高筋麵粉； 乙、中筋麵粉； 丙、低筋麵粉。製成品：ㄅ、饅頭； ㄆ、法國麵包； ㄇ、海綿蛋糕。 甲ㄅ、乙ㄆ、丙ㄇ 甲ㄆ、乙ㄅ、丙ㄇ 甲ㄇ、乙ㄆ、丙ㄅ 甲ㄇ、乙ㄅ、丙ㄆ 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2296
+  }
+}

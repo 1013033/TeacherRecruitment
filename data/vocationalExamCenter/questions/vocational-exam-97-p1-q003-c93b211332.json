@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p1-q003-c93b211332",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md",
+    "sourceLocator": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md#offset-513",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "「餐飲產品隨著服務提供者、用餐地點和時間等之不同，很難維持品質的穩定性」，指的是餐飲業的下列哪一項特性？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "無形性 ( intangibility )"
+      },
+      {
+        "id": "B",
+        "text": "不可分割性 ( inseparability )"
+      },
+      {
+        "id": "C",
+        "text": "可變性 ( variability )"
+      },
+      {
+        "id": "D",
+        "text": "易逝性 ( perishability )"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業、餐飲產品"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業、餐飲產品"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「餐飲產品隨著服務提供者、用餐地點和時間等之不同，很難維持品質的穩定性」，指的是餐飲業的下列哪一項特性？ 無形性 ( intangibility ) 不可分割性 ( inseparability ) 可變性 ( variability ) 易逝性 ( perishability ) 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1154
+  }
+}

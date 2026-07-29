@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q043-4de6baa0ec",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 43 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-4267",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "某海鮮餐廳發生食物中毒事件，若原因為處理水產類食物不當，則其引發的細菌感染種類為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "仙人掌桿菌"
+      },
+      {
+        "id": "B",
+        "text": "葡萄球菌"
+      },
+      {
+        "id": "C",
+        "text": "肉毒桿菌"
+      },
+      {
+        "id": "D",
+        "text": "腸炎弧菌"
+      }
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄球菌、肉毒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄球菌、肉毒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "某海鮮餐廳發生食物中毒事件，若原因為處理水產類食物不當，則其引發的細菌感染種類為： 仙人掌桿菌 葡萄球菌 肉毒桿菌 腸炎弧菌 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2096
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q030-e8adc57515",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 30 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-8022",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "卡布為完成「觀光餐旅業導論-旅行業篇」─【認識國內旅行社】課後學習單，經 Google 搜尋，查得圖(三)資訊，並撰寫下列簡介概述，試問：卡布撰寫內容中，何者需修改？",
+    "images": [
+      {
+        "id": "mock-exam-110-p1-q030-e8adc57515-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-110-p1-q030-e8adc57515-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      },
+      {
+        "id": "mock-exam-110-p1-q030-e8adc57515-img-02",
+        "src": "data/mockExamCenter/assets/mock-exam-110-p1-q030-e8adc57515-img-02.jpg",
+        "alt": "第 2 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "巴特獅旅行社可同時包辦經營 Inbound、Outbound 及Domestic 業務"
+      },
+      {
+        "id": "B",
+        "text": "巴特獅旅行社法定最低資本額需達3000萬元以上"
+      },
+      {
+        "id": "C",
+        "text": "巴特獅旅行社得以註冊商標 替代公司名稱"
+      },
+      {
+        "id": "D",
+        "text": "巴特獅旅行社具備觀光公益法人TVA會員資格 Butter Lion TRV. 臺灣臺北市 119 外湖區水潭路 151 號 代表人：賴巴特 統一編號：04655688 代表號：02-87654321 交觀綜字 1688 號 品保協會會員 93 字第北 0541 號 圖(三)"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業、旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業、旅行社"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "卡布為完成「觀光餐旅業導論-旅行業篇」─【認識國內旅行社】課後學習單，經 Google 搜尋，查得圖(三)資訊，並撰寫下列簡介概述，試問：卡布撰寫內容中，何者需修改？ 巴特獅旅行社可同時包辦經營 Inbound、Outbound 及Domestic 業務 巴特獅旅行社法定最低資本額需達3000萬元以上 巴特獅旅行社得以註冊商標 替代公司名稱 巴特獅旅行社具備觀光公益法人TVA會員資格 Butter Lion TRV. 臺灣臺北市 119 外湖區水潭路 151 號 代表人：賴巴特 統一編號：04655688 代表號：02-87654321 交觀綜字 1688 號 品保協會會員 93 字第北 0541 號 圖(三) 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1783
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p2-q035-22a4fed910",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 35 題",
+    "sourceFile": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md",
+    "sourceLocator": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md#offset-6989",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "飲料區分成 hard drinks 與 soft drinks 的分類準則為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "飲用的時機"
+      },
+      {
+        "id": "B",
+        "text": "飲用的溫度"
+      },
+      {
+        "id": "C",
+        "text": "是否含有酒精成份"
+      },
+      {
+        "id": "D",
+        "text": "是否含有固體成份"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "飲料區分成 hard drinks 與 soft drinks 的分類準則為何？ 飲用的時機 飲用的溫度 是否含有酒精成份 是否含有固體成份 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1671
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p1-q001-852cc66b11",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(一) 第 1 題",
+    "sourceFile": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md",
+    "sourceLocator": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md#offset-295",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "鐵路局所推出的觀光列車，符合觀光行銷組合 (Marketing Mix) 中 4P 的那一項？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "價格 (Price)"
+      },
+      {
+        "id": "B",
+        "text": "通路 (Place)"
+      },
+      {
+        "id": "C",
+        "text": "產品 (Product)"
+      },
+      {
+        "id": "D",
+        "text": "推廣 (Promotion)"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光、4p"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光、4p"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "鐵路局所推出的觀光列車，符合觀光行銷組合 (Marketing Mix) 中 4P 的那一項？ 價格 (Price) 通路 (Place) 產品 (Product) 推廣 (Promotion) 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 876
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q034-e83afcad14",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 34 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-6289",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "關於臺灣觀光遊樂產業的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "東部的遠雄海洋公園，是位於花蓮縣著名的主題樂園"
+      },
+      {
+        "id": "B",
+        "text": "中部的九族文化村，是結合主題樂園以及野生動物園"
+      },
+      {
+        "id": "C",
+        "text": "中部的麗寶樂園，是提供水陸設施的複合式主題樂園"
+      },
+      {
+        "id": "D",
+        "text": "南部的義大世界，是結合住宿、購物商場的主題樂園"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：住宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於臺灣觀光遊樂產業的敘述，下列何者錯誤？ 東部的遠雄海洋公園，是位於花蓮縣著名的主題樂園 中部的九族文化村，是結合主題樂園以及野生動物園 中部的麗寶樂園，是提供水陸設施的複合式主題樂園 南部的義大世界，是結合住宿、購物商場的主題樂園 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 619
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q023-1b59948715",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 23 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-3626",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "關於廚房工作環境的規劃，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "排水溝的寬度應為 10\\~15公分"
+      },
+      {
+        "id": "B",
+        "text": "廚房最適當相對溼度為 70\\~80%"
+      },
+      {
+        "id": "C",
+        "text": "工作檯面的照明度為 200米燭光以上"
+      },
+      {
+        "id": "D",
+        "text": "地下水源至少應與化糞池或廢棄物堆積場所距離 5公尺"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於廚房工作環境的規劃，下列何者正確？ 排水溝的寬度應為 10\\~15公分 廚房最適當相對溼度為 70\\~80% 工作檯面的照明度為 200米燭光以上 地下水源至少應與化糞池或廢棄物堆積場所距離 5公尺 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 359
+  }
+}

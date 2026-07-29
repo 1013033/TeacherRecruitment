@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q014-3450f00bac",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 14 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-1822",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "小美初取得華語導遊執業證，下列哪一個地區的觀光客旅遊業務不是她可以執行接待或引導的範圍？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "香港"
+      },
+      {
+        "id": "B",
+        "text": "澳門"
+      },
+      {
+        "id": "C",
+        "text": "大陸"
+      },
+      {
+        "id": "D",
+        "text": "新加坡"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：導遊、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：導遊、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小美初取得華語導遊執業證，下列哪一個地區的觀光客旅遊業務不是她可以執行接待或引導的範圍？ 香港 澳門 大陸 新加坡 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 201
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q009-a203c16895",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 9 題",
+    "sourceFile": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md",
+    "sourceLocator": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md#offset-1741",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "現今許多飯店與民宿紛紛導入智慧科技，例如透過 AI 語音助理或物聯網(IoT)系統，讓顧客只需一聲令下，即可自動調整客房的燈光、空調、電視頻道等設定。這類能根據顧客個人偏好提供自動化、客製化服務，創造驚喜與額外便利性的服務體驗，在服務產品的五個層次中，屬於哪一個層次？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "核心產品(Core Product)"
+      },
+      {
+        "id": "B",
+        "text": "基本產品(Basic Product)"
+      },
+      {
+        "id": "C",
+        "text": "期望產品(Expected Product)"
+      },
+      {
+        "id": "D",
+        "text": "附加產品(Augmented Product)"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飯店、客房、民宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飯店、客房、民宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "現今許多飯店與民宿紛紛導入智慧科技，例如透過 AI 語音助理或物聯網(IoT)系統，讓顧客只需一聲令下，即可自動調整客房的燈光、空調、電視頻道等設定。這類能根據顧客個人偏好提供自動化、客製化服務，創造驚喜與額外便利性的服務體驗，在服務產品的五個層次中，屬於哪一個層次？ 核心產品(Core Product) 基本產品(Basic Product) 期望產品(Expected Product) 附加產品(Augmented Product) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 3338
+  }
+}

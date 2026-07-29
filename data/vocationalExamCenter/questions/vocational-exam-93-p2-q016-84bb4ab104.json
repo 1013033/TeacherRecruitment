@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q016-84bb4ab104",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 16 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-1380",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "烹調匈牙利牛肉(BeefGoulash)時，一定要加入下列那一項材料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "蕃茄醬(Ketchup)"
+      },
+      {
+        "id": "B",
+        "text": "蕃茄糊(Tomato Paste)"
+      },
+      {
+        "id": "C",
+        "text": "紅辣椒粉(Chili Powder)"
+      },
+      {
+        "id": "D",
+        "text": "紅甜椒粉(Paprika)"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：烹調"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "烹調匈牙利牛肉(BeefGoulash)時，一定要加入下列那一項材料？ 蕃茄醬(Ketchup) 蕃茄糊(Tomato Paste) 紅辣椒粉(Chili Powder) 紅甜椒粉(Paprika) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2168
+  }
+}

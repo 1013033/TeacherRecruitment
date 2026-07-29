@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q026-f78f0b383b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 26 題",
+    "sourceFile": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md",
+    "sourceLocator": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md#offset-4230",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項工作不屬於 Office Clerk 的職責？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "負責 Floor Master Key 的管制作業，填寫出借與歸還紀錄"
+      },
+      {
+        "id": "B",
+        "text": "連結大廳櫃台電腦系統，製作 Room Status Report"
+      },
+      {
+        "id": "C",
+        "text": "每日 16:00-18:30 依照夜間清潔檢查表進行 Turn-down Service"
+      },
+      {
+        "id": "D",
+        "text": "登錄Mini Bar的消費紀錄至銷售日報表"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項工作不屬於 Office Clerk 的職責？ 負責 Floor Master Key 的管制作業，填寫出借與歸還紀錄 連結大廳櫃台電腦系統，製作 Room Status Report 每日 16:00-18:30 依照夜間清潔檢查表進行 Turn-down Service 登錄Mini Bar的消費紀錄至銷售日報表 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1166
+  }
+}

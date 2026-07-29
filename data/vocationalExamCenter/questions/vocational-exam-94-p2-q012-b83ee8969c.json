@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-q012-b83ee8969c",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 12 題",
+    "sourceFile": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md",
+    "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-1054",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "下列有關重量的換算，哪一項正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "1 盎司 (oz) = 16 茶匙 ( tea spoon ) 的重量"
+      },
+      {
+        "id": "B",
+        "text": "1 英磅 (lb) = 16 茶匙 ( tea spoon ) 的重量"
+      },
+      {
+        "id": "C",
+        "text": "1 公斤 = 40 大匙 ( table spoon ) 的重量"
+      },
+      {
+        "id": "D",
+        "text": "1 台斤 = 40 大匙 ( table spoon ) 的重量"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：table、spoon"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：table、spoon"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關重量的換算，哪一項正確？ 1 盎司 (oz) = 16 茶匙 ( tea spoon ) 的重量 1 英磅 (lb) = 16 茶匙 ( tea spoon ) 的重量 1 公斤 = 40 大匙 ( table spoon ) 的重量 1 台斤 = 40 大匙 ( table spoon ) 的重量 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2213
+  }
+}

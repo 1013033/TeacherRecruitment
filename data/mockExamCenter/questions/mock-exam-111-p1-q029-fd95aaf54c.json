@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q029-fd95aaf54c",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 29 題",
+    "sourceFile": "111\\output\\111-2專一試題\\auto\\111-2專一試題.md",
+    "sourceLocator": "111\\output\\111-2專一試題\\auto\\111-2專一試題.md#offset-5372",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "張滿月大學畢業後投入旅宿業工作，其工作會使用 Call Accounting System 和 Automated Wake-up CallSystem，並依照房客要求 Confidential或No Call，請問張滿月最有可能是擔任旅宿業哪項工作？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Receptionist"
+      },
+      {
+        "id": "B",
+        "text": "Reservation Clerk"
+      },
+      {
+        "id": "C",
+        "text": "Private Branch Exchange"
+      },
+      {
+        "id": "D",
+        "text": "Uniform Service"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "張滿月大學畢業後投入旅宿業工作，其工作會使用 Call Accounting System 和 Automated Wake-up CallSystem，並依照房客要求 Confidential或No Call，請問張滿月最有可能是擔任旅宿業哪項工作？ Receptionist Reservation Clerk Private Branch Exchange Uniform Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1964
+  }
+}

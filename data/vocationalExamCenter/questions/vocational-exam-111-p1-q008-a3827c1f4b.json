@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p1-q008-a3827c1f4b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 8 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-1293",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "張同學於暑假期間前往中部知名景點遊玩，景點中有幸福摩天輪可鳥瞰風景，大船塢可進行水戰迷宮，搭乘擎天飛梭可以挑戰極速落體的快感，飛越恐龍谷則可享受沉浸式虛擬體驗。依觀光遊樂服務業之經營類型，此知名景點應屬於下列哪一種？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "自然賞景型"
+      },
+      {
+        "id": "B",
+        "text": "海濱遊憩型"
+      },
+      {
+        "id": "C",
+        "text": "綜合遊樂園型"
+      },
+      {
+        "id": "D",
+        "text": "動物展示型"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光、遊憩"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光、遊憩"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "張同學於暑假期間前往中部知名景點遊玩，景點中有幸福摩天輪可鳥瞰風景，大船塢可進行水戰迷宮，搭乘擎天飛梭可以挑戰極速落體的快感，飛越恐龍谷則可享受沉浸式虛擬體驗。依觀光遊樂服務業之經營類型，此知名景點應屬於下列哪一種？ 自然賞景型 海濱遊憩型 綜合遊樂園型 動物展示型 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 544
+  }
+}

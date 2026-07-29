@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q035-465ea86aa8",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 35 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-7599",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "交通部觀光局為因應全球化趨勢，並與國際接軌，針對國內旅館產業實施下列何種計畫，以提升旅館產業整體服務品質，便於國內外消費者得依照旅遊預算及需求選擇合適旅宿設施？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "好客旅宿計畫"
+      },
+      {
+        "id": "B",
+        "text": "安心旅宿認證計畫"
+      },
+      {
+        "id": "C",
+        "text": "心動主題旅宿選拔計畫"
+      },
+      {
+        "id": "D",
+        "text": "星級旅館評鑑計畫"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：觀光局、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：觀光局、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "交通部觀光局為因應全球化趨勢，並與國際接軌，針對國內旅館產業實施下列何種計畫，以提升旅館產業整體服務品質，便於國內外消費者得依照旅遊預算及需求選擇合適旅宿設施？ 好客旅宿計畫 安心旅宿認證計畫 心動主題旅宿選拔計畫 星級旅館評鑑計畫 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1882
+  }
+}

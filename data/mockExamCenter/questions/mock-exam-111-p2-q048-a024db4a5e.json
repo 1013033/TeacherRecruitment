@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q048-a024db4a5e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 48 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-6616",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "使用濾紙滴漏的方式沖煮咖啡時，下列的沖煮條件何者較不適合？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "沖煮水溫約 85\\~95°C"
+      },
+      {
+        "id": "B",
+        "text": "研磨刻度採用細研磨"
+      },
+      {
+        "id": "C",
+        "text": "咖啡豆與水量的比例約在 1：10\\~1：15之間"
+      },
+      {
+        "id": "D",
+        "text": "約 3 分鐘內沖煮完成"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "使用濾紙滴漏的方式沖煮咖啡時，下列的沖煮條件何者較不適合？ 沖煮水溫約 85\\~95°C 研磨刻度採用細研磨 咖啡豆與水量的比例約在 1：10\\~1：15之間 約 3 分鐘內沖煮完成 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2028
+  }
+}

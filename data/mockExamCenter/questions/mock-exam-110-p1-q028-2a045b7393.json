@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q028-2a045b7393",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 28 題",
+    "sourceFile": "110\\output\\110-4專一試題\\auto\\110-4專一試題.md",
+    "sourceLocator": "110\\output\\110-4專一試題\\auto\\110-4專一試題.md#offset-5198",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "下列觀光餐旅從業人員中，工作職務非負責餐廳酒單開立、酒窖管理及葡萄酒採購？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Bar Man"
+      },
+      {
+        "id": "B",
+        "text": "Wine Butler"
+      },
+      {
+        "id": "C",
+        "text": "Sommelier"
+      },
+      {
+        "id": "D",
+        "text": "Chef de Vin"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列觀光餐旅從業人員中，工作職務非負責餐廳酒單開立、酒窖管理及葡萄酒採購？ Bar Man Wine Butler Sommelier Chef de Vin 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1685
+  }
+}

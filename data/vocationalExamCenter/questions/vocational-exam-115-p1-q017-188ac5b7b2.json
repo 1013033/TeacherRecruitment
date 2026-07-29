@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p1-q017-188ac5b7b2",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 17 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-4430",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "若臺南市北區共有三間旅館，其於民國115年1月15日(星期四)之個別住房數據如表(二)所示，此區旅館整體的 occupancy rate與 average daily( room) rate 分別為： <table><tr><td rowspan=4 colspan=1>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "56% ; $1,875"
+      },
+      {
+        "id": "B",
+        "text": "56% ; $1,900"
+      },
+      {
+        "id": "C",
+        "text": "60 % ; $1,875"
+      },
+      {
+        "id": "D",
+        "text": "60% ; $1,900 表(二)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>登記房間數(間)</td><td rowspan=1 colspan=1>住房率(%)</td><td rowspan=1 colspan=1>平均房價(NTS)</td></tr><tr><td rowspan=1 colspan=1>甲旅館</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>2,100</td></tr><tr><td rowspan=1 colspan=1>乙旅館</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>1,800</td></tr><tr><td rowspan=1 colspan=1>丙旅館</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>1,800</td></tr></table>"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、房價、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、房價、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "若臺南市北區共有三間旅館，其於民國115年1月15日(星期四)之個別住房數據如表(二)所示，此區旅館整體的 occupancy rate與 average daily( room) rate 分別為： <table><tr><td rowspan=4 colspan=1> 56% ; $1,875 56% ; $1,900 60 % ; $1,875 60% ; $1,900 表(二)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>登記房間數(間)</td><td rowspan=1 colspan=1>住房率(%)</td><td rowspan=1 colspan=1>平均房價(NTS)</td></tr><tr><td rowspan=1 colspan=1>甲旅館</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>2,100</td></tr><tr><td rowspan=1 colspan=1>乙旅館</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>1,800</td></tr><tr><td rowspan=1 colspan=1>丙旅館</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>1,800</td></tr></table> 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 752
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q021-d7a29fe7c9",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 21 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-5274",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "餐後服務員送上的咖啡飲品中，已添加了奶製品或烈酒的各有幾款？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "奶製品4款；烈酒4款"
+      },
+      {
+        "id": "B",
+        "text": "奶製品 4 款；烈酒 2 款"
+      },
+      {
+        "id": "C",
+        "text": "奶製品 3款；烈酒 3款"
+      },
+      {
+        "id": "D",
+        "text": "奶製品 3款；烈酒 2款 ## ▲ 閱讀下文，回答第 22-23 題 傑克是臺灣國際觀光旅館 Steward Department 的主任，其工作內容包含：熟悉部門內清潔用品的分類與功能、管理與規劃餐廳器皿庫存數量、制定餐廳消毒與洗滌工作標準作業流程。近日傑克將進行管轄單位中金屬類餐具的庫存盤點，以確認相關器皿的數量。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐後服務員送上的咖啡飲品中，已添加了奶製品或烈酒的各有幾款？ 奶製品4款；烈酒4款 奶製品 4 款；烈酒 2 款 奶製品 3款；烈酒 3款 奶製品 3款；烈酒 2款 ## ▲ 閱讀下文，回答第 22-23 題 傑克是臺灣國際觀光旅館 Steward Department 的主任，其工作內容包含：熟悉部門內清潔用品的分類與功能、管理與規劃餐廳器皿庫存數量、制定餐廳消毒與洗滌工作標準作業流程。近日傑克將進行管轄單位中金屬類餐具的庫存盤點，以確認相關器皿的數量。 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1929
+  }
+}

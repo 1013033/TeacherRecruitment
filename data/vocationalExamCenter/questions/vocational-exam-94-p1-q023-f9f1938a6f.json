@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-q023-f9f1938a6f",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 23 題",
+    "sourceFile": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md",
+    "sourceLocator": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md#offset-2603",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "下列有關組織架構類型的敘述，何者最適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "直線型的組織架構，又稱為專職式或分職式組織架構"
+      },
+      {
+        "id": "B",
+        "text": "功能型的組織架構，具有高度專業化，適合規模較大的餐廳採用"
+      },
+      {
+        "id": "C",
+        "text": "產品型的組織架構，主要是以工作內容與性質作為其部門劃分的依據"
+      },
+      {
+        "id": "D",
+        "text": "功能型的組織架構，主要是以餐飲產品作為其部門劃分的依據"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲產品"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲產品"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關組織架構類型的敘述，何者最適當？ 直線型的組織架構，又稱為專職式或分職式組織架構 功能型的組織架構，具有高度專業化，適合規模較大的餐廳採用 產品型的組織架構，主要是以工作內容與性質作為其部門劃分的依據 功能型的組織架構，主要是以餐飲產品作為其部門劃分的依據 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 998
+  }
+}

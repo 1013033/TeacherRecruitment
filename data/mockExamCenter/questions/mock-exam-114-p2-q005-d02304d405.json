@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q005-d02304d405",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 5 題",
+    "sourceFile": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md",
+    "sourceLocator": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md#offset-1048",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "某星級酒店宴會廳，使用「主教帽」摺法搭配Place Plate，成品如圖(一)所示。為確保餐飲服務的衛生安全與摺疊結構標準，實習生操作流程如下：洗手消毒，確認手部乾淨或配戴上手套攤平餐巾，檢查是否乾淨、無破損依標準二摺法摺疊，形成主教帽造型摺疊過程中避免布邊外露，維持結構穩定完成後放置於 Place Plate上，頂端尖角須對齊，整齊美觀在此流程中，四位實習生操作如下，何者明顯不符合「衛生或摺疊結構標準」？",
+    "images": [
+      {
+        "id": "mock-exam-114-p2-q005-d02304d405-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-114-p2-q005-d02304d405-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲實習生：摺疊時僅以手指接觸口布邊緣，避免以掌心大面積按壓"
+      },
+      {
+        "id": "B",
+        "text": "乙實習生：確認口布乾淨無污漬後，依流程完成摺疊並置於Place Plate"
+      },
+      {
+        "id": "C",
+        "text": "丙實習生：將主教帽左右兩端調整為一高一低非對稱狀，並將帽口縫隙面向賓客"
+      },
+      {
+        "id": "D",
+        "text": "丁實習生：發現頂端尖角未對齊，判斷為摺疊不正確，重新進行摺疊 圖(一)"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：口布、餐巾"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：口布、餐巾"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某星級酒店宴會廳，使用「主教帽」摺法搭配Place Plate，成品如圖(一)所示。為確保餐飲服務的衛生安全與摺疊結構標準，實習生操作流程如下：洗手消毒，確認手部乾淨或配戴上手套攤平餐巾，檢查是否乾淨、無破損依標準二摺法摺疊，形成主教帽造型摺疊過程中避免布邊外露，維持結構穩定完成後放置於 Place Plate上，頂端尖角須對齊，整齊美觀在此流程中，四位實習生操作如下，何者明顯不符合「衛生或摺疊結構標準」？ 甲實習生：摺疊時僅以手指接觸口布邊緣，避免以掌心大面積按壓 乙實習生：確認口布乾淨無污漬後，依流程完成摺疊並置於Place Plate 丙實習生：將主教帽左右兩端調整為一高一低非對稱狀，並將帽口縫隙面向賓客 丁實習生：發現頂端尖角未對齊，判斷為摺疊不正確，重新進行摺疊 圖(一) 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 3661
+  }
+}

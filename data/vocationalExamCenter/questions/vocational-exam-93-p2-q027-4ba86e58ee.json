@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q027-4ba86e58ee",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 27 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-2290",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "一般物料驗收時，應避免何種事項？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "有標準化規格"
+      },
+      {
+        "id": "B",
+        "text": "有健全的驗收組織"
+      },
+      {
+        "id": "C",
+        "text": "探購人員可作驗收工作"
+      },
+      {
+        "id": "D",
+        "text": "要講求效率"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "一般物料驗收時，應避免何種事項？ 有標準化規格 有健全的驗收組織 探購人員可作驗收工作 要講求效率 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2179
+  }
+}

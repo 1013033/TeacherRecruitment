@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p1-q030-d7f602477d",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 30 題",
+    "sourceFile": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md#offset-7606",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "2023年疫情趨緩國境之門大開，好朋友旅行社(註冊編號：交觀綜1234)看準時機，承包了一架從臺北飛往越南富國島航班，為了達到最大銷售目標，委託多家甲種旅行業幫忙銷售，分擔風險。試問，委由「甲種旅行業代為銷售」是好朋友旅行社何種專屬銷售方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "自由組團"
+      },
+      {
+        "id": "B",
+        "text": "自行組團"
+      },
+      {
+        "id": "C",
+        "text": "包辦旅遊"
+      },
+      {
+        "id": "D",
+        "text": "包團旅遊"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業、旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業、旅行社、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "2023年疫情趨緩國境之門大開，好朋友旅行社(註冊編號：交觀綜1234)看準時機，承包了一架從臺北飛往越南富國島航班，為了達到最大銷售目標，委託多家甲種旅行業幫忙銷售，分擔風險。試問，委由「甲種旅行業代為銷售」是好朋友旅行社何種專屬銷售方式？ 自由組團 自行組團 包辦旅遊 包團旅遊 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2500
+  }
+}

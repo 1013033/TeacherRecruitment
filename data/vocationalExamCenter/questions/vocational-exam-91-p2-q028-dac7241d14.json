@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q028-dac7241d14",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 28 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-2659",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "下列關於決定採購數量方法中，Par Stock Approach（基準存量法）的說明，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "依每天領用率、購備時間、及訂購間隔天數來設定其存量"
+      },
+      {
+        "id": "B",
+        "text": "也稱先進先出法（FIFO）"
+      },
+      {
+        "id": "C",
+        "text": "是一種控制與管理庫存量的方法"
+      },
+      {
+        "id": "D",
+        "text": "可輕易合理決定庫存項目的採購數量"
+      }
+    ],
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：stock"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：stock"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "下列關於決定採購數量方法中，Par Stock Approach（基準存量法）的說明，何者錯誤？ 依每天領用率、購備時間、及訂購間隔天數來設定其存量 也稱先進先出法（FIFO） 是一種控制與管理庫存量的方法 可輕易合理決定庫存項目的採購數量 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2081
+  }
+}

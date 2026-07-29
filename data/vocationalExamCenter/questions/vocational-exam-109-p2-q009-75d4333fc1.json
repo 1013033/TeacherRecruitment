@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q009-75d4333fc1",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 9 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-1859",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "餐廳設備中直徑 150 cm的 round table，最適宜搭配下列何種規格的 lazy Susan？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "直徑 90 cm"
+      },
+      {
+        "id": "B",
+        "text": "長 90 cm、寬 90 cm"
+      },
+      {
+        "id": "C",
+        "text": "直徑 120 cm"
+      },
+      {
+        "id": "D",
+        "text": "長 210 cm、寬 210 cm"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳設備中直徑 150 cm的 round table，最適宜搭配下列何種規格的 lazy Susan？ 直徑 90 cm 長 90 cm、寬 90 cm 直徑 120 cm 長 210 cm、寬 210 cm 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1742
+  }
+}

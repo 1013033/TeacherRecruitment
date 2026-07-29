@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p1-q047-92cf3003ba",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 47 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-7425",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "關於此餐廳料理所屬國家的餐飲發展敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "西元16世紀，全世界第一家咖啡屋在此國家出現"
+      },
+      {
+        "id": "B",
+        "text": "西元18世紀末以後，此國家料理逐漸平民化，非貴族或皇室專屬"
+      },
+      {
+        "id": "C",
+        "text": "此國家有一道能使人恢復元氣的湯品，後來湯品名稱演變為Restaurant"
+      },
+      {
+        "id": "D",
+        "text": "安東尼．卡雷姆(Marie Antoine Carême)為此國家名廚，為古典烹飪創始者"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於此餐廳料理所屬國家的餐飲發展敘述，下列何者錯誤？ 西元16世紀，全世界第一家咖啡屋在此國家出現 西元18世紀末以後，此國家料理逐漸平民化，非貴族或皇室專屬 此國家有一道能使人恢復元氣的湯品，後來湯品名稱演變為Restaurant 安東尼．卡雷姆(Marie Antoine Carême)為此國家名廚，為古典烹飪創始者 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 582
+  }
+}

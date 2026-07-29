@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q011-b0564e6a3b",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 11 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-1491",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列何者為台灣首座成立之國際連鎖飯店？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "希爾頓飯店 ( Hilton )"
+      },
+      {
+        "id": "B",
+        "text": "凱悅飯店 ( Hyatt )"
+      },
+      {
+        "id": "C",
+        "text": "香格里拉飯店 ( Shangri - La )"
+      },
+      {
+        "id": "D",
+        "text": "W 飯店 ( W hotel )"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飯店、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者為台灣首座成立之國際連鎖飯店？ 希爾頓飯店 ( Hilton ) 凱悅飯店 ( Hyatt ) 香格里拉飯店 ( Shangri - La ) W 飯店 ( W hotel ) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 198
+  }
+}

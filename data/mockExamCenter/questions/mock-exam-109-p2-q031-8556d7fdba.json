@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q031-8556d7fdba",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 31 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-4460",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "依據圖(二)西餐菜單的餐具擺設，一共會出現哪幾款餐具？ㄅ、沙拉刀叉 ㄆ、魚刀叉 ㄇ、主餐叉匙ㄈ、圓湯匙 ㄉ、橢圓湯匙 ㄊ、點心叉匙",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "ㄅ、ㄆ、ㄈ、ㄊ"
+      },
+      {
+        "id": "B",
+        "text": "ㄅ、ㄇ、ㄈ、ㄊ"
+      },
+      {
+        "id": "C",
+        "text": "ㄅ、ㄆ、ㄇ、ㄈ、ㄊ"
+      },
+      {
+        "id": "D",
+        "text": "ㄅ、ㄆ、ㄇ、ㄉ、ㄊ Menu Salad Nicoise Broccoli and Mushroom Cream Soup Seafood Macaroni and Cheese Chocolate Hazelnut Cake 圖(二)"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據圖(二)西餐菜單的餐具擺設，一共會出現哪幾款餐具？ㄅ、沙拉刀叉 ㄆ、魚刀叉 ㄇ、主餐叉匙ㄈ、圓湯匙 ㄉ、橢圓湯匙 ㄊ、點心叉匙 ㄅ、ㄆ、ㄈ、ㄊ ㄅ、ㄇ、ㄈ、ㄊ ㄅ、ㄆ、ㄇ、ㄈ、ㄊ ㄅ、ㄆ、ㄇ、ㄉ、ㄊ Menu Salad Nicoise Broccoli and Mushroom Cream Soup Seafood Macaroni and Cheese Chocolate Hazelnut Cake 圖(二) 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 984
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q045-1f394516a3",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 45 題",
+    "sourceFile": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md",
+    "sourceLocator": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md#offset-7485",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "「啤酒的靈魂」主要作用是凝結蛋白質、增加酒液的澄清度、維持泡沫的持久性，同時賦予特有香氣和特殊苦味的為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Barley Malt"
+      },
+      {
+        "id": "B",
+        "text": "Hops"
+      },
+      {
+        "id": "C",
+        "text": "Yeast"
+      },
+      {
+        "id": "D",
+        "text": "Adjuncts"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：啤酒、bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：啤酒、bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「啤酒的靈魂」主要作用是凝結蛋白質、增加酒液的澄清度、維持泡沫的持久性，同時賦予特有香氣和特殊苦味的為下列何者？ Barley Malt Hops Yeast Adjuncts 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 3504
+  }
+}

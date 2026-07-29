@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q022-4cf6845811",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 22 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-3247",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "餐飲業的特性，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "產品容易變質不易儲存"
+      },
+      {
+        "id": "B",
+        "text": "生產過程時間甚短"
+      },
+      {
+        "id": "C",
+        "text": "銷售量可透過預訂來預估"
+      },
+      {
+        "id": "D",
+        "text": "成本結構以餐飲食材所占比率最高"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲業的特性，下列敘述何者錯誤？ 產品容易變質不易儲存 生產過程時間甚短 銷售量可透過預訂來預估 成本結構以餐飲食材所占比率最高 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 70
+  }
+}

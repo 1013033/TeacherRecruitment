@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p1-q019-361eafefe1",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 19 題",
+    "sourceFile": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md",
+    "sourceLocator": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md#offset-3539",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "依民國 107年 10月 19日修正之「旅行業管理規則」規定，旅行業經理人應具備之資格，下列何者正確？甲：高級中等學校畢業，曾任領隊、導遊 6年以上者乙：普通考試及格者，曾任旅行業代表人4年以上者丙：大專以上學校觀光系畢業者，曾任領隊、導遊 5年以上者丁：高等考試及格者，曾任陸海空客運業務單位主管 2年以上者",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依民國 107年 10月 19日修正之「旅行業管理規則」規定，旅行業經理人應具備之資格，下列何者正確？甲：高級中等學校畢業，曾任領隊、導遊 6年以上者乙：普通考試及格者，曾任旅行業代表人4年以上者丙：大專以上學校觀光系畢業者，曾任領隊、導遊 5年以上者丁：高等考試及格者，曾任陸海空客運業務單位主管 2年以上者 甲、乙 甲、丁 乙、丙 丙、丁 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 405
+  }
+}

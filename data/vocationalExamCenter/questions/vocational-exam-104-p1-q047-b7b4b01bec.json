@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q047-b7b4b01bec",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 47 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-5263",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "護照是國人旅行國際間的身分證明，政府公務部門的人員因接洽公務或赴國外考察開會，應申請哪一種護照？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Diplomatic Passport"
+      },
+      {
+        "id": "B",
+        "text": "Official Passport"
+      },
+      {
+        "id": "C",
+        "text": "Ordinary Passport"
+      },
+      {
+        "id": "D",
+        "text": "Business Passport"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：護照"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "護照是國人旅行國際間的身分證明，政府公務部門的人員因接洽公務或赴國外考察開會，應申請哪一種護照？ Diplomatic Passport Official Passport Ordinary Passport Business Passport 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 234
+  }
+}

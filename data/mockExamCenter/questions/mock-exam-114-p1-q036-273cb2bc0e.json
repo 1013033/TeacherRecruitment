@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q036-273cb2bc0e",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 36 題",
+    "sourceFile": "114\\output\\114-3專一試題\\auto\\114-3專一試題.md",
+    "sourceLocator": "114\\output\\114-3專一試題\\auto\\114-3專一試題.md#offset-10210",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "觀光餐旅業為確保從業人員和消費者都能在絕對安全的環境中進行活動，政府部門已立法強制觀光遊樂業、觀光旅館業、旅館業、民宿業及旅行業投保責任保險。這項保險旨在保障被保險人因意外事故造成他人身體受傷或財物損失時，依法應負的賠償責任。依現行法規，表(一)中有關觀光餐旅業責任保險最低保險金額，下列何者正確？ 表(一) 國內觀光餐旅業責任保險範圍及最低保險金額 <table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>觀光遊樂業</td><td rowspan=1 colspan=1>觀光旅館業</td><td rowspan=1 colspan=1>旅館業</td><td rowspan=1 colspan=1>民宿業</td></tr><tr><td rowspan=1 colspan=1>每一個人身體傷亡</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>",
+    "images": [],
+    "options": [
+      {
+        "id": "D",
+        "text": "</td></tr><tr><td rowspan=1 colspan=1>每一事故身體傷亡</td><td rowspan=1 colspan=1>3,000</td><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "B",
+        "text": "</td><td rowspan=1 colspan=1>1,500</td><td rowspan=1 colspan=1>1,000</td></tr><tr><td rowspan=1 colspan=1>每一事故財產損失</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "C",
+        "text": "</td><td rowspan=1 colspan=1>200</td></tr><tr><td rowspan=1 colspan=1>保險期間總保險金額</td><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "A",
+        "text": "</td><td rowspan=1 colspan=1>3,400</td><td rowspan=1 colspan=1>3,400</td><td rowspan=1 colspan=1>2,400</td></tr></table> 單位：萬元"
+      },
+      {
+        "id": "A",
+        "text": "4,400"
+      },
+      {
+        "id": "C",
+        "text": "200"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、民宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、民宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "觀光餐旅業為確保從業人員和消費者都能在絕對安全的環境中進行活動，政府部門已立法強制觀光遊樂業、觀光旅館業、旅館業、民宿業及旅行業投保責任保險。這項保險旨在保障被保險人因意外事故造成他人身體受傷或財物損失時，依法應負的賠償責任。依現行法規，表(一)中有關觀光餐旅業責任保險最低保險金額，下列何者正確？ 表(一) 國內觀光餐旅業責任保險範圍及最低保險金額 <table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>觀光遊樂業</td><td rowspan=1 colspan=1>觀光旅館業</td><td rowspan=1 colspan=1>旅館業</td><td rowspan=1 colspan=1>民宿業</td></tr><tr><td rowspan=1 colspan=1>每一個人身體傷亡</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1> </td></tr><tr><td rowspan=1 colspan=1>每一事故身體傷亡</td><td rowspan=1 colspan=1>3,000</td><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>1,500</td><td rowspan=1 colspan=1>1,000</td></tr><tr><td rowspan=1 colspan=1>每一事故財產損失</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>200</td></tr><tr><td rowspan=1 colspan=1>保險期間總保險金額</td><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>3,400</td><td rowspan=1 colspan=1>3,400</td><td rowspan=1 colspan=1>2,400</td></tr></table> 單位：萬元 4,400 200 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 3465
+  }
+}

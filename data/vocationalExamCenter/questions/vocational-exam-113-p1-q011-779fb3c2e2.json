@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p1-q011-779fb3c2e2",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 11 題",
+    "sourceFile": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md",
+    "sourceLocator": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md#offset-3061",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "關於餐飲歷史的發展，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Buffet的供餐型態源自美國"
+      },
+      {
+        "id": "B",
+        "text": "歐洲最早的冰淇淋源自於葡萄牙"
+      },
+      {
+        "id": "C",
+        "text": "歐洲第一家咖啡屋源自於義大利威尼斯"
+      },
+      {
+        "id": "D",
+        "text": "二十一世紀速食業持續發展，Subway潛艇堡於2011年分店數量超越麥當勞"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐飲歷史的發展，下列何者錯誤？ Buffet的供餐型態源自美國 歐洲最早的冰淇淋源自於葡萄牙 歐洲第一家咖啡屋源自於義大利威尼斯 二十一世紀速食業持續發展，Subway潛艇堡於2011年分店數量超越麥當勞 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 646
+  }
+}

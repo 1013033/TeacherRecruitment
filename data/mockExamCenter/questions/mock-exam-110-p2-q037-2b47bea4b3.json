@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q037-2b47bea4b3",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 37 題",
+    "sourceFile": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md",
+    "sourceLocator": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md#offset-5429",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "碳酸飲料是指添加二氧化碳的水或飲料，下列哪一種碳酸飲料，為有色碳酸飲料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Ginger Ale"
+      },
+      {
+        "id": "B",
+        "text": "Sprite"
+      },
+      {
+        "id": "C",
+        "text": "Tonic Water"
+      },
+      {
+        "id": "D",
+        "text": "Soda Water"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：gin"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：gin"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "碳酸飲料是指添加二氧化碳的水或飲料，下列哪一種碳酸飲料，為有色碳酸飲料？ Ginger Ale Sprite Tonic Water Soda Water 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1547
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q050-df7efa75bf",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 50 題",
+    "sourceFile": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md",
+    "sourceLocator": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md#offset-7386",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "小露喜愛喝花草茶，尤其偏愛以花部位的花草茶，今日來到信樺大飯店喝下午茶，下列哪一種花草茶較不適合推薦給小露？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "洋甘菊"
+      },
+      {
+        "id": "B",
+        "text": "薰衣草"
+      },
+      {
+        "id": "C",
+        "text": "百里香"
+      },
+      {
+        "id": "D",
+        "text": "紫羅蘭 ## 【以下空白】"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小露喜愛喝花草茶，尤其偏愛以花部位的花草茶，今日來到信樺大飯店喝下午茶，下列哪一種花草茶較不適合推薦給小露？ 洋甘菊 薰衣草 百里香 紫羅蘭 ## 【以下空白】 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 537
+  }
+}

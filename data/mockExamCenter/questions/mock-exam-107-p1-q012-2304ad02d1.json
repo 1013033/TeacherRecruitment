@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q012-2304ad02d1",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 12 題",
+    "sourceFile": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md",
+    "sourceLocator": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md#offset-1402",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "有關國內現行星級旅館評鑑制度之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "評鑑期程每五年辦理一次"
+      },
+      {
+        "id": "B",
+        "text": "評鑑項目包含「建築設備」與「服務品質」，並採同步方式進行評鑑"
+      },
+      {
+        "id": "C",
+        "text": "「建築設備」評鑑費用由受評業者支付"
+      },
+      {
+        "id": "D",
+        "text": "「建築設備」與「服務品質」評鑑合計總分達 730 分以上即屬五星級旅館"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關國內現行星級旅館評鑑制度之敘述，下列何者正確？ 評鑑期程每五年辦理一次 評鑑項目包含「建築設備」與「服務品質」，並採同步方式進行評鑑 「建築設備」評鑑費用由受評業者支付 「建築設備」與「服務品質」評鑑合計總分達 730 分以上即屬五星級旅館 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 90
+  }
+}

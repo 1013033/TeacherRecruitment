@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p2-q004-d7038d72f6",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 4 題",
+    "sourceFile": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md",
+    "sourceLocator": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md#offset-884",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "關於旅館房務整理作業的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "客房木質家俱屬於定期保養範圍，整理時不須擦拭以節省時間"
+      },
+      {
+        "id": "B",
+        "text": "房務員執勤前應儀容整齊，且登記領妥 section master key 備用"
+      },
+      {
+        "id": "C",
+        "text": "鋪設床單時如有破損，應折入床墊下方隱藏"
+      },
+      {
+        "id": "D",
+        "text": "翻床時宜請同伴協同作業，以維護安全"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館房務整理作業的敘述，下列何者正確？ 客房木質家俱屬於定期保養範圍，整理時不須擦拭以節省時間 房務員執勤前應儀容整齊，且登記領妥 section master key 備用 鋪設床單時如有破損，應折入床墊下方隱藏 翻床時宜請同伴協同作業，以維護安全 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1641
+  }
+}

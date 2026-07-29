@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p1-q020-6016bf56f2",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 20 題",
+    "sourceFile": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md#offset-3510",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "房客入住1105號房之後發現房內空調故障、1213號房客需要硬一點的枕頭，在只有下列四個單位可以聯繫的限制下，這兩位房客可以優先致電飯店的哪個主責單位尋求協助最為合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Reservation"
+      },
+      {
+        "id": "B",
+        "text": "Housekeeping"
+      },
+      {
+        "id": "C",
+        "text": "Security"
+      },
+      {
+        "id": "D",
+        "text": "Banquet"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飯店、reservation、housekeeping"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飯店、reservation、housekeeping"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "房客入住1105號房之後發現房內空調故障、1213號房客需要硬一點的枕頭，在只有下列四個單位可以聯繫的限制下，這兩位房客可以優先致電飯店的哪個主責單位尋求協助最為合適？ Reservation Housekeeping Security Banquet 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 3150
+  }
+}

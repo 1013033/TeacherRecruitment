@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q003-c7dbb60bdf",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 3 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-437",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "蘋果品牌 iPhone14 手機上市後立即銷量倍增，美國加州總公司因此舉辦酒會慶祝，下列哪項設備較無機會出現在酒會現場？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Cocktail Table"
+      },
+      {
+        "id": "B",
+        "text": "Special Folding Table"
+      },
+      {
+        "id": "C",
+        "text": "Baby Chair"
+      },
+      {
+        "id": "D",
+        "text": "Liqueur Trolley"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：cocktail、liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：cocktail、liqueur"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "蘋果品牌 iPhone14 手機上市後立即銷量倍增，美國加州總公司因此舉辦酒會慶祝，下列哪項設備較無機會出現在酒會現場？ Cocktail Table Special Folding Table Baby Chair Liqueur Trolley 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2083
+  }
+}

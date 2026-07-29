@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p1-q030-b509134caa",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(一) 第 30 題",
+    "sourceFile": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md",
+    "sourceLocator": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md#offset-3878",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "截至民國106年1月底止，下列何者屬於日系連鎖品牌的旅館？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "台北晶華酒店"
+      },
+      {
+        "id": "B",
+        "text": "台北福容大飯店"
+      },
+      {
+        "id": "C",
+        "text": "高雄漢來大飯店"
+      },
+      {
+        "id": "D",
+        "text": "台北大倉久和大飯店"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "截至民國106年1月底止，下列何者屬於日系連鎖品牌的旅館？ 台北晶華酒店 台北福容大飯店 高雄漢來大飯店 台北大倉久和大飯店 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 317
+  }
+}

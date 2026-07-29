@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q050-aab6f06ca6",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 50 題",
+    "sourceFile": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md",
+    "sourceLocator": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md#offset-8644",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "身為專業咖啡師的嘉嘉，應該如何推薦客人依照各自的需求及喜好點選合適的飲料？甲、焙茶鮮奶冰沙 乙、泰奶咖啡 丙、拿鐵咖啡 丁、藍山咖啡戊、南非國寶茶 己、四季翠玉青茶 庚、皇家咖啡 辛、愛爾蘭咖啡",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "娜美→庚；魯夫→乙；索隆→甲；騙人布→己"
+      },
+      {
+        "id": "B",
+        "text": "娜美→丁；魯夫→丙；索隆→甲；騙人布→戊"
+      },
+      {
+        "id": "C",
+        "text": "娜美→丁；魯夫→乙；索隆→辛；騙人布→己"
+      },
+      {
+        "id": "D",
+        "text": "娜美→庚；魯夫→丙；索隆→辛；騙人布→戊 【以下空白】"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "身為專業咖啡師的嘉嘉，應該如何推薦客人依照各自的需求及喜好點選合適的飲料？甲、焙茶鮮奶冰沙 乙、泰奶咖啡 丙、拿鐵咖啡 丁、藍山咖啡戊、南非國寶茶 己、四季翠玉青茶 庚、皇家咖啡 辛、愛爾蘭咖啡 娜美→庚；魯夫→乙；索隆→甲；騙人布→己 娜美→丁；魯夫→丙；索隆→甲；騙人布→戊 娜美→丁；魯夫→乙；索隆→辛；騙人布→己 娜美→庚；魯夫→丙；索隆→辛；騙人布→戊 【以下空白】 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1755
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q041-f7562e4944",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 41 題",
+    "sourceFile": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-6302",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "依據行政院農委會茶改場育成之茶樹品種，下列配對何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "臺茶 12 號為金萱"
+      },
+      {
+        "id": "B",
+        "text": "臺茶 13 號為碧玉"
+      },
+      {
+        "id": "C",
+        "text": "臺茶 19 號為迎香"
+      },
+      {
+        "id": "D",
+        "text": "臺茶 20 號為翠玉 ## 42. 有關紅茶的種類說明，下列何者正確？"
+      },
+      {
+        "id": "A",
+        "text": "世界三大知名紅茶為大吉嶺紅茶、阿薩姆紅茶、祁門紅茶"
+      },
+      {
+        "id": "B",
+        "text": "中國的祁門紅茶具有酒香、水果的香味及松木的味道，有中國茶的干邑白蘭地之稱"
+      },
+      {
+        "id": "C",
+        "text": "大吉嶺紅茶(Darjeeling Tea)茶湯深紅稍褐，具有淡淡的麥香味、玫瑰香，味道濃郁"
+      },
+      {
+        "id": "D",
+        "text": "阿薩姆紅茶(Assam Tea)味道濃郁且帶果香，有紅茶之皇者的美譽 ## 43. 下列何者不屬於調味茶(Flavoured Tea)？"
+      },
+      {
+        "id": "B",
+        "text": "水蜜桃紅茶"
+      },
+      {
+        "id": "C",
+        "text": "茉香綠茶"
+      },
+      {
+        "id": "D",
+        "text": "桂花烏龍茶 ## 44. 臺灣氣候適宜種植茶樹，下列敘述何者錯誤？"
+      },
+      {
+        "id": "A",
+        "text": "臺灣不發酵茶以龍井茶、碧螺春為代表"
+      },
+      {
+        "id": "B",
+        "text": "部分發酵茶以南港包種茶、文山包種茶、四季春、白毫烏龍等為主"
+      },
+      {
+        "id": "C",
+        "text": "臺灣紅茶主要分為日月潭紅茶與蜜香紅茶"
+      },
+      {
+        "id": "D",
+        "text": "臺茶18 稱紅韻紅茶、臺茶 21號稱紅玉紅茶以及阿薩姆紅茶，都是紅茶知名茶種 ## 45. 有關茶葉發酵程度之敘述，下列何者正確？"
+      },
+      {
+        "id": "A",
+        "text": "包種茶是部分發酵茶中，發酵程度最輕的茶類"
+      },
+      {
+        "id": "B",
+        "text": "龍井茶、碧螺春屬於後發酵茶"
+      },
+      {
+        "id": "C",
+        "text": "阿薩姆紅茶、紅玉紅茶屬於不發酵茶"
+      },
+      {
+        "id": "D",
+        "text": "普洱茶稱黑茶，屬於全發酵茶"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶、綠茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶、綠茶、烏龍"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據行政院農委會茶改場育成之茶樹品種，下列配對何者正確？ 臺茶 12 號為金萱 臺茶 13 號為碧玉 臺茶 19 號為迎香 臺茶 20 號為翠玉 ## 42. 有關紅茶的種類說明，下列何者正確？ 世界三大知名紅茶為大吉嶺紅茶、阿薩姆紅茶、祁門紅茶 中國的祁門紅茶具有酒香、水果的香味及松木的味道，有中國茶的干邑白蘭地之稱 大吉嶺紅茶(Darjeeling Tea)茶湯深紅稍褐，具有淡淡的麥香味、玫瑰香，味道濃郁 阿薩姆紅茶(Assam Tea)味道濃郁且帶果香，有紅茶之皇者的美譽 ## 43. 下列何者不屬於調味茶(Flavoured Tea)？ 水蜜桃紅茶 茉香綠茶 桂花烏龍茶 ## 44. 臺灣氣候適宜種植茶樹，下列敘述何者錯誤？ 臺灣不發酵茶以龍井茶、碧螺春為代表 部分發酵茶以南港包種茶、文山包種茶、四季春、白毫烏龍等為主 臺灣紅茶主要分為日月潭紅茶與蜜香紅茶 臺茶18 稱紅韻紅茶、臺茶 21號稱紅玉紅茶以及阿薩姆紅茶，都是紅茶知名茶種 ## 45. 有關茶葉發酵程度之敘述，下列何者正確？ 包種茶是部分發酵茶中，發酵程度最輕的茶類 龍井茶、碧螺春屬於後發酵茶 阿薩姆紅茶、紅玉紅茶屬於不發酵茶 普洱茶稱黑茶，屬於全發酵茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1931
+  }
+}

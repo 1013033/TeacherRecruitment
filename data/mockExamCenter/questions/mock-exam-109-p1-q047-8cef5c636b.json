@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q047-8cef5c636b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 47 題",
+    "sourceFile": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md",
+    "sourceLocator": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md#offset-8301",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "臺北晶華酒店推出晶華郵輪方案，入住旅客住宿期間可至麗廳享用自助早午晚餐，請問這是屬於哪一種房價計價方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "European Plan"
+      },
+      {
+        "id": "B",
+        "text": "American Plan"
+      },
+      {
+        "id": "C",
+        "text": "Modified American Plan"
+      },
+      {
+        "id": "D",
+        "text": "Bermuda Plan"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：住宿、房價"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：住宿、房價"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺北晶華酒店推出晶華郵輪方案，入住旅客住宿期間可至麗廳享用自助早午晚餐，請問這是屬於哪一種房價計價方式？ European Plan American Plan Modified American Plan Bermuda Plan 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1049
+  }
+}

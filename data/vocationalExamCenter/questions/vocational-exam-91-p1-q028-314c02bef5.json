@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p1-q028-314c02bef5",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(一) 第 28 題",
+    "sourceFile": "專一\\output\\91專一\\auto\\91專一.md",
+    "sourceLocator": "專一\\output\\91專一\\auto\\91專一.md#offset-3485",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "觀光客係指臨時性的訪客，其旅行目的為休閒、商務及會議等，且停留時間至少在多少小時以上者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "36"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      }
+    ],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光、休閒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光、休閒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "觀光客係指臨時性的訪客，其旅行目的為休閒、商務及會議等，且停留時間至少在多少小時以上者？ 12 24 36 48 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 853
+  }
+}

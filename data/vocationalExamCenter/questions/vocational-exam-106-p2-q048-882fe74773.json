@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p2-q048-882fe74773",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(二) 第 48 題",
+    "sourceFile": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md",
+    "sourceLocator": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md#offset-5965",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "關於雞尾酒名稱及其基酒和裝飾物的組合，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Gibson：gin、cocktail onion"
+      },
+      {
+        "id": "B",
+        "text": "Screw driver：vodka、orange slice"
+      },
+      {
+        "id": "C",
+        "text": "Mojito：white rum、nutmeg powder"
+      },
+      {
+        "id": "D",
+        "text": "Rusty nail：Scotch whisky、lemon peel"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：vodka、gin、rum、cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：vodka、gin、rum、cocktail"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於雞尾酒名稱及其基酒和裝飾物的組合，下列何者錯誤？ Gibson：gin、cocktail onion Screw driver：vodka、orange slice Mojito：white rum、nutmeg powder Rusty nail：Scotch whisky、lemon peel 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1635
+  }
+}

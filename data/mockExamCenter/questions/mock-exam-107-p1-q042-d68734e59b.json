@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q042-d68734e59b",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 42 題",
+    "sourceFile": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md",
+    "sourceLocator": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md#offset-7290",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "有關機票的敘述，下列何者不正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "電子機票號碼共13 碼，其中前三個數字為航空公司的編號"
+      },
+      {
+        "id": "B",
+        "text": "機票如以艙等計價方式可分為頭等艙、商務艙及經濟艙，在飛機內部的位置分配由機頭至機尾依序為經濟艙→商務艙→頭等艙"
+      },
+      {
+        "id": "C",
+        "text": "電子機票即使遺失，仍然可憑護照到航空公司櫃台辦理報到及登機"
+      },
+      {
+        "id": "D",
+        "text": "機票為運輸契約的有價證券，其機票上顯示的姓名需與護照相同，且限本人使用"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：護照、航空、機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：護照、航空、機票"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關機票的敘述，下列何者不正確？ 電子機票號碼共13 碼，其中前三個數字為航空公司的編號 機票如以艙等計價方式可分為頭等艙、商務艙及經濟艙，在飛機內部的位置分配由機頭至機尾依序為經濟艙→商務艙→頭等艙 電子機票即使遺失，仍然可憑護照到航空公司櫃台辦理報到及登機 機票為運輸契約的有價證券，其機票上顯示的姓名需與護照相同，且限本人使用 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 205
+  }
+}

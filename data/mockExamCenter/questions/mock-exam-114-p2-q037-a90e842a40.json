@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q037-a90e842a40",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 37 題",
+    "sourceFile": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md",
+    "sourceLocator": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md#offset-7137",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "根據紅茶的風味特性，下列哪一款紅茶因口感濃厚而被稱為「烈茶」，常用來搭配牛奶沖泡成奶茶？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Nilgiri"
+      },
+      {
+        "id": "B",
+        "text": "Assam"
+      },
+      {
+        "id": "C",
+        "text": "Darjeeling"
+      },
+      {
+        "id": "D",
+        "text": "Earl Grey Tea"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據紅茶的風味特性，下列哪一款紅茶因口感濃厚而被稱為「烈茶」，常用來搭配牛奶沖泡成奶茶？ Nilgiri Assam Darjeeling Earl Grey Tea 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3416
+  }
+}

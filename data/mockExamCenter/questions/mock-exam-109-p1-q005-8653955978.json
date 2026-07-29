@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q005-8653955978",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 5 題",
+    "sourceFile": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md",
+    "sourceLocator": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md#offset-994",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "如以狹義概念說明餐旅業，該產業範疇僅包含下列何者？ 甲、Tourism 乙、Recreation 丙、Food & Beverage 丁、Leisure 戊、Travel 己、Lodging",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丁"
+      },
+      {
+        "id": "C",
+        "text": "丙己"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐旅、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐旅、tourism"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "如以狹義概念說明餐旅業，該產業範疇僅包含下列何者？ 甲、Tourism 乙、Recreation 丙、Food & Beverage 丁、Leisure 戊、Travel 己、Lodging 甲丙 乙丁 丙己 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1007
+  }
+}

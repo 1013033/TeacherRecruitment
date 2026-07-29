@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q025-363ab2706f",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 25 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-4792",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 25,
+    "questionType": "multiple-choice",
+    "prompt": "關於現行臺灣旅館星級評鑑的說明，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "評鑑制度於民國98年開始實施，每五年辦理一次"
+      },
+      {
+        "id": "B",
+        "text": "星級評鑑制度採取自願制，由旅館支付評鑑費用"
+      },
+      {
+        "id": "C",
+        "text": "通過三星評鑑的旅館，才能參加第二階段的評鑑"
+      },
+      {
+        "id": "D",
+        "text": "「綠建築與環保設施」屬於第一階段的評鑑項目"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於現行臺灣旅館星級評鑑的說明，下列何者錯誤？ 評鑑制度於民國98年開始實施，每五年辦理一次 星級評鑑制度採取自願制，由旅館支付評鑑費用 通過三星評鑑的旅館，才能參加第二階段的評鑑 「綠建築與環保設施」屬於第一階段的評鑑項目 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 610
+  }
+}

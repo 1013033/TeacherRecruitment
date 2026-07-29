@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q034-92cf10a173",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 34 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-4144",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "在房客遷出的過程，櫃檯人員應在「住宿登記表」標示房間狀態，以作為客房銷售的依據，下列專用術語之意義何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "on change表示該房為空房，但尚未清理完成"
+      },
+      {
+        "id": "B",
+        "text": "ok room 表示該房為可銷售房"
+      },
+      {
+        "id": "C",
+        "text": "due out表示該房的房客當日預計遷出"
+      },
+      {
+        "id": "D",
+        "text": "sleeper 表示該房仍有人使用"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：客房、住宿、room、櫃檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：客房、住宿、room、櫃檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在房客遷出的過程，櫃檯人員應在「住宿登記表」標示房間狀態，以作為客房銷售的依據，下列專用術語之意義何者錯誤？ on change表示該房為空房，但尚未清理完成 ok room 表示該房為可銷售房 due out表示該房的房客當日預計遷出 sleeper 表示該房仍有人使用 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 128
+  }
+}

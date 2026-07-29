@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q017-67577ae340",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 17 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-2768",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "老高是一名旅遊規劃師，日前接受國外客戶委託安排訪臺相關行程。客戶的行程包含臺北、臺中、臺南、高雄四個地點且都有住宿的需求，客戶希望能入住同一連鎖集團以快速累積點數享有優惠，如：客房升等。老高應該為客戶安排下列哪一個連鎖旅館集團？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Hilton Worldwide"
+      },
+      {
+        "id": "B",
+        "text": "Hyatt Hotels Corporation"
+      },
+      {
+        "id": "C",
+        "text": "HOTELS&S InterContinental Hotels Group"
+      },
+      {
+        "id": "D",
+        "text": "SHANGRI-LA Shangri - La Hotels and Resorts HOTELS and RESORTS"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房、住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房、住宿、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "老高是一名旅遊規劃師，日前接受國外客戶委託安排訪臺相關行程。客戶的行程包含臺北、臺中、臺南、高雄四個地點且都有住宿的需求，客戶希望能入住同一連鎖集團以快速累積點數享有優惠，如：客房升等。老高應該為客戶安排下列哪一個連鎖旅館集團？ Hilton Worldwide Hyatt Hotels Corporation HOTELS&S InterContinental Hotels Group SHANGRI-LA Shangri - La Hotels and Resorts HOTELS and RESORTS 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 602
+  }
+}

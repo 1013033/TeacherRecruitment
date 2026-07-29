@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q032-beeaa9e05b",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 32 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-7261",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "臺灣茶葉的製程主要包括殺菁、萎凋、揉捻、乾燥等，關於不同製程的目的，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "萎凋的主要目的是破壞茶葉酵素，讓茶葉成形"
+      },
+      {
+        "id": "B",
+        "text": "殺菁的目的是利用高溫讓茶葉散失水分並促進茶葉發酵"
+      },
+      {
+        "id": "C",
+        "text": "乾燥以熱風促進茶葉發酵，讓茶葉水分含量降低到10%以利於保存"
+      },
+      {
+        "id": "D",
+        "text": "揉捻主要目的是讓茶汁附著在茶葉表面，沖泡時茶葉成分易於溶出"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣茶葉的製程主要包括殺菁、萎凋、揉捻、乾燥等，關於不同製程的目的，下列敘述何者正確？ 萎凋的主要目的是破壞茶葉酵素，讓茶葉成形 殺菁的目的是利用高溫讓茶葉散失水分並促進茶葉發酵 乾燥以熱風促進茶葉發酵，讓茶葉水分含量降低到10%以利於保存 揉捻主要目的是讓茶汁附著在茶葉表面，沖泡時茶葉成分易於溶出 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2037
+  }
+}

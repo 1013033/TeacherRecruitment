@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q028-4dd7250164",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 28 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-3134",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "關於廚房面積的規劃，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "理想的廚房面積，約占餐廳總面積的1/3"
+      },
+      {
+        "id": "B",
+        "text": "餐廳倉儲區面積，約占餐廳營業場所1/10"
+      },
+      {
+        "id": "C",
+        "text": "菜單製備的品項類別越複雜，所需廚房面積越大"
+      },
+      {
+        "id": "D",
+        "text": "乾貨日用品倉庫與冷凍冷藏倉庫空間比約3：7較適合"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、菜單、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、菜單、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於廚房面積的規劃，下列敘述何者錯誤？ 理想的廚房面積，約占餐廳總面積的1/3 餐廳倉儲區面積，約占餐廳營業場所1/10 菜單製備的品項類別越複雜，所需廚房面積越大 乾貨日用品倉庫與冷凍冷藏倉庫空間比約3：7較適合 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 514
+  }
+}

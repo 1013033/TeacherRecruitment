@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q030-9e75096107",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 30 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-4488",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "國際觀光旅館的 laundry通常隸屬於哪個部門？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "food ＆ beverage department"
+      },
+      {
+        "id": "B",
+        "text": "front office department"
+      },
+      {
+        "id": "C",
+        "text": "housekeeping department"
+      },
+      {
+        "id": "D",
+        "text": "purchasing department"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、housekeeping"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、housekeeping"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國際觀光旅館的 laundry通常隸屬於哪個部門？ food ＆ beverage department front office department housekeeping department purchasing department 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2514
+  }
+}

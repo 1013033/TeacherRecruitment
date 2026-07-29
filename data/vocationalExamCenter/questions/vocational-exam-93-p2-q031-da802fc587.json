@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q031-da802fc587",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 31 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-2687",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "爸爸、媽媽及兒子3人，上西餐廳用餐慶祝兒子幼稚園畢業，服務人員送了3份濃湯，正確的送餐順序為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "爸爸 → 媽媽 →兒子"
+      },
+      {
+        "id": "B",
+        "text": "媽媽 → 兒子 → 爸爸"
+      },
+      {
+        "id": "C",
+        "text": "兒子 → 爸爸 → 媽媽"
+      },
+      {
+        "id": "D",
+        "text": "兒子 → 媽媽 → 爸爸"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "爸爸、媽媽及兒子3人，上西餐廳用餐慶祝兒子幼稚園畢業，服務人員送了3份濃湯，正確的送餐順序為： 爸爸 → 媽媽 →兒子 媽媽 → 兒子 → 爸爸 兒子 → 爸爸 → 媽媽 兒子 → 媽媽 → 爸爸 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2183
+  }
+}

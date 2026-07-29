@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p2-q005-44526d881d",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 5 題",
+    "sourceFile": "113\\output\\113-3-四技二專-17餐旅群專二試題\\auto\\113-3-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "113\\output\\113-3-四技二專-17餐旅群專二試題\\auto\\113-3-四技二專-17餐旅群專二試題.md#offset-722",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "「專為學校、公司行號、醫院、軍隊等機關團體提供有限的菜色選擇，團體成員須繳交一定餐費或免費」，以上敘述的餐飲服務種類稱之為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Catering Service"
+      },
+      {
+        "id": "B",
+        "text": "Quantity Food Service"
+      },
+      {
+        "id": "C",
+        "text": "Seated Service"
+      },
+      {
+        "id": "D",
+        "text": "In-flight Service"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「專為學校、公司行號、醫院、軍隊等機關團體提供有限的菜色選擇，團體成員須繳交一定餐費或免費」，以上敘述的餐飲服務種類稱之為何？ Catering Service Quantity Food Service Seated Service In-flight Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2988
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p2-q031-6115fad8ce",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(二) 第 31 題",
+    "sourceFile": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md",
+    "sourceLocator": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md#offset-4518",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是品嚐葡萄酒的步驟之一？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "look"
+      },
+      {
+        "id": "B",
+        "text": "smell"
+      },
+      {
+        "id": "C",
+        "text": "taste"
+      },
+      {
+        "id": "D",
+        "text": "touch"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是品嚐葡萄酒的步驟之一？ look smell taste touch 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1568
+  }
+}

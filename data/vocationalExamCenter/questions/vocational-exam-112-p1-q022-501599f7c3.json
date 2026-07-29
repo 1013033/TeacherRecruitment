@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q022-501599f7c3",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 22 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-4065",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "每到連假，Cindy 會規劃全家人到外縣市旅遊，也會提前預約好舒適的飯店，但沒想到今天抵達某四星級飯店辦理入住後一打開房間，卻看到滿滿的灰塵，還有嚴重的霉味，Cindy 第一時間應尋求下列哪位人員處理此狀況較為合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "concierge"
+      },
+      {
+        "id": "B",
+        "text": "receptionist"
+      },
+      {
+        "id": "C",
+        "text": "reservation clerk"
+      },
+      {
+        "id": "D",
+        "text": "sales manager"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飯店、reservation、concierge"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飯店、reservation、concierge"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "每到連假，Cindy 會規劃全家人到外縣市旅遊，也會提前預約好舒適的飯店，但沒想到今天抵達某四星級飯店辦理入住後一打開房間，卻看到滿滿的灰塵，還有嚴重的霉味，Cindy 第一時間應尋求下列哪位人員處理此狀況較為合適？ concierge receptionist reservation clerk sales manager 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 607
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q015-094c0c8b43",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 15 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-2301",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "關於食物中毒的說明，下列何者正確？甲：食物中毒可概分為「細菌性」、「天然毒素」、「化學性」等三大類。其中以「天然毒素」為餐廳最常見的食物中毒類型乙：腸炎弧菌屬於細菌性類型的食物中毒，常見於海鮮類，其感染途徑經常來自於不潔的砧板或刀具的交叉汙染丙：肉毒桿菌在無氧環境中會產生神經毒素，且毒性最強，致命性最高，多發生在香腸、真空食品或罐頭食品丁：仙人掌桿菌的汙染通常發生於料理過的食品放置於室溫太久，未適當冷藏或加熱，例如馬鈴薯、穀類或濃湯",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙、丁"
+      },
+      {
+        "id": "C",
+        "text": "甲、丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "乙、丙、丁"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食品、肉毒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食品、肉毒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於食物中毒的說明，下列何者正確？甲：食物中毒可概分為「細菌性」、「天然毒素」、「化學性」等三大類。其中以「天然毒素」為餐廳最常見的食物中毒類型乙：腸炎弧菌屬於細菌性類型的食物中毒，常見於海鮮類，其感染途徑經常來自於不潔的砧板或刀具的交叉汙染丙：肉毒桿菌在無氧環境中會產生神經毒素，且毒性最強，致命性最高，多發生在香腸、真空食品或罐頭食品丁：仙人掌桿菌的汙染通常發生於料理過的食品放置於室溫太久，未適當冷藏或加熱，例如馬鈴薯、穀類或濃湯 甲、乙、丙 甲、乙、丁 甲、丙、丁 乙、丙、丁 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 352
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q001-8844864c1a",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 1 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-332",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "下列何者可歸屬於「文化觀光」活動？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "台北資訊展"
+      },
+      {
+        "id": "B",
+        "text": "内門宋江陣"
+      },
+      {
+        "id": "C",
+        "text": "拉斯維加斯之旅"
+      },
+      {
+        "id": "D",
+        "text": "七股賞黑面琵鷺"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者可歸屬於「文化觀光」活動？ 台北資訊展 内門宋江陣 拉斯維加斯之旅 七股賞黑面琵鷺 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 926
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q036-4dac74109c",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 36 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-4490",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "關於一般餐廳動線設計的基本原則，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "服務人員的動線愈長愈好"
+      },
+      {
+        "id": "B",
+        "text": "餐廳外場與廚房的距離愈短愈好"
+      },
+      {
+        "id": "C",
+        "text": "驗收區與儲存區的距離愈遠愈好"
+      },
+      {
+        "id": "D",
+        "text": "服務人員上菜通道應儘量與顧客動線重疊"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於一般餐廳動線設計的基本原則，下列敘述何者正確？ 服務人員的動線愈長愈好 餐廳外場與廚房的距離愈短愈好 驗收區與儲存區的距離愈遠愈好 服務人員上菜通道應儘量與顧客動線重疊 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1277
+  }
+}

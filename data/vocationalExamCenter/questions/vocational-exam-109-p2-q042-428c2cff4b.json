@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q042-428c2cff4b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 42 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-6236",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "關於乳品飲料的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "skim milk稱為保久乳"
+      },
+      {
+        "id": "B",
+        "text": "所有包裝性乳製飲品都是以生乳製成"
+      },
+      {
+        "id": "C",
+        "text": "yogurt 與 drinking yogurt 都屬於發酵性乳品"
+      },
+      {
+        "id": "D",
+        "text": "鮮乳是指由乳牛身上擠出，未經滅菌、均質處理過的乳汁"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於乳品飲料的敘述，下列何者正確？ skim milk稱為保久乳 所有包裝性乳製飲品都是以生乳製成 yogurt 與 drinking yogurt 都屬於發酵性乳品 鮮乳是指由乳牛身上擠出，未經滅菌、均質處理過的乳汁 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1775
+  }
+}

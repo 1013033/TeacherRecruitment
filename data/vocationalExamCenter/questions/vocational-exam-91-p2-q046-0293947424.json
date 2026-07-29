@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q046-0293947424",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 46 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-4503",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "在蛋黃醬中加醋或檸檬汁，會有何種變化？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "因為膠散作用，蛋黃醬變稀"
+      },
+      {
+        "id": "B",
+        "text": "因為乳化作用，蛋白與蛋黃開始分離"
+      },
+      {
+        "id": "C",
+        "text": "因為離水作用，蛋黃醬有孔洞出現"
+      },
+      {
+        "id": "D",
+        "text": "因為氧化作用，蛋黃醬呈現暗綠色"
+      }
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review",
+      "missing-answer"
+    ],
+    "searchText": "在蛋黃醬中加醋或檸檬汁，會有何種變化？ 因為膠散作用，蛋黃醬變稀 因為乳化作用，蛋白與蛋黃開始分離 因為離水作用，蛋黃醬有孔洞出現 因為氧化作用，蛋黃醬呈現暗綠色 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2099
+  }
+}

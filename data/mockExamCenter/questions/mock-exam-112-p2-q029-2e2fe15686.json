@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p2-q029-2e2fe15686",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 29 題",
+    "sourceFile": "112\\output\\112-3-四技二專-17餐旅群專二試題\\auto\\112-3-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "112\\output\\112-3-四技二專-17餐旅群專二試題\\auto\\112-3-四技二專-17餐旅群專二試題.md#offset-6387",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "有關飲調熱飲常見杯皿使用之敘述，下列何者錯誤？ <table><tr><td rowspan=1 colspan=1>選項</td><td rowspan=1 colspan=1>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "</td><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "B",
+        "text": "</td><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "C",
+        "text": "</td><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "D",
+        "text": "</td></tr><tr><td rowspan=1 colspan=1>圖示</td><td rowspan=1 colspan=1><img src=\"images/000110fc425bcf60abf341b3ae76785e7c8b791c9ae26052dda8dc3b672a77cb.jpg\"/></td><td rowspan=1 colspan=1><img src=\"images/0c1d28a8eebef84491a201bdd79654dd78aa9accc8ab4d8a7d598ad3d71fb8db.jpg\"/></td><td rowspan=1 colspan=1><img src=\"images/5e444045242b61a4b57be4227257a00b3d63c6fdbf47caa42e0803dde70efe3f.jpg\"/></td><td rowspan=1 colspan=1><img src=\"images/8d854b2bbd4b3fb16e93b53ca403e5b2701aa0b4b209ba033caf67c486a61650.jpg\"/></td></tr><tr><td rowspan=1 colspan=1>盛裝用途</td><td rowspan=1 colspan=1>Irish Coffee</td><td rowspan=1 colspan=1>Black Tea</td><td rowspan=1 colspan=1>Espresso</td><td rowspan=1 colspan=1>Café Latte</td></tr><tr><td rowspan=1 colspan=1>容量</td><td rowspan=1 colspan=1>240 ml</td><td rowspan=1 colspan=1>200~220 ml</td><td rowspan=1 colspan=1>75~110 ml</td><td rowspan=1 colspan=1>270~300 ml</td></tr></table>"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：espresso、latte"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：espresso、latte"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關飲調熱飲常見杯皿使用之敘述，下列何者錯誤？ <table><tr><td rowspan=1 colspan=1>選項</td><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1> </td></tr><tr><td rowspan=1 colspan=1>圖示</td><td rowspan=1 colspan=1><img src=\"images/000110fc425bcf60abf341b3ae76785e7c8b791c9ae26052dda8dc3b672a77cb.jpg\"/></td><td rowspan=1 colspan=1><img src=\"images/0c1d28a8eebef84491a201bdd79654dd78aa9accc8ab4d8a7d598ad3d71fb8db.jpg\"/></td><td rowspan=1 colspan=1><img src=\"images/5e444045242b61a4b57be4227257a00b3d63c6fdbf47caa42e0803dde70efe3f.jpg\"/></td><td rowspan=1 colspan=1><img src=\"images/8d854b2bbd4b3fb16e93b53ca403e5b2701aa0b4b209ba033caf67c486a61650.jpg\"/></td></tr><tr><td rowspan=1 colspan=1>盛裝用途</td><td rowspan=1 colspan=1>Irish Coffee</td><td rowspan=1 colspan=1>Black Tea</td><td rowspan=1 colspan=1>Espresso</td><td rowspan=1 colspan=1>Café Latte</td></tr><tr><td rowspan=1 colspan=1>容量</td><td rowspan=1 colspan=1>240 ml</td><td rowspan=1 colspan=1>200~220 ml</td><td rowspan=1 colspan=1>75~110 ml</td><td rowspan=1 colspan=1>270~300 ml</td></tr></table> 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2547
+  }
+}

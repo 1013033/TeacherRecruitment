@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p2-q002-b09c579817",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(二) 第 2 題",
+    "sourceFile": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md",
+    "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-543",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "鐵板燒餐廳之製備餐點處就是顧客用餐的地方，原則上是屬於哪一種服務方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "cafeteria service"
+      },
+      {
+        "id": "B",
+        "text": "carving service"
+      },
+      {
+        "id": "C",
+        "text": "catering service"
+      },
+      {
+        "id": "D",
+        "text": "counter service"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：cafeteria、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：cafeteria、service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "鐵板燒餐廳之製備餐點處就是顧客用餐的地方，原則上是屬於哪一種服務方式？ cafeteria service carving service catering service counter service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1293
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q003-8120cc7db8",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-777",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種情形依規定應申請換發護照？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "護照汙損不堪使用"
+      },
+      {
+        "id": "B",
+        "text": "護照效期不足一年"
+      },
+      {
+        "id": "C",
+        "text": "所持護照非最新式樣"
+      },
+      {
+        "id": "D",
+        "text": "持照人認為有必要並經主管機關同意者"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：護照"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種情形依規定應申請換發護照？ 護照汙損不堪使用 護照效期不足一年 所持護照非最新式樣 持照人認為有必要並經主管機關同意者 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 98
+  }
+}

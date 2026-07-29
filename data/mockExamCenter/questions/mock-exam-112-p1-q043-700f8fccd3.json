@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p1-q043-700f8fccd3",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 43 題",
+    "sourceFile": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md#offset-10767",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "請問此張電子機票號碼中「81431253」代表下列哪一個意思？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "機票來源代碼"
+      },
+      {
+        "id": "B",
+        "text": "航空公司代碼"
+      },
+      {
+        "id": "C",
+        "text": "機票本身號碼"
+      },
+      {
+        "id": "D",
+        "text": "機票搭乘張數"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：航空、機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：航空、機票"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "請問此張電子機票號碼中「81431253」代表下列哪一個意思？ 機票來源代碼 航空公司代碼 機票本身號碼 機票搭乘張數 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2513
+  }
+}

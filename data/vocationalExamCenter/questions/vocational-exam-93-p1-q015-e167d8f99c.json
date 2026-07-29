@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q015-e167d8f99c",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 15 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-1629",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "有關導遊與領隊之異同，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "領隊分爲專任及特約，導遊無此分別"
+      },
+      {
+        "id": "B",
+        "text": "領隊之甄審重視學歷，導遊之甄審重視經歷"
+      },
+      {
+        "id": "C",
+        "text": "領隊之管理機關為外交部領事事務局，導遊為交通部觀光局"
+      },
+      {
+        "id": "D",
+        "text": "領隊之服務對象爲outbound旅客，導遊之服務對象爲inbound旅客"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：領隊、導遊、觀光局"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：領隊、導遊、觀光局"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關導遊與領隊之異同，下列何者正確？ 領隊分爲專任及特約，導遊無此分別 領隊之甄審重視學歷，導遊之甄審重視經歷 領隊之管理機關為外交部領事事務局，導遊為交通部觀光局 領隊之服務對象爲outbound旅客，導遊之服務對象爲inbound旅客 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 940
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p1-q012-04160879ff",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(一) 第 12 題",
+    "sourceFile": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md",
+    "sourceLocator": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md#offset-1712",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "關於旅館夜間經理的主要工作內容，下列何者較不適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "督導櫃台人員製作客房夜賬與表單"
+      },
+      {
+        "id": "B",
+        "text": "維護大廳作業確保服務品質"
+      },
+      {
+        "id": "C",
+        "text": "維護旅館安全與處理緊急事件"
+      },
+      {
+        "id": "D",
+        "text": "與當地廠商洽詢備品價格與採購"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館夜間經理的主要工作內容，下列何者較不適當？ 督導櫃台人員製作客房夜賬與表單 維護大廳作業確保服務品質 維護旅館安全與處理緊急事件 與當地廠商洽詢備品價格與採購 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 299
+  }
+}

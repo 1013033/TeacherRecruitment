@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q032-4e0342d042",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 32 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-4161",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "關於餐飲組織設計之原則，下列何者是「job assignments」的涵義？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "按照員工內外在條件，分別指派適當工作"
+      },
+      {
+        "id": "B",
+        "text": "員工只接受一位上級主管指揮，以免混淆"
+      },
+      {
+        "id": "C",
+        "text": "一位餐廳主管所能夠有效督導員工的人數"
+      },
+      {
+        "id": "D",
+        "text": "上級主管給予權力，加速處理餐廳的問題"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐飲組織設計之原則，下列何者是「job assignments」的涵義？ 按照員工內外在條件，分別指派適當工作 員工只接受一位上級主管指揮，以免混淆 一位餐廳主管所能夠有效督導員工的人數 上級主管給予權力，加速處理餐廳的問題 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 269
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q011-cebc22da5d",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 11 題",
+    "sourceFile": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md",
+    "sourceLocator": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md#offset-2255",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "有關國外餐飲業發展之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "羅馬帝國時期出現之Tavern開啟現今酒館經營先河"
+      },
+      {
+        "id": "B",
+        "text": "義大利菜享譽「西方烹飪藝術之母」"
+      },
+      {
+        "id": "C",
+        "text": "古典烹飪創始源自法國名廚安東尼卡雷姆(Marie-Antoine Carême，1784-1833)"
+      },
+      {
+        "id": "D",
+        "text": "Buffet、Cocktail、Coffee House 皆源自美國所創"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：cocktail"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關國外餐飲業發展之敘述，下列何者錯誤？ 羅馬帝國時期出現之Tavern開啟現今酒館經營先河 義大利菜享譽「西方烹飪藝術之母」 古典烹飪創始源自法國名廚安東尼卡雷姆(Marie-Antoine Carême，1784-1833) Buffet、Cocktail、Coffee House 皆源自美國所創 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 733
+  }
+}

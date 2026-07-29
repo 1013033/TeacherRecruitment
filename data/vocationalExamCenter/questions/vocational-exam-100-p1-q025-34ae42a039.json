@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p1-q025-34ae42a039",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(一) 第 25 題",
+    "sourceFile": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md",
+    "sourceLocator": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md#offset-3328",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "某飯店共有250間客房，其中有5間O.O.O.房，當日售出150間，住宿的房客共有200人，其住宿總收入為$450,000，則該日飯店的平均房價為多少元？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "$1,800"
+      },
+      {
+        "id": "B",
+        "text": "$1,836"
+      },
+      {
+        "id": "C",
+        "text": "$2,500"
+      },
+      {
+        "id": "D",
+        "text": "$3,000"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飯店、客房、住宿、房價"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飯店、客房、住宿、房價"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某飯店共有250間客房，其中有5間O.O.O.房，當日售出150間，住宿的房客共有200人，其住宿總收入為$450,000，則該日飯店的平均房價為多少元？ $1,800 $1,836 $2,500 $3,000 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 25
+  }
+}

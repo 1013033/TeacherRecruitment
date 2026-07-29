@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p1-q037-c1afce6155",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 37 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-11414",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "為了讓餐廳所生產的蘑菇濃湯品質穩定，主廚特別製作表(五)的文件，用以確保產品的生產規格及製備程序均符合標準，並且減少食材的浪費，這份文件名稱應為： <table><tr><td rowspan=1 colspan=3>產品名稱：蘑菇濃湯(2人份)</td></tr><tr><td rowspan=1 colspan=2>主食材</td><td rowspan=1 colspan=1>烹飪程序</td></tr><tr><td rowspan=1 colspan=1>項目</td><td rowspan=1 colspan=1>份量</td><td></td></tr><tr><td rowspan=1 colspan=1>蘑菇</td><td rowspan=1 colspan=1>200 g</td><td></td></tr><tr><td rowspan=1 colspan=1>洋蔥</td><td rowspan=1 colspan=1>80 g</td><td></td></tr><tr><td rowspan=1 colspan=1>大蒜 (蒜末)</td><td rowspan=1 colspan=1>6g</td><td></td></tr><tr><td rowspan=1 colspan=2>增稠與湯底</td><td></td></tr><tr><td rowspan=1 colspan=1>項目</td><td rowspan=1 colspan=1>份量</td><td></td></tr><tr><td rowspan=1 colspan=1>無鹽奶油</td><td rowspan=1 colspan=1>20 g</td><td></td></tr><tr><td rowspan=1 colspan=1>中筋麵粉</td><td rowspan=1 colspan=1>25 g</td><td></td></tr><tr><td rowspan=1 colspan=1>雞高湯</td><td rowspan=1 colspan=1>500 c.c.</td><td></td></tr><tr><td rowspan=1 colspan=1>牛奶</td><td rowspan=1 colspan=1>150 c.c.</td><td></td></tr><tr><td rowspan=1 colspan=1>鮮奶油</td><td rowspan=1 colspan=1>50 c.c.</td><td></td></tr><tr><td rowspan=1 colspan=1>調味料</td><td rowspan=1 colspan=1></td><td></td></tr><tr><td rowspan=1 colspan=1>項目</td><td rowspan=1 colspan=1>份量</td><td></td></tr><tr><td rowspan=1 colspan=1>鹽</td><td rowspan=1 colspan=1>適量</td><td></td></tr><tr><td rowspan=1 colspan=1>現磨黑胡椒</td><td rowspan=1 colspan=1>適量</td><td></td></tr><tr><td rowspan=1 colspan=1>巴西里</td><td rowspan=1 colspan=1>少許</td><td></td></tr></table> 表(五)",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "standard yield"
+      },
+      {
+        "id": "C",
+        "text": "standard operation procedure"
+      },
+      {
+        "id": "B",
+        "text": "standard recipe"
+      },
+      {
+        "id": "D",
+        "text": "standard purchase specification # <sup>115</sup> <sup>年四技</sup> <sub>餐旅群</sub> <sub>專業科目(一)</sub> 公告試題僅供參考"
+      }
+    ],
+    "answer": "B",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：麵粉、奶油"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：麵粉、奶油"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "為了讓餐廳所生產的蘑菇濃湯品質穩定，主廚特別製作表(五)的文件，用以確保產品的生產規格及製備程序均符合標準，並且減少食材的浪費，這份文件名稱應為： <table><tr><td rowspan=1 colspan=3>產品名稱：蘑菇濃湯(2人份)</td></tr><tr><td rowspan=1 colspan=2>主食材</td><td rowspan=1 colspan=1>烹飪程序</td></tr><tr><td rowspan=1 colspan=1>項目</td><td rowspan=1 colspan=1>份量</td><td></td></tr><tr><td rowspan=1 colspan=1>蘑菇</td><td rowspan=1 colspan=1>200 g</td><td></td></tr><tr><td rowspan=1 colspan=1>洋蔥</td><td rowspan=1 colspan=1>80 g</td><td></td></tr><tr><td rowspan=1 colspan=1>大蒜 (蒜末)</td><td rowspan=1 colspan=1>6g</td><td></td></tr><tr><td rowspan=1 colspan=2>增稠與湯底</td><td></td></tr><tr><td rowspan=1 colspan=1>項目</td><td rowspan=1 colspan=1>份量</td><td></td></tr><tr><td rowspan=1 colspan=1>無鹽奶油</td><td rowspan=1 colspan=1>20 g</td><td></td></tr><tr><td rowspan=1 colspan=1>中筋麵粉</td><td rowspan=1 colspan=1>25 g</td><td></td></tr><tr><td rowspan=1 colspan=1>雞高湯</td><td rowspan=1 colspan=1>500 c.c.</td><td></td></tr><tr><td rowspan=1 colspan=1>牛奶</td><td rowspan=1 colspan=1>150 c.c.</td><td></td></tr><tr><td rowspan=1 colspan=1>鮮奶油</td><td rowspan=1 colspan=1>50 c.c.</td><td></td></tr><tr><td rowspan=1 colspan=1>調味料</td><td rowspan=1 colspan=1></td><td></td></tr><tr><td rowspan=1 colspan=1>項目</td><td rowspan=1 colspan=1>份量</td><td></td></tr><tr><td rowspan=1 colspan=1>鹽</td><td rowspan=1 colspan=1>適量</td><td></td></tr><tr><td rowspan=1 colspan=1>現磨黑胡椒</td><td rowspan=1 colspan=1>適量</td><td></td></tr><tr><td rowspan=1 colspan=1>巴西里</td><td rowspan=1 colspan=1>少許</td><td></td></tr></table> 表(五) standard yield standard operation procedure standard recipe standard purchase specification # <sup>115</sup> <sup>年四技</sup> <sub>餐旅群</sub> <sub>專業科目(一)</sub> 公告試題僅供參考 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 772
+  }
+}

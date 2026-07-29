@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q003-ca197a0772",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 3 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-920",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "關於西餐廳外場服務人員上餐與撤餐的服務技巧，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "鐵板牛排上餐以雙手持四盤，每次最多不超過五個為限"
+      },
+      {
+        "id": "B",
+        "text": "撤餐過程中，服務人員先 scrape 再 separate 最後 stack"
+      },
+      {
+        "id": "C",
+        "text": "餐盤預熱過久，盤子太燙，可用口布墊在盤底"
+      },
+      {
+        "id": "D",
+        "text": "為講求送餐速度與效率，可雙手持三個沙拉盤"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：上餐、撤餐、口布"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：上餐、撤餐、口布"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於西餐廳外場服務人員上餐與撤餐的服務技巧，下列敘述何者正確？ 鐵板牛排上餐以雙手持四盤，每次最多不超過五個為限 撤餐過程中，服務人員先 scrape 再 separate 最後 stack 餐盤預熱過久，盤子太燙，可用口布墊在盤底 為講求送餐速度與效率，可雙手持三個沙拉盤 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2008
+  }
+}

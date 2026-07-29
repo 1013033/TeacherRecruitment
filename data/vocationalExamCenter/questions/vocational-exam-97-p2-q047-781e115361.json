@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q047-781e115361",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 47 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-5825",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "依據一般用餐禮儀，咖啡杯所附的咖啡匙應如何使用？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "攪拌後以匙舀送咖啡入口"
+      },
+      {
+        "id": "B",
+        "text": "攪拌後放回咖啡底盤上"
+      },
+      {
+        "id": "D",
+        "text": "攪拌前以匙舀送咖啡入口品嚐黑咖啡原味"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據一般用餐禮儀，咖啡杯所附的咖啡匙應如何使用？ 攪拌後以匙舀送咖啡入口 攪拌後放回咖啡底盤上 攪拌前以匙舀送咖啡入口品嚐黑咖啡原味 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2440
+  }
+}

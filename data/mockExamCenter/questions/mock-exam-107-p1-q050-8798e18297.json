@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q050-8798e18297",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 50 題",
+    "sourceFile": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md",
+    "sourceLocator": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md#offset-7553",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "有關各國旅館評鑑等級標幟之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "臺灣與日本皆採用星星為認證標幟，星數愈多等級愈高"
+      },
+      {
+        "id": "B",
+        "text": "澳洲以鑽石為等級認證標幟，鑽石數愈多等級愈高"
+      },
+      {
+        "id": "C",
+        "text": "法國以星星為等級認證標幟，最高等級為五星"
+      },
+      {
+        "id": "D",
+        "text": "馬來西亞以無窮花為等級認證標幟，分為三個等級 【以下空白】"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關各國旅館評鑑等級標幟之敘述，下列何者正確？ 臺灣與日本皆採用星星為認證標幟，星數愈多等級愈高 澳洲以鑽石為等級認證標幟，鑽石數愈多等級愈高 法國以星星為等級認證標幟，最高等級為五星 馬來西亞以無窮花為等級認證標幟，分為三個等級 【以下空白】 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 124
+  }
+}

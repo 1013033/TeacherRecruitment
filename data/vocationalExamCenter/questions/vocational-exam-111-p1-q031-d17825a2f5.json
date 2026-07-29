@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p1-q031-d17825a2f5",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 31 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-4528",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "multiple-choice",
+    "prompt": "下列哪兩種服務皆不屬於國際觀光旅館房務部所提供？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "butler service、room service"
+      },
+      {
+        "id": "B",
+        "text": "butler service、valet service"
+      },
+      {
+        "id": "C",
+        "text": "room service、uniformed service"
+      },
+      {
+        "id": "D",
+        "text": "uniformed service、valet service"
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、valet、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、valet、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪兩種服務皆不屬於國際觀光旅館房務部所提供？ butler service、room service butler service、valet service room service、uniformed service uniformed service、valet service 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 566
+  }
+}

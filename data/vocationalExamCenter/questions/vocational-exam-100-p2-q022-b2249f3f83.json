@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p2-q022-b2249f3f83",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(二) 第 22 題",
+    "sourceFile": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md",
+    "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-3091",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "下列關於酒類飲料貯存與服務的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "啤酒貯存時，應有先進後出、越陳越香的觀念"
+      },
+      {
+        "id": "B",
+        "text": "啤酒的泡沫會造成氧化作用而使啤酒變苦"
+      },
+      {
+        "id": "C",
+        "text": "紹興酒宜以公杯盛裝，並以小酒杯服務客人"
+      },
+      {
+        "id": "D",
+        "text": "紹興酒宜以 5℃之溫度貯藏"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：啤酒、酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：啤酒、酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於酒類飲料貯存與服務的敘述，何者正確？ 啤酒貯存時，應有先進後出、越陳越香的觀念 啤酒的泡沫會造成氧化作用而使啤酒變苦 紹興酒宜以公杯盛裝，並以小酒杯服務客人 紹興酒宜以 5℃之溫度貯藏 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1313
+  }
+}

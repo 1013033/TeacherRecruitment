@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p2-q002-761d1bb4f3",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(二) 第 2 題",
+    "sourceFile": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md",
+    "sourceLocator": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md#offset-340",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "餐廳外場服務人員常使用的「服務巾」，可防止餐盤太燙或預防弄髒衣袖，也可稱為？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Silence Pad"
+      },
+      {
+        "id": "B",
+        "text": "Table Cloth"
+      },
+      {
+        "id": "C",
+        "text": "Placemat Towel"
+      },
+      {
+        "id": "D",
+        "text": "Service Towel"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳外場服務人員常使用的「服務巾」，可防止餐盤太燙或預防弄髒衣袖，也可稱為？ Silence Pad Table Cloth Placemat Towel Service Towel 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2105
+  }
+}

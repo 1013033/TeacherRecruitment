@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q028-0b80da2197",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 28 題",
+    "sourceFile": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md",
+    "sourceLocator": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md#offset-6194",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "有關飲料調製的器具，下列敘述何者不正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "倒酒器(Pour)又稱為注酒器或酒嘴，套於瓶口，以方便控制注酒的份量，還有一種定量酒嘴(JiggerPour)，可控制在每倒一次酒，達1盎司或其他需求的定量時，即會自動停止"
+      },
+      {
+        "id": "B",
+        "text": "刻度調酒杯(Mixing Glass)通常又稱為刻度攪拌杯，為使用攪拌法的容器，並搭配隔冰器一起使用，若在搖盪法時，則和不鏽鋼材質的杯身(Tin)一起使用，通常會將冰塊加入玻璃的刻度調酒杯，將材料加在不鏽鋼的Tin杯中，蓋上後搖盪"
+      },
+      {
+        "id": "C",
+        "text": "沖茶器(Percolator)包括壺身(玻璃材質)、杯蓋及附濾網活塞棒三個部份，同時兼具茶壺及濾茶器的功能"
+      },
+      {
+        "id": "D",
+        "text": "榨汁器(Extracter)用來榨取柑桔(金桔)汁的不鏽鋼器具，榨汁時應避免過度用力，而榨出果皮的苦味"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：酒杯、調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：酒杯、調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關飲料調製的器具，下列敘述何者不正確？ 倒酒器(Pour)又稱為注酒器或酒嘴，套於瓶口，以方便控制注酒的份量，還有一種定量酒嘴(JiggerPour)，可控制在每倒一次酒，達1盎司或其他需求的定量時，即會自動停止 刻度調酒杯(Mixing Glass)通常又稱為刻度攪拌杯，為使用攪拌法的容器，並搭配隔冰器一起使用，若在搖盪法時，則和不鏽鋼材質的杯身(Tin)一起使用，通常會將冰塊加入玻璃的刻度調酒杯，將材料加在不鏽鋼的Tin杯中，蓋上後搖盪 沖茶器(Percolator)包括壺身(玻璃材質)、杯蓋及附濾網活塞棒三個部份，同時兼具茶壺及濾茶器的功能 榨汁器(Extracter)用來榨取柑桔(金桔)汁的不鏽鋼器具，榨汁時應避免過度用力，而榨出果皮的苦味 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1825
+  }
+}

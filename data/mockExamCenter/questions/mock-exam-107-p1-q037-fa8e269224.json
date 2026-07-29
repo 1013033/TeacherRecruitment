@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q037-fa8e269224",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 37 題",
+    "sourceFile": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md",
+    "sourceLocator": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md#offset-6551",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "下列世界主要旅遊城市中，隸屬於 IATA第三運務區(TC3)者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "TPE、SYD、BKK、BJS"
+      },
+      {
+        "id": "B",
+        "text": "TPE、SYD、NYC、SEA"
+      },
+      {
+        "id": "C",
+        "text": "NYC、SEA、LAX、YVR"
+      },
+      {
+        "id": "D",
+        "text": "NYC、SEA、FRA、PAR"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：iata、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：iata、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列世界主要旅遊城市中，隸屬於 IATA第三運務區(TC3)者為何？ TPE、SYD、BKK、BJS TPE、SYD、NYC、SEA NYC、SEA、LAX、YVR NYC、SEA、FRA、PAR 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 200
+  }
+}

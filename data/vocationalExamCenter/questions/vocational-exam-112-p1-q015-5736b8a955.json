@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q015-5736b8a955",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 15 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-2544",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "關於中式著名菜系與菜餚配對的選項，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "川菜：回鍋肉、夫妻肺片"
+      },
+      {
+        "id": "B",
+        "text": "浙菜：西湖醋魚、龍井蝦仁"
+      },
+      {
+        "id": "C",
+        "text": "閩菜：佛跳牆、八寶蟳飯"
+      },
+      {
+        "id": "D",
+        "text": "湘菜：無錫排骨、揚州炒飯"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜系"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜系"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中式著名菜系與菜餚配對的選項，下列何者錯誤？ 川菜：回鍋肉、夫妻肺片 浙菜：西湖醋魚、龍井蝦仁 閩菜：佛跳牆、八寶蟳飯 湘菜：無錫排骨、揚州炒飯 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 600
+  }
+}

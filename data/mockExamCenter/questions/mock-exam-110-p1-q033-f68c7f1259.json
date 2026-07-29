@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q033-f68c7f1259",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 33 題",
+    "sourceFile": "110\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "110\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-6306",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "倉儲管理是餐飲成本控制的重點，也是菜餚品質的關鍵；如將物料以價值分類，由高至低分別為A類、B 類、C 類，稱為「重點分類管理法」，其概念為降低存量，增加可用資金，三個種類分別有對應的庫存管理方式。以A類物料為例，即便進貨存量最少，成本金額卻是最高的，必須經常盤點，因此對於A類物料適宜的盤存方法應以下列何者為宜？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "經濟採購量(ECQ)"
+      },
+      {
+        "id": "B",
+        "text": "先進先出法(FIFO)"
+      },
+      {
+        "id": "C",
+        "text": "存量卡(Bin Card)"
+      },
+      {
+        "id": "D",
+        "text": "定期盤點法"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "倉儲管理是餐飲成本控制的重點，也是菜餚品質的關鍵；如將物料以價值分類，由高至低分別為A類、B 類、C 類，稱為「重點分類管理法」，其概念為降低存量，增加可用資金，三個種類分別有對應的庫存管理方式。以A類物料為例，即便進貨存量最少，成本金額卻是最高的，必須經常盤點，因此對於A類物料適宜的盤存方法應以下列何者為宜？ 經濟採購量(ECQ) 先進先出法(FIFO) 存量卡(Bin Card) 定期盤點法 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1395
+  }
+}

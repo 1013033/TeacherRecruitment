@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-90-p1-q029-2f533ddffc",
+    "sourceYear": 90,
+    "sourceLabel": "90 年 專業科目(一) 第 29 題",
+    "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
+    "sourceLocator": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md#offset-3182",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "以㆘那㆒項管理工具，不是盈收管理(yield management)用以達到客房盈收最大化的工具？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "容量管理"
+      },
+      {
+        "id": "B",
+        "text": "折扣管理"
+      },
+      {
+        "id": "C",
+        "text": "住宿㆝數管理"
+      },
+      {
+        "id": "D",
+        "text": "排班管理"
+      }
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：客房、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：客房、住宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "以㆘那㆒項管理工具，不是盈收管理(yield management)用以達到客房盈收最大化的工具？ 容量管理 折扣管理 住宿㆝數管理 排班管理 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 804
+  }
+}

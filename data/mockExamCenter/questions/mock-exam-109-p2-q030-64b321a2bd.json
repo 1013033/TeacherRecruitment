@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q030-64b321a2bd",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 30 題",
+    "sourceFile": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md",
+    "sourceLocator": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md#offset-5012",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "有關樓層領班檢視客房應注意的事項，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以看、摸、試、嗅、聽的方式檢視客房"
+      },
+      {
+        "id": "B",
+        "text": "檢查動線為由上而下、由內而外"
+      },
+      {
+        "id": "C",
+        "text": "檢視客房順序為空房→續住房→遷出房"
+      },
+      {
+        "id": "D",
+        "text": "依照 Room Check List 逐項檢查，填報完畢後將 OK Room 報知客務櫃檯"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：客房、room、櫃檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：客房、room、櫃檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關樓層領班檢視客房應注意的事項，下列何者錯誤？ 以看、摸、試、嗅、聽的方式檢視客房 檢查動線為由上而下、由內而外 檢視客房順序為空房→續住房→遷出房 依照 Room Check List 逐項檢查，填報完畢後將 OK Room 報知客務櫃檯 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1170
+  }
+}

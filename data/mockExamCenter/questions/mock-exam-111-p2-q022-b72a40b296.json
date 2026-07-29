@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q022-b72a40b296",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 22 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-3184",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "小戴歷經羽球比賽的激烈爭戰後回到下榻旅館，點叫 Room Service 緩解一身的疲勞。身為學過餐飲服務的你，請協助找出正確選項：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "消費總額產生的服務費以10%為主"
+      },
+      {
+        "id": "B",
+        "text": "房客不需要立刻付錢，而是 Check Out 再一起結算費用"
+      },
+      {
+        "id": "C",
+        "text": "可於客房進行現場烤鴨切割、火焰香蕉"
+      },
+      {
+        "id": "D",
+        "text": "點餐服務僅供應到凌晨 1 點的方式經營"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小戴歷經羽球比賽的激烈爭戰後回到下榻旅館，點叫 Room Service 緩解一身的疲勞。身為學過餐飲服務的你，請協助找出正確選項： 消費總額產生的服務費以10%為主 房客不需要立刻付錢，而是 Check Out 再一起結算費用 可於客房進行現場烤鴨切割、火焰香蕉 點餐服務僅供應到凌晨 1 點的方式經營 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2102
+  }
+}

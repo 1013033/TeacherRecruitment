@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q027-5bcb1b6cec",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 27 題",
+    "sourceFile": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md",
+    "sourceLocator": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md#offset-4070",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "有關飲料的說明配對，下列何者不恰當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "依供應方式分為現成飲料與現調飲料"
+      },
+      {
+        "id": "B",
+        "text": "依飲用容量多寡分為短飲飲料與長飲飲料"
+      },
+      {
+        "id": "C",
+        "text": "依是否含酒精分為 Tall Drink 與 Short Drink"
+      },
+      {
+        "id": "D",
+        "text": "依飲用溫度分為 Cold Drink、Hot Drink、Frozen Drink"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關飲料的說明配對，下列何者不恰當？ 依供應方式分為現成飲料與現調飲料 依飲用容量多寡分為短飲飲料與長飲飲料 依是否含酒精分為 Tall Drink 與 Short Drink 依飲用溫度分為 Cold Drink、Hot Drink、Frozen Drink 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1537
+  }
+}

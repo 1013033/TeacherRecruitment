@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p2-q023-b5b0db4690",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 23 題",
+    "sourceFile": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md",
+    "sourceLocator": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md#offset-3147",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "關於旅館住客服務的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "butler service 一般由 bell service 單位負責"
+      },
+      {
+        "id": "B",
+        "text": "currency exchange service 通常由 operator 單位負責"
+      },
+      {
+        "id": "C",
+        "text": "express laundry service 較 regular laundry service 速度為快"
+      },
+      {
+        "id": "D",
+        "text": "lost &found service 無論拾獲何種物品，至少都須保管六個月"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館住客服務的敘述，下列何者正確？ butler service 一般由 bell service 單位負責 currency exchange service 通常由 operator 單位負責 express laundry service 較 regular laundry service 速度為快 lost &found service 無論拾獲何種物品，至少都須保管六個月 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1659
+  }
+}

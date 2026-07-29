@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q006-12f64546c9",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 6 題",
+    "sourceFile": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md",
+    "sourceLocator": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md#offset-1370",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "餐廳內場廚房設計應進行分區(例如汙染作業區、準清潔作業區…等)，以確保餐廳菜餚衛生安全管理。有關廚房區域分類，下列何者屬於錯誤的安排？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "一般工作區─兩頭班員工正值空班時間在休息室小憩"
+      },
+      {
+        "id": "B",
+        "text": "汙染作業區─菜商送貨抵達正在點收"
+      },
+      {
+        "id": "C",
+        "text": "準清潔作業區─各類蔬菜進行分切"
+      },
+      {
+        "id": "D",
+        "text": "清潔作業區─廚師正在製作海鮮豆腐煲"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳內場廚房設計應進行分區(例如汙染作業區、準清潔作業區…等)，以確保餐廳菜餚衛生安全管理。有關廚房區域分類，下列何者屬於錯誤的安排？ 一般工作區─兩頭班員工正值空班時間在休息室小憩 汙染作業區─菜商送貨抵達正在點收 準清潔作業區─各類蔬菜進行分切 清潔作業區─廚師正在製作海鮮豆腐煲 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1196
+  }
+}

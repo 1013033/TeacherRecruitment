@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q011-6cda0f028f",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 11 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-2135",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "回顧臺灣餐飲業歷史發展，舉凡高級西式料理供應、在地化西式料理屋經營及現代化餐飲管理概念出現，可溯源自下列何家業者所創？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "波麗露"
+      },
+      {
+        "id": "B",
+        "text": "圓山大飯店"
+      },
+      {
+        "id": "C",
+        "text": "臺南度小月"
+      },
+      {
+        "id": "D",
+        "text": "鐵道飯店"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐飲業、餐飲管理"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐飲業、餐飲管理"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "回顧臺灣餐飲業歷史發展，舉凡高級西式料理供應、在地化西式料理屋經營及現代化餐飲管理概念出現，可溯源自下列何家業者所創？ 波麗露 圓山大飯店 臺南度小月 鐵道飯店 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1858
+  }
+}

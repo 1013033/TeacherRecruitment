@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q042-9461fcb769",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 42 題",
+    "sourceFile": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md",
+    "sourceLocator": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md#offset-6326",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "品茗茶湯時，小柯為了能好好的感受茶湯，因此有其品茗之順序，小柯應採取哪一種品茗順序較適合？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "聞茶香→觀茶色→品茶味"
+      },
+      {
+        "id": "B",
+        "text": "觀茶色→品茶味→聞茶香"
+      },
+      {
+        "id": "C",
+        "text": "觀茶色→聞茶香→品茶味"
+      },
+      {
+        "id": "D",
+        "text": "品茶味→聞茶香→觀茶色"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "品茗茶湯時，小柯為了能好好的感受茶湯，因此有其品茗之順序，小柯應採取哪一種品茗順序較適合？ 聞茶香→觀茶色→品茶味 觀茶色→品茶味→聞茶香 觀茶色→聞茶香→品茶味 品茶味→聞茶香→觀茶色 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3321
+  }
+}

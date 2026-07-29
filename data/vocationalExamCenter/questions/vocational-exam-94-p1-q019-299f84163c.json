@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-q019-299f84163c",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 19 題",
+    "sourceFile": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md",
+    "sourceLocator": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md#offset-2261",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列何者不符合我國「民宿管理辦法」對於民宿的敘述？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "利用自用住宅空閒房間"
+      },
+      {
+        "id": "B",
+        "text": "結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動"
+      },
+      {
+        "id": "C",
+        "text": "以家庭主業方式經營"
+      },
+      {
+        "id": "D",
+        "text": "提供旅客鄉野生活之住宿處所"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：住宿、民宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：住宿、民宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不符合我國「民宿管理辦法」對於民宿的敘述？ 利用自用住宅空閒房間 結合當地人文、自然景觀、生態、環境資源及農林漁牧生產活動 以家庭主業方式經營 提供旅客鄉野生活之住宿處所 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 994
+  }
+}

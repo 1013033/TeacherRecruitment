@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q002-0f84e15fc2",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 2 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-536",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "小華是高爾夫球迷，希望參加到英國蘇格蘭「老球場」打球的團體行程。此種旅遊行程屬於下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "獎勵旅遊"
+      },
+      {
+        "id": "B",
+        "text": "商務旅遊"
+      },
+      {
+        "id": "C",
+        "text": "特別興趣旅遊"
+      },
+      {
+        "id": "D",
+        "text": "機加酒自由行"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小華是高爾夫球迷，希望參加到英國蘇格蘭「老球場」打球的團體行程。此種旅遊行程屬於下列何者？ 獎勵旅遊 商務旅遊 特別興趣旅遊 機加酒自由行 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 488
+  }
+}

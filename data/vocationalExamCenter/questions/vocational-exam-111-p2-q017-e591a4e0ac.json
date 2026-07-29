@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q017-e591a4e0ac",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 17 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-3487",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "小汪與朋友正在籌備一家即將開幕的餐廳，餐廳欲購買可依使用需求變換桌形的餐桌；下列哪一款餐桌的設計具有收納桌板的功能？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "cocktail table"
+      },
+      {
+        "id": "B",
+        "text": "drop leaf table"
+      },
+      {
+        "id": "C",
+        "text": "rectangle table"
+      },
+      {
+        "id": "D",
+        "text": "square table"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐桌、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐桌、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小汪與朋友正在籌備一家即將開幕的餐廳，餐廳欲購買可依使用需求變換桌形的餐桌；下列哪一款餐桌的設計具有收納桌板的功能？ cocktail table drop leaf table rectangle table square table 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1827
+  }
+}

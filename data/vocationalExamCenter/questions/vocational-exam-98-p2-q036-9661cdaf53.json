@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p2-q036-9661cdaf53",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(二) 第 36 題",
+    "sourceFile": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md",
+    "sourceLocator": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md#offset-4473",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列何者屬於長時間飲用的飲料( long drinks )？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "B & B"
+      },
+      {
+        "id": "B",
+        "text": "Gibson"
+      },
+      {
+        "id": "C",
+        "text": "Pink Lady"
+      },
+      {
+        "id": "D",
+        "text": "Singapore Sling"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者屬於長時間飲用的飲料( long drinks )？ B & B Gibson Pink Lady Singapore Sling 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2478
+  }
+}

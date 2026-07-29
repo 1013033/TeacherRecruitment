@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-q024-b65ff02019",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 24 題",
+    "sourceFile": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md",
+    "sourceLocator": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md#offset-2753",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "下列何者較符合餐廳從業人員的實際工作職責？",
+    "images": [
+      {
+        "id": "vocational-exam-94-p1-q024-b65ff02019-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-94-p1-q024-b65ff02019-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "服務人員負責食譜的研發創新"
+      },
+      {
+        "id": "B",
+        "text": "餐廳經理負責擬定餐廳的營業方針"
+      },
+      {
+        "id": "C",
+        "text": "調酒員負責製作餐廳所需的麵包與甜點"
+      },
+      {
+        "id": "D",
+        "text": "副主廚負責控管服務流程"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者較符合餐廳從業人員的實際工作職責？ 服務人員負責食譜的研發創新 餐廳經理負責擬定餐廳的營業方針 調酒員負責製作餐廳所需的麵包與甜點 副主廚負責控管服務流程 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 999
+  }
+}

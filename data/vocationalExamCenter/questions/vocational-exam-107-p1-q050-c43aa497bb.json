@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q050-c43aa497bb",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 50 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-7561",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "多位於機場附近，主要提供過境旅客、搭早班或晚班飛機旅客及航空公司員工住宿之過境旅館，通常為下列哪一種類型的旅館？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "residential hotel"
+      },
+      {
+        "id": "B",
+        "text": "transit hotel"
+      },
+      {
+        "id": "C",
+        "text": "parador hotel"
+      },
+      {
+        "id": "D",
+        "text": "resort hotel 【以下空白】 第 8 頁 <sub>餐旅群</sub> 公告試題僅供參考 107 年四技共 8 頁 專業科目(一)"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、住宿、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "多位於機場附近，主要提供過境旅客、搭早班或晚班飛機旅客及航空公司員工住宿之過境旅館，通常為下列哪一種類型的旅館？ residential hotel transit hotel parador hotel resort hotel 【以下空白】 第 8 頁 <sub>餐旅群</sub> 公告試題僅供參考 107 年四技共 8 頁 專業科目(一) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 386
+  }
+}

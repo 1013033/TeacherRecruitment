@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q034-7ec6797c71",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 34 題",
+    "sourceFile": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md",
+    "sourceLocator": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md#offset-6220",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "小偉在學期結束達到今年的學習目標，媽媽為了獎勵他，規劃全程五天四夜北海道滑雪課程之旅，請問這趟旅程屬於 Group Inclusive Package Tour 的哪種型態？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "City Tour"
+      },
+      {
+        "id": "B",
+        "text": "Special Interest Tour, SIT"
+      },
+      {
+        "id": "C",
+        "text": "Incentive Tour"
+      },
+      {
+        "id": "D",
+        "text": "Optional Tour"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：tour"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小偉在學期結束達到今年的學習目標，媽媽為了獎勵他，規劃全程五天四夜北海道滑雪課程之旅，請問這趟旅程屬於 Group Inclusive Package Tour 的哪種型態？ City Tour Special Interest Tour, SIT Incentive Tour Optional Tour 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1593
+  }
+}

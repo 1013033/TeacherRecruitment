@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-90-p1-q003-cc3d9bdd46",
+    "sourceYear": 90,
+    "sourceLabel": "90 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
+    "sourceLocator": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md#offset-650",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "有關美式餐飲服務的要領，錯誤的敘述為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "餐巾的左側放置餐叉兩把，叉齒應向㆖"
+      },
+      {
+        "id": "B",
+        "text": "送飲料時，應從客㆟左後方供應"
+      },
+      {
+        "id": "C",
+        "text": "收拾餐具時，㆒律由客㆟右側收拾"
+      },
+      {
+        "id": "D",
+        "text": "遞㆖菜單後，宜請示客㆟是否需要飯前酒"
+      }
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具、餐巾"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具、餐巾"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "有關美式餐飲服務的要領，錯誤的敘述為何？ 餐巾的左側放置餐叉兩把，叉齒應向㆖ 送飲料時，應從客㆟左後方供應 收拾餐具時，㆒律由客㆟右側收拾 遞㆖菜單後，宜請示客㆟是否需要飯前酒 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 779
+  }
+}

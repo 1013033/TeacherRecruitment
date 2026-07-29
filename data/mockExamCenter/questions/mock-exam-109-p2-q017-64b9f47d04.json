@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q017-64b9f47d04",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 17 題",
+    "sourceFile": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md",
+    "sourceLocator": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md#offset-2869",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "提供Buffet Service的餐廳通常會將餐點分類擺放，下列哪一種食材最不可能出現在沙拉區？",
+    "images": [
+      {
+        "id": "mock-exam-109-p2-q017-64b9f47d04-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-109-p2-q017-64b9f47d04-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      },
+      {
+        "id": "mock-exam-109-p2-q017-64b9f47d04-img-02",
+        "src": "data/mockExamCenter/assets/mock-exam-109-p2-q017-64b9f47d04-img-02.jpg",
+        "alt": "第 2 張題目圖片"
+      },
+      {
+        "id": "mock-exam-109-p2-q017-64b9f47d04-img-03",
+        "src": "data/mockExamCenter/assets/mock-exam-109-p2-q017-64b9f47d04-img-03.jpg",
+        "alt": "第 3 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Dried Raisin"
+      },
+      {
+        "id": "B",
+        "text": "Oil and Vinegar Dressing"
+      },
+      {
+        "id": "C",
+        "text": "Roast Beef"
+      },
+      {
+        "id": "D",
+        "text": "Romaine Lettuce ## 18. 餐廳的葡萄酒服務員在介紹圖(一)這款酒時，哪一句說明不正確？"
+      },
+      {
+        "id": "A",
+        "text": "此款酒是屬於新世界葡萄酒"
+      },
+      {
+        "id": "B",
+        "text": "此款酒適合搭配海鮮的白葡萄酒"
+      },
+      {
+        "id": "C",
+        "text": "此款酒來自智利的Porta酒莊"
+      },
+      {
+        "id": "D",
+        "text": "此款酒屬於 Still Wine，不具有氣泡的口感 圖(一) ## 19. 餐廳的葡萄酒服務員在服務圖(二)這款酒時的服務流程依序為何？ 甲、調整酒溫 乙、斟酒 丙、開瓶 丁、展示驗酒 戊、放置酒杯 己、醒酒及過酒 庚、試酒"
+      },
+      {
+        "id": "A",
+        "text": "丁戊丙甲庚乙"
+      },
+      {
+        "id": "C",
+        "text": "丁戊甲丙己庚乙 MOËT&CHANDON ICE IMPÉRIAL ★"
+      },
+      {
+        "id": "B",
+        "text": "戊丁甲丙庚乙 圖(二)"
+      },
+      {
+        "id": "D",
+        "text": "戊丁甲丙庚己乙"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "提供Buffet Service的餐廳通常會將餐點分類擺放，下列哪一種食材最不可能出現在沙拉區？ Dried Raisin Oil and Vinegar Dressing Roast Beef Romaine Lettuce ## 18. 餐廳的葡萄酒服務員在介紹圖(一)這款酒時，哪一句說明不正確？ 此款酒是屬於新世界葡萄酒 此款酒適合搭配海鮮的白葡萄酒 此款酒來自智利的Porta酒莊 此款酒屬於 Still Wine，不具有氣泡的口感 圖(一) ## 19. 餐廳的葡萄酒服務員在服務圖(二)這款酒時的服務流程依序為何？ 甲、調整酒溫 乙、斟酒 丙、開瓶 丁、展示驗酒 戊、放置酒杯 己、醒酒及過酒 庚、試酒 丁戊丙甲庚乙 丁戊甲丙己庚乙 MOËT&CHANDON ICE IMPÉRIAL ★ 戊丁甲丙庚乙 圖(二) 戊丁甲丙庚己乙 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1159
+  }
+}

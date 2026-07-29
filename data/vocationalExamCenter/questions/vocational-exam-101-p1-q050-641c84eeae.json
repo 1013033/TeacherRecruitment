@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q050-641c84eeae",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 50 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-6562",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "旅館房租的計價方式，下列何者不提供早餐？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "修正美式計價 ( Modified American Plan , MAP )"
+      },
+      {
+        "id": "B",
+        "text": "歐式計價 ( European Plan,EP)"
+      },
+      {
+        "id": "C",
+        "text": "歐陸式計價 ( Continental Plan , CP )"
+      },
+      {
+        "id": "D",
+        "text": "百慕達計價( Bermuda Plan,BP) 【以下空白】 <sup>餐旅群</sup> <sup>專業科目(一)</sup> 公告試題僅供參考"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館房租的計價方式，下列何者不提供早餐？ 修正美式計價 ( Modified American Plan , MAP ) 歐式計價 ( European Plan,EP) 歐陸式計價 ( Continental Plan , CP ) 百慕達計價( Bermuda Plan,BP) 【以下空白】 <sup>餐旅群</sup> <sup>專業科目(一)</sup> 公告試題僅供參考 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 95
+  }
+}

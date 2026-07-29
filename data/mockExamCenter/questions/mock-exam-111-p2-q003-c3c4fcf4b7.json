@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q003-c3c4fcf4b7",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 3 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-274",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "阿信餐廳在採購顧客用餐的餐桌時，考量未來同桌的用餐人數以及營運的機動性，欲購買可依現場需求適時增加同桌用餐人數之餐桌，請問，下列何種類型的餐桌較為適合？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Square Dining Table"
+      },
+      {
+        "id": "B",
+        "text": "Rectangle Table"
+      },
+      {
+        "id": "C",
+        "text": "Round Table"
+      },
+      {
+        "id": "D",
+        "text": "Folding Leave Table"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐桌、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐桌、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿信餐廳在採購顧客用餐的餐桌時，考量未來同桌的用餐人數以及營運的機動性，欲購買可依現場需求適時增加同桌用餐人數之餐桌，請問，下列何種類型的餐桌較為適合？ Square Dining Table Rectangle Table Round Table Folding Leave Table 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1984
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q038-e5dac0b977",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 38 題",
+    "sourceFile": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md",
+    "sourceLocator": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md#offset-5560",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "依照各連鎖咖啡館在臺灣開設的先後順序排列，下列選項何者正確？甲、星巴克 乙、壹咖啡 丙、85 度C 丁、西雅圖 戊、真鍋",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙戊丁甲丙"
+      },
+      {
+        "id": "B",
+        "text": "戊甲丁乙丙"
+      },
+      {
+        "id": "C",
+        "text": "戊乙丁甲丙"
+      },
+      {
+        "id": "D",
+        "text": "戊丁甲乙丙"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依照各連鎖咖啡館在臺灣開設的先後順序排列，下列選項何者正確？甲、星巴克 乙、壹咖啡 丙、85 度C 丁、西雅圖 戊、真鍋 乙戊丁甲丙 戊甲丁乙丙 戊乙丁甲丙 戊丁甲乙丙 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 526
+  }
+}

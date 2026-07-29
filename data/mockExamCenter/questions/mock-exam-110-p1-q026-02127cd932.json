@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q026-02127cd932",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 26 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-4753",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "根據交通部觀光局行政資訊網於 2022 年 01 月 05 日登載之觀光旅館營運統計資料顯示，2021 年 01 至 09月觀光旅館營運累計，總營收TOP 5的觀光旅館如表(一)所示，試依表列內容判斷下列敘述何者錯誤？ 表(一)「2021年01月\\~09月觀光旅館營運累計月報」摘錄 <table><tr><td rowspan=1 colspan=1>旅館名稱</td><td rowspan=1 colspan=1>客房數(間)</td><td rowspan=1 colspan=1>客房住用數(次)</td><td rowspan=1 colspan=1>住房率(%)</td><td rowspan=1 colspan=1>平均房價(新臺幣)</td><td rowspan=1 colspan=1>房租收入(新臺幣)</td><td rowspan=1 colspan=1>總營業收入(新臺幣)</td></tr><tr><td rowspan=1 colspan=1>晶華酒店</td><td rowspan=1 colspan=1>4,842</td><td rowspan=1 colspan=1>51,292</td><td rowspan=1 colspan=1>34.92%</td><td rowspan=1 colspan=1>3,567</td><td rowspan=1 colspan=1>182,975,465</td><td rowspan=1 colspan=1>995,258,528</td></tr><tr><td rowspan=1 colspan=1>臺北寒舍喜來登大飯店</td><td rowspan=1 colspan=1>6,192</td><td rowspan=1 colspan=1>44,071</td><td rowspan=1 colspan=1>23.46%</td><td rowspan=1 colspan=1>2,979</td><td rowspan=1 colspan=1>131,291,880</td><td rowspan=1 colspan=1>830,833,742</td></tr><tr><td rowspan=1 colspan=1>漢來大飯店</td><td rowspan=1 colspan=1>4,815</td><td rowspan=1 colspan=1>48,551</td><td rowspan=1 colspan=1>33.24%</td><td rowspan=1 colspan=1>2,863</td><td rowspan=1 colspan=1>138,980,195</td><td rowspan=1 colspan=1>752,715,223</td></tr><tr><td rowspan=1 colspan=1>蘭城晶英酒店</td><td rowspan=1 colspan=1>1,737</td><td rowspan=1 colspan=1>26,517</td><td rowspan=1 colspan=1>50.33%</td><td rowspan=1 colspan=1>9,425</td><td rowspan=1 colspan=1>249,932,771</td><td rowspan=1 colspan=1>576,990,250</td></tr><tr><td rowspan=1 colspan=1>臺北國賓大飯店</td><td rowspan=1 colspan=1>3,798</td><td rowspan=1 colspan=1>8,777</td><td rowspan=1 colspan=1>7.62%</td><td rowspan=1 colspan=1>2,078</td><td rowspan=1 colspan=1>18,236,582</td><td rowspan=1 colspan=1>495,693,137</td></tr></table> 資料來源：交通部觀光局行政資訊網(https://admin.taiwan.net.tw)，2022 年 01 月 05 日",
+    "images": [
+      {
+        "id": "mock-exam-110-p1-q026-02127cd932-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-110-p1-q026-02127cd932-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      },
+      {
+        "id": "mock-exam-110-p1-q026-02127cd932-img-02",
+        "src": "data/mockExamCenter/assets/mock-exam-110-p1-q026-02127cd932-img-02.jpg",
+        "alt": "第 2 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "各旅館平均房價是以「房租收入 客房住用數」計算"
+      },
+      {
+        "id": "B",
+        "text": "平均客房收益(RevPAR)：晶華>漢來>臺北寒舍喜來登>蘭城晶英>國賓"
+      },
+      {
+        "id": "C",
+        "text": "平均房價不變情況下，客房住房率越高，代表旅館營業狀況越好"
+      },
+      {
+        "id": "D",
+        "text": "參照 AH&LA(美國飯店業和住宿業協會)「旅館規模(Size)」分類，臺北寒舍喜來登大飯店可歸屬於「大型旅館(Large Hotel)"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、客房、住宿、房價、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、客房、住宿、房價、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據交通部觀光局行政資訊網於 2022 年 01 月 05 日登載之觀光旅館營運統計資料顯示，2021 年 01 至 09月觀光旅館營運累計，總營收TOP 5的觀光旅館如表(一)所示，試依表列內容判斷下列敘述何者錯誤？ 表(一)「2021年01月\\~09月觀光旅館營運累計月報」摘錄 <table><tr><td rowspan=1 colspan=1>旅館名稱</td><td rowspan=1 colspan=1>客房數(間)</td><td rowspan=1 colspan=1>客房住用數(次)</td><td rowspan=1 colspan=1>住房率(%)</td><td rowspan=1 colspan=1>平均房價(新臺幣)</td><td rowspan=1 colspan=1>房租收入(新臺幣)</td><td rowspan=1 colspan=1>總營業收入(新臺幣)</td></tr><tr><td rowspan=1 colspan=1>晶華酒店</td><td rowspan=1 colspan=1>4,842</td><td rowspan=1 colspan=1>51,292</td><td rowspan=1 colspan=1>34.92%</td><td rowspan=1 colspan=1>3,567</td><td rowspan=1 colspan=1>182,975,465</td><td rowspan=1 colspan=1>995,258,528</td></tr><tr><td rowspan=1 colspan=1>臺北寒舍喜來登大飯店</td><td rowspan=1 colspan=1>6,192</td><td rowspan=1 colspan=1>44,071</td><td rowspan=1 colspan=1>23.46%</td><td rowspan=1 colspan=1>2,979</td><td rowspan=1 colspan=1>131,291,880</td><td rowspan=1 colspan=1>830,833,742</td></tr><tr><td rowspan=1 colspan=1>漢來大飯店</td><td rowspan=1 colspan=1>4,815</td><td rowspan=1 colspan=1>48,551</td><td rowspan=1 colspan=1>33.24%</td><td rowspan=1 colspan=1>2,863</td><td rowspan=1 colspan=1>138,980,195</td><td rowspan=1 colspan=1>752,715,223</td></tr><tr><td rowspan=1 colspan=1>蘭城晶英酒店</td><td rowspan=1 colspan=1>1,737</td><td rowspan=1 colspan=1>26,517</td><td rowspan=1 colspan=1>50.33%</td><td rowspan=1 colspan=1>9,425</td><td rowspan=1 colspan=1>249,932,771</td><td rowspan=1 colspan=1>576,990,250</td></tr><tr><td rowspan=1 colspan=1>臺北國賓大飯店</td><td rowspan=1 colspan=1>3,798</td><td rowspan=1 colspan=1>8,777</td><td rowspan=1 colspan=1>7.62%</td><td rowspan=1 colspan=1>2,078</td><td rowspan=1 colspan=1>18,236,582</td><td rowspan=1 colspan=1>495,693,137</td></tr></table> 資料來源：交通部觀光局行政資訊網(https://admin.taiwan.net.tw)，2022 年 01 月 05 日 各旅館平均房價是以「房租收入 客房住用數」計算 平均客房收益(RevPAR)：晶華>漢來>臺北寒舍喜來登>蘭城晶英>國賓 平均房價不變情況下，客房住房率越高，代表旅館營業狀況越好 參照 AH&LA(美國飯店業和住宿業協會)「旅館規模(Size)」分類，臺北寒舍喜來登大飯店可歸屬於「大型旅館(Large Hotel) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1779
+  }
+}

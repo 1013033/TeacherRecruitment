@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q050-79be162f3e",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 50 題",
+    "sourceFile": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md",
+    "sourceLocator": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md#offset-14382",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "文中提到 Nick 的得獎作品「ENVY ME 妒嫉」使用了 Gin 與 Vermouth 作為主要酒精來源。若以《飲料實務》中酒類三大分類的學理分析，有關這兩款酒的「製程原理」與「分類歸屬」之比較，下列何者最為正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "兩者皆屬於 Distilled Alc.，差異僅在於 Gin 主要以穀物為原料，Vermouth 則以水果為原料"
+      },
+      {
+        "id": "B",
+        "text": "Gin 屬於 Compounded Alc.，因其添加杜松子調味；Vermouth 屬於 Fermented Alc.，因其基底為 Wine"
+      },
+      {
+        "id": "C",
+        "text": "Gin 屬於 Distilled Alc.，是將發酵液經蒸餾取得高濃度酒精；Vermouth 屬於 Compounded Alc.，是以Fermented Alc.為基底浸泡香料製成"
+      },
+      {
+        "id": "D",
+        "text": "兩者皆屬於 Fermented Alc.，但 Gin 需經過橡木桶陳年才能裝瓶，Vermouth 則強調新鮮飲用 ## 【以下空白】"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：gin、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：gin、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "文中提到 Nick 的得獎作品「ENVY ME 妒嫉」使用了 Gin 與 Vermouth 作為主要酒精來源。若以《飲料實務》中酒類三大分類的學理分析，有關這兩款酒的「製程原理」與「分類歸屬」之比較，下列何者最為正確？ 兩者皆屬於 Distilled Alc.，差異僅在於 Gin 主要以穀物為原料，Vermouth 則以水果為原料 Gin 屬於 Compounded Alc.，因其添加杜松子調味；Vermouth 屬於 Fermented Alc.，因其基底為 Wine Gin 屬於 Distilled Alc.，是將發酵液經蒸餾取得高濃度酒精；Vermouth 屬於 Compounded Alc.，是以Fermented Alc.為基底浸泡香料製成 兩者皆屬於 Fermented Alc.，但 Gin 需經過橡木桶陳年才能裝瓶，Vermouth 則強調新鮮飲用 ## 【以下空白】 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 3706
+  }
+}

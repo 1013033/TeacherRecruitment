@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q010-83ae64ebe2",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 10 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-992",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "下列關於一般營業用鍋具的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "熟鐵型炒菜鍋的傳熱度比不銹鋼鍋好"
+      },
+      {
+        "id": "B",
+        "text": "使用不銹鋼鍋煮湯，湯色容易生變"
+      },
+      {
+        "id": "C",
+        "text": "材質較厚實的鍋具，傳熱較不均勻"
+      },
+      {
+        "id": "D",
+        "text": "砂鍋蓄熱力強且散熱性快"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列關於一般營業用鍋具的敘述，何者正確？ 熟鐵型炒菜鍋的傳熱度比不銹鋼鍋好 使用不銹鋼鍋煮湯，湯色容易生變 材質較厚實的鍋具，傳熱較不均勻 砂鍋蓄熱力強且散熱性快 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2403
+  }
+}

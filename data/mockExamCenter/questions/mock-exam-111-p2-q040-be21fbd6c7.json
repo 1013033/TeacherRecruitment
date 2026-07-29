@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q040-be21fbd6c7",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 40 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-5857",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是國際咖啡組織 ICO公布的咖啡五大生產國？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "越南"
+      },
+      {
+        "id": "B",
+        "text": "印度"
+      },
+      {
+        "id": "C",
+        "text": "美國"
+      },
+      {
+        "id": "D",
+        "text": "印尼"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是國際咖啡組織 ICO公布的咖啡五大生產國？ 越南 印度 美國 印尼 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2120
+  }
+}

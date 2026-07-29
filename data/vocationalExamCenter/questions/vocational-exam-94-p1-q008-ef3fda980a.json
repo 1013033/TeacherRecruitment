@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-q008-ef3fda980a",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 8 題",
+    "sourceFile": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md",
+    "sourceLocator": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md#offset-947",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "我國內政部核定的觀光節是哪一天？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "每年農曆正月十五日"
+      },
+      {
+        "id": "B",
+        "text": "每年農曆八月十五日"
+      },
+      {
+        "id": "C",
+        "text": "每年國曆十月十日"
+      },
+      {
+        "id": "D",
+        "text": "每年國曆十二月二十五日"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國內政部核定的觀光節是哪一天？ 每年農曆正月十五日 每年農曆八月十五日 每年國曆十月十日 每年國曆十二月二十五日 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 983
+  }
+}

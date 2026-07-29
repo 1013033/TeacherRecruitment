@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q035-341d0ea9c7",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 35 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-5274",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "國內外的線上旅遊業蓬勃發展，例如易遊網、燦星網等網路旅行社，下列何者不屬於此種型態的旅行社？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "internet travel agent"
+      },
+      {
+        "id": "B",
+        "text": "e-agents"
+      },
+      {
+        "id": "C",
+        "text": "incentive agent"
+      },
+      {
+        "id": "D",
+        "text": "online travel agent"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行社、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國內外的線上旅遊業蓬勃發展，例如易遊網、燦星網等網路旅行社，下列何者不屬於此種型態的旅行社？ internet travel agent e-agents incentive agent online travel agent 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 371
+  }
+}

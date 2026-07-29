@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q020-e69f2f6312",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 20 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-3294",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "小如是旅館櫃檯接待人員，當旅客前來辦理入住時，從客房狀態如表(一)的記載中，小如只能為客人安排哪一個房間？ <table><tr><td rowspan=1 colspan=1>房號</td><td rowspan=1 colspan=1>801</td><td rowspan=1 colspan=1>802</td><td rowspan=1 colspan=1>803</td><td rowspan=1 colspan=1>804</td><td rowspan=1 colspan=1>805</td><td rowspan=1 colspan=1>806</td><td rowspan=1 colspan=1>807</td></tr><tr><td rowspan=1 colspan=1>客房狀態</td><td rowspan=1 colspan=1>VD</td><td rowspan=1 colspan=1>OCC</td><td rowspan=1 colspan=1>VR</td><td rowspan=1 colspan=1>000</td><td rowspan=1 colspan=1>OC</td><td rowspan=1 colspan=1>OD</td><td rowspan=1 colspan=1>DO</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "801"
+      },
+      {
+        "id": "B",
+        "text": "803"
+      },
+      {
+        "id": "C",
+        "text": "805"
+      },
+      {
+        "id": "D",
+        "text": "807"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房、櫃檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房、櫃檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小如是旅館櫃檯接待人員，當旅客前來辦理入住時，從客房狀態如表(一)的記載中，小如只能為客人安排哪一個房間？ <table><tr><td rowspan=1 colspan=1>房號</td><td rowspan=1 colspan=1>801</td><td rowspan=1 colspan=1>802</td><td rowspan=1 colspan=1>803</td><td rowspan=1 colspan=1>804</td><td rowspan=1 colspan=1>805</td><td rowspan=1 colspan=1>806</td><td rowspan=1 colspan=1>807</td></tr><tr><td rowspan=1 colspan=1>客房狀態</td><td rowspan=1 colspan=1>VD</td><td rowspan=1 colspan=1>OCC</td><td rowspan=1 colspan=1>VR</td><td rowspan=1 colspan=1>000</td><td rowspan=1 colspan=1>OC</td><td rowspan=1 colspan=1>OD</td><td rowspan=1 colspan=1>DO</td></tr></table> 801 803 805 807 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 605
+  }
+}

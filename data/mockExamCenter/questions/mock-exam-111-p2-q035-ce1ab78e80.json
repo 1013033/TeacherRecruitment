@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q035-ce1ab78e80",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 35 題",
+    "sourceFile": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md",
+    "sourceLocator": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md#offset-8966",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "有關茶飲知識之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "臺茶12 號、18 號、21 號皆適製綠茶"
+      },
+      {
+        "id": "B",
+        "text": "清明至穀雨期間採製的茶葉品質最佳"
+      },
+      {
+        "id": "C",
+        "text": "紅烏龍的製程需應用微生物進行發酵"
+      },
+      {
+        "id": "D",
+        "text": "茶中富含兒茶素，其為茶湯色澤來源"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、綠茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、綠茶、烏龍"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關茶飲知識之敘述，下列何者正確？ 臺茶12 號、18 號、21 號皆適製綠茶 清明至穀雨期間採製的茶葉品質最佳 紅烏龍的製程需應用微生物進行發酵 茶中富含兒茶素，其為茶湯色澤來源 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2285
+  }
+}

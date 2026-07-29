@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-makeup-q038-56b3221016",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 38 題",
+    "sourceFile": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md",
+    "sourceLocator": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md#offset-3796",
+    "paperTitle": "專業科目(一)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是優秀服務人員與顧客溝通方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "笑臉相迎"
+      },
+      {
+        "id": "B",
+        "text": "傾聽顧客的意見"
+      },
+      {
+        "id": "C",
+        "text": "隨時提供最新資訊給客人"
+      },
+      {
+        "id": "D",
+        "text": "用專業術語與顧客溝通，以顯示自己的專業知識"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列何者不是優秀服務人員與顧客溝通方式？ 笑臉相迎 傾聽顧客的意見 隨時提供最新資訊給客人 用專業術語與顧客溝通，以顯示自己的專業知識 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1050
+  }
+}

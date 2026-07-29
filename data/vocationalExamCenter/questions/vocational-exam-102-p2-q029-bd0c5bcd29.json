@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q029-bd0c5bcd29",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 29 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-3885",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "關於旅館客房設備及備品之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "bed pad，正常使用時不會與住客皮膚直接接觸"
+      },
+      {
+        "id": "B",
+        "text": "sanitary bag，住客使用過後不再回收利用"
+      },
+      {
+        "id": "C",
+        "text": "sewing kit，住客使用不需額外付費"
+      },
+      {
+        "id": "D",
+        "text": "yellow pages，由住客自行填寫"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館客房設備及備品之敘述，下列何者錯誤？ bed pad，正常使用時不會與住客皮膚直接接觸 sanitary bag，住客使用過後不再回收利用 sewing kit，住客使用不需額外付費 yellow pages，由住客自行填寫 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1417
+  }
+}

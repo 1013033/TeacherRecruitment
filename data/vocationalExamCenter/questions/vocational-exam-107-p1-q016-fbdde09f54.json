@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q016-fbdde09f54",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 16 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-2564",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "依據中華民國107年2月1日修正之「旅行業管理規則」規定，關於旅行業經理人的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "旅行業經理人訓練節次為 80節課"
+      },
+      {
+        "id": "B",
+        "text": "受破產之宣告，復權尚未逾二年者，不得擔任"
+      },
+      {
+        "id": "C",
+        "text": "應為大專以上學校畢業，曾在國內外大專院校主講觀光專業課程二年以上者"
+      },
+      {
+        "id": "D",
+        "text": "曾犯組織犯罪防制條例規定之罪，經有罪判決確定，服刑期滿尚未逾二年者，不得擔任"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據中華民國107年2月1日修正之「旅行業管理規則」規定，關於旅行業經理人的敘述，下列何者正確？ 旅行業經理人訓練節次為 80節課 受破產之宣告，復權尚未逾二年者，不得擔任 應為大專以上學校畢業，曾在國內外大專院校主講觀光專業課程二年以上者 曾犯組織犯罪防制條例規定之罪，經有罪判決確定，服刑期滿尚未逾二年者，不得擔任 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 353
+  }
+}

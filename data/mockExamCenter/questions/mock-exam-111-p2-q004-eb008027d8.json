@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q004-eb008027d8",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 4 題",
+    "sourceFile": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-452",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "有關轉檯與圓形桌使用原則，下列敘述何者較不適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "圓形桌面直徑 150公分以上，需設置轉檯"
+      },
+      {
+        "id": "B",
+        "text": "顧客使用餐桌面積約為60公分 30 公分"
+      },
+      {
+        "id": "C",
+        "text": "轉檯尺寸較圓桌面直徑小於 60公分"
+      },
+      {
+        "id": "D",
+        "text": "架設轉檯的時機是顧客入座後"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關轉檯與圓形桌使用原則，下列敘述何者較不適當？ 圓形桌面直徑 150公分以上，需設置轉檯 顧客使用餐桌面積約為60公分 30 公分 轉檯尺寸較圓桌面直徑小於 60公分 架設轉檯的時機是顧客入座後 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1901
+  }
+}

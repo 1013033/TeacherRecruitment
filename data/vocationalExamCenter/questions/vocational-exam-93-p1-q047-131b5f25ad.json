@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q047-131b5f25ad",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 47 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-6110",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "餐飲服務類型中，法式服務(FrenchService)與英式服務(English Service)之比較，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "皆屬於銀盤/器式(Silver Service)服務"
+      },
+      {
+        "id": "B",
+        "text": "服務員不需秀菜給客人，法式服務（FrenchService）由服務員分菜給客人，英式服務(English Service）由客人自行取菜"
+      },
+      {
+        "id": "C",
+        "text": "操作法式服務（French Service）的服務人員，比操作英式服務（English Service）的服務人員更需具備熟練的分菜技巧"
+      },
+      {
+        "id": "D",
+        "text": "運用法式服務（French Service）分配給每位客人之菜量，比英式服務(English Service更易掌握且均匀"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲服務類型中，法式服務(FrenchService)與英式服務(English Service)之比較，下列敘述何者正確？ 皆屬於銀盤/器式(Silver Service)服務 服務員不需秀菜給客人，法式服務（FrenchService）由服務員分菜給客人，英式服務(English Service）由客人自行取菜 操作法式服務（French Service）的服務人員，比操作英式服務（English Service）的服務人員更需具備熟練的分菜技巧 運用法式服務（French Service）分配給每位客人之菜量，比英式服務(English Service更易掌握且均匀 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 972
+  }
+}

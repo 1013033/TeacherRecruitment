@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p1-q036-5d15031898",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 36 題",
+    "sourceFile": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md#offset-8820",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "臺灣簽證共分為四類，擬定停留6個月以內，有效期限最長不超過5 年，目的包括考察、觀光、探親、研習、聘僱等，請問是屬於哪一類簽證？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Diplomatic Visa"
+      },
+      {
+        "id": "B",
+        "text": "Resident Visa"
+      },
+      {
+        "id": "C",
+        "text": "Visitor Visa"
+      },
+      {
+        "id": "D",
+        "text": "Courtesy Visa"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：簽證"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：簽證"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣簽證共分為四類，擬定停留6個月以內，有效期限最長不超過5 年，目的包括考察、觀光、探親、研習、聘僱等，請問是屬於哪一類簽證？ Diplomatic Visa Resident Visa Visitor Visa Courtesy Visa 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2506
+  }
+}

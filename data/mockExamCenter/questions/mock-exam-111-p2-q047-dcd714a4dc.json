@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q047-dcd714a4dc",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 47 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-6815",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "承上題，「Jim & Dad」的服務員發現客人珮珮在 Hanging Menu 找深啤酒的蹤影，因此立即替自家啤酒做介紹，請問下列何者符合深色啤酒(上層發酵法)的特色？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "啤酒顏色淺、酒精濃度較低"
+      },
+      {
+        "id": "B",
+        "text": "麥芽焦化淡、口感清爽"
+      },
+      {
+        "id": "C",
+        "text": "代表的啤酒有 Lager、Pilsner"
+      },
+      {
+        "id": "D",
+        "text": "常見工業啤酒如德國 Beck’s、愛爾蘭 Guinness"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：啤酒、gin、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：啤酒、gin、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "承上題，「Jim & Dad」的服務員發現客人珮珮在 Hanging Menu 找深啤酒的蹤影，因此立即替自家啤酒做介紹，請問下列何者符合深色啤酒(上層發酵法)的特色？ 啤酒顏色淺、酒精濃度較低 麥芽焦化淡、口感清爽 代表的啤酒有 Lager、Pilsner 常見工業啤酒如德國 Beck’s、愛爾蘭 Guinness 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2127
+  }
+}

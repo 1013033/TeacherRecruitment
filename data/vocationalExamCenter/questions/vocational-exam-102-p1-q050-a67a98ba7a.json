@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q050-a67a98ba7a",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 50 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-7199",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "今年石斑魚產量大豐收，阿滿餐廳一口氣購買 50尾(每尾重 1.5公斤)，並以每公斤 60元的價格購進，但經處理後，剩 45公斤可食用；又每一份石斑魚排在烹調前是 400公克，經烹調後，服務上桌的份量為 388 公克。試問總量的切割耗損率與每一份魚排的產出率各為多少？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "60 %、97 %"
+      },
+      {
+        "id": "B",
+        "text": "50 %、86 %"
+      },
+      {
+        "id": "C",
+        "text": "40 %、97 %"
+      },
+      {
+        "id": "D",
+        "text": "30 %、86 % 【以下空白】 <sup>餐旅群</sup> <sup>專業科目(一)</sup> 公告試題僅供參考"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "今年石斑魚產量大豐收，阿滿餐廳一口氣購買 50尾(每尾重 1.5公斤)，並以每公斤 60元的價格購進，但經處理後，剩 45公斤可食用；又每一份石斑魚排在烹調前是 400公克，經烹調後，服務上桌的份量為 388 公克。試問總量的切割耗損率與每一份魚排的產出率各為多少？ 60 %、97 % 50 %、86 % 40 %、97 % 30 %、86 % 【以下空白】 <sup>餐旅群</sup> <sup>專業科目(一)</sup> 公告試題僅供參考 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 140
+  }
+}

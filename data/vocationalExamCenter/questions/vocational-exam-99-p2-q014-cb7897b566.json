@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q014-cb7897b566",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 14 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-1981",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列哪些服務方式需要使用大銀盤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "American service、English service、French service"
+      },
+      {
+        "id": "B",
+        "text": "American service、English service、Russian service"
+      },
+      {
+        "id": "C",
+        "text": "American service、French service、Russian service"
+      },
+      {
+        "id": "D",
+        "text": "English service、French service、Russian service"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些服務方式需要使用大銀盤？ American service、English service、French service American service、English service、Russian service American service、French service、Russian service English service、French service、Russian service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2506
+  }
+}

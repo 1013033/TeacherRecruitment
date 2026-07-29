@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q040-bfde025ac8",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 40 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-5155",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "餐飲業制定材料標準消耗量的方法中，根據以往實際物料消耗的歷史資料，例如：每公斤生雞翅可出成品量爲0.8公斤，每份辣醬雞翅的重量是0.8公斤，若當日銷售20份，則用料20公斤。得知上述消耗定額的方式稱之爲：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "經驗分析法"
+      },
+      {
+        "id": "B",
+        "text": "統計分析法"
+      },
+      {
+        "id": "C",
+        "text": "技術分析法"
+      },
+      {
+        "id": "D",
+        "text": "最經濟訂貨量（EOQ）"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲業制定材料標準消耗量的方法中，根據以往實際物料消耗的歷史資料，例如：每公斤生雞翅可出成品量爲0.8公斤，每份辣醬雞翅的重量是0.8公斤，若當日銷售20份，則用料20公斤。得知上述消耗定額的方式稱之爲： 經驗分析法 統計分析法 技術分析法 最經濟訂貨量（EOQ） 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 965
+  }
+}

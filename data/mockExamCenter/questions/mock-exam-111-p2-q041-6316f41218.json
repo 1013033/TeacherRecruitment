@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q041-6316f41218",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 41 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-8512",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "小樺是剛接觸咖啡種植的咖啡農，有關咖啡種植與生長的環境，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡種植在低海拔地區的品質較高海拔地區好"
+      },
+      {
+        "id": "B",
+        "text": "年雨量200\\~600公釐的地區不會影響咖啡產量"
+      },
+      {
+        "id": "C",
+        "text": "咖啡樹的生長應在半日照環境，避免樹木的光合作用降低"
+      },
+      {
+        "id": "D",
+        "text": "咖啡生長在南北緯40\\~50度的地區"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小樺是剛接觸咖啡種植的咖啡農，有關咖啡種植與生長的環境，下列敘述何者正確？ 咖啡種植在低海拔地區的品質較高海拔地區好 年雨量200\\~600公釐的地區不會影響咖啡產量 咖啡樹的生長應在半日照環境，避免樹木的光合作用降低 咖啡生長在南北緯40\\~50度的地區 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2191
+  }
+}

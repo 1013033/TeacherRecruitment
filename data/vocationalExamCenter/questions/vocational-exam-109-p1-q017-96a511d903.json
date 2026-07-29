@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q017-96a511d903",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 17 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-2493",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種餐飲服務方式，服務人員於現場服勤時，所需使用的器具較多？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "counter service"
+      },
+      {
+        "id": "B",
+        "text": "American style service"
+      },
+      {
+        "id": "C",
+        "text": "guéridon service"
+      },
+      {
+        "id": "D",
+        "text": "English style service"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種餐飲服務方式，服務人員於現場服勤時，所需使用的器具較多？ counter service American style service guéridon service English style service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 453
+  }
+}

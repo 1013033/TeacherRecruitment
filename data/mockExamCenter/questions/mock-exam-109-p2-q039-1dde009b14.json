@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q039-1dde009b14",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 39 題",
+    "sourceFile": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md",
+    "sourceLocator": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md#offset-7057",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "在小壺泡茶時，下列何者可用來平均茶湯濃淡使用？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "茶壺"
+      },
+      {
+        "id": "B",
+        "text": "茶船"
+      },
+      {
+        "id": "C",
+        "text": "茶盅"
+      },
+      {
+        "id": "D",
+        "text": "茶荷"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在小壺泡茶時，下列何者可用來平均茶湯濃淡使用？ 茶壺 茶船 茶盅 茶荷 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1086
+  }
+}

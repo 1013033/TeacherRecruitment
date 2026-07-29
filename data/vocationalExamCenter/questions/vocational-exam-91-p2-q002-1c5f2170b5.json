@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q002-1c5f2170b5",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 2 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-334",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "餐廳客人點牛排時，烹調「七分熟」的專業術語為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Medium Well"
+      },
+      {
+        "id": "B",
+        "text": "Medium Rare"
+      },
+      {
+        "id": "C",
+        "text": "Medium Raw"
+      },
+      {
+        "id": "D",
+        "text": "Well Done"
+      }
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "餐廳客人點牛排時，烹調「七分熟」的專業術語為： Medium Well Medium Rare Medium Raw Well Done 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2055
+  }
+}

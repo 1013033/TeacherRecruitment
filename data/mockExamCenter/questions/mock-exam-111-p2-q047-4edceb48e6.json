@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q047-4edceb48e6",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 47 題",
+    "sourceFile": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-7098",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "有關茶葉主要成分茶多酚，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "茶中富含多酚類化合物，單寧酸(又稱茶單寧)是茶葉甘味的主要來源"
+      },
+      {
+        "id": "B",
+        "text": "單寧酸的含量會隨著發酵程度越輕而遞減"
+      },
+      {
+        "id": "C",
+        "text": "日照越強，單寧酸含量越高，苦澀味就會加重"
+      },
+      {
+        "id": "D",
+        "text": "四個採收季節春、夏、秋、冬，以春茶的茶單寧含量最高"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關茶葉主要成分茶多酚，下列敘述何者正確？ 茶中富含多酚類化合物，單寧酸(又稱茶單寧)是茶葉甘味的主要來源 單寧酸的含量會隨著發酵程度越輕而遞減 日照越強，單寧酸含量越高，苦澀味就會加重 四個採收季節春、夏、秋、冬，以春茶的茶單寧含量最高 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1933
+  }
+}

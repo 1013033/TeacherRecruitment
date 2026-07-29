@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q031-6d3536b024",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 31 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-7109",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "萱瑜在飲料店打工，客人點了重焙烏龍拿鐵；關於萱瑜對飲品的介紹，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以部分發酵的青茶中的熟茶為基底，再添加鮮乳製作而成"
+      },
+      {
+        "id": "B",
+        "text": "以部分發酵的烏龍茶之生茶為基底，再添加鮮乳製作而成"
+      },
+      {
+        "id": "C",
+        "text": "以不發酵的烏龍茶為基底，再添加咖啡製作而成"
+      },
+      {
+        "id": "D",
+        "text": "以不發酵的白茶作為基底，再添加咖啡製作而成"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡、茶、烏龍、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡、茶、烏龍、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "萱瑜在飲料店打工，客人點了重焙烏龍拿鐵；關於萱瑜對飲品的介紹，下列何者正確？ 以部分發酵的青茶中的熟茶為基底，再添加鮮乳製作而成 以部分發酵的烏龍茶之生茶為基底，再添加鮮乳製作而成 以不發酵的烏龍茶為基底，再添加咖啡製作而成 以不發酵的白茶作為基底，再添加咖啡製作而成 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2036
+  }
+}

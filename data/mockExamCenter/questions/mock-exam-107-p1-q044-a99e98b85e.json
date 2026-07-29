@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q044-a99e98b85e",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 44 題",
+    "sourceFile": "107\\output\\117-4專一試題\\auto\\117-4專一試題.md",
+    "sourceLocator": "107\\output\\117-4專一試題\\auto\\117-4專一試題.md#offset-5281",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "中華民國護照由外交部領事事務局核發，「普通護照」若是遺失補發，未滿十四歲者，其核發效期年限為多少年？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "10 年"
+      },
+      {
+        "id": "B",
+        "text": "5 年"
+      },
+      {
+        "id": "C",
+        "text": "3 年"
+      },
+      {
+        "id": "D",
+        "text": "一年六個月"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：護照"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中華民國護照由外交部領事事務局核發，「普通護照」若是遺失補發，未滿十四歲者，其核發效期年限為多少年？ 10 年 5 年 3 年 一年六個月 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 300
+  }
+}

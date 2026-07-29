@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q048-99fdc47bec",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 48 題",
+    "sourceFile": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md",
+    "sourceLocator": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md#offset-13753",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "下列經典雞尾酒中有幾款並未使用到六大基酒？甲、B52 Shot 乙、Kir 丙、Angel’s kiss 丁、Martini 戊、Bellini 己、Singapore Sling",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "1 款"
+      },
+      {
+        "id": "B",
+        "text": "2 款"
+      },
+      {
+        "id": "C",
+        "text": "3 款"
+      },
+      {
+        "id": "D",
+        "text": "4 款"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：martini"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：martini"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列經典雞尾酒中有幾款並未使用到六大基酒？甲、B52 Shot 乙、Kir 丙、Angel’s kiss 丁、Martini 戊、Bellini 己、Singapore Sling 1 款 2 款 3 款 4 款 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1845
+  }
+}

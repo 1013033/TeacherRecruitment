@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q028-3cdaaba42f",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 28 題",
+    "sourceFile": "107\\output\\117-2專二試題\\auto\\117-2專二試題.md",
+    "sourceLocator": "107\\output\\117-2專二試題\\auto\\117-2專二試題.md#offset-5200",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "由於餐廳事先已為傑倫預約的餐桌擺設基本餐具，請問服務員點餐後應該為哪位客人重新調整餐具？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "傑倫媽媽"
+      },
+      {
+        "id": "C",
+        "text": "昆玲"
+      },
+      {
+        "id": "D",
+        "text": "傑倫、傑倫媽媽及昆玲"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "由於餐廳事先已為傑倫預約的餐桌擺設基本餐具，請問服務員點餐後應該為哪位客人重新調整餐具？ 傑倫媽媽 昆玲 傑倫、傑倫媽媽及昆玲 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 146
+  }
+}

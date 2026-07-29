@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p2-q049-003d6eeac3",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 49 題",
+    "sourceFile": "113\\output\\113-5-四技二專-17餐旅群專二試題\\auto\\113-5-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "113\\output\\113-5-四技二專-17餐旅群專二試題\\auto\\113-5-四技二專-17餐旅群專二試題.md#offset-10845",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "ocktail 是一種由酒精、果汁、糖漿、香料及其他配料混合而成的飲品。根據不同的基酒、酒精濃度和風味，品項種類繁多，下列與其相關之敘述，何者正確？ <table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Cocktail</td><td rowspan=1 colspan=1>Base Wine</td><td rowspan=1 colspan=1>Garnish</td><td rowspan=1 colspan=1>Glassware</td></tr><tr><td rowspan=1 colspan=1>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "</td><td rowspan=1 colspan=1>Martini</td><td rowspan=1 colspan=1>Rosso Vermouth</td><td rowspan=1 colspan=1>Olive or Lemon Spiral</td><td rowspan=1 colspan=1>Martini Glass</td></tr><tr><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "B",
+        "text": "</td><td rowspan=1 colspan=1>Mojito</td><td rowspan=1 colspan=1>White Rum</td><td rowspan=1 colspan=1>Mint Sprig</td><td rowspan=1 colspan=1>Highball Glass</td></tr><tr><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "C",
+        "text": "</td><td rowspan=1 colspan=1>Screw Driver</td><td rowspan=1 colspan=1>Tequila</td><td rowspan=1 colspan=1>Orange Slice</td><td rowspan=1 colspan=1>Collins Glass</td></tr><tr><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "D",
+        "text": "</td><td rowspan=1 colspan=1>Manhattan</td><td rowspan=1 colspan=1>Canadian Whisky</td><td rowspan=1 colspan=1>Pearl Onion</td><td rowspan=1 colspan=1>Cocktail Glass</td></tr></table>"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：rum、tequila、cocktail、martini、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：rum、tequila、cocktail、martini、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "ocktail 是一種由酒精、果汁、糖漿、香料及其他配料混合而成的飲品。根據不同的基酒、酒精濃度和風味，品項種類繁多，下列與其相關之敘述，何者正確？ <table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Cocktail</td><td rowspan=1 colspan=1>Base Wine</td><td rowspan=1 colspan=1>Garnish</td><td rowspan=1 colspan=1>Glassware</td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>Martini</td><td rowspan=1 colspan=1>Rosso Vermouth</td><td rowspan=1 colspan=1>Olive or Lemon Spiral</td><td rowspan=1 colspan=1>Martini Glass</td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>Mojito</td><td rowspan=1 colspan=1>White Rum</td><td rowspan=1 colspan=1>Mint Sprig</td><td rowspan=1 colspan=1>Highball Glass</td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>Screw Driver</td><td rowspan=1 colspan=1>Tequila</td><td rowspan=1 colspan=1>Orange Slice</td><td rowspan=1 colspan=1>Collins Glass</td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>Manhattan</td><td rowspan=1 colspan=1>Canadian Whisky</td><td rowspan=1 colspan=1>Pearl Onion</td><td rowspan=1 colspan=1>Cocktail Glass</td></tr></table> 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 3228
+  }
+}

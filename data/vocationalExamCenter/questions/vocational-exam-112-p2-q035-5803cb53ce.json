@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p2-q035-5803cb53ce",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 35 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-7333",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "小賴是紅茶愛好者，進口世界各地紅茶開設了一家紅茶專賣店。某天下午一位顧客來電，想要宅配兩款紅茶，一款為調味的紅茶做為日常家人飲用，一款號稱為香檳紅茶做為送禮使用。小賴要協助顧客挑選哪兩款紅茶是正確的？甲：Assam Tea乙：Darjeeling Tea丙：Uva Tea丁：Earl Grey Tea戊：Nuwara Eliya Tea",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、戊"
+      },
+      {
+        "id": "D",
+        "text": "丙、戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小賴是紅茶愛好者，進口世界各地紅茶開設了一家紅茶專賣店。某天下午一位顧客來電，想要宅配兩款紅茶，一款為調味的紅茶做為日常家人飲用，一款號稱為香檳紅茶做為送禮使用。小賴要協助顧客挑選哪兩款紅茶是正確的？甲：Assam Tea乙：Darjeeling Tea丙：Uva Tea丁：Earl Grey Tea戊：Nuwara Eliya Tea 甲、丙 乙、丁 乙、戊 丙、戊 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1894
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p1-q007-1daa7555cf",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 7 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-1738",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "營養師小惠任職於南部某大型科技園區的團膳員工餐廳。為使送餐車與工作人員在通道中移動順暢，小惠建議廚房配置如圖 ( 三 )：設備應靠牆擺放、熱源烹調設備則分置兩側、中間設置調理桌並保留寬敞通道。此種廚房配置屬於下列何者？",
+    "images": [
+      {
+        "id": "vocational-exam-115-p1-q007-1daa7555cf-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-115-p1-q007-1daa7555cf-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "L型排列<sup>"
+      },
+      {
+        "id": "B",
+        "text": "</sup> <sup>直線型排列</sup>"
+      },
+      {
+        "id": "C",
+        "text": "面對面平行排列 ●Q● 熱源設備"
+      },
+      {
+        "id": "D",
+        "text": "背對背平行排列 ## 圖(三)"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "營養師小惠任職於南部某大型科技園區的團膳員工餐廳。為使送餐車與工作人員在通道中移動順暢，小惠建議廚房配置如圖 ( 三 )：設備應靠牆擺放、熱源烹調設備則分置兩側、中間設置調理桌並保留寬敞通道。此種廚房配置屬於下列何者？ L型排列<sup> </sup> <sup>直線型排列</sup> 面對面平行排列 ●Q● 熱源設備 背對背平行排列 ## 圖(三) 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 742
+  }
+}

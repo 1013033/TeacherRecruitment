@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q030-96ef3ef909",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 30 題",
+    "sourceFile": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md",
+    "sourceLocator": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md#offset-5216",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "當住客有換房需求，而進行更換房間時，哪一位飯店職務不是其協助的人員？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Front Desk Clerk"
+      },
+      {
+        "id": "B",
+        "text": "Bell Man"
+      },
+      {
+        "id": "C",
+        "text": "Housekeeper"
+      },
+      {
+        "id": "D",
+        "text": "Office Clerk"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "當住客有換房需求，而進行更換房間時，哪一位飯店職務不是其協助的人員？ Front Desk Clerk Bell Man Housekeeper Office Clerk 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 426
+  }
+}

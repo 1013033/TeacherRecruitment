@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q047-20d14f529e",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 47 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-11566",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "飲料單中所使用的材料，若依照無糖液態鮮奶油、鮮奶、乳酸菌飲料和紅茶包之順序，其對應的飲料名稱排序下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "冰奇異多果汁→冰珍珠奶茶→冰金桔茶→冰奶蓋紅茶"
+      },
+      {
+        "id": "B",
+        "text": "冰珍珠奶茶→冰木瓜牛奶→冰奇異多果汁→冰奶蓋紅茶"
+      },
+      {
+        "id": "C",
+        "text": "冰木瓜牛奶→冰奶蓋紅茶→冰奇異多果汁→冰珍珠奶茶"
+      },
+      {
+        "id": "D",
+        "text": "冰奶蓋紅茶→冰木瓜牛奶→冰奇異多果汁→冰金桔茶"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "飲料單中所使用的材料，若依照無糖液態鮮奶油、鮮奶、乳酸菌飲料和紅茶包之順序，其對應的飲料名稱排序下列何者正確？ 冰奇異多果汁→冰珍珠奶茶→冰金桔茶→冰奶蓋紅茶 冰珍珠奶茶→冰木瓜牛奶→冰奇異多果汁→冰奶蓋紅茶 冰木瓜牛奶→冰奶蓋紅茶→冰奇異多果汁→冰珍珠奶茶 冰奶蓋紅茶→冰木瓜牛奶→冰奇異多果汁→冰金桔茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2052
+  }
+}

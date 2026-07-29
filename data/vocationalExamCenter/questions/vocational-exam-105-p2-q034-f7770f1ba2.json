@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p2-q034-f7770f1ba2",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(二) 第 34 題",
+    "sourceFile": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md",
+    "sourceLocator": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md#offset-4892",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "一般而言，茶葉品質從高到低之排列順序，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "春茶、夏茶、秋茶、冬茶"
+      },
+      {
+        "id": "B",
+        "text": "春茶、冬茶、秋茶、夏茶"
+      },
+      {
+        "id": "C",
+        "text": "冬茶、春茶、夏茶、秋茶"
+      },
+      {
+        "id": "D",
+        "text": "冬茶、春茶、秋茶、夏茶"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一般而言，茶葉品質從高到低之排列順序，何者正確？ 春茶、夏茶、秋茶、冬茶 春茶、冬茶、秋茶、夏茶 冬茶、春茶、夏茶、秋茶 冬茶、春茶、秋茶、夏茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1571
+  }
+}

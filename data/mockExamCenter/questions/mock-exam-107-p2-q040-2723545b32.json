@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q040-2723545b32",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 40 題",
+    "sourceFile": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md",
+    "sourceLocator": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md#offset-6744",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "有關影響咖啡因含量的項目，下列何者不正確？ <table><tr><td rowspan=2 colspan=2>項目</td><td rowspan=1 colspan=2>咖啡因含量</td></tr><tr><td rowspan=1 colspan=1>多</td><td rowspan=1 colspan=1>少</td></tr><tr><td rowspan=1 colspan=1>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "</td><td rowspan=1 colspan=1>萃取時間</td><td rowspan=1 colspan=1>長</td><td rowspan=1 colspan=1>短</td></tr><tr><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "B",
+        "text": "</td><td rowspan=1 colspan=1>研磨程度</td><td rowspan=1 colspan=1>細</td><td rowspan=1 colspan=1>粗</td></tr><tr><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "C",
+        "text": "</td><td rowspan=1 colspan=1>烘焙程度</td><td rowspan=1 colspan=1>輕 O</td><td rowspan=1 colspan=1>重 </td></tr><tr><td rowspan=1 colspan=1>"
+      },
+      {
+        "id": "D",
+        "text": "</td><td rowspan=1 colspan=1>水溫</td><td rowspan=1 colspan=1>低</td><td rowspan=1 colspan=1>高</td></tr></table>"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關影響咖啡因含量的項目，下列何者不正確？ <table><tr><td rowspan=2 colspan=2>項目</td><td rowspan=1 colspan=2>咖啡因含量</td></tr><tr><td rowspan=1 colspan=1>多</td><td rowspan=1 colspan=1>少</td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>萃取時間</td><td rowspan=1 colspan=1>長</td><td rowspan=1 colspan=1>短</td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>研磨程度</td><td rowspan=1 colspan=1>細</td><td rowspan=1 colspan=1>粗</td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>烘焙程度</td><td rowspan=1 colspan=1>輕 O</td><td rowspan=1 colspan=1>重 </td></tr><tr><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1>水溫</td><td rowspan=1 colspan=1>低</td><td rowspan=1 colspan=1>高</td></tr></table> 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 435
+  }
+}

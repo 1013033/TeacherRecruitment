@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q043-ac7ab9d6b8",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 43 題",
+    "sourceFile": "107\\output\\117-1專一試題\\auto\\117-1專一試題.md",
+    "sourceLocator": "107\\output\\117-1專一試題\\auto\\117-1專一試題.md#offset-6380",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "如以人工方式進行餐具清洗，其正確之洗滌流程為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Scrape→Pre-Wash→Wash→Rinse→Sanitize→Air-Dried"
+      },
+      {
+        "id": "B",
+        "text": "Air-Dried→Wash→Pre-Wash→Sanitize→Rinse→Scrape"
+      },
+      {
+        "id": "C",
+        "text": "Air-Dried→Pre-Wash→Wash→Rinse→Sanitize→Scrape"
+      },
+      {
+        "id": "D",
+        "text": "Scrape→Wash→Pre-Wash→Sanitize→Rinse→Air-Dried"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "如以人工方式進行餐具清洗，其正確之洗滌流程為何？ Scrape→Pre-Wash→Wash→Rinse→Sanitize→Air-Dried Air-Dried→Wash→Pre-Wash→Sanitize→Rinse→Scrape Air-Dried→Pre-Wash→Wash→Rinse→Sanitize→Scrape Scrape→Wash→Pre-Wash→Sanitize→Rinse→Air-Dried 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 42
+  }
+}

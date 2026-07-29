@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p2-q044-7f8589f6f3",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 44 題",
+    "sourceFile": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md",
+    "sourceLocator": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md#offset-7854",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "關於使用半自動義式咖啡機的相關敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "若咖啡粉磨得太細，可能造成萃取過度"
+      },
+      {
+        "id": "B",
+        "text": "若填壓咖啡粉力道過大，容易造成萃取不足"
+      },
+      {
+        "id": "C",
+        "text": "正確操作時，原則上新鮮咖啡豆可萃取出黑色的 crema"
+      },
+      {
+        "id": "D",
+        "text": "萃取咖啡之後，須按壓萃取按鈕來測試水壓及清潔出水口"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於使用半自動義式咖啡機的相關敘述，下列何者正確？ 若咖啡粉磨得太細，可能造成萃取過度 若填壓咖啡粉力道過大，容易造成萃取不足 正確操作時，原則上新鮮咖啡豆可萃取出黑色的 crema 萃取咖啡之後，須按壓萃取按鈕來測試水壓及清潔出水口 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1680
+  }
+}

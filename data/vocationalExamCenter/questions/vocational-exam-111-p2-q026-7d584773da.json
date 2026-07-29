@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q026-7d584773da",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 26 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-5351",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "下列吧檯設計與設備的相關敘述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "ice scoop 及 ice tongs 應收納放置於 ice bin 中"
+      },
+      {
+        "id": "B",
+        "text": "以按壓方式打出碳酸飲料的設備稱為soda gun"
+      },
+      {
+        "id": "C",
+        "text": "常用來放置 house brand 基酒之設備稱為 speed rack"
+      },
+      {
+        "id": "D",
+        "text": "將酒水或杯皿陳列放置於back bar上層可具有展示功能"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：bar、吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：bar、吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列吧檯設計與設備的相關敘述，何者錯誤？ ice scoop 及 ice tongs 應收納放置於 ice bin 中 以按壓方式打出碳酸飲料的設備稱為soda gun 常用來放置 house brand 基酒之設備稱為 speed rack 將酒水或杯皿陳列放置於back bar上層可具有展示功能 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1835
+  }
+}

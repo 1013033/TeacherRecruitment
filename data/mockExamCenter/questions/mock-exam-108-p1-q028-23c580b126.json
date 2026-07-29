@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q028-23c580b126",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 28 題",
+    "sourceFile": "108\\output\\118-2專一試題\\auto\\118-2專一試題.md",
+    "sourceLocator": "108\\output\\118-2專一試題\\auto\\118-2專一試題.md#offset-4378",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "下列西餐烹調技法中，未使用混合焦化與軟化烹調者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Braising"
+      },
+      {
+        "id": "B",
+        "text": "Poaching"
+      },
+      {
+        "id": "C",
+        "text": "Stewing"
+      },
+      {
+        "id": "D",
+        "text": "Glaze"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：烹調、西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：烹調、西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列西餐烹調技法中，未使用混合焦化與軟化烹調者為何？ Braising Poaching Stewing Glaze 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 564
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q043-8b90cbcdd8",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 43 題",
+    "sourceFile": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md",
+    "sourceLocator": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md#offset-7332",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "陳董在公司三十週年紀念日表示，今年將會在中秋節送每位員工一款他個人很喜歡的酒，它是一種蒸餾酒，以穀物為原枓，有木桶的熟成風味，喝起來帶點煙燻的味，酒香濃郁，酒質強勁，很適合純飲，也可以調酒，請問陳董要送哪一種酒給員工？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Scotch Whisky"
+      },
+      {
+        "id": "B",
+        "text": "Cognac"
+      },
+      {
+        "id": "C",
+        "text": "London Gin"
+      },
+      {
+        "id": "D",
+        "text": "Tequila"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：gin、tequila、調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：gin、tequila、調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "陳董在公司三十週年紀念日表示，今年將會在中秋節送每位員工一款他個人很喜歡的酒，它是一種蒸餾酒，以穀物為原枓，有木桶的熟成風味，喝起來帶點煙燻的味，酒香濃郁，酒質強勁，很適合純飲，也可以調酒，請問陳董要送哪一種酒給員工？ Scotch Whisky Cognac London Gin Tequila 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 906
+  }
+}

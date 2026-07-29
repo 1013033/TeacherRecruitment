@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q039-31992b3d6f",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 39 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-5617",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項飲品不含咖啡因( caffeine )成份？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "cola"
+      },
+      {
+        "id": "B",
+        "text": "tonic water"
+      },
+      {
+        "id": "C",
+        "text": "jasmine tea"
+      },
+      {
+        "id": "D",
+        "text": "hot cacao"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項飲品不含咖啡因( caffeine )成份？ cola tonic water jasmine tea hot cacao 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2523
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p1-q046-6dd9af9561",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(一) 第 46 題",
+    "sourceFile": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md",
+    "sourceLocator": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md#offset-4157",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "國際觀光旅館餐飲部由何人負責菜單設計？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "行政主廚"
+      },
+      {
+        "id": "B",
+        "text": "廚師"
+      },
+      {
+        "id": "C",
+        "text": "外場經理"
+      },
+      {
+        "id": "D",
+        "text": "外場領班"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國際觀光旅館餐飲部由何人負責菜單設計？ 行政主廚 廚師 外場經理 外場領班 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 921
+  }
+}

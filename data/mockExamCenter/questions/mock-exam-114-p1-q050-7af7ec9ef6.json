@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q050-7af7ec9ef6",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 50 題",
+    "sourceFile": "114\\output\\114-5專一試題\\auto\\114-5專一試題.md",
+    "sourceLocator": "114\\output\\114-5專一試題\\auto\\114-5專一試題.md#offset-12930",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "馥馨文旅於 2026 年 3 月 27 日(星期五)營業概況如表(二)所示，其客房總數為 180 間，則當日住房率及客房平均房價為何？(四捨五入至整數) 表(二) <table><tr><td rowspan=1 colspan=1>當日住房數量</td><td rowspan=1 colspan=1>當日住客總人數</td><td rowspan=1 colspan=1>當日客房總收入</td></tr><tr><td rowspan=1 colspan=1>130間</td><td rowspan=1 colspan=1>270人</td><td rowspan=1 colspan=1>364,000元</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "48%；1,348 元"
+      },
+      {
+        "id": "B",
+        "text": "56%；1,788 元"
+      },
+      {
+        "id": "C",
+        "text": "68%；2,380 元"
+      },
+      {
+        "id": "D",
+        "text": "72%；2,800 元 【以下空白】"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：客房、房價"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：客房、房價"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "馥馨文旅於 2026 年 3 月 27 日(星期五)營業概況如表(二)所示，其客房總數為 180 間，則當日住房率及客房平均房價為何？(四捨五入至整數) 表(二) <table><tr><td rowspan=1 colspan=1>當日住房數量</td><td rowspan=1 colspan=1>當日住客總人數</td><td rowspan=1 colspan=1>當日客房總收入</td></tr><tr><td rowspan=1 colspan=1>130間</td><td rowspan=1 colspan=1>270人</td><td rowspan=1 colspan=1>364,000元</td></tr></table> 48%；1,348 元 56%；1,788 元 68%；2,380 元 72%；2,800 元 【以下空白】 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 3656
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q023-3de356e9d4",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 23 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-4465",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "有關餐飲業外場從業人員工作職責之敘述，下列何者正確？甲、Chef de Cuisine：負責對住宿房客提供客房內的餐食及飲料服務乙、Restaurant Manager：維持餐廳營運，訓練新進人員，培養基層幹部丙、Chef de Vin：負責餐廳內各種飲料的選用、管理、調製和促銷丁、Hostess：負責訂位檯的整齊與清潔，引導客人至適當座位",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "D",
+        "text": "甲丙丁"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業、chef"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業、chef"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐飲業外場從業人員工作職責之敘述，下列何者正確？甲、Chef de Cuisine：負責對住宿房客提供客房內的餐食及飲料服務乙、Restaurant Manager：維持餐廳營運，訓練新進人員，培養基層幹部丙、Chef de Vin：負責餐廳內各種飲料的選用、管理、調製和促銷丁、Hostess：負責訂位檯的整齊與清潔，引導客人至適當座位 乙丙 乙丁 甲乙丙 甲丙丁 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1870
+  }
+}

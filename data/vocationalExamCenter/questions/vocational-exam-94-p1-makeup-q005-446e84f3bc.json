@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-makeup-q005-446e84f3bc",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 5 題",
+    "sourceFile": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md",
+    "sourceLocator": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md#offset-652",
+    "paperTitle": "專業科目(一)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "我國中正國際機場的機場代號 ( airport code ) 是：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "CYI"
+      },
+      {
+        "id": "B",
+        "text": "HUN"
+      },
+      {
+        "id": "C",
+        "text": "KHH"
+      },
+      {
+        "id": "D",
+        "text": "TPE"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "我國中正國際機場的機場代號 ( airport code ) 是： CYI HUN KHH TPE 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1019
+  }
+}

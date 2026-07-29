@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p2-q023-59931c98a4",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(二) 第 23 題",
+    "sourceFile": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md",
+    "sourceLocator": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md#offset-3336",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "關於旅館鑰匙使用上的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "emergency key 可於緊急情況時開啟 chain lock 反鎖之客房"
+      },
+      {
+        "id": "B",
+        "text": "floor master key通常由房務員持有，僅能開啟當樓層未反鎖之客房"
+      },
+      {
+        "id": "C",
+        "text": "grand master key 層級較 section master key 為高，可開啟各樓層未反鎖之客房"
+      },
+      {
+        "id": "D",
+        "text": "room individual key層級最低，通常由住客持有，僅能於住宿期間開啟個人登記之客房"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房、住宿、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房、住宿、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館鑰匙使用上的敘述，下列何者錯誤？ emergency key 可於緊急情況時開啟 chain lock 反鎖之客房 floor master key通常由房務員持有，僅能開啟當樓層未反鎖之客房 grand master key 層級較 section master key 為高，可開啟各樓層未反鎖之客房 room individual key層級最低，通常由住客持有，僅能於住宿期間開啟個人登記之客房 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1560
+  }
+}

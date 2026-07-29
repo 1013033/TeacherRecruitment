@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q047-7ed82fe067",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 47 題",
+    "sourceFile": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md",
+    "sourceLocator": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md#offset-7770",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "有關各種酒類的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "要產自法國的香檳區，使用法定品種，以香檳釀製法製造才能被稱為champagne"
+      },
+      {
+        "id": "B",
+        "text": "Tequila 依墨西哥法律規定一定要是特吉拉鎮所生產的藍色龍舌蘭(須含 51%以上)釀製的蒸餾酒，才能稱為 Tequila"
+      },
+      {
+        "id": "C",
+        "text": "波本威士忌須以 80%以上的玉米搭配其它榖物蒸餾而成，才能稱為 Bourbon Whiskey"
+      },
+      {
+        "id": "D",
+        "text": "單一麥芽威士忌是指以 100%純麥芽為原料，且來自同一家酒廠所蒸餾出來的威士忌"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：威士忌、tequila"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：威士忌、tequila"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關各種酒類的敘述，下列何者錯誤？ 要產自法國的香檳區，使用法定品種，以香檳釀製法製造才能被稱為champagne Tequila 依墨西哥法律規定一定要是特吉拉鎮所生產的藍色龍舌蘭(須含 51%以上)釀製的蒸餾酒，才能稱為 Tequila 波本威士忌須以 80%以上的玉米搭配其它榖物蒸餾而成，才能稱為 Bourbon Whiskey 單一麥芽威士忌是指以 100%純麥芽為原料，且來自同一家酒廠所蒸餾出來的威士忌 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1359
+  }
+}

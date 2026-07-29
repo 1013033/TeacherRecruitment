@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q007-b440535538",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-1668",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "mma到傳統西式餐廳用餐，共享用了十餘道菜餚，在用餐過程中有一道以果汁等調製而成的霜凍狀飲品，讓Emma回味無窮。Emma所飲用的是下列哪一種飲品？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "savoury"
+      },
+      {
+        "id": "B",
+        "text": "spirit"
+      },
+      {
+        "id": "C",
+        "text": "sorbet"
+      },
+      {
+        "id": "D",
+        "text": "Sprite"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：sorbet"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：sorbet"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "mma到傳統西式餐廳用餐，共享用了十餘道菜餚，在用餐過程中有一道以果汁等調製而成的霜凍狀飲品，讓Emma回味無窮。Emma所飲用的是下列哪一種飲品？ savoury spirit sorbet Sprite 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2012
+  }
+}

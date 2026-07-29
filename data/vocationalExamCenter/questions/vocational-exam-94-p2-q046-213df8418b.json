@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-q046-213df8418b",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 46 題",
+    "sourceFile": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md",
+    "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-4967",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "甲：咖啡杯 ( coffee cup )、乙：咖啡底盤 ( saucer )、丙：咖啡匙 ( coffee spoon )、丁：點心叉 ( dessert fork )，這四種器皿中，哪些是屬於扁平餐具類 ( flatware )？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具、fork、spoon"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具、fork、spoon"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "甲：咖啡杯 ( coffee cup )、乙：咖啡底盤 ( saucer )、丙：咖啡匙 ( coffee spoon )、丁：點心叉 ( dessert fork )，這四種器皿中，哪些是屬於扁平餐具類 ( flatware )？ 甲、乙 甲、乙、丙 乙、丙、丁 丙、丁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2244
+  }
+}

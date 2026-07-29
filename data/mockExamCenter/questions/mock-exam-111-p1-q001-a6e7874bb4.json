@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q001-a6e7874bb4",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 1 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-0",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "「術語」是學習學科知識的關鍵詞彙，有關餐旅群專業領域重要詞彙「Tourism」基礎概念之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "源於拉丁文Tornus，原意為畫圓工具，衍生有周遊之意"
+      },
+      {
+        "id": "B",
+        "text": "範疇所屬Tourism Industry，在經濟學產業類別劃分，歸屬於第三級產業"
+      },
+      {
+        "id": "C",
+        "text": "按世界觀光組織(WTO)觀光活動系統分類，International Tourism 包含 Inbound 及 Domestic Tour"
+      },
+      {
+        "id": "D",
+        "text": "產生之經濟影響參數 T.M.E.，數值越大表示旅客觀光支出產生的效益越顯著"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：觀光、餐旅、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：觀光、餐旅、tourism"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「術語」是學習學科知識的關鍵詞彙，有關餐旅群專業領域重要詞彙「Tourism」基礎概念之敘述，下列何者錯誤？ 源於拉丁文Tornus，原意為畫圓工具，衍生有周遊之意 範疇所屬Tourism Industry，在經濟學產業類別劃分，歸屬於第三級產業 按世界觀光組織(WTO)觀光活動系統分類，International Tourism 包含 Inbound 及 Domestic Tour 產生之經濟影響參數 T.M.E.，數值越大表示旅客觀光支出產生的效益越顯著 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1848
+  }
+}

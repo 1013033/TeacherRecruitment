@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q020-2e9516c16b",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 20 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-2138",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "下列關於明火烤箱 ( Salamander ) 與碳烤爐 ( Grill ) 的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Salamander 的熱源係來自於下方的火紅鐵棒"
+      },
+      {
+        "id": "B",
+        "text": "Salamander 可以用來保溫菜餚"
+      },
+      {
+        "id": "C",
+        "text": "Grill 的火源係由上往下產生的"
+      },
+      {
+        "id": "D",
+        "text": "Grill 是應用對流原理產生熱能"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：grill"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：grill"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於明火烤箱 ( Salamander ) 與碳烤爐 ( Grill ) 的敘述，何者正確？ Salamander 的熱源係來自於下方的火紅鐵棒 Salamander 可以用來保溫菜餚 Grill 的火源係由上往下產生的 Grill 是應用對流原理產生熱能 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2413
+  }
+}

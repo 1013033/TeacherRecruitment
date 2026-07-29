@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q032-ede8dbe89d",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 32 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-3875",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "關於旅館銷售商品之內隱服務(implicit service)的敍述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "是一種有形的商品，例如以裝潢突顯旅館風格"
+      },
+      {
+        "id": "B",
+        "text": "是一種支援設施，例如電視、空調設備、音響設備及健身房"
+      },
+      {
+        "id": "C",
+        "text": "透過服務過程使顧客有舒適感和倍受尊重的感覺"
+      },
+      {
+        "id": "D",
+        "text": "是指旅館內所銷售的實體商品"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館銷售商品之內隱服務(implicit service)的敍述，下列何者正確？ 是一種有形的商品，例如以裝潢突顯旅館風格 是一種支援設施，例如電視、空調設備、音響設備及健身房 透過服務過程使顧客有舒適感和倍受尊重的感覺 是指旅館內所銷售的實體商品 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 126
+  }
+}

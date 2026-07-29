@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q029-d1691c5f63",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 29 題",
+    "sourceFile": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md",
+    "sourceLocator": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md#offset-4967",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "有關客房內枕頭鋪設後所呈現的狀態，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "枕頭開口處的包邊向上，摺邊向下"
+      },
+      {
+        "id": "B",
+        "text": "房間內有兩張單人床型時，枕頭有包邊和摺邊的地方背向另一張床鋪"
+      },
+      {
+        "id": "C",
+        "text": "軟枕在下，硬枕在上"
+      },
+      {
+        "id": "D",
+        "text": "若客人只需要一顆枕頭時，通常會放置床上的是標準枕，也就是硬枕"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關客房內枕頭鋪設後所呈現的狀態，下列敘述何者錯誤？ 枕頭開口處的包邊向上，摺邊向下 房間內有兩張單人床型時，枕頭有包邊和摺邊的地方背向另一張床鋪 軟枕在下，硬枕在上 若客人只需要一顆枕頭時，通常會放置床上的是標準枕，也就是硬枕 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1342
+  }
+}

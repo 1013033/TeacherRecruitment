@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q012-f075b971c3",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 12 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-1732",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "臺中沁園春是傳承一甲子以上的江浙菜餐廳，店內對於 Table Setting 仍是維持一貫作風，下列何種餐桌擺設狀態會在該餐廳出現？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "使用8 吋骨盤進行定位"
+      },
+      {
+        "id": "B",
+        "text": "將 Divided Dish 放在 Round Plate 前方"
+      },
+      {
+        "id": "C",
+        "text": "龍頭筷架上，左側擺放銀湯匙、右側放置筷子"
+      },
+      {
+        "id": "D",
+        "text": "服務毛巾碟時，以右側供應小方巾"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐桌、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐桌、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺中沁園春是傳承一甲子以上的江浙菜餐廳，店內對於 Table Setting 仍是維持一貫作風，下列何種餐桌擺設狀態會在該餐廳出現？ 使用8 吋骨盤進行定位 將 Divided Dish 放在 Round Plate 前方 龍頭筷架上，左側擺放銀湯匙、右側放置筷子 服務毛巾碟時，以右側供應小方巾 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2092
+  }
+}

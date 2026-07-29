@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q042-c2719742f5",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 42 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-8658",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "咖啡烘焙是影響咖啡風味的最關鍵步驟。有關烘焙流程的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡在烘焙前需先暖機，溫度約在160\\~180°C"
+      },
+      {
+        "id": "B",
+        "text": "焦糖化反應旺盛期約為145\\~160°C之間，會產生火烤的香味、焦糖與顏色"
+      },
+      {
+        "id": "C",
+        "text": "一爆是生豆細胞壁爆裂，二爆時酸味下降，苦味與香醇程度增加"
+      },
+      {
+        "id": "D",
+        "text": "冷卻時豆子溫度需降至室溫，時間不宜過久"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡烘焙是影響咖啡風味的最關鍵步驟。有關烘焙流程的敘述，下列何者錯誤？ 咖啡在烘焙前需先暖機，溫度約在160\\~180°C 焦糖化反應旺盛期約為145\\~160°C之間，會產生火烤的香味、焦糖與顏色 一爆是生豆細胞壁爆裂，二爆時酸味下降，苦味與香醇程度增加 冷卻時豆子溫度需降至室溫，時間不宜過久 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2192
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p2-q014-eeff7f0f28",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 14 題",
+    "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
+    "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-5210",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "ailey任職於知名管理雜誌，負責籌辦年度旅館趨勢論壇。論壇內容豐富且實用，提供最新觀點與重要數據，同時吸引近五百位報名者；Hailey與旅館宴會廳接洽時，強調場地不僅要能容納眾多嘉賓，更要能方便與會者書寫與作筆記，則訂席人員應建議採用下列哪種會議場地布置方式？",
+    "images": [
+      {
+        "id": "vocational-exam-114-p2-q014-eeff7f0f28-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q014-eeff7f0f28-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-114-p2-q014-eeff7f0f28-img-02",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q014-eeff7f0f28-img-02.jpg",
+        "alt": "第 2 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "conference - style seating long shape"
+      },
+      {
+        "id": "B",
+        "text": "conference - style seating U shape"
+      },
+      {
+        "id": "C",
+        "text": "schoolroom - style / classroom - style seating"
+      },
+      {
+        "id": "D",
+        "text": "theater - style seating 圖(一)"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "ailey任職於知名管理雜誌，負責籌辦年度旅館趨勢論壇。論壇內容豐富且實用，提供最新觀點與重要數據，同時吸引近五百位報名者；Hailey與旅館宴會廳接洽時，強調場地不僅要能容納眾多嘉賓，更要能方便與會者書寫與作筆記，則訂席人員應建議採用下列哪種會議場地布置方式？ conference - style seating long shape conference - style seating U shape schoolroom - style / classroom - style seating theater - style seating 圖(一) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1971
+  }
+}

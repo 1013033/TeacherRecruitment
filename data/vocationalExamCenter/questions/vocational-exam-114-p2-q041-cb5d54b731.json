@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p2-q041-cb5d54b731",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 41 題",
+    "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
+    "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-12286",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "阿娟就讀觀光科，學校安排到國內的KK酒廠參訪，看到表(三)再製酒的介紹看板，發現某些酒的介紹不完全正確；請幫忙阿娟於表(三)品名、圖片以及主要基底原料的資訊中，選出正確的配對。",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁 <table><tr><td rowspan=1 colspan=1>編號</td><td rowspan=1 colspan=1>品名</td><td rowspan=1 colspan=1>圖片</td><td rowspan=1 colspan=1>主要基底原料</td></tr><tr><td rowspan=1 colspan=1>甲</td><td rowspan=1 colspan=1>竹葉青酒</td><td rowspan=1 colspan=1>R<img src=\"images/8bc169b098880b7d32b7f35f94bb19227f5ca2bfa965e2f143cbaed1fefe3548.jpg\"/></td><td rowspan=1 colspan=1>高粱</td></tr><tr><td rowspan=1 colspan=1>乙</td><td rowspan=1 colspan=1>龍鳳酒</td><td rowspan=1 colspan=1>一·<img src=\"images/a867633d73de3526a5bddf8d3c7b10109a06a7a87963162fa73ca5db57046173.jpg\"/></td><td rowspan=1 colspan=1>高粱</td></tr><tr><td rowspan=1 colspan=1>丙</td><td rowspan=1 colspan=1>雙鹿五加皮酒</td><td rowspan=1 colspan=1><img src=\"images/dc20965be8c534e4faeb8b8b57fac8b99ab58a5344fb6c280ef3d27f62231993.jpg\"/></td><td rowspan=1 colspan=1>稻米</td></tr><tr><td rowspan=1 colspan=1>丁</td><td rowspan=1 colspan=1>鹿茸酒</td><td rowspan=1 colspan=1><img src=\"images/ee0aebd17daa5e65e45e090e12bb0f49e4bb07ecb6df8204b2b6218733608630.jpg\"/></td><td rowspan=1 colspan=1>稻米</td></tr></table>"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿娟就讀觀光科，學校安排到國內的KK酒廠參訪，看到表(三)再製酒的介紹看板，發現某些酒的介紹不完全正確；請幫忙阿娟於表(三)品名、圖片以及主要基底原料的資訊中，選出正確的配對。 甲、乙 甲、丁 乙、丙 丙、丁 <table><tr><td rowspan=1 colspan=1>編號</td><td rowspan=1 colspan=1>品名</td><td rowspan=1 colspan=1>圖片</td><td rowspan=1 colspan=1>主要基底原料</td></tr><tr><td rowspan=1 colspan=1>甲</td><td rowspan=1 colspan=1>竹葉青酒</td><td rowspan=1 colspan=1>R<img src=\"images/8bc169b098880b7d32b7f35f94bb19227f5ca2bfa965e2f143cbaed1fefe3548.jpg\"/></td><td rowspan=1 colspan=1>高粱</td></tr><tr><td rowspan=1 colspan=1>乙</td><td rowspan=1 colspan=1>龍鳳酒</td><td rowspan=1 colspan=1>一·<img src=\"images/a867633d73de3526a5bddf8d3c7b10109a06a7a87963162fa73ca5db57046173.jpg\"/></td><td rowspan=1 colspan=1>高粱</td></tr><tr><td rowspan=1 colspan=1>丙</td><td rowspan=1 colspan=1>雙鹿五加皮酒</td><td rowspan=1 colspan=1><img src=\"images/dc20965be8c534e4faeb8b8b57fac8b99ab58a5344fb6c280ef3d27f62231993.jpg\"/></td><td rowspan=1 colspan=1>稻米</td></tr><tr><td rowspan=1 colspan=1>丁</td><td rowspan=1 colspan=1>鹿茸酒</td><td rowspan=1 colspan=1><img src=\"images/ee0aebd17daa5e65e45e090e12bb0f49e4bb07ecb6df8204b2b6218733608630.jpg\"/></td><td rowspan=1 colspan=1>稻米</td></tr></table> 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1996
+  }
+}

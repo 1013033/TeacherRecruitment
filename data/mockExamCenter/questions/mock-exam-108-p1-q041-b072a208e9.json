@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q041-b072a208e9",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 41 題",
+    "sourceFile": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md",
+    "sourceLocator": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md#offset-8730",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "「遊程規劃」為旅行業核心產品項目，下列相關敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "GIPT為旅遊市場主要選擇，交通運輸費為其設計成本比重最高項目"
+      },
+      {
+        "id": "B",
+        "text": "完善的行程內容，可能因不可預期之問題，無法讓所有團員完全滿意，反映出旅遊服務的異質性"
+      },
+      {
+        "id": "C",
+        "text": "如因航空公司無法讓旅客當天轉機，領隊人員應主動要求航空公司提供TWOV"
+      },
+      {
+        "id": "D",
+        "text": "海外團體旅遊成本結構中最大的風險來自於外匯匯率變動"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、航空、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、航空、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「遊程規劃」為旅行業核心產品項目，下列相關敘述何者錯誤？ GIPT為旅遊市場主要選擇，交通運輸費為其設計成本比重最高項目 完善的行程內容，可能因不可預期之問題，無法讓所有團員完全滿意，反映出旅遊服務的異質性 如因航空公司無法讓旅客當天轉機，領隊人員應主動要求航空公司提供TWOV 海外團體旅遊成本結構中最大的風險來自於外匯匯率變動 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 763
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q018-4ab5d2925a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 18 題",
+    "sourceFile": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md",
+    "sourceLocator": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md#offset-3298",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "「漢來飯店」為高雄地區老字號飯店，因應國際飯店品牌萬豪、洲際相繼插旗港都，啟動3億客房改裝計畫，主打輕奢華風，軟硬體皆升級，並以分層封樓方式循序改造。各樓層客房工程期間暫停營業，訂房系統應登錄之訊息代號為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "OOO"
+      },
+      {
+        "id": "B",
+        "text": "OOI"
+      },
+      {
+        "id": "C",
+        "text": "OOS"
+      },
+      {
+        "id": "D",
+        "text": "OCC"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飯店、客房、訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飯店、客房、訂房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「漢來飯店」為高雄地區老字號飯店，因應國際飯店品牌萬豪、洲際相繼插旗港都，啟動3億客房改裝計畫，主打輕奢華風，軟硬體皆升級，並以分層封樓方式循序改造。各樓層客房工程期間暫停營業，訂房系統應登錄之訊息代號為何？ OOO OOI OOS OCC 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2048
+  }
+}

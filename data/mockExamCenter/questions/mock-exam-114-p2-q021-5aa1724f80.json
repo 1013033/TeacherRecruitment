@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q021-5aa1724f80",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 21 題",
+    "sourceFile": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md",
+    "sourceLocator": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md#offset-6138",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "西餐廳服務流程中，主餐結束後、供應甜點與餐後飲料前，服務人員會進行桌面整理工作，以為維持餐桌美觀，並準備後續服務。下列四個服務步驟的正確執行順序為何？甲、依序撤除主餐盤，收拾麵包盤、奶油碟及調味組(Salt & Pepper Shakers)乙、以麵包屑斗或餐巾進行清理桌面碎屑(Crumbing Down)丙、呈遞甜點菜單並提供餐後飲料之諮詢或點餐丁、調整甜點餐具，將原置於餐盤上方的甜點匙與甜點叉移至兩側",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙→丁"
+      },
+      {
+        "id": "B",
+        "text": "甲→丁→乙→丙"
+      },
+      {
+        "id": "C",
+        "text": "乙→甲→丁→丙"
+      },
+      {
+        "id": "D",
+        "text": "丙→甲→乙→丁"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、餐巾"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、餐巾"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西餐廳服務流程中，主餐結束後、供應甜點與餐後飲料前，服務人員會進行桌面整理工作，以為維持餐桌美觀，並準備後續服務。下列四個服務步驟的正確執行順序為何？甲、依序撤除主餐盤，收拾麵包盤、奶油碟及調味組(Salt & Pepper Shakers)乙、以麵包屑斗或餐巾進行清理桌面碎屑(Crumbing Down)丙、呈遞甜點菜單並提供餐後飲料之諮詢或點餐丁、調整甜點餐具，將原置於餐盤上方的甜點匙與甜點叉移至兩側 甲→乙→丙→丁 甲→丁→乙→丙 乙→甲→丁→丙 丙→甲→乙→丁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 3677
+  }
+}

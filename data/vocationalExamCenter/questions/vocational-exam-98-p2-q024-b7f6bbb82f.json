@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p2-q024-b7f6bbb82f",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(二) 第 24 題",
+    "sourceFile": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md",
+    "sourceLocator": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md#offset-3220",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "一般而言，旅館內的哪一個區域，不屬於公共清潔維護之作業範圍？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "客用電梯"
+      },
+      {
+        "id": "B",
+        "text": "大廳洗手間"
+      },
+      {
+        "id": "C",
+        "text": "樓梯和樓梯間"
+      },
+      {
+        "id": "D",
+        "text": "餐廳吧檯工作區"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一般而言，旅館內的哪一個區域，不屬於公共清潔維護之作業範圍？ 客用電梯 大廳洗手間 樓梯和樓梯間 餐廳吧檯工作區 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2466
+  }
+}

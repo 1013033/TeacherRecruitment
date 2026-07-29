@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p1-q013-895baec948",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(一) 第 13 題",
+    "sourceFile": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md",
+    "sourceLocator": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md#offset-1521",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "有關餐廳格局設計的原則，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "為提高生產力，確保員工作業敏捷，餐廳的生產作業區不需保留太大的空間"
+      },
+      {
+        "id": "B",
+        "text": "為了區隔作業流程，餐廳內的相關設備，宜放置在不同樓層或較遠的區域"
+      },
+      {
+        "id": "C",
+        "text": "餐廳員工服務的動線應該和客人的動線一致，以利員工提供有效率的服務"
+      },
+      {
+        "id": "D",
+        "text": "餐廳內外場員工的通道必須保持通暢，以提供舒適安全之工作環境"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐廳格局設計的原則，下列何者正確？ 為提高生產力，確保員工作業敏捷，餐廳的生產作業區不需保留太大的空間 為了區隔作業流程，餐廳內的相關設備，宜放置在不同樓層或較遠的區域 餐廳員工服務的動線應該和客人的動線一致，以利員工提供有效率的服務 餐廳內外場員工的通道必須保持通暢，以提供舒適安全之工作環境 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 153
+  }
+}

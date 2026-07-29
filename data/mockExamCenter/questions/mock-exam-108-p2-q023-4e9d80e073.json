@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q023-4e9d80e073",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 23 題",
+    "sourceFile": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md",
+    "sourceLocator": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md#offset-3607",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "房務員小明通報主管，他發現6F 603 房客過了退房時間卻依舊未退房，敲門也未獲得回應，房務員的鑰匙也無法開啟房門，他懷疑房客在房間內出了意外。接獲通報的主管趕緊過來準備進去房間確認房客狀況，請問主管過來處理時應攜帶何種鑰匙才能開啟房門？甲、Floor Master Key 乙、Emergency Key 丙、Double Lock Key 丁、Room Individual Key",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙"
+      },
+      {
+        "id": "B",
+        "text": "甲乙"
+      },
+      {
+        "id": "C",
+        "text": "乙丙"
+      },
+      {
+        "id": "D",
+        "text": "甲丙丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "房務員小明通報主管，他發現6F 603 房客過了退房時間卻依舊未退房，敲門也未獲得回應，房務員的鑰匙也無法開啟房門，他懷疑房客在房間內出了意外。接獲通報的主管趕緊過來準備進去房間確認房客狀況，請問主管過來處理時應攜帶何種鑰匙才能開啟房門？甲、Floor Master Key 乙、Emergency Key 丙、Double Lock Key 丁、Room Individual Key 乙 甲乙 乙丙 甲丙丁 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 886
+  }
+}

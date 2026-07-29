@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p1-q003-be16055c22",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md",
+    "sourceLocator": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md#offset-611",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "大陸哈爾濱的冰雕節最能夠展現下列哪一種觀光資源的特性？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "相容性"
+      },
+      {
+        "id": "B",
+        "text": "替代性"
+      },
+      {
+        "id": "C",
+        "text": "季節性"
+      },
+      {
+        "id": "D",
+        "text": "互補性"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "大陸哈爾濱的冰雕節最能夠展現下列哪一種觀光資源的特性？ 相容性 替代性 季節性 互補性 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1105
+  }
+}

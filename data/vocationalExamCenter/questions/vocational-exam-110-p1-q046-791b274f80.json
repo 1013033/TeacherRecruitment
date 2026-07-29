@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q046-791b274f80",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 46 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-5106",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "關於組織結構中之產品型組織，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "組織架構扁平化"
+      },
+      {
+        "id": "B",
+        "text": "產品部門權責分明"
+      },
+      {
+        "id": "C",
+        "text": "比較節省人力成本"
+      },
+      {
+        "id": "D",
+        "text": "依工作性質專業分工"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於組織結構中之產品型組織，下列敘述何者正確？ 組織架構扁平化 產品部門權責分明 比較節省人力成本 依工作性質專業分工 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 532
+  }
+}

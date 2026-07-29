@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p2-q019-c494a9c30b",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(二) 第 19 題",
+    "sourceFile": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md",
+    "sourceLocator": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md#offset-2416",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "一般餐飲使用之 captain order，原則上不會送至何處？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "bar"
+      },
+      {
+        "id": "B",
+        "text": "cashier"
+      },
+      {
+        "id": "C",
+        "text": "concierge"
+      },
+      {
+        "id": "D",
+        "text": "kitchen"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "一般餐飲使用之 captain order，原則上不會送至何處？ bar cashier concierge kitchen 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1457
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p2-q037-04310a7ba4",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(二) 第 37 題",
+    "sourceFile": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md",
+    "sourceLocator": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md#offset-4874",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "文山包種茶製作過程包括「乾燥」、「萎凋」、「揉捻」、「炒菁」、「採菁」等步驟，其中「萎凋」、「揉捻」、「炒菁」的先後順序以何者為宜？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "揉捻、炒菁、萎凋"
+      },
+      {
+        "id": "B",
+        "text": "萎凋、炒菁、揉捻"
+      },
+      {
+        "id": "C",
+        "text": "萎凋、揉捻、炒菁"
+      },
+      {
+        "id": "D",
+        "text": "炒菁、萎凋、揉捻"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "文山包種茶製作過程包括「乾燥」、「萎凋」、「揉捻」、「炒菁」、「採菁」等步驟，其中「萎凋」、「揉捻」、「炒菁」的先後順序以何者為宜？ 揉捻、炒菁、萎凋 萎凋、炒菁、揉捻 萎凋、揉捻、炒菁 炒菁、萎凋、揉捻 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1524
+  }
+}

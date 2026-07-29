@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q009-cf6271f1c3",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-1652",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "小隆與同學相約出遊，回程時購買當地特產油魚子作為伴手禮贈送親友品嚐，小隆應該是到下列哪一個地點旅遊？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "基隆"
+      },
+      {
+        "id": "B",
+        "text": "綠島"
+      },
+      {
+        "id": "C",
+        "text": "澎湖"
+      },
+      {
+        "id": "D",
+        "text": "東港"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小隆與同學相約出遊，回程時購買當地特產油魚子作為伴手禮贈送親友品嚐，小隆應該是到下列哪一個地點旅遊？ 基隆 綠島 澎湖 東港 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 594
+  }
+}

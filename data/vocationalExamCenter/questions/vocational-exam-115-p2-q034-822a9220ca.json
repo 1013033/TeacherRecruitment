@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q034-822a9220ca",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 34 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-7580",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "小柔是一名手搖茶飲店的員工，某日在沖泡紅茶時因外面客人眾多，以至於計時器響起時未即時撈起茶葉；待小柔發現過後已過了3分鐘，她想要快速冷卻茶湯但加入過多的冰塊產生cream down現象。小柔接續該如何改善此現象？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "使用濾布重新過濾"
+      },
+      {
+        "id": "B",
+        "text": "使用濾紙重新過濾"
+      },
+      {
+        "id": "C",
+        "text": "撈起冰塊後注入些許熱水"
+      },
+      {
+        "id": "D",
+        "text": "撈起冰塊後注入些許檸檬汁"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小柔是一名手搖茶飲店的員工，某日在沖泡紅茶時因外面客人眾多，以至於計時器響起時未即時撈起茶葉；待小柔發現過後已過了3分鐘，她想要快速冷卻茶湯但加入過多的冰塊產生cream down現象。小柔接續該如何改善此現象？ 使用濾布重新過濾 使用濾紙重新過濾 撈起冰塊後注入些許熱水 撈起冰塊後注入些許檸檬汁 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2039
+  }
+}

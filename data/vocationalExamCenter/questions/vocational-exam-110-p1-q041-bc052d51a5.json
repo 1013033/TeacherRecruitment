@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q041-bc052d51a5",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 41 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-4413",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是連鎖速食餐飲企業？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "鼎泰豐"
+      },
+      {
+        "id": "B",
+        "text": "摩斯漢堡"
+      },
+      {
+        "id": "C",
+        "text": "三商巧福"
+      },
+      {
+        "id": "D",
+        "text": "頂呱呱炸雞"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：連鎖"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：連鎖"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是連鎖速食餐飲企業？ 鼎泰豐 摩斯漢堡 三商巧福 頂呱呱炸雞 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 527
+  }
+}

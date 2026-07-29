@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p1-q047-b973259e58",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(一) 第 47 題",
+    "sourceFile": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md",
+    "sourceLocator": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md#offset-4815",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "應用標準食譜烹製菜餚，原食譜中記載的產出供應量是 10 人份 ( portions )、每一人份 600公克；現在若其他因素不變，但每一人份縮小成 400公克、共要製作30人份；則原食譜中應準備20公克的A材料，現在應該準備多少？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "10 公克"
+      },
+      {
+        "id": "B",
+        "text": "20 公克"
+      },
+      {
+        "id": "C",
+        "text": "30 公克"
+      },
+      {
+        "id": "D",
+        "text": "40 公克"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "應用標準食譜烹製菜餚，原食譜中記載的產出供應量是 10 人份 ( portions )、每一人份 600公克；現在若其他因素不變，但每一人份縮小成 400公克、共要製作30人份；則原食譜中應準備20公克的A材料，現在應該準備多少？ 10 公克 20 公克 30 公克 40 公克 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1099
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q011-a50b96f03d",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 11 題",
+    "sourceFile": "110\\output\\110-3專二試題\\auto\\110-3專二試題.md",
+    "sourceLocator": "110\\output\\110-3專二試題\\auto\\110-3專二試題.md#offset-2789",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列西餐佳餚與其客用餐具佈設搭配，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Crème Brûlée：點心叉  點心匙"
+      },
+      {
+        "id": "B",
+        "text": "Parma Ham and Melon：沙拉刀  沙拉叉"
+      },
+      {
+        "id": "C",
+        "text": "Spaghetti with Clam and White Wine：圓湯匙  餐叉"
+      },
+      {
+        "id": "D",
+        "text": "Baked Snails with Herbs：蠔叉"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列西餐佳餚與其客用餐具佈設搭配，何者正確？ Crème Brûlée：點心叉  點心匙 Parma Ham and Melon：沙拉刀  沙拉叉 Spaghetti with Clam and White Wine：圓湯匙  餐叉 Baked Snails with Herbs：蠔叉 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1620
+  }
+}

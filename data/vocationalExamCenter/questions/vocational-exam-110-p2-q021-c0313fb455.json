@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p2-q021-c0313fb455",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 21 題",
+    "sourceFile": "專二\\output\\110-1專二試題\\auto\\110-1專二試題.md",
+    "sourceLocator": "專二\\output\\110-1專二試題\\auto\\110-1專二試題.md#offset-3479",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "關於正式餐廳檯布鋪設及更換的敘述，下列何者正確？甲：更換檯布時須選擇正確尺寸，更換時動作務必緩慢，以不影響顧客用餐為原則乙：鋪設完成的檯布必須平整，且其十字摺線中心點應置中，檯布四周下垂的長度應相同丙：更換檯布時不宜將桌面露出，更換完成需檢視週遭地面的清潔度，以保持餐廳的用餐環境丁：顧客離開時，服務人員宜迅速整理桌面，直接將檯布掀開並鋪上新檯布，以避免影響其他用餐中的顧客並提高翻桌率",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於正式餐廳檯布鋪設及更換的敘述，下列何者正確？甲：更換檯布時須選擇正確尺寸，更換時動作務必緩慢，以不影響顧客用餐為原則乙：鋪設完成的檯布必須平整，且其十字摺線中心點應置中，檯布四周下垂的長度應相同丙：更換檯布時不宜將桌面露出，更換完成需檢視週遭地面的清潔度，以保持餐廳的用餐環境丁：顧客離開時，服務人員宜迅速整理桌面，直接將檯布掀開並鋪上新檯布，以避免影響其他用餐中的顧客並提高翻桌率 甲、乙 甲、丁 乙、丙 丙、丁 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1804
+  }
+}

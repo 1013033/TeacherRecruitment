@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q036-f471a4f7dd",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 36 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-8423",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列哪些咖啡的萃取原理相同？甲、手沖咖啡 乙、虹吸式咖啡 丙、法蘭絨咖啡 丁、冰滴咖啡戊、皇家比利時壺咖啡 己、摩卡壺咖啡 庚、越南咖啡",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙、丁、庚"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙、丁、己"
+      },
+      {
+        "id": "C",
+        "text": "乙、戊、己、庚"
+      },
+      {
+        "id": "D",
+        "text": "乙、丙、戊、庚"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些咖啡的萃取原理相同？甲、手沖咖啡 乙、虹吸式咖啡 丙、法蘭絨咖啡 丁、冰滴咖啡戊、皇家比利時壺咖啡 己、摩卡壺咖啡 庚、越南咖啡 甲、丙、丁、庚 甲、乙、丁、己 乙、戊、己、庚 乙、丙、戊、庚 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1944
+  }
+}

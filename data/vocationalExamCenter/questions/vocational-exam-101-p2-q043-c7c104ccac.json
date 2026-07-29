@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p2-q043-c7c104ccac",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(二) 第 43 題",
+    "sourceFile": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md",
+    "sourceLocator": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md#offset-5330",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "下列雞尾酒中，何者不添加著色成分？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "特吉拉日出 ( Tequila Sunrise )"
+      },
+      {
+        "id": "B",
+        "text": "新加坡司令 ( Singapore Sling)"
+      },
+      {
+        "id": "C",
+        "text": "琴奎寧 ( Gin Tonic )"
+      },
+      {
+        "id": "D",
+        "text": "紐約 ( New York )"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin、tequila"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin、tequila"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列雞尾酒中，何者不添加著色成分？ 特吉拉日出 ( Tequila Sunrise ) 新加坡司令 ( Singapore Sling) 琴奎寧 ( Gin Tonic ) 紐約 ( New York ) 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1381
+  }
+}

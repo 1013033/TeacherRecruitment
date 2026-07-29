@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p2-q026-915fad9e75",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(二) 第 26 題",
+    "sourceFile": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md",
+    "sourceLocator": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md#offset-3271",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "下列那一組食材水煮後均具有膠黏特性？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "洋菜、吉利丁、豬皮"
+      },
+      {
+        "id": "B",
+        "text": "髮菜、豬皮、海藻"
+      },
+      {
+        "id": "C",
+        "text": "洋菜、雞皮、腐皮"
+      },
+      {
+        "id": "D",
+        "text": "腐皮、吉利丁、豬皮"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食材"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食材"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列那一組食材水煮後均具有膠黏特性？ 洋菜、吉利丁、豬皮 髮菜、豬皮、海藻 洋菜、雞皮、腐皮 腐皮、吉利丁、豬皮 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2129
+  }
+}

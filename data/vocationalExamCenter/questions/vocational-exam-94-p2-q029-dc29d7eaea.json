@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-q029-dc29d7eaea",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 29 題",
+    "sourceFile": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md",
+    "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-2666",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種沙司 ( sauce ) 不是以褐色沙司 ( brown sauce ) 衍生而成？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "紅酒沙司 ( red wine sauce )"
+      },
+      {
+        "id": "B",
+        "text": "蘑菇沙司 ( mushroom sauce )"
+      },
+      {
+        "id": "C",
+        "text": "黑胡椒沙司 ( black pepper sauce )"
+      },
+      {
+        "id": "D",
+        "text": "法式蕃茄沙司 ( provençale sauce )"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種沙司 ( sauce ) 不是以褐色沙司 ( brown sauce ) 衍生而成？ 紅酒沙司 ( red wine sauce ) 蘑菇沙司 ( mushroom sauce ) 黑胡椒沙司 ( black pepper sauce ) 法式蕃茄沙司 ( provençale sauce ) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2229
+  }
+}

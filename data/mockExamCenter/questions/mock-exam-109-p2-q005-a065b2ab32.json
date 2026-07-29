@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q005-a065b2ab32",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 5 題",
+    "sourceFile": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md",
+    "sourceLocator": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md#offset-833",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "圖(一)為西餐 8 人座長桌的席位圖，假設「賓主成對」，下列敘述何者正確？",
+    "images": [
+      {
+        "id": "mock-exam-109-p2-q005-a065b2ab32-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-109-p2-q005-a065b2ab32-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "女主人應坐於E席"
+      },
+      {
+        "id": "B",
+        "text": "所有的人都會呈現男女分坐，不會出現兩男或兩女並坐情形"
+      },
+      {
+        "id": "C",
+        "text": "男主賓應坐於F席"
+      },
+      {
+        "id": "D",
+        "text": "依尊右原則安排，愈靠近男女主人位階愈低 圖(一)"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "圖(一)為西餐 8 人座長桌的席位圖，假設「賓主成對」，下列敘述何者正確？ 女主人應坐於E席 所有的人都會呈現男女分坐，不會出現兩男或兩女並坐情形 男主賓應坐於F席 依尊右原則安排，愈靠近男女主人位階愈低 圖(一) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1057
+  }
+}

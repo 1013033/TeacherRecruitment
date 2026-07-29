@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p1-q046-a568be9cea",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(一) 第 46 題",
+    "sourceFile": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md",
+    "sourceLocator": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md#offset-4959",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種情況最不符合廚房的衛生與安全？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "抹布、菜瓜布、砧板等用具皆應定期清洗消毒"
+      },
+      {
+        "id": "B",
+        "text": "刀具使用後應立即清洗"
+      },
+      {
+        "id": "C",
+        "text": "待洗的器具可以直接放置在地面上"
+      },
+      {
+        "id": "D",
+        "text": "熱存食品的溫度應保持在 $6 0 ~ ^ { \\circ } C$ 以上"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種情況最不符合廚房的衛生與安全？ 抹布、菜瓜布、砧板等用具皆應定期清洗消毒 刀具使用後應立即清洗 待洗的器具可以直接放置在地面上 熱存食品的溫度應保持在 $6 0 ~ ^ { \\circ } C$ 以上 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1147
+  }
+}

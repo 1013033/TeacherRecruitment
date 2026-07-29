@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q015-7d8a0e6eff",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 15 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-2361",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "下列何者符合我國旅遊文件的相關規定？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "機票是指旅客付過機位與行李費用的憑證"
+      },
+      {
+        "id": "B",
+        "text": "護照是由交通部觀光局所核發"
+      },
+      {
+        "id": "C",
+        "text": "普通護照有效期限皆為 10年"
+      },
+      {
+        "id": "D",
+        "text": "我國核發給國外來台觀光客的簽證是居留簽證"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：護照、簽證、機票、觀光局、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：護照、簽證、機票、觀光局、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者符合我國旅遊文件的相關規定？ 機票是指旅客付過機位與行李費用的憑證 護照是由交通部觀光局所核發 普通護照有效期限皆為 10年 我國核發給國外來台觀光客的簽證是居留簽證 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 63
+  }
+}

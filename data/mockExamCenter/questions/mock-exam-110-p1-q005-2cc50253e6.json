@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q005-2cc50253e6",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 5 題",
+    "sourceFile": "110\\output\\110-4專一試題\\auto\\110-4專一試題.md",
+    "sourceLocator": "110\\output\\110-4專一試題\\auto\\110-4專一試題.md#offset-421",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "現行餐飲業所提供之自助式餐飲服務，常見如速簡餐服務、自助餐服務及半自助式服務，其中由「顧客點選主餐，經廚房烹製再端送上菜，沙拉吧則由顧客自取」，屬於前述餐飲服務方式中何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Cafeteria Service"
+      },
+      {
+        "id": "B",
+        "text": "Drive-in Service"
+      },
+      {
+        "id": "C",
+        "text": "Semi-buffet Service"
+      },
+      {
+        "id": "D",
+        "text": "Buffet Service"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：buffet、cafeteria、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：buffet、cafeteria、service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "現行餐飲業所提供之自助式餐飲服務，常見如速簡餐服務、自助餐服務及半自助式服務，其中由「顧客點選主餐，經廚房烹製再端送上菜，沙拉吧則由顧客自取」，屬於前述餐飲服務方式中何者？ Cafeteria Service Drive-in Service Semi-buffet Service Buffet Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1663
+  }
+}

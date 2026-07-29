@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q047-372eca2128",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 47 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-6346",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "下列哪一款茶有女兒茶之稱，相傳生女兒滿月時，茶農會將這款茶製成茶餅收藏，等女兒出嫁時，作為女兒的嫁妝？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "紅玉紅茶"
+      },
+      {
+        "id": "B",
+        "text": "東方美人茶"
+      },
+      {
+        "id": "C",
+        "text": "普洱茶"
+      },
+      {
+        "id": "D",
+        "text": "茉莉花茶"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一款茶有女兒茶之稱，相傳生女兒滿月時，茶農會將這款茶製成茶餅收藏，等女兒出嫁時，作為女兒的嫁妝？ 紅玉紅茶 東方美人茶 普洱茶 茉莉花茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 999
+  }
+}

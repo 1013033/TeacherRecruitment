@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p2-q011-c65151d16b",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(二) 第 11 題",
+    "sourceFile": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md",
+    "sourceLocator": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md#offset-1602",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "關於西餐用餐禮儀的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "麵包應直接用口咬食，不宜以手撕成小片後再食用"
+      },
+      {
+        "id": "B",
+        "text": "湯品過燙時，可用口對湯品吹氣使其降溫後再食用"
+      },
+      {
+        "id": "C",
+        "text": "用餐速度可依自己節奏進行，不須考慮同桌其他顧客"
+      },
+      {
+        "id": "D",
+        "text": "食用帶有骨頭的羊排時，若骨頭端包有錫箔紙，可直接以手拿起咬食"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於西餐用餐禮儀的敘述，下列何者正確？ 麵包應直接用口咬食，不宜以手撕成小片後再食用 湯品過燙時，可用口對湯品吹氣使其降溫後再食用 用餐速度可依自己節奏進行，不須考慮同桌其他顧客 食用帶有骨頭的羊排時，若骨頭端包有錫箔紙，可直接以手拿起咬食 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1598
+  }
+}

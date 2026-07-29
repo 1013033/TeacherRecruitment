@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q048-d13df12d55",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 48 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-9945",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "阿丁是ABC Bar的吧檯工作人員，接到領班給的3號桌飲品點單後，準備了2個collins glass和1個cocktail glass。下列何者最可能是這張點單的內容？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "<table><tr><td rowspan=1 colspan=4>ABC Bar 桌號：3 日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Gin &amp; tonic</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>John collins</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Pink lady</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> <table><tr><td rowspan=1 colspan=4>ABC Bar 桌號：3 日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Manhattan</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Whiskey sour</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Kir</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> <table><tr><td rowspan=1 colspan=4>ABC Bar 桌號：3 日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Gin &amp; tonic</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Side car</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Horse&#x27;s neck</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> <table><tr><td rowspan=9 colspan=1>"
+      },
+      {
+        "id": "D",
+        "text": "</td><td rowspan=1 colspan=4>ABC Bar 桌號：3日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Blue bird</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>John collins</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Piña colada</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> ## ▲ 閱讀下文，回答第 49 - 50題 曉萱在公視看完茶金影集後，對於臺灣茶葉的歷史發展與製作過程感到興趣，某個假日決定到該劇拍攝地點之一的南投日月老茶廠一探究竟，讓自己對臺灣紅茶的製作方法與沖泡方式有更深入的了解。"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin、cocktail、bar、吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin、cocktail、bar、吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿丁是ABC Bar的吧檯工作人員，接到領班給的3號桌飲品點單後，準備了2個collins glass和1個cocktail glass。下列何者最可能是這張點單的內容？ <table><tr><td rowspan=1 colspan=4>ABC Bar 桌號：3 日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Gin &amp; tonic</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>John collins</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Pink lady</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> <table><tr><td rowspan=1 colspan=4>ABC Bar 桌號：3 日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Manhattan</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Whiskey sour</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Kir</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> <table><tr><td rowspan=1 colspan=4>ABC Bar 桌號：3 日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Gin &amp; tonic</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Side car</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Horse&#x27;s neck</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> <table><tr><td rowspan=9 colspan=1> </td><td rowspan=1 colspan=4>ABC Bar 桌號：3日期：4/30人數：3 時間：21:05</td></tr><tr><td rowspan=1 colspan=1>品項</td><td rowspan=1 colspan=1>數量</td><td rowspan=1 colspan=1>單價</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>Blue bird</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>John collins</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Piña colada</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>小計</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>簽名：Lee</td></tr></table> ## ▲ 閱讀下文，回答第 49 - 50題 曉萱在公視看完茶金影集後，對於臺灣茶葉的歷史發展與製作過程感到興趣，某個假日決定到該劇拍攝地點之一的南投日月老茶廠一探究竟，讓自己對臺灣紅茶的製作方法與沖泡方式有更深入的了解。 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1857
+  }
+}

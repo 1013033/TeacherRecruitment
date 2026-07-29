@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q043-28060e2b4c",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 43 題",
+    "sourceFile": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md",
+    "sourceLocator": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md#offset-12857",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "咖啡精製的處理法中，哪一種是將果實放在水槽中，除去浮起的異物與未成熟豆後，再將果實放入果肉機，去除部分果肉，也留下部份果肉之後，用太陽曝曬，最後將咖啡外部的羊皮膜去除，就成為咖啡的生豆？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "水洗處理法"
+      },
+      {
+        "id": "B",
+        "text": "日曬處理法"
+      },
+      {
+        "id": "C",
+        "text": "蜜處理法"
+      },
+      {
+        "id": "D",
+        "text": "半水洗處理法"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡精製的處理法中，哪一種是將果實放在水槽中，除去浮起的異物與未成熟豆後，再將果實放入果肉機，去除部分果肉，也留下部份果肉之後，用太陽曝曬，最後將咖啡外部的羊皮膜去除，就成為咖啡的生豆？ 水洗處理法 日曬處理法 蜜處理法 半水洗處理法 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1840
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p2-q021-5a1e591934",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(二) 第 21 題",
+    "sourceFile": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md",
+    "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-2955",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "下列關於 buffet service 的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "最早起源於歐洲的義大利，我國多數國際觀光旅館皆有提供"
+      },
+      {
+        "id": "B",
+        "text": "可以掌握食材所需的份量，減少食材成本的浪費"
+      },
+      {
+        "id": "C",
+        "text": "以顧客拿取的餐食種類與數量做為計價方式"
+      },
+      {
+        "id": "D",
+        "text": "冷菜與熱菜宜分區擺放，並放置正確的菜卡"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：buffet、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：buffet、service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於 buffet service 的敘述，何者正確？ 最早起源於歐洲的義大利，我國多數國際觀光旅館皆有提供 可以掌握食材所需的份量，減少食材成本的浪費 以顧客拿取的餐食種類與數量做為計價方式 冷菜與熱菜宜分區擺放，並放置正確的菜卡 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1312
+  }
+}

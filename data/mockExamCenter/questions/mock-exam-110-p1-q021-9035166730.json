@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q021-9035166730",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 21 題",
+    "sourceFile": "110\\output\\110-2專一試題\\auto\\110-2專一試題.md",
+    "sourceLocator": "110\\output\\110-2專一試題\\auto\\110-2專一試題.md#offset-3675",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "下列餐廳廚房格局動線規劃，何者較能符合內場工作人員省時、舒適之需求？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "調理場所工作檯面照明度大於100 米燭光以上"
+      },
+      {
+        "id": "B",
+        "text": "水槽、冰箱與爐檯三者間距總和達 9 公尺"
+      },
+      {
+        "id": "C",
+        "text": "原料清洗區及驗收區共同規劃於污染區"
+      },
+      {
+        "id": "D",
+        "text": "空調維持溫度 20°C、相對濕度60%"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列餐廳廚房格局動線規劃，何者較能符合內場工作人員省時、舒適之需求？ 調理場所工作檯面照明度大於100 米燭光以上 水槽、冰箱與爐檯三者間距總和達 9 公尺 原料清洗區及驗收區共同規劃於污染區 空調維持溫度 20°C、相對濕度60% 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1483
+  }
+}

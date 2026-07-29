@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q047-68d4652a90",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 47 題",
+    "sourceFile": "107\\output\\117-1專二試題\\auto\\117-1專二試題.md",
+    "sourceLocator": "107\\output\\117-1專二試題\\auto\\117-1專二試題.md#offset-6016",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "茶葉依發酵程度及外形等因素決定其沖泡溫度，下列哪一種沖泡溫度最低？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "碧螺春"
+      },
+      {
+        "id": "B",
+        "text": "鐵觀音"
+      },
+      {
+        "id": "C",
+        "text": "白毫烏龍茶"
+      },
+      {
+        "id": "D",
+        "text": "紅茶"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶、烏龍、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶、烏龍、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "茶葉依發酵程度及外形等因素決定其沖泡溫度，下列哪一種沖泡溫度最低？ 碧螺春 鐵觀音 白毫烏龍茶 紅茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 75
+  }
+}

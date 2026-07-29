@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q015-4ba753967b",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 15 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-1980",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "促進我國與其他國家間青年之互動交流與瞭解，申請人目的為「度假」，藉由打工使度假展期及賺取旅遊生活費用，此外籍人士應向我國申請下列哪一種簽證？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "tourist visa"
+      },
+      {
+        "id": "B",
+        "text": "transit visa"
+      },
+      {
+        "id": "C",
+        "text": "visa granted upon arriva"
+      },
+      {
+        "id": "D",
+        "text": "working holiday visa"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：簽證、tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：簽證、tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "促進我國與其他國家間青年之互動交流與瞭解，申請人目的為「度假」，藉由打工使度假展期及賺取旅遊生活費用，此外籍人士應向我國申請下列哪一種簽證？ tourist visa transit visa visa granted upon arriva working holiday visa 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 252
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-90-p1-q032-751dc53b85",
+    "sourceYear": 90,
+    "sourceLabel": "90 年 專業科目(一) 第 32 題",
+    "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
+    "sourceLocator": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md#offset-3436",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "外交部核發普通護照之效期以十年為限，但未滿14歲者之普通護照以幾年為限？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "㆔年"
+      },
+      {
+        "id": "B",
+        "text": "五年"
+      },
+      {
+        "id": "C",
+        "text": "六年"
+      },
+      {
+        "id": "D",
+        "text": "十年"
+      }
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：護照"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "外交部核發普通護照之效期以十年為限，但未滿14歲者之普通護照以幾年為限？ ㆔年 五年 六年 十年 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 807
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p1-q023-72b89fcf7b",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 23 題",
+    "sourceFile": "113\\output\\113-4-四技二專-17餐旅群專一試題\\auto\\113-4-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "113\\output\\113-4-四技二專-17餐旅群專一試題\\auto\\113-4-四技二專-17餐旅群專一試題.md#offset-5453",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "今日小真擔任 Night Clerk 職務，她正在結算當日住房率 Occupancy Rate。小真統計一下數據如下：台北萬豪酒店共有 310間房，3 月25日當天出售了150間，故障房有10間，住客共有200位，當日住宿總收入為600,000元。請問3 月25日當天的住房率是多少？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "46%"
+      },
+      {
+        "id": "B",
+        "text": "48%"
+      },
+      {
+        "id": "C",
+        "text": "50%"
+      },
+      {
+        "id": "D",
+        "text": "52%"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：住宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "今日小真擔任 Night Clerk 職務，她正在結算當日住房率 Occupancy Rate。小真統計一下數據如下：台北萬豪酒店共有 310間房，3 月25日當天出售了150間，故障房有10間，住客共有200位，當日住宿總收入為600,000元。請問3 月25日當天的住房率是多少？ 46% 48% 50% 52% 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 3056
+  }
+}

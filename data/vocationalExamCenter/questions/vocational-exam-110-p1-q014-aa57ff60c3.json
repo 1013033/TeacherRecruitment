@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q014-aa57ff60c3",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 14 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-1719",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "小明對餐廳工作很有興趣，喜歡接待客人，擅長熟記他人的名字與喜好，且與同儕協調溝通良好。依據小明的個人特質，下列哪一項工作職務較適合推薦小明應徵？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "採購人員"
+      },
+      {
+        "id": "B",
+        "text": "餐務人員"
+      },
+      {
+        "id": "C",
+        "text": "領檯人員"
+      },
+      {
+        "id": "D",
+        "text": "廚房助手"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小明對餐廳工作很有興趣，喜歡接待客人，擅長熟記他人的名字與喜好，且與同儕協調溝通良好。依據小明的個人特質，下列哪一項工作職務較適合推薦小明應徵？ 採購人員 餐務人員 領檯人員 廚房助手 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 500
+  }
+}

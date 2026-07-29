@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q016-ec14b416e7",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 16 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-2363",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "旅行業AMADEUS訂位系統五原則「SMART」中的M代表下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "行程"
+      },
+      {
+        "id": "B",
+        "text": "旅客姓名 號 碼"
+      },
+      {
+        "id": "D",
+        "text": "訂位者聯絡"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行業AMADEUS訂位系統五原則「SMART」中的M代表下列何者？ 行程 旅客姓名 號 碼 訂位者聯絡 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1257
+  }
+}

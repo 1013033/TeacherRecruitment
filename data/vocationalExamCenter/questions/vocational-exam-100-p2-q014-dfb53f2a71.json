@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p2-q014-dfb53f2a71",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(二) 第 14 題",
+    "sourceFile": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md",
+    "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-1967",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列關於服務禮儀的敘述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "交換名片時，為展現尊重應以雙手呈遞、雙手接收"
+      },
+      {
+        "id": "B",
+        "text": "引導顧客下樓梯時，為表現恭敬應請顧客先行"
+      },
+      {
+        "id": "C",
+        "text": "男女握手時，為符合國際禮儀，男士不宜主動伸手"
+      },
+      {
+        "id": "D",
+        "text": "遇有急事時，為保持儀態從容可加快步伐，但不宜奔跑"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列關於服務禮儀的敘述，何者錯誤？ 交換名片時，為展現尊重應以雙手呈遞、雙手接收 引導顧客下樓梯時，為表現恭敬應請顧客先行 男女握手時，為符合國際禮儀，男士不宜主動伸手 遇有急事時，為保持儀態從容可加快步伐，但不宜奔跑 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1305
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q020-34d577f50f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 20 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-2429",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "旅行社將上游產業資源整合，設計不同類型的套裝遊程(如：豪華、精緻、經濟遊程)以類似批發方式提供下游業者進行銷售，並從中賺取利潤，是屬於下列哪一種經營模式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Wholesaler"
+      },
+      {
+        "id": "B",
+        "text": "Retailer"
+      },
+      {
+        "id": "C",
+        "text": "PAK"
+      },
+      {
+        "id": "D",
+        "text": "Direct sales"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行社"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行社將上游產業資源整合，設計不同類型的套裝遊程(如：豪華、精緻、經濟遊程)以類似批發方式提供下游業者進行銷售，並從中賺取利潤，是屬於下列哪一種經營模式？ Wholesaler Retailer PAK Direct sales 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 207
+  }
+}

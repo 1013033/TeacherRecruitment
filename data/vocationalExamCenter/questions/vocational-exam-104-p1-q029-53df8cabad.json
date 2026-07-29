@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q029-53df8cabad",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 29 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-3396",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "依「發展觀光條例」所訂定之「旅行業管理規則」中，下列哪一項不是甲種旅行業的業務範圍？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "代訂國內食宿及提供行李服務"
+      },
+      {
+        "id": "B",
+        "text": "提供國內外旅遊諮詢服務"
+      },
+      {
+        "id": "C",
+        "text": "設計國內外旅程、安排導遊人員或領隊人員"
+      },
+      {
+        "id": "D",
+        "text": "以包辦旅遊方式安排國內外旅遊服務"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依「發展觀光條例」所訂定之「旅行業管理規則」中，下列哪一項不是甲種旅行業的業務範圍？ 代訂國內食宿及提供行李服務 提供國內外旅遊諮詢服務 設計國內外旅程、安排導遊人員或領隊人員 以包辦旅遊方式安排國內外旅遊服務 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 216
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-q003-e971851fda",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md",
+    "sourceLocator": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md#offset-538",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "依據我國「專門職業及技術人員普通考試導遊人員考試規則」規定，考試及格人員需經過哪個單位的訓練合格後，始得申領執業證？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "勞工保險局"
+      },
+      {
+        "id": "B",
+        "text": "觀光局"
+      },
+      {
+        "id": "C",
+        "text": "人事行政局"
+      },
+      {
+        "id": "D",
+        "text": "職業訓練局"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：導遊、觀光局"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：導遊、觀光局"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據我國「專門職業及技術人員普通考試導遊人員考試規則」規定，考試及格人員需經過哪個單位的訓練合格後，始得申領執業證？ 勞工保險局 觀光局 人事行政局 職業訓練局 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 978
+  }
+}

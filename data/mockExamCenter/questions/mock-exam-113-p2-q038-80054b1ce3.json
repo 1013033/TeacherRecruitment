@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p2-q038-80054b1ce3",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 38 題",
+    "sourceFile": "113\\output\\113-2-四技二專-17餐旅群專二試題\\auto\\113-2-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "113\\output\\113-2-四技二專-17餐旅群專二試題\\auto\\113-2-四技二專-17餐旅群專二試題.md#offset-8519",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "阿源茗茶產地位於南投日月潭，主要販售在地紅茶，本日新進員工舒華將公司的茶包禮盒DM(圖(三))打錯了，請你根據茶葉敘述與茶名配對，協助找出下列何者不正確？",
+    "images": [
+      {
+        "id": "mock-exam-113-p2-q038-80054b1ce3-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-113-p2-q038-80054b1ce3-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "蜜香紅茶"
+      },
+      {
+        "id": "B",
+        "text": "阿薩姆紅茶"
+      },
+      {
+        "id": "C",
+        "text": "紅韻紅茶"
+      },
+      {
+        "id": "D",
+        "text": "原生山茶 圖(三)"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿源茗茶產地位於南投日月潭，主要販售在地紅茶，本日新進員工舒華將公司的茶包禮盒DM(圖(三))打錯了，請你根據茶葉敘述與茶名配對，協助找出下列何者不正確？ 蜜香紅茶 阿薩姆紅茶 紅韻紅茶 原生山茶 圖(三) 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2921
+  }
+}

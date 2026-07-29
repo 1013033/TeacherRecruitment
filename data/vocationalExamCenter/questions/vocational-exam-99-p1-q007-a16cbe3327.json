@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q007-a16cbe3327",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 7 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-1201",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "「航權」又稱航空自由，可分成八種類型，其中第六航權是下列哪兩種航權的組合？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "第三航權與第四航權"
+      },
+      {
+        "id": "B",
+        "text": "第二航權與第三航權"
+      },
+      {
+        "id": "C",
+        "text": "第一航權與第二航權"
+      },
+      {
+        "id": "D",
+        "text": "第七航權與第八航權"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：航空"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「航權」又稱航空自由，可分成八種類型，其中第六航權是下列哪兩種航權的組合？ 第三航權與第四航權 第二航權與第三航權 第一航權與第二航權 第七航權與第八航權 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1248
+  }
+}

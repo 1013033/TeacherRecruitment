@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q039-c7ef33ec69",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 39 題",
+    "sourceFile": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md",
+    "sourceLocator": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md#offset-5989",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "在中國歷代飲茶方法上，各朝代有其各自代表性的飲茶方式，其中「點茶」是哪一個朝代所盛行？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "唐朝"
+      },
+      {
+        "id": "B",
+        "text": "明朝"
+      },
+      {
+        "id": "C",
+        "text": "宋朝"
+      },
+      {
+        "id": "D",
+        "text": "清朝"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在中國歷代飲茶方法上，各朝代有其各自代表性的飲茶方式，其中「點茶」是哪一個朝代所盛行？ 唐朝 明朝 宋朝 清朝 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3318
+  }
+}

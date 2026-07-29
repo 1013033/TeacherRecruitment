@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q033-33ee8e8fd9",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 33 題",
+    "sourceFile": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md",
+    "sourceLocator": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md#offset-9809",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "政府某單位依據各國即時狀態，隨時提供相關警示等級公告，如圖(二)所示，針對泰國曾有多次不同等級的預警，提供旅客自行參考。請問，此類型警示等級資訊屬於臺灣哪一個主管機關之工作職掌？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "內政部入出國及移民署"
+      },
+      {
+        "id": "B",
+        "text": "外交部領事事務局"
+      },
+      {
+        "id": "C",
+        "text": "財政部關務署"
+      },
+      {
+        "id": "D",
+        "text": "衛生福利部疾病管制署 <table><tr><td rowspan=1 colspan=1>第二級：警示(Alert)警示-警示：茲卡病毒感染症(2018/12/5)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，對當地採取加強防護</td></tr><tr><td rowspan=1 colspan=1>第一級：注意(Watch)警示-注意：登革熱(2022/11/18)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，提醒遵守當地的一般預防措施</td></tr><tr><td rowspan=1 colspan=1>第一級：注意(Watch)警示-注意：猴痘(2022/11/18)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，提醒遵守當地的一般預防措施</td></tr><tr><td rowspan=1 colspan=1>第一級：注意(Watch)警示-注意：屈公病(2022/11/18)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，提醒遵守當地的一般預防措施</td></tr><tr><td rowspan=1 colspan=1>第三級：警告(Warning)警示-警告：麻疹(2021/7/9)</td></tr></table> 泰國/警示範圍，避免至當地所有非必要旅遊 ## 圖(二)"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "政府某單位依據各國即時狀態，隨時提供相關警示等級公告，如圖(二)所示，針對泰國曾有多次不同等級的預警，提供旅客自行參考。請問，此類型警示等級資訊屬於臺灣哪一個主管機關之工作職掌？ 內政部入出國及移民署 外交部領事事務局 財政部關務署 衛生福利部疾病管制署 <table><tr><td rowspan=1 colspan=1>第二級：警示(Alert)警示-警示：茲卡病毒感染症(2018/12/5)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，對當地採取加強防護</td></tr><tr><td rowspan=1 colspan=1>第一級：注意(Watch)警示-注意：登革熱(2022/11/18)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，提醒遵守當地的一般預防措施</td></tr><tr><td rowspan=1 colspan=1>第一級：注意(Watch)警示-注意：猴痘(2022/11/18)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，提醒遵守當地的一般預防措施</td></tr><tr><td rowspan=1 colspan=1>第一級：注意(Watch)警示-注意：屈公病(2022/11/18)</td></tr><tr><td rowspan=1 colspan=1>泰國/警示範圍，提醒遵守當地的一般預防措施</td></tr><tr><td rowspan=1 colspan=1>第三級：警告(Warning)警示-警告：麻疹(2021/7/9)</td></tr></table> 泰國/警示範圍，避免至當地所有非必要旅遊 ## 圖(二) 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2233
+  }
+}

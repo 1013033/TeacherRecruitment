@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q027-b72a55f34a",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 27 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-3532",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項屬於國際觀光旅館行銷業務部門的工作職掌？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "開發客源並建立對外的公共關係 B) 辦理住房及退房"
+      },
+      {
+        "id": "C",
+        "text": "負責餐廳的安全與衛生 D) 擬定飯店訓練計畫"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項屬於國際觀光旅館行銷業務部門的工作職掌？ 開發客源並建立對外的公共關係 B) 辦理住房及退房 負責餐廳的安全與衛生 D) 擬定飯店訓練計畫 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1268
+  }
+}

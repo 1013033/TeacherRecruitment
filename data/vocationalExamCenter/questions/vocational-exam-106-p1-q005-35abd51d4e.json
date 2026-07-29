@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p1-q005-35abd51d4e",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(一) 第 5 題",
+    "sourceFile": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md",
+    "sourceLocator": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md#offset-878",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "導遊或領隊證照考試，通過筆試後仍須進行口試，是為下列何者？甲：外語領隊 乙：外語導遊 丙：華語導遊 丁：華語領隊",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙"
+      },
+      {
+        "id": "C",
+        "text": "乙"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：領隊、導遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：領隊、導遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "導遊或領隊證照考試，通過筆試後仍須進行口試，是為下列何者？甲：外語領隊 乙：外語導遊 丙：華語導遊 丁：華語領隊 甲 甲、乙 乙 丙、丁 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 292
+  }
+}

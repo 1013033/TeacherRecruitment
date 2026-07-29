@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p2-q009-2a9273cad4",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(二) 第 9 題",
+    "sourceFile": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md",
+    "sourceLocator": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md#offset-1495",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "房務員每日值勤時，都須檢查房務推車並補足所有用品、備品。下列哪一個時段是執行此項任務的最佳時機？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "上午 11點到中午 12點間"
+      },
+      {
+        "id": "B",
+        "text": "中午12點到下午1點間"
+      },
+      {
+        "id": "C",
+        "text": "每日倉庫開放領貨時"
+      },
+      {
+        "id": "D",
+        "text": "每日下午下班前"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "房務員每日值勤時，都須檢查房務推車並補足所有用品、備品。下列哪一個時段是執行此項任務的最佳時機？ 上午 11點到中午 12點間 中午12點到下午1點間 每日倉庫開放領貨時 每日下午下班前 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1496
+  }
+}

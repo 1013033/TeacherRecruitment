@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q022-23bc96b62a",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 22 題",
+    "sourceFile": "110\\output\\110-1專二試題\\auto\\110-1專二試題.md",
+    "sourceLocator": "110\\output\\110-1專二試題\\auto\\110-1專二試題.md#offset-5484",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "在我國廚餘的分類方式可分成養豬廚餘及堆肥廚餘兩大類，下列哪些屬於堆肥廚餘？甲、果核 乙、雞、鴨等小骨頭 丙、調味料 丁、生菜葉 戊、咖啡渣",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "甲乙丁"
+      },
+      {
+        "id": "C",
+        "text": "甲乙戊"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丙丁戊"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在我國廚餘的分類方式可分成養豬廚餘及堆肥廚餘兩大類，下列哪些屬於堆肥廚餘？甲、果核 乙、雞、鴨等小骨頭 丙、調味料 丁、生菜葉 戊、咖啡渣 甲乙丙 甲乙丁 甲乙戊 甲乙丙丁戊 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1434
+  }
+}

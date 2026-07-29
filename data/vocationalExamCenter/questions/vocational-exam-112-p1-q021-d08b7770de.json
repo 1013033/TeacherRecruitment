@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q021-d08b7770de",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 21 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-3928",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "臺灣近年來有一些以特許加盟方式經營的飯店，如臺北寒舍艾美酒店。下列何者較不屬於特許加盟飯店的特色？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "共享市場資訊以及使用連鎖訂房系統"
+      },
+      {
+        "id": "B",
+        "text": "業主經營管理且財務及人事獨立運作"
+      },
+      {
+        "id": "C",
+        "text": "支付加盟權利金並由總公司抽查督導"
+      },
+      {
+        "id": "D",
+        "text": "連鎖總部可依其營業收入抽取獎勵金"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：營業收入、連鎖"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：營業收入、連鎖"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣近年來有一些以特許加盟方式經營的飯店，如臺北寒舍艾美酒店。下列何者較不屬於特許加盟飯店的特色？ 共享市場資訊以及使用連鎖訂房系統 業主經營管理且財務及人事獨立運作 支付加盟權利金並由總公司抽查督導 連鎖總部可依其營業收入抽取獎勵金 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 606
+  }
+}

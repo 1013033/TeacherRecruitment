@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q005-a9b018f524",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 5 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-1260",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "小珊與小平是虔誠的佛教徒，合資經營素食餐廳，提供全素食者前往用餐，下列哪些食材適合運用於菜單設計中？甲、韭菜 乙、香菜 丙、洋蔥 丁、辣椒",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "乙、丁"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小珊與小平是虔誠的佛教徒，合資經營素食餐廳，提供全素食者前往用餐，下列哪些食材適合運用於菜單設計中？甲、韭菜 乙、香菜 丙、洋蔥 丁、辣椒 甲、丙 甲、丁 乙、丙 乙、丁 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1913
+  }
+}

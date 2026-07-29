@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q008-6751f0c2dd",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 8 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-1310",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "由專業外燴餐飲團隊將食物製備與服務的過程，移到顧客所指定場所進行餐宴，這是屬於下列哪一種餐飲服務？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "mobile canteen service"
+      },
+      {
+        "id": "B",
+        "text": "catering service"
+      },
+      {
+        "id": "C",
+        "text": "in-flight service"
+      },
+      {
+        "id": "D",
+        "text": "room service"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "由專業外燴餐飲團隊將食物製備與服務的過程，移到顧客所指定場所進行餐宴，這是屬於下列哪一種餐飲服務？ mobile canteen service catering service in-flight service room service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 103
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q024-26341126b4",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 24 題",
+    "sourceFile": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md",
+    "sourceLocator": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md#offset-3664",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "有關用餐禮儀的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "餐具掉落時，應請服務人員協助，但若服務人員忙碌中，可至服務檯自行取用"
+      },
+      {
+        "id": "B",
+        "text": "口中食物殘渣可吐於手心再置於骨盤"
+      },
+      {
+        "id": "C",
+        "text": "以口就食，若食物過燙可喝水降溫，食物不可直接吐出"
+      },
+      {
+        "id": "D",
+        "text": "用餐速度應配合男主人或男主賓"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關用餐禮儀的敘述，下列何者正確？ 餐具掉落時，應請服務人員協助，但若服務人員忙碌中，可至服務檯自行取用 口中食物殘渣可吐於手心再置於骨盤 以口就食，若食物過燙可喝水降溫，食物不可直接吐出 用餐速度應配合男主人或男主賓 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1534
+  }
+}

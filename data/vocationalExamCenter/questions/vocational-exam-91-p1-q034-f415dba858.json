@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p1-q034-f415dba858",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(一) 第 34 題",
+    "sourceFile": "專一\\output\\91專一\\auto\\91專一.md",
+    "sourceLocator": "專一\\output\\91專一\\auto\\91專一.md#offset-3905",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "紅粉佳人（Pink Lady），其主要基酒是：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "琴酒（Gin）"
+      },
+      {
+        "id": "B",
+        "text": "蘭姆酒（Rum）"
+      },
+      {
+        "id": "C",
+        "text": "伏特加酒（Vodka）"
+      },
+      {
+        "id": "D",
+        "text": "白蘭地酒（Brandy）"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：白蘭地、vodka、gin、rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：白蘭地、vodka、gin、rum"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "紅粉佳人（Pink Lady），其主要基酒是： 琴酒（Gin） 蘭姆酒（Rum） 伏特加酒（Vodka） 白蘭地酒（Brandy） 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 859
+  }
+}

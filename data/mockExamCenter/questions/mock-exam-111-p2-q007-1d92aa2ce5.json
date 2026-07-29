@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q007-1d92aa2ce5",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 7 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-1091",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "有關Napkin用途的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "觀賞用口布適合以杯花呈現，如野玫瑰、金魚、蘭花"
+      },
+      {
+        "id": "B",
+        "text": "服勤口布多以白色服務巾進行，如蓮花座、牛角"
+      },
+      {
+        "id": "C",
+        "text": "常見客用口布有波浪、皇冠、帳篷和金字塔"
+      },
+      {
+        "id": "D",
+        "text": "唯一通用於客用、觀賞及服勤用口布的是餐具袋"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、口布"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、口布"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關Napkin用途的敘述，下列何者錯誤？ 觀賞用口布適合以杯花呈現，如野玫瑰、金魚、蘭花 服勤口布多以白色服務巾進行，如蓮花座、牛角 常見客用口布有波浪、皇冠、帳篷和金字塔 唯一通用於客用、觀賞及服勤用口布的是餐具袋 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2087
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p1-q007-e101d2654f",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 7 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-1147",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "科技公司每年至少需安排200間住房數量以招待來訪客戶住宿，因此業務部門應與旅館商討下列哪一種房價計價方式較為合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "commercial rate"
+      },
+      {
+        "id": "B",
+        "text": "high season room rate"
+      },
+      {
+        "id": "C",
+        "text": "standard rate"
+      },
+      {
+        "id": "D",
+        "text": "time limited rate"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、住宿、房價、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、住宿、房價、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "科技公司每年至少需安排200間住房數量以招待來訪客戶住宿，因此業務部門應與旅館商討下列哪一種房價計價方式較為合適？ commercial rate high season room rate standard rate time limited rate 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 543
+  }
+}

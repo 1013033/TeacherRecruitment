@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q022-91278b1bd1",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 22 題",
+    "sourceFile": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md",
+    "sourceLocator": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md#offset-3446",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "依據食品良好衛生規範，針對餐飲業「餐具」的消毒殺菌方法，下列哪一種方法，所需要的時間最長？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "110°C 以上的乾熱"
+      },
+      {
+        "id": "B",
+        "text": "100°C 以上的沸水"
+      },
+      {
+        "id": "C",
+        "text": "100°C 以上的蒸氣"
+      },
+      {
+        "id": "D",
+        "text": "80°C 以上的熱水"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據食品良好衛生規範，針對餐飲業「餐具」的消毒殺菌方法，下列哪一種方法，所需要的時間最長？ 110°C 以上的乾熱 100°C 以上的沸水 100°C 以上的蒸氣 80°C 以上的熱水 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 648
+  }
+}

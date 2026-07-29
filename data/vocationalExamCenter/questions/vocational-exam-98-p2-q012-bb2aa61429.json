@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p2-q012-bb2aa61429",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(二) 第 12 題",
+    "sourceFile": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md",
+    "sourceLocator": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md#offset-1810",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "正式西式套餐中，沙碧( sorbet 或 sherbet ) 的主要功能是什麼？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "開胃之用"
+      },
+      {
+        "id": "B",
+        "text": "佐餐之用"
+      },
+      {
+        "id": "C",
+        "text": "調整味覺之用"
+      },
+      {
+        "id": "D",
+        "text": "搭配甜點之用"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：sorbet"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：sorbet"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "正式西式套餐中，沙碧( sorbet 或 sherbet ) 的主要功能是什麼？ 開胃之用 佐餐之用 調整味覺之用 搭配甜點之用 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2455
+  }
+}

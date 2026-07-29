@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p2-q029-df65fb0cd4",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(二) 第 29 題",
+    "sourceFile": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md",
+    "sourceLocator": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md#offset-3568",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "服務含帶殼田螺之套餐時，下列餐具之使用與擺設位置組合，何者正確？甲、butter knife：左方 乙、fish knife：右方丙、lobster pick：右方 丁、snail tongs：右方",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "甲、乙、丙、丁"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具、knife"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具、knife"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "服務含帶殼田螺之套餐時，下列餐具之使用與擺設位置組合，何者正確？甲、butter knife：左方 乙、fish knife：右方丙、lobster pick：右方 丁、snail tongs：右方 甲 甲、丁 甲、乙、丙 甲、乙、丙、丁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1467
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q041-eac2df287f",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 41 題",
+    "sourceFile": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md",
+    "sourceLocator": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md#offset-7190",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "有關咖啡水洗處理法與日曬處理法，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "日曬處理法，精製成本較高"
+      },
+      {
+        "id": "B",
+        "text": "日曬處理法，品質較不穩定"
+      },
+      {
+        "id": "C",
+        "text": "水洗處理不需要經過發酵過程"
+      },
+      {
+        "id": "D",
+        "text": "水洗處理法是最早使用的處理法"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關咖啡水洗處理法與日曬處理法，下列何者正確？ 日曬處理法，精製成本較高 日曬處理法，品質較不穩定 水洗處理不需要經過發酵過程 水洗處理法是最早使用的處理法 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1088
+  }
+}

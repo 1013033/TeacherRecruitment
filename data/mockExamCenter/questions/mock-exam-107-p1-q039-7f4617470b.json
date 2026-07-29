@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q039-7f4617470b",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 39 題",
+    "sourceFile": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md",
+    "sourceLocator": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md#offset-6645",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "有關旅行業從業人員工作職責之敘述，下列何者錯誤？甲、Tour Escort 專責執行或引導 Outbound Tour乙、Route Controller專責領隊導遊安排與召開行前說明會丙、Operationist專責旅客簽證辦理、市場調查、行銷與成本管控丁、Tour Controller專責管控出團各項事務，包含機位、航班確認及證件辦理戊、Ticket Clerk專責訂位、開票、參團組團作業",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丁"
+      },
+      {
+        "id": "B",
+        "text": "乙丙戊"
+      },
+      {
+        "id": "C",
+        "text": "丙丁戊"
+      },
+      {
+        "id": "D",
+        "text": "甲丙戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、導遊、簽證、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、導遊、簽證、tour"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關旅行業從業人員工作職責之敘述，下列何者錯誤？甲、Tour Escort 專責執行或引導 Outbound Tour乙、Route Controller專責領隊導遊安排與召開行前說明會丙、Operationist專責旅客簽證辦理、市場調查、行銷與成本管控丁、Tour Controller專責管控出團各項事務，包含機位、航班確認及證件辦理戊、Ticket Clerk專責訂位、開票、參團組團作業 甲乙丁 乙丙戊 丙丁戊 甲丙戊 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 387
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q027-64c1849370",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 27 題",
+    "sourceFile": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-3950",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "新冠疫情期間，督導巡查各分店，要求主管們加強衛生安全部分，下列何者工作內容錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "破裂的器皿不可提供給顧客使用，避免顧客割傷"
+      },
+      {
+        "id": "B",
+        "text": "器皿、餐具掉落地面時，要清洗乾淨後才可以使用"
+      },
+      {
+        "id": "C",
+        "text": "飲務人員作業時，在調製過程中，全程配戴口罩，因此調製期間可交談安排工作內容"
+      },
+      {
+        "id": "D",
+        "text": "接觸餐具、杯具時，避免手指接觸內部，盡可能接觸底部或是邊緣，避免交叉污染"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "新冠疫情期間，督導巡查各分店，要求主管們加強衛生安全部分，下列何者工作內容錯誤？ 破裂的器皿不可提供給顧客使用，避免顧客割傷 器皿、餐具掉落地面時，要清洗乾淨後才可以使用 飲務人員作業時，在調製過程中，全程配戴口罩，因此調製期間可交談安排工作內容 接觸餐具、杯具時，避免手指接觸內部，盡可能接觸底部或是邊緣，避免交叉污染 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1922
+  }
+}

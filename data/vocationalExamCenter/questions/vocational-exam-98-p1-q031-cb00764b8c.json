@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p1-q031-cb00764b8c",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(一) 第 31 題",
+    "sourceFile": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md",
+    "sourceLocator": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md#offset-4217",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "房間位置或房型是影響房價相當重要的因素之一，下列哪一種房間位置或房型之房價通常最低？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "executive floor"
+      },
+      {
+        "id": "B",
+        "text": "suite"
+      },
+      {
+        "id": "C",
+        "text": "inside room"
+      },
+      {
+        "id": "D",
+        "text": "outside room"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：房價、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：房價、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "房間位置或房型是影響房價相當重要的因素之一，下列哪一種房間位置或房型之房價通常最低？ executive floor suite inside room outside room 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1232
+  }
+}

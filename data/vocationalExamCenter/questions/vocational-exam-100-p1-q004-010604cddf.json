@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p1-q004-010604cddf",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(一) 第 4 題",
+    "sourceFile": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md",
+    "sourceLocator": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md#offset-681",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "在餐廳負責提供顧客用餐前、佐餐以及餐後之葡萄酒服務工作的專業人員稱為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "bartender"
+      },
+      {
+        "id": "B",
+        "text": "bus boy"
+      },
+      {
+        "id": "C",
+        "text": "commis de rang"
+      },
+      {
+        "id": "D",
+        "text": "sommelier"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒、bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒、bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在餐廳負責提供顧客用餐前、佐餐以及餐後之葡萄酒服務工作的專業人員稱為： bartender bus boy commis de rang sommelier 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 4
+  }
+}

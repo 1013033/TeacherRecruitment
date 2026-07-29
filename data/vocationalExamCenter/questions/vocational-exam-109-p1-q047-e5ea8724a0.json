@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q047-e5ea8724a0",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 47 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-7555",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "關於餐飲業的加盟連鎖經營模式，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "特許加盟連鎖的利潤或盈餘，總部分配的比例較加盟者高"
+      },
+      {
+        "id": "B",
+        "text": "特許加盟連鎖、委託加盟連鎖以及直營連鎖，三者的經營權僅屬於總部"
+      },
+      {
+        "id": "C",
+        "text": "特許加盟連鎖、委託加盟連鎖與自願加盟連鎖的資金來源，皆來自於加盟者"
+      },
+      {
+        "id": "D",
+        "text": "特許加盟連鎖的店面所有權屬於加盟者，但是委託加盟連鎖與直營連鎖的店面所有權屬於總部"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業、連鎖"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業、連鎖"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐飲業的加盟連鎖經營模式，下列何者正確？ 特許加盟連鎖的利潤或盈餘，總部分配的比例較加盟者高 特許加盟連鎖、委託加盟連鎖以及直營連鎖，三者的經營權僅屬於總部 特許加盟連鎖、委託加盟連鎖與自願加盟連鎖的資金來源，皆來自於加盟者 特許加盟連鎖的店面所有權屬於加盟者，但是委託加盟連鎖與直營連鎖的店面所有權屬於總部 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 483
+  }
+}

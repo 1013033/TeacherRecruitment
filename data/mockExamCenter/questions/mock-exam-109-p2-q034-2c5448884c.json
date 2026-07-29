@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q034-2c5448884c",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 34 題",
+    "sourceFile": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md",
+    "sourceLocator": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md#offset-6647",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "下列何者屬於有酒精飲料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Soft Drink"
+      },
+      {
+        "id": "B",
+        "text": "Mocktail"
+      },
+      {
+        "id": "C",
+        "text": "Virgin Drink"
+      },
+      {
+        "id": "D",
+        "text": "Cocktail"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：gin、cocktail、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：gin、cocktail、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者屬於有酒精飲料？ Soft Drink Mocktail Virgin Drink Cocktail 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1081
+  }
+}

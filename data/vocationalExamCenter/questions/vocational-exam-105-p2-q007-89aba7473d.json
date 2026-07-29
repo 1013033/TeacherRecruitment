@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p2-q007-89aba7473d",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md",
+    "sourceLocator": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md#offset-1217",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "服務人員呈遞菜單給顧客時，下列何者是最好的方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "從顧客右側，以左手呈遞"
+      },
+      {
+        "id": "B",
+        "text": "從顧客右側，以雙手呈遞"
+      },
+      {
+        "id": "C",
+        "text": "從顧客左側，以右手呈遞"
+      },
+      {
+        "id": "D",
+        "text": "從顧客左側，以雙手呈遞"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "服務人員呈遞菜單給顧客時，下列何者是最好的方式？ 從顧客右側，以左手呈遞 從顧客右側，以雙手呈遞 從顧客左側，以右手呈遞 從顧客左側，以雙手呈遞 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1544
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p2-q045-4a8cba3ab1",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(二) 第 45 題",
+    "sourceFile": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md",
+    "sourceLocator": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md#offset-5703",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "關於茶葉沖泡及器具之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "茶針的主要功能是測試水溫"
+      },
+      {
+        "id": "B",
+        "text": "茶漏的功能為盛接茶船溢出之水"
+      },
+      {
+        "id": "C",
+        "text": "阿薩姆紅茶沖泡水溫以 80℃最適合"
+      },
+      {
+        "id": "D",
+        "text": "通常不發酵茶之沖泡水溫較全發酵茶低"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於茶葉沖泡及器具之敘述，下列何者正確？ 茶針的主要功能是測試水溫 茶漏的功能為盛接茶船溢出之水 阿薩姆紅茶沖泡水溫以 80℃最適合 通常不發酵茶之沖泡水溫較全發酵茶低 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1482
+  }
+}

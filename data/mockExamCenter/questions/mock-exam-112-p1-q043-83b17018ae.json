@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p1-q043-83b17018ae",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 43 題",
+    "sourceFile": "112\\output\\112-1-四技二專-17餐旅群專一試題\\auto\\112-1-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "112\\output\\112-1-四技二專-17餐旅群專一試題\\auto\\112-1-四技二專-17餐旅群專一試題.md#offset-5981",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "周末、假日住房率較低，淡旺季較其他類型的旅館小，且多設立於市中心或商業重鎮是下列哪一種旅館？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Ranch"
+      },
+      {
+        "id": "B",
+        "text": "Boutique Hotel"
+      },
+      {
+        "id": "C",
+        "text": "Commercial Hotel"
+      },
+      {
+        "id": "D",
+        "text": "Casino Hotel"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "周末、假日住房率較低，淡旺季較其他類型的旅館小，且多設立於市中心或商業重鎮是下列哪一種旅館？ Ranch Boutique Hotel Commercial Hotel Casino Hotel 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2338
+  }
+}

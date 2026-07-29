@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p2-q009-67e1534bc4",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 9 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-1084",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "製作「韭菜盒子」的麵糰，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "該麵糰屬於冷水麵糰"
+      },
+      {
+        "id": "B",
+        "text": "製作麵糰時需要加入溫熱的水"
+      },
+      {
+        "id": "C",
+        "text": "不需要經過鬆弛的步驟"
+      },
+      {
+        "id": "D",
+        "text": "最好使用特高筋麵粉"
+      }
+    ],
+    "answer": "B",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：麵粉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：麵粉"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "製作「韭菜盒子」的麵糰，下列敘述何者正確？ 該麵糰屬於冷水麵糰 製作麵糰時需要加入溫熱的水 不需要經過鬆弛的步驟 最好使用特高筋麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2352
+  }
+}

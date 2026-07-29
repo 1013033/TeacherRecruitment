@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q040-a718338ffa",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 40 題",
+    "sourceFile": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md",
+    "sourceLocator": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md#offset-6813",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "有關「咖啡果實的構造」，由內部往外部的順序，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "種子→果肉→銀皮→羊皮層→外果皮"
+      },
+      {
+        "id": "B",
+        "text": "種子→果肉→羊皮層→銀皮→外果皮"
+      },
+      {
+        "id": "C",
+        "text": "種子→銀皮→羊皮層→果肉→外果皮"
+      },
+      {
+        "id": "D",
+        "text": "種子→銀皮→果肉→羊皮層→外果皮"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關「咖啡果實的構造」，由內部往外部的順序，下列何者正確？ 種子→果肉→銀皮→羊皮層→外果皮 種子→果肉→羊皮層→銀皮→外果皮 種子→銀皮→羊皮層→果肉→外果皮 種子→銀皮→果肉→羊皮層→外果皮 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3499
+  }
+}

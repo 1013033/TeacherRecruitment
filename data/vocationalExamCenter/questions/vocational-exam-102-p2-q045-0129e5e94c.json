@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q045-0129e5e94c",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 45 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-5633",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "相同條件下，萃取咖啡液體時所釋出的咖啡因，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "烘焙程度較深者，咖啡因成分相對較多"
+      },
+      {
+        "id": "B",
+        "text": "萃取時間較長者，咖啡因成分相對較多"
+      },
+      {
+        "id": "C",
+        "text": "沖泡水溫較高者，所溶出的咖啡因成分相對較多"
+      },
+      {
+        "id": "D",
+        "text": "研磨顆粒較小者，所釋出的咖啡因成分相對較多"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "相同條件下，萃取咖啡液體時所釋出的咖啡因，下列敘述何者錯誤？ 烘焙程度較深者，咖啡因成分相對較多 萃取時間較長者，咖啡因成分相對較多 沖泡水溫較高者，所溶出的咖啡因成分相對較多 研磨顆粒較小者，所釋出的咖啡因成分相對較多 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1433
+  }
+}

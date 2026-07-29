@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q010-96c13ec334",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 10 題",
+    "sourceFile": "109\\output\\109-1-專一試題\\auto\\109-1-專一試題.md",
+    "sourceLocator": "109\\output\\109-1-專一試題\\auto\\109-1-專一試題.md#offset-1412",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "有關餐飲業廚房作業規劃配置，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "蓄水池應保持清潔，設置地點應距化糞池至少15 公尺之距離"
+      },
+      {
+        "id": "B",
+        "text": "儲物架的設計，較重的物品放於靠入口處的底層棚架"
+      },
+      {
+        "id": "C",
+        "text": "廚房工作檯面或調理檯應保持100 米燭光以上"
+      },
+      {
+        "id": "D",
+        "text": "餐具貯存處屬於清潔作業區"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐飲業、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐飲業、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐飲業廚房作業規劃配置，下列何者錯誤？ 蓄水池應保持清潔，設置地點應距化糞池至少15 公尺之距離 儲物架的設計，較重的物品放於靠入口處的底層棚架 廚房工作檯面或調理檯應保持100 米燭光以上 餐具貯存處屬於清潔作業區 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 921
+  }
+}

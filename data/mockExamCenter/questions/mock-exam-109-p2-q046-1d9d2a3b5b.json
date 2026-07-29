@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q046-1d9d2a3b5b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 46 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-6254",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "下列有幾種茶款是生產於臺灣北部？ㄅ、五峰茶 ㄆ、龍井茶 ㄇ、東方美人茶 ㄈ、松柏長青茶 ㄉ、港口茶 ㄊ、高山茶",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "3 種"
+      },
+      {
+        "id": "B",
+        "text": "4 種"
+      },
+      {
+        "id": "C",
+        "text": "5 種"
+      },
+      {
+        "id": "D",
+        "text": "6 種"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有幾種茶款是生產於臺灣北部？ㄅ、五峰茶 ㄆ、龍井茶 ㄇ、東方美人茶 ㄈ、松柏長青茶 ㄉ、港口茶 ㄊ、高山茶 3 種 4 種 5 種 6 種 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 998
+  }
+}

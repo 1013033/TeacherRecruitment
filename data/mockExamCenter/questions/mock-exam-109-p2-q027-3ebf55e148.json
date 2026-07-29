@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q027-3ebf55e148",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 27 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-4060",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "隨著餐廳的風格及時代潮流的改變，並不是每間餐廳都會鋪設檯布或檯心布，下列何種作法較不可能是目前餐廳其餐桌呈現的方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以黑色或深色檯布取代白色檯布"
+      },
+      {
+        "id": "B",
+        "text": "增加桌飾巾的鋪設以增添美觀"
+      },
+      {
+        "id": "C",
+        "text": "未鋪設檯布，直接擺餐墊"
+      },
+      {
+        "id": "D",
+        "text": "未鋪設檯布，直接在餐具下面墊上服務巾"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "隨著餐廳的風格及時代潮流的改變，並不是每間餐廳都會鋪設檯布或檯心布，下列何種作法較不可能是目前餐廳其餐桌呈現的方式？ 以黑色或深色檯布取代白色檯布 增加桌飾巾的鋪設以增添美觀 未鋪設檯布，直接擺餐墊 未鋪設檯布，直接在餐具下面墊上服務巾 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 980
+  }
+}

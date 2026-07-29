@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q025-20b736ee75",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 25 題",
+    "sourceFile": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md",
+    "sourceLocator": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md#offset-4678",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "現今的電子機票已全面實現無紙化與電子化，使訂票、付款以及辦理登機手續等流程更加便捷高效。根據電子機票上各欄位的說明，判斷下列選項何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "ALLOW：用於顯示訂票代號，通常由六位英數字組成"
+      },
+      {
+        "id": "B",
+        "text": "CLASS：表示機票的訂位狀況"
+      },
+      {
+        "id": "C",
+        "text": "FROM/TO：用於顯示機票的有效期限，包含最早及最晚可使用的日期"
+      },
+      {
+        "id": "D",
+        "text": "CARRIER：顯示本次航班的航空公司代號，如「CI」、「BR」"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：航空、機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：航空、機票"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "現今的電子機票已全面實現無紙化與電子化，使訂票、付款以及辦理登機手續等流程更加便捷高效。根據電子機票上各欄位的說明，判斷下列選項何者正確？ ALLOW：用於顯示訂票代號，通常由六位英數字組成 CLASS：表示機票的訂位狀況 FROM/TO：用於顯示機票的有效期限，包含最早及最晚可使用的日期 CARRIER：顯示本次航班的航空公司代號，如「CI」、「BR」 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 3354
+  }
+}

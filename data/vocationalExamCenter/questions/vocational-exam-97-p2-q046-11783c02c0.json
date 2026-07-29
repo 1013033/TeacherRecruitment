@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q046-11783c02c0",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 46 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-5718",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "下列關於正式餐會中麵包食用禮儀的敘述，何者最適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "食用右手邊麵包盤上的麵包"
+      },
+      {
+        "id": "B",
+        "text": "麵包用手撕成小塊，塗上奶油後食用"
+      },
+      {
+        "id": "C",
+        "text": "麵包塗上奶油後，整個拿起來吃"
+      },
+      {
+        "id": "D",
+        "text": "以奶油刀切開麵包，塗上奶油後食用"
+      }
+    ],
+    "answer": "B",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：麵包、奶油"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：麵包、奶油"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於正式餐會中麵包食用禮儀的敘述，何者最適當？ 食用右手邊麵包盤上的麵包 麵包用手撕成小塊，塗上奶油後食用 麵包塗上奶油後，整個拿起來吃 以奶油刀切開麵包，塗上奶油後食用 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2439
+  }
+}

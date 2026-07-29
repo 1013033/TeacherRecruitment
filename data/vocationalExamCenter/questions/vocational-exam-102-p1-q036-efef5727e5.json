@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q036-efef5727e5",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 36 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-4547",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列何者是餐飲從業人員須具備的條件？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "在與顧客溝通時，使用專業的術語或專有名詞，以表現出餐飲專業，而不需顧及顧客的感受"
+      },
+      {
+        "id": "B",
+        "text": "有能力分類顧客的點單，規劃來往廚房與服務區域的動線，以節省工作時間及步驟，並有效率地提供服務"
+      },
+      {
+        "id": "C",
+        "text": "在餐飲業中，語言的溝通是服務中最重要的一環，豐富的專業知識，可克服語言不通的障礙"
+      },
+      {
+        "id": "D",
+        "text": "餐飲從業人員每天需要和許多人接觸，也會面對很多突發狀況，但都是小事，不需有抗壓性，亦能夠有正常的工作表現"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者是餐飲從業人員須具備的條件？ 在與顧客溝通時，使用專業的術語或專有名詞，以表現出餐飲專業，而不需顧及顧客的感受 有能力分類顧客的點單，規劃來往廚房與服務區域的動線，以節省工作時間及步驟，並有效率地提供服務 在餐飲業中，語言的溝通是服務中最重要的一環，豐富的專業知識，可克服語言不通的障礙 餐飲從業人員每天需要和許多人接觸，也會面對很多突發狀況，但都是小事，不需有抗壓性，亦能夠有正常的工作表現 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 130
+  }
+}

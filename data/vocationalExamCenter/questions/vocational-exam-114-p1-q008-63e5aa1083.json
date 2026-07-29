@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q008-63e5aa1083",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 8 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-3339",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "阿義於週末前往百貨公司美食街享用午餐，點餐並完成結帳後，服務人員即提供他一個取餐呼叫器；當餐點準備完成時，取餐呼叫器提醒阿義自行前往取餐。這是屬於下列何種餐飲服務型態？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "counter service"
+      },
+      {
+        "id": "B",
+        "text": "delivery service"
+      },
+      {
+        "id": "C",
+        "text": "self service"
+      },
+      {
+        "id": "D",
+        "text": "table service"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿義於週末前往百貨公司美食街享用午餐，點餐並完成結帳後，服務人員即提供他一個取餐呼叫器；當餐點準備完成時，取餐呼叫器提醒阿義自行前往取餐。這是屬於下列何種餐飲服務型態？ counter service delivery service self service table service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 693
+  }
+}

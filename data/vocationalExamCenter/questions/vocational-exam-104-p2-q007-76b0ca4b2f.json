@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p2-q007-76b0ca4b2f",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md",
+    "sourceLocator": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md#offset-1307",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "進行西餐服務時，下列何時是撤除 B.B. plate 之最佳時機？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "上湯品前"
+      },
+      {
+        "id": "B",
+        "text": "上主菜前"
+      },
+      {
+        "id": "C",
+        "text": "上甜點前"
+      },
+      {
+        "id": "D",
+        "text": "上甜點後"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "進行西餐服務時，下列何時是撤除 B.B. plate 之最佳時機？ 上湯品前 上主菜前 上甜點前 上甜點後 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1494
+  }
+}

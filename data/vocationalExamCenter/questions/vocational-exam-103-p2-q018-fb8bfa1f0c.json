@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p2-q018-fb8bfa1f0c",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(二) 第 18 題",
+    "sourceFile": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md",
+    "sourceLocator": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md#offset-2316",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列何者與餐飲服務型式無關？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "plate service"
+      },
+      {
+        "id": "B",
+        "text": "regular service"
+      },
+      {
+        "id": "C",
+        "text": "silver service"
+      },
+      {
+        "id": "D",
+        "text": "table side service"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者與餐飲服務型式無關？ plate service regular service silver service table side service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1456
+  }
+}

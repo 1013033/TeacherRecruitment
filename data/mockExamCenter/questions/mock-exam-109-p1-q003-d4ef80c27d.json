@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q003-d4ef80c27d",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 3 題",
+    "sourceFile": "109\\output\\109-3專一試題\\auto\\109-3專一試題.md",
+    "sourceLocator": "109\\output\\109-3專一試題\\auto\\109-3專一試題.md#offset-304",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "阿寶跟友人到標榜「每盤均一價」的藏壽司(Kura Sushi)用餐，顧客可以自由取用迴轉台上餐品，或利用觸控式螢幕點餐，餐點會經由輸送帶送達桌席；用餐完畢之後，顧客還可以利用盤子自動回收系統(Bikkura-pon)整理餐桌，每投入五個空盤還可以參加遊戲，獲贈獨家扭蛋。請問藏壽司這種依所點食物的單價付款是屬於下列哪一種餐飲服務方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Cafeteria Service"
+      },
+      {
+        "id": "B",
+        "text": "Drive-through Service"
+      },
+      {
+        "id": "C",
+        "text": "Drive-in Service"
+      },
+      {
+        "id": "D",
+        "text": "Buffet Service"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：上餐、餐桌、buffet、cafeteria、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：上餐、餐桌、buffet、cafeteria、service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿寶跟友人到標榜「每盤均一價」的藏壽司(Kura Sushi)用餐，顧客可以自由取用迴轉台上餐品，或利用觸控式螢幕點餐，餐點會經由輸送帶送達桌席；用餐完畢之後，顧客還可以利用盤子自動回收系統(Bikkura-pon)整理餐桌，每投入五個空盤還可以參加遊戲，獲贈獨家扭蛋。請問藏壽司這種依所點食物的單價付款是屬於下列哪一種餐飲服務方式？ Cafeteria Service Drive-through Service Drive-in Service Buffet Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1100
+  }
+}

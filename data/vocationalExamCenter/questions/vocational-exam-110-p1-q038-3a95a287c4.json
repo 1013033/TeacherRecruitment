@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q038-3a95a287c4",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 38 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-4082",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "關於餐廳格局規劃，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "規劃餐廳廚房之前，應先完善設計與安排廚房的作業流程"
+      },
+      {
+        "id": "B",
+        "text": "為考量內外場區隔，餐廳與廚房間的動線設計應越長越好"
+      },
+      {
+        "id": "C",
+        "text": "在空間狹小的廚房，烹調設備的設置較適合面對面平行排列"
+      },
+      {
+        "id": "D",
+        "text": "廚房工作區域規劃，應以食物採購時間先後劃分不同作業區"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐廳格局規劃，下列敘述何者正確？ 規劃餐廳廚房之前，應先完善設計與安排廚房的作業流程 為考量內外場區隔，餐廳與廚房間的動線設計應越長越好 在空間狹小的廚房，烹調設備的設置較適合面對面平行排列 廚房工作區域規劃，應以食物採購時間先後劃分不同作業區 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 524
+  }
+}

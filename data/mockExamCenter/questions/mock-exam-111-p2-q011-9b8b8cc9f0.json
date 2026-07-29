@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q011-9b8b8cc9f0",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 11 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-1581",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "欣葉國際餐飲業者自日本引進女將文化，以多元類型的和食料理餐廳，以Buffet 型式服務客人，有關各式菜餚的食用方式，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "汁物：以口就碗飲用味噌湯"
+      },
+      {
+        "id": "B",
+        "text": "刺身：先吃油脂多的紅肉再吃白肉"
+      },
+      {
+        "id": "C",
+        "text": "酢物：採用當季食材經鹽份醃漬出水後再調味"
+      },
+      {
+        "id": "D",
+        "text": "壽司：考量衛生關係，不能用手指取用"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "欣葉國際餐飲業者自日本引進女將文化，以多元類型的和食料理餐廳，以Buffet 型式服務客人，有關各式菜餚的食用方式，下列何者正確？ 汁物：以口就碗飲用味噌湯 刺身：先吃油脂多的紅肉再吃白肉 酢物：採用當季食材經鹽份醃漬出水後再調味 壽司：考量衛生關係，不能用手指取用 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2091
+  }
+}

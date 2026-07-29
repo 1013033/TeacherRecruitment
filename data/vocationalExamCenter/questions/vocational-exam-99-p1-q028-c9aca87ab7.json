@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q028-c9aca87ab7",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 28 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-3618",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "關於旅館經營中的 management contract ，下列敘述何者較為正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "旅館業主將產權委託連鎖旅館集團經營管理"
+      },
+      {
+        "id": "B",
+        "text": "優點是權利金費用低廉，業主負擔不大"
+      },
+      {
+        "id": "C",
+        "text": "台北君悅飯店與台北喜來登飯店均屬之"
+      },
+      {
+        "id": "D",
+        "text": "業主不需擔心本身旅館專業知能不足的問題"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館經營中的 management contract ，下列敘述何者較為正確？ 旅館業主將產權委託連鎖旅館集團經營管理 優點是權利金費用低廉，業主負擔不大 台北君悅飯店與台北喜來登飯店均屬之 業主不需擔心本身旅館專業知能不足的問題 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1269
+  }
+}

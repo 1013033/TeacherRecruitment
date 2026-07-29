@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q029-c6f6302058",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 29 題",
+    "sourceFile": "110\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "110\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-5474",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "超過六成的國人以自駕遊方式進行國內旅遊，而高速公路「休息站」內附設的「美食街」，設有多樣化的櫃位提供富有在地特色的簡單餐食，讓時間有限之旅客能夠快速的飽足一頓。若依據餐廳的「服務程度」加以分類，此種服務方式屬於哪一種類別？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Specialty Restaurant"
+      },
+      {
+        "id": "B",
+        "text": "Gourmet Restaurant"
+      },
+      {
+        "id": "C",
+        "text": "Filling Station"
+      },
+      {
+        "id": "D",
+        "text": "Family Restaurant"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "超過六成的國人以自駕遊方式進行國內旅遊，而高速公路「休息站」內附設的「美食街」，設有多樣化的櫃位提供富有在地特色的簡單餐食，讓時間有限之旅客能夠快速的飽足一頓。若依據餐廳的「服務程度」加以分類，此種服務方式屬於哪一種類別？ Specialty Restaurant Gourmet Restaurant Filling Station Family Restaurant 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1391
+  }
+}

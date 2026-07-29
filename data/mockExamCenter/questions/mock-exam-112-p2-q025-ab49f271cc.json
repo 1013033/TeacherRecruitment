@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p2-q025-ab49f271cc",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 25 題",
+    "sourceFile": "112\\output\\112-2-四技二專-17餐旅群專二試題\\auto\\112-2-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "112\\output\\112-2-四技二專-17餐旅群專二試題\\auto\\112-2-四技二專-17餐旅群專二試題.md#offset-3694",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "自助餐檯上的西式菜餚琳瑯滿目，下列哪些餐點可以在用餐時徒手拿取？ 甲、Caviar 乙、Smoke Salmon 丙、Crudites 丁、Finger Food 戊、Escargot 己、Prawn Cocktail",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "2 種"
+      },
+      {
+        "id": "B",
+        "text": "3 種"
+      },
+      {
+        "id": "C",
+        "text": "4 種"
+      },
+      {
+        "id": "D",
+        "text": "5 種"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：cocktail"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "自助餐檯上的西式菜餚琳瑯滿目，下列哪些餐點可以在用餐時徒手拿取？ 甲、Caviar 乙、Smoke Salmon 丙、Crudites 丁、Finger Food 戊、Escargot 己、Prawn Cocktail 2 種 3 種 4 種 5 種 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2451
+  }
+}

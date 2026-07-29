@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-q028-c36d6a9bf1",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 28 題",
+    "sourceFile": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md",
+    "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-2540",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項是製作酵母甜甜圈 ( yeast raised doughnut ) 的正確流程？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "攪拌→發酵→整型→油炸"
+      },
+      {
+        "id": "B",
+        "text": "攪拌→整型→發酵→油炸"
+      },
+      {
+        "id": "C",
+        "text": "發酵 → 攪拌 → 整型 → 油炸"
+      },
+      {
+        "id": "D",
+        "text": "發酵 → 攪拌 → 油炸 → 整型"
+      }
+    ],
+    "answer": "A",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：酵母、發酵"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：酵母、發酵"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項是製作酵母甜甜圈 ( yeast raised doughnut ) 的正確流程？ 攪拌→發酵→整型→油炸 攪拌→整型→發酵→油炸 發酵 → 攪拌 → 整型 → 油炸 發酵 → 攪拌 → 油炸 → 整型 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2228
+  }
+}

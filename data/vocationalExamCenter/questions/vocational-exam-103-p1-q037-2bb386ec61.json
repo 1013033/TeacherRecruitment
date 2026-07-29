@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p1-q037-2bb386ec61",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(一) 第 37 題",
+    "sourceFile": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md",
+    "sourceLocator": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md#offset-4655",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "旅行社之外勤業務人員，進行拜訪個別客戶或公司行號的推廣工作，例如推銷公司年度員工旅遊的從業人員稱為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Direct sales"
+      },
+      {
+        "id": "B",
+        "text": "Freelance tour guide"
+      },
+      {
+        "id": "C",
+        "text": "Ticketing center clerk"
+      },
+      {
+        "id": "D",
+        "text": "In house salesperson"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行社、tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行社、tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行社之外勤業務人員，進行拜訪個別客戶或公司行號的推廣工作，例如推銷公司年度員工旅遊的從業人員稱為： Direct sales Freelance tour guide Ticketing center clerk In house salesperson 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 175
+  }
+}

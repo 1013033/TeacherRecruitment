@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q023-4ffe25b859",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 23 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-2407",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "我國「發展觀光條例」於民國力十年重新修訂通過，下列何者並非其修訂之主要內容？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "因應行政程序法之施行，增列民宿、旅館業、觀光遊樂業等經營管理之法源"
+      },
+      {
+        "id": "B",
+        "text": "增列「自然人文生態景觀區」之劃定，並置專業導覽人員，維護自然資源之永續發展"
+      },
+      {
+        "id": "C",
+        "text": "增列水域遊憩活動管理法源，以維護水上活動安全"
+      },
+      {
+        "id": "D",
+        "text": "旅行業導遊及領隊人員可依照經驗累積與傳承，無須透過考試，亦可取得導遊及領隊人員執業證，執行導遊及領隊業務"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、領隊、導遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "我國「發展觀光條例」於民國力十年重新修訂通過，下列何者並非其修訂之主要內容？ 因應行政程序法之施行，增列民宿、旅館業、觀光遊樂業等經營管理之法源 增列「自然人文生態景觀區」之劃定，並置專業導覽人員，維護自然資源之永續發展 增列水域遊憩活動管理法源，以維護水上活動安全 旅行業導遊及領隊人員可依照經驗累積與傳承，無須透過考試，亦可取得導遊及領隊人員執業證，執行導遊及領隊業務 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 948
+  }
+}

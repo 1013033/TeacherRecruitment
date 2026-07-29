@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q025-2892fa87de",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 25 題",
+    "sourceFile": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md",
+    "sourceLocator": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md#offset-3972",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "房務員小明進行房務整理時發現冰箱故障，他立即啟動請修作業流程，以下是請修作業流程，請問請修流程的順序何者正確？甲、提交申請單 乙、填寫請修單 丙、通報故障排除 丁、配合維修作業 戊、清理維修現場",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙丁戊"
+      },
+      {
+        "id": "B",
+        "text": "乙甲丁戊丙"
+      },
+      {
+        "id": "C",
+        "text": "乙丁甲丙戊"
+      },
+      {
+        "id": "D",
+        "text": "甲丁戊乙丙"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "房務員小明進行房務整理時發現冰箱故障，他立即啟動請修作業流程，以下是請修作業流程，請問請修流程的順序何者正確？甲、提交申請單 乙、填寫請修單 丙、通報故障排除 丁、配合維修作業 戊、清理維修現場 甲乙丙丁戊 乙甲丁戊丙 乙丁甲丙戊 甲丁戊乙丙 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 888
+  }
+}

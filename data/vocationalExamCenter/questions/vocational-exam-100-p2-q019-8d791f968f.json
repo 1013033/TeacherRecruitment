@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p2-q019-8d791f968f",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(二) 第 19 題",
+    "sourceFile": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md",
+    "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-2637",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列關於中餐宴席上菜順序的原則，何者正確？",
+    "images": [
+      {
+        "id": "vocational-exam-100-p2-q019-8d791f968f-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-100-p2-q019-8d791f968f-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "先昂貴食材、後普通材料"
+      },
+      {
+        "id": "B",
+        "text": "先味道濃郁、後味道清淡"
+      },
+      {
+        "id": "C",
+        "text": "先熱炒菜餚、後冷盤菜品"
+      },
+      {
+        "id": "D",
+        "text": "先甜味點心、後鹹味菜餚"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食材、中餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食材、中餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於中餐宴席上菜順序的原則，何者正確？ 先昂貴食材、後普通材料 先味道濃郁、後味道清淡 先熱炒菜餚、後冷盤菜品 先甜味點心、後鹹味菜餚 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1310
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q037-65344fdcf1",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 37 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-4704",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "餐飲業者喜歡選擇以不銹鋼來做扁平餐具的材質，若可接受的材質標準為18-8(18/8)，其意思表示在材質上約含多少比例的碳鋼？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "8 %"
+      },
+      {
+        "id": "B",
+        "text": "10 %"
+      },
+      {
+        "id": "C",
+        "text": "18 %"
+      },
+      {
+        "id": "D",
+        "text": "74 %"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲業者喜歡選擇以不銹鋼來做扁平餐具的材質，若可接受的材質標準為18-8(18/8)，其意思表示在材質上約含多少比例的碳鋼？ 8 % 10 % 18 % 74 % 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 962
+  }
+}

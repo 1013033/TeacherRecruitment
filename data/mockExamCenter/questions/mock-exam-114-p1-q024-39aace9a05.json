@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q024-39aace9a05",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 24 題",
+    "sourceFile": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md",
+    "sourceLocator": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md#offset-4533",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "台灣旅遊大賞《一城市一特色》，各縣市不僅擁有特色風景，也可以讓大家看見擁有多樣地理環境的臺灣，在不同季節中孕育出各具特色的地方風情，下列各縣市特色風情配對何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "新竹縣—司馬庫斯"
+      },
+      {
+        "id": "B",
+        "text": "臺中市—忘憂森林"
+      },
+      {
+        "id": "C",
+        "text": "嘉義市—檜意森活村"
+      },
+      {
+        "id": "D",
+        "text": "臺東縣—臺灣國際熱氣球嘉年華"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "台灣旅遊大賞《一城市一特色》，各縣市不僅擁有特色風景，也可以讓大家看見擁有多樣地理環境的臺灣，在不同季節中孕育出各具特色的地方風情，下列各縣市特色風情配對何者錯誤？ 新竹縣—司馬庫斯 臺中市—忘憂森林 嘉義市—檜意森活村 臺東縣—臺灣國際熱氣球嘉年華 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 3353
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p1-q003-64a84efbb1",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md",
+    "sourceLocator": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md#offset-573",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "部份旅館或餐廳將供餐時段訂在早餐之後、午餐之前，以滿足顧客的不同需求，這是屬於下列哪一種供餐時段的通稱？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "brunch"
+      },
+      {
+        "id": "B",
+        "text": "light breakfast"
+      },
+      {
+        "id": "C",
+        "text": "snack"
+      },
+      {
+        "id": "D",
+        "text": "supper"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "部份旅館或餐廳將供餐時段訂在早餐之後、午餐之前，以滿足顧客的不同需求，這是屬於下列哪一種供餐時段的通稱？ brunch light breakfast snack supper 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 3
+  }
+}

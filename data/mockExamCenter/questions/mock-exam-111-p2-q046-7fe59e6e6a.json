@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q046-7fe59e6e6a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 46 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-9166",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "下列有幾款香甜酒屬於藥草、香料香甜酒？甲、Curaçao 乙、Cointreau 丙、Bénédictine D.O.M 丁、Drambuie 戊、Advocaat 己、Amaretto",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列有幾款香甜酒屬於藥草、香料香甜酒？甲、Curaçao 乙、Cointreau 丙、Bénédictine D.O.M 丁、Drambuie 戊、Advocaat 己、Amaretto 1 2 3 4 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2196
+  }
+}

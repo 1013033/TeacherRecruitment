@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p1-q040-2cfea0d665",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(一) 第 40 題",
+    "sourceFile": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md",
+    "sourceLocator": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md#offset-5192",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "餐旅業組織中，負責將餐食送到客房中的服務人員，主要是指下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Chef d’ Etage"
+      },
+      {
+        "id": "B",
+        "text": "Bartender"
+      },
+      {
+        "id": "C",
+        "text": "Receptionist"
+      },
+      {
+        "id": "D",
+        "text": "Chef de Vin"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐旅業組織中，負責將餐食送到客房中的服務人員，主要是指下列何者？ Chef d’ Etage Bartender Receptionist Chef de Vin 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 327
+  }
+}

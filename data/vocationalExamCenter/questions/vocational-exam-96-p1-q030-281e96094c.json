@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p1-q030-281e96094c",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(一) 第 30 題",
+    "sourceFile": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md",
+    "sourceLocator": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md#offset-3474",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "下列何者在餐廳中主要負責接聽電話、訂位與帶位等工作？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "bartender"
+      },
+      {
+        "id": "B",
+        "text": "captain"
+      },
+      {
+        "id": "C",
+        "text": "hostess"
+      },
+      {
+        "id": "D",
+        "text": "service manager"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者在餐廳中主要負責接聽電話、訂位與帶位等工作？ bartender captain hostess service manager 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1131
+  }
+}

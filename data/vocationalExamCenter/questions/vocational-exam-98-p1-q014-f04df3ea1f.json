@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p1-q014-f04df3ea1f",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(一) 第 14 題",
+    "sourceFile": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md",
+    "sourceLocator": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md#offset-2002",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "依據我國旅行業管理規則，規定旅行社應投保責任保險，下列各項投保範圍及最低投保金額的敘述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "意外死亡：每名旅客新台幣一百萬元"
+      },
+      {
+        "id": "B",
+        "text": "因意外事故所致體傷之醫療費用：每名旅客新台幣三萬元"
+      },
+      {
+        "id": "C",
+        "text": "善後處理：旅客家屬前往海外或來中華民國善後所必需支出費用為新台幣十萬元；國內旅遊善後費用為新台幣五萬元"
+      },
+      {
+        "id": "D",
+        "text": "證件遺失之損害賠償：每名旅客新台幣二千元"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據我國旅行業管理規則，規定旅行社應投保責任保險，下列各項投保範圍及最低投保金額的敘述，何者錯誤？ 意外死亡：每名旅客新台幣一百萬元 因意外事故所致體傷之醫療費用：每名旅客新台幣三萬元 善後處理：旅客家屬前往海外或來中華民國善後所必需支出費用為新台幣十萬元；國內旅遊善後費用為新台幣五萬元 證件遺失之損害賠償：每名旅客新台幣二千元 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1215
+  }
+}

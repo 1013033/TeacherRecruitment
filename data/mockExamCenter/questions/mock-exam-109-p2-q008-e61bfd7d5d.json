@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q008-e61bfd7d5d",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 8 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-797",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列餐廳器具中，侍酒師在進行紅酒開瓶及過酒服務時會使用到的器具有幾種？ㄅ、Wine Bottle Stand ㄆ、Wine Cooler Stand ㄇ、Ice Bucket ㄈ、Service Towelㄉ、Decanter ㄊ、Corkscrew ㄋ、Candlestick",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "4 種"
+      },
+      {
+        "id": "B",
+        "text": "5 種"
+      },
+      {
+        "id": "C",
+        "text": "6 種"
+      },
+      {
+        "id": "D",
+        "text": "7 種"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列餐廳器具中，侍酒師在進行紅酒開瓶及過酒服務時會使用到的器具有幾種？ㄅ、Wine Bottle Stand ㄆ、Wine Cooler Stand ㄇ、Ice Bucket ㄈ、Service Towelㄉ、Decanter ㄊ、Corkscrew ㄋ、Candlestick 4 種 5 種 6 種 7 種 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 962
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q002-0d5b00b28e",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 2 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-691",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是餐旅業發展的正面效益？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "增加外匯收入，平衡國際收支"
+      },
+      {
+        "id": "B",
+        "text": "工作型態改變，從事服務性的人員增加"
+      },
+      {
+        "id": "C",
+        "text": "減少失業人口，穩定社會功能"
+      },
+      {
+        "id": "D",
+        "text": "促進國際貿易，加速經濟建設"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐旅"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐旅"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是餐旅業發展的正面效益？ 增加外匯收入，平衡國際收支 工作型態改變，從事服務性的人員增加 減少失業人口，穩定社會功能 促進國際貿易，加速經濟建設 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 51
+  }
+}

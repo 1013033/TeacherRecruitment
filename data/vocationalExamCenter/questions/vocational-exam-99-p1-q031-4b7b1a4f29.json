@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q031-4b7b1a4f29",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 31 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-3976",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "「金融風暴引起的經濟不景氣，可能造成消費者減少到餐廳消費的次數或意願，進而對餐飲業的經營造成衝擊」，這是屬於下列哪一種餐飲業的特性？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "無形性"
+      },
+      {
+        "id": "B",
+        "text": "變化性"
+      },
+      {
+        "id": "C",
+        "text": "不可儲存性"
+      },
+      {
+        "id": "D",
+        "text": "需求異質性"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「金融風暴引起的經濟不景氣，可能造成消費者減少到餐廳消費的次數或意願，進而對餐飲業的經營造成衝擊」，這是屬於下列哪一種餐飲業的特性？ 無形性 變化性 不可儲存性 需求異質性 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1272
+  }
+}

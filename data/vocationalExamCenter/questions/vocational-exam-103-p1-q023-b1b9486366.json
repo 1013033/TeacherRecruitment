@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p1-q023-b1b9486366",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(一) 第 23 題",
+    "sourceFile": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md",
+    "sourceLocator": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md#offset-2850",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "有關廚房工作區域「面對面平行排列 ( Face-to-face parallel arrangement )」設計的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "多用於醫院或工廠等供應團體膳食的廚房"
+      },
+      {
+        "id": "B",
+        "text": "適用於廚房空間不大的餐廳"
+      },
+      {
+        "id": "C",
+        "text": "是最簡單的排列方式"
+      },
+      {
+        "id": "D",
+        "text": "又稱為島嶼式排列"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關廚房工作區域「面對面平行排列 ( Face-to-face parallel arrangement )」設計的敘述，下列何者正確？ 多用於醫院或工廠等供應團體膳食的廚房 適用於廚房空間不大的餐廳 是最簡單的排列方式 又稱為島嶼式排列 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 163
+  }
+}

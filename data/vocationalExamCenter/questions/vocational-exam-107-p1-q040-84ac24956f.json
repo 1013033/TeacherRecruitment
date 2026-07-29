@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q040-84ac24956f",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 40 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-6218",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "旅行社種類依經營業務內容分類中，以經營直售業務，直接服務旅客，針對特殊需求自行籌組出國團體，產品多為訂製遊程 ( tailor-made package tours )，業務包辦出國手續、簽證業務、票務等工作，是指下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "tour operator direct sales"
+      },
+      {
+        "id": "B",
+        "text": "tour wholesaler"
+      },
+      {
+        "id": "C",
+        "text": "visa center"
+      },
+      {
+        "id": "D",
+        "text": "general sales agent"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行社、簽證、tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行社、簽證、tour"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行社種類依經營業務內容分類中，以經營直售業務，直接服務旅客，針對特殊需求自行籌組出國團體，產品多為訂製遊程 ( tailor-made package tours )，業務包辦出國手續、簽證業務、票務等工作，是指下列何者？ tour operator direct sales tour wholesaler visa center general sales agent 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 376
+  }
+}

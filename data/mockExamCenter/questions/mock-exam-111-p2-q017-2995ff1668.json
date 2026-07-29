@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q017-2995ff1668",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 17 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-2485",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "近年因為疫情肆虐而餐飲業掀起一波新變革，消費者透過預約制的訂餐並以 Cloud Kitchen 作為主要場域，降低業者經營成本所展現的是下列哪一款服務方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Self-Service"
+      },
+      {
+        "id": "B",
+        "text": "Banquet Service"
+      },
+      {
+        "id": "C",
+        "text": "Seated Service"
+      },
+      {
+        "id": "D",
+        "text": "Delivery Service"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐飲業、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐飲業、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "近年因為疫情肆虐而餐飲業掀起一波新變革，消費者透過預約制的訂餐並以 Cloud Kitchen 作為主要場域，降低業者經營成本所展現的是下列哪一款服務方式？ Self-Service Banquet Service Seated Service Delivery Service 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2097
+  }
+}

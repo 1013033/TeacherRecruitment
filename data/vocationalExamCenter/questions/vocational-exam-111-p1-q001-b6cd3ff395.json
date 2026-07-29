@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p1-q001-b6cd3ff395",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 1 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-443",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "中華民國副總統賴清德先生於2022年1月25日，以總統特使身分出席友邦宏都拉斯新任總統的就職典禮，其出訪時所持有的護照是屬於下列哪一種？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "禮遇護照"
+      },
+      {
+        "id": "B",
+        "text": "外交護照"
+      },
+      {
+        "id": "C",
+        "text": "公務護照"
+      },
+      {
+        "id": "D",
+        "text": "普通護照"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：護照"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中華民國副總統賴清德先生於2022年1月25日，以總統特使身分出席友邦宏都拉斯新任總統的就職典禮，其出訪時所持有的護照是屬於下列哪一種？ 禮遇護照 外交護照 公務護照 普通護照 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 537
+  }
+}

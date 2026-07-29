@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p2-q002-ca64f75b10",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(二) 第 2 題",
+    "sourceFile": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md",
+    "sourceLocator": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md#offset-708",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "關於旅館服務人員與賓客同搭電梯時的禮儀，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "服務人員應先進入電梯背對門，再請賓客進入"
+      },
+      {
+        "id": "B",
+        "text": "服務人員應站在電梯控制開關旁，為賓客服務"
+      },
+      {
+        "id": "C",
+        "text": "電梯內遇到賓客，應點頭問候或打招呼"
+      },
+      {
+        "id": "D",
+        "text": "欲到達同一樓層時，應請賓客先步出電梯"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館服務人員與賓客同搭電梯時的禮儀，下列敘述何者錯誤？ 服務人員應先進入電梯背對門，再請賓客進入 服務人員應站在電梯控制開關旁，為賓客服務 電梯內遇到賓客，應點頭問候或打招呼 欲到達同一樓層時，應請賓客先步出電梯 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2445
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p2-q022-6a92760cb9",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(二) 第 22 題",
+    "sourceFile": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md",
+    "sourceLocator": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md#offset-2874",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "依照客房清理順序的原則，下列何種類型的客房可以最後整理？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "預排給今日將入住 VIP的套房"
+      },
+      {
+        "id": "B",
+        "text": "已 check out但今日並未預排入住的客房"
+      },
+      {
+        "id": "C",
+        "text": "掛著「make-up room」標示牌的續住客房"
+      },
+      {
+        "id": "D",
+        "text": "long staying 房客要求必須優先整理的客房"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：客房、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：客房、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依照客房清理順序的原則，下列何種類型的客房可以最後整理？ 預排給今日將入住 VIP的套房 已 check out但今日並未預排入住的客房 掛著「make-up room」標示牌的續住客房 long staying 房客要求必須優先整理的客房 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1609
+  }
+}

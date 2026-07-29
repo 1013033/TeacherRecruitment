@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p2-q029-b803c72b29",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 29 題",
+    "sourceFile": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md",
+    "sourceLocator": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md#offset-4277",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "下列何者不是國際觀光旅館客房內的消耗性備品？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "hanger"
+      },
+      {
+        "id": "B",
+        "text": "razor"
+      },
+      {
+        "id": "C",
+        "text": "sewing kit"
+      },
+      {
+        "id": "D",
+        "text": "shower cap"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不是國際觀光旅館客房內的消耗性備品？ hanger razor sewing kit shower cap 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1712
+  }
+}

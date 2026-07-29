@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q035-34ad42f0d8",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 35 題",
+    "sourceFile": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md",
+    "sourceLocator": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md#offset-9726",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "飲務部「備料增能訓練」課程中，吧檯主任提醒學員：「茶葉若保存不當，容易失去原有香氣與風味，甚至產生變質。」為維持茶葉的最佳品質，有關茶葉儲存管理之敘述，下列何者最為正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "茶葉具有高度物理吸附性，應將不同種類茶葉混放，以達到香氣融合之效果"
+      },
+      {
+        "id": "B",
+        "text": "為了提升視覺展示效果，應優先選用透明玻璃罐長期存放，並置於吧檯保持光照"
+      },
+      {
+        "id": "C",
+        "text": "影響茶葉儲存品質的五大關鍵因素為：光線、溫度、水分(濕度)、氧氣與異味"
+      },
+      {
+        "id": "D",
+        "text": "綠茶類未經發酵，抗氧化物質含量高，宜常保光照、常溫(25\\~28°C)保存，以保鮮度"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、綠茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、綠茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "飲務部「備料增能訓練」課程中，吧檯主任提醒學員：「茶葉若保存不當，容易失去原有香氣與風味，甚至產生變質。」為維持茶葉的最佳品質，有關茶葉儲存管理之敘述，下列何者最為正確？ 茶葉具有高度物理吸附性，應將不同種類茶葉混放，以達到香氣融合之效果 為了提升視覺展示效果，應優先選用透明玻璃罐長期存放，並置於吧檯保持光照 影響茶葉儲存品質的五大關鍵因素為：光線、溫度、水分(濕度)、氧氣與異味 綠茶類未經發酵，抗氧化物質含量高，宜常保光照、常溫(25\\~28°C)保存，以保鮮度 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3691
+  }
+}

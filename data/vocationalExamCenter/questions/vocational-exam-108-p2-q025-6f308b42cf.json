@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p2-q025-6f308b42cf",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 25 題",
+    "sourceFile": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md",
+    "sourceLocator": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md#offset-3941",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "旅館客房木質傢俱美輪美奐，當此類型客房發生火災時，下列何種滅火方式較不適用？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "水"
+      },
+      {
+        "id": "B",
+        "text": "泡沫"
+      },
+      {
+        "id": "C",
+        "text": "二氧化碳"
+      },
+      {
+        "id": "D",
+        "text": "ABC類乾粉"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館客房木質傢俱美輪美奐，當此類型客房發生火災時，下列何種滅火方式較不適用？ 水 泡沫 二氧化碳 ABC類乾粉 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1708
+  }
+}

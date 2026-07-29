@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p1-q029-6e45a8ef5e",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 29 題",
+    "sourceFile": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md",
+    "sourceLocator": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md#offset-6389",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "關於歐美旅行業的發展，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "詹姆斯･瓦特(James Watt)最早發行旅行支票與信用卡"
+      },
+      {
+        "id": "B",
+        "text": "威廉･哈頓(William Harden)創立法國第一家旅行社，為世界旅行社先驅"
+      },
+      {
+        "id": "C",
+        "text": "世界最早鐵路密德蘭鐵路( Midland Countries Railroad) 開啟英國旅遊風氣"
+      },
+      {
+        "id": "D",
+        "text": "安東尼･庫克(Antonine Cook)首創領隊與導遊制度以及旅館預訂制度"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社、領隊、導遊、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社、領隊、導遊、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於歐美旅行業的發展，下列何者正確？ 詹姆斯･瓦特(James Watt)最早發行旅行支票與信用卡 威廉･哈頓(William Harden)創立法國第一家旅行社，為世界旅行社先驅 世界最早鐵路密德蘭鐵路( Midland Countries Railroad) 開啟英國旅遊風氣 安東尼･庫克(Antonine Cook)首創領隊與導遊制度以及旅館預訂制度 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 664
+  }
+}

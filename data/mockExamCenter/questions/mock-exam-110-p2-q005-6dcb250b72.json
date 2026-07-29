@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q005-6dcb250b72",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 5 題",
+    "sourceFile": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md",
+    "sourceLocator": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md#offset-771",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "有關服務流程中需注意之事項，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "服務員上菜於顧客的人中與胸部之間的位置"
+      },
+      {
+        "id": "B",
+        "text": "最合適的服務區域是顧客的肩膀與桌角之間的位置"
+      },
+      {
+        "id": "C",
+        "text": "服務員應自顧客左側以遠手原則，進行飲料服務"
+      },
+      {
+        "id": "D",
+        "text": "賓客中有年長者，應優先提供服務"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關服務流程中需注意之事項，下列何者錯誤？ 服務員上菜於顧客的人中與胸部之間的位置 最合適的服務區域是顧客的肩膀與桌角之間的位置 服務員應自顧客左側以遠手原則，進行飲料服務 賓客中有年長者，應優先提供服務 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1711
+  }
+}

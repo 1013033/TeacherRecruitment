@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p2-q050-d0eefaccdc",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 50 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-10531",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "小杰點的這款雞尾酒所使用的基酒、調製方法、盛裝杯皿，下列何者完全正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Brandy、shake + layer、瑪格莉特杯"
+      },
+      {
+        "id": "B",
+        "text": "Rum、build + float、可林杯"
+      },
+      {
+        "id": "C",
+        "text": "Tequila、build + float、高飛球杯"
+      },
+      {
+        "id": "D",
+        "text": "Vodka、build + layer、雞尾酒杯 【以下空白】 112 年四技 餐旅群 專業科目(二) 共 12 頁 <sup>第</sup><sub>共</sub> <sup>12</sup> <sub>12</sub> <sup>頁</sup><sub>頁</sub>"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：vodka、rum、tequila、酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：vodka、rum、tequila、酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小杰點的這款雞尾酒所使用的基酒、調製方法、盛裝杯皿，下列何者完全正確？ Brandy、shake + layer、瑪格莉特杯 Rum、build + float、可林杯 Tequila、build + float、高飛球杯 Vodka、build + layer、雞尾酒杯 【以下空白】 112 年四技 餐旅群 專業科目(二) 共 12 頁 <sup>第</sup><sub>共</sub> <sup>12</sup> <sub>12</sub> <sup>頁</sup><sub>頁</sub> 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1908
+  }
+}

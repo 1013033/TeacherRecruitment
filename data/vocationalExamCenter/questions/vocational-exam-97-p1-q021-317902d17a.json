@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p1-q021-317902d17a",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(一) 第 21 題",
+    "sourceFile": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md",
+    "sourceLocator": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md#offset-2471",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "一般管理正常之餐飲部門可接受的破損率大約在多少之間？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "0.1 % \\~ 0.3 %"
+      },
+      {
+        "id": "B",
+        "text": "0.6 % \\~ 1.0 %"
+      },
+      {
+        "id": "C",
+        "text": "2.5 % \\~ 3.5 %"
+      },
+      {
+        "id": "D",
+        "text": "4.5 % \\~ 5.5 %"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "一般管理正常之餐飲部門可接受的破損率大約在多少之間？ 0.1 % \\~ 0.3 % 0.6 % \\~ 1.0 % 2.5 % \\~ 3.5 % 4.5 % \\~ 5.5 % 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1172
+  }
+}

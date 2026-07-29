@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q037-122e609798",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 37 題",
+    "sourceFile": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md",
+    "sourceLocator": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md#offset-6911",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "有關國內旅行業領隊人員和導遊人員之考試和訓練，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "外語領隊應試語言別有5類，外語導遊有 13類"
+      },
+      {
+        "id": "B",
+        "text": "領隊人員、導遊人員考試由考試院考選部規畫辦理"
+      },
+      {
+        "id": "C",
+        "text": "領隊人員、導遊人員筆試平均60 分及格；外語導遊另需口試"
+      },
+      {
+        "id": "D",
+        "text": "領隊人員職前訓練節數為56節；導遊則為 98節"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、導遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、導遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關國內旅行業領隊人員和導遊人員之考試和訓練，下列敘述何者錯誤？ 外語領隊應試語言別有5類，外語導遊有 13類 領隊人員、導遊人員考試由考試院考選部規畫辦理 領隊人員、導遊人員筆試平均60 分及格；外語導遊另需口試 領隊人員職前訓練節數為56節；導遊則為 98節 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2067
+  }
+}

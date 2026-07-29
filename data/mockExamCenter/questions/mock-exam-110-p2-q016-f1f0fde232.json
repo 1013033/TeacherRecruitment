@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q016-f1f0fde232",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 16 題",
+    "sourceFile": "110\\output\\110-3專二試題\\auto\\110-3專二試題.md",
+    "sourceLocator": "110\\output\\110-3專二試題\\auto\\110-3專二試題.md#offset-3571",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "良好的餐桌禮儀，不僅是對社交禮儀的理解，也是尊重他人的一種表現，下列相關敘述，何者為宜？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "中餐席次安排右邊為大、左邊為小，主人右側安排主賓座位，以凸顯主賓地位"
+      },
+      {
+        "id": "B",
+        "text": "西餐席次安排重視分坐原則，男主人右側應排坐女主賓；女主人右側應排坐男主賓"
+      },
+      {
+        "id": "C",
+        "text": "西餐席次安排 3P 原則分指：Position、Political Situation、Personal Retribution"
+      },
+      {
+        "id": "D",
+        "text": "每一排3 桌(含)以上之宴會中，離講台最近且排在最右邊的為主桌"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：中餐、西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：中餐、西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "良好的餐桌禮儀，不僅是對社交禮儀的理解，也是尊重他人的一種表現，下列相關敘述，何者為宜？ 中餐席次安排右邊為大、左邊為小，主人右側安排主賓座位，以凸顯主賓地位 西餐席次安排重視分坐原則，男主人右側應排坐女主賓；女主人右側應排坐男主賓 西餐席次安排 3P 原則分指：Position、Political Situation、Personal Retribution 每一排3 桌(含)以上之宴會中，離講台最近且排在最右邊的為主桌 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1625
+  }
+}

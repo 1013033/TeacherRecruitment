@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q004-42417d9d94",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 4 題",
+    "sourceFile": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md",
+    "sourceLocator": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md#offset-734",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "當天用餐所使用的是直徑200公分的圓桌，需搭配何種尺寸的轉檯？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "170 公分"
+      },
+      {
+        "id": "B",
+        "text": "160 公分"
+      },
+      {
+        "id": "C",
+        "text": "150 公分"
+      },
+      {
+        "id": "D",
+        "text": "140 公分"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "當天用餐所使用的是直徑200公分的圓桌，需搭配何種尺寸的轉檯？ 170 公分 160 公分 150 公分 140 公分 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 3383
+  }
+}

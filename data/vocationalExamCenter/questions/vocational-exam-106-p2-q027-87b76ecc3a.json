@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p2-q027-87b76ecc3a",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(二) 第 27 題",
+    "sourceFile": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md",
+    "sourceLocator": "專二\\output\\106-1專二試題\\auto\\106-1專二試題.md#offset-3378",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "關於房務員的工作準備與相關資訊，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "vacant clean 是指已清潔且檢查完成之續住房"
+      },
+      {
+        "id": "B",
+        "text": "已被門鍊拴緊之客房，可用 emergency key 開啟進入"
+      },
+      {
+        "id": "C",
+        "text": "勤前會議時，房務員會拿到待整理房間清單與 grand master key"
+      },
+      {
+        "id": "D",
+        "text": "當日進行客房清潔工作前，應再確認 housekeeping cart內的品項與數量"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：客房、housekeeping"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：客房、housekeeping"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於房務員的工作準備與相關資訊，下列何者正確？ vacant clean 是指已清潔且檢查完成之續住房 已被門鍊拴緊之客房，可用 emergency key 開啟進入 勤前會議時，房務員會拿到待整理房間清單與 grand master key 當日進行客房清潔工作前，應再確認 housekeeping cart內的品項與數量 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1614
+  }
+}

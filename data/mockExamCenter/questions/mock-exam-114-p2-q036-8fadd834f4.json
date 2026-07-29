@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q036-8fadd834f4",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 36 題",
+    "sourceFile": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md",
+    "sourceLocator": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md#offset-6509",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "依茶葉製程使用機器CTC處理方法，適合下列何種外型的茶葉？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "球型茶葉"
+      },
+      {
+        "id": "B",
+        "text": "半球型茶"
+      },
+      {
+        "id": "C",
+        "text": "條索型茶"
+      },
+      {
+        "id": "D",
+        "text": "碎茶"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依茶葉製程使用機器CTC處理方法，適合下列何種外型的茶葉？ 球型茶葉 半球型茶 條索型茶 碎茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3495
+  }
+}

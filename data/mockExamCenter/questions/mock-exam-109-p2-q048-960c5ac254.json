@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q048-960c5ac254",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 48 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-6437",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "有關紅茶及下午茶的說明，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "High Tea又稱為Meat Tea，下午5 點開始，可以當作平民百姓正餐，也可以是正式晚會的簡單餐食"
+      },
+      {
+        "id": "B",
+        "text": "紅茶依茶葉的型態，可分為「條型紅茶」與「碎型紅茶"
+      },
+      {
+        "id": "C",
+        "text": "中國最早在宋朝就有飲用紅茶的記載，十七世紀時，荷蘭東印度公司把中國的茶葉輸往歐洲，英國也因此發展出自己的紅茶文化"
+      },
+      {
+        "id": "D",
+        "text": "舉世聞名的阿薩姆紅茶及大吉嶺紅茶產自於印尼"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關紅茶及下午茶的說明，下列敘述何者錯誤？ High Tea又稱為Meat Tea，下午5 點開始，可以當作平民百姓正餐，也可以是正式晚會的簡單餐食 紅茶依茶葉的型態，可分為「條型紅茶」與「碎型紅茶 中國最早在宋朝就有飲用紅茶的記載，十七世紀時，荷蘭東印度公司把中國的茶葉輸往歐洲，英國也因此發展出自己的紅茶文化 舉世聞名的阿薩姆紅茶及大吉嶺紅茶產自於印尼 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1000
+  }
+}

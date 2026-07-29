@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q009-6f969d6701",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-1292",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "臺灣常見的「辦桌」文化是屬於下列哪一種服務方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "catering service"
+      },
+      {
+        "id": "B",
+        "text": "in-flight service"
+      },
+      {
+        "id": "C",
+        "text": "room service"
+      },
+      {
+        "id": "D",
+        "text": "self-service"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣常見的「辦桌」文化是屬於下列哪一種服務方式？ catering service in-flight service room service self-service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 246
+  }
+}

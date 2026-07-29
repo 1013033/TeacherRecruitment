@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p2-q014-571254d5e3",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(二) 第 14 題",
+    "sourceFile": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md",
+    "sourceLocator": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md#offset-1977",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何者不適合包含在飲料單中？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "apple cider"
+      },
+      {
+        "id": "B",
+        "text": "ginger ale"
+      },
+      {
+        "id": "C",
+        "text": "lemonade"
+      },
+      {
+        "id": "D",
+        "text": "oatmeal"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不適合包含在飲料單中？ apple cider ginger ale lemonade oatmeal 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2457
+  }
+}

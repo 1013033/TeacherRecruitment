@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q032-63538fcde5",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 32 題",
+    "sourceFile": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md",
+    "sourceLocator": "109\\output\\109-1-專二試題\\auto\\109-1-專二試題.md#offset-4702",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "青春高中餐飲科進行第二階段餐服選手選拔，其中一道術科測驗題目是單點菜單，每位測試選手的菜單皆不相同，請問下列哪一位選手的餐具擺設錯誤？小陳選手：Bouillabaisse小王選手：Ham&Melon小丁選手：Asparagus小林選手：Mussels",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "小陳：魚刀叉、清湯匙、洗手盅"
+      },
+      {
+        "id": "B",
+        "text": "小王：沙拉刀叉"
+      },
+      {
+        "id": "C",
+        "text": "小丁：魚刀叉、洗手盅"
+      },
+      {
+        "id": "D",
+        "text": "小林：沙拉刀叉、洗手盅"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "青春高中餐飲科進行第二階段餐服選手選拔，其中一道術科測驗題目是單點菜單，每位測試選手的菜單皆不相同，請問下列哪一位選手的餐具擺設錯誤？小陳選手：Bouillabaisse小王選手：Ham&Melon小丁選手：Asparagus小林選手：Mussels 小陳：魚刀叉、清湯匙、洗手盅 小王：沙拉刀叉 小丁：魚刀叉、洗手盅 小林：沙拉刀叉、洗手盅 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 985
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q033-00d9d724fa",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 33 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-4409",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "關於各種茶葉與適合泡茶的水溫，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "鐵觀音約 75℃"
+      },
+      {
+        "id": "B",
+        "text": "龍井茶約 75℃"
+      },
+      {
+        "id": "C",
+        "text": "紅茶約 95 ℃"
+      },
+      {
+        "id": "D",
+        "text": "凍頂烏龍茶約 95℃"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶、烏龍"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於各種茶葉與適合泡茶的水溫，下列何者錯誤？ 鐵觀音約 75℃ 龍井茶約 75℃ 紅茶約 95 ℃ 凍頂烏龍茶約 95℃ 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1421
+  }
+}

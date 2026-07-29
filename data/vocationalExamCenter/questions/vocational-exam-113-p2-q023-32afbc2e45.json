@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q023-32afbc2e45",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 23 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-5665",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "下列哪些器皿最可能出現在盤點的清單中？甲、brandy snifter 乙、tea strainer 丙、decanter 丁、lobster pick",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁 ## ▲ 閱讀下文，回答第 24-25 題 晴妤在牛排館打工，在某天忙碌的週末午餐，她左手的托盤中擺放了主菜的配菜及客人指定的牛排醬，右手端持著主餐牛排要上菜，正要上菜時，顧客忽然起身，使晴妤重心不穩，差點打翻晴妤左手的托盤，上完餐後，主管再次提醒晴妤正確的托盤持托及收拾殘盤的方式。"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪些器皿最可能出現在盤點的清單中？甲、brandy snifter 乙、tea strainer 丙、decanter 丁、lobster pick 甲、乙 甲、丙 乙、丁 丙、丁 ## ▲ 閱讀下文，回答第 24-25 題 晴妤在牛排館打工，在某天忙碌的週末午餐，她左手的托盤中擺放了主菜的配菜及客人指定的牛排醬，右手端持著主餐牛排要上菜，正要上菜時，顧客忽然起身，使晴妤重心不穩，差點打翻晴妤左手的托盤，上完餐後，主管再次提醒晴妤正確的托盤持托及收拾殘盤的方式。 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1931
+  }
+}

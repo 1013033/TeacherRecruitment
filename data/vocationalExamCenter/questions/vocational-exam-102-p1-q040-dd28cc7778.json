@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q040-dd28cc7778",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 40 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-5129",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "關於餐廳規劃總體考量之基本原則，下列敍述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "餐廳物料之進出絕不可與顧客進出同一位置，盡量另闢專用通道，以節省人力與物力，爭取處理時間"
+      },
+      {
+        "id": "B",
+        "text": "顧客用餐區應與廚房保持遠距離，避免廚房的油煙及烹調氣味飄進用餐區，造成顧客不悅"
+      },
+      {
+        "id": "C",
+        "text": "餐廳正門的設計應以明顯、易於辨識為原則，同時方便顧客進出，領檯位置也最好靠近餐廳入口處，以方便迎賓送客"
+      },
+      {
+        "id": "D",
+        "text": "餐廳的理想溫度範圍應保持 21℃～24℃之間，可依季節氣候不同予以調整，而讓人感覺舒適的相對溼度則是在 55%～65%之間"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐廳規劃總體考量之基本原則，下列敍述何者錯誤？ 餐廳物料之進出絕不可與顧客進出同一位置，盡量另闢專用通道，以節省人力與物力，爭取處理時間 顧客用餐區應與廚房保持遠距離，避免廚房的油煙及烹調氣味飄進用餐區，造成顧客不悅 餐廳正門的設計應以明顯、易於辨識為原則，同時方便顧客進出，領檯位置也最好靠近餐廳入口處，以方便迎賓送客 餐廳的理想溫度範圍應保持 21℃～24℃之間，可依季節氣候不同予以調整，而讓人感覺舒適的相對溼度則是在 55%～65%之間 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 133
+  }
+}

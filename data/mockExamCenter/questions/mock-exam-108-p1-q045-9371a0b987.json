@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q045-9371a0b987",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 45 題",
+    "sourceFile": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md",
+    "sourceLocator": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md#offset-9679",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "旅行社實務經營種類，如依經營業務內容區分，產品銷售以Tailor-made Tours為主，可透過自營零售點或代理商直接向旅客出售旅遊產品，更可針對特殊需求自行籌組出國團體，業務範疇包辦出國手續、簽證業務、票務等項目者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Tour Wholesaler"
+      },
+      {
+        "id": "B",
+        "text": "General Sales Agent"
+      },
+      {
+        "id": "C",
+        "text": "PAK Agent"
+      },
+      {
+        "id": "D",
+        "text": "Direct Sale Agent"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行社、簽證、tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行社、簽證、tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行社實務經營種類，如依經營業務內容區分，產品銷售以Tailor-made Tours為主，可透過自營零售點或代理商直接向旅客出售旅遊產品，更可針對特殊需求自行籌組出國團體，業務範疇包辦出國手續、簽證業務、票務等項目者為何？ Tour Wholesaler General Sales Agent PAK Agent Direct Sale Agent 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 767
+  }
+}

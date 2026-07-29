@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q020-eb37746db8",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 20 題",
+    "sourceFile": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md",
+    "sourceLocator": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md#offset-1982",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "有關用餐場所與廚房倉儲的環境規劃，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "應控制用餐場所為正壓，內場(如廚房、倉庫)為負壓"
+      },
+      {
+        "id": "B",
+        "text": "用餐場所相對溼度應保持在75-85%，內場(如廚房、倉庫)保持在50-60%"
+      },
+      {
+        "id": "C",
+        "text": "用餐場所照明以100 米燭光為宜，廚房驗收區應保持200 米燭光"
+      },
+      {
+        "id": "D",
+        "text": "用餐場所溫度以20-25°C 最舒適，冷藏庫則應保持在0-7°C 區間"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關用餐場所與廚房倉儲的環境規劃，下列敘述何者錯誤？ 應控制用餐場所為正壓，內場(如廚房、倉庫)為負壓 用餐場所相對溼度應保持在75-85%，內場(如廚房、倉庫)保持在50-60% 用餐場所照明以100 米燭光為宜，廚房驗收區應保持200 米燭光 用餐場所溫度以20-25°C 最舒適，冷藏庫則應保持在0-7°C 區間 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 463
+  }
+}

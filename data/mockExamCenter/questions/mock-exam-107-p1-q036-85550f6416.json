@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q036-85550f6416",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 36 題",
+    "sourceFile": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md",
+    "sourceLocator": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md#offset-6383",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "有關旅館從業人員的職稱與工作內容之配對，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Door Man：維持旅館大門車道暢通及環境之整齊"
+      },
+      {
+        "id": "B",
+        "text": "Office Clerk：負責客房內冰箱飲料帳單登錄到銷售日報表"
+      },
+      {
+        "id": "C",
+        "text": "Porter：負責車輛之定期保養及記錄"
+      },
+      {
+        "id": "D",
+        "text": "Guest Relation Officer：接待飯店 VIP 會員、常客及簽約公司的客人"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關旅館從業人員的職稱與工作內容之配對，下列何者錯誤？ Door Man：維持旅館大門車道暢通及環境之整齊 Office Clerk：負責客房內冰箱飲料帳單登錄到銷售日報表 Porter：負責車輛之定期保養及記錄 Guest Relation Officer：接待飯店 VIP 會員、常客及簽約公司的客人 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 199
+  }
+}

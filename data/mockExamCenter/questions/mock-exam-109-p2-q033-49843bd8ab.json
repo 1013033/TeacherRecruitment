@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q033-49843bd8ab",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 33 題",
+    "sourceFile": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md",
+    "sourceLocator": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md#offset-5536",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "在旅館公共區域的整理項目中，下列何者並非需要每日進行清潔或維護？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "大廳、客用電梯的清潔或維護"
+      },
+      {
+        "id": "B",
+        "text": "天花板及通風口的除塵擦拭"
+      },
+      {
+        "id": "C",
+        "text": "公共洗手間的清潔與整理"
+      },
+      {
+        "id": "D",
+        "text": "附屬設施的地面、門窗、更衣室等的清潔與整理 ## 第二部分：飲料與調酒"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在旅館公共區域的整理項目中，下列何者並非需要每日進行清潔或維護？ 大廳、客用電梯的清潔或維護 天花板及通風口的除塵擦拭 公共洗手間的清潔與整理 附屬設施的地面、門窗、更衣室等的清潔與整理 ## 第二部分：飲料與調酒 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1346
+  }
+}

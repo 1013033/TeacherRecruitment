@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q010-10ca2f1a88",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 10 題",
+    "sourceFile": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md",
+    "sourceLocator": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md#offset-2606",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "承上題，採用哪一種殺菌方法消毒餐具，必須加熱達30分鐘以上？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "煮沸殺菌法"
+      },
+      {
+        "id": "B",
+        "text": "熱水殺菌法"
+      },
+      {
+        "id": "C",
+        "text": "乾熱殺菌法"
+      },
+      {
+        "id": "D",
+        "text": "蒸汽殺菌法"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "承上題，採用哪一種殺菌方法消毒餐具，必須加熱達30分鐘以上？ 煮沸殺菌法 熱水殺菌法 乾熱殺菌法 蒸汽殺菌法 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2210
+  }
+}

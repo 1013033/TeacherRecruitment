@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q040-01430632d1",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 40 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-5704",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "若依咖啡豆烘焙程度( roast )由深到淺排列，下列順序何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "cinnamon、high、italian"
+      },
+      {
+        "id": "B",
+        "text": "high、cinnamon、italian"
+      },
+      {
+        "id": "C",
+        "text": "high、italian、cinnamon"
+      },
+      {
+        "id": "D",
+        "text": "italian、high、cinnamon"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "若依咖啡豆烘焙程度( roast )由深到淺排列，下列順序何者正確？ cinnamon、high、italian high、cinnamon、italian high、italian、cinnamon italian、high、cinnamon 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2524
+  }
+}

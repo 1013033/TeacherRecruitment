@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p1-q011-9fda4d96de",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 11 題",
+    "sourceFile": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "112\\output\\112-3-四技二專-17餐旅群專一試題\\auto\\112-3-四技二專-17餐旅群專一試題.md#offset-3578",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "依餐桌服務型態，國內外各種種類的餐廳，所提供的服務方式也都不同，在臺灣最常見的中式合菜，由服務人員將客人所點菜餚端上桌後，由客人自行分菜食用，此種服務方式稱為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Family Service"
+      },
+      {
+        "id": "B",
+        "text": "Self Service"
+      },
+      {
+        "id": "C",
+        "text": "Counter Service"
+      },
+      {
+        "id": "D",
+        "text": "Catering Service"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐桌、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐桌、service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依餐桌服務型態，國內外各種種類的餐廳，所提供的服務方式也都不同，在臺灣最常見的中式合菜，由服務人員將客人所點菜餚端上桌後，由客人自行分菜食用，此種服務方式稱為下列何者？ Family Service Self Service Counter Service Catering Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2481
+  }
+}

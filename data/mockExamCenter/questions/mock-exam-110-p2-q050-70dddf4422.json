@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q050-70dddf4422",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 50 題",
+    "sourceFile": "110\\output\\110-3專二試題\\auto\\110-3專二試題.md",
+    "sourceLocator": "110\\output\\110-3專二試題\\auto\\110-3專二試題.md#offset-12206",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "artender 接收到 James Bond：「Vodka Martini, Shaken, not Stirred」點單需求時，正確的調製解讀應為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以 Vodka 取代 Gin 及 Vermouth"
+      },
+      {
+        "id": "B",
+        "text": "液體材料包含 Carbonated Drinks"
+      },
+      {
+        "id": "C",
+        "text": "使用 Barspoon 於 Mixing Glass 中調製成品"
+      },
+      {
+        "id": "D",
+        "text": "需使用 Boston Shaker"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：vodka、gin、martini、bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：vodka、gin、martini、bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "artender 接收到 James Bond：「Vodka Martini, Shaken, not Stirred」點單需求時，正確的調製解讀應為何？ 以 Vodka 取代 Gin 及 Vermouth 液體材料包含 Carbonated Drinks 使用 Barspoon 於 Mixing Glass 中調製成品 需使用 Boston Shaker 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1658
+  }
+}

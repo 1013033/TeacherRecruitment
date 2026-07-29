@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p2-q049-d6a123af15",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(二) 第 49 題",
+    "sourceFile": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md",
+    "sourceLocator": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md#offset-6027",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 49,
+    "questionType": "multiple-choice",
+    "prompt": "有關蒸餾酒( Distilled Spirits) ，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "愛蘭白酒、茅台酒皆屬於以穀物為主原料製成的烈酒"
+      },
+      {
+        "id": "B",
+        "text": "特吉拉酒(Tequila )是以龍舌蘭果實為主原料製成的烈酒"
+      },
+      {
+        "id": "C",
+        "text": "伏特加(Vodka)是可以採用馬鈴薯及穀物為主原料製成的烈酒"
+      },
+      {
+        "id": "D",
+        "text": "白蘭地(Brandy)、琴酒(Gin)皆屬於以水果為主原料製成的烈酒"
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：白蘭地、vodka、gin、tequila"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：白蘭地、vodka、gin、tequila"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關蒸餾酒( Distilled Spirits) ，下列敘述何者錯誤？ 愛蘭白酒、茅台酒皆屬於以穀物為主原料製成的烈酒 特吉拉酒(Tequila )是以龍舌蘭果實為主原料製成的烈酒 伏特加(Vodka)是可以採用馬鈴薯及穀物為主原料製成的烈酒 白蘭地(Brandy)、琴酒(Gin)皆屬於以水果為主原料製成的烈酒 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1387
+  }
+}

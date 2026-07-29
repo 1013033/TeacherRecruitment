@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q002-1f914f091b",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 2 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-742",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "ack 在餐廳服勤時須使用服務叉匙為顧客提供桌邊服務，關於服務叉匙的運用，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "夾派麵包時，服務人員由顧客右側以指握式服務麵包"
+      },
+      {
+        "id": "B",
+        "text": "舀取片狀菜餚與湯汁時，服務叉齒朝下操作為顧客分菜"
+      },
+      {
+        "id": "C",
+        "text": "服務全魚以左匙右叉分割魚肉，服務叉齒朝下將魚肉分至盤中"
+      },
+      {
+        "id": "D",
+        "text": "長條薄片菜餚，須以服務叉捲起，再反捲將食物平放顧客餐盤上"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：服務叉匙"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：服務叉匙"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "ack 在餐廳服勤時須使用服務叉匙為顧客提供桌邊服務，關於服務叉匙的運用，下列敘述何者正確？ 夾派麵包時，服務人員由顧客右側以指握式服務麵包 舀取片狀菜餚與湯汁時，服務叉齒朝下操作為顧客分菜 服務全魚以左匙右叉分割魚肉，服務叉齒朝下將魚肉分至盤中 長條薄片菜餚，須以服務叉捲起，再反捲將食物平放顧客餐盤上 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2007
+  }
+}

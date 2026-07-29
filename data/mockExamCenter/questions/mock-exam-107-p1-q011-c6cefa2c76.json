@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q011-c6cefa2c76",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 11 題",
+    "sourceFile": "107\\output\\117-4專一試題\\auto\\117-4專一試題.md",
+    "sourceLocator": "107\\output\\117-4專一試題\\auto\\117-4專一試題.md#offset-1244",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "西式料理多以甜點成為賓客幸福用餐時光的美好結尾，時至今日，每一個國家皆有其代表性甜點。下列各國家與其經典甜點之配對，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "西班牙：瑪德蓮蛋糕(Madeleine)"
+      },
+      {
+        "id": "B",
+        "text": "法國：提拉米蘇(Tiramisu)"
+      },
+      {
+        "id": "C",
+        "text": "瑞士：黑森林蛋糕(Schwarzwälder Kirschtorte)"
+      },
+      {
+        "id": "D",
+        "text": "奧地利：沙河蛋糕(Sacher Torte)"
+      }
+    ],
+    "answer": "D",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：蛋糕"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：蛋糕"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西式料理多以甜點成為賓客幸福用餐時光的美好結尾，時至今日，每一個國家皆有其代表性甜點。下列各國家與其經典甜點之配對，何者正確？ 西班牙：瑪德蓮蛋糕(Madeleine) 法國：提拉米蘇(Tiramisu) 瑞士：黑森林蛋糕(Schwarzwälder Kirschtorte) 奧地利：沙河蛋糕(Sacher Torte) 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 268
+  }
+}

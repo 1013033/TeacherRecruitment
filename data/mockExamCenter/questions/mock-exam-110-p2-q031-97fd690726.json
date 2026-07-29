@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q031-97fd690726",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 31 題",
+    "sourceFile": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md",
+    "sourceLocator": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md#offset-5312",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "下列飲品製作過程，何者與 Diary Beverages 無關？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "綠色蚱蜢"
+      },
+      {
+        "id": "B",
+        "text": "奶泡紅茶"
+      },
+      {
+        "id": "C",
+        "text": "奇異多果汁"
+      },
+      {
+        "id": "D",
+        "text": "法式咖啡歐蕾"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列飲品製作過程，何者與 Diary Beverages 無關？ 綠色蚱蜢 奶泡紅茶 奇異多果汁 法式咖啡歐蕾 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1736
+  }
+}

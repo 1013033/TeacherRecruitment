@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q032-1e40a249ac",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 32 題",
+    "sourceFile": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md",
+    "sourceLocator": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md#offset-5895",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "有關旅館評鑑之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "臺灣官方星級旅館評鑑總分得740 分，為四星級"
+      },
+      {
+        "id": "B",
+        "text": "臺灣官方星級旅館評鑑第一階段為「建築設備」，客房數在260間之旅館，至少應評核6 個房間"
+      },
+      {
+        "id": "C",
+        "text": "美國汽車協會評鑑旅館以「鑽石」作為評鑑識別標誌，從一顆鑽石到六顆鑽石，共分為六個等級"
+      },
+      {
+        "id": "D",
+        "text": "法國米其林輪胎公司之旅館評鑑，是刊登於米其林紅色指南，以「洋房」為評鑑標誌"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關旅館評鑑之敘述，下列何者錯誤？ 臺灣官方星級旅館評鑑總分得740 分，為四星級 臺灣官方星級旅館評鑑第一階段為「建築設備」，客房數在260間之旅館，至少應評核6 個房間 美國汽車協會評鑑旅館以「鑽石」作為評鑑識別標誌，從一顆鑽石到六顆鑽石，共分為六個等級 法國米其林輪胎公司之旅館評鑑，是刊登於米其林紅色指南，以「洋房」為評鑑標誌 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1591
+  }
+}

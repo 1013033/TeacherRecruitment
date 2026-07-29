@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p2-q005-e1feaac77e",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(二) 第 5 題",
+    "sourceFile": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md",
+    "sourceLocator": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md#offset-1010",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "關於避難緩降機使用步驟的先後順序，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "掛掛勾、束束環、套安全帶、丟輪盤、推牆壁<sup>"
+      },
+      {
+        "id": "B",
+        "text": "</sup> <sup>掛掛勾、丟輪盤、套安全帶、束束環、推牆壁</sup>"
+      },
+      {
+        "id": "C",
+        "text": "套安全帶、掛掛勾、丟輪盤、束束環、推牆壁<sub>"
+      },
+      {
+        "id": "D",
+        "text": "</sub> <sub>套安全帶、束束環、掛掛勾、丟輪盤、推牆壁</sub>"
+      },
+      {
+        "id": "C",
+        "text": "套安全帶、掛掛勾、丟輪盤東束環、推牆"
+      },
+      {
+        "id": "D",
+        "text": "套安全帶、束束環、掛掛勾、丟輪盤、推牆壁"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於避難緩降機使用步驟的先後順序，下列何者正確？ 掛掛勾、束束環、套安全帶、丟輪盤、推牆壁<sup> </sup> <sup>掛掛勾、丟輪盤、套安全帶、束束環、推牆壁</sup> 套安全帶、掛掛勾、丟輪盤、束束環、推牆壁<sub> </sub> <sub>套安全帶、束束環、掛掛勾、丟輪盤、推牆壁</sub> 套安全帶、掛掛勾、丟輪盤東束環、推牆 套安全帶、束束環、掛掛勾、丟輪盤、推牆壁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2448
+  }
+}

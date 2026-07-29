@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q024-3909686d4c",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 24 題",
+    "sourceFile": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md",
+    "sourceLocator": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md#offset-3989",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "臺灣處於地震活動十分頻繁的地區，如果顧客正在餐廳用餐時發生地震，下列哪一種處理方式最不恰當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "廚房人員立即關閉爐火及瓦斯"
+      },
+      {
+        "id": "B",
+        "text": "服務人員立刻打開出入大門"
+      },
+      {
+        "id": "C",
+        "text": "引導顧客躲到堅固的壁角或桌邊"
+      },
+      {
+        "id": "D",
+        "text": "引導顧客搭乘電梯立即離開餐廳"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣處於地震活動十分頻繁的地區，如果顧客正在餐廳用餐時發生地震，下列哪一種處理方式最不恰當？ 廚房人員立即關閉爐火及瓦斯 服務人員立刻打開出入大門 引導顧客躲到堅固的壁角或桌邊 引導顧客搭乘電梯立即離開餐廳 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1164
+  }
+}

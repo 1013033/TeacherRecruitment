@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q016-9fd1692024",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 16 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-2237",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "何時是收拾中式餐桌上的調味品、殘餘物和不飲用酒水等之最佳時機？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "上小菜時"
+      },
+      {
+        "id": "B",
+        "text": "用餐結束後"
+      },
+      {
+        "id": "C",
+        "text": "上羹湯類前"
+      },
+      {
+        "id": "D",
+        "text": "上甜點及甜湯前"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "何時是收拾中式餐桌上的調味品、殘餘物和不飲用酒水等之最佳時機？ 上小菜時 用餐結束後 上羹湯類前 上甜點及甜湯前 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1404
+  }
+}

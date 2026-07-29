@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p1-q014-d17fc19802",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(一) 第 14 題",
+    "sourceFile": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md",
+    "sourceLocator": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md#offset-1690",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "製作 Crêpes Suzette (法式火焰薄餅)時，桌邊服務人員會在製作過程中淋上烈酒、焰燒烹調並擺盤供應給客人。這種生產與消費同時發生的特性是屬於餐飲服務業的哪一種屬性？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "不可儲存性 ( Perishability )"
+      },
+      {
+        "id": "B",
+        "text": "不可分割性 ( Inseparability)"
+      },
+      {
+        "id": "C",
+        "text": "無形性 ( Intangibility )"
+      },
+      {
+        "id": "D",
+        "text": "異質性 ( Heterogeneity )"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：烹調"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "製作 Crêpes Suzette (法式火焰薄餅)時，桌邊服務人員會在製作過程中淋上烈酒、焰燒烹調並擺盤供應給客人。這種生產與消費同時發生的特性是屬於餐飲服務業的哪一種屬性？ 不可儲存性 ( Perishability ) 不可分割性 ( Inseparability) 無形性 ( Intangibility ) 異質性 ( Heterogeneity ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 154
+  }
+}

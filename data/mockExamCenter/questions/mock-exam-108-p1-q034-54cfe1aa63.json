@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q034-54cfe1aa63",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 34 題",
+    "sourceFile": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md",
+    "sourceLocator": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md#offset-5250",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "下列旅館優惠計價方式中，旅客可享最多房價優惠者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Complimentary"
+      },
+      {
+        "id": "B",
+        "text": "Package Rate"
+      },
+      {
+        "id": "C",
+        "text": "Promotion Rate"
+      },
+      {
+        "id": "D",
+        "text": "Corporate Rate"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、房價"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、房價"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列旅館優惠計價方式中，旅客可享最多房價優惠者為何？ Complimentary Package Rate Promotion Rate Corporate Rate 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 660
+  }
+}

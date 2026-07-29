@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p2-q006-5ed89558f2",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 6 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-1438",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "關於À la Carte的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "適用於團體客人，能夠供應快速出餐的品項，如：今日特餐"
+      },
+      {
+        "id": "B",
+        "text": "源自於法語，指人們可依自己喜好從多種菜單品項中做選擇"
+      },
+      {
+        "id": "C",
+        "text": "每道菜餚皆單獨訂價，個別提供如前菜、主菜、甜點的價格"
+      },
+      {
+        "id": "D",
+        "text": "對於喜愛嚐鮮的觀光客群，可為其建議店家特色的招牌菜餚"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於À la Carte的敘述，下列何者錯誤？ 適用於團體客人，能夠供應快速出餐的品項，如：今日特餐 源自於法語，指人們可依自己喜好從多種菜單品項中做選擇 每道菜餚皆單獨訂價，個別提供如前菜、主菜、甜點的價格 對於喜愛嚐鮮的觀光客群，可為其建議店家特色的招牌菜餚 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1865
+  }
+}

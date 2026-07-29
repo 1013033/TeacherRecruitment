@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p2-q027-8c3829498d",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(二) 第 27 題",
+    "sourceFile": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md",
+    "sourceLocator": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md#offset-3399",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "服務西餐時，原則上顧客食用完何項菜餚後，是撤除 salt&pepper shakers 之最佳時機？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "前菜"
+      },
+      {
+        "id": "B",
+        "text": "湯品"
+      },
+      {
+        "id": "C",
+        "text": "主菜"
+      },
+      {
+        "id": "D",
+        "text": "甜點"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "服務西餐時，原則上顧客食用完何項菜餚後，是撤除 salt&pepper shakers 之最佳時機？ 前菜 湯品 主菜 甜點 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1465
+  }
+}

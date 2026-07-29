@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q010-a1e7e7ea08",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 10 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-1679",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "由湯瑪士庫克首創的全備旅遊，成功地將運輸工具與旅行活動結合一起，包辦所有團員餐飲、住宿、交通及旅遊行程，是為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "brand tour"
+      },
+      {
+        "id": "B",
+        "text": "familiarization tour"
+      },
+      {
+        "id": "C",
+        "text": "backpacking tour"
+      },
+      {
+        "id": "D",
+        "text": "group inclusive package tour"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "由湯瑪士庫克首創的全備旅遊，成功地將運輸工具與旅行活動結合一起，包辦所有團員餐飲、住宿、交通及旅遊行程，是為下列何者？ brand tour familiarization tour backpacking tour group inclusive package tour 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 347
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p1-q016-6f4e3f2e2f",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(一) 第 16 題",
+    "sourceFile": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md",
+    "sourceLocator": "專一\\output\\96-1專一試題\\auto\\96-1專一試題.md#offset-2084",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "下列何者為「民宿管理辦法」的法源依據？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "發展觀光條例"
+      },
+      {
+        "id": "B",
+        "text": "農業發展條例"
+      },
+      {
+        "id": "C",
+        "text": "觀光旅館業管理規則"
+      },
+      {
+        "id": "D",
+        "text": "觀光遊樂業管理規則"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：民宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：民宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者為「民宿管理辦法」的法源依據？ 發展觀光條例 農業發展條例 觀光旅館業管理規則 觀光遊樂業管理規則 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1117
+  }
+}

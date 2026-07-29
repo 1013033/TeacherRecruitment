@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q037-58df6e7367",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 37 題",
+    "sourceFile": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md",
+    "sourceLocator": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md#offset-6484",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "臺北中山雅樂軒酒店(Aloft Taipei Zhongshan)以最新潮的科技和生活元素聞名，請問截至民國109 年11 月止，該飯店隸屬於哪一個國際連鎖旅館系統？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "希爾頓全球酒店集團(Hilton Worldwide)"
+      },
+      {
+        "id": "B",
+        "text": "香格里拉集團(Shangri-La Hotels & Resorts)"
+      },
+      {
+        "id": "C",
+        "text": "凱悅國際飯店集團(Global Hyatt Corporation)"
+      },
+      {
+        "id": "D",
+        "text": "萬豪國際集團(Marriott International)"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺北中山雅樂軒酒店(Aloft Taipei Zhongshan)以最新潮的科技和生活元素聞名，請問截至民國109 年11 月止，該飯店隸屬於哪一個國際連鎖旅館系統？ 希爾頓全球酒店集團(Hilton Worldwide) 香格里拉集團(Shangri-La Hotels & Resorts) 凱悅國際飯店集團(Global Hyatt Corporation) 萬豪國際集團(Marriott International) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1039
+  }
+}

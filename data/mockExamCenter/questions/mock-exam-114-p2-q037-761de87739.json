@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q037-761de87739",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 37 題",
+    "sourceFile": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md",
+    "sourceLocator": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md#offset-10280",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "顧客詢問服務人員：「為什麼英國人會有下午茶的習慣呢？」若以專業服務人員角度回答，下列何者最正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "為工業革命後，工人需要在下午補充能量與體力而形成習慣"
+      },
+      {
+        "id": "B",
+        "text": "因貴族婦女於午餐與晚餐之間感到飢餓，遂於午後品茶佐以點心"
+      },
+      {
+        "id": "C",
+        "text": "因為英國皇室規定下午必須小憩飲茶，遂發展成為全民文化"
+      },
+      {
+        "id": "D",
+        "text": "因為英國冬天寒冷，倡導下午喝茶取暖遂演變成為固定制度"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "顧客詢問服務人員：「為什麼英國人會有下午茶的習慣呢？」若以專業服務人員角度回答，下列何者最正確？ 為工業革命後，工人需要在下午補充能量與體力而形成習慣 因貴族婦女於午餐與晚餐之間感到飢餓，遂於午後品茶佐以點心 因為英國皇室規定下午必須小憩飲茶，遂發展成為全民文化 因為英國冬天寒冷，倡導下午喝茶取暖遂演變成為固定制度 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3693
+  }
+}

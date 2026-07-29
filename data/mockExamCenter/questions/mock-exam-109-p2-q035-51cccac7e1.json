@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q035-51cccac7e1",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 35 題",
+    "sourceFile": "109\\output\\109-4專二試題\\auto\\109-4專二試題.md",
+    "sourceLocator": "109\\output\\109-4專二試題\\auto\\109-4專二試題.md#offset-4798",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "有關葡萄酒的生產製作，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "紅酒與白酒的製作流程都一樣，只差在紅葡萄與白葡萄的品種不同"
+      },
+      {
+        "id": "B",
+        "text": "香檳需使用法定品種並採用瓶內二次發酵製成"
+      },
+      {
+        "id": "C",
+        "text": "Tawny Port 在木桶陳年 5-10 年後再裝瓶，適合作為 Aperitif"
+      },
+      {
+        "id": "D",
+        "text": "Sweet Vermouth 屬於 Aperitif"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、aperitif"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、aperitif"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關葡萄酒的生產製作，下列敘述何者錯誤？ 紅酒與白酒的製作流程都一樣，只差在紅葡萄與白葡萄的品種不同 香檳需使用法定品種並採用瓶內二次發酵製成 Tawny Port 在木桶陳年 5-10 年後再裝瓶，適合作為 Aperitif Sweet Vermouth 屬於 Aperitif 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1260
+  }
+}

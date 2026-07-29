@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q018-8eba183dbd",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 18 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-3245",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列餐飲從業人員中，何者非屬外場職務編制？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Chef de Vin"
+      },
+      {
+        "id": "B",
+        "text": "Chef de Cuisine"
+      },
+      {
+        "id": "C",
+        "text": "Chef de Rang"
+      },
+      {
+        "id": "D",
+        "text": "Receptionist"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：chef"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：chef"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列餐飲從業人員中，何者非屬外場職務編制？ Chef de Vin Chef de Cuisine Chef de Rang Receptionist 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1772
+  }
+}

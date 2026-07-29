@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q048-e408a16a9d",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 48 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-6258",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "當員工發現旅館公共區域有客人酒醉嘔吐在地板上時，應通知旅館內哪一個部門前來清理？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Engineering Department"
+      },
+      {
+        "id": "B",
+        "text": "Front Office Department"
+      },
+      {
+        "id": "C",
+        "text": "Housekeeping Department"
+      },
+      {
+        "id": "D",
+        "text": "Food & Beverage Department"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、housekeeping"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、housekeeping"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "當員工發現旅館公共區域有客人酒醉嘔吐在地板上時，應通知旅館內哪一個部門前來清理？ Engineering Department Front Office Department Housekeeping Department Food & Beverage Department 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 93
+  }
+}

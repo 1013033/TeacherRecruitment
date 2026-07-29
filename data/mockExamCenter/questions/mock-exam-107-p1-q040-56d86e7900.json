@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q040-56d86e7900",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 40 題",
+    "sourceFile": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md",
+    "sourceLocator": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md#offset-6972",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "依據《旅行業管理規則》之規定，不論是總公司或分公司，至少應設置一位專業經理人綜理公司業務，且經理人需具備法定條件才能申請參加受訓，經訓練合格使得聘任。下列有關旅行業專業經理人背景條件之敘述，受訓資格不符者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "阿花於大學觀光系畢業後，在雄獅旅行社擔任專業職員已滿3 年"
+      },
+      {
+        "id": "B",
+        "text": "阿珠國中畢業後未升學，在旅行社擔任遊程企劃已逾10 年"
+      },
+      {
+        "id": "C",
+        "text": "阿宜於高中畢業後，在交通部觀光局擔任職員4.5 年"
+      },
+      {
+        "id": "D",
+        "text": "阿軒五專畢業後，在臺灣高鐵擔任站務督導4 年"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業、旅行社、觀光局"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業、旅行社、觀光局"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據《旅行業管理規則》之規定，不論是總公司或分公司，至少應設置一位專業經理人綜理公司業務，且經理人需具備法定條件才能申請參加受訓，經訓練合格使得聘任。下列有關旅行業專業經理人背景條件之敘述，受訓資格不符者為何？ 阿花於大學觀光系畢業後，在雄獅旅行社擔任專業職員已滿3 年 阿珠國中畢業後未升學，在旅行社擔任遊程企劃已逾10 年 阿宜於高中畢業後，在交通部觀光局擔任職員4.5 年 阿軒五專畢業後，在臺灣高鐵擔任站務督導4 年 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 203
+  }
+}

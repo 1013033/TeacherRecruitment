@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q030-b7378580aa",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 30 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-4634",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "旅館的客房狀態常以電腦系統顯示英文專用術語或縮寫，以方便管理，下列常見的用語與狀態說明，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "V/R指已達退房時間，延時退房"
+      },
+      {
+        "id": "B",
+        "text": "V/D指已退房，待整理的客房"
+      },
+      {
+        "id": "C",
+        "text": "on change 指招待房"
+      },
+      {
+        "id": "D",
+        "text": "D/O 指故障房"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館的客房狀態常以電腦系統顯示英文專用術語或縮寫，以方便管理，下列常見的用語與狀態說明，何者正確？ V/R指已達退房時間，延時退房 V/D指已退房，待整理的客房 on change 指招待房 D/O 指故障房 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 366
+  }
+}

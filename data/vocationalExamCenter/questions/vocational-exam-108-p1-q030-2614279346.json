@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p1-q030-2614279346",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 30 題",
+    "sourceFile": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md",
+    "sourceLocator": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md#offset-5194",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "一對夫妻帶著一個已滿 12 歲和一對滿週歲的雙胞胎小孩出國，這家人購買機票時，符合規定之最經濟選項，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "3張全票、1張兒童票、1張嬰兒票"
+      },
+      {
+        "id": "B",
+        "text": "3張全票、0張兒童票、2張嬰兒票"
+      },
+      {
+        "id": "C",
+        "text": "2張全票、2張兒童票、1張嬰兒票"
+      },
+      {
+        "id": "D",
+        "text": "2張全票、1張兒童票、2張嬰兒票"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：機票"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一對夫妻帶著一個已滿 12 歲和一對滿週歲的雙胞胎小孩出國，這家人購買機票時，符合規定之最經濟選項，下列何者正確？ 3張全票、1張兒童票、1張嬰兒票 3張全票、0張兒童票、2張嬰兒票 2張全票、2張兒童票、1張嬰兒票 2張全票、1張兒童票、2張嬰兒票 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 416
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p2-q025-503bb77cb5",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(二) 第 25 題",
+    "sourceFile": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md",
+    "sourceLocator": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md#offset-3448",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "鋪設毛毯床舖時，哪幾條床單應該正面朝上？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "第一、二條"
+      },
+      {
+        "id": "B",
+        "text": "第一、三條"
+      },
+      {
+        "id": "C",
+        "text": "第二、三條"
+      },
+      {
+        "id": "D",
+        "text": "第一、二、三條"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "鋪設毛毯床舖時，哪幾條床單應該正面朝上？ 第一、二條 第一、三條 第二、三條 第一、二、三條 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1512
+  }
+}

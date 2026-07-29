@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q018-1c745d07d1",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 18 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-1558",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列乳酪(Cheese)中，何者質地堅硬且可被磨成粉末使用？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "巴馬乳酪(Parmesan)"
+      },
+      {
+        "id": "B",
+        "text": "摩扎瑞拉乳酪(Mozzarella)"
+      },
+      {
+        "id": "C",
+        "text": "馬司卡邦乳酪(Mascarpone)"
+      },
+      {
+        "id": "D",
+        "text": "卡門貝爾乳酪(Camembert)"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列乳酪(Cheese)中，何者質地堅硬且可被磨成粉末使用？ 巴馬乳酪(Parmesan) 摩扎瑞拉乳酪(Mozzarella) 馬司卡邦乳酪(Mascarpone) 卡門貝爾乳酪(Camembert) 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2170
+  }
+}

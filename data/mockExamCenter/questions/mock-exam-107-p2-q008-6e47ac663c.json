@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q008-6e47ac663c",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 8 題",
+    "sourceFile": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md",
+    "sourceLocator": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md#offset-1784",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "有關營業前的準備工作項目與工作內容之說明，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "House work：指餐廳的清潔工作，包括場地與設備的清潔"
+      },
+      {
+        "id": "B",
+        "text": "Service Mise en Place 是指服務區的準備，例如：餐具、布巾整理及餐桌擺設"
+      },
+      {
+        "id": "C",
+        "text": "Guest Mise en Place 是指用餐區的準備，例如：檯布舖設及口布摺疊"
+      },
+      {
+        "id": "D",
+        "text": "Briefing：是指餐前會報，包括工作檢核、服務前會議、訂位確認"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、口布、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、口布、service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關營業前的準備工作項目與工作內容之說明，下列何者錯誤？ House work：指餐廳的清潔工作，包括場地與設備的清潔 Service Mise en Place 是指服務區的準備，例如：餐具、布巾整理及餐桌擺設 Guest Mise en Place 是指用餐區的準備，例如：檯布舖設及口布摺疊 Briefing：是指餐前會報，包括工作檢核、服務前會議、訂位確認 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 406
+  }
+}

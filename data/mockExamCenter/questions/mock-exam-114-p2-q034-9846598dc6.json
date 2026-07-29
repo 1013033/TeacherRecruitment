@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q034-9846598dc6",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 34 題",
+    "sourceFile": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md",
+    "sourceLocator": "114\\output\\114-1專二試題\\auto\\114-1專二試題.md#offset-5103",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "小新在學習飲料調製丙級時，學習到各式調製混合性飲料的方法，下列哪一杯飲料有用到兩種調製方法？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "熱抹茶拿鐵"
+      },
+      {
+        "id": "B",
+        "text": "冰拿鐵咖啡"
+      },
+      {
+        "id": "C",
+        "text": "虹吸式熱咖啡"
+      },
+      {
+        "id": "D",
+        "text": "奇異果冰沙"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小新在學習飲料調製丙級時，學習到各式調製混合性飲料的方法，下列哪一杯飲料有用到兩種調製方法？ 熱抹茶拿鐵 冰拿鐵咖啡 虹吸式熱咖啡 奇異果冰沙 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3313
+  }
+}

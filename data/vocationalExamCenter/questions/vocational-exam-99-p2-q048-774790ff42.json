@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q048-774790ff42",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 48 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-6766",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "下列關於葡萄酒產區與國家的組合，何者正確？甲、納帕山谷 ( Napa Valley ) ( Bordeaux )：法國丙、萊茵河( Rhein )沿岸：西班牙 布根地( Burgundy )：義大利",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、 、丙"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於葡萄酒產區與國家的組合，何者正確？甲、納帕山谷 ( Napa Valley ) ( Bordeaux )：法國丙、萊茵河( Rhein )沿岸：西班牙 布根地( Burgundy )：義大利 甲、乙 甲、 、丙 丙、丁 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2531
+  }
+}

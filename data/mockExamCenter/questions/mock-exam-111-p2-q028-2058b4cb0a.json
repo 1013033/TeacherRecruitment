@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q028-2058b4cb0a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 28 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-4179",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "樺樺在學校接觸到 Blender 之後，回家和家人們分享飲料調製沁涼口感，因此利用假日時間展現所學，下列何種操作過程屬於正確的方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "適合調製奇異多果汁、新鮮百香果冰沙、純真可樂達"
+      },
+      {
+        "id": "B",
+        "text": "加入冰淇淋可以製作 Milkshake"
+      },
+      {
+        "id": "C",
+        "text": "常見飲品有 Frozen Drink，如珍珠奶茶、綠豆冰沙"
+      },
+      {
+        "id": "D",
+        "text": "加入 Soda Water、Cube Ice，操作後得到 Smoothie 的口感"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "樺樺在學校接觸到 Blender 之後，回家和家人們分享飲料調製沁涼口感，因此利用假日時間展現所學，下列何種操作過程屬於正確的方式？ 適合調製奇異多果汁、新鮮百香果冰沙、純真可樂達 加入冰淇淋可以製作 Milkshake 常見飲品有 Frozen Drink，如珍珠奶茶、綠豆冰沙 加入 Soda Water、Cube Ice，操作後得到 Smoothie 的口感 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2108
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q048-77058d081d",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 48 題",
+    "sourceFile": "109\\output\\109-1-專一試題\\auto\\109-1-專一試題.md",
+    "sourceLocator": "109\\output\\109-1-專一試題\\auto\\109-1-專一試題.md#offset-6750",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "下列為外國餐飲業發展，請按出現的時間排列出正確順序：甲、法蘭西斯‧皮耶爾(Francois Pierre de La Varenne)發明 Roux 與介紹多種 Sauce乙、英國倫敦第一家公共餐飲屋 Public Cook House丙、蒙布‧布朗傑(Monsieur Boulanger)發明羊腿燉蔬菜湯 La Restaurant Divin丁、義大利威尼斯商人在歐洲開設第一家咖啡屋Bottega Del Caffè戊、法國人漢尼耶著美食者年鑑",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丁戊丙"
+      },
+      {
+        "id": "C",
+        "text": "乙丁甲丙戊"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列為外國餐飲業發展，請按出現的時間排列出正確順序：甲、法蘭西斯‧皮耶爾(Francois Pierre de La Varenne)發明 Roux 與介紹多種 Sauce乙、英國倫敦第一家公共餐飲屋 Public Cook House丙、蒙布‧布朗傑(Monsieur Boulanger)發明羊腿燉蔬菜湯 La Restaurant Divin丁、義大利威尼斯商人在歐洲開設第一家咖啡屋Bottega Del Caffè戊、法國人漢尼耶著美食者年鑑 甲乙丁戊丙 乙丁甲丙戊 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 953
+  }
+}

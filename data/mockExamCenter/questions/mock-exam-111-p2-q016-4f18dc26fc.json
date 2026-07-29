@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q016-4f18dc26fc",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 16 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-4547",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "有關中餐用餐禮儀的說明，下列敘述何者不正確？ 圖(三)",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "上桌時，應待主人示意後主賓或長者先行取用"
+      },
+      {
+        "id": "B",
+        "text": "吃麵條時，應運用筷子和湯匙將麵條夾取食用，勿以盤就口或吸食"
+      },
+      {
+        "id": "C",
+        "text": "用餐完畢時，女主人將口布放回餐椅上，表示用餐已結束"
+      },
+      {
+        "id": "D",
+        "text": "「筷尖五分、最長一吋」，意指不要弄髒筷子3公分以上的部位"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：口布"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：口布"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關中餐用餐禮儀的說明，下列敘述何者不正確？ 圖(三) 上桌時，應待主人示意後主賓或長者先行取用 吃麵條時，應運用筷子和湯匙將麵條夾取食用，勿以盤就口或吸食 用餐完畢時，女主人將口布放回餐椅上，表示用餐已結束 「筷尖五分、最長一吋」，意指不要弄髒筷子3公分以上的部位 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2169
+  }
+}

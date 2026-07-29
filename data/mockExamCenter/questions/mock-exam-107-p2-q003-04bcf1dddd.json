@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q003-04bcf1dddd",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 3 題",
+    "sourceFile": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md",
+    "sourceLocator": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md#offset-283",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "餐具擺設大多以左叉右刀為主；但因應節日需求而擬定菜單出現的特殊餐具擺設，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Bouillabaisse：左魚叉、右魚刀及橢圓湯匙"
+      },
+      {
+        "id": "B",
+        "text": "Artichokes：左沙拉叉、右沙拉刀"
+      },
+      {
+        "id": "C",
+        "text": "Pasta：左橢圓湯匙、右餐叉"
+      },
+      {
+        "id": "D",
+        "text": "Caviar：左點心叉、右點心匙"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐具擺設大多以左叉右刀為主；但因應節日需求而擬定菜單出現的特殊餐具擺設，下列何者錯誤？ Bouillabaisse：左魚叉、右魚刀及橢圓湯匙 Artichokes：左沙拉叉、右沙拉刀 Pasta：左橢圓湯匙、右餐叉 Caviar：左點心叉、右點心匙 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 216
+  }
+}

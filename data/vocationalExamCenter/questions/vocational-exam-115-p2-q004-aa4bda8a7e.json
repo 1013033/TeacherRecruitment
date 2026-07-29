@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q004-aa4bda8a7e",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 4 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-1082",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "小花帶日本朋友奈奈到餐廳用餐，用餐過程中發現餐具與杯器皿有髒污，影響用餐心情，經反應後服務人員立即更換乾淨的餐具給他們。主管隨即檢視服務人員擦拭餐具的方式，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以熱水之水蒸氣擦拭玻璃杯，徒手握住杯口用服務巾擦拭"
+      },
+      {
+        "id": "B",
+        "text": "以服務巾取盤緣，擦拭盤緣與盤面，最後擦拭盤底"
+      },
+      {
+        "id": "C",
+        "text": "擦拭餐刀時，應先使用蒸氣，刀刃朝右以右手擦拭"
+      },
+      {
+        "id": "D",
+        "text": "服務人員以客用口布逐一擦拭餐叉與餐匙"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具、口布"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具、口布"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小花帶日本朋友奈奈到餐廳用餐，用餐過程中發現餐具與杯器皿有髒污，影響用餐心情，經反應後服務人員立即更換乾淨的餐具給他們。主管隨即檢視服務人員擦拭餐具的方式，下列敘述何者正確？ 以熱水之水蒸氣擦拭玻璃杯，徒手握住杯口用服務巾擦拭 以服務巾取盤緣，擦拭盤緣與盤面，最後擦拭盤底 擦拭餐刀時，應先使用蒸氣，刀刃朝右以右手擦拭 服務人員以客用口布逐一擦拭餐叉與餐匙 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2009
+  }
+}

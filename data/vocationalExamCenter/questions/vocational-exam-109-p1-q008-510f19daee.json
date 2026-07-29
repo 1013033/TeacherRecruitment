@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q008-510f19daee",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 8 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-1369",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "金鼠年過年期間，因嚴重特殊傳染性肺炎(COVID-19)肆虐，許多消費者擔心外出用餐受到感染，所以多會選擇餐飲外送平台的服務，上列敘述屬於哪一種餐飲服務方式？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "catering service"
+      },
+      {
+        "id": "B",
+        "text": "delivery service"
+      },
+      {
+        "id": "C",
+        "text": "drive - through service"
+      },
+      {
+        "id": "D",
+        "text": "table service"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "金鼠年過年期間，因嚴重特殊傳染性肺炎(COVID-19)肆虐，許多消費者擔心外出用餐受到感染，所以多會選擇餐飲外送平台的服務，上列敘述屬於哪一種餐飲服務方式？ catering service delivery service drive - through service table service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 444
+  }
+}

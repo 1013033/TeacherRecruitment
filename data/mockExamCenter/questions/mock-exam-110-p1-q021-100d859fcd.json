@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q021-100d859fcd",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 21 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-3702",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "依據《食品良好衛生規範準則》之規範<sup>，</sup>有關餐飲外燴業者作業需知的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "烹調場所及供應之食物，應避免直接日曬、雨淋或接觸污染源"
+      },
+      {
+        "id": "B",
+        "text": "烹調場所及供應之食物，應有遮蔽、冷凍(藏)設備或設施"
+      },
+      {
+        "id": "C",
+        "text": "烹調食物應遵循新鮮、清潔、迅速、加熱及冷藏原則，並避免交叉污染"
+      },
+      {
+        "id": "D",
+        "text": "食品冷藏溫度應保持低於-18℃以下"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：烹調、食品"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：烹調、食品"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據《食品良好衛生規範準則》之規範<sup>，</sup>有關餐飲外燴業者作業需知的敘述，下列何者錯誤？ 烹調場所及供應之食物，應避免直接日曬、雨淋或接觸污染源 烹調場所及供應之食物，應有遮蔽、冷凍(藏)設備或設施 烹調食物應遵循新鮮、清潔、迅速、加熱及冷藏原則，並避免交叉污染 食品冷藏溫度應保持低於-18℃以下 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1775
+  }
+}

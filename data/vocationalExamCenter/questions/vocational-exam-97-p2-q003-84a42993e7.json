@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q003-84a42993e7",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 3 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-464",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "阿奇師在美食節目中介紹某道年菜的做法：「……將材料烹煮好，再於鍋中勾芡，讓這道年菜起鍋後能帶有少許芡汁……」。根據上述，此道年菜較有可能採用下列哪一種烹調方法？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "炒"
+      },
+      {
+        "id": "B",
+        "text": "燒"
+      },
+      {
+        "id": "C",
+        "text": "煨"
+      },
+      {
+        "id": "D",
+        "text": "燴"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：烹調"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿奇師在美食節目中介紹某道年菜的做法：「……將材料烹煮好，再於鍋中勾芡，讓這道年菜起鍋後能帶有少許芡汁……」。根據上述，此道年菜較有可能採用下列哪一種烹調方法？ 炒 燒 煨 燴 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2396
+  }
+}

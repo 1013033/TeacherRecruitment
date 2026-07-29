@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q025-55a88cb9a7",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 25 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-3811",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "臺灣知名模特兒的婚禮，選擇在臺南美術館舉行，由飯店提供內外場設備與餐食，並由服務人員至婚禮現場提供餐飲服務，上述的服務方式，屬於下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "catering service"
+      },
+      {
+        "id": "B",
+        "text": "drive - in service"
+      },
+      {
+        "id": "C",
+        "text": "take - out service"
+      },
+      {
+        "id": "D",
+        "text": "room service"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣知名模特兒的婚禮，選擇在臺南美術館舉行，由飯店提供內外場設備與餐食，並由服務人員至婚禮現場提供餐飲服務，上述的服務方式，屬於下列何者？ catering service drive - in service take - out service room service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 461
+  }
+}

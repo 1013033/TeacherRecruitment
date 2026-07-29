@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q009-a390ec4383",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 9 題",
+    "sourceFile": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md",
+    "sourceLocator": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md#offset-857",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列國內餐飲業代表性品牌，如依設立時間先後排列，正確排序為何？甲、海霸王 乙、春水堂 丙、頂呱呱 丁、85°C 戊、麥當勞 己、摩斯",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙丙甲己戊丁"
+      },
+      {
+        "id": "B",
+        "text": "戊丙己甲丁乙"
+      },
+      {
+        "id": "C",
+        "text": "丙甲乙戊己丁"
+      },
+      {
+        "id": "D",
+        "text": "丁己甲戊丙乙"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列國內餐飲業代表性品牌，如依設立時間先後排列，正確排序為何？甲、海霸王 乙、春水堂 丙、頂呱呱 丁、85°C 戊、麥當勞 己、摩斯 乙丙甲己戊丁 戊丙己甲丁乙 丙甲乙戊己丁 丁己甲戊丙乙 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 452
+  }
+}

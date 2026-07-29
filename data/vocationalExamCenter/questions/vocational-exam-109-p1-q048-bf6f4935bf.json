@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q048-bf6f4935bf",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 48 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-7729",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "關於餐飲服務的敘述，下列何者正確？甲：room service是指在餐廳包廂內所特別提供的餐飲服務乙： drive - through service 是指車輛到點餐車道窗口點餐的服務丙： in - flight service 是指在機艙內提供的餐飲服務丁：semi-buffet service是指客人透過電話預訂餐點，至餐廳自行取餐的餐飲服務",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "甲、丁"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：buffet、service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：buffet、service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐飲服務的敘述，下列何者正確？甲：room service是指在餐廳包廂內所特別提供的餐飲服務乙： drive - through service 是指車輛到點餐車道窗口點餐的服務丙： in - flight service 是指在機艙內提供的餐飲服務丁：semi-buffet service是指客人透過電話預訂餐點，至餐廳自行取餐的餐飲服務 甲、乙 乙、丙 丙、丁 甲、丁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 484
+  }
+}

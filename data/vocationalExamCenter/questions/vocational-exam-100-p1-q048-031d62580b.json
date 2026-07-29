@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p1-q048-031d62580b",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(一) 第 48 題",
+    "sourceFile": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md",
+    "sourceLocator": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md#offset-6281",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "關於聯檢程序 列對「Q」供 者錯",
+    "images": [
+      {
+        "id": "vocational-exam-100-p1-q048-031d62580b-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-100-p1-q048-031d62580b-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "是英文 quarantine 的縮寫"
+      },
+      {
+        "id": "B",
+        "text": "是指聯檢中代表對人、物之檢疫及衛生檢"
+      },
+      {
+        "id": "C",
+        "text": "動植物的檢疫工作由海關負責"
+      },
+      {
+        "id": "D",
+        "text": "旅客的檢疫防治工作由行政院衛生署負責"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "關於聯檢程序 列對「Q」供 者錯 是英文 quarantine 的縮寫 是指聯檢中代表對人、物之檢疫及衛生檢 動植物的檢疫工作由海關負責 旅客的檢疫防治工作由行政院衛生署負責 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 47
+  }
+}

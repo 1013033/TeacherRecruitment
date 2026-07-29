@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q028-780ab23017",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 28 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-7611",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "依據我國《星級旅館評鑑作業要點》，星級旅館評鑑分為「建築設備」及「服務品質」二階段辦理，配分合計 1,000 分。試問：旅宿業者若經評鑑團隊核予圖(二)等級標章，其受評總分應介於下列何一得分區間？",
+    "images": [
+      {
+        "id": "mock-exam-110-p1-q028-780ab23017-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-110-p1-q028-780ab23017-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "181\\~300 分"
+      },
+      {
+        "id": "B",
+        "text": "301\\~600 分"
+      },
+      {
+        "id": "C",
+        "text": "600\\~749 分"
+      },
+      {
+        "id": "D",
+        "text": "750\\~874 分以上"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據我國《星級旅館評鑑作業要點》，星級旅館評鑑分為「建築設備」及「服務品質」二階段辦理，配分合計 1,000 分。試問：旅宿業者若經評鑑團隊核予圖(二)等級標章，其受評總分應介於下列何一得分區間？ 181\\~300 分 301\\~600 分 600\\~749 分 750\\~874 分以上 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1781
+  }
+}

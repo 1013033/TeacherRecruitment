@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p1-q002-7b40f64532",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 2 題",
+    "sourceFile": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md",
+    "sourceLocator": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md#offset-632",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "某餐飲服務人員為客人介紹各國特色食材與著名菜色，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "法國著名菜色包含 Coq au Vin、French Onion Soup"
+      },
+      {
+        "id": "B",
+        "text": "英國著名菜色包含 Fish &Chips、Yorkshire Pudding"
+      },
+      {
+        "id": "C",
+        "text": "義大利著名菜色包含 Borscht、Parma ham &melon ( Prosciutto &melon )"
+      },
+      {
+        "id": "D",
+        "text": "西班牙著名菜色包含 Gazpacho、Tapas"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食材"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食材"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某餐飲服務人員為客人介紹各國特色食材與著名菜色，下列敘述何者錯誤？ 法國著名菜色包含 Coq au Vin、French Onion Soup 英國著名菜色包含 Fish &Chips、Yorkshire Pudding 義大利著名菜色包含 Borscht、Parma ham &melon ( Prosciutto &melon ) 西班牙著名菜色包含 Gazpacho、Tapas 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 388
+  }
+}

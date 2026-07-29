@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q041-496e1be060",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 41 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-10754",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "依圖(三)中所提及的額外優惠，住房旅客可以優惠價加購高雄市經交通部觀光署核准，且領有執照經營之主題樂園門票，此主題樂園應為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "鈴鹿賽道樂園"
+      },
+      {
+        "id": "B",
+        "text": "義大遊樂世界"
+      },
+      {
+        "id": "C",
+        "text": "蓮潭滑水主題樂園"
+      },
+      {
+        "id": "D",
+        "text": "澄清湖風景區兒童樂園 ## ▲閱讀下文，回答第 42-43 題 CQ Hotel於 2024年7月20日的當日客房與入住概況資訊如表(三)，依照表上數據回答以下問題。 <table><tr><td rowspan=1 colspan=2>CQ Hotel 當日客房與入住概況資料Date: 2024/July/20</td></tr><tr><td rowspan=1 colspan=2>當日旅客來源及住房數量</td></tr><tr><td rowspan=1 colspan=1>旅客來源</td><td rowspan=1 colspan=1>住房數量</td></tr><tr><td rowspan=1 colspan=1>F.I. T</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>G. I. T</td><td rowspan=1 colspan=1>150 Rooms</td></tr><tr><td rowspan=1 colspan=2>當日住房統計資訊</td></tr><tr><td rowspan=1 colspan=1>當日住客總人數</td><td rowspan=1 colspan=1>500人</td></tr><tr><td rowspan=1 colspan=1>當日客房總收入</td><td rowspan=1 colspan=1>NT$2,160,000</td></tr><tr><td rowspan=1 colspan=2>全館房型及各房型房間數量</td></tr><tr><td rowspan=1 colspan=1>房型</td><td rowspan=1 colspan=1>該房型房間數量</td></tr><tr><td rowspan=1 colspan=1>Standard Single Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>Standard Twin Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>Deluxe Double Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>Deluxe Twin Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr></table>"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：客房、hotel、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：客房、hotel、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依圖(三)中所提及的額外優惠，住房旅客可以優惠價加購高雄市經交通部觀光署核准，且領有執照經營之主題樂園門票，此主題樂園應為下列何者？ 鈴鹿賽道樂園 義大遊樂世界 蓮潭滑水主題樂園 澄清湖風景區兒童樂園 ## ▲閱讀下文，回答第 42-43 題 CQ Hotel於 2024年7月20日的當日客房與入住概況資訊如表(三)，依照表上數據回答以下問題。 <table><tr><td rowspan=1 colspan=2>CQ Hotel 當日客房與入住概況資料Date: 2024/July/20</td></tr><tr><td rowspan=1 colspan=2>當日旅客來源及住房數量</td></tr><tr><td rowspan=1 colspan=1>旅客來源</td><td rowspan=1 colspan=1>住房數量</td></tr><tr><td rowspan=1 colspan=1>F.I. T</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>G. I. T</td><td rowspan=1 colspan=1>150 Rooms</td></tr><tr><td rowspan=1 colspan=2>當日住房統計資訊</td></tr><tr><td rowspan=1 colspan=1>當日住客總人數</td><td rowspan=1 colspan=1>500人</td></tr><tr><td rowspan=1 colspan=1>當日客房總收入</td><td rowspan=1 colspan=1>NT$2,160,000</td></tr><tr><td rowspan=1 colspan=2>全館房型及各房型房間數量</td></tr><tr><td rowspan=1 colspan=1>房型</td><td rowspan=1 colspan=1>該房型房間數量</td></tr><tr><td rowspan=1 colspan=1>Standard Single Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>Standard Twin Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>Deluxe Double Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr><tr><td rowspan=1 colspan=1>Deluxe Twin Room</td><td rowspan=1 colspan=1>100 Rooms</td></tr></table> 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 726
+  }
+}

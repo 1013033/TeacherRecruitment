@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q021-8d65ed4ba9",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 21 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-4503",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "下列何者不屬於 guéridon service 的工作內容？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "filleting"
+      },
+      {
+        "id": "B",
+        "text": "mapping"
+      },
+      {
+        "id": "C",
+        "text": "slicing"
+      },
+      {
+        "id": "D",
+        "text": "tossing"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不屬於 guéridon service 的工作內容？ filleting mapping slicing tossing 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1830
+  }
+}

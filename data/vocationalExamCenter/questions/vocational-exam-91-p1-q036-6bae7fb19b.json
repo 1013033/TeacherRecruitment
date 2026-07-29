@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p1-q036-6bae7fb19b",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(一) 第 36 題",
+    "sourceFile": "專一\\output\\91專一\\auto\\91專一.md",
+    "sourceLocator": "專一\\output\\91專一\\auto\\91專一.md#offset-4081",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "“Stayover” 是指：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "續住"
+      },
+      {
+        "id": "B",
+        "text": "停留太久"
+      },
+      {
+        "id": "C",
+        "text": "通知旅館，因故無法如期住進者"
+      },
+      {
+        "id": "D",
+        "text": "延長住宿日期，而旅館事先未被告知"
+      }
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、住宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "“Stayover” 是指： 續住 停留太久 通知旅館，因故無法如期住進者 延長住宿日期，而旅館事先未被告知 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 861
+  }
+}

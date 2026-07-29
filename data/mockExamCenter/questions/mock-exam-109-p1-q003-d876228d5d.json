@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q003-d876228d5d",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 3 題",
+    "sourceFile": "109\\output\\109-1-專一試題\\auto\\109-1-專一試題.md",
+    "sourceLocator": "109\\output\\109-1-專一試題\\auto\\109-1-專一試題.md#offset-408",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "大新廚坊採購 20 公斤牛肉，採購價格每公斤 200 元，切除脂肪、骨頭、蹄筋、碎肉等廢棄部分共 3.5 公斤，烹調過程損耗 1.5 公斤，烹調後裝盤再切割，切割完後之耗損率為原採購材料的2%，請問產出率為多少？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "71%"
+      },
+      {
+        "id": "B",
+        "text": "73%"
+      },
+      {
+        "id": "C",
+        "text": "75%"
+      },
+      {
+        "id": "D",
+        "text": "77%"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：烹調"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：烹調"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "大新廚坊採購 20 公斤牛肉，採購價格每公斤 200 元，切除脂肪、骨頭、蹄筋、碎肉等廢棄部分共 3.5 公斤，烹調過程損耗 1.5 公斤，烹調後裝盤再切割，切割完後之耗損率為原採購材料的2%，請問產出率為多少？ 71% 73% 75% 77% 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 915
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q012-40d84e006c",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 12 題",
+    "sourceFile": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md",
+    "sourceLocator": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md#offset-3061",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "有關中式餐宴席次安排原則之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "席開兩圓桌，男女主人同桌並與主要賓客並肩而坐"
+      },
+      {
+        "id": "B",
+        "text": "席開一桌，男女主人應男左女右並肩而坐"
+      },
+      {
+        "id": "C",
+        "text": "席開兩圓桌，男女主人應同桌並肩而坐"
+      },
+      {
+        "id": "D",
+        "text": "席開一桌，男女主人並肩面門而坐，主要賓客背門而坐"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：宴席"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：宴席"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關中式餐宴席次安排原則之敘述，下列何者正確？ 席開兩圓桌，男女主人同桌並與主要賓客並肩而坐 席開一桌，男女主人應男左女右並肩而坐 席開兩圓桌，男女主人應同桌並肩而坐 席開一桌，男女主人並肩面門而坐，主要賓客背門而坐 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2262
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p2-q011-f58ca28d7f",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 11 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-1223",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "元宵的做法是層層乾粉滾成，而湯圓是漿糰型做法，兩者作法是不同的。湯圓是糯米做成的點心，請問下列何者是製作元宵的材料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "蓬萊米"
+      },
+      {
+        "id": "B",
+        "text": "糯米"
+      },
+      {
+        "id": "C",
+        "text": "再來米"
+      },
+      {
+        "id": "D",
+        "text": "暹羅米"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "元宵的做法是層層乾粉滾成，而湯圓是漿糰型做法，兩者作法是不同的。湯圓是糯米做成的點心，請問下列何者是製作元宵的材料？ 蓬萊米 糯米 再來米 暹羅米 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2354
+  }
+}

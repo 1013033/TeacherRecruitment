@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q033-cfeb1618cd",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 33 題",
+    "sourceFile": "110\\output\\110-2專一試題\\auto\\110-2專一試題.md",
+    "sourceLocator": "110\\output\\110-2專一試題\\auto\\110-2專一試題.md#offset-6024",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "下列旅宿業客務狀況訊息，於館內資訊系統中呈現之專業用語分別為何？甲、預定今日出之待退房 乙、旅客入住時預先告知將延長住宿日期 丙、預付訂金",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Under Stay、Due Out、Over Stay"
+      },
+      {
+        "id": "B",
+        "text": "Over Stay、Due Out、Deposit"
+      },
+      {
+        "id": "C",
+        "text": "Due Out、Stay Over、Deposit"
+      },
+      {
+        "id": "D",
+        "text": "Deposit、Overbooking、Due Out"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：住宿、overbooking"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：住宿、overbooking"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列旅宿業客務狀況訊息，於館內資訊系統中呈現之專業用語分別為何？甲、預定今日出之待退房 乙、旅客入住時預先告知將延長住宿日期 丙、預付訂金 Under Stay、Due Out、Over Stay Over Stay、Due Out、Deposit Due Out、Stay Over、Deposit Deposit、Overbooking、Due Out 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1495
+  }
+}

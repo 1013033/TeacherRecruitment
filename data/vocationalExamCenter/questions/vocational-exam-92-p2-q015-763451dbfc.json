@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p2-q015-763451dbfc",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(二) 第 15 題",
+    "sourceFile": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md",
+    "sourceLocator": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md#offset-1651",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "凱撒沙拉 (Caesar salad) 是西餐中一道經典菜餚，其主要的材料內容組合為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "蘿美生菜 (romaine)、鯷魚 (anchovy)、帕瑪森乳酪 (parmesan cheese)"
+      },
+      {
+        "id": "B",
+        "text": "美生菜 (lettuce)、雞肉片 (chicken)、巧達乳酪 (cheddar cheese)"
+      },
+      {
+        "id": "C",
+        "text": "紅葉生菜 (red leaf)、蘋果 (apple)、檸檬汁 (lemon juice)"
+      },
+      {
+        "id": "D",
+        "text": "美生菜 (lettuce)、鮪魚 (tuna)、橄欖 (olive)、油醋汁 (vinegar oil)"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "凱撒沙拉 (Caesar salad) 是西餐中一道經典菜餚，其主要的材料內容組合為： 蘿美生菜 (romaine)、鯷魚 (anchovy)、帕瑪森乳酪 (parmesan cheese) 美生菜 (lettuce)、雞肉片 (chicken)、巧達乳酪 (cheddar cheese) 紅葉生菜 (red leaf)、蘋果 (apple)、檸檬汁 (lemon juice) 美生菜 (lettuce)、鮪魚 (tuna)、橄欖 (olive)、油醋汁 (vinegar oil) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2118
+  }
+}

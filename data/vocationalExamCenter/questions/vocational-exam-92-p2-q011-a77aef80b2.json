@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p2-q011-a77aef80b2",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(二) 第 11 題",
+    "sourceFile": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md",
+    "sourceLocator": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md#offset-1102",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "下列有關餐廳推車 (Trolley) 服務設備的敘述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Flambé Trolley 配有瓦斯爐，是法式餐廳常見的設備"
+      },
+      {
+        "id": "B",
+        "text": "Side Table 也可稱為 Guéridon，在中西式餐廳都會使用"
+      },
+      {
+        "id": "C",
+        "text": "Carving Trolley 用於做現場切割服務"
+      },
+      {
+        "id": "D",
+        "text": "Liqueur Trolley 是用來展示甜點的推車"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：liqueur"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：liqueur"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關餐廳推車 (Trolley) 服務設備的敘述，何者錯誤？ Flambé Trolley 配有瓦斯爐，是法式餐廳常見的設備 Side Table 也可稱為 Guéridon，在中西式餐廳都會使用 Carving Trolley 用於做現場切割服務 Liqueur Trolley 是用來展示甜點的推車 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2114
+  }
+}

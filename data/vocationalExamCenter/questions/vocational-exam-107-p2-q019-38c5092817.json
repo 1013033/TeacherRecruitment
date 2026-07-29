@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p2-q019-38c5092817",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 19 題",
+    "sourceFile": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md",
+    "sourceLocator": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md#offset-2679",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於旅館客房術語的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "整理順序 OCC 房較 LSG 房為優先"
+      },
+      {
+        "id": "B",
+        "text": "顧客尚未退房且房內仍有行李稱 V/D房"
+      },
+      {
+        "id": "C",
+        "text": "超額訂房時將顧客升等至較高等級客房稱為 H/U"
+      },
+      {
+        "id": "D",
+        "text": "房客已辦理登記入住手續但當日外宿未歸以N/S表示"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房、訂房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房、訂房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館客房術語的敘述，下列何者正確？ 整理順序 OCC 房較 LSG 房為優先 顧客尚未退房且房內仍有行李稱 V/D房 超額訂房時將顧客升等至較高等級客房稱為 H/U 房客已辦理登記入住手續但當日外宿未歸以N/S表示 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1655
+  }
+}

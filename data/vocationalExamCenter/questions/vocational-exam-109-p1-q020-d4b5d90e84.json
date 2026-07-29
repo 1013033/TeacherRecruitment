@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q020-d4b5d90e84",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 20 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-2926",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "一對夫妻帶著兩位小孩，參加某家甲種旅行社所安排的美加團旅遊行程，此旅行社具有保障旅客權益之觀光公益法人會員資格，且具有品保協會會員資格。假設此旅行社未設有分公司，依據截至民國109年3月之相關法規，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "該旅行社應繳納的品保聯合基金為新臺幣15萬元"
+      },
+      {
+        "id": "B",
+        "text": "該旅行社的履約保險應投保最低金額為新臺幣2,000萬元"
+      },
+      {
+        "id": "C",
+        "text": "依據責任保險，應為旅客投保意外死亡至少每人新臺幣200萬元"
+      },
+      {
+        "id": "D",
+        "text": "若全家的證件皆遺失，依據責任保險，最少可以獲得新臺幣8,000元賠償"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行社、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一對夫妻帶著兩位小孩，參加某家甲種旅行社所安排的美加團旅遊行程，此旅行社具有保障旅客權益之觀光公益法人會員資格，且具有品保協會會員資格。假設此旅行社未設有分公司，依據截至民國109年3月之相關法規，下列敘述何者錯誤？ 該旅行社應繳納的品保聯合基金為新臺幣15萬元 該旅行社的履約保險應投保最低金額為新臺幣2,000萬元 依據責任保險，應為旅客投保意外死亡至少每人新臺幣200萬元 若全家的證件皆遺失，依據責任保險，最少可以獲得新臺幣8,000元賠償 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 456
+  }
+}

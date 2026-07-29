@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q038-7d76059160",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 38 題",
+    "sourceFile": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md",
+    "sourceLocator": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md#offset-6715",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個國際連鎖旅館，進駐臺灣的時間最早？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "臺北萬豪酒店(Taipei Marriott Hotel)"
+      },
+      {
+        "id": "B",
+        "text": "臺北君悅大飯店(Grand Hyatt)"
+      },
+      {
+        "id": "C",
+        "text": "臺北大倉久和飯店(The Okura Prestige Taipei)"
+      },
+      {
+        "id": "D",
+        "text": "臺北文華東方酒店(Mandarin Oriental Taipei)"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個國際連鎖旅館，進駐臺灣的時間最早？ 臺北萬豪酒店(Taipei Marriott Hotel) 臺北君悅大飯店(Grand Hyatt) 臺北大倉久和飯店(The Okura Prestige Taipei) 臺北文華東方酒店(Mandarin Oriental Taipei) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1040
+  }
+}

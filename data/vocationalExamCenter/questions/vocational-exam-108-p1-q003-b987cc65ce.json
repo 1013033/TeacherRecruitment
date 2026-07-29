@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p1-q003-b987cc65ce",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md",
+    "sourceLocator": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md#offset-849",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "關於廚房區域的規劃，下列何者敘述錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "準清潔區包含調理區、包裝區"
+      },
+      {
+        "id": "B",
+        "text": "一般作業區包含行政區、休息室"
+      },
+      {
+        "id": "C",
+        "text": "汙染區包含洗滌區、驗收區"
+      },
+      {
+        "id": "D",
+        "text": "清潔區包含出菜區、配膳區"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於廚房區域的規劃，下列何者敘述錯誤？ 準清潔區包含調理區、包裝區 一般作業區包含行政區、休息室 汙染區包含洗滌區、驗收區 清潔區包含出菜區、配膳區 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 389
+  }
+}

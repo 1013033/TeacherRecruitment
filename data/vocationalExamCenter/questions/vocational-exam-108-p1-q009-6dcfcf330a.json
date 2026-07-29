@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p1-q009-6dcfcf330a",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md",
+    "sourceLocator": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md#offset-1833",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "關於食物中毒的類型及說明，下列何者正確？甲：金黃色葡萄球菌耐高溫，屬於毒素型的細菌性食物中毒，手部有傷口化膿者，不可進行食物調理工作乙：腸炎弧菌屬厭鹽性及極耐熱的細菌，避免生食或加熱至 $1 0 0 ^ { \\circ } \\mathrm { C }$ ，充分煮熟可避免感染丙：沙門氏菌因不耐熱，多存於動物排泄物，透過加熱至 $6 0 ^ { \\circ } \\mathrm { C }$ 以上持續 20分鐘即可滅菌丁：天然動植物性食物中毒中，貝類中毒屬於中樞神經毒；發芽馬鈴薯屬於麻痺性中毒",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙"
+      },
+      {
+        "id": "C",
+        "text": "乙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於食物中毒的類型及說明，下列何者正確？甲：金黃色葡萄球菌耐高溫，屬於毒素型的細菌性食物中毒，手部有傷口化膿者，不可進行食物調理工作乙：腸炎弧菌屬厭鹽性及極耐熱的細菌，避免生食或加熱至 $1 0 0 ^ { \\circ } \\mathrm { C }$ ，充分煮熟可避免感染丙：沙門氏菌因不耐熱，多存於動物排泄物，透過加熱至 $6 0 ^ { \\circ } \\mathrm { C }$ 以上持續 20分鐘即可滅菌丁：天然動植物性食物中毒中，貝類中毒屬於中樞神經毒；發芽馬鈴薯屬於麻痺性中毒 甲、乙 甲、丙 乙、丁 丙、丁 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 395
+  }
+}

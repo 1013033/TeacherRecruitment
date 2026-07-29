@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q041-01b3e3abea",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 41 題",
+    "sourceFile": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md",
+    "sourceLocator": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md#offset-7191",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "有關旅遊專業用語之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "TWOV：過境免簽證，針對轉機旅客提供的便利優惠措施"
+      },
+      {
+        "id": "B",
+        "text": "FOC：免費機票，機場稅、燃油附加費也免付"
+      },
+      {
+        "id": "C",
+        "text": "PNR：航空公司托運行李遺失報告表"
+      },
+      {
+        "id": "D",
+        "text": "STPC：過境旅館在轉機點提供旅客的免費住宿"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：簽證、航空、機票、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：簽證、航空、機票、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關旅遊專業用語之敘述，下列何者正確？ TWOV：過境免簽證，針對轉機旅客提供的便利優惠措施 FOC：免費機票，機場稅、燃油附加費也免付 PNR：航空公司托運行李遺失報告表 STPC：過境旅館在轉機點提供旅客的免費住宿 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 389
+  }
+}

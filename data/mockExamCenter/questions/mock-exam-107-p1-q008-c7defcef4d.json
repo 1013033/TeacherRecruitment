@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q008-c7defcef4d",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 8 題",
+    "sourceFile": "107\\output\\117-4專一試題\\auto\\117-4專一試題.md",
+    "sourceLocator": "107\\output\\117-4專一試題\\auto\\117-4專一試題.md#offset-914",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "近年來「咖啡」被稱為餐飲黑金潮，回顧臺灣餐飲業演進，許多國際咖啡業者早已投入臺灣市場。請將下列國外咖啡品牌於臺灣開設時間，按先後順序由先至後正確排列。甲、羅多倫咖啡 乙、星巴克咖啡 丙、真鍋咖啡 丁、上島咖啡",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲丁丙乙"
+      },
+      {
+        "id": "B",
+        "text": "丁甲丙乙"
+      },
+      {
+        "id": "C",
+        "text": "乙丁甲丙"
+      },
+      {
+        "id": "D",
+        "text": "乙丙丁甲"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "近年來「咖啡」被稱為餐飲黑金潮，回顧臺灣餐飲業演進，許多國際咖啡業者早已投入臺灣市場。請將下列國外咖啡品牌於臺灣開設時間，按先後順序由先至後正確排列。甲、羅多倫咖啡 乙、星巴克咖啡 丙、真鍋咖啡 丁、上島咖啡 甲丁丙乙 丁甲丙乙 乙丁甲丙 乙丙丁甲 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 265
+  }
+}

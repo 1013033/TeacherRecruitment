@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p2-q020-3a378b7d2f",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(二) 第 20 題",
+    "sourceFile": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md",
+    "sourceLocator": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md#offset-2343",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "下列有關餐廳中餐具及杯皿的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "圓筒形平底水杯稱為 Goblet"
+      },
+      {
+        "id": "B",
+        "text": "All Purpose Glass 只可用來同時服務紅白酒，不可當成水杯使用"
+      },
+      {
+        "id": "C",
+        "text": "Champagne Saucer 常用來疊香檳塔，適用於一般酒會與慶功宴"
+      },
+      {
+        "id": "D",
+        "text": "服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：中餐、sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：中餐、sauce"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關餐廳中餐具及杯皿的敘述，何者正確？ 圓筒形平底水杯稱為 Goblet All Purpose Glass 只可用來同時服務紅白酒，不可當成水杯使用 Champagne Saucer 常用來疊香檳塔，適用於一般酒會與慶功宴 服務 Bouillabaisse 所需的餐具為牛排刀及牛排叉 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2123
+  }
+}

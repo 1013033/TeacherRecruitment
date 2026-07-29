@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q004-c1cc2565c5",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 4 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-1083",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "關於日本料理餐飲禮儀的敘述，下列何者正確？甲：最講究用餐禮儀的是會席料理乙：女性是以右手持酒杯，左手中指指尖托住杯底的方式飲酒丙：蕎麥涼麵的食用方式是將醬汁加入芥末與蔥花後拌入麵中，再以筷子挾起吸入口中",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲"
+      },
+      {
+        "id": "B",
+        "text": "乙"
+      },
+      {
+        "id": "C",
+        "text": "甲、丙"
+      },
+      {
+        "id": "D",
+        "text": "乙、丙"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於日本料理餐飲禮儀的敘述，下列何者正確？甲：最講究用餐禮儀的是會席料理乙：女性是以右手持酒杯，左手中指指尖托住杯底的方式飲酒丙：蕎麥涼麵的食用方式是將醬汁加入芥末與蔥花後拌入麵中，再以筷子挾起吸入口中 甲 乙 甲、丙 乙、丙 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1737
+  }
+}

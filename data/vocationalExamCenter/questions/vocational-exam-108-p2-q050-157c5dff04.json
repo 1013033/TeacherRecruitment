@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p2-q050-157c5dff04",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 50 題",
+    "sourceFile": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md",
+    "sourceLocator": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md#offset-6622",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "unch 於應用上可採用各種原料調製，但此詞源於印度語，有五味酒之意，其最初的五味所指為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "酒、水、糖、香料、檸檬"
+      },
+      {
+        "id": "C",
+        "text": "酒、水、糖、檸檬、水果"
+      },
+      {
+        "id": "B",
+        "text": "酒、水、香料、水果、檸檬"
+      },
+      {
+        "id": "D",
+        "text": "酒、果汁、糖、茶湯、水果 【以下空白】"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "unch 於應用上可採用各種原料調製，但此詞源於印度語，有五味酒之意，其最初的五味所指為何？ 酒、水、糖、香料、檸檬 酒、水、糖、檸檬、水果 酒、水、香料、水果、檸檬 酒、果汁、糖、茶湯、水果 【以下空白】 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1733
+  }
+}

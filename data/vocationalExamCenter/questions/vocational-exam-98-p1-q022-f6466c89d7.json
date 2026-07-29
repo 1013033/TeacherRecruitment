@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p1-q022-f6466c89d7",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(一) 第 22 題",
+    "sourceFile": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md",
+    "sourceLocator": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md#offset-2868",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "multiple-choice",
+    "prompt": "依據 International Air Transport Association 所制訂的 airport codes，下列何者錯誤？",
+    "images": [
+      {
+        "id": "vocational-exam-98-p1-q022-f6466c89d7-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-98-p1-q022-f6466c89d7-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "KAH-高雄國際機場"
+      },
+      {
+        "id": "B",
+        "text": "TPE-台灣桃園國際機場"
+      },
+      {
+        "id": "C",
+        "text": "TSA-台北松山機場"
+      },
+      {
+        "id": "D",
+        "text": "TXG-台中機場"
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據 International Air Transport Association 所制訂的 airport codes，下列何者錯誤？ KAH-高雄國際機場 TPE-台灣桃園國際機場 TSA-台北松山機場 TXG-台中機場 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1223
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p1-q049-61737a865a",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(一) 第 49 題",
+    "sourceFile": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md",
+    "sourceLocator": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md#offset-4362",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "一般洗滌刀、叉、匙等餐具的適當溫度為？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "$1 0 ^ { \\circ } \\mathrm { C }$"
+      },
+      {
+        "id": "B",
+        "text": "$2 5 \\mathrm { { ^ \\circ C } }$"
+      },
+      {
+        "id": "C",
+        "text": "$4 0 \\mathrm { { ^ \\circ C } }$"
+      },
+      {
+        "id": "D",
+        "text": "$6 5 \\mathrm { ^ \\circ C }$"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一般洗滌刀、叉、匙等餐具的適當溫度為？ $1 0 ^ { \\circ } \\mathrm { C }$ $2 5 \\mathrm { { ^ \\circ C } }$ $4 0 \\mathrm { { ^ \\circ C } }$ $6 5 \\mathrm { ^ \\circ C }$ 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 924
+  }
+}

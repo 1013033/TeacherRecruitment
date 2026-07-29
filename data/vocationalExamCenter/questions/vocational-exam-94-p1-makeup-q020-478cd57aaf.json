@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-makeup-q020-478cd57aaf",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 20 題",
+    "sourceFile": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md",
+    "sourceLocator": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md#offset-2101",
+    "paperTitle": "專業科目(一)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "依據我國「自然人文生態景觀區專業導覽人員管理辦法」規定，專業導覽人員執行工作時，應遵守下列哪項準則？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "得陪同未經申請核准之旅客進入自然人文生態景觀區內"
+      },
+      {
+        "id": "B",
+        "text": "得向旅客兜售或收購物品"
+      },
+      {
+        "id": "C",
+        "text": "得將服務證借供他人使用"
+      },
+      {
+        "id": "D",
+        "text": "即時勸止擅闖旅客或其他違規行為"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專一 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "依據我國「自然人文生態景觀區專業導覽人員管理辦法」規定，專業導覽人員執行工作時，應遵守下列哪項準則？ 得陪同未經申請核准之旅客進入自然人文生態景觀區內 得向旅客兜售或收購物品 得將服務證借供他人使用 即時勸止擅闖旅客或其他違規行為 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1034
+  }
+}

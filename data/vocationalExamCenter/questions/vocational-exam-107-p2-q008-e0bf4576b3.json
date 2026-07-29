@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p2-q008-e0bf4576b3",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 8 題",
+    "sourceFile": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md",
+    "sourceLocator": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md#offset-1299",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "關於西餐餐後甜點與飲料服務的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Irish coffee 僅限以 catering service 的方式服務"
+      },
+      {
+        "id": "B",
+        "text": "甜點應從顧客的右側服務，飲料則從左側服務"
+      },
+      {
+        "id": "C",
+        "text": "服務人員在送甜點與飲料前，宜使用 crumb scoop站在顧客的左側清理桌面的麵包屑"
+      },
+      {
+        "id": "D",
+        "text": "餐後甜點若為三角形的切片蛋糕，服務時應將蛋糕的尖端以 12 點鐘的方向朝向顧客"
+      }
+    ],
+    "answer": "C",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：麵包、蛋糕"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：麵包、蛋糕"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於西餐餐後甜點與飲料服務的敘述，下列何者正確？ Irish coffee 僅限以 catering service 的方式服務 甜點應從顧客的右側服務，飲料則從左側服務 服務人員在送甜點與飲料前，宜使用 crumb scoop站在顧客的左側清理桌面的麵包屑 餐後甜點若為三角形的切片蛋糕，服務時應將蛋糕的尖端以 12 點鐘的方向朝向顧客 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 1645
+  }
+}

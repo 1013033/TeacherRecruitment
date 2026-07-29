@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q046-8909f5740e",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 46 題",
+    "sourceFile": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md",
+    "sourceLocator": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md#offset-9024",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "承上題，小美收到電子機票後，看見RESTRICTION欄位標示「NONRFND」，代表意義為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "禁止退票"
+      },
+      {
+        "id": "B",
+        "text": "禁止背書轉讓"
+      },
+      {
+        "id": "C",
+        "text": "禁止更改行程"
+      },
+      {
+        "id": "D",
+        "text": "禁止更改訂位"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：機票"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "承上題，小美收到電子機票後，看見RESTRICTION欄位標示「NONRFND」，代表意義為何？ 禁止退票 禁止背書轉讓 禁止更改行程 禁止更改訂位 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1236
+  }
+}

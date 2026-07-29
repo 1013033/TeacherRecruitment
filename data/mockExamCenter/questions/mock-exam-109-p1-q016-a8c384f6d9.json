@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q016-a8c384f6d9",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 16 題",
+    "sourceFile": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md",
+    "sourceLocator": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md#offset-2761",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "秀賢一家在今年暑假參訪了有文藝復興之都美譽的佛羅倫斯，請問他們最有可能品嘗到的菜餚特色及代表菜為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "常以海鮮入菜並搭配椰奶、香茅、魚露及蝦醬等調味料，代表菜色有酸辣蝦湯、綠咖哩等"
+      },
+      {
+        "id": "B",
+        "text": "常以葡萄酒和起司作為烹調的調味料，代表菜色有紅酒燉牛肉、烤田螺等"
+      },
+      {
+        "id": "C",
+        "text": "常以番茄、橄欖及香料做成餐點醬汁，代表菜色有千層麵、披薩等"
+      },
+      {
+        "id": "D",
+        "text": "常以XO醬、蠔油、沙茶醬做為調味料，代表菜色有XO醬炒帶子、蠔油芥蘭牛肉等"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：葡萄酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "秀賢一家在今年暑假參訪了有文藝復興之都美譽的佛羅倫斯，請問他們最有可能品嘗到的菜餚特色及代表菜為何？ 常以海鮮入菜並搭配椰奶、香茅、魚露及蝦醬等調味料，代表菜色有酸辣蝦湯、綠咖哩等 常以葡萄酒和起司作為烹調的調味料，代表菜色有紅酒燉牛肉、烤田螺等 常以番茄、橄欖及香料做成餐點醬汁，代表菜色有千層麵、披薩等 常以XO醬、蠔油、沙茶醬做為調味料，代表菜色有XO醬炒帶子、蠔油芥蘭牛肉等 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1018
+  }
+}

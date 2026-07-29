@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q004-82648bc033",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 4 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-434",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個服勤設備的主要功能不是在顧客面前提供服務？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Heated Trolley"
+      },
+      {
+        "id": "B",
+        "text": "Flambe Wagon"
+      },
+      {
+        "id": "C",
+        "text": "Service Trolley"
+      },
+      {
+        "id": "D",
+        "text": "Trencher Wagon"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個服勤設備的主要功能不是在顧客面前提供服務？ Heated Trolley Flambe Wagon Service Trolley Trencher Wagon 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 590
+  }
+}

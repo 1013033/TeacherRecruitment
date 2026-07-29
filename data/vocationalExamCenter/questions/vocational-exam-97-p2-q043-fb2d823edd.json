@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q043-fb2d823edd",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 43 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-5049",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "一般而言，下列何者不需要參加餐廳舉行之「服務前會議」( Briefing )？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "傳菜員 ( Busboy )"
+      },
+      {
+        "id": "B",
+        "text": "領班 ( Captain )"
+      },
+      {
+        "id": "C",
+        "text": "餐務員 ( Steward )"
+      },
+      {
+        "id": "D",
+        "text": "服務員 ( Waiter ) 【背面尚有試題】"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：waiter"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：waiter"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "一般而言，下列何者不需要參加餐廳舉行之「服務前會議」( Briefing )？ 傳菜員 ( Busboy ) 領班 ( Captain ) 餐務員 ( Steward ) 服務員 ( Waiter ) 【背面尚有試題】 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2436
+  }
+}

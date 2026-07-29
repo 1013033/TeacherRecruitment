@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q046-443d8c9a52",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 46 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-6431",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "依餐飲業餐點價格從高到低的排列，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "family restaurant → filling station → fine dining restaurant"
+      },
+      {
+        "id": "B",
+        "text": "family restaurant → fine dining restaurant → filling station"
+      },
+      {
+        "id": "C",
+        "text": "fine dining restaurant → filling station → family restaurant"
+      },
+      {
+        "id": "D",
+        "text": "fine dining restaurant → family restaurant → filling station"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依餐飲業餐點價格從高到低的排列，下列何者正確？ family restaurant → filling station → fine dining restaurant family restaurant → fine dining restaurant → filling station fine dining restaurant → filling station → family restaurant fine dining restaurant → family restaurant → filling station 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 136
+  }
+}

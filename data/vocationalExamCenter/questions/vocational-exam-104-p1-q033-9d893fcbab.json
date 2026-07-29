@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q033-9d893fcbab",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 33 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-3847",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "旅館可分為許多類型，有一種旅館是供顧客以預先付費購買的方式，購買每年固定住宿天數的會員度假權利，此種旅館多為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Residential hotel"
+      },
+      {
+        "id": "B",
+        "text": "Parador"
+      },
+      {
+        "id": "C",
+        "text": "Time share resort"
+      },
+      {
+        "id": "D",
+        "text": "Transient hotel"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、住宿、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館可分為許多類型，有一種旅館是供顧客以預先付費購買的方式，購買每年固定住宿天數的會員度假權利，此種旅館多為下列何者？ Residential hotel Parador Time share resort Transient hotel 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 220
+  }
+}

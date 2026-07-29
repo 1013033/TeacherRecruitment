@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q039-1c2dc12dad",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 39 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-7302",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "下列哪一款咖啡沖煮器在萃取咖啡時不需要使用到濾紙或濾布？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "drip coffee maker"
+      },
+      {
+        "id": "B",
+        "text": "flannel drip"
+      },
+      {
+        "id": "C",
+        "text": "French press"
+      },
+      {
+        "id": "D",
+        "text": "Syphon"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "下列哪一款咖啡沖煮器在萃取咖啡時不需要使用到濾紙或濾布？ drip coffee maker flannel drip French press Syphon 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1848
+  }
+}

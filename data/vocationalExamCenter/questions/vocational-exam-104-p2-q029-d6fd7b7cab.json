@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p2-q029-d6fd7b7cab",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(二) 第 29 題",
+    "sourceFile": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md",
+    "sourceLocator": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md#offset-3865",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "關於旅館緊急事件處理的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "地震時應將門關好，以防門框變形無法逃生"
+      },
+      {
+        "id": "B",
+        "text": "發生火警，必要時應盡快引導房客進行疏散"
+      },
+      {
+        "id": "C",
+        "text": "若客人酒醉鬧事太嚴重可報警處理"
+      },
+      {
+        "id": "D",
+        "text": "如發現房客身亡應立即封鎖現場"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館緊急事件處理的敘述，下列何者錯誤？ 地震時應將門關好，以防門框變形無法逃生 發生火警，必要時應盡快引導房客進行疏散 若客人酒醉鬧事太嚴重可報警處理 如發現房客身亡應立即封鎖現場 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1516
+  }
+}

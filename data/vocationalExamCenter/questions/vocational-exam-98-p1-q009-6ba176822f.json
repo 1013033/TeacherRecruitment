@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p1-q009-6ba176822f",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md",
+    "sourceLocator": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md#offset-1450",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列飯店與品牌之關係，何者屬於會員連鎖( referral )之經營型態？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "台北喜來登飯店與 Sheraton"
+      },
+      {
+        "id": "B",
+        "text": "台北君悅飯店與 Hyatt"
+      },
+      {
+        "id": "C",
+        "text": "台北六福皇宮與 Westin"
+      },
+      {
+        "id": "D",
+        "text": "台北亞都麗緻飯店與 The Leading Hotels of the World"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飯店、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飯店、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列飯店與品牌之關係，何者屬於會員連鎖( referral )之經營型態？ 台北喜來登飯店與 Sheraton 台北君悅飯店與 Hyatt 台北六福皇宮與 Westin 台北亞都麗緻飯店與 The Leading Hotels of the World 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1210
+  }
+}

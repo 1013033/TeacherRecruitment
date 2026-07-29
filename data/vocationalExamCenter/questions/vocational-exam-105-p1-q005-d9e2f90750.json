@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q005-d9e2f90750",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 5 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-908",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項作法不符合餐旅服務業應具備的職業道德？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "向顧客收取正確合理費用，交易公道清楚"
+      },
+      {
+        "id": "B",
+        "text": "提供對稱明確的產品資訊，保障消費權益"
+      },
+      {
+        "id": "C",
+        "text": "回收重複使用油品與食材，降低營運成本"
+      },
+      {
+        "id": "D",
+        "text": "設立汙水與廢氣處理設備，確保安全環境"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項作法不符合餐旅服務業應具備的職業道德？ 向顧客收取正確合理費用，交易公道清楚 提供對稱明確的產品資訊，保障消費權益 回收重複使用油品與食材，降低營運成本 設立汙水與廢氣處理設備，確保安全環境 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 242
+  }
+}

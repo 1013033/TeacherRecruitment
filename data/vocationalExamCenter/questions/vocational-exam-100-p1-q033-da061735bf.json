@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p1-q033-da061735bf",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(一) 第 33 題",
+    "sourceFile": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md",
+    "sourceLocator": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md#offset-4392",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "根據國際航空運輸協會 IATA ( International Air Transport Association )所劃分的運務區域，香港位於哪一區的範圍？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "第一區 ( TC1 )"
+      },
+      {
+        "id": "B",
+        "text": "第二區 ( TC2 )"
+      },
+      {
+        "id": "C",
+        "text": "第三區 ( TC3 )"
+      },
+      {
+        "id": "D",
+        "text": "第四區 ( TC4 )"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：航空、iata"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：航空、iata"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據國際航空運輸協會 IATA ( International Air Transport Association )所劃分的運務區域，香港位於哪一區的範圍？ 第一區 ( TC1 ) 第二區 ( TC2 ) 第三區 ( TC3 ) 第四區 ( TC4 ) 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 33
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q038-35c8608bd5",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 38 題",
+    "sourceFile": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md",
+    "sourceLocator": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md#offset-6443",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "下列哪些茶類，符合「發酵程度：部份發酵」、「外型：半球型」、「茶湯顏色：黃綠略帶金黃」、「滋味：醇厚回甘」等特性？甲、文山包種茶 乙、阿里山珠露茶 丙、臺灣高山茶 丁、三峽龍井茶 戊、日月潭紅茶",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲丙"
+      },
+      {
+        "id": "B",
+        "text": "甲戊"
+      },
+      {
+        "id": "C",
+        "text": "乙丙"
+      },
+      {
+        "id": "D",
+        "text": "乙丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪些茶類，符合「發酵程度：部份發酵」、「外型：半球型」、「茶湯顏色：黃綠略帶金黃」、「滋味：醇厚回甘」等特性？甲、文山包種茶 乙、阿里山珠露茶 丙、臺灣高山茶 丁、三峽龍井茶 戊、日月潭紅茶 甲丙 甲戊 乙丙 乙丁 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1350
+  }
+}

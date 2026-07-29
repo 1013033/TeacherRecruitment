@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q023-d643f42469",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 23 題",
+    "sourceFile": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md",
+    "sourceLocator": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md#offset-6486",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "某旅館有 360 間客房，當天售出 220 間，另有 3 間 OOI 房，1 間 SO 房，共有 420 人入住，當日住宿總營收為 704,000 元。請計算出該旅館當日 Rev PAR(Revenue Per Available Room)為多少？(四捨五入計算至整數)",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "1,955 元"
+      },
+      {
+        "id": "B",
+        "text": "1,971 元"
+      },
+      {
+        "id": "C",
+        "text": "2,867 元"
+      },
+      {
+        "id": "D",
+        "text": "3,200 元 ▲閱讀下文，回答第24-26 題 西班牙古城「Santiago de Compostela」於西元 1985 年被列入 UNESCO 世界文化遺產，此座古城亦為天主教朝聖勝地，自中世紀至今已成為知名的西班牙「朝聖之路(Camino de Santiago)」，每年皆可見到來自於世界各國的朝聖者以一顆最純粹的心，虔誠的步行到終點—聖地牙哥大教堂，相傳為耶穌十二門徒之一的聖雅各遺骸存放之處，也因此每一年朝聖人數相當可觀。"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、住宿、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、住宿、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某旅館有 360 間客房，當天售出 220 間，另有 3 間 OOI 房，1 間 SO 房，共有 420 人入住，當日住宿總營收為 704,000 元。請計算出該旅館當日 Rev PAR(Revenue Per Available Room)為多少？(四捨五入計算至整數) 1,955 元 1,971 元 2,867 元 3,200 元 ▲閱讀下文，回答第24-26 題 西班牙古城「Santiago de Compostela」於西元 1985 年被列入 UNESCO 世界文化遺產，此座古城亦為天主教朝聖勝地，自中世紀至今已成為知名的西班牙「朝聖之路(Camino de Santiago)」，每年皆可見到來自於世界各國的朝聖者以一顆最純粹的心，虔誠的步行到終點—聖地牙哥大教堂，相傳為耶穌十二門徒之一的聖雅各遺骸存放之處，也因此每一年朝聖人數相當可觀。 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2223
+  }
+}

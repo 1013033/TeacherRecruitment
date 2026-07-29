@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p1-q045-ebdd4661ee",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(一) 第 45 題",
+    "sourceFile": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md",
+    "sourceLocator": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md#offset-5780",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "依照歐美餐飲業發展史，餐飲業發展變革的先後順序依序為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Restaurant成為餐廳的代號→咖啡屋的興起→小客棧的出現→連鎖餐飲的盛行"
+      },
+      {
+        "id": "B",
+        "text": "連鎖餐飲的盛行→小客棧的出現→Restaurant成為餐廳的代號→咖啡屋的興起"
+      },
+      {
+        "id": "C",
+        "text": "小客棧的出現→咖啡屋的興起→Restaurant成為餐廳的代號→連鎖餐飲的盛行"
+      },
+      {
+        "id": "D",
+        "text": "咖啡屋的興起→小客棧的出現→連鎖餐飲的盛行→Restaurant成為餐廳的代號"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業、連鎖"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業、連鎖"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依照歐美餐飲業發展史，餐飲業發展變革的先後順序依序為： Restaurant成為餐廳的代號→咖啡屋的興起→小客棧的出現→連鎖餐飲的盛行 連鎖餐飲的盛行→小客棧的出現→Restaurant成為餐廳的代號→咖啡屋的興起 小客棧的出現→咖啡屋的興起→Restaurant成為餐廳的代號→連鎖餐飲的盛行 咖啡屋的興起→小客棧的出現→連鎖餐飲的盛行→Restaurant成為餐廳的代號 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 182
+  }
+}

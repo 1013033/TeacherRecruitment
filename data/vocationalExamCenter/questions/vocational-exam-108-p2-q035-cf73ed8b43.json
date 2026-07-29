@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p2-q035-cf73ed8b43",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 35 題",
+    "sourceFile": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md",
+    "sourceLocator": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md#offset-4775",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "下列泡茶的相關敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以沖茶器泡茶，茶葉應置於金屬濾網上方以利茶葉舒展"
+      },
+      {
+        "id": "B",
+        "text": "在相同條件下，揉捻緊實的茶葉用茶量應比蓬鬆茶葉多"
+      },
+      {
+        "id": "C",
+        "text": "將茶葉浸泡於冷水置入冰箱冷藏 20分鐘之冷泡茶，口感最佳"
+      },
+      {
+        "id": "D",
+        "text": "發酵程度較高之茶葉，其沖泡水溫原則上應高於發酵程度低者"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列泡茶的相關敘述，何者正確？ 以沖茶器泡茶，茶葉應置於金屬濾網上方以利茶葉舒展 在相同條件下，揉捻緊實的茶葉用茶量應比蓬鬆茶葉多 將茶葉浸泡於冷水置入冰箱冷藏 20分鐘之冷泡茶，口感最佳 發酵程度較高之茶葉，其沖泡水溫原則上應高於發酵程度低者 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1718
+  }
+}

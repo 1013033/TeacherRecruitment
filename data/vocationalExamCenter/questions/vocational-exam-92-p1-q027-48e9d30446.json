@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p1-q027-48e9d30446",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(一) 第 27 題",
+    "sourceFile": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md",
+    "sourceLocator": "專一\\output\\92-1專一試題\\auto\\92-1專一試題.md#offset-2817",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "餐飲業支出分為材料成本、勞務成本及其他費用等三項，其中有關勞務成本的控制重點為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "削減人員"
+      },
+      {
+        "id": "B",
+        "text": "增加人員工作時間"
+      },
+      {
+        "id": "C",
+        "text": "提昇員工生產力"
+      },
+      {
+        "id": "D",
+        "text": "降低人員薪資"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲業支出分為材料成本、勞務成本及其他費用等三項，其中有關勞務成本的控制重點為何？ 削減人員 增加人員工作時間 提昇員工生產力 降低人員薪資 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 902
+  }
+}

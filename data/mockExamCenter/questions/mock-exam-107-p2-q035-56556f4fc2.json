@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q035-56556f4fc2",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 35 題",
+    "sourceFile": "107\\output\\117-1專二試題\\auto\\117-1專二試題.md",
+    "sourceLocator": "107\\output\\117-1專二試題\\auto\\117-1專二試題.md#offset-4906",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "顧客點選一杯雞尾酒─「鹽狗」飲用，若配方為 30 ml 的伏特加(酒精濃度 80 proof)和 200 ml葡萄柚汁，請問該杯雞尾酒的酒精濃度最接近下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "5.22%"
+      },
+      {
+        "id": "B",
+        "text": "7.83%"
+      },
+      {
+        "id": "C",
+        "text": "10.43%"
+      },
+      {
+        "id": "D",
+        "text": "13.04%"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "顧客點選一杯雞尾酒─「鹽狗」飲用，若配方為 30 ml 的伏特加(酒精濃度 80 proof)和 200 ml葡萄柚汁，請問該杯雞尾酒的酒精濃度最接近下列何者？ 5.22% 7.83% 10.43% 13.04% 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 63
+  }
+}

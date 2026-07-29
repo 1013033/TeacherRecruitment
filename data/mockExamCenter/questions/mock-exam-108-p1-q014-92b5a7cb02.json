@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q014-92b5a7cb02",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 14 題",
+    "sourceFile": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md",
+    "sourceLocator": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md#offset-1340",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "有關世界各國出現第一家咖啡屋的城市與年份，下列何者不正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "1686 年法國巴黎第一家咖啡屋(普各伯咖啡屋 Procope Cafe)開張"
+      },
+      {
+        "id": "B",
+        "text": "1645 年義大利威尼斯開設咖啡屋(Bottega del Caffè)"
+      },
+      {
+        "id": "C",
+        "text": "1670 年美國波士頓開設咖啡屋"
+      },
+      {
+        "id": "D",
+        "text": "1650 年英國倫敦出現咖啡屋(Coffee House)"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關世界各國出現第一家咖啡屋的城市與年份，下列何者不正確？ 1686 年法國巴黎第一家咖啡屋(普各伯咖啡屋 Procope Cafe)開張 1645 年義大利威尼斯開設咖啡屋(Bottega del Caffè) 1670 年美國波士頓開設咖啡屋 1650 年英國倫敦出現咖啡屋(Coffee House) 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 457
+  }
+}

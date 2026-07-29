@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q032-5742b95235",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 32 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-3124",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "下列關於服務飲料的知識，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "服務紅葡萄酒的適飲溫度為室溫（約 15℃至18℃）"
+      },
+      {
+        "id": "B",
+        "text": "倒啤酒時泡沫的比例應達杯子1 / 2"
+      },
+      {
+        "id": "C",
+        "text": "白葡萄酒應使用冰酒桶服務"
+      },
+      {
+        "id": "D",
+        "text": "開香檳時，瓶身傾斜35至45度開瓶"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒、啤酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒、啤酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "下列關於服務飲料的知識，何者錯誤？ 服務紅葡萄酒的適飲溫度為室溫（約 15℃至18℃） 倒啤酒時泡沫的比例應達杯子1 / 2 白葡萄酒應使用冰酒桶服務 開香檳時，瓶身傾斜35至45度開瓶 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2085
+  }
+}

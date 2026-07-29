@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p1-q007-54fa02d057",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 7 題",
+    "sourceFile": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md",
+    "sourceLocator": "專一\\output\\108-1專一試題\\auto\\108-1專一試題.md#offset-1447",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "關於廚房的設計，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "廚房的「工作三角形」通常是指水槽、冰箱與工作檯，三者的距離總和越短越好，以節省工作時間與精力"
+      },
+      {
+        "id": "B",
+        "text": "廚房的光線設計，以安全為重要考量，工作檯面應以 200米燭光以上之光度為佳"
+      },
+      {
+        "id": "C",
+        "text": "廚房的排水溝，宜明溝加蓋，寬度 20公分以上，以避免發生危險及方便清潔"
+      },
+      {
+        "id": "D",
+        "text": "為了不讓客人聞到烹調氣味，同時防止病媒蚊或蟲害入侵，廚房應保持負壓(低壓)"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於廚房的設計，下列何者錯誤？ 廚房的「工作三角形」通常是指水槽、冰箱與工作檯，三者的距離總和越短越好，以節省工作時間與精力 廚房的光線設計，以安全為重要考量，工作檯面應以 200米燭光以上之光度為佳 廚房的排水溝，宜明溝加蓋，寬度 20公分以上，以避免發生危險及方便清潔 為了不讓客人聞到烹調氣味，同時防止病媒蚊或蟲害入侵，廚房應保持負壓(低壓) 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 393
+  }
+}

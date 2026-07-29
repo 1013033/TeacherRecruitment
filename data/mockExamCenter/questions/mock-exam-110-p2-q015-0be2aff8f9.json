@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q015-0be2aff8f9",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 15 題",
+    "sourceFile": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md",
+    "sourceLocator": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md#offset-2222",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "在傳統的西餐菜單結構中，「以豬、牛、羊等家畜肉為主，通常將整塊肉烹調後切割上菜，同時也是主菜之一」，以上敘述符合下列哪一道？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Hot Appetizer"
+      },
+      {
+        "id": "B",
+        "text": "Roast with Salad"
+      },
+      {
+        "id": "C",
+        "text": "Middle Course"
+      },
+      {
+        "id": "D",
+        "text": "Meat Course"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：烹調、西餐、roast"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：烹調、西餐、roast"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在傳統的西餐菜單結構中，「以豬、牛、羊等家畜肉為主，通常將整塊肉烹調後切割上菜，同時也是主菜之一」，以上敘述符合下列哪一道？ Hot Appetizer Roast with Salad Middle Course Meat Course 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1526
+  }
+}

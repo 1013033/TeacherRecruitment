@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q049-ae8c052fc8",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 49 題",
+    "sourceFile": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md",
+    "sourceLocator": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md#offset-8502",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "經嘉嘉了解客人需求後，發現只有一位同學點選的飲料符合自己的口味，應為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "娜美同學：Macchiato"
+      },
+      {
+        "id": "B",
+        "text": "魯夫同學：Colombia Coffee"
+      },
+      {
+        "id": "C",
+        "text": "索隆同學：Mochaccino Frappe"
+      },
+      {
+        "id": "D",
+        "text": "騙人布同學：Classic Fruit Tea"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "經嘉嘉了解客人需求後，發現只有一位同學點選的飲料符合自己的口味，應為下列何者？ 娜美同學：Macchiato 魯夫同學：Colombia Coffee 索隆同學：Mochaccino Frappe 騙人布同學：Classic Fruit Tea 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1754
+  }
+}

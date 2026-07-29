@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q037-749d570f98",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 37 題",
+    "sourceFile": "111\\output\\111-2專一試題\\auto\\111-2專一試題.md",
+    "sourceLocator": "111\\output\\111-2專一試題\\auto\\111-2專一試題.md#offset-6954",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "旅行業組織中，負責掌握旅客各項資料作業進度、準備護照及簽證等旅遊文件、領隊導遊之派任建議、準備行前說明會資料等，是下列哪位從業人員的工作職責？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "O/P"
+      },
+      {
+        "id": "B",
+        "text": "T/C"
+      },
+      {
+        "id": "C",
+        "text": "T/P"
+      },
+      {
+        "id": "D",
+        "text": "R/C"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、導遊、護照、簽證、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業、領隊、導遊、護照、簽證、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅行業組織中，負責掌握旅客各項資料作業進度、準備護照及簽證等旅遊文件、領隊導遊之派任建議、準備行前說明會資料等，是下列哪位從業人員的工作職責？ O/P T/C T/P R/C 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1972
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p1-q046-1e492a220d",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 46 題",
+    "sourceFile": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md#offset-8335",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "依外交部領事事務局公告，自2024年 09月起，符合某些特定條件的民眾可以居家申請換發護照，下列哪一項資格不符合？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "在臺設有戶籍之成年人"
+      },
+      {
+        "id": "B",
+        "text": "護照資料頁記載事項不需要變更的民眾"
+      },
+      {
+        "id": "C",
+        "text": "變更中外文姓(別)名之持照人"
+      },
+      {
+        "id": "D",
+        "text": "護照已經逾期之國民"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：護照"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依外交部領事事務局公告，自2024年 09月起，符合某些特定條件的民眾可以居家申請換發護照，下列哪一項資格不符合？ 在臺設有戶籍之成年人 護照資料頁記載事項不需要變更的民眾 變更中外文姓(別)名之持照人 護照已經逾期之國民 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 3176
+  }
+}

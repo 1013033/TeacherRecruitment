@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q038-010e11324f",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 38 題",
+    "sourceFile": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md",
+    "sourceLocator": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md#offset-5669",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "下列觀光旅遊相關組織單位中，成立時期最早者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Travel Quality Assurance Association, TQAA"
+      },
+      {
+        "id": "B",
+        "text": "Association of Tour Managers, ATM"
+      },
+      {
+        "id": "C",
+        "text": "Tourist Guide Association, TGA"
+      },
+      {
+        "id": "D",
+        "text": "Certified Travel Councilor Association, CTCA"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列觀光旅遊相關組織單位中，成立時期最早者為何？ Travel Quality Assurance Association, TQAA Association of Tour Managers, ATM Tourist Guide Association, TGA Certified Travel Councilor Association, CTCA 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 664
+  }
+}

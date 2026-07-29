@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q036-4810f8cbeb",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 36 題",
+    "sourceFile": "114\\output\\114-4專一試題\\auto\\114-4專一試題.md",
+    "sourceLocator": "114\\output\\114-4專一試題\\auto\\114-4專一試題.md#offset-7457",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "餐飲物料管理流程包括採購、驗收、倉儲、發貨與成品管理，直接影響成本、利潤與定價，是餐廳經營成敗的關鍵。有關物料管理，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "應指派專人兼任驗收及採購，以規格說明書、訂購單或採購合約為驗收依據"
+      },
+      {
+        "id": "B",
+        "text": "採取 LIFO(Last In, First Out)以確保食材新鮮度並降低損耗"
+      },
+      {
+        "id": "C",
+        "text": "物料儲存採 ABC物料分類法：其中C類物料指量多但價低、不常用的物料"
+      },
+      {
+        "id": "D",
+        "text": "使用標準食譜有利於替換次級食材及用量，有效降低採購成本"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲物料管理流程包括採購、驗收、倉儲、發貨與成品管理，直接影響成本、利潤與定價，是餐廳經營成敗的關鍵。有關物料管理，下列敘述何者正確？ 應指派專人兼任驗收及採購，以規格說明書、訂購單或採購合約為驗收依據 採取 LIFO(Last In, First Out)以確保食材新鮮度並降低損耗 物料儲存採 ABC物料分類法：其中C類物料指量多但價低、不常用的物料 使用標準食譜有利於替換次級食材及用量，有效降低採購成本 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 3545
+  }
+}

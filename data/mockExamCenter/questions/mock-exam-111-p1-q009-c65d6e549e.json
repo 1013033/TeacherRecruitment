@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q009-c65d6e549e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 9 題",
+    "sourceFile": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md",
+    "sourceLocator": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md#offset-2398",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "歷經將近三年的防疫經驗，各大餐廳對於環境、器具消毒及人員防疫措施的重視不可言喻。於餐飲業之中，對於客人用餐的餐具器皿依據「食品良好衛生規範」採用有效的殺菌方法，以適當的檢查方式確認餐具清潔達到標準，是下列哪一部門的重要職責？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Beverage Department"
+      },
+      {
+        "id": "B",
+        "text": "Kitchen Department"
+      },
+      {
+        "id": "C",
+        "text": "Storage Department"
+      },
+      {
+        "id": "D",
+        "text": "Steward Department"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "歷經將近三年的防疫經驗，各大餐廳對於環境、器具消毒及人員防疫措施的重視不可言喻。於餐飲業之中，對於客人用餐的餐具器皿依據「食品良好衛生規範」採用有效的殺菌方法，以適當的檢查方式確認餐具清潔達到標準，是下列哪一部門的重要職責？ Beverage Department Kitchen Department Storage Department Steward Department 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2209
+  }
+}

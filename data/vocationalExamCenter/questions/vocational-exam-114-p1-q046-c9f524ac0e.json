@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q046-c9f524ac0e",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 46 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-12577",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "oy在訂住宿時考量到預算有限，想找經濟便宜的旅館，下列何種旅館類型最為合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "airport hotel"
+      },
+      {
+        "id": "B",
+        "text": "boutique hotel"
+      },
+      {
+        "id": "C",
+        "text": "capsule hotel"
+      },
+      {
+        "id": "D",
+        "text": "green hotel ## ▲閱讀下文，回答第 47-48 題 Brunch 餐廳參樓為推出下一季新商品，擬定食物成本佔 35%，下表(四)為食物成本表： <table><tr><td rowspan=1 colspan=6>食物成本表品名 玉米濃湯使用單位 熱廚類別 湯類製作數量 10份 日期 114.03.01</td></tr><tr><td rowspan=1 colspan=6></td></tr><tr><td rowspan=1 colspan=1>材料</td><td rowspan=1 colspan=1>用量</td><td rowspan=1 colspan=1>單位</td><td rowspan=1 colspan=1>單價($)</td><td rowspan=1 colspan=1>總成本($)</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>玉米粒罐頭</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>340公克/罐</td></tr><tr><td rowspan=1 colspan=1>玉米醬罐頭</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>425公克/罐</td></tr><tr><td rowspan=1 colspan=1>牛奶</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>瓶</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>410毫升／瓶</td></tr><tr><td rowspan=1 colspan=1>雞高湯</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>240毫升／罐</td></tr><tr><td rowspan=1 colspan=1>鹽</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>湯匙</td><td rowspan=1 colspan=1>0.01</td><td rowspan=1 colspan=1>0.02</td><td rowspan=2 colspan=1>不列入成本</td></tr><tr><td rowspan=1 colspan=1>黑胡椒</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>茶匙</td><td rowspan=1 colspan=1>0.01</td><td rowspan=1 colspan=1>0.01</td></tr><tr><td rowspan=1 colspan=1>總成本</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>260</td><td rowspan=1 colspan=1></td></tr></table>"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、住宿、hotel"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、住宿、hotel"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "oy在訂住宿時考量到預算有限，想找經濟便宜的旅館，下列何種旅館類型最為合適？ airport hotel boutique hotel capsule hotel green hotel ## ▲閱讀下文，回答第 47-48 題 Brunch 餐廳參樓為推出下一季新商品，擬定食物成本佔 35%，下表(四)為食物成本表： <table><tr><td rowspan=1 colspan=6>食物成本表品名 玉米濃湯使用單位 熱廚類別 湯類製作數量 10份 日期 114.03.01</td></tr><tr><td rowspan=1 colspan=6></td></tr><tr><td rowspan=1 colspan=1>材料</td><td rowspan=1 colspan=1>用量</td><td rowspan=1 colspan=1>單位</td><td rowspan=1 colspan=1>單價($)</td><td rowspan=1 colspan=1>總成本($)</td><td rowspan=1 colspan=1>備註</td></tr><tr><td rowspan=1 colspan=1>玉米粒罐頭</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>340公克/罐</td></tr><tr><td rowspan=1 colspan=1>玉米醬罐頭</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>425公克/罐</td></tr><tr><td rowspan=1 colspan=1>牛奶</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>瓶</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>410毫升／瓶</td></tr><tr><td rowspan=1 colspan=1>雞高湯</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>240毫升／罐</td></tr><tr><td rowspan=1 colspan=1>鹽</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>湯匙</td><td rowspan=1 colspan=1>0.01</td><td rowspan=1 colspan=1>0.02</td><td rowspan=2 colspan=1>不列入成本</td></tr><tr><td rowspan=1 colspan=1>黑胡椒</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>茶匙</td><td rowspan=1 colspan=1>0.01</td><td rowspan=1 colspan=1>0.01</td></tr><tr><td rowspan=1 colspan=1>總成本</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>260</td><td rowspan=1 colspan=1></td></tr></table> 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 731
+  }
+}

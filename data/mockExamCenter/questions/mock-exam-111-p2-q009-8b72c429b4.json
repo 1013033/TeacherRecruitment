@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q009-8b72c429b4",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 9 題",
+    "sourceFile": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md",
+    "sourceLocator": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md#offset-2000",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "「飲料單(Drink Menu)」為餐廳推銷飲料的工具，不僅可突顯餐廳特色，更可刺激消費增加營收；下列與其相關之敘述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "完整的飲料單應包含飲料特色介紹、價格及計價方式"
+      },
+      {
+        "id": "B",
+        "text": "結構設計需考量餐廳吧檯設備、成本與售價、員工技術"
+      },
+      {
+        "id": "C",
+        "text": "內容設計常依飲用時機、飲用溫度、有無酒精成分分類"
+      },
+      {
+        "id": "D",
+        "text": "酒精飲料計價常以ml 為單位，無年份葡萄酒另標示NV"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、酒精、吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：葡萄酒、酒精、吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「飲料單(Drink Menu)」為餐廳推銷飲料的工具，不僅可突顯餐廳特色，更可刺激消費增加營收；下列與其相關之敘述，何者錯誤？ 完整的飲料單應包含飲料特色介紹、價格及計價方式 結構設計需考量餐廳吧檯設備、成本與售價、員工技術 內容設計常依飲用時機、飲用溫度、有無酒精成分分類 酒精飲料計價常以ml 為單位，無年份葡萄酒另標示NV 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2259
+  }
+}

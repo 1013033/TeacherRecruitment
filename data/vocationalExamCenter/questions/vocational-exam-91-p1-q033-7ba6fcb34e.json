@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p1-q033-7ba6fcb34e",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(一) 第 33 題",
+    "sourceFile": "專一\\output\\91專一\\auto\\91專一.md",
+    "sourceLocator": "專一\\output\\91專一\\auto\\91專一.md#offset-3818",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "下列何者，較不適合當餐前酒（Aperitif）？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Compari"
+      },
+      {
+        "id": "B",
+        "text": "Dubonnet"
+      },
+      {
+        "id": "C",
+        "text": "Dry Sherry"
+      },
+      {
+        "id": "D",
+        "text": "Grand Marnier"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：aperitif"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：aperitif"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "下列何者，較不適合當餐前酒（Aperitif）？ Compari Dubonnet Dry Sherry Grand Marnier 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 858
+  }
+}

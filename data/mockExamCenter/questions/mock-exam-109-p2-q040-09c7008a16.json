@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q040-09c7008a16",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 40 題",
+    "sourceFile": "109\\output\\109-4專二試題\\auto\\109-4專二試題.md",
+    "sourceLocator": "109\\output\\109-4專二試題\\auto\\109-4專二試題.md#offset-5497",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "乳品有豐富的營養價值，為成長階段不可或缺的營養補給品。有關乳品資訊之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "加糖煉乳屬於濃縮奶，常添加在越南咖啡"
+      },
+      {
+        "id": "B",
+        "text": "乳酸菌飲料的主要成分是牛奶，經乳酸菌發酵凝固後，再加水、糖、果汁及香料製成"
+      },
+      {
+        "id": "C",
+        "text": "奶精粉指的是牛奶經過噴霧乾燥後的粉末狀添加物"
+      },
+      {
+        "id": "D",
+        "text": "調味乳含有50%以上的生乳，經香料、色素添加製成"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "乳品有豐富的營養價值，為成長階段不可或缺的營養補給品。有關乳品資訊之敘述，下列何者錯誤？ 加糖煉乳屬於濃縮奶，常添加在越南咖啡 乳酸菌飲料的主要成分是牛奶，經乳酸菌發酵凝固後，再加水、糖、果汁及香料製成 奶精粉指的是牛奶經過噴霧乾燥後的粉末狀添加物 調味乳含有50%以上的生乳，經香料、色素添加製成 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1265
+  }
+}

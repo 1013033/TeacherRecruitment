@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q017-792fbc477e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 17 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-2633",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "在飲料單中，常在高級精緻餐廳中使用的一本達15\\~40頁之綜合飲料單，並包含酒精性飲料與非酒精性飲料，是指下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Restricted Wine Menu"
+      },
+      {
+        "id": "B",
+        "text": "Banquet Menu"
+      },
+      {
+        "id": "C",
+        "text": "Bar Menu"
+      },
+      {
+        "id": "D",
+        "text": "Full Drink Menu"
+      },
+      {
+        "id": "A",
+        "text": "擺放轉檯→鋪設檯布→擺設餐具→擺放口布→擺放調味料與公用物品"
+      },
+      {
+        "id": "B",
+        "text": "擺放轉檯→鋪設檯布→擺放口布→擺設餐具→擺放調味料與公用物品"
+      },
+      {
+        "id": "C",
+        "text": "鋪設檯布→擺放轉檯→擺設餐具→擺放口布→擺放調味料與公用物品"
+      },
+      {
+        "id": "D",
+        "text": "鋪設檯布→擺放轉檯→擺設餐具→擺放調味料與公用物品→擺放口布"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在飲料單中，常在高級精緻餐廳中使用的一本達15\\~40頁之綜合飲料單，並包含酒精性飲料與非酒精性飲料，是指下列何者？ Restricted Wine Menu Banquet Menu Bar Menu Full Drink Menu 擺放轉檯→鋪設檯布→擺設餐具→擺放口布→擺放調味料與公用物品 擺放轉檯→鋪設檯布→擺放口布→擺設餐具→擺放調味料與公用物品 鋪設檯布→擺放轉檯→擺設餐具→擺放口布→擺放調味料與公用物品 鋪設檯布→擺放轉檯→擺設餐具→擺放調味料與公用物品→擺放口布 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1998
+  }
+}

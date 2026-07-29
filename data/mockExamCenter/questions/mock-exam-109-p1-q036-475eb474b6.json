@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q036-475eb474b6",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 36 題",
+    "sourceFile": "109\\output\\109-5專一試題\\auto\\109-5專一試題.md",
+    "sourceLocator": "109\\output\\109-5專一試題\\auto\\109-5專一試題.md#offset-6830",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "依據民國108 年06 月修正之《發展觀光條例》規定，下列何者不屬於旅行業籌設應備事項？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "向中央主管機關申請核准"
+      },
+      {
+        "id": "B",
+        "text": "依法辦妥公司登記"
+      },
+      {
+        "id": "C",
+        "text": "領取旅行業執照"
+      },
+      {
+        "id": "D",
+        "text": "向地方政府申請開業許可"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據民國108 年06 月修正之《發展觀光條例》規定，下列何者不屬於旅行業籌設應備事項？ 向中央主管機關申請核准 依法辦妥公司登記 領取旅行業執照 向地方政府申請開業許可 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1310
+  }
+}

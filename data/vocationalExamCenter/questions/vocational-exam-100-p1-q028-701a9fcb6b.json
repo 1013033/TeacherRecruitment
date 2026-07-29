@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-100-p1-q028-701a9fcb6b",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(一) 第 28 題",
+    "sourceFile": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md",
+    "sourceLocator": "專一\\output\\100-1專一試題\\auto\\100-1專一試題.md#offset-3808",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "世界最早的一家旅行社「通濟隆公司」，該公司所提供的服務項目中， 下列何者類似現今的旅行支票？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "周遊券 ( circular note )僅"
+      },
+      {
+        "id": "C",
+        "text": "周遊車票 ( circular ticket ) 手冊 ( handbook )"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行社"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "世界最早的一家旅行社「通濟隆公司」，該公司所提供的服務項目中， 下列何者類似現今的旅行支票？ 周遊券 ( circular note )僅 周遊車票 ( circular ticket ) 手冊 ( handbook ) 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 28
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q045-69534327f2",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 45 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-4165",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 45,
+    "questionType": "essay",
+    "prompt": "下列何者是食用葡萄柚時的最佳餐具？",
+    "images": [
+      {
+        "id": "vocational-exam-93-p2-q045-69534327f2-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-93-p2-q045-69534327f2-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-93-p2-q045-69534327f2-img-02",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-93-p2-q045-69534327f2-img-02.jpg",
+        "alt": "第 2 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-93-p2-q045-69534327f2-img-03",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-93-p2-q045-69534327f2-img-03.jpg",
+        "alt": "第 3 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-93-p2-q045-69534327f2-img-04",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-93-p2-q045-69534327f2-img-04.jpg",
+        "alt": "第 4 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "D",
+        "text": "## 【背面尚有試題】"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者是食用葡萄柚時的最佳餐具？ ## 【背面尚有試題】 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2196
+  }
+}

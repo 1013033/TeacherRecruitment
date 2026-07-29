@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q033-6ff3950e8f",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 33 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-5004",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 33,
+    "questionType": "multiple-choice",
+    "prompt": "旅館客房內，為方便行動不便者使用輪椅進出、加裝衛浴設備安全扶手、降低洗臉盆高度之無障礙設施房，稱之為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "studio room"
+      },
+      {
+        "id": "B",
+        "text": "handicapped room"
+      },
+      {
+        "id": "C",
+        "text": "duplex room"
+      },
+      {
+        "id": "D",
+        "text": "connecting room"
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ],
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅館客房內，為方便行動不便者使用輪椅進出、加裝衛浴設備安全扶手、降低洗臉盆高度之無障礙設施房，稱之為下列何者？ studio room handicapped room duplex room connecting room 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 369
+  }
+}

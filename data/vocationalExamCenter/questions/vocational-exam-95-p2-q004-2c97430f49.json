@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p2-q004-2c97430f49",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(二) 第 4 題",
+    "sourceFile": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md",
+    "sourceLocator": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md#offset-639",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "，這個敘述是「煎或炸過的食材用適量的醬汁煮至入味、上色、湯汁收斂而口感柔韌」指哪一種烹調法？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "燜"
+      },
+      {
+        "id": "B",
+        "text": "煨"
+      },
+      {
+        "id": "C",
+        "text": "燒"
+      },
+      {
+        "id": "D",
+        "text": "燉"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：烹調、食材"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：烹調、食材"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "，這個敘述是「煎或炸過的食材用適量的醬汁煮至入味、上色、湯汁收斂而口感柔韌」指哪一種烹調法？ 燜 煨 燒 燉 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2301
+  }
+}

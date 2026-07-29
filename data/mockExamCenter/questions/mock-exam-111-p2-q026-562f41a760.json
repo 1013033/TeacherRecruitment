@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q026-562f41a760",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 26 題",
+    "sourceFile": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "111\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-3783",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "小樺在機場的飲料吧中，礙於轉機時間較長，長時間飛來飛去的他想要喝飲料中加入少許冰塊、蘇打水以及果汁，調製完成後份量較多，可以陪伴他等待漫長的轉機時間，此類飲料敘述較為合適下列哪一選項？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Frozen Drinks"
+      },
+      {
+        "id": "B",
+        "text": "Tall Drinks"
+      },
+      {
+        "id": "C",
+        "text": "Straight Drinks"
+      },
+      {
+        "id": "D",
+        "text": "Short Drinks"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小樺在機場的飲料吧中，礙於轉機時間較長，長時間飛來飛去的他想要喝飲料中加入少許冰塊、蘇打水以及果汁，調製完成後份量較多，可以陪伴他等待漫長的轉機時間，此類飲料敘述較為合適下列哪一選項？ Frozen Drinks Tall Drinks Straight Drinks Short Drinks 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1921
+  }
+}

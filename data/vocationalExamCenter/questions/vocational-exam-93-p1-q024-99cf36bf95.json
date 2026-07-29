@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p1-q024-99cf36bf95",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(一) 第 24 題",
+    "sourceFile": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md",
+    "sourceLocator": "專一\\output\\93-1專一試題\\auto\\93-1專一試題.md#offset-2606",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "觀光局觀光政策白皮書在「針對目標市場研擬配套行銷措施」策略中提到:「鎖定MICE爲目標市場」，其概念係以inbound會議及商務旅遊為主，不包括下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "大眾觀光(Mass tourism)"
+      },
+      {
+        "id": "B",
+        "text": "獎勵旅遊(Incentive)"
+      },
+      {
+        "id": "C",
+        "text": "大型會議(Conference)"
+      },
+      {
+        "id": "D",
+        "text": "展演(Exhibition)"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：tour、觀光局、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：tour、觀光局、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "觀光局觀光政策白皮書在「針對目標市場研擬配套行銷措施」策略中提到:「鎖定MICE爲目標市場」，其概念係以inbound會議及商務旅遊為主，不包括下列何者？ 大眾觀光(Mass tourism) 獎勵旅遊(Incentive) 大型會議(Conference) 展演(Exhibition) 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 949
+  }
+}

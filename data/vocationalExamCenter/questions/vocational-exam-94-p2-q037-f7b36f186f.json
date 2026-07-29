@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-q037-f7b36f186f",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 37 題",
+    "sourceFile": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md",
+    "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-3595",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項物品，不是一般餐廳「工作檯」( service station ) 的固定必備品？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "保溫鍋 ( chafing dish )"
+      },
+      {
+        "id": "B",
+        "text": "服務巾 ( service cloth )"
+      },
+      {
+        "id": "C",
+        "text": "辣椒醬 ( tabasco )"
+      },
+      {
+        "id": "D",
+        "text": "餐刀 ( dinner knife )"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、knife"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、knife"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項物品，不是一般餐廳「工作檯」( service station ) 的固定必備品？ 保溫鍋 ( chafing dish ) 服務巾 ( service cloth ) 辣椒醬 ( tabasco ) 餐刀 ( dinner knife ) 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2237
+  }
+}

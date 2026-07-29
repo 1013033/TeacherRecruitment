@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p1-q035-a9fa7685f7",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 35 題",
+    "sourceFile": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md",
+    "sourceLocator": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md#offset-7326",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "小花於民國113年1月搭乘專為旅遊路線規畫的台灣好行，關於台灣好行的服務內容，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "僅在臺灣西部地區營運"
+      },
+      {
+        "id": "B",
+        "text": "代訂國內食宿及提供行李配送服務"
+      },
+      {
+        "id": "C",
+        "text": "各營運路線僅提供假日服務"
+      },
+      {
+        "id": "D",
+        "text": "臺鐵、高鐵與景點間的接駁"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小花於民國113年1月搭乘專為旅遊路線規畫的台灣好行，關於台灣好行的服務內容，下列何者正確？ 僅在臺灣西部地區營運 代訂國內食宿及提供行李配送服務 各營運路線僅提供假日服務 臺鐵、高鐵與景點間的接駁 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 670
+  }
+}

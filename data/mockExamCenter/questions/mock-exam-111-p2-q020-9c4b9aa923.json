@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q020-9c4b9aa923",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 20 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-3054",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "進行主題式餐桌佈置與擺設時，決定以橘、黑、紫色系的佈置為主，口布造型以蝙蝠為主，花瓶或蠟燭改用骷髏頭形狀，請問上述內容最適合用於何種主題？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "萬聖節"
+      },
+      {
+        "id": "B",
+        "text": "情人節"
+      },
+      {
+        "id": "C",
+        "text": "兒童節"
+      },
+      {
+        "id": "D",
+        "text": "中元節"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐桌、口布"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐桌、口布"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "進行主題式餐桌佈置與擺設時，決定以橘、黑、紫色系的佈置為主，口布造型以蝙蝠為主，花瓶或蠟燭改用骷髏頭形狀，請問上述內容最適合用於何種主題？ 萬聖節 情人節 兒童節 中元節 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2000
+  }
+}

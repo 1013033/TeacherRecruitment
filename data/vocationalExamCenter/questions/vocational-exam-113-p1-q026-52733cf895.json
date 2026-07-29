@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p1-q026-52733cf895",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 26 題",
+    "sourceFile": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md",
+    "sourceLocator": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md#offset-5917",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "依據民國112年7月26日所修正的「旅行業管理規則」第11條中規定，綜合旅行社資本額至少需3,000萬。大雄去年投資3,200萬元資本額在臺北設立熊大綜合旅行社，今年疫後產業大復甦，大雄想要擴大營業規模，預計在臺中和高雄各開設一家分公司。他至少須增資多少錢，才能符合規定？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "50 萬元"
+      },
+      {
+        "id": "B",
+        "text": "100萬元"
+      },
+      {
+        "id": "C",
+        "text": "150萬元"
+      },
+      {
+        "id": "D",
+        "text": "300萬元"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據民國112年7月26日所修正的「旅行業管理規則」第11條中規定，綜合旅行社資本額至少需3,000萬。大雄去年投資3,200萬元資本額在臺北設立熊大綜合旅行社，今年疫後產業大復甦，大雄想要擴大營業規模，預計在臺中和高雄各開設一家分公司。他至少須增資多少錢，才能符合規定？ 50 萬元 100萬元 150萬元 300萬元 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 661
+  }
+}

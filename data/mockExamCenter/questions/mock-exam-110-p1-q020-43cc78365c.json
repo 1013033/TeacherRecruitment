@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q020-43cc78365c",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 20 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-3564",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "完善的餐飲經營成本管控<sup>，</sup>為理想營收創造之基礎；下列成本管控計算方式中<sup>，</sup>何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "邊際淨利=營業額-固定費用"
+      },
+      {
+        "id": "B",
+        "text": "客單價=實收營業額÷來客數"
+      },
+      {
+        "id": "C",
+        "text": "利潤=營業額-總成本"
+      },
+      {
+        "id": "D",
+        "text": "食材成本率=食材成本÷營業額×100%"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：食材成本、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：食材成本、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "完善的餐飲經營成本管控<sup>，</sup>為理想營收創造之基礎；下列成本管控計算方式中<sup>，</sup>何者錯誤？ 邊際淨利=營業額-固定費用 客單價=實收營業額÷來客數 利潤=營業額-總成本 食材成本率=食材成本÷營業額×100% 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1774
+  }
+}

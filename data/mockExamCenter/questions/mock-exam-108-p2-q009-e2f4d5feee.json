@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q009-e2f4d5feee",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 9 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-1111",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "下列何者違反桌次與席次安排的原則？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "中餐宴席通常採圓桌設宴，當桌數有三桌呈一字形排列時，以中間桌為主桌，主桌右方為第2 桌，主桌左方為第3 桌"
+      },
+      {
+        "id": "B",
+        "text": "安排中餐宴席的席次時，成對的賓客應對坐於圓桌的兩端"
+      },
+      {
+        "id": "C",
+        "text": "西餐席次依尊右原則安排，女主人的右邊為首席，男主人的右邊為第 2 席，離主人越遠的位置席位越低"
+      },
+      {
+        "id": "D",
+        "text": "西餐席次安排應考量 Position、Personal Relationship 及 Political Situation 等三項原則"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：中餐、西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：中餐、西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者違反桌次與席次安排的原則？ 中餐宴席通常採圓桌設宴，當桌數有三桌呈一字形排列時，以中間桌為主桌，主桌右方為第2 桌，主桌左方為第3 桌 安排中餐宴席的席次時，成對的賓客應對坐於圓桌的兩端 西餐席次依尊右原則安排，女主人的右邊為首席，男主人的右邊為第 2 席，離主人越遠的位置席位越低 西餐席次安排應考量 Position、Personal Relationship 及 Political Situation 等三項原則 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 595
+  }
+}

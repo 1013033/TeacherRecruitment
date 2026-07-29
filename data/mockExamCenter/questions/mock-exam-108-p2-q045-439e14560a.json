@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q045-439e14560a",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 45 題",
+    "sourceFile": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md",
+    "sourceLocator": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md#offset-6499",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "紅茶採收部位的不同，而有等級的區分，請問下列標示的等級順序由高到低排列，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "OP→FOP→P→PS→S"
+      },
+      {
+        "id": "B",
+        "text": "FOP→OP→P→PS→S"
+      },
+      {
+        "id": "C",
+        "text": "FOP→OP→PS→P→S"
+      },
+      {
+        "id": "D",
+        "text": "OP→FOP→PS→P→S"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "紅茶採收部位的不同，而有等級的區分，請問下列標示的等級順序由高到低排列，何者正確？ OP→FOP→P→PS→S FOP→OP→P→PS→S FOP→OP→PS→P→S OP→FOP→PS→P→S 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 533
+  }
+}

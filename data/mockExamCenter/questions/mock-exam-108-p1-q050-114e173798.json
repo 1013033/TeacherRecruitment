@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q050-114e173798",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 50 題",
+    "sourceFile": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md",
+    "sourceLocator": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md#offset-7147",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "旅遊活動型態中，可依消費者個人旅費預算、喜好度規劃，自主彈性安排行程者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Backpack Travel"
+      },
+      {
+        "id": "B",
+        "text": "Theme Tour"
+      },
+      {
+        "id": "C",
+        "text": "Incentive Tour"
+      },
+      {
+        "id": "D",
+        "text": "Special Interest Tour 【以下空白】"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅遊活動型態中，可依消費者個人旅費預算、喜好度規劃，自主彈性安排行程者為何？ Backpack Travel Theme Tour Incentive Tour Special Interest Tour 【以下空白】 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 676
+  }
+}

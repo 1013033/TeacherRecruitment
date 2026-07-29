@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q045-af4855f92b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 45 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-6491",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "有關咖啡生豆精製的處理方法，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "日曬法是最古老的製程，同時也是最經濟的方式"
+      },
+      {
+        "id": "B",
+        "text": "水洗法由荷蘭於20 世紀發明，是目前使用最廣泛的方式"
+      },
+      {
+        "id": "C",
+        "text": "半水洗由越南發明，適用溼氣重且缺水的地方"
+      },
+      {
+        "id": "D",
+        "text": "蜜處理源於瓜地馬拉，是現今最流行的方式"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關咖啡生豆精製的處理方法，下列何者正確？ 日曬法是最古老的製程，同時也是最經濟的方式 水洗法由荷蘭於20 世紀發明，是目前使用最廣泛的方式 半水洗由越南發明，適用溼氣重且缺水的地方 蜜處理源於瓜地馬拉，是現今最流行的方式 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2125
+  }
+}

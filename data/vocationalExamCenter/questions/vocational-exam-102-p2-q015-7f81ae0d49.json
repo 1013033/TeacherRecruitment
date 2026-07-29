@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q015-7f81ae0d49",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 15 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-2136",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "關於旅館客房樓層消防、逃生設備及其位置之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "應於客房內放置手電筒"
+      },
+      {
+        "id": "B",
+        "text": "應於房門後張貼逃生指示圖"
+      },
+      {
+        "id": "C",
+        "text": "應於樓梯間設置消防灑水器"
+      },
+      {
+        "id": "D",
+        "text": "應於廊道設置緊急出口指示燈"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於旅館客房樓層消防、逃生設備及其位置之敘述，下列何者錯誤？ 應於客房內放置手電筒 應於房門後張貼逃生指示圖 應於樓梯間設置消防灑水器 應於廊道設置緊急出口指示燈 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1403
+  }
+}

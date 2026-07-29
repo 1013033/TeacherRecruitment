@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q006-d2accbf17d",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 6 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-664",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "智業中式餐廳的招牌上標示如圖(一)，請問該餐廳最不可能提供下列哪些菜餚？甲、五更腸旺 乙、蒜蓉明蝦 丙、燒酒雞丁、紅燒蹄膀 戊、燻茶鵝 己、滑蛋牛肉",
+    "images": [
+      {
+        "id": "mock-exam-108-p2-q006-d2accbf17d-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-108-p2-q006-d2accbf17d-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丙、丁"
+      },
+      {
+        "id": "B",
+        "text": "乙、戊、己"
+      },
+      {
+        "id": "C",
+        "text": "甲、丙、丁、己"
+      },
+      {
+        "id": "D",
+        "text": "甲、乙、戊、己 圖(一)"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "智業中式餐廳的招牌上標示如圖(一)，請問該餐廳最不可能提供下列哪些菜餚？甲、五更腸旺 乙、蒜蓉明蝦 丙、燒酒雞丁、紅燒蹄膀 戊、燻茶鵝 己、滑蛋牛肉 甲、丙、丁 乙、戊、己 甲、丙、丁、己 甲、乙、戊、己 圖(一) 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 592
+  }
+}

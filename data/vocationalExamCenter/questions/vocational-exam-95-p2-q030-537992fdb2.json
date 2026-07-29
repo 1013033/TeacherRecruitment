@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p2-q030-537992fdb2",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(二) 第 30 題",
+    "sourceFile": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md",
+    "sourceLocator": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md#offset-3269",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "假設你是餐廳領班，客人詢問你桌次安排，依照餐桌禮儀，下列何者是主桌？",
+    "images": [
+      {
+        "id": "vocational-exam-95-p2-q030-537992fdb2-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-95-p2-q030-537992fdb2-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲"
+      },
+      {
+        "id": "B",
+        "text": "乙"
+      },
+      {
+        "id": "C",
+        "text": "丙"
+      },
+      {
+        "id": "D",
+        "text": "丁"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "假設你是餐廳領班，客人詢問你桌次安排，依照餐桌禮儀，下列何者是主桌？ 甲 乙 丙 丁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2326
+  }
+}

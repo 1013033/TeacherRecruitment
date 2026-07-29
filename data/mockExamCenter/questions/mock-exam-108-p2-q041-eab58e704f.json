@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q041-eab58e704f",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 41 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-5920",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "國渝飲用含咖啡因的飲料會引起身體不適，請問他最可能點選下列哪款飲料？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Oolong Green Tea"
+      },
+      {
+        "id": "B",
+        "text": "Earl Grey"
+      },
+      {
+        "id": "C",
+        "text": "Chamomile"
+      },
+      {
+        "id": "D",
+        "text": "Darjeeling"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國渝飲用含咖啡因的飲料會引起身體不適，請問他最可能點選下列哪款飲料？ Oolong Green Tea Earl Grey Chamomile Darjeeling 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 622
+  }
+}

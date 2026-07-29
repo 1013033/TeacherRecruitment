@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q043-ddeaf86de3",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 43 題",
+    "sourceFile": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md",
+    "sourceLocator": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md#offset-7763",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "國際航空運輸協會(IATA)為了方便飛行通訊辨識，將機場和座落的城市給予編碼，有關機場和其對應城市的配對，下列組合何者正確？甲、RMQ─TXG 乙、PVG─SHA 丙、YYZ─YVR 丁、LHR─LON 戊、ZHR─GVA",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁、戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：航空、iata"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：航空、iata"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國際航空運輸協會(IATA)為了方便飛行通訊辨識，將機場和座落的城市給予編碼，有關機場和其對應城市的配對，下列組合何者正確？甲、RMQ─TXG 乙、PVG─SHA 丙、YYZ─YVR 丁、LHR─LON 戊、ZHR─GVA 甲、乙、丙 甲、乙、丁 乙、丙、丁 丙、丁、戊 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2073
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q037-7a6ff2b64d",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 37 題",
+    "sourceFile": "110\\output\\110-2專一試題\\auto\\110-2專一試題.md",
+    "sourceLocator": "110\\output\\110-2專一試題\\auto\\110-2專一試題.md#offset-7108",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "有關臺灣的觀光政策與發展，下列發生時程順序由前迄今之排列何者正確？甲、觀光拔尖領航方案 乙、受理國人赴大陸探親申請丙、觀光客倍增計畫 丁、開放國人出國觀光旅遊",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙丁"
+      },
+      {
+        "id": "B",
+        "text": "甲乙丁丙"
+      },
+      {
+        "id": "C",
+        "text": "丁乙丙甲"
+      },
+      {
+        "id": "D",
+        "text": "丁丙乙甲"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關臺灣的觀光政策與發展，下列發生時程順序由前迄今之排列何者正確？甲、觀光拔尖領航方案 乙、受理國人赴大陸探親申請丙、觀光客倍增計畫 丁、開放國人出國觀光旅遊 甲乙丙丁 甲乙丁丙 丁乙丙甲 丁丙乙甲 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1498
+  }
+}

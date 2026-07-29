@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q013-93fef3f8ef",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 13 題",
+    "sourceFile": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md",
+    "sourceLocator": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md#offset-2902",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "「Room Service」是屬於下列哪一部門需派員到客房提供的服務？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Room Division"
+      },
+      {
+        "id": "B",
+        "text": "House keeping"
+      },
+      {
+        "id": "C",
+        "text": "Food & Beverage"
+      },
+      {
+        "id": "D",
+        "text": "Reception"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「Room Service」是屬於下列哪一部門需派員到客房提供的服務？ Room Division House keeping Food & Beverage Reception 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 688
+  }
+}

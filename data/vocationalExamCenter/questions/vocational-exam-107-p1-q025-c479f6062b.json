@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q025-c479f6062b",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 25 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-3886",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "某一小規模餐廳的廚房進行規劃，下列何種安排最為適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "將調理區及裝盤區規劃在準清潔區"
+      },
+      {
+        "id": "B",
+        "text": "將原料清洗區及驗收區規劃在汙染區"
+      },
+      {
+        "id": "C",
+        "text": "將出菜區及調理區規劃在清潔區"
+      },
+      {
+        "id": "D",
+        "text": "將切割區及配膳區規劃在準清潔區"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某一小規模餐廳的廚房進行規劃，下列何種安排最為適當？ 將調理區及裝盤區規劃在準清潔區 將原料清洗區及驗收區規劃在汙染區 將出菜區及調理區規劃在清潔區 將切割區及配膳區規劃在準清潔區 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 361
+  }
+}

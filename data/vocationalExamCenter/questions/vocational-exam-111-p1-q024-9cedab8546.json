@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p1-q024-9cedab8546",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 24 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-3432",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "鄉村慢食餐館只有16個座位，每週營業三天且只供應晚餐一個餐期，號稱中臺灣最難訂的無菜單料理餐廳；主打澎湖海產當日新鮮直送，所有菜色均為現點現烹調；餐廳採預約制，每月10號開始接受下個月的訂位，開放當日即預約額滿。此餐廳不具有下列哪一種餐飲業特性？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "消費即時性"
+      },
+      {
+        "id": "B",
+        "text": "食材限時性"
+      },
+      {
+        "id": "C",
+        "text": "生產時間短"
+      },
+      {
+        "id": "D",
+        "text": "銷售難預估"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、菜單、餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、菜單、餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "鄉村慢食餐館只有16個座位，每週營業三天且只供應晚餐一個餐期，號稱中臺灣最難訂的無菜單料理餐廳；主打澎湖海產當日新鮮直送，所有菜色均為現點現烹調；餐廳採預約制，每月10號開始接受下個月的訂位，開放當日即預約額滿。此餐廳不具有下列哪一種餐飲業特性？ 消費即時性 食材限時性 生產時間短 銷售難預估 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 560
+  }
+}

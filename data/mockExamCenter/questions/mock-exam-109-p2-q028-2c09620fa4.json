@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q028-2c09620fa4",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 28 題",
+    "sourceFile": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md",
+    "sourceLocator": "109\\output\\109-3專二試題\\auto\\109-3專二試題.md#offset-4602",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "有關客房內各種設備與器具的功能，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "房客在不開門的情況下，可以透過Doorstop 查看房外的狀況"
+      },
+      {
+        "id": "B",
+        "text": "通常裝設在浴室門內側或牆面的Wardrobe是用來供房客吊掛衣物"
+      },
+      {
+        "id": "C",
+        "text": "房門內側上面應懸掛 Service Directory，標示客房位置及逃生路線"
+      },
+      {
+        "id": "D",
+        "text": "常設置於沙發或扶手椅旁的Valet Stand是用來供房客懸掛西裝、帽子等衣物"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：客房、valet"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：客房、valet"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關客房內各種設備與器具的功能，下列敘述何者正確？ 房客在不開門的情況下，可以透過Doorstop 查看房外的狀況 通常裝設在浴室門內側或牆面的Wardrobe是用來供房客吊掛衣物 房門內側上面應懸掛 Service Directory，標示客房位置及逃生路線 常設置於沙發或扶手椅旁的Valet Stand是用來供房客懸掛西裝、帽子等衣物 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1168
+  }
+}

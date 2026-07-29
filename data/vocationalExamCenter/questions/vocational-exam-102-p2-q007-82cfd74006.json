@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q007-82cfd74006",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-1186",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "關於餐飲服務禮儀之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "行介紹禮儀時，應將女士介紹給男士，以符合女士優先的通則"
+      },
+      {
+        "id": "B",
+        "text": "抬頭挺胸、小腹放鬆、收臀、眼睛直視，為餐廳服務人員標準的站姿"
+      },
+      {
+        "id": "C",
+        "text": "在引導顧客方向時，應站在顧客斜前方，輔以手勢指引，並隨時留意顧客步伐"
+      },
+      {
+        "id": "D",
+        "text": "當顧客為女性時，服務人員不宜主動與其握手；顧客為男性時，則可主動與其握手以表熱忱"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於餐飲服務禮儀之敘述，下列何者正確？ 行介紹禮儀時，應將女士介紹給男士，以符合女士優先的通則 抬頭挺胸、小腹放鬆、收臀、眼睛直視，為餐廳服務人員標準的站姿 在引導顧客方向時，應站在顧客斜前方，輔以手勢指引，並隨時留意顧客步伐 當顧客為女性時，服務人員不宜主動與其握手；顧客為男性時，則可主動與其握手以表熱忱 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1395
+  }
+}

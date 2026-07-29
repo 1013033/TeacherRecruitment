@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q007-58ce5a8128",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-1500",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "關於服務叉匙的使用敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "American service 是使用雙手操持服務叉匙"
+      },
+      {
+        "id": "B",
+        "text": "English service 是使用單手操持服務叉匙"
+      },
+      {
+        "id": "C",
+        "text": "若要挾取體積較大的圓形食物，須將服務叉的齒面與服務匙的匙面朝上"
+      },
+      {
+        "id": "D",
+        "text": "指夾法的使用是以中指在上，無名指與小指在下的方法來固定服務叉匙"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：服務叉匙、service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：服務叉匙、service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於服務叉匙的使用敘述，下列何者正確？ American service 是使用雙手操持服務叉匙 English service 是使用單手操持服務叉匙 若要挾取體積較大的圓形食物，須將服務叉的齒面與服務匙的匙面朝上 指夾法的使用是以中指在上，無名指與小指在下的方法來固定服務叉匙 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1740
+  }
+}

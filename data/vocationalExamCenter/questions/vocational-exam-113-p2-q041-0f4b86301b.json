@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q041-0f4b86301b",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 41 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-9049",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "為增進學生了解國產酒的知識，學校安排至酒廠進行校外教學，其中甲酒廠生產花雕酒、米酒；乙酒廠生產威士忌、竹葉青；丙酒廠生產紹興酒、蔘茸酒，校方要求帶隊的子瑜老師須依合成酒 → 釀造酒 → 蒸餾酒的參觀順序進行，每一家酒廠僅限參觀一種分類酒的製程，且不重複參觀，則子瑜老師該如何規劃當天行程？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲酒廠→乙酒廠→丙酒廠"
+      },
+      {
+        "id": "B",
+        "text": "乙酒廠→甲酒廠→丙酒廠"
+      },
+      {
+        "id": "C",
+        "text": "乙酒廠→丙酒廠→甲酒廠"
+      },
+      {
+        "id": "D",
+        "text": "丙酒廠→乙酒廠→甲酒廠"
+      },
+      {
+        "id": "C",
+        "text": "以 Appellation d’Origine Protégée(A.O.P.)取代原 Appellation d’Origine Contrôlée(A.O.C.)"
+      },
+      {
+        "id": "D",
+        "text": "分級排序由高至低為 Appellation d’Origine Protégée ( A.O.P. ) → Indication Géographique Protégée ( I.G.P. ) → Vin De France ( V.D.F. )"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：威士忌、gin"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：威士忌、gin"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "為增進學生了解國產酒的知識，學校安排至酒廠進行校外教學，其中甲酒廠生產花雕酒、米酒；乙酒廠生產威士忌、竹葉青；丙酒廠生產紹興酒、蔘茸酒，校方要求帶隊的子瑜老師須依合成酒 → 釀造酒 → 蒸餾酒的參觀順序進行，每一家酒廠僅限參觀一種分類酒的製程，且不重複參觀，則子瑜老師該如何規劃當天行程？ 甲酒廠→乙酒廠→丙酒廠 乙酒廠→甲酒廠→丙酒廠 乙酒廠→丙酒廠→甲酒廠 丙酒廠→乙酒廠→甲酒廠 以 Appellation d’Origine Protégée(A.O.P.)取代原 Appellation d’Origine Contrôlée(A.O.C.) 分級排序由高至低為 Appellation d’Origine Protégée ( A.O.P. ) → Indication Géographique Protégée ( I.G.P. ) → Vin De France ( V.D.F. ) 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1949
+  }
+}

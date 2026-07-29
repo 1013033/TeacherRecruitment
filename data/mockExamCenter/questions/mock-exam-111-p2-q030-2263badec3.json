@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q030-2263badec3",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 30 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-6594",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "有四位社會新鮮人參加樺吧的應徵面試，希望有機會錄用為該店的調酒師，面試官問了四位應徵者相同的問題：「請說出你認為的調酒基本原則」，以下為四位應徵者的回答，請問誰的回答較不合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "阿美：調酒時要注意清潔，要確保調酒師的手部清潔，以及吧檯杯器皿的清潔"
+      },
+      {
+        "id": "B",
+        "text": "阿英：調酒時會經常使用的器具是量酒器，量酒器是不可獲缺的調酒工具"
+      },
+      {
+        "id": "C",
+        "text": "阿明：調酒時應使用良好或新鮮的材料，以確保品質"
+      },
+      {
+        "id": "D",
+        "text": "阿成：搖盪或攪拌酒水時，動作應緩慢，以免酒水溢出，造成浪費材料"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：調酒、吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：調酒、吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有四位社會新鮮人參加樺吧的應徵面試，希望有機會錄用為該店的調酒師，面試官問了四位應徵者相同的問題：「請說出你認為的調酒基本原則」，以下為四位應徵者的回答，請問誰的回答較不合適？ 阿美：調酒時要注意清潔，要確保調酒師的手部清潔，以及吧檯杯器皿的清潔 阿英：調酒時會經常使用的器具是量酒器，量酒器是不可獲缺的調酒工具 阿明：調酒時應使用良好或新鮮的材料，以確保品質 阿成：搖盪或攪拌酒水時，動作應緩慢，以免酒水溢出，造成浪費材料 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2183
+  }
+}

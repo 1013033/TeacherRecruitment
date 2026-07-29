@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p2-q048-a20210d69a",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(二) 第 48 題",
+    "sourceFile": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md",
+    "sourceLocator": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md#offset-4864",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "驗收人員絕不能同時由採購人員來擔任，",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "平衡飯店組織人數"
+      },
+      {
+        "id": "C",
+        "text": "防止弊端"
+      },
+      {
+        "id": "D",
+        "text": "維持公司的競爭地位 主要著眼於何種機制？平均勞務負擔"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "驗收人員絕不能同時由採購人員來擔任， 平衡飯店組織人數 防止弊端 維持公司的競爭地位 主要著眼於何種機制？平均勞務負擔 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2341
+  }
+}

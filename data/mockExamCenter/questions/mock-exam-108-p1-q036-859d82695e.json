@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q036-859d82695e",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 36 題",
+    "sourceFile": "108\\output\\118-2專一試題\\auto\\118-2專一試題.md",
+    "sourceLocator": "108\\output\\118-2專一試題\\auto\\118-2專一試題.md#offset-5580",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列何者所採用的旅館評鑑標幟相同？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "中國官方、臺灣交通部觀光局"
+      },
+      {
+        "id": "B",
+        "text": "法國官方「旅館產業部」、米其林紅色指南"
+      },
+      {
+        "id": "C",
+        "text": "米其林紅色指南、世界觀光組織"
+      },
+      {
+        "id": "D",
+        "text": "英國國家旅遊局、美國汽車協會"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：觀光局、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：觀光局、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者所採用的旅館評鑑標幟相同？ 中國官方、臺灣交通部觀光局 法國官方「旅館產業部」、米其林紅色指南 米其林紅色指南、世界觀光組織 英國國家旅遊局、美國汽車協會 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 572
+  }
+}

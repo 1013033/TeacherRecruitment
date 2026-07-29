@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q014-73b711cb61",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 14 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-2085",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "有關席次安排，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "政治官員→社會團體領袖→有聲望人士"
+      },
+      {
+        "id": "B",
+        "text": "西餐座位夫妻並坐；中餐則是男女分坐、夫妻分坐、華洋分坐"
+      },
+      {
+        "id": "C",
+        "text": "中餐席次：主賓面門而坐，距離主人越遠輩分越低"
+      },
+      {
+        "id": "D",
+        "text": "西餐席次：主賓坐於主人左側，距離主人越近位階越小"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：中餐、西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：中餐、西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關席次安排，下列敘述何者正確？ 政治官員→社會團體領袖→有聲望人士 西餐座位夫妻並坐；中餐則是男女分坐、夫妻分坐、華洋分坐 中餐席次：主賓面門而坐，距離主人越遠輩分越低 西餐席次：主賓坐於主人左側，距離主人越近位階越小 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2094
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-92-p2-q019-82b424d513",
+    "sourceYear": 92,
+    "sourceLabel": "92 年 專業科目(二) 第 19 題",
+    "sourceFile": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md",
+    "sourceLocator": "專二\\output\\92-1專二試題\\auto\\92-1專二試題.md#offset-2205",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "採購人員買進一批冷凍三色蔬菜，應如何正確地貯存？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "放在室溫下"
+      },
+      {
+        "id": "B",
+        "text": "放在 $5 \\mathrm { ^ { \\circ } C } \\sim 7 \\mathrm ^ { \\circ }$ ℃冷藏庫中"
+      },
+      {
+        "id": "C",
+        "text": "放在0℃冷凍庫中"
+      },
+      {
+        "id": "D",
+        "text": "放在 –18℃冷凍庫中"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "採購人員買進一批冷凍三色蔬菜，應如何正確地貯存？ 放在室溫下 放在 $5 \\mathrm { ^ { \\circ } C } \\sim 7 \\mathrm ^ { \\circ }$ ℃冷藏庫中 放在0℃冷凍庫中 放在 –18℃冷凍庫中 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2122
+  }
+}

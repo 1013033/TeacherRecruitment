@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q022-880aa0c680",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 22 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-5526",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "關於傑克的職務及其所屬部門工作內容，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "負責餐廳布巾的洗滌"
+      },
+      {
+        "id": "B",
+        "text": "屬於 back of the house"
+      },
+      {
+        "id": "C",
+        "text": "規劃標準三槽式人工洗滌流程時，需具有預洗槽、沖洗槽及消毒槽"
+      },
+      {
+        "id": "D",
+        "text": "為維持銀器的潔淨跟亮度，應要求員工在保養時，使用銅油進行打磨擦亮"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於傑克的職務及其所屬部門工作內容，下列敘述何者正確？ 負責餐廳布巾的洗滌 屬於 back of the house 規劃標準三槽式人工洗滌流程時，需具有預洗槽、沖洗槽及消毒槽 為維持銀器的潔淨跟亮度，應要求員工在保養時，使用銅油進行打磨擦亮 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1930
+  }
+}

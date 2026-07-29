@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p2-q047-68f8f5e985",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 47 題",
+    "sourceFile": "113\\output\\113-3-四技二專-17餐旅群專二試題\\auto\\113-3-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "113\\output\\113-3-四技二專-17餐旅群專二試題\\auto\\113-3-四技二專-17餐旅群專二試題.md#offset-7286",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "該款葡萄酒在法國香檳區生產，瓶身較厚且酒標以「Blanc de Noir」呈現，最有可能的葡萄品種是下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Merlot"
+      },
+      {
+        "id": "B",
+        "text": "Gamay"
+      },
+      {
+        "id": "C",
+        "text": "Pinot Noir"
+      },
+      {
+        "id": "D",
+        "text": "Cabernet Franc"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：葡萄酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "該款葡萄酒在法國香檳區生產，瓶身較厚且酒標以「Blanc de Noir」呈現，最有可能的葡萄品種是下列何者？ Merlot Gamay Pinot Noir Cabernet Franc 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 3030
+  }
+}

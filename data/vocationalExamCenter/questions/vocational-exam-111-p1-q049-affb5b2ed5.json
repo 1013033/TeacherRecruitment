@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p1-q049-affb5b2ed5",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 49 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-7859",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "關於該旅館2020年2月與2021年2月的房租總收入與住房銷售房間數如表(一)，整體平均房價的變化，下列何者正確？ 表(一) <table><tr><td rowspan=1 colspan=1>時間</td><td rowspan=1 colspan=1>該月房租總收入(元)</td><td rowspan=1 colspan=1>該月平均每日銷售房間數(間)</td></tr><tr><td rowspan=1 colspan=1>2020年2月</td><td rowspan=1 colspan=1>$31,320,000</td><td rowspan=1 colspan=1>300(間)</td></tr><tr><td rowspan=1 colspan=1>2021年2月</td><td rowspan=1 colspan=1>$15,680,000</td><td rowspan=1 colspan=1>200(間)</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "減少 $ 660"
+      },
+      {
+        "id": "B",
+        "text": "減少 $ 800"
+      },
+      {
+        "id": "C",
+        "text": "減少 $ 900"
+      },
+      {
+        "id": "D",
+        "text": "減少 $ 1,280"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、房價"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、房價"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於該旅館2020年2月與2021年2月的房租總收入與住房銷售房間數如表(一)，整體平均房價的變化，下列何者正確？ 表(一) <table><tr><td rowspan=1 colspan=1>時間</td><td rowspan=1 colspan=1>該月房租總收入(元)</td><td rowspan=1 colspan=1>該月平均每日銷售房間數(間)</td></tr><tr><td rowspan=1 colspan=1>2020年2月</td><td rowspan=1 colspan=1>$31,320,000</td><td rowspan=1 colspan=1>300(間)</td></tr><tr><td rowspan=1 colspan=1>2021年2月</td><td rowspan=1 colspan=1>$15,680,000</td><td rowspan=1 colspan=1>200(間)</td></tr></table> 減少 $ 660 減少 $ 800 減少 $ 900 減少 $ 1,280 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 584
+  }
+}

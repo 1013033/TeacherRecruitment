@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q005-b8ddabc69b",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 5 題",
+    "sourceFile": "110\\output\\110-1專二試題\\auto\\110-1專二試題.md",
+    "sourceLocator": "110\\output\\110-1專二試題\\auto\\110-1專二試題.md#offset-1874",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "有關接聽電話的禮儀，下列何者的做法不正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "聽到電話鈴聲，應在3 響內接起"
+      },
+      {
+        "id": "B",
+        "text": "當「電話鈴響」與「賓客到來」同時發生時，應請賓客稍待，先接聽電話，並回應來電者將儘速回電，掛斷電話後，再向賓客致歉，並提供相關服務"
+      },
+      {
+        "id": "C",
+        "text": "不論接電話或打電話時皆應先報上自己所屬的單位名稱及姓名"
+      },
+      {
+        "id": "D",
+        "text": "通話完畢後，若是賓客打過來，就由賓客先掛斷電話，若是服務人員先致電給賓客，就由服務人員先掛斷電話"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "有關接聽電話的禮儀，下列何者的做法不正確？ 聽到電話鈴聲，應在3 響內接起 當「電話鈴響」與「賓客到來」同時發生時，應請賓客稍待，先接聽電話，並回應來電者將儘速回電，掛斷電話後，再向賓客致歉，並提供相關服務 不論接電話或打電話時皆應先報上自己所屬的單位名稱及姓名 通話完畢後，若是賓客打過來，就由賓客先掛斷電話，若是服務人員先致電給賓客，就由服務人員先掛斷電話 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1417
+  }
+}

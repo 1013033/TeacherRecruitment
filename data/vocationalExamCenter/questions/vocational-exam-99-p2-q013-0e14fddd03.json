@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q013-0e14fddd03",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 13 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-1869",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列關於西餐餐桌擺設的描述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡杯應該擺放在餐具左側"
+      },
+      {
+        "id": "B",
+        "text": "應該先擺放玻璃杯之後再擺放餐具"
+      },
+      {
+        "id": "C",
+        "text": "相同餐點，餐桌擺設應有不同的變化"
+      },
+      {
+        "id": "D",
+        "text": "餐具擺設順序應以由內而外、先右再左為原則"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具、餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具、餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於西餐餐桌擺設的描述，何者正確？ 咖啡杯應該擺放在餐具左側 應該先擺放玻璃杯之後再擺放餐具 相同餐點，餐桌擺設應有不同的變化 餐具擺設順序應以由內而外、先右再左為原則 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2505
+  }
+}

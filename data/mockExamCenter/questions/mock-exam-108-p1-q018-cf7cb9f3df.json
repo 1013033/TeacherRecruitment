@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q018-cf7cb9f3df",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 18 題",
+    "sourceFile": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md",
+    "sourceLocator": "108\\output\\118-1專一試題\\auto\\118-1專一試題.md#offset-1796",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "西餐廳後場組織編制中負責「協助部門主廚督導員工」之人員為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Grillardin"
+      },
+      {
+        "id": "B",
+        "text": "Butcher"
+      },
+      {
+        "id": "C",
+        "text": "Poissonier"
+      },
+      {
+        "id": "D",
+        "text": "Sous Chef"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、chef"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、chef"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西餐廳後場組織編制中負責「協助部門主廚督導員工」之人員為何？ Grillardin Butcher Poissonier Sous Chef 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 461
+  }
+}

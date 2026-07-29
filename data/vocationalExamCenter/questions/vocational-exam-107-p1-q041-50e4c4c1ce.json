@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p1-q041-50e4c4c1ce",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 41 題",
+    "sourceFile": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md",
+    "sourceLocator": "專一\\output\\107-1專一試題\\auto\\107-1專一試題.md#offset-6425",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "某甲設立綜合旅行社於台中市，同時於台北市、台南市、高雄市與新北市設立分公司，依中華民國107年2月1日修正之「旅行業管理規則」規定，下列敘述何者正確？甲：保證金應繳納新台幣 1,120萬元乙：履約保證保險金應為新台幣400萬元丙：應設置經理人四人丁：資本額應繳納新台幣 3,600 萬元",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、丁"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "甲、乙"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某甲設立綜合旅行社於台中市，同時於台北市、台南市、高雄市與新北市設立分公司，依中華民國107年2月1日修正之「旅行業管理規則」規定，下列敘述何者正確？甲：保證金應繳納新台幣 1,120萬元乙：履約保證保險金應為新台幣400萬元丙：應設置經理人四人丁：資本額應繳納新台幣 3,600 萬元 甲、丁 乙、丙 丙、丁 甲、乙 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 377
+  }
+}

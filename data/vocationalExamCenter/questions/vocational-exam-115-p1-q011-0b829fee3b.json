@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p1-q011-0b829fee3b",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 11 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-2803",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 11,
+    "questionType": "single-choice",
+    "prompt": "oy就讀大學時期認真學習技藝，最擅長拉花及手沖咖啡；他同時也是雙料冠軍。在廚藝方面會做各種造型的饅頭、包子、酥餅，更考取相關證照。畢業後Joy打算到飯店工作，下列哪一組職務最適合Joy？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "baker；打荷"
+      },
+      {
+        "id": "B",
+        "text": "barista；白案"
+      },
+      {
+        "id": "C",
+        "text": "bartender；蒸籠"
+      },
+      {
+        "id": "D",
+        "text": "sommelier；紅案"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "oy就讀大學時期認真學習技藝，最擅長拉花及手沖咖啡；他同時也是雙料冠軍。在廚藝方面會做各種造型的饅頭、包子、酥餅，更考取相關證照。畢業後Joy打算到飯店工作，下列哪一組職務最適合Joy？ baker；打荷 barista；白案 bartender；蒸籠 sommelier；紅案 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 746
+  }
+}

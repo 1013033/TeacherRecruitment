@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p2-q012-2439c6cc15",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 12 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-2684",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "新進員工Hark正在接受客房餐飲服務的職前訓練，關於其教育訓練內容下列何者正確？甲、客房餐飲服務隸屬房務部，服務對象不限館內住客，且對外開放一般大眾訂餐乙、預訂翌日早餐應填寫door hunger 於傍晚前掛在房門外把手，並致電房務部丙、送餐需敲門並報稱room service。若房客未應門，嚴禁擅自進入，以維護客人隱私與財產安全丁、服務員依餐量選擇工具，少量餐點可用 tray 遞送，多人份全餐則應使用 room servicewagon / trolley 服務戊、因遞送人力與設備成本較高，售價通常高於館內餐廳，且會額外加收服務費或送餐服務費",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "B",
+        "text": "甲、乙、戊"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁、戊"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "新進員工Hark正在接受客房餐飲服務的職前訓練，關於其教育訓練內容下列何者正確？甲、客房餐飲服務隸屬房務部，服務對象不限館內住客，且對外開放一般大眾訂餐乙、預訂翌日早餐應填寫door hunger 於傍晚前掛在房門外把手，並致電房務部丙、送餐需敲門並報稱room service。若房客未應門，嚴禁擅自進入，以維護客人隱私與財產安全丁、服務員依餐量選擇工具，少量餐點可用 tray 遞送，多人份全餐則應使用 room servicewagon / trolley 服務戊、因遞送人力與設備成本較高，售價通常高於館內餐廳，且會額外加收服務費或送餐服務費 甲、乙、丙 甲、乙、戊 乙、丙、丁 丙、丁、戊 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2017
+  }
+}

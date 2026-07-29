@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p1-q050-03905b2dc8",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(一) 第 50 題",
+    "sourceFile": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md",
+    "sourceLocator": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md#offset-5231",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "關於食品儲存的溫度，下列何者符合衛生安全條件？",
+    "images": [
+      {
+        "id": "vocational-exam-95-p1-q050-03905b2dc8-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-95-p1-q050-03905b2dc8-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "冷凍雞塊存放於 –5<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫"
+      },
+      {
+        "id": "B",
+        "text": "冷凍雞塊存放於 –7<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 5<sup>o</sup>C 以下的冷藏庫"
+      },
+      {
+        "id": "C",
+        "text": "冷凍雞塊存放於 –7<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫"
+      },
+      {
+        "id": "D",
+        "text": "冷凍雞塊存放於 –18<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫 ## ##"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食品"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食品"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於食品儲存的溫度，下列何者符合衛生安全條件？ 冷凍雞塊存放於 –5<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫 冷凍雞塊存放於 –7<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 5<sup>o</sup>C 以下的冷藏庫 冷凍雞塊存放於 –7<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫 冷凍雞塊存放於 –18<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫 ## ## 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1102
+  }
+}

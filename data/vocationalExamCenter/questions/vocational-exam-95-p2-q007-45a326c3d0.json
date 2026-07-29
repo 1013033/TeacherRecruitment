@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p2-q007-45a326c3d0",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md",
+    "sourceLocator": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md#offset-931",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "剁肉、剁茸、泥及禽類較細骨的食材，一般會用哪一種刀具？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "鴨刀"
+      },
+      {
+        "id": "B",
+        "text": "骨刀"
+      },
+      {
+        "id": "C",
+        "text": "片刀"
+      },
+      {
+        "id": "D",
+        "text": "砍刀"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食材"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食材"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "剁肉、剁茸、泥及禽類較細骨的食材，一般會用哪一種刀具？ 鴨刀 骨刀 片刀 砍刀 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2304
+  }
+}

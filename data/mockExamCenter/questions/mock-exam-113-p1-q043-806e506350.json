@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p1-q043-806e506350",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 43 題",
+    "sourceFile": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md#offset-7639",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "依國際航空運輸協會(IATA)規定，有關 INF不佔位機票之免費託運行李規定，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "不論搭乘艙等，每位乘客行李額度皆為一件，行李限重或件數適用同艙等之成人額度"
+      },
+      {
+        "id": "B",
+        "text": "不論搭乘艙等，每位乘客行李額度皆為二件，行李無重量限制，但均必須託運"
+      },
+      {
+        "id": "C",
+        "text": "不論搭乘艙等，每位乘客行李額度皆為二件，一件託運一件登機，合計 32 公斤"
+      },
+      {
+        "id": "D",
+        "text": "不論搭乘艙等，每位乘客行李額度皆為一件，行李限重7公斤，超重須另付費"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：航空、機票、iata"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：航空、機票、iata"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依國際航空運輸協會(IATA)規定，有關 INF不佔位機票之免費託運行李規定，下列何者正確？ 不論搭乘艙等，每位乘客行李額度皆為一件，行李限重或件數適用同艙等之成人額度 不論搭乘艙等，每位乘客行李額度皆為二件，行李無重量限制，但均必須託運 不論搭乘艙等，每位乘客行李額度皆為二件，一件託運一件登機，合計 32 公斤 不論搭乘艙等，每位乘客行李額度皆為一件，行李限重7公斤，超重須另付費 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 3173
+  }
+}

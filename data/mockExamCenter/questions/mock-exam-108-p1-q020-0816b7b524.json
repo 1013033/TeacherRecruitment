@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q020-0816b7b524",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 20 題",
+    "sourceFile": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md",
+    "sourceLocator": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md#offset-4057",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "時下流行使用手機 App(行動應用程式)進行點餐，送餐平台將消費者點購之餐飲品項送抵指定地點，此種餐飲服務型式為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Delivery Service"
+      },
+      {
+        "id": "B",
+        "text": "Counter Service"
+      },
+      {
+        "id": "C",
+        "text": "Drive-In Service"
+      },
+      {
+        "id": "D",
+        "text": "Catering Service"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "時下流行使用手機 App(行動應用程式)進行點餐，送餐平台將消費者點購之餐飲品項送抵指定地點，此種餐飲服務型式為下列何者？ Delivery Service Counter Service Drive-In Service Catering Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 742
+  }
+}

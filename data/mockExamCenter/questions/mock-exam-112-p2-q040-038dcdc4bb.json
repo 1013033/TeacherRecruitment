@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p2-q040-038dcdc4bb",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 40 題",
+    "sourceFile": "112\\output\\112-5-四技二專-17餐旅群專二試題\\auto\\112-5-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "112\\output\\112-5-四技二專-17餐旅群專二試題\\auto\\112-5-四技二專-17餐旅群專二試題.md#offset-7947",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "市面常見花式咖啡飲品如下所列，有關其配方調料使用，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Con Panna：Espresso  Milk Foam"
+      },
+      {
+        "id": "B",
+        "text": "Royal Coffee：Espresso  Brandy"
+      },
+      {
+        "id": "C",
+        "text": "Macchiato：Espresso  Cream Syrup"
+      },
+      {
+        "id": "D",
+        "text": "Mexico Ice Coffee：Ice Coffee  Kahlúa"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、espresso"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、espresso"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "市面常見花式咖啡飲品如下所列，有關其配方調料使用，下列何者正確？ Con Panna：Espresso  Milk Foam Royal Coffee：Espresso  Brandy Macchiato：Espresso  Cream Syrup Mexico Ice Coffee：Ice Coffee  Kahlúa 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2733
+  }
+}

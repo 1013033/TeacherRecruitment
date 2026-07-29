@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q001-35467e2717",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 1 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-513",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 1,
+    "questionType": "single-choice",
+    "prompt": "餐旅業的語源與定義，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Travel原指畫圓的工具，因此有離家遠行又回家巡迴旅遊的意義"
+      },
+      {
+        "id": "B",
+        "text": "Hospitality是指誠摯、親切、殷勤地款待旅行者"
+      },
+      {
+        "id": "C",
+        "text": "Hostel 原指類似公寓的出租房子，現多定義為招待所"
+      },
+      {
+        "id": "D",
+        "text": "Tourism是指人們在工作之餘，離開居住地，前往從事觀光活動的目的地，最後會回到原居住地"
+      }
+    ],
+    "answer": "A",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光、餐旅、 hospitality、tourism"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光、餐旅、 hospitality、tourism"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐旅業的語源與定義，下列敘述何者錯誤？ Travel原指畫圓的工具，因此有離家遠行又回家巡迴旅遊的意義 Hospitality是指誠摯、親切、殷勤地款待旅行者 Hostel 原指類似公寓的出租房子，現多定義為招待所 Tourism是指人們在工作之餘，離開居住地，前往從事觀光活動的目的地，最後會回到原居住地 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 50
+  }
+}

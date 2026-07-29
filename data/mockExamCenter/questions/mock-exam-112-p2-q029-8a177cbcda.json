@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p2-q029-8a177cbcda",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 29 題",
+    "sourceFile": "112\\output\\112-1-四技二專-17餐旅群專二試題\\auto\\112-1-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "112\\output\\112-1-四技二專-17餐旅群專二試題\\auto\\112-1-四技二專-17餐旅群專二試題.md#offset-4147",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "有關「酒吧吧檯規劃與設計」，下列何者較不適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Front Bar：提供顧客飲料，也是吧檯人員直接與顧客接觸，提供飲料服務的地方"
+      },
+      {
+        "id": "B",
+        "text": "Under Bar：吧檯人員調製飲料的主要工作區域，在此區域調製飲料以及切水果等"
+      },
+      {
+        "id": "C",
+        "text": "Back Bar：分為上下層，上層陳列酒類、酒具、杯類，下層多為隱藏式儲存櫃，放置各類物品"
+      },
+      {
+        "id": "D",
+        "text": "Front Bar 與 Back Bar 之間是客人穿梭的走道，寬度依預估的客人流量而定"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar、吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar、吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關「酒吧吧檯規劃與設計」，下列何者較不適當？ Front Bar：提供顧客飲料，也是吧檯人員直接與顧客接觸，提供飲料服務的地方 Under Bar：吧檯人員調製飲料的主要工作區域，在此區域調製飲料以及切水果等 Back Bar：分為上下層，上層陳列酒類、酒具、杯類，下層多為隱藏式儲存櫃，放置各類物品 Front Bar 與 Back Bar 之間是客人穿梭的走道，寬度依預估的客人流量而定 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2363
+  }
+}

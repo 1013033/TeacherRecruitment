@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p2-q037-e164bdbe8b",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(二) 第 37 題",
+    "sourceFile": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md",
+    "sourceLocator": "專二\\output\\103-1專二試題\\auto\\103-1專二試題.md#offset-4714",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "關於葡萄酒與食物搭配之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "搭配食物的順序應為先喝白酒，再喝紅酒"
+      },
+      {
+        "id": "B",
+        "text": "燒烤的牛排或羊排，通常搭配紅酒較為適合"
+      },
+      {
+        "id": "C",
+        "text": "搭配開胃菜時，通常選擇貴腐白酒較適宜"
+      },
+      {
+        "id": "D",
+        "text": "若不知食物應如何搭配酒時，可選擇香檳酒來搭配"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於葡萄酒與食物搭配之敘述，下列何者錯誤？ 搭配食物的順序應為先喝白酒，再喝紅酒 燒烤的牛排或羊排，通常搭配紅酒較為適合 搭配開胃菜時，通常選擇貴腐白酒較適宜 若不知食物應如何搭配酒時，可選擇香檳酒來搭配 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1474
+  }
+}

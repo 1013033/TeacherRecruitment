@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p1-q005-f976834160",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(一) 第 5 題",
+    "sourceFile": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md",
+    "sourceLocator": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md#offset-636",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列航空公司的代碼，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "國泰航空：CX"
+      },
+      {
+        "id": "C",
+        "text": "泰國航空：TG"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：航空"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列航空公司的代碼，何者錯誤？ 國泰航空：CX 泰國航空：TG 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1057
+  }
+}

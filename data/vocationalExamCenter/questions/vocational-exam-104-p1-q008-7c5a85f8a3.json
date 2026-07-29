@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p1-q008-7c5a85f8a3",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(一) 第 8 題",
+    "sourceFile": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md",
+    "sourceLocator": "專一\\output\\104-1專一試題\\auto\\104-1專一試題.md#offset-1189",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "餐飲倉儲管理中，運用 ABC 物料分類法，進行不同管理與盤點方式，達到管理效果，下列哪一種倉儲物料屬於A類？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "鹽、胡椒"
+      },
+      {
+        "id": "B",
+        "text": "麵粉、玉米粉"
+      },
+      {
+        "id": "C",
+        "text": "鮑魚、燕窩"
+      },
+      {
+        "id": "D",
+        "text": "蔬菜、水果"
+      }
+    ],
+    "answer": "C",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：麵粉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：麵粉"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲倉儲管理中，運用 ABC 物料分類法，進行不同管理與盤點方式，達到管理效果，下列哪一種倉儲物料屬於A類？ 鹽、胡椒 麵粉、玉米粉 鮑魚、燕窩 蔬菜、水果 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 195
+  }
+}

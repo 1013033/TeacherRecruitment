@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q012-329d108d95",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 12 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-2286",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "顧客欲點一杯不含酒精的咖啡，服務人員應推薦下列哪些品項？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Irish coffee、Mexico iced coffee、Pousse café"
+      },
+      {
+        "id": "B",
+        "text": "Macchiato coffee、Vienna coffee、Con Panna"
+      },
+      {
+        "id": "C",
+        "text": "Mexico iced coffee、Royal coffee、Vienna coffee"
+      },
+      {
+        "id": "D",
+        "text": "Macchiato coffee、Mesdames coffee、Royal coffee"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "顧客欲點一杯不含酒精的咖啡，服務人員應推薦下列哪些品項？ Irish coffee、Mexico iced coffee、Pousse café Macchiato coffee、Vienna coffee、Con Panna Mexico iced coffee、Royal coffee、Vienna coffee Macchiato coffee、Mesdames coffee、Royal coffee 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1745
+  }
+}

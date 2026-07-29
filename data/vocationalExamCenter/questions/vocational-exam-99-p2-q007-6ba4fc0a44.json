@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q007-6ba4fc0a44",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-1092",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "下列關於房務作業的描述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "高住用率的情形下，客房清潔先後順序應為：掛 Please Make up Room牌的房間、續住房、C/O"
+      },
+      {
+        "id": "B",
+        "text": "客房清潔時，若遇住客返回取物，應禮貌地確認客人身分"
+      },
+      {
+        "id": "C",
+        "text": "客房清潔所需時間會因房型或樓層型態不同而異"
+      },
+      {
+        "id": "D",
+        "text": "房門掛有 DND 牌時，不能敲門打擾"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：客房、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：客房、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於房務作業的描述，何者錯誤？ 高住用率的情形下，客房清潔先後順序應為：掛 Please Make up Room牌的房間、續住房、C/O 客房清潔時，若遇住客返回取物，應禮貌地確認客人身分 客房清潔所需時間會因房型或樓層型態不同而異 房門掛有 DND 牌時，不能敲門打擾 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2499
+  }
+}

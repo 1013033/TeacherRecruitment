@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q023-5b4431e79b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 23 題",
+    "sourceFile": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md",
+    "sourceLocator": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md#offset-4424",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "「隱藏床(Hide a bed)」不僅可收納節約客房空間，更是客房中最具靈活性的床型。下列屬於隱藏床者有幾項？ <table><tr><td rowspan=1 colspan=1>Studio Bed</td><td rowspan=1 colspan=1>Bunk Bed</td><td rowspan=1 colspan=1>Duo Bed</td></tr><tr><td rowspan=1 colspan=1>Murphy Bed</td><td rowspan=1 colspan=1>Door Bed</td><td rowspan=1 colspan=1>Baby&#x27;s Crib</td></tr><tr><td rowspan=1 colspan=3>6項",
+    "images": [],
+    "options": [
+      {
+        "id": "B",
+        "text": "5項"
+      },
+      {
+        "id": "C",
+        "text": "4項"
+      },
+      {
+        "id": "D",
+        "text": "3項</td></tr></table>"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「隱藏床(Hide a bed)」不僅可收納節約客房空間，更是客房中最具靈活性的床型。下列屬於隱藏床者有幾項？ <table><tr><td rowspan=1 colspan=1>Studio Bed</td><td rowspan=1 colspan=1>Bunk Bed</td><td rowspan=1 colspan=1>Duo Bed</td></tr><tr><td rowspan=1 colspan=1>Murphy Bed</td><td rowspan=1 colspan=1>Door Bed</td><td rowspan=1 colspan=1>Baby&#x27;s Crib</td></tr><tr><td rowspan=1 colspan=3>6項 5項 4項 3項</td></tr></table> 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1213
+  }
+}

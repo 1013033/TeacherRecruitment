@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-108-p2-q036-2ed3ff1ed5",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 36 題",
+    "sourceFile": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md",
+    "sourceLocator": "專二\\output\\108-1專二試題\\auto\\108-1專二試題.md#offset-4915",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "關於以 400ml奶泡壺手打製作奶泡或義式咖啡機製作奶泡的敘述，下列何者正確？ 36. 關於以400ml奶泡壺手打製作奶泡或義式咖啡機製作奶泡的敘迹，下列",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以咖啡機蒸氣棒打奶泡，蒸氣棒距離杯底約 1cm較適合"
+      },
+      {
+        "id": "B",
+        "text": "以咖啡機蒸氣棒打奶泡，倒入 65 C的鮮奶打發口感較佳"
+      },
+      {
+        "id": "C",
+        "text": "以奶泡壺製作熱奶泡時，鮮奶量約為奶泡壺的 1/4最佳"
+      },
+      {
+        "id": "D",
+        "text": "以奶泡壺製作冰奶泡時，適合使用的鮮奶溫度約 4 C"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於以 400ml奶泡壺手打製作奶泡或義式咖啡機製作奶泡的敘述，下列何者正確？ 36. 關於以400ml奶泡壺手打製作奶泡或義式咖啡機製作奶泡的敘迹，下列 以咖啡機蒸氣棒打奶泡，蒸氣棒距離杯底約 1cm較適合 以咖啡機蒸氣棒打奶泡，倒入 65 C的鮮奶打發口感較佳 以奶泡壺製作熱奶泡時，鮮奶量約為奶泡壺的 1/4最佳 以奶泡壺製作冰奶泡時，適合使用的鮮奶溫度約 4 C 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1719
+  }
+}

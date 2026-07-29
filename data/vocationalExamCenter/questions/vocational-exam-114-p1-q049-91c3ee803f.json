@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q049-91c3ee803f",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 49 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-14882",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "以下是這趟旅程的航班資訊與碳排放量：甲、臺北(TPE)→倫敦(LHR)：USD 850，碳排放量：1,200公斤乙、倫敦(LHR)→巴黎(CDG)：USD 200，碳排放量：250公斤丙、巴黎(CDG)→臺北(TPE)：USD 900，碳排放量：1,500公斤此行程橫跨了哪些IATA飛航區域？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "TC1和TC2"
+      },
+      {
+        "id": "B",
+        "text": "TC2和TC3"
+      },
+      {
+        "id": "C",
+        "text": "TC1和TC3"
+      },
+      {
+        "id": "D",
+        "text": "TC1、TC2和TC3"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：iata"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：iata"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "以下是這趟旅程的航班資訊與碳排放量：甲、臺北(TPE)→倫敦(LHR)：USD 850，碳排放量：1,200公斤乙、倫敦(LHR)→巴黎(CDG)：USD 200，碳排放量：250公斤丙、巴黎(CDG)→臺北(TPE)：USD 900，碳排放量：1,500公斤此行程橫跨了哪些IATA飛航區域？ TC1和TC2 TC2和TC3 TC1和TC3 TC1、TC2和TC3 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 734
+  }
+}

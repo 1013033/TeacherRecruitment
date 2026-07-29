@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q032-1289bd421c",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 32 題",
+    "sourceFile": "107\\output\\117-4專二試題\\auto\\117-4專二試題.md",
+    "sourceLocator": "107\\output\\117-4專二試題\\auto\\117-4專二試題.md#offset-3868",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "下列何者屬於「Hollowware」？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Esacrgot Fork"
+      },
+      {
+        "id": "B",
+        "text": "Squeezer"
+      },
+      {
+        "id": "C",
+        "text": "Platter"
+      },
+      {
+        "id": "D",
+        "text": "Sugar Tongs"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：latte"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：latte"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者屬於「Hollowware」？ Esacrgot Fork Squeezer Platter Sugar Tongs 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 333
+  }
+}

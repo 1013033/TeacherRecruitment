@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q027-38b6dc6e43",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 27 題",
+    "sourceFile": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md",
+    "sourceLocator": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md#offset-4063",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種旅館房型可以容納較多的住客人數？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Quad Room"
+      },
+      {
+        "id": "B",
+        "text": "Single Room"
+      },
+      {
+        "id": "C",
+        "text": "Twin Room"
+      },
+      {
+        "id": "D",
+        "text": "Double Room"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一種旅館房型可以容納較多的住客人數？ Quad Room Single Room Twin Room Double Room 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 653
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p2-q032-9f348ee4f9",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 32 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-6891",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "臺灣近年來非常風行地區特色茶種，地區的產茶受到人文歷史及自然的結合，創造出獨特的風味。擁有近百年歷史，據說來自武夷的茶農朱振淮帶來的中國茶種，包含雪梨、武夷、青心烏龍，在台灣環境的種植特色為海拔低、緯度低、日照長、海風強。上述的內容為台灣哪種茶葉？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "烏龍茶"
+      },
+      {
+        "id": "B",
+        "text": "膨風茶"
+      },
+      {
+        "id": "C",
+        "text": "上將茶"
+      },
+      {
+        "id": "D",
+        "text": "港口茶"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、烏龍"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、烏龍"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "臺灣近年來非常風行地區特色茶種，地區的產茶受到人文歷史及自然的結合，創造出獨特的風味。擁有近百年歷史，據說來自武夷的茶農朱振淮帶來的中國茶種，包含雪梨、武夷、青心烏龍，在台灣環境的種植特色為海拔低、緯度低、日照長、海風強。上述的內容為台灣哪種茶葉？ 烏龍茶 膨風茶 上將茶 港口茶 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1891
+  }
+}

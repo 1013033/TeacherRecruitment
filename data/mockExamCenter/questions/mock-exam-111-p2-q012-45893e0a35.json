@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q012-45893e0a35",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 12 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-1834",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "有關餐廳場地的清潔工作，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "清潔牆面時，採用由上而下的方向完成擦拭"
+      },
+      {
+        "id": "B",
+        "text": "清洗馬桶後，以75%以上的酒精浸溼之抹布消毒坐墊"
+      },
+      {
+        "id": "C",
+        "text": "工作檯及餐椅等，需以擰乾的濕抹布，由上往下擦拭"
+      },
+      {
+        "id": "D",
+        "text": "餐廳的地面每天通常只需清掃一次"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐廳場地的清潔工作，下列敘述何者錯誤？ 清潔牆面時，採用由上而下的方向完成擦拭 清洗馬桶後，以75%以上的酒精浸溼之抹布消毒坐墊 工作檯及餐椅等，需以擰乾的濕抹布，由上往下擦拭 餐廳的地面每天通常只需清掃一次 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1993
+  }
+}

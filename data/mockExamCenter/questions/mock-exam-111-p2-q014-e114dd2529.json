@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q014-e114dd2529",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 14 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-2127",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "某餐廳提供的菜單型態是使用最廣泛的菜單形式，顧客可依自己喜好從多種菜色中選擇，且菜餚採用個別訂價的方式計價，請問上述內容是指何種菜單種類？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Combination Menu"
+      },
+      {
+        "id": "B",
+        "text": "Set Menu"
+      },
+      {
+        "id": "C",
+        "text": "Buffet Menu"
+      },
+      {
+        "id": "D",
+        "text": "Selective Menu"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某餐廳提供的菜單型態是使用最廣泛的菜單形式，顧客可依自己喜好從多種菜色中選擇，且菜餚採用個別訂價的方式計價，請問上述內容是指何種菜單種類？ Combination Menu Set Menu Buffet Menu Selective Menu 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1995
+  }
+}

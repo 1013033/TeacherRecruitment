@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q006-9751416ef0",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 6 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-1160",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "如果房客致電櫃檯抱怨隔壁客房內嬉鬧噪音太大，櫃檯接待員在第一時間應請下列何者前去瞭解勸說？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "General Manager"
+      },
+      {
+        "id": "B",
+        "text": "Floor Captain"
+      },
+      {
+        "id": "C",
+        "text": "Receptionist"
+      },
+      {
+        "id": "D",
+        "text": "Room Service Waiter"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、room service、waiter"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、room service、waiter"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "如果房客致電櫃檯抱怨隔壁客房內嬉鬧噪音太大，櫃檯接待員在第一時間應請下列何者前去瞭解勸說？ General Manager Floor Captain Receptionist Room Service Waiter 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 55
+  }
+}

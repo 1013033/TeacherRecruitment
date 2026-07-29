@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q050-996b7b9e63",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 50 題",
+    "sourceFile": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md",
+    "sourceLocator": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md#offset-8148",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "下列各款雞尾酒所使用的基酒、裝飾物、調製法之組合，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Salty Dog：Vodka、Salt Rimmed、Shake"
+      },
+      {
+        "id": "B",
+        "text": "Screwdriver：Rum、Orange Slice、Build"
+      },
+      {
+        "id": "C",
+        "text": "Cuba Libre：White Rum、Lemon Slice、Build"
+      },
+      {
+        "id": "D",
+        "text": "Kamikaze：Vodka、Lemon Wedge、Shake 【以下空白】"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：vodka、rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：vodka、rum"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各款雞尾酒所使用的基酒、裝飾物、調製法之組合，何者正確？ Salty Dog：Vodka、Salt Rimmed、Shake Screwdriver：Rum、Orange Slice、Build Cuba Libre：White Rum、Lemon Slice、Build Kamikaze：Vodka、Lemon Wedge、Shake 【以下空白】 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 722
+  }
+}

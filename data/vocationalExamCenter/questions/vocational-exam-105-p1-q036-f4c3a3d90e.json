@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q036-f4c3a3d90e",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 36 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-4549",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "關於國外餐飲業發展之歷程，下列何者最早發生？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "restaurant 名詞的產生"
+      },
+      {
+        "id": "B",
+        "text": "小酒館 ( tavern ) 的出現"
+      },
+      {
+        "id": "C",
+        "text": "美食評論米其林指南 ( Michelin Guide ) 的發表"
+      },
+      {
+        "id": "D",
+        "text": "咖啡屋 ( coffee house ) 的興起"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於國外餐飲業發展之歷程，下列何者最早發生？ restaurant 名詞的產生 小酒館 ( tavern ) 的出現 美食評論米其林指南 ( Michelin Guide ) 的發表 咖啡屋 ( coffee house ) 的興起 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 273
+  }
+}

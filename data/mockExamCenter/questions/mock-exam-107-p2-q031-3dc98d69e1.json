@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q031-3dc98d69e1",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 31 題",
+    "sourceFile": "107\\output\\117-1專二試題\\auto\\117-1專二試題.md",
+    "sourceLocator": "107\\output\\117-1專二試題\\auto\\117-1專二試題.md#offset-4253",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "有關中餐宴席餐桌佈置的步驟，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "架設餐桌→鋪設檯布→擺放轉檯→擺放餐巾→擺放餐具→擺放調味品及公用物品→擺放餐椅"
+      },
+      {
+        "id": "B",
+        "text": "架設餐桌→鋪設檯布→擺放轉檯→擺放餐具→擺放調味品及公用物品→擺放餐巾→擺放餐椅"
+      },
+      {
+        "id": "C",
+        "text": "架設餐桌→鋪設檯布→擺放轉檯→擺放餐具→擺放餐巾→擺放調味品及公用物品→擺放餐椅"
+      },
+      {
+        "id": "D",
+        "text": "架設餐桌→鋪設檯布→擺放轉檯→擺放餐具→擺放餐巾→擺放餐椅→擺放調味品及公用物品"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、餐巾、宴席"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、餐巾、宴席"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關中餐宴席餐桌佈置的步驟，下列何者正確？ 架設餐桌→鋪設檯布→擺放轉檯→擺放餐巾→擺放餐具→擺放調味品及公用物品→擺放餐椅 架設餐桌→鋪設檯布→擺放轉檯→擺放餐具→擺放調味品及公用物品→擺放餐巾→擺放餐椅 架設餐桌→鋪設檯布→擺放轉檯→擺放餐具→擺放餐巾→擺放調味品及公用物品→擺放餐椅 架設餐桌→鋪設檯布→擺放轉檯→擺放餐具→擺放餐巾→擺放餐椅→擺放調味品及公用物品 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 59
+  }
+}

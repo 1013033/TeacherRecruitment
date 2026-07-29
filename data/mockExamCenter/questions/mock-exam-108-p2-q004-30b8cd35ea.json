@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q004-30b8cd35ea",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 4 題",
+    "sourceFile": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md",
+    "sourceLocator": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md#offset-1623",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "有關西餐席次安排的原則，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "首席原則：三桌併排為一字形，中間最大，右邊次之，左邊最小"
+      },
+      {
+        "id": "B",
+        "text": "尊右原則：依男右女左的方式排列"
+      },
+      {
+        "id": "C",
+        "text": "不分坐原則：夫婦兩人要並肩而坐，不可分開"
+      },
+      {
+        "id": "D",
+        "text": "三 P 原則：考慮賓客地位(Position)、點餐價格(Price)、人際關係(Personal Relationship)"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：西餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：西餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關西餐席次安排的原則，下列敘述何者正確？ 首席原則：三桌併排為一字形，中間最大，右邊次之，左邊最小 尊右原則：依男右女左的方式排列 不分坐原則：夫婦兩人要並肩而坐，不可分開 三 P 原則：考慮賓客地位(Position)、點餐價格(Price)、人際關係(Personal Relationship) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 680
+  }
+}

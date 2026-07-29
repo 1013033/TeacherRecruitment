@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-106-p1-q043-d877b19695",
+    "sourceYear": 106,
+    "sourceLabel": "106 年 專業科目(一) 第 43 題",
+    "sourceFile": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md",
+    "sourceLocator": "專一\\output\\106-1專一試題\\auto\\106-1專一試題.md#offset-5608",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "關於中國各菜系所包含之著名菜餚，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "松鼠黃魚、魚香肉絲屬於江浙菜系"
+      },
+      {
+        "id": "B",
+        "text": "京醬肉絲、涮羊肉屬於北平菜系"
+      },
+      {
+        "id": "C",
+        "text": "麻婆豆腐、宋嫂魚羹屬於四川菜系"
+      },
+      {
+        "id": "D",
+        "text": "咕咾肉、左宗棠雞屬於廣東菜系"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜系"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜系"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中國各菜系所包含之著名菜餚，下列何者正確？ 松鼠黃魚、魚香肉絲屬於江浙菜系 京醬肉絲、涮羊肉屬於北平菜系 麻婆豆腐、宋嫂魚羹屬於四川菜系 咕咾肉、左宗棠雞屬於廣東菜系 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 330
+  }
+}

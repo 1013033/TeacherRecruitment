@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p1-q031-ccf9c3a821",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 31 題",
+    "sourceFile": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md",
+    "sourceLocator": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md#offset-6683",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "根據民國112年10月19日所修正的「導遊人員管理規則」，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "外語導遊人員類科專用制評量筆試科目包含英語科目"
+      },
+      {
+        "id": "B",
+        "text": "外國人具有高級中學以上學校畢業，領有畢業證書，得以參加我國導遊人員評量測驗"
+      },
+      {
+        "id": "C",
+        "text": "華語導遊人員類科評量應測科目包含：導遊實務(一)、導遊實務(二)，以及觀光資源概論"
+      },
+      {
+        "id": "D",
+        "text": "外語導遊人員評量測驗的報名資格，若為高中職畢業者 ( 取得畢業證書 ) ，得採用專用制評量"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：導遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：導遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據民國112年10月19日所修正的「導遊人員管理規則」，下列敘述何者正確？ 外語導遊人員類科專用制評量筆試科目包含英語科目 外國人具有高級中學以上學校畢業，領有畢業證書，得以參加我國導遊人員評量測驗 華語導遊人員類科評量應測科目包含：導遊實務(一)、導遊實務(二)，以及觀光資源概論 外語導遊人員評量測驗的報名資格，若為高中職畢業者 ( 取得畢業證書 ) ，得採用專用制評量 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 666
+  }
+}

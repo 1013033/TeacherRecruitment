@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q006-824ec8ff42",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 6 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-1025",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "關於台灣觀光形象標誌如圖(一)，下列敘述何者錯誤？",
+    "images": [
+      {
+        "id": "vocational-exam-99-p1-q006-824ec8ff42-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-99-p1-q006-824ec8ff42-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "T是象徵溫暖的家"
+      },
+      {
+        "id": "B",
+        "text": "I是代表主人熱情的歡迎客"
+      },
+      {
+        "id": "C",
+        "text": "W是兩人高興握手言歡"
+      },
+      {
+        "id": "D",
+        "text": "AN是主人和客人一起坐著喝茶 天 圖"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於台灣觀光形象標誌如圖(一)，下列敘述何者錯誤？ T是象徵溫暖的家 I是代表主人熱情的歡迎客 W是兩人高興握手言歡 AN是主人和客人一起坐著喝茶 天 圖 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1247
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-107-p2-q024-f27bc65213",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 24 題",
+    "sourceFile": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md",
+    "sourceLocator": "專二\\output\\107-1專二試題\\auto\\107-1專二試題.md#offset-3359",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "某國際觀光旅館今日room daily report顯示如下，則所需更換備品與最低數量之組合，下列何者正確？C /O：2 間 double roomN / S：2 間 deluxe suiteOOO：2 間 single room",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "bath mat： 2"
+      },
+      {
+        "id": "B",
+        "text": "down pillow： 4"
+      },
+      {
+        "id": "C",
+        "text": "slippers： 6"
+      },
+      {
+        "id": "D",
+        "text": "tooth brush： 8"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "某國際觀光旅館今日room daily report顯示如下，則所需更換備品與最低數量之組合，下列何者正確？C /O：2 間 double roomN / S：2 間 deluxe suiteOOO：2 間 single room bath mat： 2 down pillow： 4 slippers： 6 tooth brush： 8 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1660
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p2-q045-272f3ce370",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 45 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-6326",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "關於雞尾酒與其調製時所需使用器具的搭配，下列描述何者正確？",
+    "images": [
+      {
+        "id": "vocational-exam-99-p2-q045-272f3ce370-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-99-p2-q045-272f3ce370-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "天蠍座 ( scorpion )：blender公"
+      },
+      {
+        "id": "B",
+        "text": "天使之吻 ( angel’s kiss )：shaker"
+      },
+      {
+        "id": "C",
+        "text": "威士忌酸酒 ( whisky sour )：mixing glass"
+      },
+      {
+        "id": "D",
+        "text": "藍鳥 ( blue bird )：shaker"
+      },
+      {
+        "id": "A",
+        "text": "飛天蚱蜢 ( flying grasshopper )"
+      },
+      {
+        "id": "B",
+        "text": "馬頸 ( horse’s neck )"
+      },
+      {
+        "id": "C",
+        "text": "約翰可林 ( john collins )"
+      },
+      {
+        "id": "D",
+        "text": "古典酒 ( old fashioned )"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：威士忌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：威士忌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於雞尾酒與其調製時所需使用器具的搭配，下列描述何者正確？ 天蠍座 ( scorpion )：blender公 天使之吻 ( angel’s kiss )：shaker 威士忌酸酒 ( whisky sour )：mixing glass 藍鳥 ( blue bird )：shaker 飛天蚱蜢 ( flying grasshopper ) 馬頸 ( horse’s neck ) 約翰可林 ( john collins ) 古典酒 ( old fashioned ) 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2529
+  }
+}

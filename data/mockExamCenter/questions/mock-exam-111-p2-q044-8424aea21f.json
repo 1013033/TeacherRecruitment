@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q044-8424aea21f",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 44 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-5928",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "咖啡品種眾多，有傳統品種、突變種與混血種等，下列哪個咖啡品種，是衣索比亞最古老的原生品種，擁有絕佳的酸味與香氣？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Caturra"
+      },
+      {
+        "id": "B",
+        "text": "Geisha"
+      },
+      {
+        "id": "C",
+        "text": "Typica"
+      },
+      {
+        "id": "D",
+        "text": "Maragogype"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡品種眾多，有傳統品種、突變種與混血種等，下列哪個咖啡品種，是衣索比亞最古老的原生品種，擁有絕佳的酸味與香氣？ Caturra Geisha Typica Maragogype 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2024
+  }
+}

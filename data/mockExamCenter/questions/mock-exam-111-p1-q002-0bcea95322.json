@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q002-0bcea95322",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 2 題",
+    "sourceFile": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md",
+    "sourceLocator": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md#offset-197",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "交通部觀光局為我國觀光中央主管機關，其各組所負責之業務各有所長，請依據業務職掌(\\~)與各組別(甲\\~己)進行正確的配對。負責發佈每個月之觀光市場概況摘要 負責自然人文生態景觀區的劃定事項負責導遊人員或領隊人員定期或不定期違規稽查 負責星級旅館評鑑計畫訂定及制度建立事項甲、業務組 乙、國際組 丙、企劃組 丁、國民旅遊組 戊、旅宿組 己、技術組",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "①甲②丙③丁④戊"
+      },
+      {
+        "id": "B",
+        "text": "①甲②丁③乙④丙"
+      },
+      {
+        "id": "C",
+        "text": "①乙②丙③甲④己"
+      },
+      {
+        "id": "D",
+        "text": "①丙②己③甲④戊"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：領隊、導遊、觀光局、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：領隊、導遊、觀光局、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "交通部觀光局為我國觀光中央主管機關，其各組所負責之業務各有所長，請依據業務職掌(\\~)與各組別(甲\\~己)進行正確的配對。負責發佈每個月之觀光市場概況摘要 負責自然人文生態景觀區的劃定事項負責導遊人員或領隊人員定期或不定期違規稽查 負責星級旅館評鑑計畫訂定及制度建立事項甲、業務組 乙、國際組 丙、企劃組 丁、國民旅遊組 戊、旅宿組 己、技術組 ①甲②丙③丁④戊 ①甲②丁③乙④丙 ①乙②丙③甲④己 ①丙②己③甲④戊 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2202
+  }
+}

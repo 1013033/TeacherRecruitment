@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q033-5fe72b1d41",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 33 題",
+    "sourceFile": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md",
+    "sourceLocator": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md#offset-5557",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "有關旅館卡片鑰匙開啟之「權限大小」，請以持有該種類鑰匙者的職務由高至低排序，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Emergency Key  Grand Master Key  Floor Master Key"
+      },
+      {
+        "id": "B",
+        "text": "Section Master Key  Floor Master Key  Grand Master Key"
+      },
+      {
+        "id": "C",
+        "text": "Inhibit Key  Grand Master Key  Floor Master Key"
+      },
+      {
+        "id": "D",
+        "text": "Grand Master Key  Emergency Key  Section Master Key ## 第二部分：飲料與調酒"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關旅館卡片鑰匙開啟之「權限大小」，請以持有該種類鑰匙者的職務由高至低排序，下列何者正確？ Emergency Key  Grand Master Key  Floor Master Key Section Master Key  Floor Master Key  Grand Master Key Inhibit Key  Grand Master Key  Floor Master Key Grand Master Key  Emergency Key  Section Master Key ## 第二部分：飲料與調酒 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 705
+  }
+}

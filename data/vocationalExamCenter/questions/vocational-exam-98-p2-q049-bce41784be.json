@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p2-q049-bce41784be",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(二) 第 49 題",
+    "sourceFile": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md",
+    "sourceLocator": "專二\\output\\98-1專二試題\\auto\\98-1專二試題.md#offset-6140",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "下列關於酒精飲料的敘述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "啤酒中所加入的啤酒花具有凝結蛋白質以及增加香氣等功能"
+      },
+      {
+        "id": "B",
+        "text": "琴酒中的杜松子具有利尿、解熱等功能"
+      },
+      {
+        "id": "C",
+        "text": "蘇格蘭威士忌採用的麥芽常以泥煤( peat )烘乾，故酒中帶有煙燻泥煤味"
+      },
+      {
+        "id": "D",
+        "text": "俄羅斯所生產的 Grappa 是以葡萄渣為原料"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：啤酒、威士忌、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：啤酒、威士忌、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於酒精飲料的敘述，何者錯誤？ 啤酒中所加入的啤酒花具有凝結蛋白質以及增加香氣等功能 琴酒中的杜松子具有利尿、解熱等功能 蘇格蘭威士忌採用的麥芽常以泥煤( peat )烘乾，故酒中帶有煙燻泥煤味 俄羅斯所生產的 Grappa 是以葡萄渣為原料 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2491
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q016-9d4395544b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 16 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-3056",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "有關餐飲業食物成本控制之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "可藉由標準食譜(Standardized Recipes)建立，估算每道菜品標準食物成本"
+      },
+      {
+        "id": "B",
+        "text": "餐廳導入 IT 自動化控管，可採用先進先出(FIFO)法計算食物成本"
+      },
+      {
+        "id": "C",
+        "text": "自助餐服務(Buffet Service)需供應多種菜色，食材採購較為複雜，食物成本較難控管"
+      },
+      {
+        "id": "D",
+        "text": "食物成本比例(Food Cost Percentage)可運用「食物成本  菜品銷售收入」估算"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、餐飲業、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐飲業食物成本控制之敘述，下列何者錯誤？ 可藉由標準食譜(Standardized Recipes)建立，估算每道菜品標準食物成本 餐廳導入 IT 自動化控管，可採用先進先出(FIFO)法計算食物成本 自助餐服務(Buffet Service)需供應多種菜色，食材採購較為複雜，食物成本較難控管 食物成本比例(Food Cost Percentage)可運用「食物成本  菜品銷售收入」估算 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1863
+  }
+}

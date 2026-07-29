@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q005-276e2ddb95",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 5 題",
+    "sourceFile": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md",
+    "sourceLocator": "110\\output\\110-2專二試題\\auto\\110-2專二試題.md#offset-621",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "平平、安安、順順三人是大學時的好同學，畢業後三年相邀到一家西餐廳聚餐，三人各自點不同酒水，已知訊息如下：平平希望點可欣賞氣泡往上冒的酒品；安安點的是熱帶雞尾酒；順順則想喝法國黑皮諾紅酒(Pinot Noir)，根據以上資訊，可以判斷三人最有可能使用之酒杯依序為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Champagne Flute、Hurricane Glass、Burgundy Glass"
+      },
+      {
+        "id": "B",
+        "text": "Parfait Glass、Hurricane Glass、Bordeaux Wine Glass"
+      },
+      {
+        "id": "C",
+        "text": "Champagne Saucer、Hurricane Glass、Burgundy Glass"
+      },
+      {
+        "id": "D",
+        "text": "Champagne Flute、Margarita Glass、Bordeaux Wine Glass"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：西餐、sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：西餐、sauce"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "平平、安安、順順三人是大學時的好同學，畢業後三年相邀到一家西餐廳聚餐，三人各自點不同酒水，已知訊息如下：平平希望點可欣賞氣泡往上冒的酒品；安安點的是熱帶雞尾酒；順順則想喝法國黑皮諾紅酒(Pinot Noir)，根據以上資訊，可以判斷三人最有可能使用之酒杯依序為何？ Champagne Flute、Hurricane Glass、Burgundy Glass Parfait Glass、Hurricane Glass、Bordeaux Wine Glass Champagne Saucer、Hurricane Glass、Burgundy Glass Champagne Flute、Margarita Glass、Bordeaux Wine Glass 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1516
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q010-05c4ced123",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 10 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-1734",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "文文預計開一家新餐廳，關於廚房設計的格局及動線，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "清潔作業區包括：驗收區、食材清洗區、切割區以及洗滌區"
+      },
+      {
+        "id": "B",
+        "text": "島嶼式為面對面平行排列方式，是使用最少通風設備的設計"
+      },
+      {
+        "id": "C",
+        "text": "廚房的照明光線工作檯面或調理檯面應保持100米燭光為佳"
+      },
+      {
+        "id": "D",
+        "text": "廚房設備中爐檯、水槽及冰箱距離總和不超過 600cm為原則"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "文文預計開一家新餐廳，關於廚房設計的格局及動線，下列敘述何者正確？ 清潔作業區包括：驗收區、食材清洗區、切割區以及洗滌區 島嶼式為面對面平行排列方式，是使用最少通風設備的設計 廚房的照明光線工作檯面或調理檯面應保持100米燭光為佳 廚房設備中爐檯、水槽及冰箱距離總和不超過 600cm為原則 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 595
+  }
+}

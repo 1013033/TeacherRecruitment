@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-makeup-q014-f13ca01911",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 14 題",
+    "sourceFile": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md",
+    "sourceLocator": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md#offset-1514",
+    "paperTitle": "專業科目(一)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何者不符合我國「民宿管理辦法」對於民宿設置地區的規定？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "原住民地區"
+      },
+      {
+        "id": "B",
+        "text": "風景特定區"
+      },
+      {
+        "id": "C",
+        "text": "偏遠地區"
+      },
+      {
+        "id": "D",
+        "text": "都市土地"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：民宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：民宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者不符合我國「民宿管理辦法」對於民宿設置地區的規定？ 原住民地區 風景特定區 偏遠地區 都市土地 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1028
+  }
+}

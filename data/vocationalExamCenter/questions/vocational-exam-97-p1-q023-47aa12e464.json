@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p1-q023-47aa12e464",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(一) 第 23 題",
+    "sourceFile": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md",
+    "sourceLocator": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md#offset-2657",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "下列有關「食品儲存溫度」之敘述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "冷藏食品應保持在 $7 ^ { \\circ } \\mathrm { C }$ 以下，凍結點以上"
+      },
+      {
+        "id": "B",
+        "text": "冷凍食品應保持在 $- 1 8 ~ ^ { \\circ } C$ 以上"
+      },
+      {
+        "id": "C",
+        "text": "$7 ^ { \\circ } \\mathrm { C }$ 至 $6 0 ~ \\mathrm { ^ { \\circ } C }$ 為「食物危險溫度帶」"
+      },
+      {
+        "id": "D",
+        "text": "食品之高溫儲存，溫度應保持在 $6 0 ~ \\mathrm { ^ { \\circ } C }$ 以上"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：食品"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：食品"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關「食品儲存溫度」之敘述，何者錯誤？ 冷藏食品應保持在 $7 ^ { \\circ } \\mathrm { C }$ 以下，凍結點以上 冷凍食品應保持在 $- 1 8 ~ ^ { \\circ } C$ 以上 $7 ^ { \\circ } \\mathrm { C }$ 至 $6 0 ~ \\mathrm { ^ { \\circ } C }$ 為「食物危險溫度帶」 食品之高溫儲存，溫度應保持在 $6 0 ~ \\mathrm { ^ { \\circ } C }$ 以上 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1174
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q025-6c0238b244",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 25 題",
+    "sourceFile": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md",
+    "sourceLocator": "114\\output\\114-3專二試題\\auto\\114-3專二試題.md#offset-4439",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "下列罐裝或瓶裝啤酒之飲料服務流程，何者排序正確？甲、使用罐裝或瓶裝啤酒為顧客倒酒乙、將罐中或瓶中剩餘啤酒放置酒杯右側、標籤面對顧客丙、從顧客右後方為顧客在桌上擺上杯墊及啤酒杯丁、托盤上擺放所需物品，如杯墊、罐裝啤酒或瓶裝、啤酒杯、開瓶器戊、轉身於顧客後方開罐或者是使用開瓶器開啟瓶裝啤酒",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丁丙戊"
+      },
+      {
+        "id": "B",
+        "text": "乙甲丁丙戊"
+      },
+      {
+        "id": "C",
+        "text": "丙丁戊甲乙"
+      },
+      {
+        "id": "D",
+        "text": "丁丙戊甲乙"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：啤酒、酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：啤酒、酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列罐裝或瓶裝啤酒之飲料服務流程，何者排序正確？甲、使用罐裝或瓶裝啤酒為顧客倒酒乙、將罐中或瓶中剩餘啤酒放置酒杯右側、標籤面對顧客丙、從顧客右後方為顧客在桌上擺上杯墊及啤酒杯丁、托盤上擺放所需物品，如杯墊、罐裝啤酒或瓶裝、啤酒杯、開瓶器戊、轉身於顧客後方開罐或者是使用開瓶器開啟瓶裝啤酒 甲乙丁丙戊 乙甲丁丙戊 丙丁戊甲乙 丁丙戊甲乙 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 3488
+  }
+}

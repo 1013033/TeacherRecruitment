@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p1-q030-c5c7a89dde",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 30 題",
+    "sourceFile": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md",
+    "sourceLocator": "專一\\output\\109-1專一試題\\auto\\109-1專一試題.md#offset-4782",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "關於臺灣餐飲業的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "著名的臺南度小月擔仔麵為臺灣地方特色小吃，創立迄今有 100 多年歷史"
+      },
+      {
+        "id": "B",
+        "text": "臺灣最早的本土連鎖餐飲業品牌，包含三商巧福與鬥牛士，創立於民國 50 年代"
+      },
+      {
+        "id": "C",
+        "text": "著名的台北波麗露 (Bolero)餐廳為臺灣最早的西餐廳，創立於民國 15年"
+      },
+      {
+        "id": "D",
+        "text": "台灣光復時期，在北投一帶盛行的川菜料理又稱酒家菜或官菜，吸引大批日本觀光客來台消費"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業、連鎖"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業、連鎖"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於臺灣餐飲業的敘述，下列何者正確？ 著名的臺南度小月擔仔麵為臺灣地方特色小吃，創立迄今有 100 多年歷史 臺灣最早的本土連鎖餐飲業品牌，包含三商巧福與鬥牛士，創立於民國 50 年代 著名的台北波麗露 (Bolero)餐廳為臺灣最早的西餐廳，創立於民國 15年 台灣光復時期，在北投一帶盛行的川菜料理又稱酒家菜或官菜，吸引大批日本觀光客來台消費 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 466
+  }
+}

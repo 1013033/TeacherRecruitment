@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q018-6e16a1650c",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 18 題",
+    "sourceFile": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md",
+    "sourceLocator": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md#offset-2671",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種塑膠材質耐熱度只有60-80°C，且焚化後會釋放致癌物質，許多國家已經禁止使用？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "PET"
+      },
+      {
+        "id": "B",
+        "text": "PP"
+      },
+      {
+        "id": "C",
+        "text": "PVC"
+      },
+      {
+        "id": "D",
+        "text": "PS"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪一種塑膠材質耐熱度只有60-80°C，且焚化後會釋放致癌物質，許多國家已經禁止使用？ PET PP PVC PS 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 881
+  }
+}

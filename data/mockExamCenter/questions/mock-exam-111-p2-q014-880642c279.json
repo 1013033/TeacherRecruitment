@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q014-880642c279",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 14 題",
+    "sourceFile": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md",
+    "sourceLocator": "111\\output\\111-5專二試題\\auto\\111-5專二試題.md#offset-3480",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列餐飲服務方式中，服勤過程需使用Silver Tray者為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Cloche Service、English Service、Russian Service"
+      },
+      {
+        "id": "B",
+        "text": "French Service、Arm Service、Guéridon Service"
+      },
+      {
+        "id": "C",
+        "text": "Russian Service、Side Table Service、Plate Service"
+      },
+      {
+        "id": "D",
+        "text": "Family Style Service、Butler Service、Guéridon Service"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service、table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service、table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列餐飲服務方式中，服勤過程需使用Silver Tray者為何？ Cloche Service、English Service、Russian Service French Service、Arm Service、Guéridon Service Russian Service、Side Table Service、Plate Service Family Style Service、Butler Service、Guéridon Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2264
+  }
+}

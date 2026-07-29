@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p2-q037-3635b423ff",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 37 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-4117",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "百貨公司內小吃街的櫃檯式餐飲店，其服務作業流程，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "迎客 → 點菜 → 取餐 → 結帳"
+      },
+      {
+        "id": "B",
+        "text": "迎客→點菜→結帳→取餐"
+      },
+      {
+        "id": "C",
+        "text": "迎客 → 結帳 → 點菜 → 取餐"
+      },
+      {
+        "id": "D",
+        "text": "迎客 → 取餐 → 點菜 → 結帳"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：櫃檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：櫃檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "百貨公司內小吃街的櫃檯式餐飲店，其服務作業流程，下列何者正確？ 迎客 → 點菜 → 取餐 → 結帳 迎客→點菜→結帳→取餐 迎客 → 結帳 → 點菜 → 取餐 迎客 → 取餐 → 點菜 → 結帳 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2380
+  }
+}

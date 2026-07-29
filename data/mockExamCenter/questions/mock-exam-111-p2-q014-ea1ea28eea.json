@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q014-ea1ea28eea",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 14 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-4141",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "根據圖(二)套餐菜單進行餐桌擺設，下列哪一個餐具不會出現在餐桌上？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Red Wine Glass"
+      },
+      {
+        "id": "B",
+        "text": "Oyster Fork"
+      },
+      {
+        "id": "C",
+        "text": "Butter Knife"
+      },
+      {
+        "id": "D",
+        "text": "Dinner Knife 圖(二) ## Menu Belon Oyster Cream of Mushroom Soup Grilled Rib-Eye Steak with Wine Crêpes Suzette"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、fork、knife"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具、餐桌、fork、knife"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "根據圖(二)套餐菜單進行餐桌擺設，下列哪一個餐具不會出現在餐桌上？ Red Wine Glass Oyster Fork Butter Knife Dinner Knife 圖(二) ## Menu Belon Oyster Cream of Mushroom Soup Grilled Rib-Eye Steak with Wine Crêpes Suzette 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2167
+  }
+}

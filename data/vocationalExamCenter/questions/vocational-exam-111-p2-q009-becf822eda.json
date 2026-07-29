@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q009-becf822eda",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 9 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-1682",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "關於國際觀光旅館room service的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "為了保持溫度及衛生，所有餐點都必須以服務餐車運送"
+      },
+      {
+        "id": "B",
+        "text": "餐點送達時，如門口Do Not Disturb的燈號亮起，可直接敲門或按鈴，等待房客開門"
+      },
+      {
+        "id": "C",
+        "text": "房務部接受點餐後，須立即填寫一式二聯的訂餐單，一聯送交廚房開始備餐，另一聯送交出納"
+      },
+      {
+        "id": "D",
+        "text": "可提醒房客用餐完畢後，撥打電話由專人來收拾；於30～45分鐘之後，如房客未來電，可主動確認是否需要收拾殘盤"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於國際觀光旅館room service的敘述，下列何者正確？ 為了保持溫度及衛生，所有餐點都必須以服務餐車運送 餐點送達時，如門口Do Not Disturb的燈號亮起，可直接敲門或按鈴，等待房客開門 房務部接受點餐後，須立即填寫一式二聯的訂餐單，一聯送交廚房開始備餐，另一聯送交出納 可提醒房客用餐完畢後，撥打電話由專人來收拾；於30～45分鐘之後，如房客未來電，可主動確認是否需要收拾殘盤 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1819
+  }
+}

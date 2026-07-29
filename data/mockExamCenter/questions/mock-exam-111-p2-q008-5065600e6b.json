@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q008-5065600e6b",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 8 題",
+    "sourceFile": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md",
+    "sourceLocator": "111\\output\\111-3專二試題\\auto\\111-3專二試題.md#offset-1217",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "有關托盤使用時的注意事項，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "圓托盤尺寸以 10吋較為常見"
+      },
+      {
+        "id": "B",
+        "text": "Hand Carry 又稱低搬法，以高姿勢為主"
+      },
+      {
+        "id": "C",
+        "text": "High Carry 又稱上肩托法，適用於 Banquet、Room Service"
+      },
+      {
+        "id": "D",
+        "text": "長托盤可以搭配 Wine Stand，作為輔助服務檯使用"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service、room service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service、room service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關托盤使用時的注意事項，下列何者正確？ 圓托盤尺寸以 10吋較為常見 Hand Carry 又稱低搬法，以高姿勢為主 High Carry 又稱上肩托法，適用於 Banquet、Room Service 長托盤可以搭配 Wine Stand，作為輔助服務檯使用 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2088
+  }
+}

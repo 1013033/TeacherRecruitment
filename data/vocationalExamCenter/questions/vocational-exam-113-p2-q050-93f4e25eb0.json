@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q050-93f4e25eb0",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 50 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-11029",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "今天課程測驗中，學生須依據酒譜，在圖(四)中選出適合的器皿與設備進行製作，下列哪兩位學生在調製時所使用的器皿與設備完全相同？ 圖(四)",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "柾國、光漢"
+      },
+      {
+        "id": "C",
+        "text": "光漢、麥莉"
+      },
+      {
+        "id": "B",
+        "text": "華莎、柾國"
+      },
+      {
+        "id": "D",
+        "text": "華莎、麥莉 【以下空白】 <sup>第</sup> <sub>共</sub> <sup>12</sup> <sub>12</sub> <sup>頁</sup><sub>頁</sub>"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "今天課程測驗中，學生須依據酒譜，在圖(四)中選出適合的器皿與設備進行製作，下列哪兩位學生在調製時所使用的器皿與設備完全相同？ 圖(四) 柾國、光漢 光漢、麥莉 華莎、柾國 華莎、麥莉 【以下空白】 <sup>第</sup> <sub>共</sub> <sup>12</sup> <sub>12</sub> <sup>頁</sup><sub>頁</sub> 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1957
+  }
+}

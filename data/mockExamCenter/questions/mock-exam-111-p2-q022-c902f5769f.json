@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q022-c902f5769f",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 22 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-5494",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "有關餐中酒的服務流程中，小樺服務員要為客人收拾酒杯時，須要在正確的時間點向前示意詢問，並收拾。下列時間點何者不正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "客人若點兩款以上的酒，第一款酒瓶中仍有餘酒時"
+      },
+      {
+        "id": "B",
+        "text": "瓶中無餘酒，且確定顧客不再續開新酒"
+      },
+      {
+        "id": "C",
+        "text": "服務第二款酒之前，客人酒杯已無餘酒"
+      },
+      {
+        "id": "D",
+        "text": "準備上甜點前，可禮貌詢問客人是否要繼續飲用"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：酒杯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：酒杯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐中酒的服務流程中，小樺服務員要為客人收拾酒杯時，須要在正確的時間點向前示意詢問，並收拾。下列時間點何者不正確？ 客人若點兩款以上的酒，第一款酒瓶中仍有餘酒時 瓶中無餘酒，且確定顧客不再續開新酒 服務第二款酒之前，客人酒杯已無餘酒 準備上甜點前，可禮貌詢問客人是否要繼續飲用 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2175
+  }
+}

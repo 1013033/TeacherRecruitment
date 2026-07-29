@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q013-84fcb08623",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 13 題",
+    "sourceFile": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md",
+    "sourceLocator": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md#offset-2404",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列餐飲連鎖品牌中，屬於臺灣餐飲業者自創經營者為何？甲、鼎泰豐(Din Tai Fung) 乙、丹丹漢堡丙、85 度 C 丁、拿坡里披薩(Napoli)己、星巴客咖啡(Starbucks Coffee)",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙戊"
+      },
+      {
+        "id": "B",
+        "text": "甲乙丙戊己"
+      },
+      {
+        "id": "C",
+        "text": "甲乙丙丁戊"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丙丁戊己"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐飲業、連鎖"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐飲業、連鎖"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列餐飲連鎖品牌中，屬於臺灣餐飲業者自創經營者為何？甲、鼎泰豐(Din Tai Fung) 乙、丹丹漢堡丙、85 度 C 丁、拿坡里披薩(Napoli)己、星巴客咖啡(Starbucks Coffee) 甲乙丙戊 甲乙丙戊己 甲乙丙丁戊 甲乙丙丁戊己 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 362
+  }
+}

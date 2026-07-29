@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q014-e867b5823e",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 14 題",
+    "sourceFile": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md",
+    "sourceLocator": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md#offset-1843",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "下列何種類型的餐飲服務，設有座位區供顧客享用美食佳餚？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Cabin Catering Service"
+      },
+      {
+        "id": "B",
+        "text": "Mobile Canteen Service"
+      },
+      {
+        "id": "C",
+        "text": "Drive-in Service"
+      },
+      {
+        "id": "D",
+        "text": "Take-away Service"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何種類型的餐飲服務，設有座位區供顧客享用美食佳餚？ Cabin Catering Service Mobile Canteen Service Drive-in Service Take-away Service 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 227
+  }
+}

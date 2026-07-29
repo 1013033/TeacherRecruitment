@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p2-q028-b14ad625c7",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 28 題",
+    "sourceFile": "113\\output\\113-1-四技二專-17餐旅群 專二試題\\auto\\113-1-四技二專-17餐旅群 專二試題.md",
+    "sourceLocator": "113\\output\\113-1-四技二專-17餐旅群 專二試題\\auto\\113-1-四技二專-17餐旅群 專二試題.md#offset-3973",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "酒吧有沙發座位並播放音樂，著重店家整體氣氛，提供顧客舒適與休閒場所。若根據酒吧設置的位置來分類，應屬於下列哪一種酒吧？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Sky Bar"
+      },
+      {
+        "id": "B",
+        "text": "Lobby Bar"
+      },
+      {
+        "id": "C",
+        "text": "Mini Bar"
+      },
+      {
+        "id": "D",
+        "text": "Lounge Bar"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "酒吧有沙發座位並播放音樂，著重店家整體氣氛，提供顧客舒適與休閒場所。若根據酒吧設置的位置來分類，應屬於下列哪一種酒吧？ Sky Bar Lobby Bar Mini Bar Lounge Bar 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2820
+  }
+}

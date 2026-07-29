@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-104-p2-q044-e2fbe8bceb",
+    "sourceYear": 104,
+    "sourceLabel": "104 年 專業科目(二) 第 44 題",
+    "sourceFile": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md",
+    "sourceLocator": "專二\\output\\104-1專二試題\\auto\\104-1專二試題.md#offset-5621",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "關於吧檯作業與酒類服務之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "sommelier為法式餐廳特有的專業桌邊烹飪師"
+      },
+      {
+        "id": "B",
+        "text": "decant為避免陳年紅酒沉澱物倒入杯中的處理過程"
+      },
+      {
+        "id": "C",
+        "text": "house wine意指餐廳允許客人可自行攜帶之葡萄酒"
+      },
+      {
+        "id": "D",
+        "text": "under bar為餐廳各區專屬吧檯，具展示與陳列功能"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒、bar、吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒、bar、吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於吧檯作業與酒類服務之敘述，下列何者正確？ sommelier為法式餐廳特有的專業桌邊烹飪師 decant為避免陳年紅酒沉澱物倒入杯中的處理過程 house wine意指餐廳允許客人可自行攜帶之葡萄酒 under bar為餐廳各區專屬吧檯，具展示與陳列功能 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1531
+  }
+}

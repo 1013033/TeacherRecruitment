@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p1-q043-b8afd3378a",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(一) 第 43 題",
+    "sourceFile": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md",
+    "sourceLocator": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md#offset-4275",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "王先生為餐廳的採購人員、林小姐是餐廳的副理、李先生是餐廳的服務員、張小姐是餐廳的調酒員；原則上哪一個人因為職務編制的屬性不同，上班時可以不用穿著餐廳制服？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "王先生"
+      },
+      {
+        "id": "B",
+        "text": "林小姐"
+      },
+      {
+        "id": "C",
+        "text": "李先生"
+      },
+      {
+        "id": "D",
+        "text": "張小姐"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "王先生為餐廳的採購人員、林小姐是餐廳的副理、李先生是餐廳的服務員、張小姐是餐廳的調酒員；原則上哪一個人因為職務編制的屬性不同，上班時可以不用穿著餐廳制服？ 王先生 林小姐 李先生 張小姐 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1095
+  }
+}

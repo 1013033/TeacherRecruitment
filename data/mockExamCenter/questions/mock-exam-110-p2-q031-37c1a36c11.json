@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q031-37c1a36c11",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 31 題",
+    "sourceFile": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md",
+    "sourceLocator": "110\\output\\110-5專二試題\\auto\\110-5專二試題.md#offset-7135",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "調製飲料時，會利用飲料中酒精、糖分比重的差異，調製出層次分明的效果。當香甜酒的含糖量高且比重較重時，會先加入杯中；而酒精濃度高且比重較輕時，則較晚加入杯中，使其浮在前一項材料之上層，上述說明是指哪一種調製法？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Layer"
+      },
+      {
+        "id": "B",
+        "text": "Pour"
+      },
+      {
+        "id": "C",
+        "text": "Float"
+      },
+      {
+        "id": "D",
+        "text": "Shake"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "調製飲料時，會利用飲料中酒精、糖分比重的差異，調製出層次分明的效果。當香甜酒的含糖量高且比重較重時，會先加入杯中；而酒精濃度高且比重較輕時，則較晚加入杯中，使其浮在前一項材料之上層，上述說明是指哪一種調製法？ Layer Pour Float Shake 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1828
+  }
+}

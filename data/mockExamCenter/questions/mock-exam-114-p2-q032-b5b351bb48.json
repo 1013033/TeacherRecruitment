@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q032-b5b351bb48",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 32 題",
+    "sourceFile": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md",
+    "sourceLocator": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md#offset-8892",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "oco 到連鎖手搖飲店購買飲品，要求「微糖、去冰」。服務人員在調製與說明時，需兼顧飲品品質與消費資訊透明。下列敘述何者最不恰當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "業者主動揭示飲料所含糖量、熱量、咖啡因、原料產地、果蔬汁含量及實際容量"
+      },
+      {
+        "id": "B",
+        "text": "「去冰」可能影響飲品風味濃度，服務人員宜事先向消費者說明可能產生之差異"
+      },
+      {
+        "id": "C",
+        "text": "為維持風味比例，各家飲料店一律禁止於「去冰」後補足容量，此為業界遵循規範"
+      },
+      {
+        "id": "D",
+        "text": "提供糖度與冰塊之客製化調整服務，雖增加溝通流程，但有助於滿足多元消費需求"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "oco 到連鎖手搖飲店購買飲品，要求「微糖、去冰」。服務人員在調製與說明時，需兼顧飲品品質與消費資訊透明。下列敘述何者最不恰當？ 業者主動揭示飲料所含糖量、熱量、咖啡因、原料產地、果蔬汁含量及實際容量 「去冰」可能影響飲品風味濃度，服務人員宜事先向消費者說明可能產生之差異 為維持風味比例，各家飲料店一律禁止於「去冰」後補足容量，此為業界遵循規範 提供糖度與冰塊之客製化調整服務，雖增加溝通流程，但有助於滿足多元消費需求 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3688
+  }
+}

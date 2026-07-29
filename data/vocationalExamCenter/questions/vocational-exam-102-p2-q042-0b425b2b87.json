@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q042-0b425b2b87",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 42 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-5178",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "關於營業用半自動義式咖啡機使用之敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡粉與水之比例為 14g：30ml"
+      },
+      {
+        "id": "B",
+        "text": "萃取 30ml 濃縮咖啡的時間，以 20\\~30 秒為佳"
+      },
+      {
+        "id": "C",
+        "text": "為避免萃取咖啡之流速過快，可透過磨細咖啡粉或增加填壓力道來改善"
+      },
+      {
+        "id": "D",
+        "text": "按壓沖煮鍵萃取濃縮咖啡時，咖啡機之壓力表跳至約 9個大氣壓力屬於正常現象"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於營業用半自動義式咖啡機使用之敘述，下列何者錯誤？ 咖啡粉與水之比例為 14g：30ml 萃取 30ml 濃縮咖啡的時間，以 20\\~30 秒為佳 為避免萃取咖啡之流速過快，可透過磨細咖啡粉或增加填壓力道來改善 按壓沖煮鍵萃取濃縮咖啡時，咖啡機之壓力表跳至約 9個大氣壓力屬於正常現象 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1430
+  }
+}

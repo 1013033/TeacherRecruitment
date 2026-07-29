@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q035-f825493967",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 35 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-5357",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "下列哪一款飲料屬於 Tall Drink？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Manhattan"
+      },
+      {
+        "id": "B",
+        "text": "Martini"
+      },
+      {
+        "id": "C",
+        "text": "Pink Lady"
+      },
+      {
+        "id": "D",
+        "text": "Screw Driver"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：martini"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：martini"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一款飲料屬於 Tall Drink？ Manhattan Martini Pink Lady Screw Driver 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 616
+  }
+}

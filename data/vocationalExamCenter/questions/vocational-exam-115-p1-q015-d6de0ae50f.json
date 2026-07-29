@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p1-q015-d6de0ae50f",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 15 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-3522",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "樂樂飯店任職的四位員工各自的工作內容如表(一)，關於其所屬部門下列何者正確？ <table><tr><td rowspan=1 colspan=1>姓名</td><td rowspan=1 colspan=1>工作内容</td></tr><tr><td rowspan=1 colspan=1>小陳</td><td rowspan=1 colspan=1>前往機場接待旅客</td></tr><tr><td rowspan=1 colspan=1>小謝</td><td rowspan=1 colspan=1>代表飯店對外發言</td></tr><tr><td rowspan=1 colspan=1>小林</td><td rowspan=1 colspan=1>開發客源與拜訪客戶</td></tr><tr><td rowspan=1 colspan=1>小宋</td><td rowspan=1 colspan=1>貴重物品保管與外幣兌換</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "小陳隸屬於 front office department"
+      },
+      {
+        "id": "C",
+        "text": "小林隸屬於 public relations department"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：table"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：table"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "樂樂飯店任職的四位員工各自的工作內容如表(一)，關於其所屬部門下列何者正確？ <table><tr><td rowspan=1 colspan=1>姓名</td><td rowspan=1 colspan=1>工作内容</td></tr><tr><td rowspan=1 colspan=1>小陳</td><td rowspan=1 colspan=1>前往機場接待旅客</td></tr><tr><td rowspan=1 colspan=1>小謝</td><td rowspan=1 colspan=1>代表飯店對外發言</td></tr><tr><td rowspan=1 colspan=1>小林</td><td rowspan=1 colspan=1>開發客源與拜訪客戶</td></tr><tr><td rowspan=1 colspan=1>小宋</td><td rowspan=1 colspan=1>貴重物品保管與外幣兌換</td></tr></table> 小陳隸屬於 front office department 小林隸屬於 public relations department 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 750
+  }
+}

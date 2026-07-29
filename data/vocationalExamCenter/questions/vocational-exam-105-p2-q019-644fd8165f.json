@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p2-q019-644fd8165f",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(二) 第 19 題",
+    "sourceFile": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md",
+    "sourceLocator": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md#offset-2836",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於用餐禮儀，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "飲用葡萄酒時宜以手握住杯身，增加葡萄酒香氣"
+      },
+      {
+        "id": "B",
+        "text": "食用西餐時宜將麵包浸泡於湯品中，以增添美味"
+      },
+      {
+        "id": "C",
+        "text": "將口布置放於餐盤上，意在告知服務人員已用餐完畢，即將離開"
+      },
+      {
+        "id": "D",
+        "text": "西餐席次安排「3P」原則，意指賓客間之地位、政治情勢、人際關係"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於用餐禮儀，下列敘述何者正確？ 飲用葡萄酒時宜以手握住杯身，增加葡萄酒香氣 食用西餐時宜將麵包浸泡於湯品中，以增添美味 將口布置放於餐盤上，意在告知服務人員已用餐完畢，即將離開 西餐席次安排「3P」原則，意指賓客間之地位、政治情勢、人際關係 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1556
+  }
+}

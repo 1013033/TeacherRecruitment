@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q043-28b860df7d",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 43 題",
+    "sourceFile": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md",
+    "sourceLocator": "114\\output\\114-5專二試題\\auto\\114-5專二試題.md#offset-11695",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "有關「Distilled Spirits」與「Brewed」之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Ginger Beer 屬於 Brewed，Irish Whiskey 屬於 Distilled Spirits"
+      },
+      {
+        "id": "B",
+        "text": "Distilled Spirits 的酒精濃度普遍低於 Brewed"
+      },
+      {
+        "id": "C",
+        "text": "Cognac 以 Wine 為基底進行蒸餾，屬於 Distilled Spirits"
+      },
+      {
+        "id": "D",
+        "text": "日本「燒酎」、「清酒」和韓國「真露酒」皆屬 Distilled Spirits"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：gin、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：gin、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關「Distilled Spirits」與「Brewed」之敘述，下列何者正確？ Ginger Beer 屬於 Brewed，Irish Whiskey 屬於 Distilled Spirits Distilled Spirits 的酒精濃度普遍低於 Brewed Cognac 以 Wine 為基底進行蒸餾，屬於 Distilled Spirits 日本「燒酎」、「清酒」和韓國「真露酒」皆屬 Distilled Spirits 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 3699
+  }
+}

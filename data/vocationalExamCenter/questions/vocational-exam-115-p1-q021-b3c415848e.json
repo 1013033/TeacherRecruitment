@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-115-p1-q021-b3c415848e",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 21 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-7163",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "「北歐極光攝影主題團」在規劃初期，極光攝影協會提出需求有：指定拍攝點與時段、增加夜拍教學、並保留依天候調整停留地點的彈性；旅行社再依協會需求完成專屬路線與日程安排。此種行程最符合下列哪一種旅遊類型？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "independent tour"
+      },
+      {
+        "id": "B",
+        "text": "optional tour"
+      },
+      {
+        "id": "C",
+        "text": "ready made tour"
+      },
+      {
+        "id": "D",
+        "text": "tailor made tour"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行社、tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行社、tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「北歐極光攝影主題團」在規劃初期，極光攝影協會提出需求有：指定拍攝點與時段、增加夜拍教學、並保留依天候調整停留地點的彈性；旅行社再依協會需求完成專屬路線與日程安排。此種行程最符合下列哪一種旅遊類型？ independent tour optional tour ready made tour tailor made tour 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 756
+  }
+}

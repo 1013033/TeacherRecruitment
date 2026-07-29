@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q003-bdc6a832a7",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 3 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-1103",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "小八家除夕向專賣粵菜的品悅餐廳訂了一桌年菜，下列哪一組合的菜餚會出現在年菜的菜單上？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "燒鵝、佛跳牆、荷葉蒸肉"
+      },
+      {
+        "id": "B",
+        "text": "醉雞、紅蟳米糕、乾燒明蝦"
+      },
+      {
+        "id": "C",
+        "text": "鹽焗雞、八寶蟳飯、生菜蝦鬆"
+      },
+      {
+        "id": "D",
+        "text": "烤乳豬、京都排骨、腰果蝦仁"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小八家除夕向專賣粵菜的品悅餐廳訂了一桌年菜，下列哪一組合的菜餚會出現在年菜的菜單上？ 燒鵝、佛跳牆、荷葉蒸肉 醉雞、紅蟳米糕、乾燒明蝦 鹽焗雞、八寶蟳飯、生菜蝦鬆 烤乳豬、京都排骨、腰果蝦仁 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 688
+  }
+}

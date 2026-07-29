@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q021-ec71a537a8",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 21 題",
+    "sourceFile": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md",
+    "sourceLocator": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md#offset-4112",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "中餐宴會為客人服務全魚時，如以客人方向為主，應：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "魚頭朝右，魚腹向外"
+      },
+      {
+        "id": "B",
+        "text": "魚頭朝右，魚腹向內"
+      },
+      {
+        "id": "C",
+        "text": "魚頭朝左，魚腹向外"
+      },
+      {
+        "id": "D",
+        "text": "魚頭朝左，魚腹向內"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：中餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：中餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中餐宴會為客人服務全魚時，如以客人方向為主，應： 魚頭朝右，魚腹向外 魚頭朝右，魚腹向內 魚頭朝左，魚腹向外 魚頭朝左，魚腹向內 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 695
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q026-9eeb0efd3b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 26 題",
+    "sourceFile": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md",
+    "sourceLocator": "109\\output\\109-2專二試題\\auto\\109-2專二試題.md#offset-5338",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "依餐廳提供Muscat 白酒的服務流程排列，下列何者正確？甲、點酒 乙、開瓶 丙、倒酒 丁、試酒 戊、秀酒 己、調整酒溫",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→己→丙→丁→戊"
+      },
+      {
+        "id": "B",
+        "text": "甲→戊→己→乙→丁→丙"
+      },
+      {
+        "id": "C",
+        "text": "甲→己→丙→戊→乙→丁"
+      },
+      {
+        "id": "D",
+        "text": "甲→己→丁→乙→丙→戊"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依餐廳提供Muscat 白酒的服務流程排列，下列何者正確？甲、點酒 乙、開瓶 丙、倒酒 丁、試酒 戊、秀酒 己、調整酒溫 甲→乙→己→丙→丁→戊 甲→戊→己→乙→丁→丙 甲→己→丙→戊→乙→丁 甲→己→丁→乙→丙→戊 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1073
+  }
+}

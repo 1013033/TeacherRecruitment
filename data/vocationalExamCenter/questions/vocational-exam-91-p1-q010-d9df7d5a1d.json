@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p1-q010-d9df7d5a1d",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(一) 第 10 題",
+    "sourceFile": "專一\\output\\91專一\\auto\\91專一.md",
+    "sourceLocator": "專一\\output\\91專一\\auto\\91專一.md#offset-1505",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "每一本機票均有其本身的機票票號（Ticket Number）計14位數，其中第5位數代表的意義是：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "航空公司本身的代號"
+      },
+      {
+        "id": "B",
+        "text": "機票本身的檢查號碼"
+      },
+      {
+        "id": "C",
+        "text": "這本機票本身的搭乘票根數"
+      },
+      {
+        "id": "D",
+        "text": "區別機票來源的號碼"
+      }
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：航空、機票"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：航空、機票"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "每一本機票均有其本身的機票票號（Ticket Number）計14位數，其中第5位數代表的意義是： 航空公司本身的代號 機票本身的檢查號碼 這本機票本身的搭乘票根數 區別機票來源的號碼 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 835
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p1-q009-202395054d",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md",
+    "sourceLocator": "專一\\output\\113-1專一試題\\auto\\113-1專一試題.md#offset-2618",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "依據餐廳經營管理的特性與內涵，下列哪些敘述正確？甲：餐飲業具勞力密集度高的特性，易造成基層員工流動率高乙：餐廳提供的有形商品包含給予顧客的心理認知與感官知覺的感受丙：因應餐飲差異化特質，不同服務人員可依自己習慣進行不同服務流程丁：餐飲消費易受外在因素影響，精確預估餐廳採購量與銷售量是不容易的",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "甲、丁"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據餐廳經營管理的特性與內涵，下列哪些敘述正確？甲：餐飲業具勞力密集度高的特性，易造成基層員工流動率高乙：餐廳提供的有形商品包含給予顧客的心理認知與感官知覺的感受丙：因應餐飲差異化特質，不同服務人員可依自己習慣進行不同服務流程丁：餐飲消費易受外在因素影響，精確預估餐廳採購量與銷售量是不容易的 甲、乙 乙、丙 甲、丁 丙、丁 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 644
+  }
+}

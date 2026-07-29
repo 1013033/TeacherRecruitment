@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p1-q047-ea25bd14e0",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(一) 第 47 題",
+    "sourceFile": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md",
+    "sourceLocator": "專一\\output\\97-1專一試題\\auto\\97-1專一試題.md#offset-5527",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "下列何者最不符合永續發展的原則？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "飯店用水的循環利用"
+      },
+      {
+        "id": "B",
+        "text": "利用當地稀有動物，製作特色風味餐"
+      },
+      {
+        "id": "C",
+        "text": "尋找美麗的景點，讓遊客拍照留念"
+      },
+      {
+        "id": "D",
+        "text": "在歷史遺跡景點，限制每次可以參訪的遊客總數"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飯店"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飯店"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者最不符合永續發展的原則？ 飯店用水的循環利用 利用當地稀有動物，製作特色風味餐 尋找美麗的景點，讓遊客拍照留念 在歷史遺跡景點，限制每次可以參訪的遊客總數 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1198
+  }
+}

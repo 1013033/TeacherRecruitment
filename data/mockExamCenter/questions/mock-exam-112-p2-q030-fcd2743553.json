@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p2-q030-fcd2743553",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 30 題",
+    "sourceFile": "112\\output\\112-2-四技二專-17餐旅群專二試題\\auto\\112-2-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "112\\output\\112-2-四技二專-17餐旅群專二試題\\auto\\112-2-四技二專-17餐旅群專二試題.md#offset-4561",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "obbyBar 的 Bartender 在了解吧檯前方的客人點選威士忌後，便開始使用 Ice Pick 進行前置作業，請問應準備搭配下列何者，以便能在時間內將飲品送到客人面前？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Brick of Ice、Shot Glass"
+      },
+      {
+        "id": "B",
+        "text": "Ice Ball、Rack Glass"
+      },
+      {
+        "id": "C",
+        "text": "Cube Iced、Highball"
+      },
+      {
+        "id": "D",
+        "text": "Crush Iced、Coupette Glass"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：威士忌、bar、吧檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：威士忌、bar、吧檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "obbyBar 的 Bartender 在了解吧檯前方的客人點選威士忌後，便開始使用 Ice Pick 進行前置作業，請問應準備搭配下列何者，以便能在時間內將飲品送到客人面前？ Brick of Ice、Shot Glass Ice Ball、Rack Glass Cube Iced、Highball Crush Iced、Coupette Glass 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 2456
+  }
+}

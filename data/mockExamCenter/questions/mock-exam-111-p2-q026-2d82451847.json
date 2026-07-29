@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q026-2d82451847",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 26 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-6113",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "有關飲品標示規範的說明，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "未含果蔬汁的飲料，應標示風味或口味"
+      },
+      {
+        "id": "B",
+        "text": "咖啡飲料依不同咖啡因含量，以咖啡色、紅色、黃色三色標示"
+      },
+      {
+        "id": "C",
+        "text": "果蔬汁成分比例，以 30%為基準，高於 30%可標示「汁」，未滿 30%僅能稱之為「果蔬飲料"
+      },
+      {
+        "id": "D",
+        "text": "茶葉原產地清楚標示來源，若來源為兩種以上，應按含量多寡由低至高標示"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關飲品標示規範的說明，下列敘述何者正確？ 未含果蔬汁的飲料，應標示風味或口味 咖啡飲料依不同咖啡因含量，以咖啡色、紅色、黃色三色標示 果蔬汁成分比例，以 30%為基準，高於 30%可標示「汁」，未滿 30%僅能稱之為「果蔬飲料 茶葉原產地清楚標示來源，若來源為兩種以上，應按含量多寡由低至高標示 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2179
+  }
+}

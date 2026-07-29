@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q047-c67bf26f14",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 47 題",
+    "sourceFile": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md",
+    "sourceLocator": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md#offset-8971",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "大正和同學於旅途中前往Fine-Dining餐廳用餐，菜單上的牛排，原料總重為10公斤，去除筋膜、修整後剩下9公斤，經由烹煮後，得知烹調損耗率為20%，請依以上條件求得可食用率為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "90%"
+      },
+      {
+        "id": "B",
+        "text": "81%"
+      },
+      {
+        "id": "C",
+        "text": "72%"
+      },
+      {
+        "id": "D",
+        "text": "63%"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "大正和同學於旅途中前往Fine-Dining餐廳用餐，菜單上的牛排，原料總重為10公斤，去除筋膜、修整後剩下9公斤，經由烹煮後，得知烹調損耗率為20%，請依以上條件求得可食用率為何？ 90% 81% 72% 63% 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1606
+  }
+}

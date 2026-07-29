@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q017-661fdd0aec",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 17 題",
+    "sourceFile": "108\\output\\118-2專一試題\\auto\\118-2專一試題.md",
+    "sourceLocator": "108\\output\\118-2專一試題\\auto\\118-2專一試題.md#offset-2450",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "中國餐飲文化博大精深，講究食治、藥膳、養老食療的專論典籍為數眾多，回溯始源，最早源自下列何本著作帶領探究風潮？ 方》",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "陸羽所著《茶經》"
+      },
+      {
+        "id": "B",
+        "text": "忽思慧所著《飲膳正要》"
+      },
+      {
+        "id": "C",
+        "text": "孫思邈所著《備急千金要"
+      },
+      {
+        "id": "D",
+        "text": "袁枚所著《隨園食單》"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中國餐飲文化博大精深，講究食治、藥膳、養老食療的專論典籍為數眾多，回溯始源，最早源自下列何本著作帶領探究風潮？ 方》 陸羽所著《茶經》 忽思慧所著《飲膳正要》 孫思邈所著《備急千金要 袁枚所著《隨園食單》 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 554
+  }
+}

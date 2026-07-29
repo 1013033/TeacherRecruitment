@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p2-q004-cdaedff035",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 4 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-718",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "鹽焗雞、奶油焗白菜、鹽焗中蝦等菜餚中，「焗」是下列哪一種菜系的做法？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "台菜"
+      },
+      {
+        "id": "B",
+        "text": "廣東菜"
+      },
+      {
+        "id": "C",
+        "text": "江浙菜"
+      },
+      {
+        "id": "D",
+        "text": "川菜"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜系"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜系"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "鹽焗雞、奶油焗白菜、鹽焗中蝦等菜餚中，「焗」是下列哪一種菜系的做法？ 台菜 廣東菜 江浙菜 川菜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2347
+  }
+}

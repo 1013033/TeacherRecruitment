@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q029-931f632c37",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 29 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-2797",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 29,
+    "questionType": "single-choice",
+    "prompt": "下列關於盤存週轉率（Inventory Turnover Rate）的說明，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "盤存週轉率是將發貨量除以平均盤存量的比率"
+      },
+      {
+        "id": "B",
+        "text": "平均盤存量為期中進貨加期末盤存量除以2"
+      },
+      {
+        "id": "C",
+        "text": "盤存週轉率太高，表示呆滯物品太多"
+      },
+      {
+        "id": "D",
+        "text": "盤存週轉率太低，表示有缺貨的危機"
+      }
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review",
+      "missing-answer"
+    ],
+    "searchText": "下列關於盤存週轉率（Inventory Turnover Rate）的說明，何者正確？ 盤存週轉率是將發貨量除以平均盤存量的比率 平均盤存量為期中進貨加期末盤存量除以2 盤存週轉率太高，表示呆滯物品太多 盤存週轉率太低，表示有缺貨的危機 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2082
+  }
+}

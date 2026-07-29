@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q015-280a4d8c8a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 15 題",
+    "sourceFile": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "111\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-2883",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "本土新冠疫情盡頭難見，學校停課連帶也影響到營養午餐的團膳業者，為減少損失，業者紛紛轉做套餐外賣。假設每月固定成本為 63 萬，變動成本率為50%，每份套餐售價為$190，本月利潤目標為 32萬，團膳業者最少應賣出幾份套餐才能達成此目標？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "10,000 套"
+      },
+      {
+        "id": "B",
+        "text": "6,631 套"
+      },
+      {
+        "id": "C",
+        "text": "5,000 套"
+      },
+      {
+        "id": "D",
+        "text": "3,368 套"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "本土新冠疫情盡頭難見，學校停課連帶也影響到營養午餐的團膳業者，為減少損失，業者紛紛轉做套餐外賣。假設每月固定成本為 63 萬，變動成本率為50%，每份套餐售價為$190，本月利潤目標為 32萬，團膳業者最少應賣出幾份套餐才能達成此目標？ 10,000 套 6,631 套 5,000 套 3,368 套 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1862
+  }
+}

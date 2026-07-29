@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q044-11e35168b0",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 44 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-6279",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "下列各個茶文化發展的里程碑，發生的先後順序為何？甲、爾雅中記載：「檟，苦荼」，亦為茶湯的味道苦澀乙、皇帝頒布召令，廢團茶、興茶葉，間接促進了中國紅茶的生產丙、陸羽撰寫茶經一書，記載當時的飲茶文化丁、荷蘭商船將中國的紅茶引進歐洲，影響後續英國的飲茶文化",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "丙→乙→甲→丁"
+      },
+      {
+        "id": "B",
+        "text": "丙→甲→乙→丁"
+      },
+      {
+        "id": "C",
+        "text": "甲→丙→乙→丁"
+      },
+      {
+        "id": "D",
+        "text": "甲→丙→丁→乙"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各個茶文化發展的里程碑，發生的先後順序為何？甲、爾雅中記載：「檟，苦荼」，亦為茶湯的味道苦澀乙、皇帝頒布召令，廢團茶、興茶葉，間接促進了中國紅茶的生產丙、陸羽撰寫茶經一書，記載當時的飲茶文化丁、荷蘭商船將中國的紅茶引進歐洲，影響後續英國的飲茶文化 丙→乙→甲→丁 丙→甲→乙→丁 甲→丙→乙→丁 甲→丙→丁→乙 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 625
+  }
+}

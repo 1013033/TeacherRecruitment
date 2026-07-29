@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q037-4cd156963e",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 37 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-6928",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 37,
+    "questionType": "single-choice",
+    "prompt": "阿方的咖啡吧檯中有著手沖壺、虹吸式咖啡壺以及半自動式義大利咖啡機器。走進來2位顧客小陳與小林，小林說想要來一杯具有濃郁crema香氣的espresso，小陳則說他不喜歡crema，他需要一杯酸味較高的單品咖啡。在正確操作器具且不考慮其他因素之下，下列哪個做法最為適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以虹吸式咖啡壺，在下球放入咖啡粉，沖煮一杯具濃郁crema香氣的espresso給小林"
+      },
+      {
+        "id": "B",
+        "text": "以手沖壺濾滴方式，慢慢地沖泡出一杯具濃郁crema香氣的espresso給小林"
+      },
+      {
+        "id": "C",
+        "text": "以手沖壺濾滴方式，沖泡一杯淺烘焙的單品咖啡給小陳"
+      },
+      {
+        "id": "D",
+        "text": "以義式咖啡機萃取一杯淺烘焙的單品咖啡給小陳"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡、espresso、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡、espresso、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿方的咖啡吧檯中有著手沖壺、虹吸式咖啡壺以及半自動式義大利咖啡機器。走進來2位顧客小陳與小林，小林說想要來一杯具有濃郁crema香氣的espresso，小陳則說他不喜歡crema，他需要一杯酸味較高的單品咖啡。在正確操作器具且不考慮其他因素之下，下列哪個做法最為適當？ 以虹吸式咖啡壺，在下球放入咖啡粉，沖煮一杯具濃郁crema香氣的espresso給小林 以手沖壺濾滴方式，慢慢地沖泡出一杯具濃郁crema香氣的espresso給小林 以手沖壺濾滴方式，沖泡一杯淺烘焙的單品咖啡給小陳 以義式咖啡機萃取一杯淺烘焙的單品咖啡給小陳 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1846
+  }
+}

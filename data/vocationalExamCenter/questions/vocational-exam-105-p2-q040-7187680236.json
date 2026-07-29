@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p2-q040-7187680236",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(二) 第 40 題",
+    "sourceFile": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md",
+    "sourceLocator": "專二\\output\\105-1專二試題\\auto\\105-1專二試題.md#offset-5509",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "下列何種飲料，經過電動攪拌機調製後、盛裝於杯內之前，原則上皆須使用過濾網過濾？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "西瓜汁、葡萄柚鳳梨汁"
+      },
+      {
+        "id": "B",
+        "text": "西瓜汁、木瓜牛奶"
+      },
+      {
+        "id": "C",
+        "text": "木瓜牛奶、奇異多果汁"
+      },
+      {
+        "id": "D",
+        "text": "葡萄柚鳳梨汁、奇異多果汁"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何種飲料，經過電動攪拌機調製後、盛裝於杯內之前，原則上皆須使用過濾網過濾？ 西瓜汁、葡萄柚鳳梨汁 西瓜汁、木瓜牛奶 木瓜牛奶、奇異多果汁 葡萄柚鳳梨汁、奇異多果汁 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1577
+  }
+}

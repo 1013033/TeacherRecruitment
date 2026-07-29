@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q020-5d30c6947e",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 20 題",
+    "sourceFile": "107\\output\\117-1專一試題\\auto\\117-1專一試題.md",
+    "sourceLocator": "107\\output\\117-1專一試題\\auto\\117-1專一試題.md#offset-2979",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "有關餐廳廚房與顧客用餐場所的格局設計，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "廚房氣壓應保持負壓狀態"
+      },
+      {
+        "id": "B",
+        "text": "貨物進出通道不需與客人動線區隔"
+      },
+      {
+        "id": "C",
+        "text": "顧客用餐場所與廚房之間隔，應保持遠距"
+      },
+      {
+        "id": "D",
+        "text": "廚房調理檯燈光照明度應保持一百米燭光"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐廳廚房與顧客用餐場所的格局設計，下列敘述何者正確？ 廚房氣壓應保持負壓狀態 貨物進出通道不需與客人動線區隔 顧客用餐場所與廚房之間隔，應保持遠距 廚房調理檯燈光照明度應保持一百米燭光 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 20
+  }
+}

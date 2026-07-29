@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p1-q032-1ef84cee34",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 32 題",
+    "sourceFile": "112\\output\\112-5-四技二專-17餐旅群專一試題\\auto\\112-5-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "112\\output\\112-5-四技二專-17餐旅群專一試題\\auto\\112-5-四技二專-17餐旅群專一試題.md#offset-7687",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "美妝公司老闆提出旅遊需求，由旅行社進一步為該公司專門設計符合其需求之行程，是屬於下列哪一種旅遊產品型態？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "City Tour"
+      },
+      {
+        "id": "B",
+        "text": "Optional Tour"
+      },
+      {
+        "id": "C",
+        "text": "Ready-made Tour"
+      },
+      {
+        "id": "D",
+        "text": "Tailor-made Tour ## 美妝公司旅遊需求 地點：韓國 天數：5天(早去晚回或午回) 預算:約3萬5千元(含領隊小費) 住宿：市區4星以上飯店 需求： (1)韓服體驗 (2)色彩鑑定研習課程 (3)韓國美妝公司參觀 (4)醫美療程體驗 (5)汗蒸幕體驗 (6)亂打秀活動 (7)半日自由活動時間 圖(三)"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行社、領隊、tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行社、領隊、tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "美妝公司老闆提出旅遊需求，由旅行社進一步為該公司專門設計符合其需求之行程，是屬於下列哪一種旅遊產品型態？ City Tour Optional Tour Ready-made Tour Tailor-made Tour ## 美妝公司旅遊需求 地點：韓國 天數：5天(早去晚回或午回) 預算:約3萬5千元(含領隊小費) 住宿：市區4星以上飯店 需求： (1)韓服體驗 (2)色彩鑑定研習課程 (3)韓國美妝公司參觀 (4)醫美療程體驗 (5)汗蒸幕體驗 (6)亂打秀活動 (7)半日自由活動時間 圖(三) 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2695
+  }
+}

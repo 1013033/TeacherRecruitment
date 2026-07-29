@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q044-9d4d81c689",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 44 題",
+    "sourceFile": "114\\output\\114-4專一試題\\auto\\114-4專一試題.md",
+    "sourceLocator": "114\\output\\114-4專一試題\\auto\\114-4專一試題.md#offset-9720",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "小強正在整理 2025 年底與家人出遊的照片，偶然找到一張當時留下的廣告，如圖(二)所示，有關這張圖片的內容，下列敘述何者正確？",
+    "images": [
+      {
+        "id": "mock-exam-114-p1-q044-9d4d81c689-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-114-p1-q044-9d4d81c689-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "執飛的長榮航空，其國際航空運輸協會(IATA)代碼為 BA"
+      },
+      {
+        "id": "B",
+        "text": "彩繪機為業者之間的 Cross-Industry Collaboration"
+      },
+      {
+        "id": "C",
+        "text": "乘客購票憑證的起迄欄應寫為 TSA/BUS 或BUS/TSA"
+      },
+      {
+        "id": "D",
+        "text": "這條桃園/釜山來回航線使用的是第一、五航權 圖(二) ## ▲閱讀下文，回答第45-47 題 打工度假(Working Holiday)是我國依「青年打工度假協定」與他國簽訂的官方雙邊交流計畫，允許青年在國外合法從事短期工作，同時深度旅行與文化體驗。截至 2025 年，外交部已與 18 國簽署協定，雙方每年提供固定名額，青年可赴對方國家展開至少一年的打工度假，實現文化沉浸與跨國交流。"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：航空、iata"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：航空、iata"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小強正在整理 2025 年底與家人出遊的照片，偶然找到一張當時留下的廣告，如圖(二)所示，有關這張圖片的內容，下列敘述何者正確？ 執飛的長榮航空，其國際航空運輸協會(IATA)代碼為 BA 彩繪機為業者之間的 Cross-Industry Collaboration 乘客購票憑證的起迄欄應寫為 TSA/BUS 或BUS/TSA 這條桃園/釜山來回航線使用的是第一、五航權 圖(二) ## ▲閱讀下文，回答第45-47 題 打工度假(Working Holiday)是我國依「青年打工度假協定」與他國簽訂的官方雙邊交流計畫，允許青年在國外合法從事短期工作，同時深度旅行與文化體驗。截至 2025 年，外交部已與 18 國簽署協定，雙方每年提供固定名額，青年可赴對方國家展開至少一年的打工度假，實現文化沉浸與跨國交流。 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 3553
+  }
+}

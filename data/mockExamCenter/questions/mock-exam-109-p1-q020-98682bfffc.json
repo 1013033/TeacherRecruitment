@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q020-98682bfffc",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 20 題",
+    "sourceFile": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md",
+    "sourceLocator": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md#offset-3942",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "依據民國105 年10 月修訂之《旅館業管理規則》，下列何者不屬於第6 條所規定之旅館「營業場所」至少應有的空間設置？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "商務中心"
+      },
+      {
+        "id": "B",
+        "text": "客房"
+      },
+      {
+        "id": "C",
+        "text": "浴室"
+      },
+      {
+        "id": "D",
+        "text": "旅客接待處"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據民國105 年10 月修訂之《旅館業管理規則》，下列何者不屬於第6 條所規定之旅館「營業場所」至少應有的空間設置？ 商務中心 客房 浴室 旅客接待處 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1210
+  }
+}

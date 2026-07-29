@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-103-p1-q042-24124635f7",
+    "sourceYear": 103,
+    "sourceLabel": "103 年 專業科目(一) 第 42 題",
+    "sourceFile": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md",
+    "sourceLocator": "專一\\output\\103-1專一試題\\auto\\103-1專一試題.md#offset-5381",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "西式廚房中，Garde manger廚師主要負責的工作為：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "挑選、切割與烹煮蔬菜"
+      },
+      {
+        "id": "B",
+        "text": "負責所有糕點烘焙產品製作"
+      },
+      {
+        "id": "C",
+        "text": "廚房人事、訓練、菜單開發與設計、成本控制等工作"
+      },
+      {
+        "id": "D",
+        "text": "負責冷盤、開胃點心、自助餐檯展示、蔬果與冰雕裝飾"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜單、廚房、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜單、廚房、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西式廚房中，Garde manger廚師主要負責的工作為： 挑選、切割與烹煮蔬菜 負責所有糕點烘焙產品製作 廚房人事、訓練、菜單開發與設計、成本控制等工作 負責冷盤、開胃點心、自助餐檯展示、蔬果與冰雕裝飾 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 179
+  }
+}

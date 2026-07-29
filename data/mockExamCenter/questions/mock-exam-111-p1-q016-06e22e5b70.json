@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q016-06e22e5b70",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 16 題",
+    "sourceFile": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md",
+    "sourceLocator": "111\\output\\111-5專一試題\\auto\\111-5專一試題.md#offset-4240",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "「星級旅館評鑑作業要點」最新版本於民國111 年7月1 日正式生效，法規中明文規定，欲取得「標竿級」等級之旅館，將依其具備之星級基本條件選派幾位評鑑委員以不預警留宿方式予以評分？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "1 位"
+      },
+      {
+        "id": "B",
+        "text": "2 位"
+      },
+      {
+        "id": "C",
+        "text": "3 位"
+      },
+      {
+        "id": "D",
+        "text": "4 位"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「星級旅館評鑑作業要點」最新版本於民國111 年7月1 日正式生效，法規中明文規定，欲取得「標竿級」等級之旅館，將依其具備之星級基本條件選派幾位評鑑委員以不預警留宿方式予以評分？ 1 位 2 位 3 位 4 位 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 2216
+  }
+}

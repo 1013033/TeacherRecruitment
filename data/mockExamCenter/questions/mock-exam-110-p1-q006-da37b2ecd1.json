@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q006-da37b2ecd1",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 6 題",
+    "sourceFile": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md",
+    "sourceLocator": "110\\output\\110-5專一試題\\auto\\110-5專一試題.md#offset-1026",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 6,
+    "questionType": "single-choice",
+    "prompt": "餐飲業經營範疇區分為「餐食業」、「外燴及團膳承包業」及「飲料業」三大類，其分類依據是依下列何種方式進行？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "中華民國行業標準分類"
+      },
+      {
+        "id": "B",
+        "text": "中華民國行業營業項目標準分類"
+      },
+      {
+        "id": "C",
+        "text": "中華民國稅務行業標準分類"
+      },
+      {
+        "id": "D",
+        "text": "中華民國行業組織型態標準分類"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲業經營範疇區分為「餐食業」、「外燴及團膳承包業」及「飲料業」三大類，其分類依據是依下列何種方式進行？ 中華民國行業標準分類 中華民國行業營業項目標準分類 中華民國稅務行業標準分類 中華民國行業組織型態標準分類 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1761
+  }
+}

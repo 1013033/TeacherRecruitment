@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p2-q003-27add55d98",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 3 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-886",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "阿信利用暑假期間到國際觀光旅館餐飲部宴會廳打工，學習餐桌架設、拆除與檯布鋪設技巧。下列他的操作方式何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "不論操作餐桌架設或拆除時，都不應該用腳來做輔助"
+      },
+      {
+        "id": "B",
+        "text": "對於場地及桌面較小時，以「拉鋪式」作為圓桌檯布鋪設方式"
+      },
+      {
+        "id": "C",
+        "text": "搬運餐桌時，方桌、長桌通常用「滾桌」移動，圓桌則以「推車」搬運"
+      },
+      {
+        "id": "D",
+        "text": "不論是長桌、方桌、固定式圓桌或分離式圓桌，架設最後步驟都需要檢查平穩度"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿信利用暑假期間到國際觀光旅館餐飲部宴會廳打工，學習餐桌架設、拆除與檯布鋪設技巧。下列他的操作方式何者正確？ 不論操作餐桌架設或拆除時，都不應該用腳來做輔助 對於場地及桌面較小時，以「拉鋪式」作為圓桌檯布鋪設方式 搬運餐桌時，方桌、長桌通常用「滾桌」移動，圓桌則以「推車」搬運 不論是長桌、方桌、固定式圓桌或分離式圓桌，架設最後步驟都需要檢查平穩度 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1862
+  }
+}

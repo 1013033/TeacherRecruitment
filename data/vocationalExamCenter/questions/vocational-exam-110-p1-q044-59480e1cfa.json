@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q044-59480e1cfa",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 44 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-4751",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "小劉請旅行社代為安排美國客戶至臺灣進行技術支援的住宿，預計先在機場附近休息一晚調整時差，接著到市區拜訪廠商一週，考察結束後到海灘渡假三日，旅行社按其行程依序安排哪些類型的國內旅館最為合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "apartment → villa → commercial"
+      },
+      {
+        "id": "B",
+        "text": "convention → resort → condominium"
+      },
+      {
+        "id": "C",
+        "text": "transit → residential → casino"
+      },
+      {
+        "id": "D",
+        "text": "transit → commercial → resort"
+      }
+    ],
+    "answer": "D",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、住宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、住宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小劉請旅行社代為安排美國客戶至臺灣進行技術支援的住宿，預計先在機場附近休息一晚調整時差，接著到市區拜訪廠商一週，考察結束後到海灘渡假三日，旅行社按其行程依序安排哪些類型的國內旅館最為合適？ apartment → villa → commercial convention → resort → condominium transit → residential → casino transit → commercial → resort 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 530
+  }
+}

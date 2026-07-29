@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q040-d84387dffb",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 40 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-7401",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "下列哪幾款市售飲料中的兒茶素含量相對較低？甲：印度拉茶 乙：水果茶 丙：抹茶拿鐵 丁：烏龍青茶 戊：綠茶多多己：鴛鴦奶茶",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、己"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙、戊"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙、戊"
+      },
+      {
+        "id": "D",
+        "text": "乙、丁、己"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、綠茶、烏龍、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、綠茶、烏龍、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪幾款市售飲料中的兒茶素含量相對較低？甲：印度拉茶 乙：水果茶 丙：抹茶拿鐵 丁：烏龍青茶 戊：綠茶多多己：鴛鴦奶茶 甲、乙、己 甲、丙、戊 乙、丙、戊 乙、丁、己 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1849
+  }
+}

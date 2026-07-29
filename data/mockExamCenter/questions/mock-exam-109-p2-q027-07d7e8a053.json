@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q027-07d7e8a053",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 27 題",
+    "sourceFile": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md",
+    "sourceLocator": "109\\output\\109-5專二試題\\auto\\109-5專二試題.md#offset-4194",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "房務人員進入客房之前，應在輕敲房門三下或按鈴時，同時以適當音量輕喊哪一句話？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Housekeeping"
+      },
+      {
+        "id": "B",
+        "text": "Room Service"
+      },
+      {
+        "id": "C",
+        "text": "May I come in"
+      },
+      {
+        "id": "D",
+        "text": "Anybody Home"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：客房、housekeeping、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：客房、housekeeping、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "房務人員進入客房之前，應在輕敲房門三下或按鈴時，同時以適當音量輕喊哪一句話？ Housekeeping Room Service May I come in Anybody Home 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1340
+  }
+}

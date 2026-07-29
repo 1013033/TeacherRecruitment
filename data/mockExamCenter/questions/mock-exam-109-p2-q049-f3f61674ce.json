@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p2-q049-f3f61674ce",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 49 題",
+    "sourceFile": "109\\output\\109-4專二試題\\auto\\109-4專二試題.md",
+    "sourceLocator": "109\\output\\109-4專二試題\\auto\\109-4專二試題.md#offset-6921",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "有關Cocktail 操作的成品，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "鹹狗與霜凍瑪格麗特的裝飾物為鹽口杯"
+      },
+      {
+        "id": "B",
+        "text": "托地杯盛裝的熱飲有熱托地、貝里尼、法國佬"
+      },
+      {
+        "id": "C",
+        "text": "添加生蛋白的雞尾酒有 Pink Lady、Sherry Flip"
+      },
+      {
+        "id": "D",
+        "text": "卡碧尼亞與莫西多系列皆使用Muddle的調製法"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：cocktail"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：cocktail"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關Cocktail 操作的成品，下列何者錯誤？ 鹹狗與霜凍瑪格麗特的裝飾物為鹽口杯 托地杯盛裝的熱飲有熱托地、貝里尼、法國佬 添加生蛋白的雞尾酒有 Pink Lady、Sherry Flip 卡碧尼亞與莫西多系列皆使用Muddle的調製法 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1273
+  }
+}

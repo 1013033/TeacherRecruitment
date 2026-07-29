@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p1-q017-de6920ee45",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 17 題",
+    "sourceFile": "112\\output\\112-5-四技二專-17餐旅群專一試題\\auto\\112-5-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "112\\output\\112-5-四技二專-17餐旅群專一試題\\auto\\112-5-四技二專-17餐旅群專一試題.md#offset-3568",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "米其林指南(Michelin Guide)自 1926 年開啟餐廳美食評鑑之路，時至今日已成為消費者選擇美食時的重要依據。米其林指南中可看見許多不同的標誌，圖(二)為官方網站所列獲得評選之店家資訊，在店名右側有兩個米其林指南標誌，請問其代表之評選等級意涵為何？",
+    "images": [
+      {
+        "id": "mock-exam-112-p1-q017-de6920ee45-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-112-p1-q017-de6920ee45-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "銅板美食、米其林一星"
+      },
+      {
+        "id": "B",
+        "text": "必比登推介、綠色五葉草"
+      },
+      {
+        "id": "C",
+        "text": "米其林一星、綠色五葉草"
+      },
+      {
+        "id": "D",
+        "text": "必比登推介、米其林一星 圖(二)"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "米其林指南(Michelin Guide)自 1926 年開啟餐廳美食評鑑之路，時至今日已成為消費者選擇美食時的重要依據。米其林指南中可看見許多不同的標誌，圖(二)為官方網站所列獲得評選之店家資訊，在店名右側有兩個米其林指南標誌，請問其代表之評選等級意涵為何？ 銅板美食、米其林一星 必比登推介、綠色五葉草 米其林一星、綠色五葉草 必比登推介、米其林一星 圖(二) 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 2680
+  }
+}

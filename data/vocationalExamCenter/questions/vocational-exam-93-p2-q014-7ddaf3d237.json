@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-93-p2-q014-7ddaf3d237",
+    "sourceYear": 93,
+    "sourceLabel": "93 年 專業科目(二) 第 14 題",
+    "sourceFile": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md",
+    "sourceLocator": "專二\\output\\93-1專二試題\\auto\\93-1專二試題.md#offset-1183",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "在西餐廳點用「烤羊排」，通常會附帶何種醬汁？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "荷蘭醬(Hollandaise)"
+      },
+      {
+        "id": "B",
+        "text": "薄荷醬(Mint Sauce)"
+      },
+      {
+        "id": "C",
+        "text": "蕃茄醬汁(Tomato Sauce)"
+      },
+      {
+        "id": "D",
+        "text": "白酒醬汁(White Wine Sauce)"
+      }
+    ],
+    "answer": "B",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：西餐、sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：西餐、sauce"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在西餐廳點用「烤羊排」，通常會附帶何種醬汁？ 荷蘭醬(Hollandaise) 薄荷醬(Mint Sauce) 蕃茄醬汁(Tomato Sauce) 白酒醬汁(White Wine Sauce) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2166
+  }
+}

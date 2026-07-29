@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p2-q012-7208676183",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 12 題",
+    "sourceFile": "專二\\output\\110-1專二試題\\auto\\110-1專二試題.md",
+    "sourceLocator": "專二\\output\\110-1專二試題\\auto\\110-1專二試題.md#offset-2228",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "西式餐廳顧客用餐時，下列何者不是服務人員服勤過程需要操作的品項？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "bread basket"
+      },
+      {
+        "id": "B",
+        "text": "crumb scoop"
+      },
+      {
+        "id": "C",
+        "text": "gooseneck sauce boat"
+      },
+      {
+        "id": "D",
+        "text": "table runner"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：rum"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：rum"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "西式餐廳顧客用餐時，下列何者不是服務人員服勤過程需要操作的品項？ bread basket crumb scoop gooseneck sauce boat table runner 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1795
+  }
+}

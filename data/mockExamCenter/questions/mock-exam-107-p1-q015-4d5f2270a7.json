@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q015-4d5f2270a7",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 15 題",
+    "sourceFile": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md",
+    "sourceLocator": "107\\output\\117-3專一試題\\auto\\117-3專一試題.md#offset-2595",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "餐飲業連鎖經營形態中，何者加盟方式以服務性質為主，主要目的為運用共同進貨方式降低成本，零售商以股東身分參與總公司經營，總公司無主要的領導權？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Voluntary Chain"
+      },
+      {
+        "id": "B",
+        "text": "Cooperate Chain"
+      },
+      {
+        "id": "C",
+        "text": "Regular Chain"
+      },
+      {
+        "id": "D",
+        "text": "Franchise Chain"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐飲業、連鎖、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐飲業、連鎖、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐飲業連鎖經營形態中，何者加盟方式以服務性質為主，主要目的為運用共同進貨方式降低成本，零售商以股東身分參與總公司經營，總公司無主要的領導權？ Voluntary Chain Cooperate Chain Regular Chain Franchise Chain 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 180
+  }
+}

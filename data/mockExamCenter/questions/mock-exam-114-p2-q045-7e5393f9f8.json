@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q045-7e5393f9f8",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 45 題",
+    "sourceFile": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md",
+    "sourceLocator": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md#offset-10268",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "小樂最喜歡第一杯品質穩定、酸質明顯的咖啡，不介意價格稍高。若他要挑選一款符合他口味的精品咖啡，最應該選擇哪一種？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "越南西貢咖啡"
+      },
+      {
+        "id": "B",
+        "text": "印尼曼特寧"
+      },
+      {
+        "id": "C",
+        "text": "巴西聖多斯咖啡"
+      },
+      {
+        "id": "D",
+        "text": "衣索比亞耶加雪菲"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小樂最喜歡第一杯品質穩定、酸質明顯的咖啡，不介意價格稍高。若他要挑選一款符合他口味的精品咖啡，最應該選擇哪一種？ 越南西貢咖啡 印尼曼特寧 巴西聖多斯咖啡 衣索比亞耶加雪菲 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 3424
+  }
+}

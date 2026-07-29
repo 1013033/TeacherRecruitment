@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q045-70f504679d",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 45 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-6452",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 45,
+    "questionType": "single-choice",
+    "prompt": "「英國、中國、美國、法國、印度、印尼、肯亞、阿根廷、巴西」等九個國家中，有幾個是全世界主要生產咖啡豆的國家？",
+    "images": [
+      {
+        "id": "mock-exam-108-p2-q045-70f504679d-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-108-p2-q045-70f504679d-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "4 個"
+      },
+      {
+        "id": "B",
+        "text": "5 個"
+      },
+      {
+        "id": "C",
+        "text": "6 個"
+      },
+      {
+        "id": "D",
+        "text": "7 個 ## 46. 周經理自行開車參加應酬餐會，請問他最不適合點選哪些餐後飲料？ 甲、Viennese Coffee 乙、Mesdames Coffee丙、Royal Coffee 丁、Irish Coffee戊、Cappuccino 己、Macchiato"
+      },
+      {
+        "id": "A",
+        "text": "甲戊己"
+      },
+      {
+        "id": "B",
+        "text": "甲乙戊己"
+      },
+      {
+        "id": "C",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "D",
+        "text": "乙丙丁己 ## 47. 下列哪一種烘焙程度的咖啡豆味道以苦味為主，較適合沖泡成冰咖啡？"
+      },
+      {
+        "id": "A",
+        "text": "Cinnamon Roast"
+      },
+      {
+        "id": "B",
+        "text": "Medium Roast"
+      },
+      {
+        "id": "C",
+        "text": "High Roast"
+      },
+      {
+        "id": "D",
+        "text": "Full City Roast ## 48. 下列哪一款單品咖啡的產地來自於非洲？"
+      },
+      {
+        "id": "A",
+        "text": "摩卡咖啡(Mocha Coffee)"
+      },
+      {
+        "id": "B",
+        "text": "哥倫比亞咖啡(Colombian Coffee)"
+      },
+      {
+        "id": "C",
+        "text": "新幾內亞咖啡(New Guinea Coffee)"
+      },
+      {
+        "id": "D",
+        "text": "吉里馬扎羅咖啡(Kilimanjaro Coffee) ## 49. 下列哪一款飲料不屬於 Carbonated Soft Drinks？"
+      },
+      {
+        "id": "A",
+        "text": "Tonic Water"
+      },
+      {
+        "id": "B",
+        "text": "Mineral Water"
+      },
+      {
+        "id": "C",
+        "text": "Ginger Ale"
+      },
+      {
+        "id": "D",
+        "text": "Sarsaparilla ## 50. 下列哪一種水果具有改善聲音沙啞的功效？"
+      },
+      {
+        "id": "A",
+        "text": "Star Fruit"
+      },
+      {
+        "id": "B",
+        "text": "Avocado"
+      },
+      {
+        "id": "C",
+        "text": "Guava"
+      },
+      {
+        "id": "D",
+        "text": "Passion Fruit"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、cappuccino、沖泡、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、cappuccino、沖泡、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "「英國、中國、美國、法國、印度、印尼、肯亞、阿根廷、巴西」等九個國家中，有幾個是全世界主要生產咖啡豆的國家？ 4 個 5 個 6 個 7 個 ## 46. 周經理自行開車參加應酬餐會，請問他最不適合點選哪些餐後飲料？ 甲、Viennese Coffee 乙、Mesdames Coffee丙、Royal Coffee 丁、Irish Coffee戊、Cappuccino 己、Macchiato 甲戊己 甲乙戊己 乙丙丁 乙丙丁己 ## 47. 下列哪一種烘焙程度的咖啡豆味道以苦味為主，較適合沖泡成冰咖啡？ Cinnamon Roast Medium Roast High Roast Full City Roast ## 48. 下列哪一款單品咖啡的產地來自於非洲？ 摩卡咖啡(Mocha Coffee) 哥倫比亞咖啡(Colombian Coffee) 新幾內亞咖啡(New Guinea Coffee) 吉里馬扎羅咖啡(Kilimanjaro Coffee) ## 49. 下列哪一款飲料不屬於 Carbonated Soft Drinks？ Tonic Water Mineral Water Ginger Ale Sarsaparilla ## 50. 下列哪一種水果具有改善聲音沙啞的功效？ Star Fruit Avocado Guava Passion Fruit 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 626
+  }
+}

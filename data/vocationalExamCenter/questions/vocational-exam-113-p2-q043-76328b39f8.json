@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-113-p2-q043-76328b39f8",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 43 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-9480",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "泰亨與友人們到啤酒廠參加密室脫逃的活動，目前線索已知首要的步驟為「麥芽製造」，最後為「包裝」，根據啤酒的製作流程進行排序，才可以解出正確的密碼完成任務，中間的密碼排序應為下列何者？①：發酵②：過濾③：糖化④：熟成",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "①→③→④→②"
+      },
+      {
+        "id": "B",
+        "text": "②→①→③→④"
+      },
+      {
+        "id": "C",
+        "text": "③→①→④→②"
+      },
+      {
+        "id": "D",
+        "text": "③→②→①→④"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：啤酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：啤酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "泰亨與友人們到啤酒廠參加密室脫逃的活動，目前線索已知首要的步驟為「麥芽製造」，最後為「包裝」，根據啤酒的製作流程進行排序，才可以解出正確的密碼完成任務，中間的密碼排序應為下列何者？①：發酵②：過濾③：糖化④：熟成 ①→③→④→② ②→①→③→④ ③→①→④→② ③→②→①→④ 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1950
+  }
+}

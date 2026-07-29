@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q012-611c267f8f",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 12 題",
+    "sourceFile": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md",
+    "sourceLocator": "109\\output\\109-2專一試題\\auto\\109-2專一試題.md#offset-2080",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "亞都麗緻著名的巴賽麗餐廳(Brasserie Liz)以「The Timeless in you is aware of time’s timelessness」為經營理念，請問其餐廳名稱「Brasserie」原意為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "提供公共餐飲的地方"
+      },
+      {
+        "id": "B",
+        "text": "讓人恢復元氣的地方"
+      },
+      {
+        "id": "C",
+        "text": "供應簡單餐點的場所"
+      },
+      {
+        "id": "D",
+        "text": "釀造與販售啤酒等飲料的場所"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：啤酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：啤酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "亞都麗緻著名的巴賽麗餐廳(Brasserie Liz)以「The Timeless in you is aware of time’s timelessness」為經營理念，請問其餐廳名稱「Brasserie」原意為下列何者？ 提供公共餐飲的地方 讓人恢復元氣的地方 供應簡單餐點的場所 釀造與販售啤酒等飲料的場所 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1014
+  }
+}

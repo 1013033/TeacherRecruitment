@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p1-q002-323936172d",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(一) 第 2 題",
+    "sourceFile": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md",
+    "sourceLocator": "專一\\output\\102-1專一試題\\auto\\102-1專一試題.md#offset-565",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "航空市場競爭激烈，除了確保平安載送旅客到達目的地之外，有些航空公司以降低票價的方式來吸引旅客，唯行李托運、機上餐食、視聽娛樂等服務需額外收費，是指下列哪一種航空業之經營型態？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "航空貨運 ( air cargo )"
+      },
+      {
+        "id": "B",
+        "text": "廉價航空 ( low-cost airline )"
+      },
+      {
+        "id": "C",
+        "text": "直飛航班 ( on-line airline )"
+      },
+      {
+        "id": "D",
+        "text": "包機客運 ( charter air transportation )"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：上餐"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：上餐"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "航空市場競爭激烈，除了確保平安載送旅客到達目的地之外，有些航空公司以降低票價的方式來吸引旅客，唯行李托運、機上餐食、視聽娛樂等服務需額外收費，是指下列哪一種航空業之經營型態？ 航空貨運 ( air cargo ) 廉價航空 ( low-cost airline ) 直飛航班 ( on-line airline ) 包機客運 ( charter air transportation ) 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 97
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q033-da97a2162c",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 33 題",
+    "sourceFile": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md",
+    "sourceLocator": "108\\output\\118-3專一試題\\auto\\118-3專一試題.md#offset-5070",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "智遊飯店的客房共有 500 間，12/25 日售出客房 300 間，其中 GIT 的住房率為 60%，FIT 的住房率為40%，請問該旅館當日的住房率、散客住房數及團客住房數的房間數量各為多少？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "60%，120 間，180 間"
+      },
+      {
+        "id": "B",
+        "text": "60%，180 間，120 間"
+      },
+      {
+        "id": "C",
+        "text": "100%，180 間，120 間"
+      },
+      {
+        "id": "D",
+        "text": "50%，120 間，180 間"
+      }
+    ],
+    "answer": "A",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、飯店、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "智遊飯店的客房共有 500 間，12/25 日售出客房 300 間，其中 GIT 的住房率為 60%，FIT 的住房率為40%，請問該旅館當日的住房率、散客住房數及團客住房數的房間數量各為多少？ 60%，120 間，180 間 60%，180 間，120 間 100%，180 間，120 間 50%，120 間，180 間 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 659
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-110-p1-q026-3cfc2c6181",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 26 題",
+    "sourceFile": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md",
+    "sourceLocator": "專一\\output\\110-1專一試題\\auto\\110-1專一試題.md#offset-2918",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 26,
+    "questionType": "single-choice",
+    "prompt": "關於外燴服務方式，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "顧客訂餐後，由餐廳人員送餐到顧客指定地點"
+      },
+      {
+        "id": "B",
+        "text": "顧客訂餐後，由顧客取餐到餐廳以外地點用餐"
+      },
+      {
+        "id": "C",
+        "text": "顧客訂餐後，到顧客指定場所製備餐食與服務"
+      },
+      {
+        "id": "D",
+        "text": "顧客訂餐後，由顧客開車至取餐車道窗口取餐"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於外燴服務方式，下列敘述何者正確？ 顧客訂餐後，由餐廳人員送餐到顧客指定地點 顧客訂餐後，由顧客取餐到餐廳以外地點用餐 顧客訂餐後，到顧客指定場所製備餐食與服務 顧客訂餐後，由顧客開車至取餐車道窗口取餐 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 512
+  }
+}

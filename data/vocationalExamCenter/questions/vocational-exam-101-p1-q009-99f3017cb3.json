@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p1-q009-99f3017cb3",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(一) 第 9 題",
+    "sourceFile": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md",
+    "sourceLocator": "專一\\output\\101-1專一試題\\auto\\101-1專一試題.md#offset-1560",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "在餐飲業的經營型態中，消費者需定期繳交一筆費用，才有資格享用餐廳各項餐飲及休閒娛樂等服務，是為下列何種類型的餐廳？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Highway Restaurant"
+      },
+      {
+        "id": "B",
+        "text": "Club Member Restaurant"
+      },
+      {
+        "id": "C",
+        "text": "Cafeteria Restaurant"
+      },
+      {
+        "id": "D",
+        "text": "Fast-food Restaurant"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在餐飲業的經營型態中，消費者需定期繳交一筆費用，才有資格享用餐廳各項餐飲及休閒娛樂等服務，是為下列何種類型的餐廳？ Highway Restaurant Club Member Restaurant Cafeteria Restaurant Fast-food Restaurant 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 58
+  }
+}

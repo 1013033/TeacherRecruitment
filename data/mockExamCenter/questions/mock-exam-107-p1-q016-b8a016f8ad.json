@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q016-b8a016f8ad",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 16 題",
+    "sourceFile": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md",
+    "sourceLocator": "107\\output\\117-5專一試題\\auto\\117-5專一試題.md#offset-3092",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "有關餐廳格局設計之敘述，下列何者不宜？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "桌椅採對角配置有利於節省空間"
+      },
+      {
+        "id": "B",
+        "text": "黃金三角形動線即爐檯、水槽、冰箱三點距離不超過6 公尺，每個點的理想距離為90 公分"
+      },
+      {
+        "id": "C",
+        "text": "廚房設備採背對背平行排列設置，可將烹調設備集中，提升作業效率"
+      },
+      {
+        "id": "D",
+        "text": "外場用餐區與內場廚房理想之面積比例為1：3"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐廳格局設計之敘述，下列何者不宜？ 桌椅採對角配置有利於節省空間 黃金三角形動線即爐檯、水槽、冰箱三點距離不超過6 公尺，每個點的理想距離為90 公分 廚房設備採背對背平行排列設置，可將烹調設備集中，提升作業效率 外場用餐區與內場廚房理想之面積比例為1：3 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 365
+  }
+}

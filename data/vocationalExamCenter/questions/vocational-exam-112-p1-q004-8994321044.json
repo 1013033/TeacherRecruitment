@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p1-q004-8994321044",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(一) 第 4 題",
+    "sourceFile": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md",
+    "sourceLocator": "專一\\output\\112-1專一試題\\auto\\112-1專一試題.md#offset-857",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "anny’s Bistro 餐館經營者很重視食材採購，尤其是食材的來源地、栽種方式與標章等，他會選擇公平交易的咖啡豆與茶葉，挑選產量豐富的永續海鮮，並支持在地食材。根據以上敘述顯示經營者能善盡哪一個面向的責任？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "員工"
+      },
+      {
+        "id": "B",
+        "text": "政府"
+      },
+      {
+        "id": "C",
+        "text": "顧客"
+      },
+      {
+        "id": "D",
+        "text": "社會"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡、茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡、茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "anny’s Bistro 餐館經營者很重視食材採購，尤其是食材的來源地、栽種方式與標章等，他會選擇公平交易的咖啡豆與茶葉，挑選產量豐富的永續海鮮，並支持在地食材。根據以上敘述顯示經營者能善盡哪一個面向的責任？ 員工 政府 顧客 社會 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 589
+  }
+}

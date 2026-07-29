@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q028-c6197f3115",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 28 題",
+    "sourceFile": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md",
+    "sourceLocator": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md#offset-6211",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "旅宿業營業場域空間設置皆有法令規範，如依《旅館業管理規則》規定，下列空間設置屬於旅館業至少應有者為何？甲、Lobby 乙、Fitness Room 丙、Bath Room 丁、Ballroom戊、Swimming Pool",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丁"
+      },
+      {
+        "id": "B",
+        "text": "甲丙己"
+      },
+      {
+        "id": "C",
+        "text": "乙丁戊"
+      },
+      {
+        "id": "D",
+        "text": "丙戊己"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、room"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、room"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旅宿業營業場域空間設置皆有法令規範，如依《旅館業管理規則》規定，下列空間設置屬於旅館業至少應有者為何？甲、Lobby 乙、Fitness Room 丙、Bath Room 丁、Ballroom戊、Swimming Pool 甲乙丁 甲丙己 乙丁戊 丙戊己 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 750
+  }
+}

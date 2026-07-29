@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p2-q018-c644d802c4",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(二) 第 18 題",
+    "sourceFile": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md",
+    "sourceLocator": "專二\\output\\95-1專二試題\\auto\\95-1專二試題.md#offset-2006",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "做天使蛋糕打蛋白時，不小心加了下列哪一項物質，會阻礙泡沫形成，導致蛋白打不起來？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "油脂"
+      },
+      {
+        "id": "B",
+        "text": "鹽"
+      },
+      {
+        "id": "C",
+        "text": "糖"
+      },
+      {
+        "id": "D",
+        "text": "醋"
+      }
+    ],
+    "answer": "A",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：蛋糕"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：蛋糕"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "做天使蛋糕打蛋白時，不小心加了下列哪一項物質，會阻礙泡沫形成，導致蛋白打不起來？ 油脂 鹽 糖 醋 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2315
+  }
+}

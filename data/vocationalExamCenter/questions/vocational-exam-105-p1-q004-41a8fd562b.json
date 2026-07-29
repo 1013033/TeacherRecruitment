@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q004-41a8fd562b",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 4 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-732",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "下列哪一家屬於目前有飛航臺灣的低成本航空 (low cost carrier，又稱為廉價航空)？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "樂桃航空 ( Peach Aviation )"
+      },
+      {
+        "id": "B",
+        "text": "新加坡航空 ( Singapore Airlines )"
+      },
+      {
+        "id": "C",
+        "text": "日本航空 ( Japan Airlines )"
+      },
+      {
+        "id": "D",
+        "text": "國泰航空 ( Cathay Pacific Airways )"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一家屬於目前有飛航臺灣的低成本航空 (low cost carrier，又稱為廉價航空)？ 樂桃航空 ( Peach Aviation ) 新加坡航空 ( Singapore Airlines ) 日本航空 ( Japan Airlines ) 國泰航空 ( Cathay Pacific Airways ) 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 241
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p2-q005-7f43c7a157",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 5 題",
+    "sourceFile": "112\\output\\112-4-四技二專-17餐旅群專二試題\\auto\\112-4-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "112\\output\\112-4-四技二專-17餐旅群專二試題\\auto\\112-4-四技二專-17餐旅群專二試題.md#offset-861",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列有多少種杯具是屬於Stemware 類別？甲、Bordeaux Glass 乙、Champagne Saucer 丙、Pilsner Glass丁、Sherry Glass 戊、Shot Glass 己、Margarita Glass",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "2 種"
+      },
+      {
+        "id": "B",
+        "text": "3 種"
+      },
+      {
+        "id": "C",
+        "text": "4 種"
+      },
+      {
+        "id": "D",
+        "text": "5 種"
+      }
+    ],
+    "answer": "C",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：sauce"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有多少種杯具是屬於Stemware 類別？甲、Bordeaux Glass 乙、Champagne Saucer 丙、Pilsner Glass丁、Sherry Glass 戊、Shot Glass 己、Margarita Glass 2 種 3 種 4 種 5 種 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2621
+  }
+}

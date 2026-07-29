@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-112-p2-q031-8578aa8acb",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 31 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-6463",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "飲料調製方法，由①②③順序配對，下列何者正確？ 甲、電動攪拌法 ( blend) 乙、直接注入法 ( build) 丙、搖盪法 ( shake ) 丁、攪拌法 ( stir ) <table><tr><td rowspan=1 colspan=1>飲品名稱</td><td rowspan=1 colspan=1>調製方法</td></tr><tr><td rowspan=1 colspan=1>木瓜牛奶</td><td rowspan=1 colspan=1>①</td></tr><tr><td rowspan=1 colspan=1>灰姑娘</td><td rowspan=1 colspan=1>②</td></tr><tr><td rowspan=1 colspan=1>冰金桔檸檬汁</td><td rowspan=1 colspan=1>③</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "C",
+        "text": "丙、丁、甲"
+      },
+      {
+        "id": "D",
+        "text": "丁、乙、丙"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "飲料調製方法，由①②③順序配對，下列何者正確？ 甲、電動攪拌法 ( blend) 乙、直接注入法 ( build) 丙、搖盪法 ( shake ) 丁、攪拌法 ( stir ) <table><tr><td rowspan=1 colspan=1>飲品名稱</td><td rowspan=1 colspan=1>調製方法</td></tr><tr><td rowspan=1 colspan=1>木瓜牛奶</td><td rowspan=1 colspan=1>①</td></tr><tr><td rowspan=1 colspan=1>灰姑娘</td><td rowspan=1 colspan=1>②</td></tr><tr><td rowspan=1 colspan=1>冰金桔檸檬汁</td><td rowspan=1 colspan=1>③</td></tr></table> 丙、丁、甲 丁、乙、丙 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1890
+  }
+}

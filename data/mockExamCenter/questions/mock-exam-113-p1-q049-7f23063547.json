@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-113-p1-q049-7f23063547",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(一) 第 49 題",
+    "sourceFile": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md",
+    "sourceLocator": "113\\output\\113-5-四技二專-17餐旅群專一試題\\auto\\113-5-四技二專-17餐旅群專一試題.md#offset-8808",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 49,
+    "questionType": "single-choice",
+    "prompt": "航空運輸涉及國家主權，依據國際民航組織(ICAO)所制定的航空運輸權利(Freedoms of the Air)，有關航權的敘述，下列何者最為適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "第八航權：本國航機可到協議國作國內航線運營。如AF 運營NYC-SFO航向但不須返回本國"
+      },
+      {
+        "id": "B",
+        "text": "第二航權：本國航機因技術需要在協議國降落經停，但不得上下客貨郵務。如 BA運營 LON-SYD，中停SIN加油"
+      },
+      {
+        "id": "C",
+        "text": "第七航權：本國航機可以飛過協議國領空，前往其他國家目的地。如 CX 往返 HKG-LAX"
+      },
+      {
+        "id": "D",
+        "text": "第五航權：某國航機可在境外兩國或地區間載運客貨且中經其登記國或地區。如 CA 運營LON-PEK-SEL"
+      }
+    ],
+    "answer": "B",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：航空"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：航空"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "航空運輸涉及國家主權，依據國際民航組織(ICAO)所制定的航空運輸權利(Freedoms of the Air)，有關航權的敘述，下列何者最為適當？ 第八航權：本國航機可到協議國作國內航線運營。如AF 運營NYC-SFO航向但不須返回本國 第二航權：本國航機因技術需要在協議國降落經停，但不得上下客貨郵務。如 BA運營 LON-SYD，中停SIN加油 第七航權：本國航機可以飛過協議國領空，前往其他國家目的地。如 CX 往返 HKG-LAX 第五航權：某國航機可在境外兩國或地區間載運客貨且中經其登記國或地區。如 CA 運營LON-PEK-SEL 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 3179
+  }
+}

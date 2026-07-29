@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-96-p2-q017-9a2f068928",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 17 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-1961",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "有關蛋糕製作，下列敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "海綿蛋糕屬於乳沫類蛋糕"
+      },
+      {
+        "id": "B",
+        "text": "天使蛋糕只用蛋白製作，屬於戚風類蛋糕"
+      },
+      {
+        "id": "C",
+        "text": "製作蛋糕通常需使用中筋麵粉"
+      },
+      {
+        "id": "D",
+        "text": "乳沫類蛋糕含有大量的油脂"
+      }
+    ],
+    "answer": "A",
+    "subject": "baking",
+    "subjectLabel": "烘焙實務",
+    "unit": "[烘焙實務] - [烘焙原料與製程]",
+    "conceptId": "baking-production",
+    "conceptLabel": "烘焙原料、製程與品質判斷",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：蛋糕、麵粉"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：蛋糕、麵粉"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關蛋糕製作，下列敘述何者正確？ 海綿蛋糕屬於乳沫類蛋糕 天使蛋糕只用蛋白製作，屬於戚風類蛋糕 製作蛋糕通常需使用中筋麵粉 乳沫類蛋糕含有大量的油脂 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
+    "sequence": 2360
+  }
+}

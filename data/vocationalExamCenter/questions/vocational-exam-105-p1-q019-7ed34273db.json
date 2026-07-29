@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-105-p1-q019-7ed34273db",
+    "sourceYear": 105,
+    "sourceLabel": "105 年 專業科目(一) 第 19 題",
+    "sourceFile": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md",
+    "sourceLocator": "專一\\output\\105-1專一試題\\auto\\105-1專一試題.md#offset-2594",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "關於西方餐飲業發展重要代表人物之出現順序，由先至後的排列，下列何者正確？甲：奧古斯特‧艾斯可菲 ( Auguste Escoffier)乙：凱薩琳‧梅蒂奇 ( Catherine de Medicis )丙：安東尼‧卡雷姆 ( Marie Antoine Caréme )丁：費南德‧波伊特 ( Fernand Point )",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丁丙"
+      },
+      {
+        "id": "B",
+        "text": "乙甲丙丁"
+      },
+      {
+        "id": "C",
+        "text": "乙丙甲丁"
+      },
+      {
+        "id": "D",
+        "text": "丙乙丁甲"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐飲業"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐飲業"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於西方餐飲業發展重要代表人物之出現順序，由先至後的排列，下列何者正確？甲：奧古斯特‧艾斯可菲 ( Auguste Escoffier)乙：凱薩琳‧梅蒂奇 ( Catherine de Medicis )丙：安東尼‧卡雷姆 ( Marie Antoine Caréme )丁：費南德‧波伊特 ( Fernand Point ) 甲乙丁丙 乙甲丙丁 乙丙甲丁 丙乙丁甲 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 256
+  }
+}

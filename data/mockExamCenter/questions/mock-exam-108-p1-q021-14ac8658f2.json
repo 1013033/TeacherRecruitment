@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p1-q021-14ac8658f2",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(一) 第 21 題",
+    "sourceFile": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md",
+    "sourceLocator": "108\\output\\118-4專一試題\\auto\\118-4專一試題.md#offset-4205",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 21,
+    "questionType": "single-choice",
+    "prompt": "餐廳業者為確實管控食材原物料廢棄率能降至最低，通常會在廚房標準作業流程中，制定何一參照標準？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Standard Purchasing Specification"
+      },
+      {
+        "id": "B",
+        "text": "Standard Yield"
+      },
+      {
+        "id": "C",
+        "text": "Standard Production"
+      },
+      {
+        "id": "D",
+        "text": "Standard Recipes"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐廳業者為確實管控食材原物料廢棄率能降至最低，通常會在廚房標準作業流程中，制定何一參照標準？ Standard Purchasing Specification Standard Yield Standard Production Standard Recipes 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 743
+  }
+}

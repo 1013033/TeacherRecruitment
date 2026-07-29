@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q018-fcc0a2184b",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 18 題",
+    "sourceFile": "114\\output\\114-4專一試題\\auto\\114-4專一試題.md",
+    "sourceLocator": "114\\output\\114-4專一試題\\auto\\114-4專一試題.md#offset-3689",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "金盞花大飯店客房總數為450間。為了執行客房品質提升計畫，飯店目前正進行分階段的局部整修，故有 120 間客房被設定為不可銷售(OOO)以確保營運不受施工影響。今日入住的住客總數為 500人，其中包含GIT 房客230人，實際售出客房共計190間，客房收入總計為2,100,500元。有關金盞花大飯店的營運，下列何者正確？(所有百分比(%)的計算結果，請保留至小數點後兩位；所有金額(元)的計算結果，請四捨五入至個位)",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "住房率為 42.22%"
+      },
+      {
+        "id": "B",
+        "text": "每日平均房價(ADR)為 11,055 元"
+      },
+      {
+        "id": "C",
+        "text": "每房平均營收(RevPAR)為 4,201 元"
+      },
+      {
+        "id": "D",
+        "text": "每人平均房價(ARPG)為 6,365 元"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飯店、客房、房價"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飯店、客房、房價"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "金盞花大飯店客房總數為450間。為了執行客房品質提升計畫，飯店目前正進行分階段的局部整修，故有 120 間客房被設定為不可銷售(OOO)以確保營運不受施工影響。今日入住的住客總數為 500人，其中包含GIT 房客230人，實際售出客房共計190間，客房收入總計為2,100,500元。有關金盞花大飯店的營運，下列何者正確？(所有百分比(%)的計算結果，請保留至小數點後兩位；所有金額(元)的計算結果，請四捨五入至個位) 住房率為 42.22% 每日平均房價(ADR)為 11,055 元 每房平均營收(RevPAR)為 4,201 元 每人平均房價(ARPG)為 6,365 元 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 3527
+  }
+}

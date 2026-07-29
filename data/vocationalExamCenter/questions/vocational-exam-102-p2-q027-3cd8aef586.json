@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-102-p2-q027-3cd8aef586",
+    "sourceYear": 102,
+    "sourceLabel": "102 年 專業科目(二) 第 27 題",
+    "sourceFile": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md",
+    "sourceLocator": "專二\\output\\102-1專二試題\\auto\\102-1專二試題.md#offset-3618",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "關於中餐服務方式與原則之敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "宴席菜單的設計原則為先冷後熱、先炒後燒、先清淡後味濃"
+      },
+      {
+        "id": "B",
+        "text": "宴席菜餚的服務順序為傳菜→秀菜→上菜→分菜"
+      },
+      {
+        "id": "C",
+        "text": "宴席時，服務人員應站在主賓左側進行秀菜"
+      },
+      {
+        "id": "D",
+        "text": "服務人員應站在顧客的左側接受點菜"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：宴席"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：宴席"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於中餐服務方式與原則之敘述，下列何者正確？ 宴席菜單的設計原則為先冷後熱、先炒後燒、先清淡後味濃 宴席菜餚的服務順序為傳菜→秀菜→上菜→分菜 宴席時，服務人員應站在主賓左側進行秀菜 服務人員應站在顧客的左側接受點菜 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1415
+  }
+}

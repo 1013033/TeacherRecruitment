@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q034-5237e0b13a",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 34 題",
+    "sourceFile": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md",
+    "sourceLocator": "108\\output\\118-2專二試題\\auto\\118-2專二試題.md#offset-5115",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "下列各種酒精飲料，屬於 Fermented Alcoholic Beverage、Distilled Alcoholic Beverage 及Compounded Beverage 的各有幾個？甲、Champagne 乙、Port丙、Stout 丁、Calvados戊、Cognac 己、Coffee Liqueur庚、Sake 辛、Tequila",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "4 個、3 個、1 個"
+      },
+      {
+        "id": "B",
+        "text": "3 個、2 個、3 個"
+      },
+      {
+        "id": "C",
+        "text": "2 個、3 個、3 個"
+      },
+      {
+        "id": "D",
+        "text": "1 個、2 個、5 個"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：tequila、liqueur、酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：tequila、liqueur、酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列各種酒精飲料，屬於 Fermented Alcoholic Beverage、Distilled Alcoholic Beverage 及Compounded Beverage 的各有幾個？甲、Champagne 乙、Port丙、Stout 丁、Calvados戊、Cognac 己、Coffee Liqueur庚、Sake 辛、Tequila 4 個、3 個、1 個 3 個、2 個、3 個 2 個、3 個、3 個 1 個、2 個、5 個 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 615
+  }
+}

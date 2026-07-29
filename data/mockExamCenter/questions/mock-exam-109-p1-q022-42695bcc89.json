@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q022-42695bcc89",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 22 題",
+    "sourceFile": "109\\output\\109-5專一試題\\auto\\109-5專一試題.md",
+    "sourceLocator": "109\\output\\109-5專一試題\\auto\\109-5專一試題.md#offset-4163",
+    "paperTitle": "專業科目(一)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 22,
+    "questionType": "single-choice",
+    "prompt": "依據民國 103 年 11 月修正之《食品良好衛生規範準則》規定，有關餐飲業作業場所應施行之餐具殺菌方式，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "煮沸殺菌：攝氏100°C 沸水煮沸1 分鐘以上"
+      },
+      {
+        "id": "B",
+        "text": "熱水殺菌：攝氏80°C 以上熱水，加熱時間2 分鐘以上"
+      },
+      {
+        "id": "C",
+        "text": "乾熱殺菌：攝氏110°C 以上乾熱，加熱時間30 分鐘以上"
+      },
+      {
+        "id": "D",
+        "text": "氯液殺菌：以氯液總有效氯百萬分之二百以下，浸入溶液中時間1 分鐘以上"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "依據民國 103 年 11 月修正之《食品良好衛生規範準則》規定，有關餐飲業作業場所應施行之餐具殺菌方式，下列敘述何者錯誤？ 煮沸殺菌：攝氏100°C 沸水煮沸1 分鐘以上 熱水殺菌：攝氏80°C 以上熱水，加熱時間2 分鐘以上 乾熱殺菌：攝氏110°C 以上乾熱，加熱時間30 分鐘以上 氯液殺菌：以氯液總有效氯百萬分之二百以下，浸入溶液中時間1 分鐘以上 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1296
+  }
+}

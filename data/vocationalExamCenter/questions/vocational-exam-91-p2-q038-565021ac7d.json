@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-91-p2-q038-565021ac7d",
+    "sourceYear": 91,
+    "sourceLabel": "91 年 專業科目(二) 第 38 題",
+    "sourceFile": "專二\\output\\91專二\\auto\\91專二.md",
+    "sourceLocator": "專二\\output\\91專二\\auto\\91專二.md#offset-3705",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "下列關於烹煮義大利麵的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "煮好的麵，可拌少量的油，防止沾黏"
+      },
+      {
+        "id": "B",
+        "text": "麵變軟時，不可攪動，以免斷裂"
+      },
+      {
+        "id": "C",
+        "text": "避免影響麵味，煮麵水中不可加鹽"
+      },
+      {
+        "id": "D",
+        "text": "過多的麵，應泡在水中繼續保溫"
+      }
+    ],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review",
+      "missing-answer"
+    ],
+    "searchText": "下列關於烹煮義大利麵的敘述，何者正確？ 煮好的麵，可拌少量的油，防止沾黏 麵變軟時，不可攪動，以免斷裂 避免影響麵味，煮麵水中不可加鹽 過多的麵，應泡在水中繼續保溫 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2091
+  }
+}

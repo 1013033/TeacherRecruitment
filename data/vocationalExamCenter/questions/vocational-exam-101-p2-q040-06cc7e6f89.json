@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-101-p2-q040-06cc7e6f89",
+    "sourceYear": 101,
+    "sourceLabel": "101 年 專業科目(二) 第 40 題",
+    "sourceFile": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md",
+    "sourceLocator": "專二\\output\\101-1專二試題\\auto\\101-1專二試題.md#offset-5001",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "有關咖啡豆的烘焙程度，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "咖啡烘焙愈淺，顏色越淺，酸性愈弱"
+      },
+      {
+        "id": "B",
+        "text": "咖啡烘焙愈深，顏色越深，苦味愈強"
+      },
+      {
+        "id": "C",
+        "text": "深烘焙咖啡，適用義式濃縮咖啡"
+      },
+      {
+        "id": "D",
+        "text": "生咖啡豆經過高溫烘焙，咖啡豆的體積會膨脹變大"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關咖啡豆的烘焙程度，下列何者錯誤？ 咖啡烘焙愈淺，顏色越淺，酸性愈弱 咖啡烘焙愈深，顏色越深，苦味愈強 深烘焙咖啡，適用義式濃縮咖啡 生咖啡豆經過高溫烘焙，咖啡豆的體積會膨脹變大 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1378
+  }
+}

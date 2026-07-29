@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q039-f76a0e7fb8",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 39 題",
+    "sourceFile": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md",
+    "sourceLocator": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md#offset-5914",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 39,
+    "questionType": "single-choice",
+    "prompt": "arriott International集團為世界知名的國際連鎖飯店集團，下列何者不屬於此一集團？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Westin"
+      },
+      {
+        "id": "B",
+        "text": "Four Points <sub>"
+      },
+      {
+        "id": "D",
+        "text": "</sub> <sub>Okura</sub>"
+      },
+      {
+        "id": "C",
+        "text": "Le Meridien"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：連鎖"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：連鎖"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "arriott International集團為世界知名的國際連鎖飯店集團，下列何者不屬於此一集團？ Westin Four Points <sub> </sub> <sub>Okura</sub> Le Meridien 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 114
+  }
+}

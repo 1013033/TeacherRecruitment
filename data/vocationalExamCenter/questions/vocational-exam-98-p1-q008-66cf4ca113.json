@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-98-p1-q008-66cf4ca113",
+    "sourceYear": 98,
+    "sourceLabel": "98 年 專業科目(一) 第 8 題",
+    "sourceFile": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md",
+    "sourceLocator": "專一\\output\\98-1專一試題\\auto\\98-1專一試題.md#offset-1270",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "下列關於旅館業的敘述，何者錯誤？",
+    "images": [
+      {
+        "id": "vocational-exam-98-p1-q008-66cf4ca113-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-98-p1-q008-66cf4ca113-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "渡假旅館有多樣的休閒娛樂設施"
+      },
+      {
+        "id": "B",
+        "text": "公寓式旅館較可能有廚房設備"
+      },
+      {
+        "id": "C",
+        "text": "商業旅館之住房淡旺季比其他類型旅館明顯"
+      },
+      {
+        "id": "D",
+        "text": "汽車旅館的營業收入甚少來自餐飲"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：營業收入、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：營業收入、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於旅館業的敘述，何者錯誤？ 渡假旅館有多樣的休閒娛樂設施 公寓式旅館較可能有廚房設備 商業旅館之住房淡旺季比其他類型旅館明顯 汽車旅館的營業收入甚少來自餐飲 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1209
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-114-p1-q004-38a2c01e9d",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 4 題",
+    "sourceFile": "專一\\output\\114專一試題\\auto\\114專一試題.md",
+    "sourceLocator": "專一\\output\\114專一試題\\auto\\114專一試題.md#offset-1217",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 4,
+    "questionType": "single-choice",
+    "prompt": "陽光民宿所供應早餐多是以現成品為主，客人可以挑選一種麵包搭配一個果醬和一杯飲料。表(一)為4月1日5間單人房的早餐點餐內容，而這些食材的進貨成本如表(二)。民宿當日每客早餐的平均成本是多少元？ 表 ( 一 ) <table><tr><td rowspan=1 colspan=1>房號</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=1>205</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=1>305</td></tr><tr><td rowspan=1 colspan=1>餐點</td><td rowspan=1 colspan=1>可頌/果醬黑咖啡</td><td rowspan=1 colspan=1>貝果/果醬鮮奶茶</td><td rowspan=1 colspan=1>貝果/果醬黑咖啡</td><td rowspan=1 colspan=1>可頌/果醬鮮奶茶</td><td rowspan=1 colspan=1>可頌/果醬柳橙汁</td></tr></table> <table><tr><td rowspan=1 colspan=1>原料</td><td rowspan=1 colspan=1>進貨單位</td><td rowspan=1 colspan=1>進貨單價</td><td rowspan=1 colspan=1>可供應份量</td></tr><tr><td rowspan=1 colspan=1>可頌麵包</td><td rowspan=1 colspan=1>盒</td><td rowspan=1 colspan=1>150元</td><td rowspan=1 colspan=1>10份</td></tr><tr><td rowspan=1 colspan=1>貝果</td><td rowspan=1 colspan=1>袋</td><td rowspan=1 colspan=1>60元</td><td rowspan=1 colspan=1>5份</td></tr><tr><td rowspan=1 colspan=1>100%還原柳橙汁</td><td rowspan=1 colspan=1>瓶</td><td rowspan=1 colspan=1>100元</td><td rowspan=1 colspan=1>5份</td></tr><tr><td rowspan=1 colspan=1>鮮奶</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>160元</td><td rowspan=1 colspan=1>10份</td></tr><tr><td rowspan=1 colspan=1>紅茶茶包</td><td rowspan=1 colspan=1>盒</td><td rowspan=1 colspan=1>100元</td><td rowspan=1 colspan=1>50份</td></tr><tr><td rowspan=1 colspan=1>咖啡膠囊</td><td rowspan=1 colspan=1>盒</td><td rowspan=1 colspan=1>200元</td><td rowspan=1 colspan=1>10份</td></tr><tr><td rowspan=1 colspan=1>果醬</td><td rowspan=1 colspan=1>箱</td><td rowspan=1 colspan=1>800元</td><td rowspan=1 colspan=1>200份</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "37 表(二)"
+      },
+      {
+        "id": "A",
+        "text": "35"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡、茶、紅茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡、茶、紅茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "陽光民宿所供應早餐多是以現成品為主，客人可以挑選一種麵包搭配一個果醬和一杯飲料。表(一)為4月1日5間單人房的早餐點餐內容，而這些食材的進貨成本如表(二)。民宿當日每客早餐的平均成本是多少元？ 表 ( 一 ) <table><tr><td rowspan=1 colspan=1>房號</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=1>205</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=1>305</td></tr><tr><td rowspan=1 colspan=1>餐點</td><td rowspan=1 colspan=1>可頌/果醬黑咖啡</td><td rowspan=1 colspan=1>貝果/果醬鮮奶茶</td><td rowspan=1 colspan=1>貝果/果醬黑咖啡</td><td rowspan=1 colspan=1>可頌/果醬鮮奶茶</td><td rowspan=1 colspan=1>可頌/果醬柳橙汁</td></tr></table> <table><tr><td rowspan=1 colspan=1>原料</td><td rowspan=1 colspan=1>進貨單位</td><td rowspan=1 colspan=1>進貨單價</td><td rowspan=1 colspan=1>可供應份量</td></tr><tr><td rowspan=1 colspan=1>可頌麵包</td><td rowspan=1 colspan=1>盒</td><td rowspan=1 colspan=1>150元</td><td rowspan=1 colspan=1>10份</td></tr><tr><td rowspan=1 colspan=1>貝果</td><td rowspan=1 colspan=1>袋</td><td rowspan=1 colspan=1>60元</td><td rowspan=1 colspan=1>5份</td></tr><tr><td rowspan=1 colspan=1>100%還原柳橙汁</td><td rowspan=1 colspan=1>瓶</td><td rowspan=1 colspan=1>100元</td><td rowspan=1 colspan=1>5份</td></tr><tr><td rowspan=1 colspan=1>鮮奶</td><td rowspan=1 colspan=1>罐</td><td rowspan=1 colspan=1>160元</td><td rowspan=1 colspan=1>10份</td></tr><tr><td rowspan=1 colspan=1>紅茶茶包</td><td rowspan=1 colspan=1>盒</td><td rowspan=1 colspan=1>100元</td><td rowspan=1 colspan=1>50份</td></tr><tr><td rowspan=1 colspan=1>咖啡膠囊</td><td rowspan=1 colspan=1>盒</td><td rowspan=1 colspan=1>200元</td><td rowspan=1 colspan=1>10份</td></tr><tr><td rowspan=1 colspan=1>果醬</td><td rowspan=1 colspan=1>箱</td><td rowspan=1 colspan=1>800元</td><td rowspan=1 colspan=1>200份</td></tr></table> 36 37 表(二) 35 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 689
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q046-0e14577061",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 46 題",
+    "sourceFile": "107\\output\\117-4專二試題\\auto\\117-4專二試題.md",
+    "sourceLocator": "107\\output\\117-4專二試題\\auto\\117-4專二試題.md#offset-5593",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "1818 Bar 提供多款的人氣 Cocktail，其中包括【Screwdriver、Bloody Mary、Kamikaze】，以上準備材料時的相同之處為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Orange Slice"
+      },
+      {
+        "id": "B",
+        "text": "Old Fashioned Glass"
+      },
+      {
+        "id": "C",
+        "text": "Fresh Lemon Juice"
+      },
+      {
+        "id": "D",
+        "text": "Vodka"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：vodka、cocktail、bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：vodka、cocktail、bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "1818 Bar 提供多款的人氣 Cocktail，其中包括【Screwdriver、Bloody Mary、Kamikaze】，以上準備材料時的相同之處為何？ Orange Slice Old Fashioned Glass Fresh Lemon Juice Vodka 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 347
+  }
+}

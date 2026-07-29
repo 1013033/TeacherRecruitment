@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-111-p2-q046-7237646616",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 46 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-8500",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "因COVID-19疫情持續起伏，部分學校採取線上課程，並以課後作業作為課程的學習評量。老師講授「咖啡豆種類」單元時，介紹了市面上常見的單品咖啡豆名稱、產地及特性，並設計線上課後作業，內容如下表；學生依序填寫①、②、③、④的正確組合為何？ 常見單品咖啡的風味特性 <table><tr><td rowspan=1 colspan=1>咖啡名稱</td><td rowspan=1 colspan=1>產地國</td><td rowspan=1 colspan=1>特性</td></tr><tr><td rowspan=1 colspan=1>Blue mountain</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>品質佳，酸度適中、味道甘柔滑口、風味均衡，是咖啡中的極品。</td></tr><tr><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>Brazil</td><td rowspan=1 colspan=1>口感溫和、味道均衡、品質均勻，適合用於調配混合咖啡的基礎豆。</td></tr><tr><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>Indonesia</td><td rowspan=1 colspan=1>屬於羅布斯塔種，苦味強而濃郁，適合深焙，用於調配混合咖啡。</td></tr><tr><td rowspan=1 colspan=1>Mocha</td><td rowspan=1 colspan=1>④</td><td rowspan=1 colspan=1>具有豐富的酸味，味道香醇，風味獨特，以出口港為命名來源。</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Colombia、Mandheling、Java、Ethiopia"
+      },
+      {
+        "id": "B",
+        "text": "Guatemala、Santos、Kenya、Hawaii"
+      },
+      {
+        "id": "C",
+        "text": "Jamaica、Mocha、Yirgacheffe、Costa Rica"
+      },
+      {
+        "id": "D",
+        "text": "Jamaica、Santos、Java、Ethiopia"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "因COVID-19疫情持續起伏，部分學校採取線上課程，並以課後作業作為課程的學習評量。老師講授「咖啡豆種類」單元時，介紹了市面上常見的單品咖啡豆名稱、產地及特性，並設計線上課後作業，內容如下表；學生依序填寫①、②、③、④的正確組合為何？ 常見單品咖啡的風味特性 <table><tr><td rowspan=1 colspan=1>咖啡名稱</td><td rowspan=1 colspan=1>產地國</td><td rowspan=1 colspan=1>特性</td></tr><tr><td rowspan=1 colspan=1>Blue mountain</td><td rowspan=1 colspan=1>①</td><td rowspan=1 colspan=1>品質佳，酸度適中、味道甘柔滑口、風味均衡，是咖啡中的極品。</td></tr><tr><td rowspan=1 colspan=1>②</td><td rowspan=1 colspan=1>Brazil</td><td rowspan=1 colspan=1>口感溫和、味道均衡、品質均勻，適合用於調配混合咖啡的基礎豆。</td></tr><tr><td rowspan=1 colspan=1>③</td><td rowspan=1 colspan=1>Indonesia</td><td rowspan=1 colspan=1>屬於羅布斯塔種，苦味強而濃郁，適合深焙，用於調配混合咖啡。</td></tr><tr><td rowspan=1 colspan=1>Mocha</td><td rowspan=1 colspan=1>④</td><td rowspan=1 colspan=1>具有豐富的酸味，味道香醇，風味獨特，以出口港為命名來源。</td></tr></table> Colombia、Mandheling、Java、Ethiopia Guatemala、Santos、Kenya、Hawaii Jamaica、Mocha、Yirgacheffe、Costa Rica Jamaica、Santos、Java、Ethiopia 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1855
+  }
+}

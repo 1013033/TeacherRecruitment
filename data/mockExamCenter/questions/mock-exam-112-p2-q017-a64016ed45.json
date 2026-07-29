@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-112-p2-q017-a64016ed45",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 17 題",
+    "sourceFile": "112\\output\\112-2-四技二專-17餐旅群專二試題\\auto\\112-2-四技二專-17餐旅群專二試題.md",
+    "sourceLocator": "112\\output\\112-2-四技二專-17餐旅群專二試題\\auto\\112-2-四技二專-17餐旅群專二試題.md#offset-2362",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "雪碧旅行社利用夏季安排員工旅遊前往日本北海道欣賞紫色薰衣草田的美景後，特別安排員工享受日本常採用的宴會形式，菜餚豐富多變且酒類暢飲的和食料理，請問員工們體驗到的是何種料理？",
+    "images": [
+      {
+        "id": "mock-exam-112-p2-q017-a64016ed45-img-01",
+        "src": "data/mockExamCenter/assets/mock-exam-112-p2-q017-a64016ed45-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "本膳料理"
+      },
+      {
+        "id": "B",
+        "text": "懷石料理"
+      },
+      {
+        "id": "C",
+        "text": "會席料理"
+      },
+      {
+        "id": "D",
+        "text": "精進料理"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅行社、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅行社、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "雪碧旅行社利用夏季安排員工旅遊前往日本北海道欣賞紫色薰衣草田的美景後，特別安排員工享受日本常採用的宴會形式，菜餚豐富多變且酒類暢飲的和食料理，請問員工們體驗到的是何種料理？ 本膳料理 懷石料理 會席料理 精進料理 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2443
+  }
+}

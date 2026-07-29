@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-97-p2-q019-65d541bdf0",
+    "sourceYear": 97,
+    "sourceLabel": "97 年 專業科目(二) 第 19 題",
+    "sourceFile": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md",
+    "sourceLocator": "專二\\output\\97-1專二試題\\auto\\97-1專二試題.md#offset-1950",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "下列關於西式早餐蛋類製作的敘述，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "製作水煮蛋 ( Boiled egg )，雞蛋如於水沸後放入鍋中，蛋殼較不易破裂"
+      },
+      {
+        "id": "B",
+        "text": "太陽蛋 ( Sunny side up egg ) 即是兩面煎蛋"
+      },
+      {
+        "id": "C",
+        "text": "製作蛋捲 ( Omelet ) 時，應以煎鏟沿蛋皮邊緣由外圍向內摺捲成半月形"
+      },
+      {
+        "id": "D",
+        "text": "水波蛋 ( Poached egg ) 是將帶殼的蛋放入沸水中快速燙熟"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列關於西式早餐蛋類製作的敘述，何者正確？ 製作水煮蛋 ( Boiled egg )，雞蛋如於水沸後放入鍋中，蛋殼較不易破裂 太陽蛋 ( Sunny side up egg ) 即是兩面煎蛋 製作蛋捲 ( Omelet ) 時，應以煎鏟沿蛋皮邊緣由外圍向內摺捲成半月形 水波蛋 ( Poached egg ) 是將帶殼的蛋放入沸水中快速燙熟 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2412
+  }
+}

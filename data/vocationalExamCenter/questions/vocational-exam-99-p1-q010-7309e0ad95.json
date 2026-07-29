@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-99-p1-q010-7309e0ad95",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(一) 第 10 題",
+    "sourceFile": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md",
+    "sourceLocator": "專一\\output\\99-1專一試題\\auto\\99-1專一試題.md#offset-1578",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "阿進具有碩士學位，目前在國內某大學休閒系擔任專任教師，並教授觀光專業課程，但未曾在旅行業工作過。若他希望取得旅行業經理人資格，依現行「旅行業管理規則」，請問阿進需具備下列哪一項條件，才能於最短的時間內參加經理人講習(訓練)？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "在校授課滿 1年後始可參加"
+      },
+      {
+        "id": "B",
+        "text": "在校授課滿2年後始可參加"
+      },
+      {
+        "id": "C",
+        "text": "須前往旅行業觀摩實習滿 2年後始可參加"
+      },
+      {
+        "id": "D",
+        "text": "因無旅行業工作經驗，故不具參加資格"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[觀光餐旅業導論] - [觀光餐旅概論]",
+    "conceptId": "tourism-hospitality-fundamentals",
+    "conceptLabel": "觀光餐旅業基本觀念、特性與發展",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：觀光、休閒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：觀光、休閒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "阿進具有碩士學位，目前在國內某大學休閒系擔任專任教師，並教授觀光專業課程，但未曾在旅行業工作過。若他希望取得旅行業經理人資格，依現行「旅行業管理規則」，請問阿進需具備下列哪一項條件，才能於最短的時間內參加經理人講習(訓練)？ 在校授課滿 1年後始可參加 在校授課滿2年後始可參加 須前往旅行業觀摩實習滿 2年後始可參加 因無旅行業工作經驗，故不具參加資格 觀光餐旅業基本觀念、特性與發展 [觀光餐旅業導論] - [觀光餐旅概論]",
+    "sequence": 1251
+  }
+}

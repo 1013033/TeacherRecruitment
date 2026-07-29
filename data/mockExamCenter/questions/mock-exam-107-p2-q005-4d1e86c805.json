@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q005-4d1e86c805",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 5 題",
+    "sourceFile": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md",
+    "sourceLocator": "107\\output\\117-3專二試題\\auto\\117-3專二試題.md#offset-688",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "下列哪一項物品，不是一般餐廳Service Station 中的固定必備品？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Table Knife"
+      },
+      {
+        "id": "B",
+        "text": "Dinner Fork"
+      },
+      {
+        "id": "C",
+        "text": "Soup Spoon"
+      },
+      {
+        "id": "D",
+        "text": "Chafing Dish"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：service、table、fork、knife、spoon"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：service、table、fork、knife、spoon"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一項物品，不是一般餐廳Service Station 中的固定必備品？ Table Knife Dinner Fork Soup Spoon Chafing Dish 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 218
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q017-5ae3b0fc90",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 17 題",
+    "sourceFile": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md",
+    "sourceLocator": "108\\output\\118-1專二試題\\auto\\118-1專二試題.md#offset-2891",
+    "paperTitle": "專業科目(二)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "下列哪些開胃菜在食用時，客人可以用手去碰觸菜餚？甲、鮮蝦盅 乙、沙拉蔬菜棒 丙、宴會小點心 丁、田螺 戊、朝鮮薊 己、煙燻鮭魚",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲乙丙"
+      },
+      {
+        "id": "B",
+        "text": "乙丙丁"
+      },
+      {
+        "id": "C",
+        "text": "乙丙戊"
+      },
+      {
+        "id": "D",
+        "text": "乙戊己"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪些開胃菜在食用時，客人可以用手去碰觸菜餚？甲、鮮蝦盅 乙、沙拉蔬菜棒 丙、宴會小點心 丁、田螺 戊、朝鮮薊 己、煙燻鮭魚 甲乙丙 乙丙丁 乙丙戊 乙戊己 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 507
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q003-ed1abfbf22",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 3 題",
+    "sourceFile": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md",
+    "sourceLocator": "108\\output\\118-3專二試題\\auto\\118-3專二試題.md#offset-404",
+    "paperTitle": "專業科目(二)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "周董夫妻於 10 月 13 日(五)晚上宴請好友彈頭夫妻一起到西餐廳用餐，你身為當日服務員，請依據下列訊息分別為四位客人推薦適合之主餐。 <table><tr><td>賓客</td><td>宗教信仰</td><td>RESTAURANT MENU</td></tr><tr><td>男主人</td><td>Judaism</td><td>Main Course</td></tr><tr><td>女主人</td><td>Catholicism</td><td>Rôti Mixed Vegetable with Berry sauce</td></tr><tr><td>男主賓</td><td>Hinduism</td><td>Pan-Fried Tuna Steak With Tartar Sauce</td></tr><tr><td>女主賓</td><td>Buddhism</td><td>Whiskey Sliced Chicken with Cream sauce Grilled prime rib eye steak with anchovy</td></tr></table>",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "男主人 Grilled prime rib eye steak with anchovy 女主人 Pan-Fried Tuna Steak With Tartar Sauce 男主賓 Whiskey Sliced Chicken with Cream sauce 女主賓 Rôti Mixed Vegetable with Berry sauce"
+      },
+      {
+        "id": "B",
+        "text": "男主人 Whiskey Sliced Chicken with Cream sauce 女主人 Pan-Fried Tuna Steak With Tartar Sauce 男主賓 Grilled prime rib eye steak with anchovy 女主賓 Rôti Mixed Vegetable with Berry sauce"
+      },
+      {
+        "id": "C",
+        "text": "男主人 Pan-Fried Tuna Steak With Tartar Sauce 女主人 Grilled prime rib eye steak with anchovy 男主賓 Rôti Mixed Vegetable with Berry sauce 女主賓 Whiskey Sliced Chicken with Cream sauce"
+      },
+      {
+        "id": "D",
+        "text": "男主人 Grilled prime rib eye steak with anchovy 女主人 Whiskey Sliced Chicken with Cream sauce 男主賓 Pan-Fried Tuna Steak With Tartar Sauce 女主賓 Rôti Mixed Vegetable with Berry sauce"
+      }
+    ],
+    "answer": "A",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：西餐、grill、sauce"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：西餐、grill、sauce"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "周董夫妻於 10 月 13 日(五)晚上宴請好友彈頭夫妻一起到西餐廳用餐，你身為當日服務員，請依據下列訊息分別為四位客人推薦適合之主餐。 <table><tr><td>賓客</td><td>宗教信仰</td><td>RESTAURANT MENU</td></tr><tr><td>男主人</td><td>Judaism</td><td>Main Course</td></tr><tr><td>女主人</td><td>Catholicism</td><td>Rôti Mixed Vegetable with Berry sauce</td></tr><tr><td>男主賓</td><td>Hinduism</td><td>Pan-Fried Tuna Steak With Tartar Sauce</td></tr><tr><td>女主賓</td><td>Buddhism</td><td>Whiskey Sliced Chicken with Cream sauce Grilled prime rib eye steak with anchovy</td></tr></table> 男主人 Grilled prime rib eye steak with anchovy 女主人 Pan-Fried Tuna Steak With Tartar Sauce 男主賓 Whiskey Sliced Chicken with Cream sauce 女主賓 Rôti Mixed Vegetable with Berry sauce 男主人 Whiskey Sliced Chicken with Cream sauce 女主人 Pan-Fried Tuna Steak With Tartar Sauce 男主賓 Grilled prime rib eye steak with anchovy 女主賓 Rôti Mixed Vegetable with Berry sauce 男主人 Pan-Fried Tuna Steak With Tartar Sauce 女主人 Grilled prime rib eye steak with anchovy 男主賓 Rôti Mixed Vegetable with Berry sauce 女主賓 Whiskey Sliced Chicken with Cream sauce 男主人 Grilled prime rib eye steak with anchovy 女主人 Whiskey Sliced Chicken with Cream sauce 男主賓 Pan-Fried Tuna Steak With Tartar Sauce 女主賓 Rôti Mixed Vegetable with Berry sauce 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 679
+  }
+}

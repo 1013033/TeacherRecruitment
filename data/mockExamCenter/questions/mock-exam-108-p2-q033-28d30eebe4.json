@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q033-28d30eebe4",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 33 題",
+    "sourceFile": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md",
+    "sourceLocator": "108\\output\\118-5專二試題\\auto\\118-5專二試題.md#offset-5555",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "火警感知器及消防灑水器皆安裝於天花板上，當火警感知器偵測到該場域的變化時，便會發出蜂鳴警示，並連動自動灑水器的啟動，而開始灑水滅火，請問餐廳和廚房較易產生高溫的場所，適合哪一種滅火器？甲、偵煙感知器 乙、定溫式感知器 丙、差動式感知器",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙"
+      },
+      {
+        "id": "B",
+        "text": "甲乙"
+      },
+      {
+        "id": "C",
+        "text": "乙丙"
+      },
+      {
+        "id": "D",
+        "text": "甲乙丙 ## 第二部分：飲料與調酒"
+      }
+    ],
+    "answer": "A",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "火警感知器及消防灑水器皆安裝於天花板上，當火警感知器偵測到該場域的變化時，便會發出蜂鳴警示，並連動自動灑水器的啟動，而開始灑水滅火，請問餐廳和廚房較易產生高溫的場所，適合哪一種滅火器？甲、偵煙感知器 乙、定溫式感知器 丙、差動式感知器 乙 甲乙 乙丙 甲乙丙 ## 第二部分：飲料與調酒 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 896
+  }
+}

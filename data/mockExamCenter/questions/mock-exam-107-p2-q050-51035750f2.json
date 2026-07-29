@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p2-q050-51035750f2",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(二) 第 50 題",
+    "sourceFile": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md",
+    "sourceLocator": "107\\output\\117-5專二試題\\auto\\117-5專二試題.md#offset-8920",
+    "paperTitle": "專業科目(二)第 5 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "酒吧的類型眾多，有一種酒吧型態是非主人酒吧(No-Host Bar)，即在私人性質的宴會中，客人必須為所喝的每一杯飲料付錢，此種酒吧稱爲：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Lobby Bar"
+      },
+      {
+        "id": "B",
+        "text": "Cash Bar"
+      },
+      {
+        "id": "C",
+        "text": "Service Bar"
+      },
+      {
+        "id": "D",
+        "text": "Open Bar ## 【以下空白】"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "酒吧的類型眾多，有一種酒吧型態是非主人酒吧(No-Host Bar)，即在私人性質的宴會中，客人必須為所喝的每一杯飲料付錢，此種酒吧稱爲： Lobby Bar Cash Bar Service Bar Open Bar ## 【以下空白】 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 443
+  }
+}

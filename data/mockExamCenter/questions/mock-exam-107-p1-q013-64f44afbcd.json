@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q013-64f44afbcd",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 13 題",
+    "sourceFile": "107\\output\\117-1專一試題\\auto\\117-1專一試題.md",
+    "sourceLocator": "107\\output\\117-1專一試題\\auto\\117-1專一試題.md#offset-1876",
+    "paperTitle": "專業科目(一)第 1 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列敘述中，何者從事之活動未符合「觀光」之定義？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "阿丞家住臺中，與同學搭乘火車前往臺南探看報到學校，晚上逛花園夜市，住民宿過夜"
+      },
+      {
+        "id": "B",
+        "text": "小德家住臺北，與臺南來訪的友人一同參觀臺北故宮，夜宿晶華酒店，隔日才返家"
+      },
+      {
+        "id": "C",
+        "text": "阿傑家住桃園，前往宜蘭出差，工作結束已是深夜，便投住宿當地飯店，隔日才返家"
+      },
+      {
+        "id": "D",
+        "text": "小柔家住高雄，假日與友人前往墾丁度假，夜遊墾丁大街，並住宿福華飯店"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：飯店、住宿、民宿"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：飯店、住宿、民宿"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列敘述中，何者從事之活動未符合「觀光」之定義？ 阿丞家住臺中，與同學搭乘火車前往臺南探看報到學校，晚上逛花園夜市，住民宿過夜 小德家住臺北，與臺南來訪的友人一同參觀臺北故宮，夜宿晶華酒店，隔日才返家 阿傑家住桃園，前往宜蘭出差，工作結束已是深夜，便投住宿當地飯店，隔日才返家 小柔家住高雄，假日與友人前往墾丁度假，夜遊墾丁大街，並住宿福華飯店 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 13
+  }
+}

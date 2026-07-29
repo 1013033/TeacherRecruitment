@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-109-p2-q028-11918e0ad1",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(二) 第 28 題",
+    "sourceFile": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md",
+    "sourceLocator": "專二\\output\\109-1專二試題\\auto\\109-1專二試題.md#offset-4587",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 28,
+    "questionType": "single-choice",
+    "prompt": "國際觀光旅館房務員進行鋪設羽絨被客房遷出後的布巾清點作業，已知 face towel、hand towel、bed sheet、pillow case 等布巾清點總數為 14 條；假設客房內布巾數是按房型對應人數擺放之條件下，則該客房房型最有可能為下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "四人房(兩大床)"
+      },
+      {
+        "id": "B",
+        "text": "三人房(一大床、一小床)"
+      },
+      {
+        "id": "C",
+        "text": "雙人房(兩小床)"
+      },
+      {
+        "id": "D",
+        "text": "單人房(一小床)"
+      }
+    ],
+    "answer": "B",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅館、客房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "國際觀光旅館房務員進行鋪設羽絨被客房遷出後的布巾清點作業，已知 face towel、hand towel、bed sheet、pillow case 等布巾清點總數為 14 條；假設客房內布巾數是按房型對應人數擺放之條件下，則該客房房型最有可能為下列何者？ 四人房(兩大床) 三人房(一大床、一小床) 雙人房(兩小床) 單人房(一小床) 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 1761
+  }
+}

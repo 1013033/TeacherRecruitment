@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-109-p1-q012-b8d1b4cd46",
+    "sourceYear": 109,
+    "sourceLabel": "109 年 專業科目(一) 第 12 題",
+    "sourceFile": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md",
+    "sourceLocator": "109\\output\\109-4專一試題\\auto\\109-4專一試題.md#offset-2305",
+    "paperTitle": "專業科目(一)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 12,
+    "questionType": "single-choice",
+    "prompt": "暖心廚房十二月份的營業收入及成本記錄如下表所示，試問其「銷售毛利率」為多少？食材成本 飲料成本 人事成本 銷售總額46,000 元 20,000 元 32,000 元 120,000 元",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "18%"
+      },
+      {
+        "id": "B",
+        "text": "45%"
+      },
+      {
+        "id": "C",
+        "text": "55%"
+      },
+      {
+        "id": "D",
+        "text": "62%"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：人事成本、食材成本、營業收入、毛利、廚房、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：人事成本、食材成本、營業收入、毛利、廚房、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "暖心廚房十二月份的營業收入及成本記錄如下表所示，試問其「銷售毛利率」為多少？食材成本 飲料成本 人事成本 銷售總額46,000 元 20,000 元 32,000 元 120,000 元 18% 45% 55% 62% 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1202
+  }
+}

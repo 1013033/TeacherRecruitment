@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p1-q036-09cb233660",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 36 題",
+    "sourceFile": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md",
+    "sourceLocator": "專一\\output\\94-1專一試題\\auto\\94-1專一試題.md#offset-4069",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列有關菜單的敘述，何者最不適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "特別菜單(special menu) 指的是針對特殊的節慶所設計的菜單"
+      },
+      {
+        "id": "B",
+        "text": "菜單工程 (menu engineering) 是依點菜率和邊際貢獻率做為更換菜單項目的依據"
+      },
+      {
+        "id": "C",
+        "text": "單點菜單 (à la carte) 詳細記載菜餚的食用方式及訂席資料"
+      },
+      {
+        "id": "D",
+        "text": "週期菜單 (cycle menu) 是以一定期間做為循環週期所設計的菜單"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有關菜單的敘述，何者最不適當？ 特別菜單(special menu) 指的是針對特殊的節慶所設計的菜單 菜單工程 (menu engineering) 是依點菜率和邊際貢獻率做為更換菜單項目的依據 單點菜單 (à la carte) 詳細記載菜餚的食用方式及訂席資料 週期菜單 (cycle menu) 是以一定期間做為循環週期所設計的菜單 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1010
+  }
+}

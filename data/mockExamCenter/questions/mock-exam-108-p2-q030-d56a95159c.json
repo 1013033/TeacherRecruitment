@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-108-p2-q030-d56a95159c",
+    "sourceYear": 108,
+    "sourceLabel": "108 年 專業科目(二) 第 30 題",
+    "sourceFile": "108\\output\\118-4專二試題\\auto\\118-4專二試題.md",
+    "sourceLocator": "108\\output\\118-4專二試題\\auto\\118-4專二試題.md#offset-3654",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 30,
+    "questionType": "single-choice",
+    "prompt": "有關「客房務服務人員工作說明」中，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Reservation Clerk：當車輛抵達旅館時，其應上前為顧客開門"
+      },
+      {
+        "id": "B",
+        "text": "Porter：準確、迅速且有禮地為旅客處理訂房事宜"
+      },
+      {
+        "id": "C",
+        "text": "Operator：協助電話轉接或晨喚服務"
+      },
+      {
+        "id": "D",
+        "text": "Doorperson：引領顧客至大廳櫃檯辦理入住登記，接取鑰匙搬運行李至客房"
+      }
+    ],
+    "answer": "C",
+    "subject": "lodging",
+    "subjectLabel": "旅館管理",
+    "unit": "[觀光餐旅業導論] - [旅館業]",
+    "conceptId": "lodging-hotel-operations",
+    "conceptLabel": "旅館客房、訂房與房務管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、訂房、reservation、櫃檯"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：旅館、客房、訂房、reservation、櫃檯"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關「客房務服務人員工作說明」中，下列何者正確？ Reservation Clerk：當車輛抵達旅館時，其應上前為顧客開門 Porter：準確、迅速且有禮地為旅客處理訂房事宜 Operator：協助電話轉接或晨喚服務 Doorperson：引領顧客至大廳櫃檯辦理入住登記，接取鑰匙搬運行李至客房 旅館客房、訂房與房務管理 [觀光餐旅業導論] - [旅館業]",
+    "sequence": 795
+  }
+}

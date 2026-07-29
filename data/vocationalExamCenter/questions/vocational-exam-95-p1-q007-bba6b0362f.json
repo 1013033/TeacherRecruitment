@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-95-p1-q007-bba6b0362f",
+    "sourceYear": 95,
+    "sourceLabel": "95 年 專業科目(一) 第 7 題",
+    "sourceFile": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md",
+    "sourceLocator": "專一\\output\\95-1專一試題\\auto\\95-1專一試題.md#offset-730",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "目前我國人民到下列哪一個國家短期旅遊，不用辦理簽證？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "荷蘭"
+      },
+      {
+        "id": "B",
+        "text": "美國"
+      },
+      {
+        "id": "C",
+        "text": "法國"
+      },
+      {
+        "id": "D",
+        "text": "日本"
+      },
+      {
+        "id": "D",
+        "text": "日月潭國家風景區"
+      },
+      {
+        "id": "B",
+        "text": "新加坡航空：SQ"
+      },
+      {
+        "id": "C",
+        "text": "八卦山"
+      },
+      {
+        "id": "D",
+        "text": "梨山"
+      },
+      {
+        "id": "D",
+        "text": "長榮航空：BA"
+      }
+    ],
+    "answer": "D",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：簽證、航空、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：簽證、航空、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "目前我國人民到下列哪一個國家短期旅遊，不用辦理簽證？ 荷蘭 美國 法國 日本 日月潭國家風景區 新加坡航空：SQ 八卦山 梨山 長榮航空：BA 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 1059
+  }
+}

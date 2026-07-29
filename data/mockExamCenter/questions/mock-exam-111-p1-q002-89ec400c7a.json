@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p1-q002-89ec400c7a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 2 題",
+    "sourceFile": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md",
+    "sourceLocator": "111\\output\\111-3專一試題\\auto\\111-3專一試題.md#offset-275",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "ouTube上人氣頻道─阿星探店Chinese Food Tour是一檔真實接地氣的美食探店節目，主持人阿星吃遍大江南北，在某個特輯當中，其品嚐了脆皮乳豬、芋泥鴨、蠔油芥菜和汕頭火鍋，試推測該檔特輯主題菜系介紹為何？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "粵菜"
+      },
+      {
+        "id": "B",
+        "text": "川菜"
+      },
+      {
+        "id": "C",
+        "text": "魯菜"
+      },
+      {
+        "id": "D",
+        "text": "浙菜"
+      }
+    ],
+    "answer": "A",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：tour"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：tour"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "ouTube上人氣頻道─阿星探店Chinese Food Tour是一檔真實接地氣的美食探店節目，主持人阿星吃遍大江南北，在某個特輯當中，其品嚐了脆皮乳豬、芋泥鴨、蠔油芥菜和汕頭火鍋，試推測該檔特輯主題菜系介紹為何？ 粵菜 川菜 魯菜 浙菜 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 2032
+  }
+}

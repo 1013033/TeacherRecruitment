@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q013-48fc4d8e7a",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 13 題",
+    "sourceFile": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md",
+    "sourceLocator": "111\\output\\111-4專二試題\\auto\\111-4專二試題.md#offset-3968",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 13,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個單點菜單，在餐桌擺設時，不會放置洗手盅供客人使用？甲、Foie Gras 乙、Asparagus 丙、Artichokes 丁、Caviar戊、Mussel 己、Escargot in a Ceramic Dish 庚、Oyster with Shell",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "乙、戊"
+      },
+      {
+        "id": "B",
+        "text": "己、庚"
+      },
+      {
+        "id": "C",
+        "text": "甲、丁、己"
+      },
+      {
+        "id": "D",
+        "text": "乙、丙、戊"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個單點菜單，在餐桌擺設時，不會放置洗手盅供客人使用？甲、Foie Gras 乙、Asparagus 丙、Artichokes 丁、Caviar戊、Mussel 己、Escargot in a Ceramic Dish 庚、Oyster with Shell 乙、戊 己、庚 甲、丁、己 乙、丙、戊 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2166
+  }
+}

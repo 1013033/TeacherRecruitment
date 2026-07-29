@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-8b01146f5f",
+  "question": {
+    "id": "vocational-exam-94-p2-makeup-q035-7e664c1295",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 35 題",
+    "sourceFile": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md",
+    "sourceLocator": "專二\\output\\94-3專二補考試題\\auto\\94-3專二補考試題.md#offset-2786",
+    "paperTitle": "專業科目(二)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 35,
+    "questionType": "single-choice",
+    "prompt": "下列口布摺疊方式與其主要功能的配對，何者正確？摺疊方式：甲、花蝴蝶；乙、濟公帽；丙、小蓮花。主要功能：ㄅ、服勤用；ㄆ、顧客用；ㄇ、觀賞用。",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲ㄅ、乙ㄆ、丙ㄇ"
+      },
+      {
+        "id": "B",
+        "text": "甲ㄆ、乙ㄅ、丙ㄇ"
+      },
+      {
+        "id": "C",
+        "text": "甲ㄇ、乙ㄆ、丙ㄅ"
+      },
+      {
+        "id": "D",
+        "text": "甲ㄇ、乙ㄅ、丙ㄆ"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：口布"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：口布"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列口布摺疊方式與其主要功能的配對，何者正確？摺疊方式：甲、花蝴蝶；乙、濟公帽；丙、小蓮花。主要功能：ㄅ、服勤用；ㄆ、顧客用；ㄇ、觀賞用。 甲ㄅ、乙ㄆ、丙ㄇ 甲ㄆ、乙ㄅ、丙ㄇ 甲ㄇ、乙ㄆ、丙ㄅ 甲ㄇ、乙ㄅ、丙ㄆ 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2283
+  }
+}

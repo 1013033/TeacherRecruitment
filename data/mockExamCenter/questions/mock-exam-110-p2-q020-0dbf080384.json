@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p2-q020-0dbf080384",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(二) 第 20 題",
+    "sourceFile": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md",
+    "sourceLocator": "110\\output\\110-4專二試題\\auto\\110-4專二試題.md#offset-3179",
+    "paperTitle": "專業科目(二)第 4 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "正式服務菜餚可分爲四個階段，即傳菜→上菜→秀菜→分菜，下列敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "傳菜：由傳菜生將廚房做好的菜餚<sup>，</sup>連同佐料<sup>、</sup>備品<sup>，</sup>以托盤端至餐廳服務檯<sup>，</sup>若盤子太大<sup>，</sup>則可 直接以手端送"
+      },
+      {
+        "id": "B",
+        "text": "上菜：服務員應核對點菜單<sup>，</sup>確認菜色<sup>、</sup>份量<sup>、</sup>桌號或房號均無誤後<sup>，</sup>始可上桌"
+      },
+      {
+        "id": "C",
+        "text": "秀菜：有轉檯的餐桌<sup>，</sup>通常需要秀菜<sup>，</sup>菜餚上桌時應先打聲招呼<sup>，</sup>清楚唸出菜名以逆時針方向推動 轉檯，介紹菜餚的特色及做法"
+      },
+      {
+        "id": "D",
+        "text": "分菜：分為桌上分菜及旁桌分菜兩種方式"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：餐廳、菜單、廚房"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：餐廳、菜單、廚房"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "正式服務菜餚可分爲四個階段，即傳菜→上菜→秀菜→分菜，下列敘述何者錯誤？ 傳菜：由傳菜生將廚房做好的菜餚<sup>，</sup>連同佐料<sup>、</sup>備品<sup>，</sup>以托盤端至餐廳服務檯<sup>，</sup>若盤子太大<sup>，</sup>則可 直接以手端送 上菜：服務員應核對點菜單<sup>，</sup>確認菜色<sup>、</sup>份量<sup>、</sup>桌號或房號均無誤後<sup>，</sup>始可上桌 秀菜：有轉檯的餐桌<sup>，</sup>通常需要秀菜<sup>，</sup>菜餚上桌時應先打聲招呼<sup>，</sup>清楚唸出菜名以逆時針方向推動 轉檯，介紹菜餚的特色及做法 分菜：分為桌上分菜及旁桌分菜兩種方式 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1725
+  }
+}

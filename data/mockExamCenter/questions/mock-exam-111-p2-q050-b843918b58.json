@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-111-p2-q050-b843918b58",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 50 題",
+    "sourceFile": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md",
+    "sourceLocator": "111\\output\\111-2專二試題\\auto\\111-2專二試題.md#offset-6841",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "咖啡的沖煮器具中，其結構類似注射針筒，裡面放置咖啡粉與熱水，壓下推桿後，咖啡會透過濾紙流入容器中，其風味結合壓力式與濾泡式的特點，是指下列何種咖啡沖煮器具？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Aero Press"
+      },
+      {
+        "id": "B",
+        "text": "Espresso Machine"
+      },
+      {
+        "id": "C",
+        "text": "Plunger Pot"
+      },
+      {
+        "id": "D",
+        "text": "Vacuum Pot 【以下空白】"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：咖啡、espresso"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：咖啡、espresso"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "咖啡的沖煮器具中，其結構類似注射針筒，裡面放置咖啡粉與熱水，壓下推桿後，咖啡會透過濾紙流入容器中，其風味結合壓力式與濾泡式的特點，是指下列何種咖啡沖煮器具？ Aero Press Espresso Machine Plunger Pot Vacuum Pot 【以下空白】 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2030
+  }
+}

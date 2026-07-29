@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-107-p1-q027-e90da8818f",
+    "sourceYear": 107,
+    "sourceLabel": "107 年 專業科目(一) 第 27 題",
+    "sourceFile": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md",
+    "sourceLocator": "107\\output\\117-2專一試題\\auto\\117-2專一試題.md#offset-4090",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "有關餐飲人員專業職稱用語之組合，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Bartender－侍酒師"
+      },
+      {
+        "id": "B",
+        "text": "Receptionist－接待員"
+      },
+      {
+        "id": "C",
+        "text": "Butcher Cook－切割廚師"
+      },
+      {
+        "id": "D",
+        "text": "Commis de Rang－助理服務員"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：bar"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：bar"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關餐飲人員專業職稱用語之組合，下列何者錯誤？ Bartender－侍酒師 Receptionist－接待員 Butcher Cook－切割廚師 Commis de Rang－助理服務員 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 103
+  }
+}

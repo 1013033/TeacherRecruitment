@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p1-q047-3f050ea3e8",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(一) 第 47 題",
+    "sourceFile": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md",
+    "sourceLocator": "114\\output\\114-2專一試題\\auto\\114-2專一試題.md#offset-9229",
+    "paperTitle": "專業科目(一)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 47,
+    "questionType": "single-choice",
+    "prompt": "張家在家中自行製作肉燥罐頭，因密封不完全且未充分加熱，導致細菌、病毒繁殖並產生神經毒素。食用後3 人出現視力模糊、肌肉無力及呼吸困難的症狀，緊急施打抗毒素後倖存，根據以上敘述，是屬於下列何種病菌所引起的食物中毒？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "沙門氏菌"
+      },
+      {
+        "id": "B",
+        "text": "腸炎弧菌"
+      },
+      {
+        "id": "C",
+        "text": "仙人掌桿菌"
+      },
+      {
+        "id": "D",
+        "text": "肉毒桿菌"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：沙門氏、肉毒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：沙門氏、肉毒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "張家在家中自行製作肉燥罐頭，因密封不完全且未充分加熱，導致細菌、病毒繁殖並產生神經毒素。食用後3 人出現視力模糊、肌肉無力及呼吸困難的症狀，緊急施打抗毒素後倖存，根據以上敘述，是屬於下列何種病菌所引起的食物中毒？ 沙門氏菌 腸炎弧菌 仙人掌桿菌 肉毒桿菌 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 3376
+  }
+}

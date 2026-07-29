@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-110-p1-q031-f249dc7432",
+    "sourceYear": 110,
+    "sourceLabel": "110 年 專業科目(一) 第 31 題",
+    "sourceFile": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md",
+    "sourceLocator": "110\\output\\110-3專一試題\\auto\\110-3專一試題.md#offset-5778",
+    "paperTitle": "專業科目(一)第 3 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 31,
+    "questionType": "single-choice",
+    "prompt": "中國地大物博，各地依不同氣候、食材、文化發展不同料理特色，衍生為今日之八大菜系，下列相關敘述何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "川：夫妻肺片、怪味雞"
+      },
+      {
+        "id": "B",
+        "text": "湘：左宗棠雞、蒜苗臘肉"
+      },
+      {
+        "id": "C",
+        "text": "浙：東坡肉、紅燒滑水"
+      },
+      {
+        "id": "D",
+        "text": "皖：問政山筍、無錫排骨"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依模擬考題幹與選項關鍵字比對：菜系、食材"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依模擬考題幹與選項關鍵字比對：菜系、食材"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "中國地大物博，各地依不同氣候、食材、文化發展不同料理特色，衍生為今日之八大菜系，下列相關敘述何者錯誤？ 川：夫妻肺片、怪味雞 湘：左宗棠雞、蒜苗臘肉 浙：東坡肉、紅燒滑水 皖：問政山筍、無錫排骨 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 1590
+  }
+}

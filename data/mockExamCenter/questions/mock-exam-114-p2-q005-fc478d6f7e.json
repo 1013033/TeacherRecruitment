@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "mock-exam-317449fe6d",
+  "question": {
+    "id": "mock-exam-114-p2-q005-fc478d6f7e",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 5 題",
+    "sourceFile": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md",
+    "sourceLocator": "114\\output\\114-2專二試題\\auto\\114-2專二試題.md#offset-813",
+    "paperTitle": "專業科目(二)第 2 次模擬考",
+    "schoolName": "餐旅群模擬考",
+    "questionNumber": 5,
+    "questionType": "single-choice",
+    "prompt": "宴客菜色豐富，其中的「豆酥鱈魚」更是讓桌上賓客讚不絕口，而其盛裝菜餚的容器應使用下列何種款式的餐盤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Shallow Bowl"
+      },
+      {
+        "id": "B",
+        "text": "Oval Plate"
+      },
+      {
+        "id": "C",
+        "text": "Relish Dish"
+      },
+      {
+        "id": "D",
+        "text": "Waste Plate"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "宴客菜色豐富，其中的「豆酥鱈魚」更是讓桌上賓客讚不絕口，而其盛裝菜餚的容器應使用下列何種款式的餐盤？ Shallow Bowl Oval Plate Relish Dish Waste Plate 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 3384
+  }
+}
