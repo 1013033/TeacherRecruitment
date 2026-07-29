@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-111-p2-q038-bc1c7d31ef",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 38 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-7208",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "主要產區以火山岩土壤種植，口感豐富且風味帶有強酸的是下列哪一種咖啡豆？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Blue mountain"
+      },
+      {
+        "id": "B",
+        "text": "Kenya"
+      },
+      {
+        "id": "C",
+        "text": "Kona"
+      },
+      {
+        "id": "D",
+        "text": "Mandheling"
+      }
+    ],
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "主要產區以火山岩土壤種植，口感豐富且風味帶有強酸的是下列哪一種咖啡豆？ Blue mountain Kenya Kona Mandheling 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1847
+  }
+}

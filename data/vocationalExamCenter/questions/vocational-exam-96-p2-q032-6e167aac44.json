@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-96-p2-q032-6e167aac44",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 32 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-3254",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 32,
+    "questionType": "single-choice",
+    "prompt": "訂婚宴席三桌，排法如圖(一)，試問新人的父母親應坐在哪一桌？",
+    "images": [
+      {
+        "id": "vocational-exam-96-p2-q032-6e167aac44-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-96-p2-q032-6e167aac44-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "A 桌"
+      },
+      {
+        "id": "B",
+        "text": "B 桌"
+      },
+      {
+        "id": "C",
+        "text": "C 桌"
+      },
+      {
+        "id": "D",
+        "text": "隨意坐圖(一) 門"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：宴席"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：宴席"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "訂婚宴席三桌，排法如圖(一)，試問新人的父母親應坐在哪一桌？ A 桌 B 桌 C 桌 隨意坐圖(一) 門 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2376
+  }
+}

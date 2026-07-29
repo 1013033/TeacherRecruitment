@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-90-p1-q033-a41e5d9a3e",
+    "sourceYear": 90,
+    "sourceLabel": "90 年 專業科目(一) 第 33 題",
+    "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
+    "sourceLocator": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md#offset-3505",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "護照持照㆟已依法更改中文姓名，持照㆟則：",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "不需換發新護照"
+      },
+      {
+        "id": "B",
+        "text": "應換發新護照"
+      },
+      {
+        "id": "C",
+        "text": "原護照加簽更改後的中文姓名即可"
+      },
+      {
+        "id": "D",
+        "text": "原護照增加中文別名即可"
+      }
+    ],
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：護照"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：護照"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [
+      "missing-answer"
+    ],
+    "searchText": "護照持照㆟已依法更改中文姓名，持照㆟則： 不需換發新護照 應換發新護照 原護照加簽更改後的中文姓名即可 原護照增加中文別名即可 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 806
+  }
+}

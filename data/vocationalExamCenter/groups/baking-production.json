@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "vocational-exam-8b01146f5f",
+  "dataVersion": "vocational-exam-c6c8f7f884",
   "concept": {
     "id": "baking-production",
     "subject": "baking",
@@ -9,15 +9,15 @@
     "label": "烘焙原料、製程與品質判斷",
     "description": "",
     "questionIds": [
-      "vocational-exam-115-p1-q037-c1afce6155",
-      "vocational-exam-115-p2-q022-45a56859ee",
+      "vocational-exam-115-p1-q037-2fa6f1fee8",
+      "vocational-exam-115-p2-q022-f00211d9e4",
       "vocational-exam-114-p1-q007-756e9bc55d",
-      "vocational-exam-114-p2-q005-9013d0c079",
-      "vocational-exam-114-p2-q008-631c83c0a6",
-      "vocational-exam-114-p2-q020-a1113de39a",
+      "vocational-exam-114-p2-q005-b145b1fd16",
+      "vocational-exam-114-p2-q008-6cc81813a2",
+      "vocational-exam-114-p2-q020-ca502ef0dc",
       "vocational-exam-113-p1-q041-25083f1ed6",
-      "vocational-exam-113-p2-q014-695b4469be",
-      "vocational-exam-112-p2-q030-4e55b89157",
+      "vocational-exam-113-p2-q014-54c5e545d4",
+      "vocational-exam-112-p2-q030-7610471a5a",
       "vocational-exam-109-p2-q015-54e1351106",
       "vocational-exam-107-p2-q008-e0bf4576b3",
       "vocational-exam-104-p1-q008-7c5a85f8a3",
@@ -25,7 +25,7 @@
       "vocational-exam-101-p2-q007-2284c09a59",
       "vocational-exam-100-p2-q001-c1cfe39a8c",
       "vocational-exam-99-p2-q009-df3ee1f725",
-      "vocational-exam-99-p2-q032-6e43d876b1",
+      "vocational-exam-99-p2-q032-b6407fd59e",
       "vocational-exam-97-p2-q021-d7c43daad1",
       "vocational-exam-97-p2-q023-620eb34fd5",
       "vocational-exam-97-p2-q024-df9d4f8863",
@@ -36,7 +36,7 @@
       "vocational-exam-96-p2-q008-aaa272f1fa",
       "vocational-exam-96-p2-q009-67e1534bc4",
       "vocational-exam-96-p2-q010-a3a457650c",
-      "vocational-exam-96-p2-q017-9a2f068928",
+      "vocational-exam-96-p2-q017-ee91755d07",
       "vocational-exam-95-p2-q010-bf4b2ccf16",
       "vocational-exam-95-p2-q018-c644d802c4",
       "vocational-exam-95-p2-q019-4c833edb1a",
@@ -115,11 +115,11 @@
   },
   "questions": [
     {
-      "id": "vocational-exam-115-p1-q037-c1afce6155",
+      "id": "vocational-exam-115-p1-q037-2fa6f1fee8",
       "sourceYear": 115,
       "sourceLabel": "115 年 專業科目(一) 第 37 題",
       "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
-      "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-11414",
+      "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-10225",
       "paperTitle": "專業科目(一)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 37,
@@ -196,11 +196,11 @@
       "sequence": 772
     },
     {
-      "id": "vocational-exam-115-p2-q022-45a56859ee",
+      "id": "vocational-exam-115-p2-q022-f00211d9e4",
       "sourceYear": 115,
       "sourceLabel": "115 年 專業科目(二) 第 22 題",
       "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
-      "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-5325",
+      "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-5310",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 22,
@@ -208,8 +208,8 @@
       "prompt": "經由餐廳人員的推薦，Mary選擇merlot搭配主餐飲用，她會使用到下列哪一款杯子？ ## ▲閱讀下文，回答第 23-25 題 可可為國際觀光旅館宴會廳之實習生。該旅館即將承接萬萬公司舉辦之「年度高階主管會議暨餐會」，與會人數共 20 位。宴會廳張經理帶領部門同仁與實習生，依萬萬公司之需求，共同規劃會議場地配置，並執行專業西餐服務流程。萬萬公司之需求如下： 甲、會場桌椅擺設須便於與會者書寫與交流，不可在座位後方安排另一位與會者就坐；以避免討論時，前方的與會者須回頭和後方與會者交流 乙、會議結束後，須於同一場地舉辦西式套餐宴席 丙、西式套餐宴席主餐為 12份sea bass及8份sirloin steak，每份主餐搭配1杯佐餐葡萄酒根據萬萬公司之需求，宴會廳張經理所規劃的服務流程如下： ①先派送麵包後再提供奶油，且麵包可無限量供應至甜點結束後 ②西餐清湯以雙耳湯碗搭配底盤盛放後呈遞 ③佐餐葡萄酒須於上主菜前完成葡萄酒服務 ④上甜點前，應將點心叉置於客人左手邊，點心匙置於客人右手邊",
       "images": [
         {
-          "id": "vocational-exam-115-p2-q022-45a56859ee-img-01",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-115-p2-q022-45a56859ee-img-01.jpg",
+          "id": "vocational-exam-115-p2-q022-f00211d9e4-img-01",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-115-p2-q022-f00211d9e4-img-01.jpg",
           "alt": "第 1 張題目圖片"
         }
       ],
@@ -326,11 +326,11 @@
       "sequence": 692
     },
     {
-      "id": "vocational-exam-114-p2-q005-9013d0c079",
+      "id": "vocational-exam-114-p2-q005-b145b1fd16",
       "sourceYear": 114,
       "sourceLabel": "114 年 專業科目(二) 第 5 題",
       "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
-      "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-3123",
+      "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-1269",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 5,
@@ -407,11 +407,11 @@
       "sequence": 1962
     },
     {
-      "id": "vocational-exam-114-p2-q008-631c83c0a6",
+      "id": "vocational-exam-114-p2-q008-6cc81813a2",
       "sourceYear": 114,
       "sourceLabel": "114 年 專業科目(二) 第 8 題",
       "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
-      "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-3623",
+      "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-1769",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 8,
@@ -488,11 +488,11 @@
       "sequence": 1965
     },
     {
-      "id": "vocational-exam-114-p2-q020-a1113de39a",
+      "id": "vocational-exam-114-p2-q020-ca502ef0dc",
       "sourceYear": 114,
       "sourceLabel": "114 年 專業科目(二) 第 20 題",
       "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
-      "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-7245",
+      "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-5391",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 20,
@@ -500,38 +500,38 @@
       "prompt": "關於Jennie爸爸單點飲品的敘述，下列何者正確？",
       "images": [
         {
-          "id": "vocational-exam-114-p2-q020-a1113de39a-img-01",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-a1113de39a-img-01.jpg",
+          "id": "vocational-exam-114-p2-q020-ca502ef0dc-img-01",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-ca502ef0dc-img-01.jpg",
           "alt": "第 1 張題目圖片"
         },
         {
-          "id": "vocational-exam-114-p2-q020-a1113de39a-img-02",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-a1113de39a-img-02.jpg",
+          "id": "vocational-exam-114-p2-q020-ca502ef0dc-img-02",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-ca502ef0dc-img-02.jpg",
           "alt": "第 2 張題目圖片"
         },
         {
-          "id": "vocational-exam-114-p2-q020-a1113de39a-img-03",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-a1113de39a-img-03.jpg",
+          "id": "vocational-exam-114-p2-q020-ca502ef0dc-img-03",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-ca502ef0dc-img-03.jpg",
           "alt": "第 3 張題目圖片"
         },
         {
-          "id": "vocational-exam-114-p2-q020-a1113de39a-img-04",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-a1113de39a-img-04.jpg",
+          "id": "vocational-exam-114-p2-q020-ca502ef0dc-img-04",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-ca502ef0dc-img-04.jpg",
           "alt": "第 4 張題目圖片"
         },
         {
-          "id": "vocational-exam-114-p2-q020-a1113de39a-img-05",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-a1113de39a-img-05.jpg",
+          "id": "vocational-exam-114-p2-q020-ca502ef0dc-img-05",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-ca502ef0dc-img-05.jpg",
           "alt": "第 5 張題目圖片"
         },
         {
-          "id": "vocational-exam-114-p2-q020-a1113de39a-img-06",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-a1113de39a-img-06.jpg",
+          "id": "vocational-exam-114-p2-q020-ca502ef0dc-img-06",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-ca502ef0dc-img-06.jpg",
           "alt": "第 6 張題目圖片"
         },
         {
-          "id": "vocational-exam-114-p2-q020-a1113de39a-img-07",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-a1113de39a-img-07.jpg",
+          "id": "vocational-exam-114-p2-q020-ca502ef0dc-img-07",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q020-ca502ef0dc-img-07.jpg",
           "alt": "第 7 張題目圖片"
         }
       ],
@@ -686,11 +686,11 @@
       "sequence": 676
     },
     {
-      "id": "vocational-exam-113-p2-q014-695b4469be",
+      "id": "vocational-exam-113-p2-q014-54c5e545d4",
       "sourceYear": 113,
       "sourceLabel": "113 年 專業科目(二) 第 14 題",
       "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
-      "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-3601",
+      "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-3203",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 14,
@@ -698,8 +698,8 @@
       "prompt": "舒華在國際觀光旅館西餐廳工作，今日迎來了常客雨琦及其友人前來慶祝生日。大家隨意入座，如圖(二)所示。關於舒華當天的服務，下列敘述何者正確？ ## 圖 ( 二 )",
       "images": [
         {
-          "id": "vocational-exam-113-p2-q014-695b4469be-img-01",
-          "src": "data/vocationalExamCenter/assets/vocational-exam-113-p2-q014-695b4469be-img-01.jpg",
+          "id": "vocational-exam-113-p2-q014-54c5e545d4-img-01",
+          "src": "data/vocationalExamCenter/assets/vocational-exam-113-p2-q014-54c5e545d4-img-01.jpg",
           "alt": "第 1 張題目圖片"
         }
       ],
@@ -773,11 +773,11 @@
       "sequence": 1922
     },
     {
-      "id": "vocational-exam-112-p2-q030-4e55b89157",
+      "id": "vocational-exam-112-p2-q030-7610471a5a",
       "sourceYear": 112,
       "sourceLabel": "112 年 專業科目(二) 第 30 題",
       "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
-      "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-6244",
+      "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-5817",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 30,
@@ -932,7 +932,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於西餐麵包服務與其食用的禮儀，下列敘述何者正確？ 服務人員應從顧客的正前方服務麵包 服務人員宜於點完餐後再進行派送麵包的動作 麵包宜先抹上奶油，再以奶油刀切成小塊食用 麵包盤與奶油刀宜在上主菜之前撤除，以淨空桌面讓顧客享用菜餚 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 1748
+      "sequence": 1747
     },
     {
       "id": "vocational-exam-107-p2-q008-e0bf4576b3",
@@ -1013,7 +1013,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於西餐餐後甜點與飲料服務的敘述，下列何者正確？ Irish coffee 僅限以 catering service 的方式服務 甜點應從顧客的右側服務，飲料則從左側服務 服務人員在送甜點與飲料前，宜使用 crumb scoop站在顧客的左側清理桌面的麵包屑 餐後甜點若為三角形的切片蛋糕，服務時應將蛋糕的尖端以 12 點鐘的方向朝向顧客 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 1645
+      "sequence": 1644
     },
     {
       "id": "vocational-exam-104-p1-q008-7c5a85f8a3",
@@ -1175,7 +1175,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "點心盤上三角型蛋糕之尖端，應朝向幾點鐘方向，以方便顧客取用？ 3 點鐘方向 6 點鐘方向 9 點鐘方向 12 點鐘方向 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 1392
+      "sequence": 1391
     },
     {
       "id": "vocational-exam-101-p2-q007-2284c09a59",
@@ -1256,7 +1256,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "使用服務叉、匙派送食物，下列敘述何者正確？ 以單手握服務叉、匙時，服務叉應握於下方，服務匙握於上方 用雙手派送較重的食物時，必須以右手握服務叉，左手握服務匙 以單手握服務叉、匙時，不可以叉、匙面同時朝上的操作方式派送麵包 以單手握服務叉、匙時，無名指的位置是在叉、匙之間 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 1346
+      "sequence": 1345
     },
     {
       "id": "vocational-exam-100-p2-q001-c1cfe39a8c",
@@ -1337,7 +1337,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "在西式宴會用餐過程中若要暫時離席，餐刀、餐叉應如何放置以符合禮儀？ 放回原來位置 簡單擦拭後，擺放於麵包盤上 分別斜靠於盤緣的左右兩側，呈八字形 以平行或交叉方式橫擺於盤中 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 1292
+      "sequence": 1291
     },
     {
       "id": "vocational-exam-99-p2-q009-df3ee1f725",
@@ -1424,14 +1424,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列關於餐飲服務器皿的描述，何者錯誤 ？ 題 B.B. plate 是用來盛裝麵包的器皿 chafing dish 是指主廚盛裝主菜的器皿 pepper mill 可用來研磨胡椒粒以供調味 show plate 是指擺設使用的展示盤 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2501
+      "sequence": 2502
     },
     {
-      "id": "vocational-exam-99-p2-q032-6e43d876b1",
+      "id": "vocational-exam-99-p2-q032-b6407fd59e",
       "sourceYear": 99,
       "sourceLabel": "99 年 專業科目(二) 第 32 題",
       "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
-      "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-4737",
+      "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-4641",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 32,
@@ -1505,7 +1505,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "在西式套餐中有 cold appetizer、soup、hot appetizer、sherbet、main course、cheese、dessert and coffee，撤除麵包盤的最佳時機為何？ hot appetizer 後 sherbet 前 sherbet 後 main course 前 main course 後 cheese 前 cheese 後 dessert 前 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2516
+      "sequence": 2525
     },
     {
       "id": "vocational-exam-97-p2-q021-d7c43daad1",
@@ -1586,7 +1586,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "點心房吳師傅交代實習生阿明製作土司麵包 243 條。已知每條土司重量為 1,000 公克，耗損率為10 %，實習生阿明查看土司製作的配方如下： <table><tr><td>材料名稱</td><td>烘焙百分比 %</td><td>材料名稱</td><td>烘焙百分比 %</td></tr><tr><td>高筋麵粉</td><td>100</td><td>鹽</td><td>1.5</td></tr><tr><td>水</td><td>65</td><td>奶粉</td><td>5.7</td></tr><tr><td>新鮮酵母</td><td>3</td><td>改良劑</td><td>0.3</td></tr><tr><td>糖</td><td>4.5</td><td></td><td></td></tr></table> 依照土司麵包配方，阿明應該準備幾公斤的麵粉？ 135kg 150 kg 267kg 270kg 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2414
+      "sequence": 2415
     },
     {
       "id": "vocational-exam-97-p2-q023-620eb34fd5",
@@ -1667,7 +1667,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列對於食物的描述，何者是指「Canapé」？ 將禽肉去皮、去骨，包入肉餡或捲成圓柱狀，以高湯煮熟後冷卻的一種餡餅或餡捲 以奶油布丁 ( Custard ) 為內餡，放入烤箱烘焙而成的一種鹹派或塔 將肉切成粗末狀，放置於陶土製的長方或橢圓模中，製作而成的一種肉凍或肉醬餅 以麵包、土司或餅乾等為底，上面擺放餡料及裝飾物的一種開胃小品 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2416
+      "sequence": 2417
     },
     {
       "id": "vocational-exam-97-p2-q024-df9d4f8863",
@@ -1748,7 +1748,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "蘋果派內餡的凝膠現象，通常是因為加上水、糖以及下列哪一種原料而形成？ 玉米澱粉 動物膠 洋菜粉 高筋麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2417
+      "sequence": 2418
     },
     {
       "id": "vocational-exam-97-p2-q025-533bcfc306",
@@ -1829,7 +1829,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列何種材料，是製作蛋糕時常用的膨大劑？ 糖 牛奶 吉利丁 小蘇打 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2418
+      "sequence": 2419
     },
     {
       "id": "vocational-exam-97-p2-q026-b0a1e53915",
@@ -1910,7 +1910,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "西式點心的派皮若要具有不太硬也不太鬆碎的酥脆口感，製作時宜選用下列何種麵粉？ 特高筋麵粉 高筋麵粉 中筋麵粉 低筋麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2419
+      "sequence": 2420
     },
     {
       "id": "vocational-exam-97-p2-q046-11783c02c0",
@@ -1991,7 +1991,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列關於正式餐會中麵包食用禮儀的敘述，何者最適當？ 食用右手邊麵包盤上的麵包 麵包用手撕成小塊，塗上奶油後食用 麵包塗上奶油後，整個拿起來吃 以奶油刀切開麵包，塗上奶油後食用 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2439
+      "sequence": 2440
     },
     {
       "id": "vocational-exam-97-p2-q048-16fdad0b9e",
@@ -2072,7 +2072,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "顧客食用內含煙燻鮭魚、洋葱湯、沙碧、菲力牛排、蛋糕及咖啡之套餐時，撤除麵包盤的最好時機是哪時候？ 收洋葱湯時一起撤除 收沙碧時一起撤除 收菲力牛排時一起撤除 收蛋糕時一起撤除 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2441
+      "sequence": 2442
     },
     {
       "id": "vocational-exam-96-p2-q008-aaa272f1fa",
@@ -2153,7 +2153,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "蛋、麵粉、太白粉、發粉、油、水等材料可配成不同特性的糊，除了水之外，下列何者是 蛋 製成糊最關鍵的材料？ 發粉 太白粉 麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2351
+      "sequence": 2352
     },
     {
       "id": "vocational-exam-96-p2-q009-67e1534bc4",
@@ -2234,7 +2234,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "製作「韭菜盒子」的麵糰，下列敘述何者正確？ 該麵糰屬於冷水麵糰 製作麵糰時需要加入溫熱的水 不需要經過鬆弛的步驟 最好使用特高筋麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2352
+      "sequence": 2353
     },
     {
       "id": "vocational-exam-96-p2-q010-a3a457650c",
@@ -2315,14 +2315,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一種產品較適合用低筋麵粉製作？ 開口笑 銀絲捲 土司 蔥油餅 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2353
+      "sequence": 2354
     },
     {
-      "id": "vocational-exam-96-p2-q017-9a2f068928",
+      "id": "vocational-exam-96-p2-q017-ee91755d07",
       "sourceYear": 96,
       "sourceLabel": "96 年 專業科目(二) 第 17 題",
       "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
-      "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-1961",
+      "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-1881",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 17,
@@ -2396,7 +2396,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "有關蛋糕製作，下列敘述何者正確？ 海綿蛋糕屬於乳沫類蛋糕 天使蛋糕只用蛋白製作，屬於戚風類蛋糕 製作蛋糕通常需使用中筋麵粉 乳沫類蛋糕含有大量的油脂 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2360
+      "sequence": 2361
     },
     {
       "id": "vocational-exam-95-p2-q010-bf4b2ccf16",
@@ -2477,7 +2477,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "層酥麵食如太陽餅、咖哩餃，其產品層次分明、細軟鬆酥，主要是因為下列哪一項原料特性的發揮？ 蛋 油脂 糖 麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2307
+      "sequence": 2308
     },
     {
       "id": "vocational-exam-95-p2-q018-c644d802c4",
@@ -2558,7 +2558,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "做天使蛋糕打蛋白時，不小心加了下列哪一項物質，會阻礙泡沫形成，導致蛋白打不起來？ 油脂 鹽 糖 醋 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2315
+      "sequence": 2316
     },
     {
       "id": "vocational-exam-95-p2-q019-4c833edb1a",
@@ -2639,7 +2639,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "鹽在西點烘焙的製品中具有多種功能，下列哪一項功能較無法獲得認同？ 呈味劑 調味劑 品質改良劑 防腐劑 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2316
+      "sequence": 2317
     },
     {
       "id": "vocational-exam-94-p2-q009-e9c00299bf",
@@ -3125,7 +3125,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "製作韭菜盒應使用下列哪一種麵粉？ 低筋 中筋 高筋 雜糧麵粉 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2259
+      "sequence": 2260
     },
     {
       "id": "vocational-exam-94-p2-makeup-q049-b13631cad5",
@@ -3206,7 +3206,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列麵粉類別與其主要製成品的配對，何者正確？麵粉類：甲、高筋麵粉； 乙、中筋麵粉； 丙、低筋麵粉。製成品：ㄅ、饅頭； ㄆ、法國麵包； ㄇ、海綿蛋糕。 甲ㄅ、乙ㄆ、丙ㄇ 甲ㄆ、乙ㄅ、丙ㄇ 甲ㄇ、乙ㄆ、丙ㄅ 甲ㄇ、乙ㄅ、丙ㄆ 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2296
+      "sequence": 2297
     },
     {
       "id": "vocational-exam-94-p2-makeup-q050-d69eb4b81e",
@@ -3287,7 +3287,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "一般而言，下列哪一種不是製作慕斯( mousse )的主要原料？ 鮮奶油 ( cream ) 吉利丁 ( gelatine ) 蛋白 ( egg white ) 玉米澱粉 ( cornstarch ) 【以下空白】 ## ## ## 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 2297
+      "sequence": 2298
     },
     {
       "id": "vocational-exam-93-p1-q031-a3280c27be",
@@ -3368,7 +3368,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "客人若食用過期的土司麵包，容易導致何種性質的食物中毒？ 細菌性 徽菌毒素 化學性 植物性天然毒素 烘焙原料、製程與品質判斷 [烘焙實務] - [烘焙原料與製程]",
-      "sequence": 956
+      "sequence": 954
     },
     {
       "id": "vocational-exam-92-p2-q005-2a74e9da9c",

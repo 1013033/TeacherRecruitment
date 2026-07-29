@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q009-49794b5baf",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 9 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-1912",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 9,
+    "questionType": "single-choice",
+    "prompt": "有關中餐廳的餐桌擺設及備品需求，下列何者最為合適？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "熱茶服務應選用保溫座及精緻刻花的水晶玻璃水杯，以顯餐宴高貴"
+      },
+      {
+        "id": "B",
+        "text": "餐巾摺疊造型應選用花俏且大於盤面的樣式，以顯餐宴貴氣及大方"
+      },
+      {
+        "id": "C",
+        "text": "桌花及醬油、醋等調味罐均應該整齊放置在轉盤的正中央，以顯整齊一致性"
+      },
+      {
+        "id": "D",
+        "text": "烈酒服務應將烈酒杯、公杯整齊排列在轉盤外側邊緣，杯嘴朝左，以顯專業"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐桌、餐巾"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐桌、餐巾"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "有關中餐廳的餐桌擺設及備品需求，下列何者最為合適？ 熱茶服務應選用保溫座及精緻刻花的水晶玻璃水杯，以顯餐宴高貴 餐巾摺疊造型應選用花俏且大於盤面的樣式，以顯餐宴貴氣及大方 桌花及醬油、醋等調味罐均應該整齊放置在轉盤的正中央，以顯整齊一致性 烈酒服務應將烈酒杯、公杯整齊排列在轉盤外側邊緣，杯嘴朝左，以顯專業 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1868
+  }
+}

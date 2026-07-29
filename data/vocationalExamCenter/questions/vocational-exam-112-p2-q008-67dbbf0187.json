@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q008-67dbbf0187",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 8 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-1758",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 8,
+    "questionType": "single-choice",
+    "prompt": "小旻剛到飯店中餐廳實習，經理告訴小旻餐桌布置與擺設需快速也要注意衛生及美觀，同時考量顧客用餐空間舒適，若以定位的角度整齊擺設，小旻擺設下列餐具的順序應以何者為最佳？①筷子湯匙、筷架 ②味碟、湯碗 ③骨盤 ④果汁杯 ⑤茶杯",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "①②③④⑤"
+      },
+      {
+        "id": "B",
+        "text": "①③②⑤④"
+      },
+      {
+        "id": "C",
+        "text": "③②①④⑤"
+      },
+      {
+        "id": "D",
+        "text": "③①⑤④②"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具、餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具、餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小旻剛到飯店中餐廳實習，經理告訴小旻餐桌布置與擺設需快速也要注意衛生及美觀，同時考量顧客用餐空間舒適，若以定位的角度整齊擺設，小旻擺設下列餐具的順序應以何者為最佳？①筷子湯匙、筷架 ②味碟、湯碗 ③骨盤 ④果汁杯 ⑤茶杯 ①②③④⑤ ①③②⑤④ ③②①④⑤ ③①⑤④② 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1867
+  }
+}

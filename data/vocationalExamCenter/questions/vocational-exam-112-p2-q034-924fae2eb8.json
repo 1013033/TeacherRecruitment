@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q034-924fae2eb8",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 34 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-6751",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 34,
+    "questionType": "single-choice",
+    "prompt": "沖泡茶葉的水溫須依據茶葉特性、外觀形狀、發酵程度以及烘焙等因素有所改變，下列的敘述何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "水溫越高，沖泡時也越容易有苦澀味"
+      },
+      {
+        "id": "B",
+        "text": "嫩芽越多的茶葉，需要用越高溫沖泡出風味"
+      },
+      {
+        "id": "C",
+        "text": "發酵越重的茶葉顏色越深，因此通常用越低溫的水沖泡"
+      },
+      {
+        "id": "D",
+        "text": "輕發酵茶因為發酵程度相當低，需要越高溫沖泡才能萃取出風味"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、沖泡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、沖泡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "沖泡茶葉的水溫須依據茶葉特性、外觀形狀、發酵程度以及烘焙等因素有所改變，下列的敘述何者正確？ 水溫越高，沖泡時也越容易有苦澀味 嫩芽越多的茶葉，需要用越高溫沖泡出風味 發酵越重的茶葉顏色越深，因此通常用越低溫的水沖泡 輕發酵茶因為發酵程度相當低，需要越高溫沖泡才能萃取出風味 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1893
+  }
+}

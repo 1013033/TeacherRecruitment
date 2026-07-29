@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-113-p2-q015-7d98c89c86",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 15 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-3507",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "eon 剛自餐旅管理學系畢業並加入獲得米其林三星西餐廳的工作團隊，今晚迎接了顧客Eason和他伴侶Albee，前來慶祝結婚週年紀念日。關於 Leon所提供的餐後甜點與飲料的服務，下列敘述何者為正確的服務流程？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "在提供甜點之前，Leon先收拾客人的麵包盤，再使用口布來清理客人的桌面"
+      },
+      {
+        "id": "B",
+        "text": "Leon服務甜點時，將甜點匙直接放上甜點盤，一併送至Eason及Albee面前"
+      },
+      {
+        "id": "C",
+        "text": "Leon服務餐後飲料時，從 Albee左方提供餐後紅茶，再附上檸檬片與糖包"
+      },
+      {
+        "id": "D",
+        "text": "Leon從 Eason右方先將糖盅以及奶盅放到桌上，再服務熱咖啡"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡、茶、紅茶、飲料"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡、茶、紅茶、飲料"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "eon 剛自餐旅管理學系畢業並加入獲得米其林三星西餐廳的工作團隊，今晚迎接了顧客Eason和他伴侶Albee，前來慶祝結婚週年紀念日。關於 Leon所提供的餐後甜點與飲料的服務，下列敘述何者為正確的服務流程？ 在提供甜點之前，Leon先收拾客人的麵包盤，再使用口布來清理客人的桌面 Leon服務甜點時，將甜點匙直接放上甜點盤，一併送至Eason及Albee面前 Leon服務餐後飲料時，從 Albee左方提供餐後紅茶，再附上檸檬片與糖包 Leon從 Eason右方先將糖盅以及奶盅放到桌上，再服務熱咖啡 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1923
+  }
+}

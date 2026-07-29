@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-114-p2-q016-3efb12b256",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 16 題",
+    "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
+    "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-4326",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "晚宴的座位席次安排如圖(一)，關於當天之座位與服務安排，下列何者正確？",
+    "images": [
+      {
+        "id": "vocational-exam-114-p2-q016-3efb12b256-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-114-p2-q016-3efb12b256-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "興哲應該直接坐在B的位置"
+      },
+      {
+        "id": "B",
+        "text": "爾軒應該直接坐在C的位置"
+      },
+      {
+        "id": "C",
+        "text": "服務人員由左側為D上主菜"
+      },
+      {
+        "id": "D",
+        "text": "位置E可為賓客點選佐餐酒"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "晚宴的座位席次安排如圖(一)，關於當天之座位與服務安排，下列何者正確？ 興哲應該直接坐在B的位置 爾軒應該直接坐在C的位置 服務人員由左側為D上主菜 位置E可為賓客點選佐餐酒 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1973
+  }
+}

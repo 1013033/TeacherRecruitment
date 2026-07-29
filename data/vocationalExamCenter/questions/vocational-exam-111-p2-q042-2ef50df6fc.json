@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-111-p2-q042-2ef50df6fc",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(二) 第 42 題",
+    "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
+    "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-7620",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "老師在飲料實務課堂中示範了各式酒精性飲料的標準調製法，並讓同學分組練習。下列關於雞尾酒與其使用的調製法內容，何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "以電動攪拌法調製Mai tai，將所有材料加入水、冰塊，以電動攪拌機拌打均勻後倒入成品杯中"
+      },
+      {
+        "id": "B",
+        "text": "以漂浮法調製Rusty nail，運用材料間的比重差異，依序將材料倒入成品杯中以達到分層的效果"
+      },
+      {
+        "id": "C",
+        "text": "以搖盪法調製Whiskey sour，將不易混合均勻的材料與冰塊加入雪克杯中一併搖盪後，過濾倒入成品杯中"
+      },
+      {
+        "id": "D",
+        "text": "以注入法調製Tom collins，將材料依序加入刻度調酒杯中，以吧叉匙攪拌均勻後過濾倒入成品杯中"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：酒精、酒杯、調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：酒精、酒杯、調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "老師在飲料實務課堂中示範了各式酒精性飲料的標準調製法，並讓同學分組練習。下列關於雞尾酒與其使用的調製法內容，何者正確？ 以電動攪拌法調製Mai tai，將所有材料加入水、冰塊，以電動攪拌機拌打均勻後倒入成品杯中 以漂浮法調製Rusty nail，運用材料間的比重差異，依序將材料倒入成品杯中以達到分層的效果 以搖盪法調製Whiskey sour，將不易混合均勻的材料與冰塊加入雪克杯中一併搖盪後，過濾倒入成品杯中 以注入法調製Tom collins，將材料依序加入刻度調酒杯中，以吧叉匙攪拌均勻後過濾倒入成品杯中 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1851
+  }
+}

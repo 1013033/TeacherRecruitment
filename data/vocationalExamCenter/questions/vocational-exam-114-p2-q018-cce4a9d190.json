@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-114-p2-q018-cce4a9d190",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 18 題",
+    "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
+    "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-5119",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 18,
+    "questionType": "single-choice",
+    "prompt": "上述侍酒師推薦的飲品是哪一類的酒飲？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "aperitif"
+      },
+      {
+        "id": "B",
+        "text": "dessert wine"
+      },
+      {
+        "id": "C",
+        "text": "digestif"
+      },
+      {
+        "id": "D",
+        "text": "house wine"
+      }
+    ],
+    "answer": "A",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：aperitif、digestif"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：aperitif、digestif"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "上述侍酒師推薦的飲品是哪一類的酒飲？ aperitif dessert wine digestif house wine 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1975
+  }
+}

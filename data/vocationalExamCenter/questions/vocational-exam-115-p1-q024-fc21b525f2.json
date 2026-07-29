@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-115-p1-q024-fc21b525f2",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(一) 第 24 題",
+    "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
+    "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-7579",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 24,
+    "questionType": "single-choice",
+    "prompt": "在臺灣向旅行社購買旅遊商品若發生糾紛，旅客為維護自身旅遊權益，可向下列哪一個由旅行業成立的組織尋求協助？",
+    "images": [
+      {
+        "id": "vocational-exam-115-p1-q024-fc21b525f2-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-115-p1-q024-fc21b525f2-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-115-p1-q024-fc21b525f2-img-02",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-115-p1-q024-fc21b525f2-img-02.jpg",
+        "alt": "第 2 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-115-p1-q024-fc21b525f2-img-03",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-115-p1-q024-fc21b525f2-img-03.jpg",
+        "alt": "第 3 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "Association of Tour Managers"
+      },
+      {
+        "id": "B",
+        "text": "International Air Transport Association"
+      },
+      {
+        "id": "C",
+        "text": "Travel Quality Assurance Association"
+      },
+      {
+        "id": "D",
+        "text": "UN World Tourism Organization"
+      }
+    ],
+    "answer": "C",
+    "subject": "travel-agency",
+    "subjectLabel": "旅行業管理",
+    "unit": "[觀光餐旅業導論] - [旅行業]",
+    "conceptId": "travel-agency-operations",
+    "conceptLabel": "旅行業、航空票務與旅遊產品",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社、tour、旅遊"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：旅行業、旅行社、tour、旅遊"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "在臺灣向旅行社購買旅遊商品若發生糾紛，旅客為維護自身旅遊權益，可向下列哪一個由旅行業成立的組織尋求協助？ Association of Tour Managers International Air Transport Association Travel Quality Assurance Association UN World Tourism Organization 旅行業、航空票務與旅遊產品 [觀光餐旅業導論] - [旅行業]",
+    "sequence": 759
+  }
+}

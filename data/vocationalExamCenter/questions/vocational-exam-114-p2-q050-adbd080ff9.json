@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-114-p2-q050-adbd080ff9",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 50 題",
+    "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
+    "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-12314",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 50,
+    "questionType": "single-choice",
+    "prompt": "小芳答對了兩題，獲得一杯免費的雞尾酒，選了一款能滿足「口感較為清涼、適合長時間飲用」的雞尾酒，最可能是下列何者？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Gibson"
+      },
+      {
+        "id": "B",
+        "text": "Horse ' s Neck"
+      },
+      {
+        "id": "C",
+        "text": "Orange Blossom"
+      },
+      {
+        "id": "D",
+        "text": "Pink Lady 【以下空白】"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "小芳答對了兩題，獲得一杯免費的雞尾酒，選了一款能滿足「口感較為清涼、適合長時間飲用」的雞尾酒，最可能是下列何者？ Gibson Horse ' s Neck Orange Blossom Pink Lady 【以下空白】 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2005
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q015-695cf20779",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 15 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-3039",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 15,
+    "questionType": "single-choice",
+    "prompt": "旁桌服務(guéridon service)華麗而優雅，是一種具有表演性質的服務方式。常見的操作方式與菜餚或材料的搭配，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "boning：Caesar Salad"
+      },
+      {
+        "id": "B",
+        "text": "carving：Peach Flambé"
+      },
+      {
+        "id": "C",
+        "text": "flaming：Crêpes Suzette"
+      },
+      {
+        "id": "D",
+        "text": "tossing：Roasted Chicken"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：service"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：service"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "旁桌服務(guéridon service)華麗而優雅，是一種具有表演性質的服務方式。常見的操作方式與菜餚或材料的搭配，下列何者正確？ boning：Caesar Salad carving：Peach Flambé flaming：Crêpes Suzette tossing：Roasted Chicken 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1874
+  }
+}

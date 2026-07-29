@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q007-b6b4c41b9a",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 7 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-1594",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "關於宗教菜單的敘述，下列何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "Judaism：不食無鱗、無鰭之魚類及帶殼的水產貝類(如蝦、蟹、蠔)"
+      },
+      {
+        "id": "B",
+        "text": "Islam：不食豬肉及相關製品，禁止飲酒或用酒烹調料理"
+      },
+      {
+        "id": "C",
+        "text": "Hinduism：不食牛肉、豬肉、魚類及不可飲酒"
+      },
+      {
+        "id": "D",
+        "text": "Buddhism：以素食為主，不食具辛香味的蔬菜（如蔥、蒜、韭菜、洋蔥)"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：菜單"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：菜單"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於宗教菜單的敘述，下列何者錯誤？ Judaism：不食無鱗、無鰭之魚類及帶殼的水產貝類(如蝦、蟹、蠔) Islam：不食豬肉及相關製品，禁止飲酒或用酒烹調料理 Hinduism：不食牛肉、豬肉、魚類及不可飲酒 Buddhism：以素食為主，不食具辛香味的蔬菜（如蔥、蒜、韭菜、洋蔥) 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1866
+  }
+}

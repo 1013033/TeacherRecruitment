@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-115-p2-q019-16ec928e7c",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 19 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-4502",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 19,
+    "questionType": "single-choice",
+    "prompt": "因餐桌空間有限， Layla 先規劃前菜、湯品及主餐等西式餐具擺設如圖 ( 二 ) 。關於 Layla擺設這些餐具之順序，下列何者正確？",
+    "images": [
+      {
+        "id": "vocational-exam-115-p2-q019-16ec928e7c-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-115-p2-q019-16ec928e7c-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "A",
+        "text": "③→④→⑤→②→①"
+      },
+      {
+        "id": "B",
+        "text": "③→②→④→⑤→①"
+      },
+      {
+        "id": "C",
+        "text": "③→①→②→④→⑤"
+      },
+      {
+        "id": "D",
+        "text": "③→④→②→①→⑤ 圖(二)"
+      }
+    ],
+    "answer": "D",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具、餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具、餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "因餐桌空間有限， Layla 先規劃前菜、湯品及主餐等西式餐具擺設如圖 ( 二 ) 。關於 Layla擺設這些餐具之順序，下列何者正確？ ③→④→⑤→②→① ③→②→④→⑤→① ③→①→②→④→⑤ ③→④→②→①→⑤ 圖(二) 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2024
+  }
+}

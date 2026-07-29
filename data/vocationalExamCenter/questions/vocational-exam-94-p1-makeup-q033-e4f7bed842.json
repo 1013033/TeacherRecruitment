@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-94-p1-makeup-q033-e4f7bed842",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(一) 第 33 題",
+    "sourceFile": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md",
+    "sourceLocator": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md#offset-3142",
+    "paperTitle": "專業科目(一)補考",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 33,
+    "questionType": "single-choice",
+    "prompt": "下列有標準食譜的敘述，何者最不適當？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "幫助業者統一生產標準，有利成本控制"
+      },
+      {
+        "id": "B",
+        "text": "無法顯示菜餚可用餐人數"
+      },
+      {
+        "id": "C",
+        "text": "形式及敘述應簡單易懂"
+      },
+      {
+        "id": "D",
+        "text": "烹調的溫度和時間應列出"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列有標準食譜的敘述，何者最不適當？ 幫助業者統一生產標準，有利成本控制 無法顯示菜餚可用餐人數 形式及敘述應簡單易懂 烹調的溫度和時間應列出 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1045
+  }
+}

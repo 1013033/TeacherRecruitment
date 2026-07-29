@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-96-p2-q020-4d5255a0d2",
+    "sourceYear": 96,
+    "sourceLabel": "96 年 專業科目(二) 第 20 題",
+    "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
+    "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-2159",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "下列何者是製作焗烤類 ( Gratin ) 菜餚時，常用來使食物表面上色的烤箱？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "對流式烤箱 ( Convection Oven )"
+      },
+      {
+        "id": "B",
+        "text": "鐵柵烤爐 ( Grill )"
+      },
+      {
+        "id": "C",
+        "text": "傳統烤箱 ( Conventional Oven )"
+      },
+      {
+        "id": "D",
+        "text": "明火烤箱 ( Salamander )"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：grill"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：grill"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列何者是製作焗烤類 ( Gratin ) 菜餚時，常用來使食物表面上色的烤箱？ 對流式烤箱 ( Convection Oven ) 鐵柵烤爐 ( Grill ) 傳統烤箱 ( Conventional Oven ) 明火烤箱 ( Salamander ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2364
+  }
+}

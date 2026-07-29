@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q043-e88edfa576",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 43 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-8525",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 43,
+    "questionType": "single-choice",
+    "prompt": "氣候溫度會影響葡萄酒品質。一般而言，紅葡萄品種多種植在比較暖和的區域；而白葡萄品種則種植於相對比較冷一些的地區。下列的葡萄品種，請依法國種植的產區域由南至北排列出正確的順序？甲：Pinot Noir 乙：Riesling 丙：Syrah / Shiraz",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙、丙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丙、乙"
+      },
+      {
+        "id": "C",
+        "text": "丙、甲、乙"
+      },
+      {
+        "id": "D",
+        "text": "丙、乙、甲"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：葡萄酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "氣候溫度會影響葡萄酒品質。一般而言，紅葡萄品種多種植在比較暖和的區域；而白葡萄品種則種植於相對比較冷一些的地區。下列的葡萄品種，請依法國種植的產區域由南至北排列出正確的順序？甲：Pinot Noir 乙：Riesling 丙：Syrah / Shiraz 甲、乙、丙 甲、丙、乙 丙、甲、乙 丙、乙、甲 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1902
+  }
+}

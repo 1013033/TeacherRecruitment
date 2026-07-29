@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-115-p2-q017-ee735f661f",
+    "sourceYear": 115,
+    "sourceLabel": "115 年 專業科目(二) 第 17 題",
+    "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+    "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-3900",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 17,
+    "questionType": "single-choice",
+    "prompt": "熱炒餐廳陸續接獲多名顧客致電投訴，在用餐後6至12小時內出現腹瀉、噁心及嘔吐等症狀。衛生局接獲通報後立即前往稽查，發現廚師手有傷口化膿且未包紮。此一食物中毒事件最可能是下列何種致病菌所造成？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "大腸桿菌"
+      },
+      {
+        "id": "B",
+        "text": "沙門氏菌"
+      },
+      {
+        "id": "C",
+        "text": "肉毒桿菌"
+      },
+      {
+        "id": "D",
+        "text": "金黃色葡萄球菌"
+      }
+    ],
+    "answer": "D",
+    "subject": "culinary",
+    "subjectLabel": "中西餐烹調",
+    "unit": "[中西餐烹調] - [食材與烹調法]",
+    "conceptId": "culinary-food-production",
+    "conceptLabel": "食材、衛生與中西餐烹調法",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌、肉毒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌、肉毒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "熱炒餐廳陸續接獲多名顧客致電投訴，在用餐後6至12小時內出現腹瀉、噁心及嘔吐等症狀。衛生局接獲通報後立即前往稽查，發現廚師手有傷口化膿且未包紮。此一食物中毒事件最可能是下列何種致病菌所造成？ 大腸桿菌 沙門氏菌 肉毒桿菌 金黃色葡萄球菌 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+    "sequence": 2022
+  }
+}

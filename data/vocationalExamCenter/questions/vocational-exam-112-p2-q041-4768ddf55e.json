@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q041-4768ddf55e",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 41 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-8032",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "小明和小華相約在週末到咖啡廳喝咖啡，小明分享上次到咖啡廳時朋友介紹他享用的咖啡，內容有濃縮咖啡、牛奶和厚實的奶泡，最特別的是上面有加肉桂粉和檸檬皮絲。小華要享用他從國外帶回來的巧克力，他希望能夠搭配有巧克力風味的咖啡。他們請咖啡廳店內的服務人員推薦。若你是服務人員，店內五種咖啡品項，下列哪兩種是小明和小華適合點的咖啡品項？甲：拿鐵咖啡 ( CaféLatte )乙：焦糖瑪奇朵咖啡 (Caramel Macchiato )丙：卡布奇諾咖啡 ( Cappuccino )丁：摩卡咖啡(Mocha)戊：皇家咖啡 ( Royal Coffee )",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "乙、丙"
+      },
+      {
+        "id": "C",
+        "text": "丙、丁"
+      },
+      {
+        "id": "D",
+        "text": "丁、戊"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡、cappuccino、latte"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡、cappuccino、latte"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "小明和小華相約在週末到咖啡廳喝咖啡，小明分享上次到咖啡廳時朋友介紹他享用的咖啡，內容有濃縮咖啡、牛奶和厚實的奶泡，最特別的是上面有加肉桂粉和檸檬皮絲。小華要享用他從國外帶回來的巧克力，他希望能夠搭配有巧克力風味的咖啡。他們請咖啡廳店內的服務人員推薦。若你是服務人員，店內五種咖啡品項，下列哪兩種是小明和小華適合點的咖啡品項？甲：拿鐵咖啡 ( CaféLatte )乙：焦糖瑪奇朵咖啡 (Caramel Macchiato )丙：卡布奇諾咖啡 ( Cappuccino )丁：摩卡咖啡(Mocha)戊：皇家咖啡 ( Royal Coffee ) 甲、乙 乙、丙 丙、丁 丁、戊 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1900
+  }
+}

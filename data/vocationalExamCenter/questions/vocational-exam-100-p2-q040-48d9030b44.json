@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-100-p2-q040-48d9030b44",
+    "sourceYear": 100,
+    "sourceLabel": "100 年 專業科目(二) 第 40 題",
+    "sourceFile": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md",
+    "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-5188",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "下列關於雞尾酒調製器具的說明，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "bar spoon：作為攪拌或搗碎材料之用"
+      },
+      {
+        "id": "B",
+        "text": "glass rimmer：作為製作糖口杯或鹽口杯之用"
+      },
+      {
+        "id": "C",
+        "text": "jigger：作為量取酒、果汁等材料之用"
+      },
+      {
+        "id": "D",
+        "text": "straw：與刻度調酒杯搭配，過濾冰塊之用"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：bar、酒杯、調酒"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：bar、酒杯、調酒"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於雞尾酒調製器具的說明，何者錯誤？ bar spoon：作為攪拌或搗碎材料之用 glass rimmer：作為製作糖口杯或鹽口杯之用 jigger：作為量取酒、果汁等材料之用 straw：與刻度調酒杯搭配，過濾冰塊之用 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1330
+  }
+}

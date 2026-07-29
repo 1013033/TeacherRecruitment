@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q010-8f7c3e65b8",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 10 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-2082",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "餐桌擺設以餐巾為中心定位點時，有關餐廳的餐桌擺設及備品需求說明，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "顧客點取牛排，牛排刀在左、餐叉在右"
+      },
+      {
+        "id": "B",
+        "text": "顧客點取義大利麵，餐匙在右、餐叉在左"
+      },
+      {
+        "id": "C",
+        "text": "顧客點取帶殼龍蝦，龍蝦鉗在左、龍蝦叉在右"
+      },
+      {
+        "id": "D",
+        "text": "顧客點取帶殼田螺，田螺夾在右、田螺叉在左"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐桌、餐巾"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐桌、餐巾"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "餐桌擺設以餐巾為中心定位點時，有關餐廳的餐桌擺設及備品需求說明，下列何者正確？ 顧客點取牛排，牛排刀在左、餐叉在右 顧客點取義大利麵，餐匙在右、餐叉在左 顧客點取帶殼龍蝦，龍蝦鉗在左、龍蝦叉在右 顧客點取帶殼田螺，田螺夾在右、田螺叉在左 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1869
+  }
+}

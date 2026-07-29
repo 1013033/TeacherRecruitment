@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-99-p2-q036-8cb1095dae",
+    "sourceYear": 99,
+    "sourceLabel": "99 年 專業科目(二) 第 36 題",
+    "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+    "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-5202",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 36,
+    "questionType": "single-choice",
+    "prompt": "下列關於紅茶的描述，何者錯誤？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "印度大吉嶺紅茶( Darjeeling )有「茶之香檳」美稱"
+      },
+      {
+        "id": "B",
+        "text": "著名的烏巴茶( Uva )產於斯里蘭卡"
+      },
+      {
+        "id": "C",
+        "text": "印尼以產阿薩姆紅茶( Assam )著名試"
+      },
+      {
+        "id": "D",
+        "text": "祈門( Keemun )紅茶是世界三大紅茶之 一"
+      }
+    ],
+    "answer": "C",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：茶、紅茶"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：茶、紅茶"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列關於紅茶的描述，何者錯誤？ 印度大吉嶺紅茶( Darjeeling )有「茶之香檳」美稱 著名的烏巴茶( Uva )產於斯里蘭卡 印尼以產阿薩姆紅茶( Assam )著名試 祈門( Keemun )紅茶是世界三大紅茶之 一 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 2529
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-113-p2-q040-03c88131b8",
+    "sourceYear": 113,
+    "sourceLabel": "113 年 專業科目(二) 第 40 題",
+    "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
+    "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-8525",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 40,
+    "questionType": "single-choice",
+    "prompt": "關於咖啡烘焙過程，下列排序何者正確？甲、焦糖反應旺盛期乙、梅納反應旺盛期丙、冷卻待降至室溫丁、脫水期/蒸焙期",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲→乙→丙→丁"
+      },
+      {
+        "id": "B",
+        "text": "乙→甲→丁→丙"
+      },
+      {
+        "id": "C",
+        "text": "丙→甲→乙→丁"
+      },
+      {
+        "id": "D",
+        "text": "丁→乙→甲→丙"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [茶與咖啡]",
+    "conceptId": "beverage-coffee-tea",
+    "conceptLabel": "茶、咖啡與非酒精飲料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：咖啡"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：咖啡"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於咖啡烘焙過程，下列排序何者正確？甲、焦糖反應旺盛期乙、梅納反應旺盛期丙、冷卻待降至室溫丁、脫水期/蒸焙期 甲→乙→丙→丁 乙→甲→丁→丙 丙→甲→乙→丁 丁→乙→甲→丙 茶、咖啡與非酒精飲料 [飲料實務] - [茶與咖啡]",
+    "sequence": 1948
+  }
+}

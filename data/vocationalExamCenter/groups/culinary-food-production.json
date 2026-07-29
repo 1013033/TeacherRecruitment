@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "vocational-exam-8b01146f5f",
+  "dataVersion": "vocational-exam-c6c8f7f884",
   "concept": {
     "id": "culinary-food-production",
     "subject": "culinary",
@@ -12,15 +12,16 @@
       "vocational-exam-115-p1-q006-c2407a95ca",
       "vocational-exam-115-p1-q008-cf1f1a2aec",
       "vocational-exam-115-p1-q013-148e4eb06d",
-      "vocational-exam-115-p1-q032-a5a7f0a2e6",
-      "vocational-exam-115-p2-q024-fcae7a2a4b",
+      "vocational-exam-115-p1-q032-ad75aac039",
+      "vocational-exam-115-p2-q017-ee735f661f",
+      "vocational-exam-115-p2-q024-057c816c5b",
       "vocational-exam-114-p1-q013-0c7463b31c",
-      "vocational-exam-113-p2-q017-234f370d10",
+      "vocational-exam-113-p2-q017-1e6c64c4b8",
       "vocational-exam-112-p1-q015-5736b8a955",
       "vocational-exam-112-p2-q001-16ac9fb5f4",
       "vocational-exam-111-p1-q015-d7ef02b84a",
-      "vocational-exam-111-p2-q023-a6a70ba55c",
-      "vocational-exam-111-p2-q024-9e889b1dec",
+      "vocational-exam-111-p2-q023-7210632a80",
+      "vocational-exam-111-p2-q024-cb75877297",
       "vocational-exam-110-p1-q040-05160ce4a6",
       "vocational-exam-110-p2-q004-fc7070d74a",
       "vocational-exam-110-p2-q017-d5ad6a338e",
@@ -48,9 +49,10 @@
       "vocational-exam-102-p1-q022-94891805b1",
       "vocational-exam-101-p2-q028-1e70774534",
       "vocational-exam-100-p2-q019-8d791f968f",
-      "vocational-exam-100-p2-q029-10c6542b78",
+      "vocational-exam-100-p2-q029-6a20d1d70c",
       "vocational-exam-99-p1-q038-c42c57d0e9",
       "vocational-exam-99-p1-q043-b4e5d617ac",
+      "vocational-exam-99-p2-q021-0190ed2ca5",
       "vocational-exam-98-p1-q017-687dd66429",
       "vocational-exam-98-p1-q020-3bf81a147e",
       "vocational-exam-98-p2-q011-4050164b5d",
@@ -72,8 +74,8 @@
       "vocational-exam-96-p2-q003-3b297ebfdd",
       "vocational-exam-96-p2-q004-cdaedff035",
       "vocational-exam-96-p2-q005-937c0eee3d",
-      "vocational-exam-96-p2-q014-85de3b5e19",
-      "vocational-exam-96-p2-q020-97d84a2716",
+      "vocational-exam-96-p2-q014-58f98c156a",
+      "vocational-exam-96-p2-q020-4d5255a0d2",
       "vocational-exam-95-p1-q050-03905b2dc8",
       "vocational-exam-95-p2-q003-19c6fc9951",
       "vocational-exam-95-p2-q004-2c97430f49",
@@ -88,7 +90,7 @@
       "vocational-exam-94-p1-q034-aa30fead58",
       "vocational-exam-94-p1-q038-467b45699c",
       "vocational-exam-94-p1-q039-c9643d3e13",
-      "vocational-exam-94-p1-makeup-q032-4f929ed529",
+      "vocational-exam-94-p1-makeup-q032-3ab38e1f79",
       "vocational-exam-94-p2-q005-7100214605",
       "vocational-exam-94-p2-q006-98de6e8c93",
       "vocational-exam-94-p2-q008-f40dd67a8b",
@@ -98,7 +100,7 @@
       "vocational-exam-94-p2-q034-0dd6be5ede",
       "vocational-exam-94-p2-q035-2d7ba66c0f",
       "vocational-exam-94-p2-q036-90f0c639fa",
-      "vocational-exam-94-p2-q045-cbccdd2b2d",
+      "vocational-exam-94-p2-q045-4f7e61d232",
       "vocational-exam-94-p2-makeup-q002-97f99c443d",
       "vocational-exam-94-p2-makeup-q003-9c80c720d8",
       "vocational-exam-94-p2-makeup-q004-789d1d6c8a",
@@ -144,12 +146,11 @@
       "vocational-exam-91-p2-q043-4de6baa0ec",
       "vocational-exam-91-p2-q047-22bc30edc0",
       "vocational-exam-91-p2-q050-43145a055b",
-      "vocational-exam-90-p1-q001-672aa9a470",
-      "vocational-exam-90-p1-q004-c64ad95eaf",
-      "vocational-exam-90-p1-q005-606c15bc81",
-      "vocational-exam-90-p1-q008-2add435f2c",
-      "vocational-exam-90-p1-q013-11269542e6",
-      "vocational-exam-90-p1-q014-6e033e3614"
+      "vocational-exam-90-p1-q001-e091e5e807",
+      "vocational-exam-90-p1-q004-6dc485d821",
+      "vocational-exam-90-p1-q005-f2e99d0926",
+      "vocational-exam-90-p1-q008-2b091179f8",
+      "vocational-exam-90-p1-q013-80aa45b80b"
     ],
     "years": [
       90,
@@ -197,6 +198,10 @@
       },
       {
         "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌、肉毒"
+      },
+      {
+        "source": "manual",
         "note": "依統測題幹與選項關鍵字比對：西餐"
       },
       {
@@ -206,10 +211,6 @@
       {
         "source": "manual",
         "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌、肉毒"
-      },
-      {
-        "source": "manual",
-        "note": "依統測題幹與選項關鍵字比對：菜系"
       }
     ],
     "reviewStatus": "draft",
@@ -460,11 +461,11 @@
       "sequence": 748
     },
     {
-      "id": "vocational-exam-115-p1-q032-a5a7f0a2e6",
+      "id": "vocational-exam-115-p1-q032-ad75aac039",
       "sourceYear": 115,
       "sourceLabel": "115 年 專業科目(一) 第 32 題",
       "sourceFile": "專一\\output\\115專一試題\\auto\\115專一試題.md",
-      "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-10673",
+      "sourceLocator": "專一\\output\\115專一試題\\auto\\115專一試題.md#offset-9484",
       "paperTitle": "專業科目(一)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 32,
@@ -542,11 +543,92 @@
       "sequence": 767
     },
     {
-      "id": "vocational-exam-115-p2-q024-fcae7a2a4b",
+      "id": "vocational-exam-115-p2-q017-ee735f661f",
+      "sourceYear": 115,
+      "sourceLabel": "115 年 專業科目(二) 第 17 題",
+      "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
+      "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-3900",
+      "paperTitle": "專業科目(二)",
+      "schoolName": "統一入學測驗餐旅群",
+      "questionNumber": 17,
+      "questionType": "single-choice",
+      "prompt": "熱炒餐廳陸續接獲多名顧客致電投訴，在用餐後6至12小時內出現腹瀉、噁心及嘔吐等症狀。衛生局接獲通報後立即前往稽查，發現廚師手有傷口化膿且未包紮。此一食物中毒事件最可能是下列何種致病菌所造成？",
+      "images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "大腸桿菌"
+        },
+        {
+          "id": "B",
+          "text": "沙門氏菌"
+        },
+        {
+          "id": "C",
+          "text": "肉毒桿菌"
+        },
+        {
+          "id": "D",
+          "text": "金黃色葡萄球菌"
+        }
+      ],
+      "answer": "D",
+      "subject": "culinary",
+      "subjectLabel": "中西餐烹調",
+      "unit": "[中西餐烹調] - [食材與烹調法]",
+      "conceptId": "culinary-food-production",
+      "conceptLabel": "食材、衛生與中西餐烹調法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌、肉毒"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": ""
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "note": "依統測題幹與選項關鍵字比對：沙門氏、葡萄球菌、肉毒"
+          }
+        ],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "熱炒餐廳陸續接獲多名顧客致電投訴，在用餐後6至12小時內出現腹瀉、噁心及嘔吐等症狀。衛生局接獲通報後立即前往稽查，發現廚師手有傷口化膿且未包紮。此一食物中毒事件最可能是下列何種致病菌所造成？ 大腸桿菌 沙門氏菌 肉毒桿菌 金黃色葡萄球菌 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+      "sequence": 2022
+    },
+    {
+      "id": "vocational-exam-115-p2-q024-057c816c5b",
       "sourceYear": 115,
       "sourceLabel": "115 年 專業科目(二) 第 24 題",
       "sourceFile": "專二\\output\\115專二試題\\auto\\115專二試題.md",
-      "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-5939",
+      "sourceLocator": "專二\\output\\115專二試題\\auto\\115專二試題.md#offset-5924",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 24,
@@ -704,11 +786,11 @@
       "sequence": 698
     },
     {
-      "id": "vocational-exam-113-p2-q017-234f370d10",
+      "id": "vocational-exam-113-p2-q017-1e6c64c4b8",
       "sourceYear": 113,
       "sourceLabel": "113 年 專業科目(二) 第 17 題",
       "sourceFile": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md",
-      "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-4426",
+      "sourceLocator": "專二\\output\\113-2專二試題\\auto\\113-2專二試題.md#offset-4028",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 17,
@@ -1028,11 +1110,11 @@
       "sequence": 551
     },
     {
-      "id": "vocational-exam-111-p2-q023-a6a70ba55c",
+      "id": "vocational-exam-111-p2-q023-7210632a80",
       "sourceYear": 111,
       "sourceLabel": "111 年 專業科目(二) 第 23 題",
       "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
-      "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-4805",
+      "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-4802",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 23,
@@ -1110,11 +1192,11 @@
       "sequence": 1832
     },
     {
-      "id": "vocational-exam-111-p2-q024-9e889b1dec",
+      "id": "vocational-exam-111-p2-q024-cb75877297",
       "sourceYear": 111,
       "sourceLabel": "111 年 專業科目(二) 第 24 題",
       "sourceFile": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md",
-      "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-4967",
+      "sourceLocator": "專二\\output\\111-1專二試題\\auto\\111-1專二試題.md#offset-4964",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 24,
@@ -1350,7 +1432,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "顧客在餐廳用餐時，食用到不新鮮的海產所導致的食品中毒，是由下列何種細菌所引起？ 肉毒桿菌 大腸桿菌 仙人掌桿菌 腸炎弧菌 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1787
+      "sequence": 1786
     },
     {
       "id": "vocational-exam-110-p2-q017-d5ad6a338e",
@@ -1431,7 +1513,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "服務人員進行正式西餐服務時，原則上必須站在顧客左側提供的服務為何？甲：為顧客倒水 乙：遞送酒單供顧客點選丙：手持醬料盅服務主菜醬汁 丁：手持麵包屑斗清理桌上的麵包屑 甲、乙 甲、丁 乙、丙 丙、丁 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1800
+      "sequence": 1799
     },
     {
       "id": "vocational-exam-109-p1-q014-1baf368406",
@@ -1836,7 +1918,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於食物中毒的敘述，下列何者正確？ 過量食用非法食品添加物有引起食物中毒的疑慮 食用發芽的馬鈴薯有可能會引起過敏性食物中毒 只要有一人因感染腸炎弧菌死亡，即可列為食物中毒事件 醫療院所應在48小時內將確診為食物中毒的病患通報衛生單位 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1700
+      "sequence": 1699
     },
     {
       "id": "vocational-exam-107-p1-q015-094c0c8b43",
@@ -2241,7 +2323,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於西餐用餐禮儀的敘述，下列何者正確？ 麵包應直接用口咬食，不宜以手撕成小片後再食用 湯品過燙時，可用口對湯品吹氣使其降溫後再食用 用餐速度可依自己節奏進行，不須考慮同桌其他顧客 食用帶有骨頭的羊排時，若骨頭端包有錫箔紙，可直接以手拿起咬食 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1598
+      "sequence": 1597
     },
     {
       "id": "vocational-exam-106-p2-q031-3b68bf6ed7",
@@ -2322,7 +2404,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "沙門氏菌最容易附著於下列哪項食物？ 海鮮 香腸 雞蛋 發芽的馬鈴薯 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1618
+      "sequence": 1617
     },
     {
       "id": "vocational-exam-104-p1-q021-f9292bbceb",
@@ -2565,7 +2647,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "進行西餐服務時，下列何時是撤除 B.B. plate 之最佳時機？ 上湯品前 上主菜前 上甜點前 上甜點後 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1494
+      "sequence": 1493
     },
     {
       "id": "vocational-exam-104-p2-q018-abf441d16f",
@@ -2646,7 +2728,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "依據衛生福利部食品藥物管理署所定義食物中毒，下列敘述何者正確？甲、二人或二人以上攝取相同的食品而發生相似的症狀，稱為一件食品中毒案件乙、如因攝食化學物質造成急性中毒，即使只有一人，也視為一件食品中毒案件丙、如因攝食天然毒素造成急性中毒，則有三人或三人以上，稱為一件食品中毒案件丁、如因肉毒桿菌毒素而引起中毒症狀，且自人體檢體檢驗出肉毒桿菌毒素，則有三人或三人以上，才可視為一件食品中毒案件 甲、乙 甲、丙 乙、丁 丙、丁 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1505
+      "sequence": 1504
     },
     {
       "id": "vocational-exam-103-p1-q009-6b62d5bc44",
@@ -3053,7 +3135,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於細菌與其感染或傳播途徑之敘述，下列何者錯誤？ 沙門氏菌：經常存在人體、家畜及家禽類腸胃內 病原性大腸桿菌：經常存在飲水、土壤及人體腸胃道內 肉毒桿菌：會經由昆蟲或灰塵傳播而感染食物，致死率高 金黃色葡萄球菌：易存在傷口膿瘡，引起細菌性食物中毒 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1458
+      "sequence": 1457
     },
     {
       "id": "vocational-exam-103-p2-q027-8c3829498d",
@@ -3134,7 +3216,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "服務西餐時，原則上顧客食用完何項菜餚後，是撤除 salt&pepper shakers 之最佳時機？ 前菜 湯品 主菜 甜點 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1465
+      "sequence": 1464
     },
     {
       "id": "vocational-exam-102-p1-q022-94891805b1",
@@ -3297,7 +3379,7 @@
         "missing-answer"
       ],
       "searchText": "中餐酒類服務中，下列何者不需幫客人進行溫燙？ 花雕酒 紹興酒 玫瑰紅酒 黃酒 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1367
+      "sequence": 1366
     },
     {
       "id": "vocational-exam-100-p2-q019-8d791f968f",
@@ -3384,14 +3466,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列關於中餐宴席上菜順序的原則，何者正確？ 先昂貴食材、後普通材料 先味道濃郁、後味道清淡 先熱炒菜餚、後冷盤菜品 先甜味點心、後鹹味菜餚 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1310
+      "sequence": 1309
     },
     {
-      "id": "vocational-exam-100-p2-q029-10c6542b78",
+      "id": "vocational-exam-100-p2-q029-6a20d1d70c",
       "sourceYear": 100,
       "sourceLabel": "100 年 專業科目(二) 第 29 題",
       "sourceFile": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md",
-      "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-4034",
+      "sourceLocator": "專二\\output\\100-1專二試題\\auto\\100-1專二試題.md#offset-3962",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 29,
@@ -3465,7 +3547,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列關於服務人員替顧客pass sauce的敘述，何者正確？ 從顧客右側進行 採左腳前、右腳後姿勢 以順時針方向進行 以主人為第一優先順序 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1320
+      "sequence": 1319
     },
     {
       "id": "vocational-exam-99-p1-q038-c42c57d0e9",
@@ -3546,7 +3628,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "在中國八大菜系中，下列有關各菜系與著名的菜餚之組合，何者正確？甲、廣東菜：左宗棠雞 乙、四川菜：魚香茄子 丙、福建菜：佛跳牆丁、江浙菜：東坡肉 戊、湖南菜：京都排骨 甲、乙、戊 乙、丙、丁 丙、丁、戊 甲、丙、戊 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1279
+      "sequence": 1278
     },
     {
       "id": "vocational-exam-99-p1-q043-b4e5d617ac",
@@ -3627,7 +3709,88 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列何者可以用來訂定一道菜的標準，其紀錄內容可以包括材料、使用量、製備步驟、烹調方法或製備時間等項目？ standard operation procedure standard portion standard yield standard recipe 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1284
+      "sequence": 1283
+    },
+    {
+      "id": "vocational-exam-99-p2-q021-0190ed2ca5",
+      "sourceYear": 99,
+      "sourceLabel": "99 年 專業科目(二) 第 21 題",
+      "sourceFile": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md",
+      "sourceLocator": "專二\\output\\99-1專二試題\\auto\\99-1專二試題.md#offset-3055",
+      "paperTitle": "專業科目(二)",
+      "schoolName": "統一入學測驗餐旅群",
+      "questionNumber": 21,
+      "questionType": "single-choice",
+      "prompt": "下列關於中餐分菜服務的描述，何者正確？",
+      "images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "桌上分菜應與顧客多交談，以顯示親切"
+        },
+        {
+          "id": "B",
+          "text": "桌上分菜可展現專業分菜技巧"
+        },
+        {
+          "id": "C",
+          "text": "桌邊分菜會造成座位擁擠、干擾顧客"
+        },
+        {
+          "id": "D",
+          "text": "桌邊分菜不需要進行秀菜服務"
+        }
+      ],
+      "answer": "B",
+      "subject": "culinary",
+      "subjectLabel": "中西餐烹調",
+      "unit": "[中西餐烹調] - [食材與烹調法]",
+      "conceptId": "culinary-food-production",
+      "conceptLabel": "食材、衛生與中西餐烹調法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：中餐"
+        }
+      ],
+      "explanation": {
+        "status": "draft",
+        "answerExplanation": "",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "note": "依統測題幹與選項關鍵字比對：中餐"
+          }
+        ],
+        "updatedAt": ""
+      },
+      "reviewStatus": "draft",
+      "flags": [],
+      "searchText": "下列關於中餐分菜服務的描述，何者正確？ 桌上分菜應與顧客多交談，以顯示親切 桌上分菜可展現專業分菜技巧 桌邊分菜會造成座位擁擠、干擾顧客 桌邊分菜不需要進行秀菜服務 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+      "sequence": 2514
     },
     {
       "id": "vocational-exam-98-p1-q017-687dd66429",
@@ -3708,7 +3871,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "中國菜因地域不同，而形成各大菜系，下列菜系與所屬菜餚名稱的配對，何者正確？ 閩菜-京醬肉絲、拔絲芋頭、涮羊肉 浙菜-紅糟肉、燕丸、芋泥 粵菜-京都排骨、 蛋 蝦 叉燒肉 川菜 -東坡肉、燒划水、龍井蝦仁 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1218
+      "sequence": 1217
     },
     {
       "id": "vocational-exam-98-p1-q020-3bf81a147e",
@@ -3789,7 +3952,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一項屬於濕熱烹調法？ roasting grilling pan - frying steaming 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1221
+      "sequence": 1220
     },
     {
       "id": "vocational-exam-98-p2-q011-4050164b5d",
@@ -3870,7 +4033,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一項是顧客用來盛裝個人菜餚的中餐器皿？ 味碟 骨盤 底盤 深盤 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2454
+      "sequence": 2455
     },
     {
       "id": "vocational-exam-98-p2-q031-bd0abbd5c6",
@@ -3951,7 +4114,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "在自助餐檯的擺設中，下列哪一項菜餚不適合與其他三項放在同一區？ dried raisin roast beef oil and vinegar dressing romaine 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2473
+      "sequence": 2474
     },
     {
       "id": "vocational-exam-97-p1-q023-47aa12e464",
@@ -4032,7 +4195,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列有關「食品儲存溫度」之敘述，何者錯誤？ 冷藏食品應保持在 $7 ^ { \\circ } \\mathrm { C }$ 以下，凍結點以上 冷凍食品應保持在 $- 1 8 ~ ^ { \\circ } C$ 以上 $7 ^ { \\circ } \\mathrm { C }$ 至 $6 0 ~ \\mathrm { ^ { \\circ } C }$ 為「食物危險溫度帶」 食品之高溫儲存，溫度應保持在 $6 0 ~ \\mathrm { ^ { \\circ } C }$ 以上 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1174
+      "sequence": 1173
     },
     {
       "id": "vocational-exam-97-p1-q024-496d5f1faa",
@@ -4113,7 +4276,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列有關「食物中毒的預防」之敘述，何者錯誤？ 食物在儲存時應保持清潔與衛生 應注意食材之正確加工處理方法 不使用專用的食物運輸工具 不購買來源不明的原物料 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1175
+      "sequence": 1174
     },
     {
       "id": "vocational-exam-97-p2-q001-740f14198d",
@@ -4194,7 +4357,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "廣東菜系中的「發財瑤柱甫」，「瑤柱」是指下列哪一項食材？ 海參 香菇 髮菜 干貝 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2394
+      "sequence": 2395
     },
     {
       "id": "vocational-exam-97-p2-q003-84a42993e7",
@@ -4275,7 +4438,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "阿奇師在美食節目中介紹某道年菜的做法：「……將材料烹煮好，再於鍋中勾芡，讓這道年菜起鍋後能帶有少許芡汁……」。根據上述，此道年菜較有可能採用下列哪一種烹調方法？ 炒 燒 煨 燴 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2396
+      "sequence": 2397
     },
     {
       "id": "vocational-exam-97-p2-q008-9f45a1cee8",
@@ -4356,7 +4519,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "若客人僅忌食含有膽固醇的食物，下列哪一項可以做為菜餚的食材？ 牛油 豬肝 雞腰 花生 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2401
+      "sequence": 2402
     },
     {
       "id": "vocational-exam-97-p2-q009-2d1680d9f6",
@@ -4437,7 +4600,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一種刀工技法，最適合應用於切開豆腐？ 直切 鋸切 拉切 推切 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2402
+      "sequence": 2403
     },
     {
       "id": "vocational-exam-97-p2-q014-5dc3fa5c1f",
@@ -4518,7 +4681,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "西班牙飯 ( Paella ) 呈現出金黃色澤，是因為烹調時加入下列哪一種香料？ 迷迭香 ( Rosemary ) 番紅花 ( Saffron ) 肉桂 ( Cinnamon ) 丁香 ( Clove ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2407
+      "sequence": 2408
     },
     {
       "id": "vocational-exam-97-p2-q016-c6eb711906",
@@ -4599,7 +4762,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列關於「Couscous」的敘述，何者正確？ 是一種傳統的北非料理食材 主要的烹調方法為煎炒 ( Sauté ) 常被用來做成清湯 為一種源自於南美洲的米飯烹調法 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2409
+      "sequence": 2410
     },
     {
       "id": "vocational-exam-97-p2-q020-2e9516c16b",
@@ -4680,7 +4843,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列關於明火烤箱 ( Salamander ) 與碳烤爐 ( Grill ) 的敘述，何者正確？ Salamander 的熱源係來自於下方的火紅鐵棒 Salamander 可以用來保溫菜餚 Grill 的火源係由上往下產生的 Grill 是應用對流原理產生熱能 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2413
+      "sequence": 2414
     },
     {
       "id": "vocational-exam-97-p2-q028-6644eba968",
@@ -4761,7 +4924,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "食品添加物中的硼砂對人體有害，但常被非法使用在下列何種食物中？ 魚丸 蜜餞 魩仔魚 豆乾 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2421
+      "sequence": 2422
     },
     {
       "id": "vocational-exam-97-p2-q032-ed625bfa38",
@@ -4842,7 +5005,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "食材存貨的「腐敗控制」是倉儲管理的重要任務之一，管理人員對此應有哪些作為？甲、遵行FIFO原則 乙、物料應標示進貨日期與有效期限丙、選擇適當的儲存環境與方式 丁、定期全面淘汰所有存貨 甲、乙、丙 甲、乙、丁 甲、丙、丁 乙、丙、丁 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2425
+      "sequence": 2426
     },
     {
       "id": "vocational-exam-97-p2-q044-4d4a036371",
@@ -4923,7 +5086,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "依照中餐席次安排的禮儀原則，下列敘述何者錯誤？ 面對入口的座位為男主人；背對入口的座位為女主人 面對入口的座位為主賓；背對入口的座位為主人 主賓右側為大，左側為小 男女主人若同桌並坐，男主人坐在女主人的左側 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2437
+      "sequence": 2438
     },
     {
       "id": "vocational-exam-96-p2-q001-75c6b005d6",
@@ -5004,7 +5167,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "在各種菜系的分類方法中，若以「物產」為區分標準，則下列選項何者正確？ 川湘蔥蒜區 華北辣椒區 西北羶酪區 兩廣魚蝦區 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2344
+      "sequence": 2345
     },
     {
       "id": "vocational-exam-96-p2-q002-29df4b5e7b",
@@ -5085,7 +5248,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列各種菜系與其所對應的菜餚，何者正確？ 江浙菜系：龍鬚燕丸 廣東菜系：粉蒸肉 四川菜系：豆瓣鯉魚 台閩菜系：雪菜黃魚 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2345
+      "sequence": 2346
     },
     {
       "id": "vocational-exam-96-p2-q003-3b297ebfdd",
@@ -5169,7 +5332,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "杭州西湖有一道雋美的菜叫「西湖醋魚」，口感嫩滑柔細絕美，請問該菜餚的烹調法為何？ 脆溜 醋溜 滑溜 軟溜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2346
+      "sequence": 2347
     },
     {
       "id": "vocational-exam-96-p2-q004-cdaedff035",
@@ -5250,7 +5413,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "鹽焗雞、奶油焗白菜、鹽焗中蝦等菜餚中，「焗」是下列哪一種菜系的做法？ 台菜 廣東菜 江浙菜 川菜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2347
+      "sequence": 2348
     },
     {
       "id": "vocational-exam-96-p2-q005-937c0eee3d",
@@ -5331,14 +5494,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "中餐廚房中，「打荷」的主要工作內容為何？ 負責蒸菜和相關的點心食品 負責製作麵點 負責燒烤菜餚相關工作 負責爐子上的雜事和排菜傳送工作 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2348
+      "sequence": 2349
     },
     {
-      "id": "vocational-exam-96-p2-q014-85de3b5e19",
+      "id": "vocational-exam-96-p2-q014-58f98c156a",
       "sourceYear": 96,
       "sourceLabel": "96 年 專業科目(二) 第 14 題",
       "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
-      "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-1583",
+      "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-1503",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 14,
@@ -5413,14 +5576,14 @@
         "missing-answer"
       ],
       "searchText": "西餐歷史上，被譽為「西餐之父」的大廚師是指何人？ 羅傑佛吉 ( Roger Vergé ) 費南得波伊特 ( Fernand Point ) 愛斯可菲 ( Augusté Escoffier ) 安東尼‧卡雷姆 ( Antoine Carệme ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2357
+      "sequence": 2358
     },
     {
-      "id": "vocational-exam-96-p2-q020-97d84a2716",
+      "id": "vocational-exam-96-p2-q020-4d5255a0d2",
       "sourceYear": 96,
       "sourceLabel": "96 年 專業科目(二) 第 20 題",
       "sourceFile": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md",
-      "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-2239",
+      "sourceLocator": "專二\\output\\96-1專二試題\\auto\\96-1專二試題.md#offset-2159",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 20,
@@ -5494,7 +5657,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列何者是製作焗烤類 ( Gratin ) 菜餚時，常用來使食物表面上色的烤箱？ 對流式烤箱 ( Convection Oven ) 鐵柵烤爐 ( Grill ) 傳統烤箱 ( Conventional Oven ) 明火烤箱 ( Salamander ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2363
+      "sequence": 2364
     },
     {
       "id": "vocational-exam-95-p1-q050-03905b2dc8",
@@ -5581,7 +5744,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "關於食品儲存的溫度，下列何者符合衛生安全條件？ 冷凍雞塊存放於 –5<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫 冷凍雞塊存放於 –7<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 5<sup>o</sup>C 以下的冷藏庫 冷凍雞塊存放於 –7<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫 冷凍雞塊存放於 –18<sup>o</sup>C 以下的冷凍庫、一般豆腐存放於 7<sup>o</sup>C 以下的冷藏庫 ## ## 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1102
+      "sequence": 1101
     },
     {
       "id": "vocational-exam-95-p2-q003-19c6fc9951",
@@ -5662,7 +5825,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一項因素對火候的掌控比較沒有直接的影響？ 食材的性質 火力的大小 時間的長短 調味料的添加 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2300
+      "sequence": 2301
     },
     {
       "id": "vocational-exam-95-p2-q004-2c97430f49",
@@ -5743,7 +5906,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "，這個敘述是「煎或炸過的食材用適量的醬汁煮至入味、上色、湯汁收斂而口感柔韌」指哪一種烹調法？ 燜 煨 燒 燉 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2301
+      "sequence": 2302
     },
     {
       "id": "vocational-exam-95-p2-q005-3abb82c017",
@@ -5824,7 +5987,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "糖醋排骨是脆溜的烹調法，其溜汁皆裹在酥脆的排骨表面，請問其中芡汁濃度所發揮的作用並不包含下列哪一項？ 讓調味料沾在食物表面 讓食物更酥脆 讓食物更亮麗 讓芡汁的水分暫時不滲進排骨中 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2302
+      "sequence": 2303
     },
     {
       "id": "vocational-exam-95-p2-q007-45a326c3d0",
@@ -5905,7 +6068,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "剁肉、剁茸、泥及禽類較細骨的食材，一般會用哪一種刀具？ 鴨刀 骨刀 片刀 砍刀 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2304
+      "sequence": 2305
     },
     {
       "id": "vocational-exam-95-p2-q012-1cda76d3c1",
@@ -5986,7 +6149,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "體積較大而掛了糊或沾了粉的食材，要炸出既香且酥黃的成品，用深油炸 ( Deep Fat Fry )的油應如何操作？ 七分熱油 ( 約 160 C ) 小火慢炸 五分熱油 ( 約 120 <sup>o</sup>C ) 大火快炸 九分熱油 ( 約 190 C ) 小火慢炸 三分熱油 ( 約 70 C ) 大火快炸 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2309
+      "sequence": 2310
     },
     {
       "id": "vocational-exam-95-p2-q013-9850e308dd",
@@ -6067,7 +6230,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "用來燒烤食物上層上色的肉類食材的頭頂烤箱是： 傳統烤箱 ( Conventional Oven ) 對流式烤箱 ( Convection Oven ) 高架烤箱 ( Broiler ) 明火烤箱 ( Salamander ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2310
+      "sequence": 2311
     },
     {
       "id": "vocational-exam-95-p2-q014-ef0b39e245",
@@ -6148,7 +6311,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "牛腿肉質較硬，將之煎或炸 (焦化) 過再長時間煮軟才好進食，這種烹調法是什麼？ 燴煮 ( stew ) 燜烤 ( poeler ) 燜煮 ( braise ) 慢煮 ( simmer ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2311
+      "sequence": 2312
     },
     {
       "id": "vocational-exam-95-p2-q015-9ed47b62d3",
@@ -6229,7 +6392,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "使用在沙司 ( Sauce ) 中，除了高湯之外，還有幾種當稠化劑的成份，下列何者並非稠化劑？ 油糊 ( Roux ) 聯結劑 ( Liaison ) 熱穀類 ( Hot Cereals ) 蛋黃 ( Egg Yolk ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2312
+      "sequence": 2313
     },
     {
       "id": "vocational-exam-95-p2-q017-fbbb195b33",
@@ -6310,7 +6473,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "水波蛋是以軟化作用 (濕熱烹調法) 中的哪一種烹調法煮成的？ 沸煮 ( boil ) 慢煮 ( simmer ) 低溫煮 ( poach ) 燙煮 ( blanch ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2314
+      "sequence": 2315
     },
     {
       "id": "vocational-exam-95-p2-q045-261073e112",
@@ -6409,7 +6572,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列有關設置中央倉儲的敘述，何者不正確？ 地點很容易取得 減少分散工作之重複 (I 可節省儲貨空間 便於集中檢驗及盤存之控制 ## 46. 一般食材在發貨時，我們依何種存貨轉換系統運作？ 先進後出 後進先出 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2339
+      "sequence": 2340
     },
     {
       "id": "vocational-exam-94-p1-q034-aa30fead58",
@@ -6491,7 +6654,7 @@
         "missing-answer"
       ],
       "searchText": "下列何者較符合廚房從業人員的實際工作職責？ 西餐廚房冷盤師傅負責熱菜製作 西餐廚房燒烤師傅負責冷盤製作 中餐廚房籠鍋頭手負責蒸燉菜湯的製作 中餐廚房排菜頭手負責果菜雕刻 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1008
+      "sequence": 1006
     },
     {
       "id": "vocational-exam-94-p1-q038-467b45699c",
@@ -6572,7 +6735,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "承上題，若以原料總重為基準的烹調耗損率為30%，請問此羊腿在烹調後剩下多少公斤？ 4 5 6 7 ## 【背面尚有試題】 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1012
+      "sequence": 1010
     },
     {
       "id": "vocational-exam-94-p1-q039-c9643d3e13",
@@ -6653,14 +6816,14 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "承 38 題，若此羊腿烹調後再切割成為菜餚只剩 4 公斤，請問烹調後，以原料總重為基準的切割耗損率為多少百分比(%)？ 10 20 30 40 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1013
+      "sequence": 1011
     },
     {
-      "id": "vocational-exam-94-p1-makeup-q032-4f929ed529",
+      "id": "vocational-exam-94-p1-makeup-q032-3ab38e1f79",
       "sourceYear": 94,
       "sourceLabel": "94 年 專業科目(一) 第 32 題",
       "sourceFile": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md",
-      "sourceLocator": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md#offset-3163",
+      "sourceLocator": "專一\\output\\94-3專一補考試題\\auto\\94-3專一補考試題.md#offset-3022",
       "paperTitle": "專業科目(一)補考",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 32,
@@ -6734,7 +6897,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列有關食物安全衛生的敘述，何者最不適當？ 食物的危險溫度範圍指的是 7-60℃ 冷凍食品之中心溫度，應保持在7℃以下 海鮮所導致的食物中毒，最可能原因是腸炎弧菌的污染 農藥引起的食物中毒為化學性食物中毒 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 1045
+      "sequence": 1044
     },
     {
       "id": "vocational-exam-94-p2-q005-7100214605",
@@ -7503,11 +7666,11 @@
       "sequence": 2236
     },
     {
-      "id": "vocational-exam-94-p2-q045-cbccdd2b2d",
+      "id": "vocational-exam-94-p2-q045-4f7e61d232",
       "sourceYear": 94,
       "sourceLabel": "94 年 專業科目(二) 第 45 題",
       "sourceFile": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md",
-      "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-4881",
+      "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-4878",
       "paperTitle": "專業科目(二)",
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 45,
@@ -7581,7 +7744,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "一般而言，國際觀光旅館所附設的餐廳中，下列哪一種餐廳一天的營運時間最長？ 西餐廳 中餐廳 宴會廳 咖啡廳 ## 【背面尚有試題】 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2243
+      "sequence": 2244
     },
     {
       "id": "vocational-exam-94-p2-makeup-q002-97f99c443d",
@@ -7662,7 +7825,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "「乾炸響鈴」是屬於下列哪一種菜系？ 江浙菜 天津菜 雲南菜 廣東菜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2250
+      "sequence": 2251
     },
     {
       "id": "vocational-exam-94-p2-makeup-q003-9c80c720d8",
@@ -7743,7 +7906,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "廣東菜系的「發財瑤柱甫」中的「瑤柱」是指下列哪一種食材？ 魚翅 香菇 髮菜 干貝 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2251
+      "sequence": 2252
     },
     {
       "id": "vocational-exam-94-p2-makeup-q004-789d1d6c8a",
@@ -7824,7 +7987,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "中餐烹飪中選料以「海鮮」為主要材料的是下列哪一種菜系？ 上海菜 四川菜 雲南菜 湖南菜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2252
+      "sequence": 2253
     },
     {
       "id": "vocational-exam-94-p2-makeup-q005-ba9090dcd0",
@@ -7905,7 +8068,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "在烹調鍋類用具中，哪一種鍋散熱速度最慢？ 鋁鍋 砂鍋 壓力鍋 不銹鋼鍋 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2253
+      "sequence": 2254
     },
     {
       "id": "vocational-exam-94-p2-makeup-q007-e25ed6fef5",
@@ -7974,7 +8137,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一個是明火烤箱？ deep fryer grill 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2255
+      "sequence": 2256
     },
     {
       "id": "vocational-exam-94-p2-makeup-q015-a5af209a0a",
@@ -8055,7 +8218,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "ea Cucumber 是指下列哪一個食材？ 海參 干貝 魚翅 海瓜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2263
+      "sequence": 2264
     },
     {
       "id": "vocational-exam-94-p2-makeup-q017-6a60181c72",
@@ -8136,7 +8299,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一種食材於颱風過後其價格漲幅最大？ 洋蔥 馬鈴薯 紅蘿蔔 高麗菜 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2265
+      "sequence": 2266
     },
     {
       "id": "vocational-exam-94-p2-makeup-q023-85ee46e12c",
@@ -8217,7 +8380,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "下列哪一項不是存量存控時應建立的項目？ safety stock standard portion standard recipes white stock 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2271
+      "sequence": 2272
     },
     {
       "id": "vocational-exam-94-p2-makeup-q026-1f06722f64",
@@ -8298,7 +8461,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "一般而言，國際觀光旅館附設的餐廳類型中，下列哪一種餐廳沒有固定的餐桌椅擺設？ 中餐廳 宴會廳 咖啡廳 西餐廳 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2274
+      "sequence": 2275
     },
     {
       "id": "vocational-exam-94-p2-makeup-q042-37a4445864",
@@ -8379,7 +8542,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "西餐廳常用的黑胡椒沙司 ( black pepper sauce ) 比較適合搭配哪一類型的菜餚？ 牛肉 ( beef ) 義大利麵 ( pasta ) 沙拉 ( salad ) 海鮮 ( seafood ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2290
+      "sequence": 2291
     },
     {
       "id": "vocational-exam-94-p2-makeup-q044-7eabe01960",
@@ -8460,7 +8623,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "西餐烹製高湯或烹調食物時，常會放入「bouquet garni」，下列哪一種物品是傳統使用上的主要材料之一？ 茴香酒 ( galliano ) 迷迭香 ( rosemary ) 百里香 ( thyme ) 香草 ( vanilla ) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2292
+      "sequence": 2293
     },
     {
       "id": "vocational-exam-94-p2-makeup-q045-406e79624c",
@@ -8541,7 +8704,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "西餐食材切割方法中，下列哪個字表示切割成碎狀？ chop dice julienne stick 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 2293
+      "sequence": 2294
     },
     {
       "id": "vocational-exam-93-p1-q028-4256e72418",
@@ -8622,7 +8785,7 @@
       "reviewStatus": "draft",
       "flags": [],
       "searchText": "餐飲業四大探購原則之一爲建立探購產品之品質標準，除了考慮貨源穩定性及服務等要件外，下列有關內容稱之為：型式：帶殼用途：早餐烹飪食材(煎、水煮、炒)保存形式：40℉(5℃)低溫冷藏運送品質：有CAS優良食品標誌蛋殼顏色：白大小：符合CNS雞蛋重量分級，LL(特大蛋)，66\\~72g包裝：30打/防水的條板箱價格：依條板箱數量計 優良食品認證(Good Manufacturing Practice) 健康食品標準(Health Food Standard) 探購合約(Purchasing Contract) 探購規格說明(Standard Purchasing Specification) 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 953
+      "sequence": 951
     },
     {
       "id": "vocational-exam-93-p2-q001-0c1b889279",
@@ -11196,7 +11359,7 @@
       "sequence": 2103
     },
     {
-      "id": "vocational-exam-90-p1-q001-672aa9a470",
+      "id": "vocational-exam-90-p1-q001-e091e5e807",
       "sourceYear": 90,
       "sourceLabel": "90 年 專業科目(一) 第 1 題",
       "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
@@ -11205,7 +11368,7 @@
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 1,
       "questionType": "single-choice",
-      "prompt": "製作冷盤沙拉的師傅手㆖有刀傷，且有化膿現象，如果處理不當，最容易造成：",
+      "prompt": "製作冷盤沙拉的師傅手上有刀傷，且有化膿現象，如果處理不當，最容易造成：",
       "images": [],
       "options": [
         {
@@ -11274,11 +11437,11 @@
       "flags": [
         "missing-answer"
       ],
-      "searchText": "製作冷盤沙拉的師傅手㆖有刀傷，且有化膿現象，如果處理不當，最容易造成： 金黃色葡萄球菌污染 沙門氏桿菌污染 肉毒桿菌污染 仙㆟掌桿菌污染 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+      "searchText": "製作冷盤沙拉的師傅手上有刀傷，且有化膿現象，如果處理不當，最容易造成： 金黃色葡萄球菌污染 沙門氏桿菌污染 肉毒桿菌污染 仙㆟掌桿菌污染 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
       "sequence": 777
     },
     {
-      "id": "vocational-exam-90-p1-q004-c64ad95eaf",
+      "id": "vocational-exam-90-p1-q004-6dc485d821",
       "sourceYear": 90,
       "sourceLabel": "90 年 專業科目(一) 第 4 題",
       "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
@@ -11287,16 +11450,16 @@
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 4,
       "questionType": "single-choice",
-      "prompt": "油炸食物時，應遵循㆘列那項要點？",
+      "prompt": "油炸食物時，應遵循下列那項要點？",
       "images": [],
       "options": [
         {
           "id": "A",
-          "text": "食物體積小者，宜用高㆒點的溫度"
+          "text": "食物體積小者，宜一同ㄧ點的溫度"
         },
         {
           "id": "B",
-          "text": "自冷凍庫㆗取出的食材可以立即放入高溫油鍋㆗"
+          "text": "自冷凍庫中取出的食材可以立即放入高溫油鍋中"
         },
         {
           "id": "C",
@@ -11356,11 +11519,11 @@
       "flags": [
         "missing-answer"
       ],
-      "searchText": "油炸食物時，應遵循㆘列那項要點？ 食物體積小者，宜用高㆒點的溫度 自冷凍庫㆗取出的食材可以立即放入高溫油鍋㆗ 應該選用含高量不飽和脂肪酸的油才符合健康觀點 單從食物表面顏色的變化就可判定是否炸熟了 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+      "searchText": "油炸食物時，應遵循下列那項要點？ 食物體積小者，宜一同ㄧ點的溫度 自冷凍庫中取出的食材可以立即放入高溫油鍋中 應該選用含高量不飽和脂肪酸的油才符合健康觀點 單從食物表面顏色的變化就可判定是否炸熟了 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
       "sequence": 780
     },
     {
-      "id": "vocational-exam-90-p1-q005-606c15bc81",
+      "id": "vocational-exam-90-p1-q005-f2e99d0926",
       "sourceYear": 90,
       "sourceLabel": "90 年 專業科目(一) 第 5 題",
       "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
@@ -11374,7 +11537,7 @@
       "options": [
         {
           "id": "A",
-          "text": "調味料都是在烤完之後才塗㆖"
+          "text": "調味料都是在烤完之後才塗上"
         },
         {
           "id": "B",
@@ -11382,11 +11545,11 @@
         },
         {
           "id": "C",
-          "text": "肉塊有肥肉的㆒面必須朝㆖"
+          "text": "肉塊有肥一同ㄧ面必須朝上"
         },
         {
           "id": "D",
-          "text": "整個爐烤過程的溫度必須保持㆒致"
+          "text": "整個爐烤過程的溫度必須一同ㄧ致"
         }
       ],
       "subject": "culinary",
@@ -11438,11 +11601,11 @@
       "flags": [
         "missing-answer"
       ],
-      "searchText": "爐烤(roasting)食物時，要注意： 調味料都是在烤完之後才塗㆖ 等到肉塊放入烤箱後才開始加熱 肉塊有肥肉的㆒面必須朝㆖ 整個爐烤過程的溫度必須保持㆒致 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+      "searchText": "爐烤(roasting)食物時，要注意： 調味料都是在烤完之後才塗上 等到肉塊放入烤箱後才開始加熱 肉塊有肥一同ㄧ面必須朝上 整個爐烤過程的溫度必須一同ㄧ致 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
       "sequence": 781
     },
     {
-      "id": "vocational-exam-90-p1-q008-2add435f2c",
+      "id": "vocational-exam-90-p1-q008-2b091179f8",
       "sourceYear": 90,
       "sourceLabel": "90 年 專業科目(一) 第 8 題",
       "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
@@ -11451,7 +11614,7 @@
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 8,
       "questionType": "single-choice",
-      "prompt": "烹調豬肉㆒定要熟透，主要是為了防止何種物質危害㆟體健康？",
+      "prompt": "烹調一同ㄧ定要熟透，主要是為了防止何種物質危害㆟體健康？",
       "images": [],
       "options": [
         {
@@ -11520,11 +11683,11 @@
       "flags": [
         "missing-answer"
       ],
-      "searchText": "烹調豬肉㆒定要熟透，主要是為了防止何種物質危害㆟體健康？ 抗生素 血水 寄生蟲 硬筋 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+      "searchText": "烹調一同ㄧ定要熟透，主要是為了防止何種物質危害㆟體健康？ 抗生素 血水 寄生蟲 硬筋 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
       "sequence": 784
     },
     {
-      "id": "vocational-exam-90-p1-q013-11269542e6",
+      "id": "vocational-exam-90-p1-q013-80aa45b80b",
       "sourceYear": 90,
       "sourceLabel": "90 年 專業科目(一) 第 13 題",
       "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
@@ -11533,7 +11696,7 @@
       "schoolName": "統一入學測驗餐旅群",
       "questionNumber": 13,
       "questionType": "single-choice",
-      "prompt": "烹調時使用微火或弱火，時間較長，又稱為「火功菜」的㆗餐烹調法是：",
+      "prompt": "烹調時使用微火或弱火，時間較長，又稱為「火功菜」的中餐烹調法是：",
       "images": [],
       "options": [
         {
@@ -11550,74 +11713,8 @@
         },
         {
           "id": "D",
-          "text": "焗、煮、煨"
-        }
-      ],
-      "subject": "culinary",
-      "subjectLabel": "中西餐烹調",
-      "unit": "[中西餐烹調] - [食材與烹調法]",
-      "conceptId": "culinary-food-production",
-      "conceptLabel": "食材、衛生與中西餐烹調法",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "note": "依統測題幹與選項關鍵字比對：烹調"
-        }
-      ],
-      "explanation": {
-        "status": "draft",
-        "answerExplanation": "",
-        "optionExplanations": [
-          {
-            "optionId": "A",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "B",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "C",
-            "isCorrect": false,
-            "explanation": ""
-          },
-          {
-            "optionId": "D",
-            "isCorrect": false,
-            "explanation": ""
-          }
-        ],
-        "references": [
-          {
-            "source": "manual",
-            "note": "依統測題幹與選項關鍵字比對：烹調"
-          }
-        ],
-        "updatedAt": ""
-      },
-      "reviewStatus": "draft",
-      "flags": [
-        "missing-answer"
-      ],
-      "searchText": "烹調時使用微火或弱火，時間較長，又稱為「火功菜」的㆗餐烹調法是： 燴、燜、涮 燉、燜、燴 燉、燜、煨 焗、煮、煨 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 789
-    },
-    {
-      "id": "vocational-exam-90-p1-q014-6e033e3614",
-      "sourceYear": 90,
-      "sourceLabel": "90 年 專業科目(一) 第 14 題",
-      "sourceFile": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md",
-      "sourceLocator": "專一\\output\\90專一二技試題\\auto\\90專一二技試題.md#offset-1648",
-      "paperTitle": "專業科目(一)",
-      "schoolName": "統一入學測驗餐旅群",
-      "questionNumber": 14,
-      "questionType": "single-choice",
-      "prompt": "㆒般作為「紅燒滑水」與「紅燒㆘巴」的食材，按順序分別是：",
-      "images": [],
-      "options": [
+          "text": "焗、煮、煨 14一同ㄧ般作為「紅燒滑水」與「紅燒下巴」的食材，按順序分別是："
+        },
         {
           "id": "A",
           "text": "牛尾 與 猴頭菇"
@@ -11644,7 +11741,7 @@
       "classificationBasis": [
         {
           "source": "manual",
-          "note": "依統測題幹與選項關鍵字比對：食材"
+          "note": "依統測題幹與選項關鍵字比對：烹調、食材、中餐"
         }
       ],
       "explanation": {
@@ -11670,12 +11767,32 @@
             "optionId": "D",
             "isCorrect": false,
             "explanation": ""
+          },
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": ""
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": ""
           }
         ],
         "references": [
           {
             "source": "manual",
-            "note": "依統測題幹與選項關鍵字比對：食材"
+            "note": "依統測題幹與選項關鍵字比對：烹調、食材、中餐"
           }
         ],
         "updatedAt": ""
@@ -11684,8 +11801,8 @@
       "flags": [
         "missing-answer"
       ],
-      "searchText": "㆒般作為「紅燒滑水」與「紅燒㆘巴」的食材，按順序分別是： 牛尾 與 猴頭菇 魚尾 與 牛舌 魚尾 與 魚頭 魚翅 與 魚頭 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
-      "sequence": 790
+      "searchText": "烹調時使用微火或弱火，時間較長，又稱為「火功菜」的中餐烹調法是： 燴、燜、涮 燉、燜、燴 燉、燜、煨 焗、煮、煨 14一同ㄧ般作為「紅燒滑水」與「紅燒下巴」的食材，按順序分別是： 牛尾 與 猴頭菇 魚尾 與 牛舌 魚尾 與 魚頭 魚翅 與 魚頭 食材、衛生與中西餐烹調法 [中西餐烹調] - [食材與烹調法]",
+      "sequence": 789
     }
   ]
 }

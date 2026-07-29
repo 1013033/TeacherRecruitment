@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q027-f3b0a9c2ba",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 27 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-5136",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 27,
+    "questionType": "single-choice",
+    "prompt": "下列哪一個選項對於 soft drink與 hard drink敘述是正確的？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "hard drink屬於非酒精性飲料，soft drink屬於酒精性飲料"
+      },
+      {
+        "id": "B",
+        "text": "soft drink屬於非酒精性飲料，hard drink屬於酒精性飲料"
+      },
+      {
+        "id": "C",
+        "text": "soft drink屬於酒精性較高的飲料，hard drink 屬於酒精性較低的飲料"
+      },
+      {
+        "id": "D",
+        "text": "hard drink屬於酒精性較高的飲料，soft drink屬於酒精性較低的飲料"
+      }
+    ],
+    "answer": "B",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：酒精"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：酒精"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "下列哪一個選項對於 soft drink與 hard drink敘述是正確的？ hard drink屬於非酒精性飲料，soft drink屬於酒精性飲料 soft drink屬於非酒精性飲料，hard drink屬於酒精性飲料 soft drink屬於酒精性較高的飲料，hard drink 屬於酒精性較低的飲料 hard drink屬於酒精性較高的飲料，soft drink屬於酒精性較低的飲料 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1886
+  }
+}

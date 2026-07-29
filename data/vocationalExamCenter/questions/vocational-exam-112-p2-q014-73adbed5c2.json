@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-112-p2-q014-73adbed5c2",
+    "sourceYear": 112,
+    "sourceLabel": "112 年 專業科目(二) 第 14 題",
+    "sourceFile": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md",
+    "sourceLocator": "專二\\output\\112-1專二試題\\auto\\112-1專二試題.md#offset-2868",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 14,
+    "questionType": "single-choice",
+    "prompt": "饗食天堂為國內知名的連鎖自助餐廳(buffet service)，有關該餐廳提供餐飲服務的敘述，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "是以取用餐食的種類、重量或數量計算價格"
+      },
+      {
+        "id": "B",
+        "text": "餐檯設計與配置，必須兼顧視覺的美觀與實用性的要求"
+      },
+      {
+        "id": "C",
+        "text": "菜單內容固定、來客數穩定，食物成本較低且容易掌控"
+      },
+      {
+        "id": "D",
+        "text": "越來越多的學校餐廳引進此種餐飲服務方式"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐飲營運]",
+    "conceptId": "foodservice-operations",
+    "conceptLabel": "餐飲營運、成本與人力管理",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐廳、菜單、連鎖、成本"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐廳、菜單、連鎖、成本"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "饗食天堂為國內知名的連鎖自助餐廳(buffet service)，有關該餐廳提供餐飲服務的敘述，下列何者正確？ 是以取用餐食的種類、重量或數量計算價格 餐檯設計與配置，必須兼顧視覺的美觀與實用性的要求 菜單內容固定、來客數穩定，食物成本較低且容易掌控 越來越多的學校餐廳引進此種餐飲服務方式 餐飲營運、成本與人力管理 [餐飲服務技術] - [餐飲營運]",
+    "sequence": 1873
+  }
+}

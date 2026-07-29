@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-111-p1-q048-06d18102b4",
+    "sourceYear": 111,
+    "sourceLabel": "111 年 專業科目(一) 第 48 題",
+    "sourceFile": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md",
+    "sourceLocator": "專一\\output\\111-1專一試題\\auto\\111-1專一試題.md#offset-7612",
+    "paperTitle": "專業科目(一)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 48,
+    "questionType": "single-choice",
+    "prompt": "關於以此餐廳料理所屬國家為名的服務方式，下列何者正確？",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "由服務人員持銀盤向客人呈現菜餚，再為顧客進行分菜"
+      },
+      {
+        "id": "B",
+        "text": "由服務人員持銀盤向客人呈現菜餚，再由顧客自行挾取"
+      },
+      {
+        "id": "C",
+        "text": "服務人員將顧客所點菜餚端上餐桌，再由顧客自行挾取"
+      },
+      {
+        "id": "D",
+        "text": "菜餚先行在廚房進行盛盤後，再由服務人員端盤上餐桌"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：上餐、餐桌"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：上餐、餐桌"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "關於以此餐廳料理所屬國家為名的服務方式，下列何者正確？ 由服務人員持銀盤向客人呈現菜餚，再為顧客進行分菜 由服務人員持銀盤向客人呈現菜餚，再由顧客自行挾取 服務人員將顧客所點菜餚端上餐桌，再由顧客自行挾取 菜餚先行在廚房進行盛盤後，再由服務人員端盤上餐桌 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 583
+  }
+}

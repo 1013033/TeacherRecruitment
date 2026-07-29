@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-114-p2-q003-12b377f234",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 3 題",
+    "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
+    "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-906",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 3,
+    "questionType": "single-choice",
+    "prompt": "表 ( 二 ) 中，根據「食品良好衛生規範準則」對於餐飲業應使用之殺菌方式的整理資訊，下列組合何者正確？ 表(二)：甲 乾熱，100℃，毛巾、抹布，3分鐘；乙 蒸氣，100℃，餐具，2分鐘；丙 熱水，80℃以上，餐具，2分鐘；丁 煮沸，110℃以上，毛巾抹布，30分鐘",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "甲、乙"
+      },
+      {
+        "id": "B",
+        "text": "甲、丁"
+      },
+      {
+        "id": "C",
+        "text": "乙、丙"
+      },
+      {
+        "id": "D",
+        "text": "丙、丁"
+      }
+    ],
+    "answer": "C",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：餐具"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：餐具"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "表 ( 二 ) 中，根據「食品良好衛生規範準則」對於餐飲業應使用之殺菌方式的整理資訊，下列組合何者正確？ 表(二)：甲 乾熱，100℃，毛巾、抹布，3分鐘；乙 蒸氣，100℃，餐具，2分鐘；丙 熱水，80℃以上，餐具，2分鐘；丁 煮沸，110℃以上，毛巾抹布，30分鐘 甲、乙 甲、丁 乙、丙 丙、丁 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 1960
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-114-p2-q042-f5d99dff0e",
+    "sourceYear": 114,
+    "sourceLabel": "114 年 專業科目(二) 第 42 題",
+    "sourceFile": "專二\\output\\114專二試題\\auto\\114專二試題.md",
+    "sourceLocator": "專二\\output\\114專二試題\\auto\\114專二試題.md#offset-10623",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 42,
+    "questionType": "single-choice",
+    "prompt": "飲料實務課堂上，老師在複習基酒重要概念時，詢問學生有關烈酒在蒸餾製程完成的當下，酒體所呈現的顏色，下列哪些同學的回答是正確的？小英：rum呈無色透明小倫：tequila呈淡金色小哲：brandy呈琥珀色小俊：gin呈無色透明",
+    "images": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "小英、小倫"
+      },
+      {
+        "id": "B",
+        "text": "小哲、小俊"
+      },
+      {
+        "id": "C",
+        "text": "小倫、小哲"
+      },
+      {
+        "id": "D",
+        "text": "小英、小俊"
+      }
+    ],
+    "answer": "D",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[飲料實務] - [酒類與吧檯]",
+    "conceptId": "beverage-wine-bar",
+    "conceptLabel": "酒類、雞尾酒與吧檯實務",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "依統測題幹與選項關鍵字比對：gin、rum、tequila"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "依統測題幹與選項關鍵字比對：gin、rum、tequila"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "draft",
+    "flags": [],
+    "searchText": "飲料實務課堂上，老師在複習基酒重要概念時，詢問學生有關烈酒在蒸餾製程完成的當下，酒體所呈現的顏色，下列哪些同學的回答是正確的？小英：rum呈無色透明小倫：tequila呈淡金色小哲：brandy呈琥珀色小俊：gin呈無色透明 小英、小倫 小哲、小俊 小倫、小哲 小英、小俊 酒類、雞尾酒與吧檯實務 [飲料實務] - [酒類與吧檯]",
+    "sequence": 1997
+  }
+}

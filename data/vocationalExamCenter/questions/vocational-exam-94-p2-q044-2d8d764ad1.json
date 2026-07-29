@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "vocational-exam-c6c8f7f884",
+  "question": {
+    "id": "vocational-exam-94-p2-q044-2d8d764ad1",
+    "sourceYear": 94,
+    "sourceLabel": "94 年 專業科目(二) 第 44 題",
+    "sourceFile": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md",
+    "sourceLocator": "專二\\output\\94-1專二試題\\auto\\94-1專二試題.md#offset-4451",
+    "paperTitle": "專業科目(二)",
+    "schoolName": "統一入學測驗餐旅群",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "下列哪一種桌次順序的安排 ( 1 代表主桌、2 代表次主桌….，其餘類推 )，不符合用餐禮儀原則？",
+    "images": [
+      {
+        "id": "vocational-exam-94-p2-q044-2d8d764ad1-img-01",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-94-p2-q044-2d8d764ad1-img-01.jpg",
+        "alt": "第 1 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-94-p2-q044-2d8d764ad1-img-02",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-94-p2-q044-2d8d764ad1-img-02.jpg",
+        "alt": "第 2 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-94-p2-q044-2d8d764ad1-img-03",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-94-p2-q044-2d8d764ad1-img-03.jpg",
+        "alt": "第 3 張題目圖片"
+      },
+      {
+        "id": "vocational-exam-94-p2-q044-2d8d764ad1-img-04",
+        "src": "data/vocationalExamCenter/assets/vocational-exam-94-p2-q044-2d8d764ad1-img-04.jpg",
+        "alt": "第 4 張題目圖片"
+      }
+    ],
+    "options": [
+      {
+        "id": "B",
+        "text": "入口 入口"
+      },
+      {
+        "id": "D",
+        "text": "入口 入口"
+      }
+    ],
+    "answer": "B",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[餐飲服務技術] - [餐桌服務]",
+    "conceptId": "foodservice-table-service",
+    "conceptLabel": "餐桌擺設、上餐撤餐與服務流程",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [
+        {
+          "optionId": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "note": "未命中明確關鍵字，依 專二 預設科目暫分。"
+        }
+      ],
+      "updatedAt": ""
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "needs-classification-review"
+    ],
+    "searchText": "下列哪一種桌次順序的安排 ( 1 代表主桌、2 代表次主桌….，其餘類推 )，不符合用餐禮儀原則？ 入口 入口 入口 入口 餐桌擺設、上餐撤餐與服務流程 [餐飲服務技術] - [餐桌服務]",
+    "sequence": 2243
+  }
+}
