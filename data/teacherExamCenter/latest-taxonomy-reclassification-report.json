@@ -1,544 +1,559 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
-  "generatedAt": "2026-07-29T16:14:57.715Z",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
+  "generatedAt": "2026-07-29T16:46:06.977Z",
   "taxonomyPath": "RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md",
   "taxonomyUnitCount": 409,
   "manualPath": "RAG/TEST Doc 分類萃取/篩選題目輸出 2 115.07.29-紅字分類萃取.md",
   "manual": {
-    "totalRows": 411,
-    "applied": 321,
-    "duplicateQuestionRows": 1,
+    "totalRows": 410,
+    "tableRows": 394,
+    "unresolvedRedParagraphRows": 16,
+    "applied": 335,
+    "tableApplied": 321,
+    "unresolvedRedParagraphApplied": 14,
+    "duplicateQuestionRows": 8,
     "noTaxonomyMatch": [
       {
+        "source": "table",
         "classification": "/不留痕跡",
         "locator": "07-1",
         "prompt": "Leave No Trace (無痕山林)|"
       },
       {
+        "source": "table",
         "classification": "...",
         "locator": "111-46",
         "prompt": "國內觀光遊樂業發展約從日治時期即有大致雛型產生有關該產業現況之敘述,下列何者正確?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-5 B 食品中毒/食物中毒;時事E1餐飲業投保保險",
         "locator": "114-28",
         "prompt": "國內食安問題頻傳,2024年因寶林茶室食品中毒事件造成多位民眾重症、甚至死亡 ,政府除了要求餐飲業者加強對食品安全的重視外,亦強制要求餐飲業需投保相關 保險,下列何者為政府要求之保險?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "103-12",
         "prompt": "有關「Seated Service」的敘述,下列何者為非?|"
       },
       {
+        "source": "table",
         "classification": "專業科目綜合題",
         "locator": "111-50",
         "prompt": "成哥與蘿絲行程中餐旅宿安排之敘述,下列何者正確?|"
       },
       {
+        "source": "table",
         "classification": "煮沸法:100°C沸水 蒸氣法:100°C蒸氣 熱水法:80°C熱水 乳液法:200ppm乳液 乾熱法:110°C乾熱3-5 A 消毒/殺菌法",
         "locator": "01-1",
         "prompt": "請寫出消毒法的分類與消毒條件?|"
       },
       {
+        "source": "table",
         "classification": "餐飲服務技術綜合題",
         "locator": "104-3",
         "prompt": "下列敘述何者錯誤?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "109-11",
         "prompt": "知名的「海底撈」餐廳,請問屬於哪種餐飲服務型態?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "111-14",
         "prompt": "台灣特有的「辦桌」文化屬於下列哪種服務方式?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "101-7",
         "prompt": "由客人自行取食或由服務人員為客人依其所需取菜之計價方式,是下列哪一種餐廳型態?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "106-3",
         "prompt": "日本引進的「くら寿司(藏壽司)」,請問屬於哪種餐飲服務型態?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "113-14",
         "prompt": "由客人自行取食或由服務人員為客人依其所需取菜之計價方式,是下列哪 一種餐廳 型態?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "109-13",
         "prompt": "由專業的外燴餐飲團隊將食物裝備與服務的過程,移到顧客所指定的場所進行饗宴,這次屬於下列哪一種餐飲服務?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "111-8",
         "prompt": "許多速食店設置專用車道供駕駛人點餐取餐之用,此類餐飲服務方式稱為?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "102-12",
         "prompt": "下列何者為最複雜的餐飲服務方式,人事成本亦高?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "104-16",
         "prompt": "Most of the students eat in the _______.|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "97-27",
         "prompt": "客人自行至餐檯取菜,而依所取之樣數付帳即:|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "104-20",
         "prompt": "下列何者不屬於 convenient food service?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "113-13",
         "prompt": "下列何者屬於Self Service的餐廳?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "106-35",
         "prompt": "傳統婚宴在家附近空地所辦的流水席,其所描述的是哪一種餐飲服務方式?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "113-23",
         "prompt": "由專業的外燴餐飲團隊將食物裝備與服務的過程 , 移到顧客所指定的場所進行饗宴, 這次屬於下列哪一種餐飲服務?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "97-1",
         "prompt": "Table Service:餐桌服務|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "107-18",
         "prompt": "下列何者不屬於 “Convenient Foodservice”?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "97-39",
         "prompt": "餐飲服務方式中有「窗口服務」之稱的是:|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "97-44",
         "prompt": "所謂外帶餐店與下列何者意義不同?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "114-9",
         "prompt": "「Uber Eats」提供餐點的服務方式,屬於下列何種型態?|"
       },
       {
+        "source": "table",
         "classification": "觀光餐旅業導論3-3 C餐廳種類及服務型態;餐飲服務技術8-1",
         "locator": "97-7",
         "prompt": "Catering Service:外燴服務|"
-      },
-      {
-        "classification": "段落",
-        "locator": "紅字分類",
-        "prompt": "非紅字文字|"
-      },
-      {
-        "classification": "558",
-        "locator": "1-5 B2各組室職掌",
-        "prompt": "4. 請說明交通部觀光局六組的組名及業務職掌。|"
-      },
-      {
-        "classification": "559",
-        "locator": "8-1 B 餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-        "prompt": "5. 請說明 American Service、French Service、English Service、Guéridon Service 這四種服務方式的內容以及其優缺點。|"
-      },
-      {
-        "classification": "937",
-        "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-        "prompt": "2. 請敘述台灣餐飲小吃業發展的困境,以及如何因應。|"
-      },
-      {
-        "classification": "1071",
-        "locator": "C5旅行台灣 感動100",
-        "prompt": "4. 觀光局「旅行臺灣-感動一百」行動計畫中,形塑台灣觀光感動元素,爭取國際旅客來臺觀光,所推動的主軸有哪三個?|"
-      },
-      {
-        "classification": "1697",
-        "locator": "5-5 H 機票(機票代碼、種類)",
-        "prompt": "WETR*2<<|"
-      },
-      {
-        "classification": "1718",
-        "locator": "5-5 F 護照",
-        "prompt": "(1) 由於小華尚未申請過護照,請問所需準備申辦護照資料為何?|"
-      },
-      {
-        "classification": "1719",
-        "locator": "5-5 F 護照",
-        "prompt": "(2) 小華媽媽於5/11(五)早上帶小華去申辦護照,由於時間緊迫,請問至少需提前幾個工作天發製?並繳交多少的護照申辦費用?|"
-      },
-      {
-        "classification": "1720",
-        "locator": "5-5 F 護照",
-        "prompt": "(3) 護照申辦、核發及管理的主管機關為何?|"
-      },
-      {
-        "classification": "1721",
-        "locator": "F2國外旅遊定型化契約",
-        "prompt": "(4) 在與旅行社簽訂「國外旅遊定型化契約」後,在出發前二天小華爸爸因公而無法前往,並在出發前一天告知旅行社並說明要取消,而小華及媽媽二人照原訂計劃前往,請問小華爸爸至少需賠償多少的取消費用?|"
-      },
-      {
-        "classification": "3336",
-        "locator": "5-1 E 宗教菜單禁忌",
-        "prompt": "歡樂週五夜晚,信奉 Muslim的 Lily、信奉 Hinduism的 Mary、信奉 Judaism的 Jason及信奉 Catholicism的Jay,準備到西餐廳用餐,請依照下列餐廳所提供的菜單提示,選出正確的答案:|"
-      },
-      {
-        "classification": "3666",
-        "locator": "5-1 E 宗教菜單禁忌",
-        "prompt": "歡樂週五夜晚,信奉 Muslim的 Lily、信奉 Hinduism的 Mary、信奉 Judaism的 Jason及信奉 Catholicism的Jay,準備到西餐廳用餐,請依照下列餐廳所提供的菜單提示,選出正確的答案:|"
-      },
-      {
-        "classification": "3760",
-        "locator": "3-4 D1 組織編制─外場",
-        "prompt": "4. Trancheur:外場切割員|"
-      },
-      {
-        "classification": "4105",
-        "locator": "5-1 E 宗教菜單禁忌",
-        "prompt": "28. 請問上述菜單較可能是哪一個宗教食用?|"
-      },
-      {
-        "classification": "4125",
-        "locator": "5-1 E 宗教菜單禁忌",
-        "prompt": "42. 請問上述菜單較可能是哪一個宗教食用?|"
-      },
-      {
-        "classification": "4463",
-        "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-        "prompt": "3. 台式醬汁,多搭配海鮮沾食,由番茄醬、糖、醋、香油、醬油所調製而成的醬汁是:五味醬|"
-      },
-      {
-        "classification": "4468",
-        "locator": "3-5 B 食品中毒/食物中毒",
-        "prompt": "3. 請列舉三種國內近年來細菌性食品中毒常見之微生物種類,原因食品及預防方法。|"
       }
     ],
     "noQuestionMatch": [
       {
+        "source": "table",
         "classification": "3-5 A 消毒/殺菌法",
         "locator": "00-5",
         "prompt": "「食品良好衛生規範」所稱之有效殺菌,已明確敘明的殺菌方式共有五種,請寫出這五種之名稱及方式?|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "6-4 E3 城市代碼 / 機場代碼 / 機場代碼",
         "locator": "13-1",
         "prompt": "迪士尼迷一生中必朝聖一次的迪士尼樂園在全世界就有6間,請回答非美國境內的迪士尼樂園所 在地的IATA城市代碼。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "C6臺灣2050淨零轉型",
         "locator": "14-3",
         "prompt": "「臺灣2050淨零轉型」12項關鍵戰略的其中之一「淨零綠生活」 ,其中綠色旅遊推動的「環保標 章旅館」有何規定,請寫出標章理念、標章等級及申請規範。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "6-4 E3 城市代碼 / 機場代碼 / 機場代碼",
         "locator": "01-10",
         "prompt": "(1) 依據 IATA 編定,松山機場之代碼為? TSA CKS TPE KHH|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "A客房清潔",
         "locator": "05-3",
         "prompt": "請以中、英文寫出房務員工作三寶。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
         "locator": "05-2",
         "prompt": "餐廳的種類依經營方式分為獨立經營餐廳和連鎖經營餐廳,試分析餐廳的連鎖的樣態?|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "8-1 B 餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
         "locator": "04-3",
         "prompt": "Guéridon Service|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "4-5 B2 旅館房租計價方式(房租種類)",
         "locator": "04-2",
         "prompt": "試說明,Rack Rate、Net Rate、Flat Rate 之定義。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "4-5 B1 旅館房租計價方式(房租&早餐)",
         "locator": "02-2",
         "prompt": "Modified American Plan (MAP) :美式計費方式的一種,房租費用包含房間及早晚餐(Breakfast & Dinner)。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-5 B 食品中毒/食物中毒",
         "locator": "03-3",
         "prompt": "食物中毒案件成立的四個要件為何?|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "5-1 E 宗教菜單禁忌",
         "locator": "13-2",
         "prompt": "針對不同文化背景與宗教信仰而有不同的飲食習慣與禁忌,請依飲食禁忌分別說明下列宗教菜 單內不可食用的食物及飲料。素食者、猶太教、伊斯蘭教、印度教、摩門教。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
         "locator": "11-1",
         "prompt": "Turnover Rate(翻桌率/週轉率) :指餐飲場所在特定營業時間內,桌子或座位被重複使用的次數,是用以評估餐廳營運效率與獲利能力的重要指標。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "C5旅行台灣 感動100",
         "locator": "00-1",
         "prompt": "請建議觀光局如何將「旅行台灣、感動100」的觀光政策,與陸客自由行的活動加以整合,進行行銷推廣,以增進來台自由行陸客的深度旅遊。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "4-5 B2 旅館房租計價方式(房租種類)",
         "locator": "15-7",
         "prompt": "Run of the house rate: 8.Bunk Bed:|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-5 B 食品中毒/食物中毒",
         "locator": "09-1",
         "prompt": "請說明預防食品中毒「5要原則」。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "4-5 B1 旅館房租計價方式(房租&早餐)",
         "locator": "04-3",
         "prompt": "M.A.P.|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
         "locator": "04-5",
         "prompt": "Turnover Rate|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "6-4 E3 城市代碼 / 機場代碼 / 機場代碼",
         "locator": "15-1",
         "prompt": "2025 年全球主要轉機樞紐,由英國倫敦希斯洛連續蟬聯冠軍,被稱為「最強轉機王」,伊斯 坦堡、阿姆斯特丹史基浦機場位居第二和第三。亞洲以新加坡樟宜、吉隆坡、首爾仁川及杜 拜,為連接歐亞非的樞紐機場。請依機場名稱寫出機場代碼。 機場名稱 英國倫敦 希斯洛國 際機場 伊斯坦堡 阿姆斯特丹 史基浦機場 新加坡 樟宜機場 吉隆坡 首爾 仁川機場 杜拜 機場代碼 (1) LHR (2) IST (3) AMS (4) SIN (5) KUL (6) ICN (7) DXB|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "6-4 E3 城市代碼 / 機場代碼 / 機場代碼",
         "locator": "08-6",
         "prompt": "城市代碼AUH|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
         "locator": "14-30",
         "prompt": "座位數 31. 60 個|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
         "locator": "14-32",
         "prompt": "午餐平均 turnover rate 33. 1.5|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
         "locator": "14-34",
         "prompt": "晚餐平均 turnover rate 35. 2.5|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
         "locator": "14-36",
         "prompt": "客平均單價 37. 220 元|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-2 I 米其林",
         "locator": "01-4",
         "prompt": "法國非官方的米其林輪胎公司觀光部門,每三年出版 The Red Guide,餐飲最早以 叉子 和 湯匙 為標幟。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
         "locator": "09-1",
         "prompt": "請說明加盟連鎖餐廳中的自願加盟連鎖、特許加盟連鎖、委託加盟連鎖、合作加盟連鎖。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "4-1 D 旅館產品層次",
         "locator": "13-2",
         "prompt": "下列 1~5 項為某頂級旅館目前及未來可能提供的服務,請分別判斷這些服務屬於哪一個產品層次,並填入正確答案。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "4-5 B1 旅館房租計價方式(房租&早餐)",
         "locator": "01-3",
         "prompt": "請說明旅館的不同計價方式。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "8-4 A 客房餐飲服務(Room Service)",
         "locator": "04-11",
         "prompt": "「Room Service」的餐飲服務,主要是以 (11) 住宿旅客 人為服務對象。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "5-5 H 機票(機票代碼、種類)",
         "locator": "05-1",
         "prompt": "請依下列電子機票,回答下列各題。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "5-5 F 護照",
         "locator": "04-3",
         "prompt": "我國核發外國護照之簽證有哪四種?|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "C4 Taiwan Tourism 2030 觀光政策白皮書(1) 資源永續、(2) 品牌奠基、(3) 數位轉型、(4) 智慧觀光、(5) 產業升級、(6) 觀光立國。",
         "locator": "11-4",
         "prompt": "請寫出 Taiwan Tourism 2030 觀光政策白皮書之六大主軸策略為何?|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "C4 Taiwan Tourism 2030 觀光政策白皮書",
         "locator": "12-4",
         "prompt": "「高雄港旅運中心於2023年3月6日舉行啟用典禮。遠傳以世界級的5G網路結合5G科技及雲端技術,攜手高雄市政府和臺灣港務公司,在全新亮相的高雄港旅運中心打造5G智慧旅運服務,透過融合在地需求的創新應用協助高雄港躍升科技智慧港。除了致力協助高雄港區的建設之外,另也協助市府建置觀光大數據,提供旅客在下船後,透過網頁或 App (Mengo) 即時取得高雄市十大景點的人流資訊,避開擁塞景點,並結合當地名產優惠、交通套票等,協助旅客方便且愉快地完成旅行。」此段新聞內容為 Taiwan Tourism 2030 觀光政策白皮書哪一項主軸呢?並簡略說明該主軸之策略。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-5 B 食品中毒/食物中毒",
         "locator": "15-2",
         "prompt": "食力網站報導:2026年4月4日清明連假期間,高雄市苓雅區正義市場一間經營逾40年的春捲 老店發生集體食物中毒事件,截至4月8日上午8點已累計173人就醫,已有12名患者檢體呈現 沙門氏菌陽性反應,初步研判感染源與蛋製品有關,已啟動溯源調查。食品衛生安全攸關消 費者吃的安全,以上所提到之沙門氏菌為細菌性食物中毒種類之一,細菌性食物中毒也是案 例最多的類型,請就「中毒種類、種類說明和感染途徑」介紹四種細菌性食物中毒細菌。(除 沙門氏菌)|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "5-5 G 簽證",
         "locator": "05-2",
         "prompt": "翻譯題(每格1分共8分) (1) Room tariff: (2) Éclair: (3) Transit without visa: (4) Pilgrimage tour: (5) Limousine Service: (6) 咖啡師: (7) 侍酒師: (8) 自費遊程: 二、解釋名詞(每題3分,共15分)|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-2 E 中國─菜系",
         "locator": "05-1",
         "prompt": "請依代表菜餚填入中國主要菜系名稱: 淮揚菜:水晶肴肉 粵菜:咕咾肉 滬菜/京菜:合菜戴帽 鄂菜/徽菜等:玉麟香腰 川菜:樟茶鴨 閩菜:閩生果|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-2 E1 中國─菜系",
         "locator": "13-5",
         "prompt": "請寫出下列代表菜色屬於哪一個中國菜系(在答案欄中填寫菜系代號即可)|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-2 E1 中國─菜系",
         "locator": "06-2",
         "prompt": "試說明中餐八大菜系,並舉例知名菜餚。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-2 E1 中國─菜系",
         "locator": "12-1",
         "prompt": "中國「川菜」在國際上享有「食在中國,味在四川」的美譽,料理特色以三香、三椒、三料,帶出七滋、八味、九雜,調味豐富頗為盛名,請寫出「三香」及「三料」的材料及「八味」的調味名稱?|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-2 H1 台灣─菜餚(台菜、小吃)",
         "locator": "08-1",
         "prompt": "請寫出下列台灣小吃之英文: (1) 蚵仔煎 (2) 臭豆腐 (3) 豬血糕 (4) 滷肉飯 (5) 牛肉麵 (6) 豆漿|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-2 E1 中國─菜系(菜餚)",
         "locator": "09-5",
         "prompt": "請說明「瓊山豆腐」與「高麗魚條」。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "5-1 E 宗教菜單禁忌",
         "locator": "04-10",
         "prompt": "關於各宗教之飲食禁忌的敘述,請問「不吃沒有魚鱗的魚類、不同時烹調肉品和乳製品」是 (10) 猶太(Judaism) 教的飲食特色。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "4-5 B1 旅館房租計價方式(房租&早餐)",
         "locator": "06-2",
         "prompt": "國際間常見的旅館房間之計價方式包含:AP、MAP、BP、CP、EP。請分別解釋其房價內涵。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "8-1 B 餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
         "locator": "04-3",
         "prompt": "試說明,法式服務、英式服務及旁桌服務之異同。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "8-1 B 餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
         "locator": "04-12",
         "prompt": "根據餐桌服務的基本原則,服務員若站在顧客右側,應以 (12) 順 時針方向服務下一位顧客。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "8-4 A 客房餐飲服務(Room Service)",
         "locator": "04-8",
         "prompt": "客房餐飲服務的流程有:(1) 接受點菜 (2) 營業前準備工作 (3) 收拾殘盤 (4) 叫菜備餐 (5) 送餐服務。請書寫正確的先後順序:(8) (2)→(1)→(4)→(5)→(3)。|",
         "reason": "no-year-number-match"
       },
       {
+        "source": "table",
         "classification": "3-5 D 西餐烹調法",
         "locator": "11-1",
         "prompt": "Please describe and explain 8 basic dry-heat and 2 mix-heat cooking methods. (in Chinese) 8種乾熱烹調法:Roasting、Baking、Grilling、Broiling、Sautéing、Pan-frying、Deep-frying、Stir-frying。 2種混合烹調法:Braising、Stewing。|",
         "reason": "no-year-number-match"
       }
     ],
-    "ambiguousQuestionMatch": [],
-    "noTaxonomyMatchCount": 44,
+    "ambiguousQuestionMatch": [
+      {
+        "source": "unresolved-red-paragraph",
+        "paragraph": "4105",
+        "classification": "5-1 E 宗教菜單禁忌",
+        "locator": "",
+        "prompt": "28. 請問上述菜單較可能是哪一個宗教食用?|",
+        "candidateCount": 3464,
+        "bestScore": 0.356,
+        "secondScore": 0.344,
+        "bestQuestionId": "teacher-exam-113-14-q028-menu-vichyssoise-lobster"
+      },
+      {
+        "source": "unresolved-red-paragraph",
+        "paragraph": "4125",
+        "classification": "5-1 E 宗教菜單禁忌",
+        "locator": "",
+        "prompt": "42. 請問上述菜單較可能是哪一個宗教食用?|",
+        "candidateCount": 3464,
+        "bestScore": 0.356,
+        "secondScore": 0.344,
+        "bestQuestionId": "teacher-exam-113-14-q028-menu-vichyssoise-lobster"
+      }
+    ],
+    "noTaxonomyMatchCount": 27,
     "noQuestionMatchCount": 46,
-    "ambiguousQuestionMatchCount": 0
+    "ambiguousQuestionMatchCount": 2
   },
   "classificationStats": {
-    "manual": 320,
-    "autoHigh": 1652,
-    "autoMedium": 1232,
-    "autoLow": 260
+    "manual": 327,
+    "autoHigh": 1650,
+    "autoMedium": 1233,
+    "autoLow": 254
   },
   "subjectCounts": [
     {
       "id": "tourism-hospitality",
       "label": "觀光餐旅業導論",
-      "questionCount": 2358
+      "questionCount": 2357
     },
     {
       "id": "foodservice",
       "label": "餐飲服務技術",
-      "questionCount": 956
+      "questionCount": 964
     },
     {
       "id": "beverage",
       "label": "飲料實務",
-      "questionCount": 150
+      "questionCount": 143
     }
   ],
-  "conceptCount": 222,
-  "needsReviewCount": 260,
+  "conceptCount": 221,
+  "needsReviewCount": 3137,
   "autoReviewSamples": [
     {
       "id": "teacher-exam-100-01-q001-051ae249de",
@@ -555,9 +570,9 @@
       "sourceYear": 100,
       "questionNumber": 1,
       "confidence": "medium",
-      "score": 24,
-      "secondScore": 16,
-      "unit": "[CH5 旅行業] - [5-1 D 觀光系統]",
+      "score": 32,
+      "secondScore": 24,
+      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
       "promptPreview": "Job Description\n2. Grid Organization\n3. Incentive Tour\n4. Solera System"
     },
     {
@@ -1101,16 +1116,6 @@
       "promptPreview": "咖啡烘焙程度由深至淺排列，何者正確？"
     },
     {
-      "id": "teacher-exam-101-02-q001-1029b3fd3f",
-      "sourceYear": 101,
-      "questionNumber": 1,
-      "confidence": "medium",
-      "score": 298,
-      "secondScore": 294,
-      "unit": "[CH3 餐飲業] - [3-5 B 食品中毒/食物中毒]",
-      "promptPreview": "關於台灣近年來觀光發展的過程，下列敘述何者錯誤？"
-    },
-    {
       "id": "teacher-exam-101-02-q001-258fa25efb",
       "sourceYear": 101,
       "questionNumber": 1,
@@ -1149,16 +1154,6 @@
       "secondScore": 24,
       "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
       "promptPreview": "「Menu Top Set」是一種推車，主要功能在於"
-    },
-    {
-      "id": "teacher-exam-101-02-q001-c019dc45ad",
-      "sourceYear": 101,
-      "questionNumber": 1,
-      "confidence": "medium",
-      "score": 44,
-      "secondScore": 42,
-      "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
-      "promptPreview": "Butler Service：管家服務\n2. Garde Manger：冷盤廚師\n3. Gazpacho：西班牙冷湯\n4. Trancheur：外場切割員\n5. Graveyard Shift：大夜班\n6. Salami：義大利香腸"
     },
     {
       "id": "teacher-exam-101-02-q001-d93200ae56",
@@ -1245,9 +1240,9 @@
       "sourceYear": 101,
       "questionNumber": 2,
       "confidence": "medium",
-      "score": 36,
+      "score": 40,
       "secondScore": 36,
-      "unit": "[CH3 餐飲業] - [3-4 D1組織編制─外場]",
+      "unit": "[CH3 餐飲業] - [3-5 B 食品中毒/食物中毒]",
       "promptPreview": "請問 Parador、Boutique Hotel 分別是指什麼？\n3. 請你教學生正確的長托盤肩托法，詳述之。"
     },
     {
@@ -1339,6 +1334,26 @@
       "secondScore": 4,
       "unit": "[CH5 旅行業] - [5-1 D 觀光系統]",
       "promptPreview": "Solera System ：蘇利拉系統（雪莉酒的視循環陳年混合系統）"
+    },
+    {
+      "id": "teacher-exam-101-02-q004-40e133b83f",
+      "sourceYear": 101,
+      "questionNumber": 4,
+      "confidence": "medium",
+      "score": 24,
+      "secondScore": 24,
+      "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
+      "promptPreview": "服務巾除可用來防熱之外，也可以擦拭桌面。"
+    },
+    {
+      "id": "teacher-exam-101-02-q004-50291b7966",
+      "sourceYear": 101,
+      "questionNumber": 4,
+      "confidence": "low",
+      "score": 12,
+      "secondScore": 6,
+      "unit": "[CH8 餐飲服務] - [8-4 A 客房餐飲服務(Room Service)]",
+      "promptPreview": "We only have a deluxe double for NT$4,600 per night available."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-111-12-q011-c2a46c3913",
     "sourceYear": 111,
@@ -51,7 +51,7 @@
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "本題組答案為 11:D、12:C、13:A、14:B、15:A。第 11 題 Know-how 指專業知識；第 12 題 Family Mart 屬便利商店，非觀光餐旅業範疇；第 13 題強調健康與安心選擇，符合社會行銷導向；第 14 題牛排煎烤屬 Grillardin；第 15 題大戶屋菜單不應出現蔬菜拌飯。",
       "optionExplanations": [],
       "references": [
@@ -62,9 +62,9 @@
           "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=268, second=216。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-high"
     ],

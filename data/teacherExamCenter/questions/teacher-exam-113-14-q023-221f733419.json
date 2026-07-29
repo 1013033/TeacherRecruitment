@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-113-14-q023-221f733419",
     "sourceYear": 113,
@@ -29,7 +29,7 @@
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "此題組共用電子機票資訊作答，答案為 23:A、24:C、25:D。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -42,9 +42,9 @@
           "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=198, second=188。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-high"
     ],

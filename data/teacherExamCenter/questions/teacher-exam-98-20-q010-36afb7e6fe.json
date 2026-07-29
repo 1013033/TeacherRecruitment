@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-98-20-q010-36afb7e6fe",
     "sourceYear": 98,
@@ -32,16 +32,16 @@
     ],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH5 旅行業] - [5-4 B旅行業經理人]",
-    "conceptId": "tourism-hospitality-73fa5cb2ac",
-    "conceptLabel": "5-4 B旅行業經理人",
+    "unit": "[CH3 餐飲業] - [3-5 B 食品中毒/食物中毒]",
+    "conceptId": "tourism-hospitality-a02c984b49",
+    "conceptLabel": "3-5 B 食品中毒/食物中毒",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH5 旅行業",
-        "locator": "5-4 B旅行業經理人",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=12。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-5 B 食品中毒/食物中毒",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=16。"
       }
     ],
     "explanation": {
@@ -51,12 +51,12 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH5 旅行業",
-          "locator": "5-4 B旅行業經理人",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=12。"
+          "chapter": "CH3 餐飲業",
+          "locator": "3-5 B 食品中毒/食物中毒",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=16。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
     "reviewStatus": "needs-review",
     "flags": [
@@ -64,7 +64,7 @@
       "latest-taxonomy-auto-low",
       "latest-taxonomy-low-confidence"
     ],
-    "searchText": "『X.O』代表酒類的 等級 種類 產地 廠牌。 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
+    "searchText": "『X.O』代表酒類的 等級 種類 產地 廠牌。 觀光餐旅業導論 [CH3 餐飲業] - [3-5 B 食品中毒/食物中毒] 3-5 B 食品中毒/食物中毒 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
     "sequence": 3289.08,
     "answer": "1"
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-104-05-q003-efeb4dee74",
     "sourceYear": 104,
@@ -37,11 +37,11 @@
         "source": "manual",
         "chapter": "CH5 旅行業",
         "locator": "5-5 H 機票(機票代碼、種類)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=104。"
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=112。"
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "答案為 1:B、2:D、3:D。已將對話、空格與選項對應整理成可讀題組格式。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -51,12 +51,12 @@
           "source": "manual",
           "chapter": "CH5 旅行業",
           "locator": "5-5 H 機票(機票代碼、種類)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=104。"
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=112。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-high"
     ],

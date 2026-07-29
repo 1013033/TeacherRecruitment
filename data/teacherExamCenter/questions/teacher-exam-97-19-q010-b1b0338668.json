@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-97-19-q010-b1b0338668",
     "sourceYear": 97,
@@ -45,7 +45,7 @@
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 3（先泡冷水後泡鹼水再漂冷水）。",
       "optionExplanations": [
         {
@@ -73,7 +73,7 @@
           "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=8。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
     "reviewStatus": "needs-review",
     "flags": [

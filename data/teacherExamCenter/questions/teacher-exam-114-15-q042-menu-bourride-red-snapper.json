@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-114-15-q042-menu-bourride-red-snapper",
     "sourceYear": 114,
@@ -42,11 +42,11 @@
         "source": "manual",
         "chapter": "CH5 菜單與飲料單",
         "locator": "5-1 E 宗教菜單禁忌",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=52。"
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=192, second=52。"
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "答案為 D。此題需參照共同菜單資訊作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-29",
@@ -56,12 +56,12 @@
           "source": "manual",
           "chapter": "CH5 菜單與飲料單",
           "locator": "5-1 E 宗教菜單禁忌",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=52。"
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=192, second=52。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "manual-split-question-group",
       "latest-taxonomy-auto-high"

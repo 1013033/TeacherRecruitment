@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-113-14-q022-c1dee7d35f",
     "sourceYear": 113,
@@ -42,11 +42,11 @@
         "source": "manual",
         "chapter": "CH5 旅行業",
         "locator": "5-5 F 護照",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=176, second=158。"
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=188, second=158。"
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "答案為 B。GTD 與 No Show 資料通常屬訂房相關作業；全套房型態為 All Suites；財務、人事獨立但掛連鎖品牌且受總公司稽核，符合 Franchise 特徵。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -56,12 +56,12 @@
           "source": "manual",
           "chapter": "CH5 旅行業",
           "locator": "5-5 F 護照",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=176, second=158。"
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=188, second=158。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-high"
     ],

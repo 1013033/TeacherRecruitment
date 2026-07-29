@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-113-14-q002-b75228ce93",
     "sourceYear": 113,
@@ -45,11 +45,11 @@
         "source": "manual",
         "chapter": "CH8 餐飲服務",
         "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=114。"
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=134。"
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "答案為 1:B、2:A、3:C、4:D、5:E。已將原本混在 E 選項後方的服務項目整理成表格。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -59,12 +59,12 @@
           "source": "manual",
           "chapter": "CH8 餐飲服務",
           "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=114。"
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=134。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-high"
     ],

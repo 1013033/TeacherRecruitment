@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-113-14-q022-0d4cb8b67c",
     "sourceYear": 113,
@@ -45,11 +45,11 @@
         "source": "manual",
         "chapter": "CH3 餐飲業",
         "locator": "3-2 E 中國─菜系",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=38, second=28。"
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=38, second=32。"
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "答案依序為：優先採用當地當令食材、遵循永續生態及海洋原則、減少添加物使用、提供蔬食餐點選項、減少資源耗損與浪費。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -59,12 +59,12 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-2 E 中國─菜系",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=38, second=28。"
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=38, second=32。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-medium"
     ],

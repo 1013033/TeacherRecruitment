@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-98-20-q007-ce08a7a7d7",
     "sourceYear": 98,
@@ -30,18 +30,18 @@
         "text": "增加開關庫門之次數。"
       }
     ],
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務技術",
-    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
-    "conceptId": "foodservice-a0c78a2070",
-    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-5 B 食品中毒/食物中毒]",
+    "conceptId": "tourism-hospitality-a02c984b49",
+    "conceptLabel": "3-5 B 食品中毒/食物中毒",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH8 餐飲服務",
-        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=72, second=68。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-5 B 食品中毒/食物中毒",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=72, second=72。"
       }
     ],
     "explanation": {
@@ -51,19 +51,19 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH8 餐飲服務",
-          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=72, second=68。"
+          "chapter": "CH3 餐飲業",
+          "locator": "3-5 B 食品中毒/食物中毒",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=72, second=72。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "manual-restore-numeric-choice",
       "latest-taxonomy-auto-medium"
     ],
-    "searchText": "下列何種方法,可防止冷藏(凍)庫的二次污染? 各類食物妥善包裝並分類 食物交互置放 經常將食物取出並定期除霜 增加開關庫門之次數。 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
+    "searchText": "下列何種方法,可防止冷藏(凍)庫的二次污染? 各類食物妥善包裝並分類 食物交互置放 經常將食物取出並定期除霜 增加開關庫門之次數。 觀光餐旅業導論 [CH3 餐飲業] - [3-5 B 食品中毒/食物中毒] 3-5 B 食品中毒/食物中毒 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
     "sequence": 3289.05,
     "answer": "1"
   }

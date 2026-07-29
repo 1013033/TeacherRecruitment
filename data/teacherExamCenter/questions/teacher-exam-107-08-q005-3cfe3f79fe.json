@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-107-08-q005-3cfe3f79fe",
     "sourceYear": 107,
@@ -13,22 +13,22 @@
     "questionType": "essay",
     "prompt": "Please arrange one-day city tour in Kaohsiung. (in English)",
     "options": [],
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
-    "conceptId": "tourism-hospitality-04466494a5",
-    "conceptLabel": "3-5 D 西餐烹調法",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
+    "conceptId": "foodservice-a0c78a2070",
+    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-5 D 西餐烹調法",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=24, second=12。"
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "本題為英文行程規劃申論題，已移除誤併頁碼。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -36,19 +36,20 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-5 D 西餐烹調法",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
+          "chapter": "CH8 餐飲服務",
+          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=24, second=12。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
     "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-low",
-      "latest-taxonomy-low-confidence"
+      "latest-taxonomy-low-confidence",
+      "latest-taxonomy-auto-medium"
     ],
-    "searchText": "Please arrange one-day city tour in Kaohsiung. (in English) 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法 本題為英文行程規劃申論題,已移除誤併頁碼。",
+    "searchText": "Please arrange one-day city tour in Kaohsiung. (in English) 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 本題為英文行程規劃申論題,已移除誤併頁碼。",
     "sequence": 1359
   }
 }

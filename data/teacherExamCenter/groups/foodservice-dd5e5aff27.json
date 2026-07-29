@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "concept": {
     "id": "foodservice-dd5e5aff27",
     "subject": "foodservice",
@@ -22,7 +22,7 @@
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=16。"
       }
     ],
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "unresolvedCount": 0
   },
   "questions": [
@@ -71,7 +71,7 @@
         }
       ],
       "explanation": {
-        "status": "approved",
+        "status": "needs-review",
         "answerExplanation": "答案為 D。Silence Pad 指墊布；原本誤接在 D 選項後方的第 49 題內容已移除。",
         "optionExplanations": [
           {
@@ -128,11 +128,11 @@
             "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=16。"
           }
         ],
-        "updatedAt": "2026-07-29T16:14:57.715Z",
+        "updatedAt": "2026-07-29T16:46:06.977Z",
         "generatedAt": "2026-07-28",
         "model": "manual-correction"
       },
-      "reviewStatus": "approved",
+      "reviewStatus": "needs-review",
       "flags": [
         "latest-taxonomy-auto-medium"
       ],

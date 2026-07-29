@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
+  "dataVersion": "teacher-exam-latest-taxonomy-aac5c68c75",
   "question": {
     "id": "teacher-exam-99-21-q001-f11eedd1ad",
     "sourceYear": 99,
@@ -58,7 +58,7 @@
       }
     ],
     "explanation": {
-      "status": "approved",
+      "status": "needs-review",
       "answerExplanation": "1 為易變性，外在事件會使觀光需求快速改變；2 為季節性，夏季火鍋淡季以促銷縮小營收落差；3 為競爭性，同業跟進促銷方案爭取客源；4 為互補性，飯店與客運合作提供接駁服務。",
       "optionExplanations": [
         {
@@ -105,9 +105,9 @@
           "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=136, second=108。"
         }
       ],
-      "updatedAt": "2026-07-29T16:14:57.715Z"
+      "updatedAt": "2026-07-29T16:46:06.977Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-high"
     ],
