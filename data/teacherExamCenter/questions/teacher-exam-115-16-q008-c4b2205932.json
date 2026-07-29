@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-115-16-q008-c4b2205932",
     "sourceYear": 115,
@@ -15,24 +15,16 @@
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-1 餐飲業的定義與特性]",
-    "conceptId": "tourism-hospitality-3f958e062e",
-    "conceptLabel": "3-1 餐飲業的定義與特性",
+    "unit": "[CH1 觀光餐旅業基本觀念] - [1-5 A 主管機關]",
+    "conceptId": "tourism-hospitality-590e1a18db",
+    "conceptLabel": "1-5 A 主管機關",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-1 餐飲業的定義與特性",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除誤接在題目尾端的下一大題標題「三、英翻中（每格1 分，共8 分）」。"
+        "chapter": "CH1 觀光餐旅業基本觀念",
+        "locator": "1-5 A 主管機關",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=10, second=10。"
       }
     ],
     "explanation": {
@@ -40,11 +32,23 @@
       "answerExplanation": "本題為名詞或填充題，已清除誤接的大題標題。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH1 觀光餐旅業基本觀念",
+          "locator": "1-5 A 主管機關",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=10, second=10。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "115 年第 8 題 115年公立高級中等學校教師甄選餐飲管理科試題 115年公立高級中等學校教師甄選 Sleeper 觀光餐旅業導論 [CH3 餐飲業] - [3-1 餐飲業的定義與特性] 3-1 餐飲業的定義與特性 本題為名詞或填充題，已清除誤接的大題標題。",
+    "reviewStatus": "needs-review",
+    "flags": [
+      "latest-taxonomy-auto-low",
+      "latest-taxonomy-low-confidence"
+    ],
+    "searchText": "Sleeper 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 A 主管機關] 1-5 A 主管機關 本題為名詞或填充題,已清除誤接的大題標題。",
     "sequence": 2442
   }
 }

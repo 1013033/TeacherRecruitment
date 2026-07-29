@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-99-21-q020-7a8f33ffb9",
     "sourceYear": 99,
@@ -33,24 +33,16 @@
     "answer": "C",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH4 旅宿業] - [4-1 旅宿業的定義與特性]",
-    "conceptId": "tourism-hospitality-6fc3f93edd",
-    "conceptLabel": "4-1 旅宿業的定義與特性",
+    "unit": "[CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區]",
+    "conceptId": "tourism-hospitality-5ca0b17a43",
+    "conceptLabel": "1-5 B1國家級風景特定區",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 旅宿業",
-        "locator": "4-1 旅宿業的定義與特性",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除 D 選項尾端誤併的頁碼「一共 3 頁」。"
+        "chapter": "CH1 觀光餐旅業基本觀念",
+        "locator": "1-5 B1國家級風景特定區",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=116, second=116。"
       }
     ],
     "explanation": {
@@ -58,11 +50,22 @@
       "answerExplanation": "答案為 C。已移除誤併頁碼。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH1 觀光餐旅業基本觀念",
+          "locator": "1-5 B1國家級風景特定區",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=116, second=116。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "99 年第 20 題 未標示試卷 未標示學校 以下有關我國旅館的等級評鑑，何者為錯誤的？ C 觀光餐旅業導論 [CH4 旅宿業] - [4-1 旅宿業的定義與特性] 4-1 旅宿業的定義與特性 A 72 年開始實施時以「梅花」為分級標幟，只辦了兩次即停辦 B 92 年宣布全面改為「星級」標幟的評鑑標準 C 第一階段為「服務品質」評鑑，第二階段為「建築設備」評鑑 D 評分結果 301～600 分而未參加第二階段評鑑者：核給三星級 答案為 C。已移除誤併頁碼。",
+    "flags": [
+      "latest-taxonomy-auto-medium"
+    ],
+    "searchText": "以下有關我國旅館的等級評鑑,何者為錯誤的? 72 年開始實施時以「梅花」為分級標幟,只辦了兩次即停辦 92 年宣布全面改為「星級」標幟的評鑑標準 第一階段為「服務品質」評鑑,第二階段為「建築設備」評鑑 評分結果 301~600 分而未參加第二階段評鑑者:核給三星級 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區] 1-5 B1國家級風景特定區 答案為 C。已移除誤併頁碼。",
     "sequence": 3331
   }
 }

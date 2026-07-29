@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-113-14-q016-c787f94dc1",
     "sourceYear": 113,
@@ -14,25 +14,17 @@
     "prompt": "第 17-18 題：Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar\n\n17. All the drinks in the ___________ are complimentary.\n18. Ben exchanged his US dollars for the local _________ after he arrived in Mumbai.",
     "options": [],
     "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅",
-    "unit": "[CH8 觀光餐旅英文與專有名詞] - [8-1 餐旅英文專有名詞]",
-    "conceptId": "tourism-hospitality-3f958e062e",
-    "conceptLabel": "8-1 餐旅英文專有名詞",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
+    "conceptId": "tourism-hospitality-04466494a5",
+    "conceptLabel": "3-5 D 西餐烹調法",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH1 中餐基本概念與廚房組織",
-        "locator": "1-1 中餐廚房組織與工作職責",
-        "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：依原始試題補回第 17-18 題完整填空句子，並作為題組呈現。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-5 D 西餐烹調法",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=58, second=34。"
       }
     ],
     "explanation": {
@@ -41,33 +33,22 @@
       "optionExplanations": [],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH1 中餐基本概念與廚房組織",
-          "locator": "1-1 中餐廚房組織與工作職責",
-          "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第七章 餐飲禮儀",
-          "locator": "第七章 餐飲禮儀",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-5 D 西餐烹調法",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=58, second=34。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z",
+      "updatedAt": "2026-07-29T16:14:57.715Z",
       "generatedAt": "2026-07-28",
       "model": "manual-correction"
     },
     "reviewStatus": "approved",
     "flags": [
-      "manual-restore-fill-in-blank-group"
+      "manual-restore-fill-in-blank-group",
+      "latest-taxonomy-auto-high"
     ],
-    "searchText": "113 年第 17-18 題（填空題組） 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 第 17-18 題：Fill in the blanks using the words provided.  access、bistro、money、path、connive、currency、minibar  17. All the drinks in the ___________ are complimentary. 18. Ben exchanged his US dollars for the local _________ after he arrived in Mumbai. 17:minibar、18:currency 答案為 17:minibar、18:currency。",
+    "searchText": "第 17-18 題:Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar\n\n17. All the drinks in the ___________ are complimentary.\n18. Ben exchanged his US dollars for the local _________ after he arrived in Mumbai. 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法 答案為 17:minibar、18:currency。",
     "sequence": 2142,
     "answer": "17:minibar、18:currency"
   }

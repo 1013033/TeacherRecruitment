@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-114-15-q028-766bab20b9",
     "sourceYear": 114,
@@ -31,22 +31,18 @@
       }
     ],
     "answer": "C",
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[CH1 西餐基本概念與菜單] - [1-1 西餐發展、廚房制度與餐飲成本]",
-    "conceptId": "western-culinary-35f0feccfa",
-    "conceptLabel": "1-1 西餐發展、廚房制度與餐飲成本",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)]",
+    "conceptId": "tourism-hospitality-319014f626",
+    "conceptLabel": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH1 西餐基本概念與菜單",
-        "locator": "1-1 西餐發展、廚房制度與餐飲成本",
-        "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=150, second=32。"
       }
     ],
     "explanation": {
@@ -76,29 +72,19 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH1 西餐基本概念與菜單",
-          "locator": "1-1 西餐發展、廚房制度與餐飲成本",
-          "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "飲料實務",
-          "chapter": "第七章 混合性飲料調製",
-          "locator": "飲料業的分類與營運",
-          "note": "參考書 OCR 估算 頁 1"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=150, second=32。"
         }
       ],
-      "updatedAt": "2026-07-29T13:05:48.7722952Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "位於馬祖北竿的「漁村風味餐館」主打紅糟雞、淡菜湯與老酒麵線等地方特色餐點，共有 60 個座位。請根據 2025 年 7 月 1 日的營運資料，計算出當日的總營收及食物成本。 2025 年 7 月 1 日營運數據 座位數 60 個 午餐平均 turnover rate 1.5 晚餐平均 turnover rate 2.5 客平均單價 220 元 飲料成本 20% 食物成本 30% 人事成本 30% 其他間接費用 20% A. 總營收 42,240 元，食物成本 10,560 元 B. 總營收 42,240 元，食物成本 15,840 元 C. 總營收 52,800 元，食物成本 15,840 元 D. 總營收 52,800 元，食物成本 26,400 元 西餐 [CH1 西餐基本概念與菜單] - [1-1 西餐發展、廚房制度與餐飲成本] 1-1 西餐發展、廚房制度與餐飲成本 總用餐人次為 60 × (1.5 + 2.5) = 240 人，總營收為 240 × 220 = 52,800 元；食物成本為 52,800 × 30% = 15,840 元，因此答案為 C。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "位於馬祖北竿的「漁村風味餐館」主打紅糟雞、淡菜湯與老酒麵線等地方特色餐點,共有 60 個座位。請根據 2025 年 7 月 1 日的營運資料,計算出當日的總營收及食物成本。\n\n2025 年 7 月 1 日營運數據\n\n| 項目 | 數值 |\n| --- | --- |\n| 座位數 | 60 個 |\n| 午餐平均 turnover rate | 1.5 |\n| 晚餐平均 turnover rate | 2.5 |\n| 客平均單價 | 220 元 |\n| 飲料成本 | 20% |\n| 食物成本 | 30% |\n| 人事成本 | 30% |\n| 其他間接費用 | 20% | 總營收 42,240 元,食物成本 10,560 元 總營收 42,240 元,食物成本 15,840 元 總營收 52,800 元,食物成本 15,840 元 總營收 52,800 元,食物成本 26,400 元 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate) 總用餐人次為 60 × (1.5 + 2.5) = 240 人,總營收為 240 × 220 = 52,800 元;食物成本為 52,800 × 30% = 15,840 元,因此答案為 C。 此選項的總營收與食物成本皆與計算結果不符。 此選項的總營收與計算結果不符。 此選項的總營收與食物成本皆符合計算結果。 此選項的食物成本與計算結果不符。",
     "sequence": 2309
   }
 }

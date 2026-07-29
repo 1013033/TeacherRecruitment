@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-113-14-q005-58bbf58503",
     "sourceYear": 113,
@@ -13,22 +13,18 @@
     "questionType": "essay",
     "prompt": "請寫出下列代表菜色屬於哪一個中國菜系（在答案欄中填寫菜系代號即可）\n\n| 代表菜色 | 答案 |\n| --- | --- |\n| 左宗棠雞 |  |\n| 鹽焗雞 |  |\n| 京都排骨 |  |\n| 蜜汁火方 |  |\n\n中國菜系及代號：A 四川菜、B 湖南菜、C 廣東菜、D 京魯菜、E 江浙菜",
     "options": [],
-    "subject": "chinese-culinary",
-    "subjectLabel": "中餐",
-    "unit": "[CH1 中餐基本概念與廚房組織] - [1-3 中餐菜系與代表菜餚]",
-    "conceptId": "chinese-culinary-7ecc5ee5b6",
-    "conceptLabel": "1-3 中餐菜系與代表菜餚",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
+    "conceptId": "tourism-hospitality-c981d95e0a",
+    "conceptLabel": "3-2 E 中國─菜系",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH1 中餐基本概念與廚房組織",
-        "locator": "1-3 中餐菜系與代表菜餚",
-        "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 E 中國─菜系",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=384, second=92。"
       }
     ],
     "explanation": {
@@ -37,31 +33,20 @@
       "optionExplanations": [],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH1 中餐基本概念與廚房組織",
-          "locator": "1-3 中餐菜系與代表菜餚",
-          "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "reference-book-derived-unit",
-          "chapter": "觀光餐旅業導論 第三章 餐飲業",
-          "locator": "中餐菜系、烹調法與菜餚辨識",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-2 E 中國─菜系",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=384, second=92。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "manual-restore-table-question"
+      "manual-restore-table-question",
+      "latest-taxonomy-auto-high"
     ],
-    "searchText": "請寫出下列代表菜色屬於哪一個中國菜系（在答案欄中填寫菜系代號即可） | 代表菜色 | 答案 | | --- | --- | | 左宗棠雞 | | | 鹽焗雞 | | | 京都排骨 | | | 蜜汁火方 | | 中國菜系及代號:A 四川菜、B 湖南菜、C 廣東菜、D 京魯菜、E 江浙菜 中餐 [CH1 中餐基本概念與廚房組織] - [1-3 中餐菜系與代表菜餚] 1-3 中餐菜系與代表菜餚 此題已依原始試題修正題幹格式，解析需重新檢核。",
+    "searchText": "請寫出下列代表菜色屬於哪一個中國菜系(在答案欄中填寫菜系代號即可)\n\n| 代表菜色 | 答案 |\n| --- | --- |\n| 左宗棠雞 | |\n| 鹽焗雞 | |\n| 京都排骨 | |\n| 蜜汁火方 | |\n\n中國菜系及代號:A 四川菜、B 湖南菜、C 廣東菜、D 京魯菜、E 江浙菜 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系 此題已依原始試題修正題幹格式,解析需重新檢核。",
     "sequence": 2176
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-97-19-q038-f25e29108a",
     "sourceYear": 97,
@@ -30,22 +30,18 @@
         "text": "羊肉"
       }
     ],
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[CH4 西餐菜餚與實作題組] - [4-1 牛、豬與羊肉菜餚]",
-    "conceptId": "western-culinary-8da8fe47cb",
-    "conceptLabel": "4-1 牛、豬與羊肉菜餚",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
+    "conceptId": "tourism-hospitality-c981d95e0a",
+    "conceptLabel": "3-2 E 中國─菜系",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 西餐菜餚與實作題組",
-        "locator": "4-1 牛、豬與羊肉菜餚",
-        "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 E 中國─菜系",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
       }
     ],
     "explanation": {
@@ -75,31 +71,21 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH4 西餐菜餚與實作題組",
-          "locator": "4-1 牛、豬與羊肉菜餚",
-          "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "觀光餐旅業導論-章節分類",
-          "chapter": "第一章 觀光餐旅業基本觀念",
-          "locator": "第一章 觀光餐旅業基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-2 E 中國─菜系",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
         }
       ],
-      "updatedAt": "2026-07-28T00:00:00.000Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "flags": [
-      "manual-numeric-choice-restore"
+      "manual-numeric-choice-restore",
+      "latest-taxonomy-auto-low",
+      "latest-taxonomy-low-confidence"
     ],
-    "searchText": "愛爾蘭燉肉(Irish stew)是用那種主材料烹調的？ 豬肉 牛肉 鹿肉 羊肉 4 西餐 4-1 牛、豬與羊肉菜餚 本題原始選項為數字編號。答案為 4（羊肉）。",
+    "searchText": "愛爾蘭燉肉(Irish stew)是用那種主材料烹調的? 豬肉 牛肉 鹿肉 羊肉 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系 本題原始選項為數字編號。答案為 4(羊肉)。 不符合本題標準答案。 不符合本題標準答案。 不符合本題標準答案。 為本題標準答案。",
     "sequence": 3108,
     "answer": "4"
   }

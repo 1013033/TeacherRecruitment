@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-94-17-q016-f8d2dcee04",
     "sourceYear": 94,
@@ -31,24 +31,18 @@
       }
     ],
     "answer": "B",
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務技術",
-    "unit": "[CH6 餐桌布置與擺設] - [6-2 西餐餐桌布置與擺設]",
-    "conceptId": "foodservice-ac604c4d33",
-    "conceptLabel": "6-2 西餐餐桌布置與擺設",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-3 C 餐廳種類及服務型態]",
+    "conceptId": "tourism-hospitality-85506903d5",
+    "conceptLabel": "3-3 C 餐廳種類及服務型態",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH6 餐桌布置與擺設",
-        "locator": "6-2 西餐餐桌布置與擺設",
-        "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
-        "source": "unit-cleanup",
-        "chapter": "第五章 咖啡的認識與調製",
-        "locator": "咖啡豆、烘焙、萃取與調製",
-        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第五章 咖啡的認識與調製] - [第五章 咖啡的認識與調製]"
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-3 C 餐廳種類及服務型態",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=212, second=204。"
       }
     ],
     "explanation": {
@@ -78,29 +72,19 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH6 餐桌布置與擺設",
-          "locator": "6-2 西餐餐桌布置與擺設",
-          "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "飲料實務-章節分類",
-          "chapter": "第五章 咖啡的認識與調製",
-          "locator": "第五章 咖啡的認識與調製",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-3 C 餐廳種類及服務型態",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=212, second=204。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "有關餐具的敘述何者正確? Show Plate指麵包盤 Demitasse指義式咖啡杯 Flambe Troiley指烤肉車 Finger Bowl指沙司盅 餐飲服務技術 [CH6 餐桌布置與擺設] - [6-2 西餐餐桌布置與擺設] 6-2 西餐餐桌布置與擺設 綜合《餐飲服務技術》與《飲料實務》的餐具單字:\\n(B) Demitasse 是指容量較小的義式濃縮咖啡杯(Espresso Cup),敘述正確。\\n(A) Show Plate 為展示盤、服務盤,而麵包盤的英文為 Bread & Butter Plate (B.B. Plate)。\\n(C) Flambé Trolley 是指桌邊烹調車(焰燒車),烤肉車的英文為 Roast Beef Wagon。\\n(D) Finger Bowl 是洗指盅,供客人清洗手指用;沙司盅(醬料盅)的英文為 Sauce Boat。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務-章節分類》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Show Plate為展示盤,麵包盤為 B.B. Plate。 此選項符合題幹所問的正確答案「B」。 Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 Finger Bowl為洗指盅,沙司盅為 Sauce Boat。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "有關餐具的敘述何者正確? Show Plate指麵包盤 Demitasse指義式咖啡杯 Flambe Troiley指烤肉車 Finger Bowl指沙司盅 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態 綜合《餐飲服務技術》與《飲料實務》的餐具單字:\\n(B) Demitasse 是指容量較小的義式濃縮咖啡杯(Espresso Cup),敘述正確。\\n(A) Show Plate 為展示盤、服務盤,而麵包盤的英文為 Bread & Butter Plate (B.B. Plate)。\\n(C) Flambé Trolley 是指桌邊烹調車(焰燒車),烤肉車的英文為 Roast Beef Wagon。\\n(D) Finger Bowl 是洗指盅,供客人清洗手指用;沙司盅(醬料盅)的英文為 Sauce Boat。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製(頁 9);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:Show Plate為展示盤,麵包盤為 B.B. Plate。 B:此選項符合題幹所問的正確答案「B」。 C:Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 D:Finger Bowl為洗指盅,沙司盅為 Sauce Boat。\n\n【參考書依據】主要參考《飲料實務-章節分類》第五章 咖啡的認識與調製,定位:第五章 咖啡的認識與調製;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Show Plate為展示盤,麵包盤為 B.B. Plate。 此選項符合題幹所問的正確答案「B」。 Flambé Trolley為焰燒車,烤肉車為 Roast Beef Wagon。 Finger Bowl為洗指盅,沙司盅為 Sauce Boat。",
     "sequence": 2591
   }
 }

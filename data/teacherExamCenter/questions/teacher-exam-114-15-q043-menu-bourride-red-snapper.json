@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-114-15-q043-menu-bourride-red-snapper",
     "sourceYear": 114,
@@ -33,27 +33,40 @@
     "answer": "C",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH5 菜單與飲料單] - [5-2 菜單功能與結構]",
-    "conceptId": "foodservice-55b2fc90e4",
-    "conceptLabel": "5-2 菜單功能與結構",
-    "relatedConceptIds": [
-      "western-culinary-a2461a283c",
-      "foodservice-b69ba8c6d0",
-      "foodservice-bf1e166427"
+    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
+    "conceptId": "foodservice-a0c78a2070",
+    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=80, second=44。"
+      }
     ],
-    "classificationBasis": "人工修正：原始 PDF 為共用菜單題幹的連續單選題，拆成獨立單選題；同一題組只在第一題顯示共同菜單資訊。",
     "explanation": {
       "status": "approved",
       "answerExplanation": "答案為 C。此題需參照共同菜單資訊作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-29",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH8 餐飲服務",
+          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=80, second=44。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
     "flags": [
-      "manual-split-question-group"
+      "manual-split-question-group",
+      "latest-taxonomy-auto-high"
     ],
-    "searchText": "114 年第 43 題（菜單題組） 國立馬祖高級中學 請依照以下所提供之菜單訊息，回答第 40-43 題。\nBourride、Pan-fried Red Snapper、Caipirinha、Souffle 請問上述菜單，左右兩側餐具（由右到左）應該怎麼擺設？ A Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader B Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader C Clear Spoon、Fish Knife、Fish Fork、Butter Spreader D Clear Spoon、Table Knife、Table Fork、Butter Spreader C 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 菜單功能與結構] 5-2 菜單功能與結構 答案為 C。此題需參照共同菜單資訊作答。",
+    "searchText": "請問上述菜單,左右兩側餐具(由右到左)應該怎麼擺設? Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader Clear Spoon、Fish Knife、Fish Fork、Butter Spreader Clear Spoon、Table Knife、Table Fork、Butter Spreader 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 答案為 C。此題需參照共同菜單資訊作答。",
     "sequence": 2330.3
   }
 }

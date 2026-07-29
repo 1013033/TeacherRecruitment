@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-115-16-q018-30d2ccc56a",
     "sourceYear": 115,
@@ -33,24 +33,16 @@
     "answer": "D",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH2 餐廳設備與器具] - [2-1 餐廳設備]",
-    "conceptId": "foodservice-beeaf5e21e",
-    "conceptLabel": "2-1 餐廳設備",
+    "unit": "[CH8 餐飲服務] - [8-4 A 客房餐飲服務(Room Service)]",
+    "conceptId": "foodservice-14fa144293",
+    "conceptLabel": "8-4 A 客房餐飲服務(Room Service)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH2 餐廳設備與器具",
-        "locator": "2-1 餐廳設備",
-        "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：還原 115 頭城第 18 題 Trolley 選項，移除誤接頁碼 3 與 PDF 拆字。"
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-4 A 客房餐飲服務(Room Service)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=50, second=48。"
       }
     ],
     "explanation": {
@@ -70,31 +62,22 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH2 餐廳設備與器具",
-          "locator": "2-1 餐廳設備",
-          "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第七章 餐飲禮儀",
-          "locator": "第七章 餐飲禮儀",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH8 餐飲服務",
+          "locator": "8-4 A 客房餐飲服務(Room Service)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=50, second=48。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z",
+      "updatedAt": "2026-07-29T16:14:57.715Z",
       "generatedAt": "2026-07-28",
       "model": "manual-correction"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "115 年第 18 題 國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷 國立頭城高級家事商業職業學校 以下何種 Trolley 無保溫裝置？ Tranche Wagon Flambé Trolley Menu Top Set Mobile Dish Trolley D 答案為 D。此題已將 PDF OCR 拆字的 A、B 選項與錯位的 C、D 選項還原為正常選項。",
+    "flags": [
+      "latest-taxonomy-auto-high",
+      "latest-taxonomy-auto-medium"
+    ],
+    "searchText": "以下何種 Trolley 無保溫裝置? Tranche Wagon Flambé Trolley Menu Top Set Mobile Dish Trolley 餐飲服務技術 [CH8 餐飲服務] - [8-4 A 客房餐飲服務(Room Service)] 8-4 A 客房餐飲服務(Room Service) 答案為 D。此題已將 PDF OCR 拆字的 A、B 選項與錯位的 C、D 選項還原為正常選項。 此選項符合題幹所問的正確答案「D」。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。",
     "sequence": 2516
   }
 }

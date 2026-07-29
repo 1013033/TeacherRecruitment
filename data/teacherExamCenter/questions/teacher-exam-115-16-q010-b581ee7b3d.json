@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-115-16-q010-b581ee7b3d",
     "sourceYear": 115,
@@ -15,24 +15,16 @@
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH4 旅宿業] - [4-4 旅宿業的組織與部門]",
-    "conceptId": "tourism-hospitality-0d2ca466e9",
-    "conceptLabel": "4-4 旅宿業的組織與部門",
+    "unit": "[CH5 旅行業] - [5-4 B旅行業經理人]",
+    "conceptId": "tourism-hospitality-73fa5cb2ac",
+    "conceptLabel": "5-4 B旅行業經理人",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 旅宿業",
-        "locator": "4-4 旅宿業的組織與部門",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除題目尾端誤接的下一大題標題「四：問答題（每題 10 分，共計 20 分）」。"
+        "chapter": "CH5 旅行業",
+        "locator": "5-4 B旅行業經理人",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=10。"
       }
     ],
     "explanation": {
@@ -40,11 +32,23 @@
       "answerExplanation": "本題為名詞解釋題，已移除誤接的大題標題。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH5 旅行業",
+          "locator": "5-4 B旅行業經理人",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=10。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "115 年第 10 題 國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷 國立頭城高級家事商業職業學校 Office clerk: 觀光餐旅業導論 [CH4 旅宿業] - [4-4 旅宿業的組織與部門] 4-4 旅宿業的組織與部門 本題為名詞解釋題，已移除誤接的大題標題。",
+    "reviewStatus": "needs-review",
+    "flags": [
+      "latest-taxonomy-auto-low",
+      "latest-taxonomy-low-confidence"
+    ],
+    "searchText": "Office clerk: 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人 本題為名詞解釋題,已移除誤接的大題標題。",
     "sequence": 2525
   }
 }

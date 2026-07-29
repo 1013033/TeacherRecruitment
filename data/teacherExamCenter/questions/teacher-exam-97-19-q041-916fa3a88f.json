@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-97-19-q041-916fa3a88f",
     "sourceYear": 97,
@@ -30,22 +30,18 @@
         "text": "猶太教"
       }
     ],
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[CH4 西餐菜餚與實作題組] - [4-1 牛、豬與羊肉菜餚]",
-    "conceptId": "western-culinary-8da8fe47cb",
-    "conceptLabel": "4-1 牛、豬與羊肉菜餚",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
+    "conceptId": "foodservice-744dfb139d",
+    "conceptLabel": "5-1 E 宗教菜單禁忌",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 西餐菜餚與實作題組",
-        "locator": "4-1 牛、豬與羊肉菜餚",
-        "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH5 菜單與飲料單",
+        "locator": "5-1 E 宗教菜單禁忌",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
     "explanation": {
@@ -75,31 +71,20 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH4 西餐菜餚與實作題組",
-          "locator": "4-1 牛、豬與羊肉菜餚",
-          "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "觀光餐旅業導論-章節分類",
-          "chapter": "第一章 觀光餐旅業基本觀念",
-          "locator": "第一章 觀光餐旅業基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH5 菜單與飲料單",
+          "locator": "5-1 E 宗教菜單禁忌",
+          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
         }
       ],
-      "updatedAt": "2026-07-28T00:00:00.000Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
     "flags": [
-      "manual-numeric-choice-restore"
+      "manual-numeric-choice-restore",
+      "latest-taxonomy-manual"
     ],
-    "searchText": "下列何種宗教不吃牛肉與豬肉，只吃魚和蔬菜類？ 回教 摩門教 印度教 猶太教 3 西餐 4-1 牛、豬與羊肉菜餚 本題原始選項為數字編號。答案為 3（印度教）。",
+    "searchText": "下列何種宗教不吃牛肉與豬肉,只吃魚和蔬菜類? 回教 摩門教 印度教 猶太教 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 本題原始選項為數字編號。答案為 3(印度教)。 不符合本題標準答案。 不符合本題標準答案。 為本題標準答案。 不符合本題標準答案。",
     "sequence": 3111,
     "answer": "3"
   }

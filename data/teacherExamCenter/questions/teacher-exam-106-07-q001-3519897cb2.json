@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-106-07-q001-3519897cb2",
     "sourceYear": 106,
@@ -15,24 +15,16 @@
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-1 餐飲業的定義與特性]",
-    "conceptId": "tourism-hospitality-3f958e062e",
-    "conceptLabel": "3-1 餐飲業的定義與特性",
+    "unit": "[CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)]",
+    "conceptId": "tourism-hospitality-319014f626",
+    "conceptLabel": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
+        "source": "manual",
         "chapter": "CH3 餐飲業",
-        "locator": "3-1 餐飲業的定義與特性",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
-        "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：將 LaTeX 乘號 $\\times$ 改為一般文字「×」，並整理計算式換行。"
+        "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=234, second=44。"
       }
     ],
     "explanation": {
@@ -40,11 +32,22 @@
       "answerExplanation": "每日營業額為 168,000 元。計算方式：150 席 × (1.2 + 2) × 350 元 = 168,000 元。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=234, second=44。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "106 年第 1 題 三、計算題（每題 5 分，共 10 分） 教育部受託辦理 106 學年度公立高級中等學校教師甄選 新開幕的天空餐廳，空間寬敞明亮，擁有 150 席座位數，提供每份 350 元的各式套餐組合；每日的桌次周轉率（Turn Over Rate）午餐時段為 1.2，晚餐時段為 2，請問該餐廳每日的營業額為多少元？\n\n計算方式：\n總周轉率 = 1.2 + 2 = 3.2 次\n總客數 = 150 席 × 3.2 = 480 人次\n每日營業額 = 480 人次 × 350 元 = 168,000 元。 觀光餐旅業導論 [CH3 餐飲業] - [3-1 餐飲業的定義與特性] 3-1 餐飲業的定義與特性 每日營業額為 168,000 元。計算方式：150 席 × (1.2 + 2) × 350 元 = 168,000 元。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "新開幕的天空餐廳,空間寬敞明亮,擁有 150 席座位數,提供每份 350 元的各式套餐組合;每日的桌次周轉率(Turn Over Rate)午餐時段為 1.2,晚餐時段為 2,請問該餐廳每日的營業額為多少元?\n\n計算方式:\n總周轉率 = 1.2 + 2 = 3.2 次\n總客數 = 150 席 × 3.2 = 480 人次\n每日營業額 = 480 人次 × 350 元 = 168,000 元。 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate) 每日營業額為 168,000 元。計算方式:150 席 × (1.2 + 2) × 350 元 = 168,000 元。",
     "sequence": 1124
   }
 }

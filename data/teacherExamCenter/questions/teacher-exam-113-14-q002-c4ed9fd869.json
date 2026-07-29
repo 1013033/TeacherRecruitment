@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-113-14-q002-c4ed9fd869",
     "sourceYear": 113,
@@ -13,22 +13,18 @@
     "questionType": "essay",
     "prompt": "請舉例寫出頭足類海鮮的特色與差異？",
     "options": [],
-    "subject": "chinese-culinary",
-    "subjectLabel": "中餐",
-    "unit": "[CH2 食材處理與刀工] - [2-3 魚類、蝦蟹與海鮮處理]",
-    "conceptId": "chinese-culinary-4466013c4d",
-    "conceptLabel": "2-3 魚類、蝦蟹與海鮮處理",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH5 旅行業] - [5-4 B旅行業經理人]",
+    "conceptId": "tourism-hospitality-73fa5cb2ac",
+    "conceptLabel": "5-4 B旅行業經理人",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH2 食材處理與刀工",
-        "locator": "2-3 魚類、蝦蟹與海鮮處理",
-        "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH5 旅行業",
+        "locator": "5-4 B旅行業經理人",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=56, second=28。"
       }
     ],
     "explanation": {
@@ -37,31 +33,20 @@
       "optionExplanations": [],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH2 食材處理與刀工",
-          "locator": "2-3 魚類、蝦蟹與海鮮處理",
-          "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第六章 餐桌布置與擺設",
-          "locator": "中餐餐桌布置與擺設",
-          "note": "參考書 OCR 估算 頁 209"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH5 旅行業",
+          "locator": "5-4 B旅行業經理人",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=56, second=28。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "manual-trim-merged-answer-key"
+      "manual-trim-merged-answer-key",
+      "latest-taxonomy-auto-high"
     ],
-    "searchText": "請舉例寫出頭足類海鮮的特色與差異？ 中餐 [CH2 食材處理與刀工] - [2-3 魚類、蝦蟹與海鮮處理] 2-3 魚類、蝦蟹與海鮮處理 此題已依原始試題修正題幹格式，解析需重新檢核。",
+    "searchText": "請舉例寫出頭足類海鮮的特色與差異? 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人 此題已依原始試題修正題幹格式,解析需重新檢核。",
     "sequence": 2187
   }
 }

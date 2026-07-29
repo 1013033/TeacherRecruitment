@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-104-05-q010-757ad081f7",
     "sourceYear": 104,
@@ -33,24 +33,16 @@
     "answer": "B",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH4 旅宿業] - [4-1 旅宿業的定義與特性]",
-    "conceptId": "tourism-hospitality-6fc3f93edd",
-    "conceptLabel": "4-1 旅宿業的定義與特性",
+    "unit": "[客房(舊課綱)] - [A客房清潔]",
+    "conceptId": "tourism-hospitality-b551ee61f4",
+    "conceptLabel": "A客房清潔",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 旅宿業",
-        "locator": "4-1 旅宿業的定義與特性",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除 D 選項尾端誤併的頁碼與背面提示「一共4頁， - <背面尚有試題>」。"
+        "chapter": "客房(舊課綱)",
+        "locator": "A客房清潔",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=200。"
       }
     ],
     "explanation": {
@@ -58,11 +50,22 @@
       "answerExplanation": "答案為 B。已移除誤併頁碼與背面提示。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "客房(舊課綱)",
+          "locator": "A客房清潔",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=200。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "104 年第 10 題 未標示試卷 未標示學校 下列關於旅館房務備品敘述，何者有誤？ B 觀光餐旅業導論 [CH4 旅宿業] - [4-1 旅宿業的定義與特性] 4-1 旅宿業的定義與特性 A Stirrer. Mini-bar Bill 是 Living Room 的消耗性備品 B Bed pad. Pillow Case 是 Bedroom 的消耗性備品 C Razor. Comb 是 Bathroom 的消耗性備品 D Hanger. Bathrobe 是 Living Room 的非消耗性備品。 答案為 B。已移除誤併頁碼與背面提示。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "下列關於旅館房務備品敘述,何者有誤? Stirrer. Mini-bar Bill 是 Living Room 的消耗性備品 Bed pad. Pillow Case 是 Bedroom 的消耗性備品 Razor. Comb 是 Bathroom 的消耗性備品 Hanger. Bathrobe 是 Living Room 的非消耗性備品。 觀光餐旅業導論 [客房(舊課綱)] - [A客房清潔] A客房清潔 答案為 B。已移除誤併頁碼與背面提示。",
     "sequence": 586
   }
 }

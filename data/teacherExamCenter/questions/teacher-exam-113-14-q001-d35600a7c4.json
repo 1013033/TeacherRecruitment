@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-113-14-q001-d35600a7c4",
     "sourceYear": 113,
@@ -54,39 +54,41 @@
         "text": "Mini grilled chicken quiche"
       }
     ],
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[CH4 西餐菜餚與實作題組] - [4-2 雞肉菜餚]",
-    "conceptId": "western-culinary-8fb7952e5c",
-    "conceptLabel": "4-2 雞肉菜餚",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH5 旅行業] - [5-4 B旅行業經理人]",
+    "conceptId": "tourism-hospitality-73fa5cb2ac",
+    "conceptLabel": "5-4 B旅行業經理人",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 西餐菜餚與實作題組",
-        "locator": "4-2 雞肉菜餚",
-        "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
-        "source": "unit-cleanup",
-        "chapter": "第四章 茶的認識與調製",
-        "locator": "茶葉分類、製程、沖泡與台灣茶",
-        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [第一章 飲務的作業規範]"
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-4 B旅行業經理人",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=60, second=50。"
       }
     ],
     "explanation": {
       "status": "needs-review",
       "answerExplanation": "本題為英式下午茶三層點心架配對題，請依圖片中的 3rd Course、2nd Course、1st Course 欄位填入對應代號。\n3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
       "optionExplanations": [],
-      "references": [],
-      "updatedAt": "2026-07-28T00:00:00.000Z"
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH5 旅行業",
+          "locator": "5-4 B旅行業經理人",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=60, second=50。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-format-fix",
-      "manual-image-source"
+      "manual-image-source",
+      "latest-taxonomy-auto-high"
     ],
-    "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns. egg sandwich scones butter and jam small cakes Madeleines Victoria Sponge finger sandwiches tarts small savories Mini grilled chicken quiche 3rd Course D E F H 2nd Course B C H 1st Course A G I J 西餐 4-2 雞肉菜餚 本題為英式下午茶三層點心架配對題，請依圖片中的 3rd Course、2nd Course、1st Course 欄位填入對應代號。\n3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
+    "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns. egg sandwich scones butter and jam small cakes Madeleines Victoria Sponge finger sandwiches tarts small savories Mini grilled chicken quiche 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人 本題為英式下午茶三層點心架配對題,請依圖片中的 3rd Course、2nd Course、1st Course 欄位填入對應代號。\n3rd Course:D、E、F、H\n2nd Course:B、C、H\n1st Course:A、G、I、J",
     "sequence": 2038,
     "answer": "3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
     "images": [

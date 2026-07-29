@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-94-17-q033-4e17339f96",
     "sourceYear": 94,
@@ -13,19 +13,18 @@
     "questionType": "single-choice",
     "prompt": "出入境檢查 C.I.Q. 中的 Q 代表：",
     "subject": "tourism-hospitality",
-    "reviewStatus": "approved",
-    "flags": [],
+    "reviewStatus": "needs-review",
+    "flags": [
+      "latest-taxonomy-auto-low",
+      "latest-taxonomy-low-confidence"
+    ],
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH2 觀光餐旅業之從業理念",
-        "locator": "2-2 觀光餐旅從業人員的職場倫理",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "人工修正：清除 OCR 造成的 LaTeX 亂碼，將 C.I.Q. 與 Q 還原為一般文字，並依原卷補入答案 C。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 E 中國─菜系",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
       }
     ],
     "options": [
@@ -46,17 +45,26 @@
         "text": "品質"
       }
     ],
-    "conceptLabel": "2-2 觀光餐旅從業人員的職場倫理",
-    "conceptId": "tourism-hospitality-32b39ebf3e",
-    "searchText": "94 年第 33 題 未標示試卷 國立新營高工職業學校95學年度教師甄選餐飲科試題 出入境檢查 C.I.Q. 中的 Q 代表： C 觀光餐旅業導論 [CH2 觀光餐旅業之從業理念] - [2-2 觀光餐旅從業人員的職場倫理] 2-2 觀光餐旅從業人員的職場倫理 A 海關 B 證照查驗 C 檢疫 D 品質 答案為 C。C.I.Q. 分別代表 Customs（海關）、Immigration（證照查驗／移民查驗）、Quarantine（檢疫），因此 Q 為檢疫。",
+    "conceptLabel": "3-2 E 中國─菜系",
+    "conceptId": "tourism-hospitality-c981d95e0a",
+    "searchText": "出入境檢查 C.I.Q. 中的 Q 代表: 海關 證照查驗 檢疫 品質 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系 答案為 C。C.I.Q. 分別代表 Customs(海關)、Immigration(證照查驗/移民查驗)、Quarantine(檢疫),因此 Q 為檢疫。",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH2 觀光餐旅業之從業理念] - [2-2 觀光餐旅從業人員的職場倫理]",
+    "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
     "explanation": {
       "status": "approved",
       "answerExplanation": "答案為 C。C.I.Q. 分別代表 Customs（海關）、Immigration（證照查驗／移民查驗）、Quarantine（檢疫），因此 Q 為檢疫。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-2 E 中國─菜系",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "answer": "C"
   }

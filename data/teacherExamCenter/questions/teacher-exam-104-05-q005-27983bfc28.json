@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-104-05-q005-27983bfc28",
     "sourceYear": 104,
@@ -14,17 +14,17 @@
     "prompt": "小明跟著爸爸、媽媽和爺爺到中餐廳用餐，爺爺的座位應安排在圖中的哪個位置最符合用餐禮儀？",
     "options": [],
     "subject": "foodservice",
-    "subjectLabel": "餐飲服務",
-    "unit": "[CH7 餐飲禮儀] - [7-1 席次安排]",
-    "conceptId": "foodservice-a7143839ff",
-    "conceptLabel": "7-1 席次安排",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH7 餐飲禮儀] - [7-2用餐禮儀]",
+    "conceptId": "foodservice-1ca67990b2",
+    "conceptLabel": "7-2用餐禮儀",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
         "chapter": "CH7 餐飲禮儀",
-        "locator": "7-1 席次安排",
-        "note": "依題幹「中餐廳」、「爺爺座位」與「主位（上席）」人工調整至餐飲禮儀席次安排。"
+        "locator": "7-2用餐禮儀",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=132, second=56。"
       }
     ],
     "explanation": {
@@ -33,32 +33,21 @@
       "optionExplanations": [],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH1 中餐基本概念與廚房組織",
-          "locator": "1-1 中餐廚房組織與工作職責",
-          "note": "依「中餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第七章 餐飲禮儀",
-          "locator": "用餐禮儀",
-          "note": "參考書 OCR 估算 頁 240"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH7 餐飲禮儀",
+          "locator": "7-2用餐禮儀",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=132, second=56。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-image-source",
-      "manual-reclassify-seating-etiquette"
+      "manual-reclassify-seating-etiquette",
+      "latest-taxonomy-auto-high"
     ],
-    "searchText": "小明跟著爸爸、媽媽和爺爺到中餐廳用餐，爺爺的座位應安排在圖中的哪個位置最符合用餐禮儀？ 餐飲服務 [CH7 餐飲禮儀] - [7-1 席次安排] 7-1 席次安排 此題已依原始試題修正題幹或圖片格式，解析需重新檢核。",
+    "searchText": "小明跟著爸爸、媽媽和爺爺到中餐廳用餐,爺爺的座位應安排在圖中的哪個位置最符合用餐禮儀? 餐飲服務技術 [CH7 餐飲禮儀] - [7-2用餐禮儀] 7-2用餐禮儀 此題已依原始試題修正題幹或圖片格式,解析需重新檢核。",
     "sequence": 826,
     "answer": "(5) 主位（上席）",
     "images": [

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-109-10-q001-6a5b379cb4",
     "sourceYear": 109,
@@ -15,24 +15,16 @@
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH1 觀光餐旅業基本觀念] - [1-5 我國觀光餐旅主管機關]",
-    "conceptId": "tourism-hospitality-2af2ccc567",
-    "conceptLabel": "1-5 我國觀光餐旅主管機關",
+    "unit": "[CH3 餐飲業] - [3-5 B 食品中毒/食物中毒]",
+    "conceptId": "tourism-hospitality-a02c984b49",
+    "conceptLabel": "3-5 B 食品中毒/食物中毒",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH1 觀光餐旅業基本觀念",
-        "locator": "1-5 我國觀光餐旅主管機關",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：原題含三欄表格，將被壓成單行的 markdown 表格改為換行表格格式，供畫面、PDF 列印與 Word 匯出渲染。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-5 B 食品中毒/食物中毒",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=108。"
       }
     ],
     "explanation": {
@@ -40,11 +32,22 @@
       "answerExplanation": "本題應以表格作答，依序填入國際旅遊疫情建議等級的中英文名稱與意涵。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-5 B 食品中毒/食物中毒",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=108。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "109 年第 1 題 二、簡答題（共16分） 未標示學校 我國國際間旅遊疫情建議等級表，是由行政院衛生福利部疾病管制署發布資訊，請寫出分級標準（中英文）及意涵。（6分，每格1分）\n\n| 分級標準 | 分級標準（中、英文） | 意涵 |\n| --- | --- | --- |\n| 第一級 | (1) | (2) |\n| 第二級 | (3) | (4) |\n| 第三級 | (5) | (6) | 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 我國觀光餐旅主管機關] 1-5 我國觀光餐旅主管機關 本題應以表格作答，依序填入國際旅遊疫情建議等級的中英文名稱與意涵。",
+    "flags": [
+      "latest-taxonomy-auto-medium"
+    ],
+    "searchText": "我國國際間旅遊疫情建議等級表,是由行政院衛生福利部疾病管制署發布資訊,請寫出分級標準(中英文)及意涵。(6分,每格1分)\n\n| 分級標準 | 分級標準(中、英文) | 意涵 |\n| --- | --- | --- |\n| 第一級 | (1) | (2) |\n| 第二級 | (3) | (4) |\n| 第三級 | (5) | (6) | 觀光餐旅業導論 [CH3 餐飲業] - [3-5 B 食品中毒/食物中毒] 3-5 B 食品中毒/食物中毒 本題應以表格作答,依序填入國際旅遊疫情建議等級的中英文名稱與意涵。",
     "sequence": 1539,
     "answer": null
   }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-98-20-q004-ec30ed5dc3",
     "sourceYear": 98,
@@ -32,22 +32,16 @@
     ],
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "[CH7 混合性飲料調製] - [7-1 混合性飲料的種類]",
-    "conceptId": "beverage-9fa87255a3",
-    "conceptLabel": "7-1 混合性飲料的種類",
+    "unit": "[CH7混合性飲料調製] - [7-1混合性飲料的種類]",
+    "conceptId": "beverage-0cbfec7015",
+    "conceptLabel": "7-1混合性飲料的種類",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH7 混合性飲料調製",
-        "locator": "7-1 混合性飲料的種類",
-        "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
-        "source": "unit-cleanup",
-        "chapter": "第七章 混合性飲料調製",
-        "locator": "雞尾酒與混合性飲料調製",
-        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第一章 飲務的作業規範] - [1. (A) 2. (A) 3. (A) 4. (C) 5. (A) 6. (D) 7. (B)]"
+        "source": "manual",
+        "chapter": "CH7混合性飲料調製",
+        "locator": "7-1混合性飲料的種類",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=48, second=44。"
       }
     ],
     "explanation": {
@@ -56,31 +50,22 @@
       "optionExplanations": [],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH7 混合性飲料調製",
-          "locator": "7-1 混合性飲料的種類",
-          "note": "依「飲料實務-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "飲料實務",
-          "chapter": "第二章 器具、材料與調製法",
-          "locator": "飲料調製的材料",
-          "note": "參考書 OCR 估算 頁 26"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH7混合性飲料調製",
+          "locator": "7-1混合性飲料的種類",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=48, second=44。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "manual-restore-numeric-choice"
+      "manual-restore-numeric-choice",
+      "latest-taxonomy-auto-low",
+      "latest-taxonomy-low-confidence",
+      "latest-taxonomy-auto-medium"
     ],
-    "searchText": "最適宜雞尾酒會（Cocktail Party）供應之食物大小規格為何？ 可一口食用者 越大塊越實際 越小越精緻 依食物種類而異。 飲料實務 [CH7 混合性飲料調製] - [7-1 混合性飲料的種類] 7-1 混合性飲料的種類 此題已依原始試題修正為選擇題格式，解析需重新檢核。",
+    "searchText": "最適宜雞尾酒會(Cocktail Party)供應之食物大小規格為何? 可一口食用者 越大塊越實際 越小越精緻 依食物種類而異。 飲料實務 [CH7混合性飲料調製] - [7-1混合性飲料的種類] 7-1混合性飲料的種類 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
     "sequence": 3289.02,
     "answer": "1"
   }

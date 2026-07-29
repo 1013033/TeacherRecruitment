@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-103-04-q012-f3a66b6fbc",
     "sourceYear": 103,
@@ -31,26 +31,18 @@
       }
     ],
     "answer": "D",
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-3 餐飲業的類別與餐廳種類]",
-    "conceptId": "tourism-hospitality-f8924998c0",
-    "conceptLabel": "3-3 餐飲業的類別與餐廳種類",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
+    "conceptId": "foodservice-a0c78a2070",
+    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-3 餐飲業的類別與餐廳種類",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除 D 選項尾端誤併的頁碼「(共 2 頁， )」。"
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=300, second=196。"
       }
     ],
     "explanation": {
@@ -58,11 +50,22 @@
       "answerExplanation": "答案為 D。已移除誤併頁碼。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH8 餐飲服務",
+          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=300, second=196。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "103 年第 12 題 未標示試卷 教育部受託辦理 103 學年度公立高級中等學校教師甄選 有關「Seated Service」的敘述，下列何者為非？ D 觀光餐旅業導論 [CH3 餐飲業] - [3-3 餐飲業的類別與餐廳種類] 3-3 餐飲業的類別與餐廳種類 A 為目前「À la carte」餐廳，最普遍的服務方式 B 是顧客認為最具消費價值的服務型態 C 餐廳採用此服務方式，須付出較高的人力成本 D 為速食業者最普遍採用的服務方式 答案為 D。已移除誤併頁碼。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "有關「Seated Service」的敘述,下列何者為非? 為目前「À la carte」餐廳,最普遍的服務方式 是顧客認為最具消費價值的服務型態 餐廳採用此服務方式,須付出較高的人力成本 為速食業者最普遍採用的服務方式 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 答案為 D。已移除誤併頁碼。",
     "sequence": 513
   }
 }

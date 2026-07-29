@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-113-14-q022-c1dee7d35f",
     "sourceYear": 113,
@@ -33,21 +33,39 @@
     "answer": "B",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH5 旅行業] - [5-5 旅行業的經營理念]",
-    "conceptId": "tourism-hospitality-d7ea4c67e0",
-    "conceptLabel": "5-5 旅行業的經營理念",
+    "unit": "[CH5 旅行業] - [5-5 F 護照]",
+    "conceptId": "tourism-hospitality-825a7edb51",
+    "conceptLabel": "5-5 F 護照",
     "relatedConceptIds": [],
-    "classificationBasis": "人工修正：移除誤接在 D 選項後方的第 23-25 題電子機票共同題幹。",
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 F 護照",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=176, second=158。"
+      }
+    ],
     "explanation": {
       "status": "approved",
       "answerExplanation": "答案為 B。GTD 與 No Show 資料通常屬訂房相關作業；全套房型態為 All Suites；財務、人事獨立但掛連鎖品牌且受總公司稽核，符合 Franchise 特徵。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH5 旅行業",
+          "locator": "5-5 F 護照",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=176, second=158。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "113 年第 22 題 113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題 113年公立高級中等學校教師甄選 小白是一家飯店的員工，他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作 帳，飯店內所有的客房都有1～2 間臥室外加一個小客廳的配備，非常適合親子旅遊， 而旅館本身的財務、人事完全獨立，僅掛這間連鎖旅館的商標，總公司會常派人不定 期抽驗，符合繼續續約，反之可能終止契約，請問以下何者正確？ B 觀光餐旅業導論 [CH5 旅行業] - [5-5 旅行業的經營理念] 5-5 旅行業的經營理念 A 小白職務為 Night Manager/飯店型態 Villa/連鎖方式 Management Contract B 小白職務為 Reservation Clerk/飯店型態 All Suites/連鎖方式 Franchise C 小白職務為 Operator/飯店型態 Resort/連鎖方式 Franchise D 小白職務為 Reception/飯店型態 City Hotel/連鎖方式 Management Contract。 答案為 B。GTD 與 No Show 資料通常屬訂房相關作業；全套房型態為 All Suites；財務、人事獨立但掛連鎖品牌且受總公司稽核，符合 Franchise 特徵。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "小白是一家飯店的員工,他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作 帳,飯店內所有的客房都有1~2 間臥室外加一個小客廳的配備,非常適合親子旅遊, 而旅館本身的財務、人事完全獨立,僅掛這間連鎖旅館的商標,總公司會常派人不定 期抽驗,符合繼續續約,反之可能終止契約,請問以下何者正確? 小白職務為 Night Manager/飯店型態 Villa/連鎖方式 Management Contract 小白職務為 Reservation Clerk/飯店型態 All Suites/連鎖方式 Franchise 小白職務為 Operator/飯店型態 Resort/連鎖方式 Franchise 小白職務為 Reception/飯店型態 City Hotel/連鎖方式 Management Contract。 觀光餐旅業導論 [CH5 旅行業] - [5-5 F 護照] 5-5 F 護照 答案為 B。GTD 與 No Show 資料通常屬訂房相關作業;全套房型態為 All Suites;財務、人事獨立但掛連鎖品牌且受總公司稽核,符合 Franchise 特徵。",
     "sequence": 2019
   }
 }

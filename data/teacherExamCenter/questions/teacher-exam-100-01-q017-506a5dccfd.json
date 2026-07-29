@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-100-01-q017-506a5dccfd",
     "sourceYear": 100,
@@ -31,24 +31,18 @@
       }
     ],
     "answer": "C",
-    "subject": "beverage",
-    "subjectLabel": "飲料實務",
-    "unit": "[CH6 酒的分類與製程] - [6-1 釀造酒的分類與製程]",
-    "conceptId": "beverage-45bcb2c9c2",
-    "conceptLabel": "6-1 釀造酒的分類與製程",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-2 I 米其林]",
+    "conceptId": "tourism-hospitality-be41d51d7c",
+    "conceptLabel": "3-2 I 米其林",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH6 酒的分類與製程",
-        "locator": "6-1 釀造酒的分類與製程",
-        "note": "依「飲料實務-章節分類.txt」章節樹與高信心品項關鍵詞，定位至此小節。"
-      },
-      {
-        "source": "unit-cleanup",
-        "chapter": "第六章 酒的分類與製程",
-        "locator": "蒸餾酒的分類與製程",
-        "note": "清除參考書 OCR 目錄頁碼或答案序列造成的髒單元名稱；原單元：[第六章 酒的分類與製程] - [第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製]"
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 I 米其林",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=24。"
       }
     ],
     "explanation": {
@@ -81,29 +75,19 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH6 酒的分類與製程",
-          "locator": "6-1 釀造酒的分類與製程",
-          "note": "依「飲料實務-章節分類.txt」章節樹與高信心品項關鍵詞，定位至此小節。"
-        },
-        {
-          "source": "飲料實務-章節分類",
-          "chapter": "第六章 酒的分類與製程",
-          "locator": "第六章 酒的分類與製程",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-2 I 米其林",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=24。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "從法國進口葡萄酒,其標籤上若有「Appellation Margaux Contrôlée」的字樣,表示這瓶酒的等級為 優良地區的葡萄酒 地區葡萄酒 法定產區葡萄酒 日常餐酒。 飲料實務 [CH6 酒的分類與製程] - [6-1 釀造酒的分類與製程] 6-1 釀造酒的分類與製程 【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / 法國原產地命名控制。題目涉及葡萄酒分級,與全華版《飲料實務》中提到的法國葡萄酒等級相關 【分類來源】全華/人工分類單元 【核心觀念】Appellation Margaux Contrôlée 【詳細解析】「Appellation Margaux Contrôlée」是法國原產地命名控制(AOC)制度下的標籤,表示這瓶酒來自梅多克(Médoc)的馬格魯斯村(Margaux),且符合嚴格的品質標準。因此,正確答案為C:法定產區葡萄酒。 【錯誤選項錯在哪】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 修正說法:此選項錯誤在於混淆了不同等級標籤的意義。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 修正說法:此選項錯誤在於混淆了不同等級標籤的意義。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 修正說法:此選項錯誤在於混淆了不同等級標籤的意義。 【叮嚀】提醒考生注意法國葡萄酒分級制度中的各個等級及其標籤意義。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務-章節分類》第六章 酒的分類與製程,定位:第六章 酒的分類與製程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。",
+    "flags": [
+      "latest-taxonomy-auto-medium"
+    ],
+    "searchText": "從法國進口葡萄酒,其標籤上若有「Appellation Margaux Contrôlée」的字樣,表示這瓶酒的等級為 優良地區的葡萄酒 地區葡萄酒 法定產區葡萄酒 日常餐酒。 觀光餐旅業導論 [CH3 餐飲業] - [3-2 I 米其林] 3-2 I 米其林 【問題分類】飲料實務 / CH06 酒類製程、蒸餾酒與葡萄酒 / 法國原產地命名控制。題目涉及葡萄酒分級,與全華版《飲料實務》中提到的法國葡萄酒等級相關 【分類來源】全華/人工分類單元 【核心觀念】Appellation Margaux Contrôlée 【詳細解析】「Appellation Margaux Contrôlée」是法國原產地命名控制(AOC)制度下的標籤,表示這瓶酒來自梅多克(Médoc)的馬格魯斯村(Margaux),且符合嚴格的品質標準。因此,正確答案為C:法定產區葡萄酒。 【錯誤選項錯在哪】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 修正說法:此選項錯誤在於混淆了不同等級標籤的意義。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 修正說法:此選項錯誤在於混淆了不同等級標籤的意義。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 修正說法:此選項錯誤在於混淆了不同等級標籤的意義。 【叮嚀】提醒考生注意法國葡萄酒分級制度中的各個等級及其標籤意義。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章酒的分類與製程 289 第一節釀造酒的分類與製程 291 第二節蒸餾酒的分類與製(頁 199);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 B:「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 C:「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 D:「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。\n\n【參考書依據】主要參考《飲料實務-章節分類》第六章 酒的分類與製程,定位:第六章 酒的分類與製程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 「優良地區的葡萄酒」通常指的是IGP(Indication Géographique Protégée)等級,而非AOC等級。 「地區葡萄酒」指的是VDQS(Vins Délimités de Qualité Supérieure)等級,而非AOC等級。 「法定產區葡萄酒」指的是AOC(Appellation d'Origine Contrôlée)等級,符合題目中「Appellation Margaux Contrôlée」的描述。 「日常餐酒」指的是VDT(Vin de Table)等級,而非AOC等級。",
     "sequence": 83
   }
 }

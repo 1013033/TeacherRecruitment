@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-97-19-q048-02ed84b238",
     "sourceYear": 97,
@@ -30,22 +30,18 @@
         "text": "medium rare steak"
       }
     ],
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[CH4 西餐菜餚與實作題組] - [4-1 牛、豬與羊肉菜餚]",
-    "conceptId": "western-culinary-8da8fe47cb",
-    "conceptLabel": "4-1 牛、豬與羊肉菜餚",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH7 餐飲禮儀] - [7-2 B1牛排熟度]",
+    "conceptId": "foodservice-c1d8b7ee69",
+    "conceptLabel": "7-2 B1牛排熟度",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 西餐菜餚與實作題組",
-        "locator": "4-1 牛、豬與羊肉菜餚",
-        "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH7 餐飲禮儀",
+        "locator": "7-2 B1牛排熟度",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
     "explanation": {
@@ -75,31 +71,20 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH4 西餐菜餚與實作題組",
-          "locator": "4-1 牛、豬與羊肉菜餚",
-          "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "reference-book-derived-unit",
-          "chapter": "觀光餐旅業導論 第三章 餐飲業",
-          "locator": "西餐菜餚、食材與烹調法辨識",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH7 餐飲禮儀",
+          "locator": "7-2 B1牛排熟度",
+          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
         }
       ],
-      "updatedAt": "2026-07-28T00:00:00.000Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
     "flags": [
-      "manual-numeric-choice-restore"
+      "manual-numeric-choice-restore",
+      "latest-taxonomy-manual"
     ],
-    "searchText": "三分熟的牛排稱為 rare steak medium well steak medium steak medium rare steak 4 西餐 4-1 牛、豬與羊肉菜餚 本題原始選項為數字編號。答案為 4（medium rare steak）。",
+    "searchText": "三分熟的牛排稱為 rare steak medium well steak medium steak medium rare steak 餐飲服務技術 [CH7 餐飲禮儀] - [7-2 B1牛排熟度] 7-2 B1牛排熟度 本題原始選項為數字編號。答案為 4(medium rare steak)。 不符合本題標準答案。 不符合本題標準答案。 不符合本題標準答案。 為本題標準答案。",
     "sequence": 3118,
     "answer": "4"
   }

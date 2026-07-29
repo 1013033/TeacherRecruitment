@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-115-16-q001-0ebca4f68f",
     "sourceYear": 115,
@@ -13,26 +13,18 @@
     "questionType": "essay",
     "prompt": "Mr. and Mrs. Chen invited Mr. and Mrs. Lin to a French bistro that combines modern elegance with a modern bistro atmosphere.\nPlease translate the following set menu into Chinese.\n\n| No. | Original | Chinese |\n| --- | --- | --- |\n| 1 | Focaccia | |\n| 2 | Cole Slaw | |\n| 3 | Prosciutto Crudo | |\n| 4 | Cioppino | |\n| 5 | Italian Nebbiolo | |\n| 6 | Sauteed Beef Stroganoff with Spinach Spaetzle | |\n| 7 | Schwarzwälder Kirschtorte | |\n| 8 | Affogato | |",
     "options": [],
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH5 旅行業] - [5-4 旅行業的組織與部門]",
-    "conceptId": "tourism-hospitality-ee9b25cbc3",
-    "conceptLabel": "5-4 旅行業的組織與部門",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
+    "conceptId": "foodservice-744dfb139d",
+    "conceptLabel": "5-1 E 宗教菜單禁忌",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH5 旅行業",
-        "locator": "5-4 旅行業的組織與部門",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：將英翻中菜單題整理為表格，並移除題尾誤接的「四、計算題（共7分）」。"
+        "chapter": "CH5 菜單與飲料單",
+        "locator": "5-1 E 宗教菜單禁忌",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=64, second=54。"
       }
     ],
     "explanation": {
@@ -40,11 +32,22 @@
       "answerExplanation": "本題為菜單英翻中，已整理為 No./Original/Chinese 表格並移除誤接的下一大題標題。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH5 菜單與飲料單",
+          "locator": "5-1 E 宗教菜單禁忌",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=64, second=54。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "115 年第 1 題 115年公立高級中等學校教師甄選餐飲管理科試題 115年公立高級中等學校教師甄選 Mr. and Mrs. Chen invited Mr. and Mrs. Lin to a French bistro that combines modern elegance with a modern bistro atmosphere.\nPlease translate the following set menu into Chinese.\n\n| No. | Original | Chinese |\n| --- | --- | --- |\n| 1 | Focaccia | |\n| 2 | Cole Slaw | |\n| 3 | Prosciutto Crudo | |\n| 4 | Cioppino | |\n| 5 | Italian Nebbiolo | |\n| 6 | Sauteed Beef Stroganoff with Spinach Spaetzle | |\n| 7 | Schwarzwälder Kirschtorte | |\n| 8 | Affogato | | 觀光餐旅業導論 [CH5 旅行業] - [5-4 旅行業的組織與部門] 5-4 旅行業的組織與部門 本題為菜單英翻中，已整理為 No./Original/Chinese 表格並移除誤接的下一大題標題。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "Mr. and Mrs. Chen invited Mr. and Mrs. Lin to a French bistro that combines modern elegance with a modern bistro atmosphere.\nPlease translate the following set menu into Chinese.\n\n| No. | Original | Chinese |\n| --- | --- | --- |\n| 1 | Focaccia | |\n| 2 | Cole Slaw | |\n| 3 | Prosciutto Crudo | |\n| 4 | Cioppino | |\n| 5 | Italian Nebbiolo | |\n| 6 | Sauteed Beef Stroganoff with Spinach Spaetzle | |\n| 7 | Schwarzwälder Kirschtorte | |\n| 8 | Affogato | | 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 本題為菜單英翻中,已整理為 No./Original/Chinese 表格並移除誤接的下一大題標題。",
     "sequence": 2443
   }
 }

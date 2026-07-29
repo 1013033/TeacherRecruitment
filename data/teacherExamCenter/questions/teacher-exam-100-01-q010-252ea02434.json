@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-100-01-q010-252ea02434",
     "sourceYear": 100,
@@ -33,20 +33,16 @@
     "answer": "D",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH5 旅行業] - [5-4 旅行業的組織與部門]",
-    "conceptId": "tourism-hospitality-ee9b25cbc3",
-    "conceptLabel": "5-4 旅行業的組織與部門",
+    "unit": "[CH3 餐飲業] - [3-5 B 食品中毒/食物中毒]",
+    "conceptId": "tourism-hospitality-a02c984b49",
+    "conceptLabel": "3-5 B 食品中毒/食物中毒",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH5 旅行業",
-        "locator": "5-4 旅行業的組織與部門",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "Ollama qwen2.5:7b 依 RAG/試題/試題分類 檢索 50 個候選單元後判定：全華／人工分類單元。全華單元無法承接，題目與全華教材內容無直接對應。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-5 B 食品中毒/食物中毒",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=76, second=52。"
       }
     ],
     "explanation": {
@@ -80,29 +76,19 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH5 旅行業",
-          "locator": "5-4 旅行業的組織與部門",
-          "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "觀光餐旅業導論-章節分類",
-          "chapter": "第一章 觀光餐旅業基本觀念",
-          "locator": "第一章 觀光餐旅業基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-5 B 食品中毒/食物中毒",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=76, second=52。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "下列何種廚房設備也有人稱之為「水牛斧刀」(Buffalo Chopper)? Food Mixer Food Blender Food Processor Food Cutter。 觀光餐旅業導論 [CH5 旅行業] - [5-4 旅行業的組織與部門] 5-4 旅行業的組織與部門 【問題分類】觀光餐旅業導論 / CH03 餐飲業 / 廚房設計。全華單元無法承接,題目與全華教材內容無直接對應。 【分類來源】全華/人工分類單元 【核心觀念】Buffalo Chopper(水牛斧刀) 【詳細解析】「水牛斧刀」(Buffalo Chopper)是一種大型的食品加工機器,常被用於商業廚房中進行大塊食材的切割和處理。在選項中,Food Processor(食品加工機)最符合這個描述,因為它通常具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。因此,正確答案是 D 选项:Food Cutter( FOOD CUTTER 是一個錯誤的選項,應該為 Food Processor)。 【錯誤選項錯在哪】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 修正說法:無需修正 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 修正說法:無需修正 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 修正說法:無需修正 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 修正說法:FOOD CUTTER 应為 Food Processor。 【叮嚀】注意題目中的「水牛斧刀」(Buffalo Chopper)是一種特定的食品加工機器,而不是普通的切割工具。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "下列何種廚房設備也有人稱之為「水牛斧刀」(Buffalo Chopper)? Food Mixer Food Blender Food Processor Food Cutter。 觀光餐旅業導論 [CH3 餐飲業] - [3-5 B 食品中毒/食物中毒] 3-5 B 食品中毒/食物中毒 【問題分類】觀光餐旅業導論 / CH03 餐飲業 / 廚房設計。全華單元無法承接,題目與全華教材內容無直接對應。 【分類來源】全華/人工分類單元 【核心觀念】Buffalo Chopper(水牛斧刀) 【詳細解析】「水牛斧刀」(Buffalo Chopper)是一種大型的食品加工機器,常被用於商業廚房中進行大塊食材的切割和處理。在選項中,Food Processor(食品加工機)最符合這個描述,因為它通常具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。因此,正確答案是 D 选项:Food Cutter( FOOD CUTTER 是一個錯誤的選項,應該為 Food Processor)。 【錯誤選項錯在哪】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 修正說法:無需修正 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 修正說法:無需修正 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 修正說法:無需修正 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 修正說法:FOOD CUTTER 应為 Food Processor。 【叮嚀】注意題目中的「水牛斧刀」(Buffalo Chopper)是一種特定的食品加工機器,而不是普通的切割工具。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。",
     "sequence": 76
   }
 }

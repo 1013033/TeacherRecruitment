@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-101-02-q030-291fccea7f",
     "sourceYear": 101,
@@ -33,24 +33,16 @@
     "answer": "C",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-5 餐飲業的經營理念]",
-    "conceptId": "tourism-hospitality-34007957d5",
-    "conceptLabel": "3-5 餐飲業的經營理念",
+    "unit": "[CH5 旅行業] - [5-5 I 聯營航空/航空聯盟]",
+    "conceptId": "tourism-hospitality-fd814fa86c",
+    "conceptLabel": "5-5 I 聯營航空/航空聯盟",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-5 餐飲業的經營理念",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除 D 選項尾端誤併的答案表殘留數字「3」。"
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 I 聯營航空/航空聯盟",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=56, second=56。"
       }
     ],
     "explanation": {
@@ -58,11 +50,23 @@
       "answerExplanation": "答案為 C。已移除誤併數字。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH5 旅行業",
+          "locator": "5-5 I 聯營航空/航空聯盟",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=56, second=56。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "101 年第 30 題 未標示試卷 國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題 我國籍航空公司中，何者曾經推出 Hello Kitty 專機，掀起航空業 Kitty 熱，創造營運佳績？ C 觀光餐旅業導論 [CH3 餐飲業] - [3-5 餐飲業的經營理念] 3-5 餐飲業的經營理念 A CI B EF C BR D GE。 答案為 C。已移除誤併數字。",
+    "flags": [
+      "latest-taxonomy-auto-high",
+      "latest-taxonomy-auto-medium"
+    ],
+    "searchText": "我國籍航空公司中,何者曾經推出 Hello Kitty 專機,掀起航空業 Kitty 熱,創造營運佳績? CI EF BR GE。 觀光餐旅業導論 [CH5 旅行業] - [5-5 I 聯營航空/航空聯盟] 5-5 I 聯營航空/航空聯盟 答案為 C。已移除誤併數字。",
     "sequence": 222
   }
 }

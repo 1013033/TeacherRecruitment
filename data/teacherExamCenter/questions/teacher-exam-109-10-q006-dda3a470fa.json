@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-109-10-q006-dda3a470fa",
     "sourceYear": 109,
@@ -25,16 +25,16 @@
     "answer": "6:D、7:B",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH6 旅館業] - [6-7 旅館財務管理]",
-    "conceptId": "tourism-hospitality-34007957d5",
-    "conceptLabel": "6-7 旅館財務管理",
-    "relatedConceptIds": [
-      "western-culinary-35f0feccfa"
-    ],
+    "unit": "[CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)]",
+    "conceptId": "tourism-hospitality-319014f626",
+    "conceptLabel": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+    "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "note": "人工修正：第 6、7 題共用成本計算題幹，合併成題組入口，避免共同題幹誤接在第 5 題 D 選項或於匯出時重複。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=106, second=48。"
       }
     ],
     "explanation": {
@@ -42,11 +42,22 @@
       "answerExplanation": "答案為 6:D、7:B。此題組需共同參照青椒與豬肉的進貨量、淨得量與成本率作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=106, second=48。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "109 年第 6-7 題（成本計算題組） 一、選擇題，每題1分，共22分。 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 第 6、7 題之題組\n有一家餐廳的進貨量是青椒100斤，每斤40元，去蒂後、淨得青椒80斤。豬肉50斤，每斤90元，去肥油後，淨得瘦豬肉45斤。請回答下列問題： 6. 請問製作一盤「青椒肉片」使用豬肉片0.3斤，青椒0.2斤，這盤菜成本應為多少？\n(A) 25\n(B) 30\n(C) 35\n(D) 40元。\n\n7. 假設這一盤菜的成本率設定為40%，請問這盤菜的售價應訂為？\n(A) 80\n(B) 100\n(C) 120\n(D) 150元。 6:D、7:B 觀光餐旅業導論 [CH6 旅館業] - [6-7 旅館財務管理] 6-7 旅館財務管理 6 答案：D 7 答案：B 答案為 6:D、7:B。此題組需共同參照青椒與豬肉的進貨量、淨得量與成本率作答。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "6. 請問製作一盤「青椒肉片」使用豬肉片0.3斤,青椒0.2斤,這盤菜成本應為多少?\n(A) 25\n(B) 30\n(C) 35\n(D) 40元。\n\n7. 假設這一盤菜的成本率設定為40%,請問這盤菜的售價應訂為?\n(A) 80\n(B) 100\n(C) 120\n(D) 150元。 第 6、7 題之題組\n有一家餐廳的進貨量是青椒100斤,每斤40元,去蒂後、淨得青椒80斤。豬肉50斤,每斤90元,去肥油後,淨得瘦豬肉45斤。請回答下列問題: 答案:D 答案:B 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate) 答案為 6:D、7:B。此題組需共同參照青椒與豬肉的進貨量、淨得量與成本率作答。",
     "sequence": 1577,
     "readingPassage": "第 6、7 題之題組\n有一家餐廳的進貨量是青椒100斤，每斤40元，去蒂後、淨得青椒80斤。豬肉50斤，每斤90元，去肥油後，淨得瘦豬肉45斤。請回答下列問題："
   }

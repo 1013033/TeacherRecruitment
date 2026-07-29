@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-112-13-q007-ac57de33dc",
     "sourceYear": 112,
@@ -31,26 +31,18 @@
       }
     ],
     "answer": "D",
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-1 餐飲業的定義與特性]",
-    "conceptId": "tourism-hospitality-3f958e062e",
-    "conceptLabel": "3-1 餐飲業的定義與特性",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
+    "conceptId": "foodservice-a0c78a2070",
+    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-1 餐飲業的定義與特性",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：依使用者提供原卷補齊 A-D 選項，原資料僅保留答案 D。"
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=12。"
       }
     ],
     "explanation": {
@@ -58,11 +50,23 @@
       "answerExplanation": "答案為 D。本題已依原卷補齊完整選項。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH8 餐飲服務",
+          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=16, second=12。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "112 年第 7 題 科目：餐飲管理科 桃園市立高級中等學校 112學年度教師聯合甄選筆試試題 歐美流行之比薩 - 意大利發麵餅屬於？ D 觀光餐旅業導論 [CH3 餐飲業] - [3-1 餐飲業的定義與特性] 3-1 餐飲業的定義與特性 A 麵包項 B 餅乾項 C 中點項 D 西點項。 答案為 D。本題已依原卷補齊完整選項。",
+    "reviewStatus": "needs-review",
+    "flags": [
+      "latest-taxonomy-auto-low",
+      "latest-taxonomy-low-confidence"
+    ],
+    "searchText": "歐美流行之比薩 - 意大利發麵餅屬於? 麵包項 餅乾項 中點項 西點項。 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 答案為 D。本題已依原卷補齊完整選項。",
     "sequence": 1986
   }
 }

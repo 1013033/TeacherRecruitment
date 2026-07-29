@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-97-19-q035-9f8133a097",
     "sourceYear": 97,
@@ -30,22 +30,18 @@
         "text": "介於湯與沙拉之間"
       }
     ],
-    "subject": "western-culinary",
-    "subjectLabel": "西餐",
-    "unit": "[CH4 西餐菜餚與實作題組] - [4-4 蛋、早餐、甜點與其他菜餚]",
-    "conceptId": "western-culinary-af412e2a1a",
-    "conceptLabel": "4-4 蛋、早餐、甜點與其他菜餚",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
+    "conceptId": "foodservice-744dfb139d",
+    "conceptLabel": "5-1 E 宗教菜單禁忌",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 西餐菜餚與實作題組",
-        "locator": "4-4 蛋、早餐、甜點與其他菜餚",
-        "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH5 菜單與飲料單",
+        "locator": "5-1 E 宗教菜單禁忌",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=32, second=24。"
       }
     ],
     "explanation": {
@@ -71,31 +67,20 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH4 西餐菜餚與實作題組",
-          "locator": "4-4 蛋、早餐、甜點與其他菜餚",
-          "note": "依「西餐-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "餐飲商品",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "CH5 菜單與飲料單",
+          "locator": "5-1 E 宗教菜單禁忌",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=32, second=24。"
         }
       ],
-      "updatedAt": "2026-07-28T00:00:00.000+08:00"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
     "flags": [
-      "manual-numeric-choice-restore"
+      "manual-numeric-choice-restore",
+      "latest-taxonomy-auto-medium"
     ],
-    "searchText": "法式菜單中雪碧冰(Sherbet)的吃法是 1介於享用主菜之前 2介於主菜與甜點之間 3介於甜點與咖啡之間 4介於湯與沙拉之間 西餐 [CH4 西餐菜餚與實作題組] - [4-4 蛋、早餐、甜點與其他菜餚] 4-4 蛋、早餐、甜點與其他菜餚 本題原始試題以數字編號呈現選項,標準答案為 1（介於享用主菜之前）。 此選項為本題標準答案。 此選項不符合本題標準答案；本題答案為 1。 此選項不符合本題標準答案；本題答案為 1。 此選項不符合本題標準答案；本題答案為 1。",
+    "searchText": "法式菜單中雪碧冰(Sherbet)的吃法是 介於享用主菜之前 介於主菜與甜點之間 介於甜點與咖啡之間 介於湯與沙拉之間 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 本題原始試題以數字編號呈現選項,標準答案為 1(介於享用主菜之前)。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。",
     "sequence": 3105,
     "answer": "1"
   }

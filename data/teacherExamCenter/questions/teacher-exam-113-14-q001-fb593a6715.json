@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-113-14-q001-fb593a6715",
     "sourceYear": 113,
@@ -13,16 +13,18 @@
     "questionType": "short-answer",
     "prompt": "請寫出下列「專有名詞」英翻中：\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano |  |\n| 2 | Grappa / Marc |  |\n| 3 | Noble Rot |  |\n| 4 | Balut |  |\n| 5 | Palmier |  |\n| 6 | Bouillabaisse |  |\n| 7 | Macadamia Nut |  |\n| 8 | Prosciutto |  |\n| 9 | Calculation Sheet |  |\n| 10 | crème anglaise |  |\n| 11 | Ultra-fine Sugar |  |\n| 12 | Dates（提示：一種食材） |  |",
     "options": [],
-    "subject": "beverage",
-    "subjectLabel": "飲料實務",
-    "unit": "[CH6 酒的分類與製程] - [6-3 合成酒的分類與製程]",
-    "conceptId": "beverage-2831221ee6",
-    "conceptLabel": "6-3 合成酒的分類與製程",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH4 旅宿業] - [4-5 E 專有名詞]",
+    "conceptId": "tourism-hospitality-03659037c6",
+    "conceptLabel": "4-5 E 專有名詞",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "note": "依使用者提供原始題目人工合併 113 新北第 1-12 題專有名詞英翻中題組，移除分散碎片。"
+        "chapter": "CH4 旅宿業",
+        "locator": "4-5 E 專有名詞",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=132, second=132。"
       }
     ],
     "explanation": {
@@ -30,11 +32,23 @@
       "answerExplanation": "本題為專有名詞英翻中，已依原卷整理為題號、英文名稱、中文名稱表格；已知答案：1 義大利香草酒、2 渣釀白蘭地、3 貴腐菌、4 鴨仔蛋、5 法式蝴蝶酥、11 特砂糖、12 椰棗。6-10 尚待補齊。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH4 旅宿業",
+          "locator": "4-5 E 專有名詞",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=132, second=132。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "113 年第 1-12 題（專有名詞英翻中題組） 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 請寫出下列「專有名詞」英翻中：\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano |  |\n| 2 | Grappa / Marc |  |\n| 3 | Noble Rot |  |\n| 4 | Balut |  |\n| 5 | Palmier |  |\n| 6 | Bouillabaisse |  |\n| 7 | Macadamia Nut |  |\n| 8 | Prosciutto |  |\n| 9 | Calculation Sheet |  |\n| 10 | crème anglaise |  |\n| 11 | Ultra-fine Sugar |  |\n| 12 | Dates（提示：一種食材） |  | 1:義大利香草酒、2:渣釀白蘭地、3:貴腐菌、4:鴨仔蛋、5:法式蝴蝶酥、11:特砂糖、12:椰棗；6-10 待補。 飲料實務 [CH6 酒的分類與製程] - [6-3 合成酒的分類與製程] 6-3 合成酒的分類與製程 本題為專有名詞英翻中，已依原卷整理為題號、英文名稱、中文名稱表格；已知答案：1 義大利香草酒、2 渣釀白蘭地、3 貴腐菌、4 鴨仔蛋、5 法式蝴蝶酥、11 特砂糖、12 椰棗。6-10 尚待補齊。",
+    "flags": [
+      "latest-taxonomy-auto-high",
+      "latest-taxonomy-auto-medium"
+    ],
+    "searchText": "請寫出下列「專有名詞」英翻中:\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano | |\n| 2 | Grappa / Marc | |\n| 3 | Noble Rot | |\n| 4 | Balut | |\n| 5 | Palmier | |\n| 6 | Bouillabaisse | |\n| 7 | Macadamia Nut | |\n| 8 | Prosciutto | |\n| 9 | Calculation Sheet | |\n| 10 | crème anglaise | |\n| 11 | Ultra-fine Sugar | |\n| 12 | Dates(提示:一種食材) | | 觀光餐旅業導論 [CH4 旅宿業] - [4-5 E 專有名詞] 4-5 E 專有名詞 本題為專有名詞英翻中,已依原卷整理為題號、英文名稱、中文名稱表格;已知答案:1 義大利香草酒、2 渣釀白蘭地、3 貴腐菌、4 鴨仔蛋、5 法式蝴蝶酥、11 特砂糖、12 椰棗。6-10 尚待補齊。",
     "sequence": 2116,
     "answer": "1:義大利香草酒、2:渣釀白蘭地、3:貴腐菌、4:鴨仔蛋、5:法式蝴蝶酥、11:特砂糖、12:椰棗；6-10 待補。"
   }

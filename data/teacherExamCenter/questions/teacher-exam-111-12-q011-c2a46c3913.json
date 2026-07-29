@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-111-12-q011-c2a46c3913",
     "sourceYear": 111,
@@ -38,16 +38,16 @@
     "answer": "11:D、12:C、13:A、14:B、15:A",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH1 觀光餐旅業基本觀念] - [1-4 觀光餐旅業發展的影響]",
-    "conceptId": "tourism-hospitality-059ffe1e0b",
-    "conceptLabel": "1-4 觀光餐旅業發展的影響",
+    "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
+    "conceptId": "tourism-hospitality-e7483426e2",
+    "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH1 觀光餐旅業基本觀念",
-        "locator": "閱讀題組：第 11-15 題",
-        "note": "依原始試題共同閱讀文章，將 111 關西第 11-15 題合併為單一題組呈現。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 E1 中國─菜系(菜餚)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=268, second=216。"
       }
     ],
     "explanation": {
@@ -56,17 +56,19 @@
       "optionExplanations": [],
       "references": [
         {
-          "source": "111餐旅群教師甄試合併檔 (列印) 29頁",
-          "chapter": "國立關西高級中學單選題閱讀題組",
-          "locator": "第 11-15 題",
-          "note": "依整理後原始題目與使用者提供內容修正。"
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-2 E1 中國─菜系(菜餚)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=268, second=216。"
         }
       ],
-      "updatedAt": "2026-07-28T20:45:00+08:00"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "（▲閱讀下文，回答第 11-15 題）\n全家國際餐飲旗下有三個餐飲品牌：「沃克牛排」、「大戶屋」及「bb.q CHICKEN」，運用 FamilyMart 累積的經營 Know-how 和資源，開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌，讓消費者在外食有較多且安心的選擇。\n11. 上述內容中所提的「Know-how」是指連鎖餐廳經營的：\n(A) 標準作業流程 (B) 加盟方式 (C) 顧客管理 (D) 專業知識\n12. 下列何行業非觀光餐旅業的範疇？\n(A) Disneyland Park (B) bb.q CHICKEN (C) Family Mart (D) World Gym\n13. 全家國際餐飲導入「健康」「無國界」的餐飲品牌提供給台灣的消費者，這是企業經營的哪種導向？\n(A) 社會行銷導向 (B) 行銷導向 (C) 銷售導向 (D) 生產導向\n14. 製作沃克牛排的經典菜 Ribeye Top Cap Steak（老饕牛排），為下列何內場廚師的職責？\n(A) Rotisseur (B) Grillardin (C) Patissier (D) Boulanger\n15. 在「大戶屋」的菜單中，應該看不到下列哪道菜？\n(A) 蔬菜拌飯 (B) 親子丼飯 (C) 炸里肌肉排飯 (D) 鰻魚蓋飯 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-4 觀光餐旅業發展的影響] 1-4 觀光餐旅業發展的影響 標準答案 11:D、12:C、13:A、14:B、15:A",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "11. 上述內容中所提的「Know-how」是指連鎖餐廳經營的:\n(A) 標準作業流程 (B) 加盟方式 (C) 顧客管理 (D) 專業知識\n12. 下列何行業非觀光餐旅業的範疇?\n(A) Disneyland Park (B) bb.q CHICKEN (C) Family Mart (D) World Gym\n13. 全家國際餐飲導入「健康」「無國界」的餐飲品牌提供給台灣的消費者,這是企業經營的哪種導向?\n(A) 社會行銷導向 (B) 行銷導向 (C) 銷售導向 (D) 生產導向\n14. 製作沃克牛排的經典菜 Ribeye Top Cap Steak(老饕牛排),為下列何內場廚師的職責?\n(A) Rotisseur (B) Grillardin (C) Patissier (D) Boulanger\n15. 在「大戶屋」的菜單中,應該看不到下列哪道菜?\n(A) 蔬菜拌飯 (B) 親子丼飯 (C) 炸里肌肉排飯 (D) 鰻魚蓋飯 (▲閱讀下文,回答第 11-15 題)\n全家國際餐飲旗下有三個餐飲品牌:「沃克牛排」、「大戶屋」及「bb.q CHICKEN」,運用 FamilyMart 累積的經營 Know-how 和資源,開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌,讓消費者在外食有較多且安心的選擇。 答案:D 答案:C 答案:A 答案:B 答案:A 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚) 本題組答案為 11:D、12:C、13:A、14:B、15:A。第 11 題 Know-how 指專業知識;第 12 題 Family Mart 屬便利商店,非觀光餐旅業範疇;第 13 題強調健康與安心選擇,符合社會行銷導向;第 14 題牛排煎烤屬 Grillardin;第 15 題大戶屋菜單不應出現蔬菜拌飯。",
     "sequence": 1742
   }
 }

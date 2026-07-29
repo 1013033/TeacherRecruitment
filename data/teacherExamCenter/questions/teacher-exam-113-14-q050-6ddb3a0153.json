@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-113-14-q050-6ddb3a0153",
     "sourceYear": 113,
@@ -33,24 +33,16 @@
     "answer": "B",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH7 觀光餐旅行銷] - [7-2 觀光餐旅業行銷意涵與演進]",
-    "conceptId": "tourism-hospitality-94e2d3a31d",
-    "conceptLabel": "7-2 觀光餐旅業行銷意涵與演進",
+    "unit": "[時事(法規、時事、政策、標章)] - [F2國外旅遊定型化契約]",
+    "conceptId": "tourism-hospitality-ade080a7f2",
+    "conceptLabel": "F2國外旅遊定型化契約",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH7 觀光餐旅行銷",
-        "locator": "7-2 觀光餐旅業行銷意涵與演進",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除 113-50 題尾誤接的 A-E 空選項與下一大題作答說明。"
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F2國外旅遊定型化契約",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=346, second=294。"
       }
     ],
     "explanation": {
@@ -80,31 +72,21 @@
       ],
       "references": [
         {
-          "source": "chapter-classification-files",
-          "chapter": "CH7 觀光餐旅行銷",
-          "locator": "7-2 觀光餐旅業行銷意涵與演進",
-          "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "觀光餐旅業導論-章節分類",
-          "chapter": "第三章 餐飲業",
-          "locator": "第三章 餐飲業",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "source": "manual",
+          "chapter": "時事(法規、時事、政策、標章)",
+          "locator": "F2國外旅遊定型化契約",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=346, second=294。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z",
+      "updatedAt": "2026-07-29T16:14:57.715Z",
       "generatedAt": "2026-07-28",
       "model": "manual-correction"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "113 年第 50 題 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 外交部規定國外旅遊警示之顏色與意涵，下列敘述何者正確？ 紅色警示：避免非必要旅行 灰色警示：提醒注意 藍色警示：特別注意旅遊安全並檢討是否前往 黃色警示：不宜前往 B 答案為 B。此題只保留 A-D 四個選項；原本接在題尾的 A-E 空選項與下一大題作答說明已移除。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "外交部規定國外旅遊警示之顏色與意涵,下列敘述何者正確? 紅色警示:避免非必要旅行 灰色警示:提醒注意 藍色警示:特別注意旅遊安全並檢討是否前往 黃色警示:不宜前往 觀光餐旅業導論 [時事(法規、時事、政策、標章)] - [F2國外旅遊定型化契約] F2國外旅遊定型化契約 答案為 B。此題只保留 A-D 四個選項;原本接在題尾的 A-E 空選項與下一大題作答說明已移除。 紅色警示不是「避免非必要旅行」。 灰色警示為提醒注意,符合題目所問。 此敘述不符合警示意涵。 黃色警示不是「不宜前往」。",
     "sequence": 2095
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-105-06-q001-dialogue1-2",
     "sourceYear": 105,
@@ -32,25 +32,41 @@
     ],
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH11 餐廳顧客抱怨及緊急事件處理] - [11-2 餐廳客訴及緊急事件處理]",
-    "conceptId": "foodservice-1ed9b6e972",
-    "conceptLabel": "11-2 餐廳客訴及緊急事件處理",
-    "relatedConceptIds": [
-      "foodservice-1cdb593773"
+    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
+    "conceptId": "foodservice-a0c78a2070",
+    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=108。"
+      }
     ],
-    "classificationBasis": "人工修正：原始資料將兩段情境對話的六個空格合併為簡答題，依空格拆成單選題；同一段對話只在第一小題顯示共同情境。",
     "explanation": {
       "status": "approved",
       "answerExplanation": "答案為 B。此題需參照情境對話內容作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-29",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH8 餐飲服務",
+          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=108。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
     "flags": [
-      "manual-split-question-group"
+      "manual-split-question-group",
+      "latest-taxonomy-auto-high",
+      "latest-taxonomy-auto-medium"
     ],
-    "searchText": "105 年金門情境對話 1-2 國立金門高級農工職業學校 105 學年度第一次教師甄選餐飲管理科試卷 情境對話 1\nJosh: Excuse me. Could we have a clean glass? There's a (1) ______ on this one.\nWaiter: I'm terribly sorry. I'll change it for you right away. (2) ______\nJosh: Thank you. Could you please bring us some Taiwan beer on your way back?\nWaiter: Certainly. (3) ______\nJosh: Bottle, please, with two glasses. CLEAN glasses.\nWaiter: I'll make sure the glasses are clean. One moment, please. 情境對話 1 第 (2) 空格，請選出正確選項。 A Straight or on the rocks? B Bottle or can? C All malt or dark? D Sweet or dry? B 餐飲服務技術 [CH11 餐廳顧客抱怨及緊急事件處理] - [11-2 餐廳客訴及緊急事件處理] 11-2 餐廳客訴及緊急事件處理 答案為 B。此題需參照情境對話內容作答。",
+    "searchText": "情境對話 1 第 (2) 空格,請選出正確選項。 Straight or on the rocks? Bottle or can? All malt or dark? Sweet or dry? 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 答案為 B。此題需參照情境對話內容作答。",
     "sequence": 1023.01,
     "answer": "B"
   }

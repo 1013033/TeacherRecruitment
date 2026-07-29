@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-109-10-q005-166f77cae5",
     "sourceYear": 109,
@@ -33,24 +33,16 @@
     "answer": "D",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-1 餐飲業的定義與特性]",
-    "conceptId": "tourism-hospitality-3f958e062e",
-    "conceptLabel": "3-1 餐飲業的定義與特性",
+    "unit": "[CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區]",
+    "conceptId": "tourism-hospitality-5ca0b17a43",
+    "conceptLabel": "1-5 B1國家級風景特定區",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-1 餐飲業的定義與特性",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除誤接在 D 選項後方的第 6、7 題成本計算題組共同題幹。"
+        "chapter": "CH1 觀光餐旅業基本觀念",
+        "locator": "1-5 B1國家級風景特定區",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=132, second=124。"
       }
     ],
     "explanation": {
@@ -58,11 +50,22 @@
       "answerExplanation": "答案為 D。已移除誤接在 D 選項後方的第 6、7 題共同題幹。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH1 觀光餐旅業基本觀念",
+          "locator": "1-5 B1國家級風景特定區",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=132, second=124。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "109 年第 5 題 一、選擇題，每題1分，共22分。 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 目前 (COVID-19) 肆虐全球，截至目前 20200531 為止，下列哪一個城市不屬於災情最嚴重的前三名所代表的國家？ D 觀光餐旅業導論 [CH3 餐飲業] - [3-1 餐飲業的定義與特性] 3-1 餐飲業的定義與特性 A NYC B MOW C SAO D LON。 答案為 D。已移除誤接在 D 選項後方的第 6、7 題共同題幹。",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "目前 (COVID-19) 肆虐全球,截至目前 20200531 為止,下列哪一個城市不屬於災情最嚴重的前三名所代表的國家? NYC MOW SAO LON。 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區] 1-5 B1國家級風景特定區 答案為 D。已移除誤接在 D 選項後方的第 6、7 題共同題幹。",
     "sequence": 1576
   }
 }

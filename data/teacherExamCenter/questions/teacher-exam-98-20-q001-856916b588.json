@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-98-20-q001-856916b588",
     "sourceYear": 98,
@@ -32,20 +32,16 @@
     ],
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH6 餐桌布置與擺設] - [6-2 西餐餐桌布置與擺設]",
-    "conceptId": "foodservice-ac604c4d33",
-    "conceptLabel": "6-2 西餐餐桌布置與擺設",
+    "unit": "[CH6 餐桌布置與擺設] - [6-2西餐餐桌布置與擺設]",
+    "conceptId": "foodservice-f82fc2dac2",
+    "conceptLabel": "6-2西餐餐桌布置與擺設",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH6 餐桌布置與擺設",
-        "locator": "6-2 西餐餐桌布置與擺設",
-        "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
+        "chapter": "CH6 餐桌布置與擺設",
+        "locator": "6-2西餐餐桌布置與擺設",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=24。"
       }
     ],
     "explanation": {
@@ -54,31 +50,20 @@
       "optionExplanations": [],
       "references": [
         {
-          "source": "chapter-classification-files",
+          "source": "manual",
           "chapter": "CH6 餐桌布置與擺設",
-          "locator": "6-2 西餐餐桌布置與擺設",
-          "note": "依「111年6月餐飲服務技術-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-        },
-        {
-          "source": "111年6月餐飲服務技術",
-          "chapter": "第十章 餐廳服務流程",
-          "locator": "西餐餐桌布置與擺設",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
-        },
-        {
-          "source": "111年6月餐飲服務技術-章節分類",
-          "chapter": "第一章 餐廳服務基本觀念",
-          "locator": "第一章 餐廳服務基本觀念",
-          "note": "由參考書章節目錄與題目關鍵詞定位"
+          "locator": "6-2西餐餐桌布置與擺設",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=24。"
         }
       ],
-      "updatedAt": "2026-07-27T15:51:42.468Z"
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "manual-restore-numeric-choice"
+      "manual-restore-numeric-choice",
+      "latest-taxonomy-auto-medium"
     ],
-    "searchText": "西餐餐具使用擺設順序是 由外往內 由內向外 由中間向外 客人使用方便就行。 餐飲服務技術 [CH6 餐桌布置與擺設] - [6-2 西餐餐桌布置與擺設] 6-2 西餐餐桌布置與擺設 此題已依原始試題修正為選擇題格式，解析需重新檢核。",
+    "searchText": "西餐餐具使用擺設順序是 由外往內 由內向外 由中間向外 客人使用方便就行。 餐飲服務技術 [CH6 餐桌布置與擺設] - [6-2西餐餐桌布置與擺設] 6-2西餐餐桌布置與擺設 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
     "sequence": 3288.99,
     "answer": "1"
   }

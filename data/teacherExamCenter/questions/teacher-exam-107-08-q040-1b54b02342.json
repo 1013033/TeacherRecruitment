@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-chapters-ee58421d72",
+  "dataVersion": "teacher-exam-latest-taxonomy-ab41caf86c",
   "question": {
     "id": "teacher-exam-107-08-q040-1b54b02342",
     "sourceYear": 107,
@@ -36,24 +36,16 @@
     ],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH4 旅宿業] - [4-3 旅宿業的類別與客房種類]",
-    "conceptId": "tourism-hospitality-ea777142d6",
-    "conceptLabel": "4-3 旅宿業的類別與客房種類",
+    "unit": "[CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)]",
+    "conceptId": "tourism-hospitality-319014f626",
+    "conceptLabel": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
-        "source": "chapter-classification-files",
-        "chapter": "CH4 旅宿業",
-        "locator": "4-3 旅宿業的類別與客房種類",
-        "note": "依「觀光餐旅業導論-章節分類.txt」的章節樹，使用題幹、選項、閱讀材料與既有概念文字比對至此小節。"
-      },
-      {
         "source": "manual",
-        "note": "已清除既有分類，等待重新依 RAG/試題/試題分類 人工或 Ollama 重新歸類。"
-      },
-      {
-        "source": "manual",
-        "note": "人工修正：移除 D 選項尾端誤併的頁碼「(／共5頁)」。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=136, second=136。"
       }
     ],
     "explanation": {
@@ -61,11 +53,22 @@
       "answerExplanation": "答案為 B、C。已移除 D 選項尾端誤併頁碼。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=136, second=136。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:14:57.715Z"
     },
     "reviewStatus": "approved",
-    "flags": [],
-    "searchText": "107 年第 40 題 未標示試卷 未標示學校 在一般住客客房服務中，請問以下之敘述，何者為正確？ ['B', 'C'] 觀光餐旅業導論 [CH4 旅宿業] - [4-3 旅宿業的類別與客房種類] 4-3 旅宿業的類別與客房種類 A Baby-sitter Service 是針對六歲以下的嬰幼兒 B Loaned Item Service 一般是免費的 C Extra Bed Service 一般以一床為限 D Baby Cot Service 一般是付費的。 答案為 B、C。已移除 D 選項尾端誤併頁碼。",
+    "flags": [
+      "latest-taxonomy-auto-medium"
+    ],
+    "searchText": "在一般住客客房服務中,請問以下之敘述,何者為正確? Baby-sitter Service 是針對六歲以下的嬰幼兒 Loaned Item Service 一般是免費的 Extra Bed Service 一般以一床為限 Baby Cot Service 一般是付費的。 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate) 答案為 B、C。已移除 D 選項尾端誤併頁碼。",
     "sequence": 1350
   }
 }
