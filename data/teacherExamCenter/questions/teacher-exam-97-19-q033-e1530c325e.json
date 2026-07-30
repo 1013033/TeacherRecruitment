@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-category-labels-cd12d1414b",
+  "dataVersion": "teacher-exam-evening-reviewed-2d788a2c06",
   "question": {
     "id": "teacher-exam-97-19-q033-e1530c325e",
     "sourceYear": 97,
@@ -32,20 +32,20 @@
     ],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)]",
-    "conceptId": "tourism-hospitality-319014f626",
-    "conceptLabel": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+    "unit": "[CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)]",
+    "conceptId": "tourism-hospitality-d55f8ce9e5",
+    "conceptLabel": "3-5 G 餐飲成本公式及計算(計算題)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
         "chapter": "CH3 餐飲業",
-        "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=50, second=14。"
+        "locator": "3-5 G 餐飲成本公式及計算(計算題)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-5 G 餐飲成本公式及計算(計算題)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 1（51 元）。",
       "optionExplanations": [
         {
@@ -69,18 +69,18 @@
         {
           "source": "manual",
           "chapter": "CH3 餐飲業",
-          "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=50, second=14。"
+          "locator": "3-5 G 餐飲成本公式及計算(計算題)",
+          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-5 G 餐飲成本公式及計算(計算題)"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-07-30T15:06:21.134Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-numeric-choice-restore",
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150730-evening"
     ],
-    "searchText": "鱈魚每百公克 15 元,已知每份成品 60 公克,烹調收縮率 70%,則 4 人份成本多少元? 51 元 60 元 105 元 110 元 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate) 本題原始試題以數字編號呈現選項,標準答案為 1(51 元)。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。",
+    "searchText": "鱈魚每百公克 15 元,已知每份成品 60 公克,烹調收縮率 70%,則 4 人份成本多少元? 51 元 60 元 105 元 110 元 觀光餐旅業導論 [CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)] 3-5 G 餐飲成本公式及計算(計算題) 本題原始試題以數字編號呈現選項,標準答案為 1(51 元)。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。",
     "sequence": 3103,
     "answer": "1"
   }
