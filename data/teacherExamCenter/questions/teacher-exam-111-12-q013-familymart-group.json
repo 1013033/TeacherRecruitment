@@ -2,36 +2,36 @@
   "schemaVersion": 1,
   "dataVersion": "teacher-exam-evening-reviewed-2d788a2c06",
   "question": {
-    "id": "teacher-exam-111-12-q011-c2a46c3913",
+    "id": "teacher-exam-111-12-q013-familymart-group",
     "sourceYear": 111,
-    "sourceLabel": "111 全國第 11 題",
+    "sourceLabel": "111 全國第 13 題",
     "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
     "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#offset-10014",
     "paperTitle": "一、單選題（每題 1 分，共 40 分）",
     "schoolName": "教育部受託辦理公立高級中等學校教師甄選",
-    "questionNumber": 11,
+    "questionNumber": 13,
     "questionType": "single-choice",
     "readingPassage": "（閱讀下文，回答第 11-15 題）\n全家國際餐飲旗下有三個餐飲品牌：「沃克牛排」、「大戶屋」及「bb.q CHICKEN」，運用 FamilyMart 累積的經營 Know-how 和資源，開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌，讓消費者在外食有較多且安心的選擇。",
-    "prompt": "上述內容中所提的「Know-how」是指連鎖餐廳經營的：",
+    "prompt": "全家國際餐飲導入「健康」「無國界」的餐飲品牌提供給台灣的消費者，這是企業經營的哪種導向？",
     "options": [
       {
         "id": "A",
-        "text": "標準作業流程"
+        "text": "社會行銷導向"
       },
       {
         "id": "B",
-        "text": "加盟方式"
+        "text": "行銷導向"
       },
       {
         "id": "C",
-        "text": "顧客管理"
+        "text": "銷售導向"
       },
       {
         "id": "D",
-        "text": "專業知識"
+        "text": "生產導向"
       }
     ],
-    "answer": "D",
+    "answer": "A",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
     "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
@@ -48,7 +48,7 @@
     ],
     "explanation": {
       "status": "approved",
-      "answerExplanation": "Know-how 是指從實務累積而來的專業知識與技術。",
+      "answerExplanation": "兼顧消費者需求與健康、安心等社會福祉，屬社會行銷導向。",
       "optionExplanations": [],
       "references": [
         {
@@ -58,14 +58,14 @@
           "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=268, second=216。"
         }
       ],
-      "updatedAt": "2026-07-31T03:03:08.526Z"
+      "updatedAt": "2026-07-31T03:03:08.528Z"
     },
     "reviewStatus": "approved",
     "flags": [
       "human-corrected-2026-07-31"
     ],
-    "searchText": "（閱讀下文，回答第 11-15 題）\n全家國際餐飲旗下有三個餐飲品牌：「沃克牛排」、「大戶屋」及「bb.q CHICKEN」，運用 FamilyMart 累積的經營 Know-how 和資源，開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌，讓消費者在外食有較多且安心的選擇。 上述內容中所提的「Know-how」是指連鎖餐廳經營的： (A) 標準作業流程 (B) 加盟方式 (C) 顧客管理 (D) 專業知識 答案：D 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚) Know-how 是指從實務累積而來的專業知識與技術。",
-    "sequence": 1742,
+    "searchText": "（閱讀下文，回答第 11-15 題）\n全家國際餐飲旗下有三個餐飲品牌：「沃克牛排」、「大戶屋」及「bb.q CHICKEN」，運用 FamilyMart 累積的經營 Know-how 和資源，開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌，讓消費者在外食有較多且安心的選擇。 全家國際餐飲導入「健康」「無國界」的餐飲品牌提供給台灣的消費者，這是企業經營的哪種導向？ (A) 社會行銷導向 (B) 行銷導向 (C) 銷售導向 (D) 生產導向 答案：A 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚) 兼顧消費者需求與健康、安心等社會福祉，屬社會行銷導向。",
+    "sequence": 1744,
     "questionGroupId": "111-national-familymart-dining-group"
   }
 }
