@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-ffadbd8b69",
     "subject": "foodservice",
@@ -27,7 +27,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 3,
+    "sampleQuestion": "關於工作檯（Service Station）的備品佈置擺設，何項物品擺放位置非於上層檯面？"
   },
   "questions": [
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "beverage-9d0c98dcdb",
     "subject": "beverage",
@@ -28,7 +28,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 4,
+    "sampleQuestion": "以下何者不是單品咖啡的名稱？"
   },
   "questions": [
     {

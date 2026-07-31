@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-d3ccba295a",
     "subject": "foodservice",
@@ -31,7 +31,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 6,
+    "sampleQuestion": "下列何種餐飲服務方式，服務叉匙的使用方法屬於左叉右匙法？"
   },
   "questions": [
     {

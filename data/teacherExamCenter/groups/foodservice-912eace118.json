@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-912eace118",
     "subject": "foodservice",
@@ -36,7 +36,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 8,
+    "sampleQuestion": "依據燃燒物質的不同，火災分為四類，因電器用品、變壓器、電壓配線等等電器設備所引發之火災是屬於哪一類火災？"
   },
   "questions": [
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-9b9b785dd1",
     "subject": "foodservice",
@@ -23,7 +23,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 1,
+    "sampleQuestion": "設計飲料單與酒單時應考慮那些結構？"
   },
   "questions": [
     {

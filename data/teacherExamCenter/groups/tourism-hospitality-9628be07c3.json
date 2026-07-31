@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-9628be07c3",
     "subject": "tourism-hospitality",
@@ -30,7 +30,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 5,
+    "sampleQuestion": "下列哪一項工作/職位與其他三者的主要工作場所，迥然不同？"
   },
   "questions": [
     {
@@ -396,7 +398,7 @@
       "schoolName": "115??",
       "questionNumber": 8,
       "questionType": "single-choice",
-      "prompt": "近代西餐專業廚房將工作區分為醬汁、冷廚、烘焙、肉品及蔬菜等部門，並由 各職位分工合作。此種「廚房分工制度」的建立與推廣，主要與下列何人有 關？",
+      "prompt": "近代西餐專業廚房將工作區分為醬汁、冷廚、烘焙、肉品及蔬菜等部門，並由各職位分工合作。此種「廚房分工制度」的建立與推廣，主要與下列何人有關？",
       "options": [
         {
           "id": "A",
@@ -466,8 +468,9 @@
         "taxonomy-auto-initial-high",
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "近代西餐專業廚房將工作區分為醬汁、冷廚、烘焙、肉品及蔬菜等部門,並由 各職位分工合作。此種「廚房分工制度」的建立與推廣,主要與下列何人有 關? 布里亞-薩瓦蘭(Brillat-Savarin) 奧古斯特・艾斯可菲(Auguste Escoffier) 路易・巴斯德(Louis Pasteur) 保羅・博古斯(Paul Bocuse) 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D 組織編制] 3-4 D 組織編制 答案與詳細解析待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
-      "sequence": 3476
+      "searchText": "近代西餐專業廚房將工作區分為醬汁、冷廚、烘焙、肉品及蔬菜等部門，並由各職位分工合作。此種「廚房分工制度」的建立與推廣，主要與下列何人有關？ A 布里亞-薩瓦蘭(Brillat-Savarin) B 奧古斯特・艾斯可菲(Auguste Escoffier) C 路易・巴斯德(Louis Pasteur) D 保羅・博古斯(Paul Bocuse) B 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D 組織編制] 3-4 D 組織編制 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3476,
+      "promptPreview": "近代西餐專業廚房將工作區分為醬汁、冷廚、烘焙、肉品及蔬菜等部門，並由各職位分工合作。此種「廚房分工制度」的建立與推廣，主要與下列何人有關？"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-c43db25e8e",
     "subject": "tourism-hospitality",
@@ -27,7 +27,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 3,
+    "sampleQuestion": "關於食用色素的敘述，下列何者正確？"
   },
   "questions": [
     {
@@ -209,7 +211,7 @@
       "schoolName": "115??",
       "questionNumber": 49,
       "questionType": "single-choice",
-      "prompt": "烘焙成品要精緻，顏色的運用最重要，所以食用色素要買對，請問以下的選項 那一個是合格的食用色素？",
+      "prompt": "烘焙成品要精緻，顏色的運用最重要，所以食用色素要買對，請問以下的選項那一個是合格的食用色素？",
       "options": [
         {
           "id": "A",
@@ -279,8 +281,9 @@
         "taxonomy-auto-initial-high",
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "烘焙成品要精緻,顏色的運用最重要,所以食用色素要買對,請問以下的選項 那一個是合格的食用色素? 紅色6號、7號,綠色3號 黃色4號、5號,藍色3號 藍色1號、2號,紅色9號 紫色1號、9號,黃色6號 觀光餐旅業導論 [中餐] - [H 中餐─食用色素] H 中餐─食用色素 答案與詳細解析待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
-      "sequence": 3517
+      "searchText": "烘焙成品要精緻，顏色的運用最重要，所以食用色素要買對，請問以下的選項那一個是合格的食用色素？ A 紅色6號、7號，綠色3號 B 黃色4號、5號，藍色3號 C 藍色1號、2號，紅色9號 D 紫色1號、9號，黃色6號 A 觀光餐旅業導論 [中餐] - [H 中餐─食用色素] H 中餐─食用色素 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3517,
+      "promptPreview": "烘焙成品要精緻，顏色的運用最重要，所以食用色素要買對，請問以下的選項那一個是合格的食用色素？"
     }
   ]
 }

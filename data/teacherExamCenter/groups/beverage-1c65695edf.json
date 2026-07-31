@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "beverage-1c65695edf",
     "subject": "beverage",
@@ -41,7 +41,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 10,
+    "sampleQuestion": "下列哪一種雞尾酒的調製方法不是使用「Layer」來調製？"
   },
   "questions": [
     {

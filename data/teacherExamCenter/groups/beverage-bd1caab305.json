@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "beverage-bd1caab305",
     "subject": "beverage",
@@ -39,7 +39,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 12,
+    "sampleQuestion": "下列哪一種沖泡咖啡的方法，不是以滴濾的原理來進行沖泡？"
   },
   "questions": [
     {

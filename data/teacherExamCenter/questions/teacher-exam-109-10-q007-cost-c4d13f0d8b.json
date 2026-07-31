@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "question": {
+    "id": "teacher-exam-109-10-q007-cost-c4d13f0d8b",
+    "sourceYear": 109,
+    "sourceLabel": "109 年第 7 題（成本計算題組）",
+    "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+    "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#manual-split-q7",
+    "paperTitle": "一、選擇題，每題1分，共22分。",
+    "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+    "questionNumber": 7,
+    "questionType": "single-choice",
+    "prompt": "假設這一盤菜的成本率設定為40%，請問這盤菜的售價應訂為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "80"
+      },
+      {
+        "id": "B",
+        "text": "100"
+      },
+      {
+        "id": "C",
+        "text": "120"
+      },
+      {
+        "id": "D",
+        "text": "150元。"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)]",
+    "conceptId": "tourism-hospitality-319014f626",
+    "conceptLabel": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=106, second=48。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案為 B。此題需以第 6 題題組的成本資料與成本率 40% 計算售價。",
+      "optionExplanations": [],
+      "generatedAt": "2026-07-28",
+      "model": "manual-correction",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=106, second=48。"
+        }
+      ],
+      "updatedAt": "2026-07-29T16:46:06.977Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "latest-taxonomy-auto-high"
+    ],
+    "searchText": "假設這一盤菜的成本率設定為40%，請問這盤菜的售價應訂為？ 第 6、7 題之題組\n有一家餐廳的進貨量是青椒100斤，每斤40元，去蒂後、淨得青椒80斤。豬肉50斤，每斤90元，去肥油後，淨得瘦豬肉45斤。請回答下列問題： A 80 B 100 C 120 D 150元。 B 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate) 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 答案為 B。此題需以第 6 題題組的成本資料與成本率 40% 計算售價。",
+    "sequence": 1577.1,
+    "readingPassage": "第 6、7 題之題組\n有一家餐廳的進貨量是青椒100斤，每斤40元，去蒂後、淨得青椒80斤。豬肉50斤，每斤90元，去肥油後，淨得瘦豬肉45斤。請回答下列問題：",
+    "promptPreview": "假設這一盤菜的成本率設定為40%，請問這盤菜的售價應訂為？"
+  }
+}

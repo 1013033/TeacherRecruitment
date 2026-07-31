@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "beverage-86ba6cb072",
     "subject": "beverage",
@@ -23,7 +23,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 1,
+    "sampleQuestion": "世界咖啡三大生產區，分別為中南美洲、阿拉伯非洲以及東南亞洲圈，下列選項中何者與其他三者非屬同一生產區？"
   },
   "questions": [
     {

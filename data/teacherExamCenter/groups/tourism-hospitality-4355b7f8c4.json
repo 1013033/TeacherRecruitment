@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-4355b7f8c4",
     "subject": "tourism-hospitality",
@@ -29,7 +29,7 @@
     "reviewStatus": "approved",
     "unresolvedCount": 0,
     "questionCount": 4,
-    "sampleQuestion": "麵糊的溫度及比重是製作蛋糕成敗的兩大因素,請說明？"
+    "sampleQuestion": "麵糊的溫度及比重是製作蛋糕成敗的兩大因素，請說明？"
   },
   "questions": [
     {
@@ -171,7 +171,7 @@
       "schoolName": "115??",
       "questionNumber": 16,
       "questionType": "single-choice",
-      "prompt": "判斷麵包最後發酵狀態時，以手指輕壓麵糰，凹痕明顯且幾乎不回復，麵糰稍 受震動即可能塌陷。此狀態最可能為何？",
+      "prompt": "判斷麵包最後發酵狀態時，以手指輕壓麵糰，凹痕明顯且幾乎不回復，麵糰稍受震動即可能塌陷。此狀態最可能為何？",
       "options": [
         {
           "id": "A",
@@ -240,8 +240,9 @@
       "flags": [
         "taxonomy-auto-initial-high"
       ],
-      "searchText": "判斷麵包最後發酵狀態時,以手指輕壓麵糰,凹痕明顯且幾乎不回復,麵糰稍 受震動即可能塌陷。此狀態最可能為何? 尚未開始發酵 發酵不足 發酵過度 攪拌不足 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析",
-      "sequence": 3484
+      "searchText": "判斷麵包最後發酵狀態時，以手指輕壓麵糰，凹痕明顯且幾乎不回復，麵糰稍受震動即可能塌陷。此狀態最可能為何？ A 尚未開始發酵 B 發酵不足 C 發酵過度 D 攪拌不足 C 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3484,
+      "promptPreview": "判斷麵包最後發酵狀態時，以手指輕壓麵糰，凹痕明顯且幾乎不回復，麵糰稍受震動即可能塌陷。此狀態最可能為何？"
     },
     {
       "id": "teacher-exam-shuili-q050-d7c19a681f",

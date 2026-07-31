@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-0da4d7a389",
     "subject": "foodservice",
@@ -25,7 +25,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 2,
+    "sampleQuestion": "下午茶供應時間通常為14:00~17:00，正式英式下午茶通常會使用High Tier Stand盛裝食物，試問哪些餐點會放於中間層？"
   },
   "questions": [
     {

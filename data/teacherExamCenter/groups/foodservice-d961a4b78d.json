@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-d961a4b78d",
     "subject": "foodservice",
@@ -53,7 +53,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 22,
+    "sampleQuestion": "安排宴會席次的 3P，以下何者為非？"
   },
   "questions": [
     {

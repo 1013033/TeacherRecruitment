@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "beverage-c9be3f7ea8",
     "subject": "beverage",
@@ -23,7 +23,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 1,
+    "sampleQuestion": "請寫出咖啡烘焙度的深淺對咖啡豆的影響。"
   },
   "questions": [
     {

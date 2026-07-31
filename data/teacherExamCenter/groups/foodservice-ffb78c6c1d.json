@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-ffb78c6c1d",
     "subject": "foodservice",
@@ -34,7 +34,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 7,
+    "sampleQuestion": "菜單工程（Menu engineering）是指將菜單項目，以邊際貢獻率與產品點菜率，作為其象限分類的依據，決定菜餚的價值與存廢與否。試問：若某項菜餚邊際貢獻率高、產品點菜率低，適合運用促銷來增加其銷售量，則該菜餚屬於菜單工程中的哪一類型呢？"
   },
   "questions": [
     {

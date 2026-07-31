@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-32b64ec107",
     "subject": "foodservice",
@@ -44,7 +44,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 14,
+    "sampleQuestion": "旅館的服務中心又稱為 ABC 團隊，請寫出其英文全名：A是指 Airport Representative、B是指 Bell Service、C是指 Concierge。"
   },
   "questions": [
     {

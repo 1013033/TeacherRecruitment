@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-eeb358cfac",
     "subject": "tourism-hospitality",
@@ -33,7 +33,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 7,
+    "sampleQuestion": "In Europe and some other countries the ______ Plan is referred to as Full Pension or Full Board."
   },
   "questions": [
     {
@@ -445,7 +447,7 @@
       "schoolName": "國立曾文家商 94學年度教師甄選餐飲管理科試題",
       "questionNumber": 10,
       "questionType": "single-choice",
-      "prompt": "就旅館的收費制度而言，不包含三餐餐飲的計費，只含旅館房間住宿的計費制度稱之 為：",
+      "prompt": "就旅館的收費制度而言，不包含三餐餐飲的計費，只含旅館房間住宿的計費制度稱之為：",
       "options": [
         {
           "id": "A",
@@ -515,11 +517,12 @@
       "flags": [
         "human-reviewed-1150731-morning"
       ],
-      "searchText": "就旅館的收費制度而言,不包含三餐餐飲的計費,只含旅館房間住宿的計費制度稱之 為: American Plan Hotel European Plan Hotel Continental Plan Hotel Bermuda Plan Hotel。 觀光餐旅業導論 [CH4 旅宿業] - [4-5 B1 旅館房租計價方式(房租&早餐)] 4-5 B1 旅館房租計價方式(房租&早餐) 旅館房租計價方式中,歐式計價法(European Plan, EP)是指客房房價僅包含房間住宿費用,不包含任何餐食。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 American Plan(美式計價)房價包含住宿及三餐。 European Plan(歐式計價)僅包含住宿,不含餐飲。 Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。",
+      "searchText": "就旅館的收費制度而言，不包含三餐餐飲的計費，只含旅館房間住宿的計費制度稱之為： A American Plan Hotel B European Plan Hotel C Continental Plan Hotel D Bermuda Plan Hotel。 B 觀光餐旅業導論 [CH4 旅宿業] - [4-5 B1 旅館房租計價方式(房租&早餐)] 4-5 B1 旅館房租計價方式(房租&早餐) 國立曾文家商 94學年度教師甄選餐飲管理科試題 旅館房租計價方式中,歐式計價法(European Plan, EP)是指客房房價僅包含房間住宿費用,不包含任何餐食。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:American Plan(美式計價)房價包含住宿及三餐。 B:European Plan(歐式計價)僅包含住宿,不含餐飲。 C:Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D:Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：American Plan(美式計價)房價包含住宿及三餐。 B：European Plan(歐式計價)僅包含住宿,不含餐飲。 C：Continental Plan(歐陸式計價)包含住宿及一頓歐陸式早餐。 D：Bermuda Plan(百慕達式計價)包含住宿及一頓美式早餐。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "sequence": 2677,
       "relatedConceptIds": [],
       "conceptLabel": "4-5 B1 旅館房租計價方式(房租&早餐)",
-      "conceptId": "tourism-hospitality-eeb358cfac"
+      "conceptId": "tourism-hospitality-eeb358cfac",
+      "promptPreview": "就旅館的收費制度而言，不包含三餐餐飲的計費，只含旅館房間住宿的計費制度稱之為："
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-aea578d6f0",
     "subject": "tourism-hospitality",
@@ -23,7 +23,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 1,
+    "sampleQuestion": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合，製成麵糊，在 烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化 劑？"
   },
   "questions": [
     {
@@ -36,7 +38,7 @@
       "schoolName": "115??",
       "questionNumber": 44,
       "questionType": "single-choice",
-      "prompt": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合，製成麵糊，在 烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化 劑？",
+      "prompt": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合，製成麵糊，在烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化劑？",
       "options": [
         {
           "id": "A",
@@ -106,8 +108,9 @@
         "taxonomy-auto-initial-high",
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合,製成麵糊,在 烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化 劑? Roux Liaison Corn starch Beurre manie 觀光餐旅業導論 [西餐] - [E西餐─稠化劑] E西餐─稠化劑 答案與詳細解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。",
-      "sequence": 3512
+      "searchText": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合，製成麵糊，在烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化劑？ A Roux B Liaison C Corn starch D Beurre manie D 觀光餐旅業導論 [西餐] - [E西餐─稠化劑] E西餐─稠化劑 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3512,
+      "promptPreview": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合，製成麵糊，在烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化劑？"
     }
   ]
 }

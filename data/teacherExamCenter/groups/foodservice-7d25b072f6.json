@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-7d25b072f6",
     "subject": "foodservice",
@@ -28,7 +28,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 4,
+    "sampleQuestion": "餐具殘留物質檢查中，使用「碘」通常是檢測哪一種殘留？"
   },
   "questions": [
     {

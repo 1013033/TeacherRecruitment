@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-d2e3bc182d",
     "subject": "tourism-hospitality",
@@ -29,7 +29,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 5,
+    "sampleQuestion": "請說明「柔性材料」與「韌性材料」。 2. 阿德要用直接攪拌法做麵包，麵團的理想溫度為 25°C，室溫則為 27°C，麵粉溫度 23°C，機器使用後之摩擦增高溫為 21°C，那麼他要用幾度的水溫才適合？ 3. 請說明「consommé」與「purée」。 4. 請說明「Gaba Tea」與「Masala Tea」。"
   },
   "questions": [
     {
@@ -255,7 +257,7 @@
       "schoolName": "115??",
       "questionNumber": 14,
       "questionType": "single-choice",
-      "prompt": "高糖配方蛋糕通常較一般蛋糕柔軟、濕潤，但烘烤定型時間可能較長。此現象 主要與砂糖的何種作用有關？",
+      "prompt": "高糖配方蛋糕通常較一般蛋糕柔軟、濕潤，但烘烤定型時間可能較長。此現象主要與砂糖的何種作用有關？",
       "options": [
         {
           "id": "A",
@@ -324,8 +326,9 @@
       "flags": [
         "taxonomy-auto-initial-high"
       ],
-      "searchText": "高糖配方蛋糕通常較一般蛋糕柔軟、濕潤,但烘烤定型時間可能較長。此現象 主要與砂糖的何種作用有關? 砂糖具有吸濕性,並會延緩澱粉糊化及蛋白質凝固 砂糖會完全破壞麵粉中的澱粉 砂糖會使所有油脂立即凝固 砂糖會降低麵糊中的水分含量至零 觀光餐旅業導論 [烘焙] - [烘焙─材料特性] 烘焙─材料特性",
-      "sequence": 3482
+      "searchText": "高糖配方蛋糕通常較一般蛋糕柔軟、濕潤，但烘烤定型時間可能較長。此現象主要與砂糖的何種作用有關？ A 砂糖具有吸濕性，並會延緩澱粉糊化及蛋白質凝固 B 砂糖會完全破壞麵粉中的澱粉 C 砂糖會使所有油脂立即凝固 D 砂糖會降低麵糊中的水分含量至零 A 觀光餐旅業導論 [烘焙] - [烘焙─材料特性] 烘焙─材料特性 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3482,
+      "promptPreview": "高糖配方蛋糕通常較一般蛋糕柔軟、濕潤，但烘烤定型時間可能較長。此現象主要與砂糖的何種作用有關？"
     },
     {
       "id": "teacher-exam-shuili-q017-4aac0fdb0c",

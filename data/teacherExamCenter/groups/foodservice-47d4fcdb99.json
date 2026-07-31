@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-47d4fcdb99",
     "subject": "foodservice",
@@ -27,7 +27,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 3,
+    "sampleQuestion": "日本料理店中的烤雞腿，其歸屬於菜單中何項類別？"
   },
   "questions": [
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-2f6b5a3349",
     "subject": "foodservice",
@@ -23,7 +23,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 1,
+    "sampleQuestion": "中餐廳服務流程正確之順序為何？"
   },
   "questions": [
     {

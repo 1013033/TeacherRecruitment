@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-9472e29168",
     "subject": "tourism-hospitality",
@@ -28,7 +28,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 4,
+    "sampleQuestion": "有關西餐常用的香料與辛香料敘述，何者錯誤？"
   },
   "questions": [
     {
@@ -296,7 +298,7 @@
       "schoolName": "115??",
       "questionNumber": 41,
       "questionType": "single-choice",
-      "prompt": "那一種香草植物有舒緩消化系統與去除口中異味作用，常適合加入沙拉，略有 大茴香的氣味？",
+      "prompt": "那一種香草植物有舒緩消化系統與去除口中異味作用，常適合加入沙拉，略有大茴香的氣味？",
       "options": [
         {
           "id": "A",
@@ -366,8 +368,9 @@
         "taxonomy-auto-initial-high",
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "那一種香草植物有舒緩消化系統與去除口中異味作用,常適合加入沙拉,略有 大茴香的氣味? Tarragon Mint Dill Thyme 觀光餐旅業導論 [西餐] - [G西餐─香料] G西餐─香料 答案與詳細解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。",
-      "sequence": 3509
+      "searchText": "那一種香草植物有舒緩消化系統與去除口中異味作用，常適合加入沙拉，略有大茴香的氣味？ A Tarragon B Mint C Dill D Thyme C 觀光餐旅業導論 [西餐] - [G西餐─香料] G西餐─香料 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3509,
+      "promptPreview": "那一種香草植物有舒緩消化系統與去除口中異味作用，常適合加入沙拉，略有大茴香的氣味？"
     }
   ]
 }

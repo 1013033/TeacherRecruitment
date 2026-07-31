@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-aad98cc7cb",
     "subject": "tourism-hospitality",
@@ -23,7 +23,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 1,
+    "sampleQuestion": "餐廳供應下列四道菜，依其烹調法與菜餚特色搭配適合的盤器，下列那一組的 配對最適合？"
   },
   "questions": [
     {
@@ -36,7 +38,7 @@
       "schoolName": "115??",
       "questionNumber": 37,
       "questionType": "single-choice",
-      "prompt": "餐廳供應下列四道菜，依其烹調法與菜餚特色搭配適合的盤器，下列那一組的 配對最適合？",
+      "prompt": "餐廳供應下列四道菜，依其烹調法與菜餚特色搭配適合的盤器，下列那一組的配對最適合？",
       "options": [
         {
           "id": "A",
@@ -106,8 +108,9 @@
         "taxonomy-auto-initial-high",
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "餐廳供應下列四道菜,依其烹調法與菜餚特色搭配適合的盤器,下列那一組的 配對最適合? 紅燒獅子頭-美耐皿。冷甜湯-瓷器類 燒賣-竹蒸籠。砂鍋魚頭-陶器砂鍋 三杯雞-玻璃碗。冷前菜-美耐皿 蒸餃-竹蒸籠。水果拼盤-陶鍋 觀光餐旅業導論 [中餐] - [I 中餐─使用器皿] I 中餐─使用器皿 答案與詳細解析待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
-      "sequence": 3505
+      "searchText": "餐廳供應下列四道菜，依其烹調法與菜餚特色搭配適合的盤器，下列那一組的配對最適合？ A 紅燒獅子頭-美耐皿。冷甜湯-瓷器類 B 燒賣-竹蒸籠。砂鍋魚頭-陶器砂鍋 C 三杯雞-玻璃碗。冷前菜-美耐皿 D 蒸餃-竹蒸籠。水果拼盤-陶鍋 B 觀光餐旅業導論 [中餐] - [I 中餐─使用器皿] I 中餐─使用器皿 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3505,
+      "promptPreview": "餐廳供應下列四道菜，依其烹調法與菜餚特色搭配適合的盤器，下列那一組的配對最適合？"
     }
   ]
 }

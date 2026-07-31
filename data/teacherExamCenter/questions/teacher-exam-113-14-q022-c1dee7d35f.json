@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "question": {
     "id": "teacher-exam-113-14-q022-c1dee7d35f",
     "sourceYear": 113,
@@ -11,7 +11,7 @@
     "schoolName": "113年公立高級中等學校教師甄選",
     "questionNumber": 22,
     "questionType": "single-choice",
-    "prompt": "小白是一家飯店的員工，他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作 帳，飯店內所有的客房都有1～2 間臥室外加一個小客廳的配備，非常適合親子旅遊， 而旅館本身的財務、人事完全獨立，僅掛這間連鎖旅館的商標，總公司會常派人不定 期抽驗，符合繼續續約，反之可能終止契約，請問以下何者正確？",
+    "prompt": "小白是一家飯店的員工，他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作帳，飯店內所有的客房都有1～2 間臥室外加一個小客廳的配備，非常適合親子旅遊， 而旅館本身的財務、人事完全獨立，僅掛這間連鎖旅館的商標，總公司會常派人不定期抽驗，符合繼續續約，反之可能終止契約，請問以下何者正確？",
     "options": [
       {
         "id": "A",
@@ -65,7 +65,8 @@
     "flags": [
       "latest-taxonomy-auto-high"
     ],
-    "searchText": "小白是一家飯店的員工,他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作 帳,飯店內所有的客房都有1~2 間臥室外加一個小客廳的配備,非常適合親子旅遊, 而旅館本身的財務、人事完全獨立,僅掛這間連鎖旅館的商標,總公司會常派人不定 期抽驗,符合繼續續約,反之可能終止契約,請問以下何者正確? 小白職務為 Night Manager/飯店型態 Villa/連鎖方式 Management Contract 小白職務為 Reservation Clerk/飯店型態 All Suites/連鎖方式 Franchise 小白職務為 Operator/飯店型態 Resort/連鎖方式 Franchise 小白職務為 Reception/飯店型態 City Hotel/連鎖方式 Management Contract。 觀光餐旅業導論 [CH5 旅行業] - [5-5 F 護照] 5-5 F 護照 答案為 B。GTD 與 No Show 資料通常屬訂房相關作業;全套房型態為 All Suites;財務、人事獨立但掛連鎖品牌且受總公司稽核,符合 Franchise 特徵。",
-    "sequence": 2019
+    "searchText": "小白是一家飯店的員工，他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作帳，飯店內所有的客房都有1～2 間臥室外加一個小客廳的配備，非常適合親子旅遊， 而旅館本身的財務、人事完全獨立，僅掛這間連鎖旅館的商標，總公司會常派人不定期抽驗，符合繼續續約，反之可能終止契約，請問以下何者正確？ A 小白職務為 Night Manager/飯店型態 Villa/連鎖方式 Management Contract B 小白職務為 Reservation Clerk/飯店型態 All Suites/連鎖方式 Franchise C 小白職務為 Operator/飯店型態 Resort/連鎖方式 Franchise D 小白職務為 Reception/飯店型態 City Hotel/連鎖方式 Management Contract。 B 觀光餐旅業導論 [CH5 旅行業] - [5-5 F 護照] 5-5 F 護照 113年公立高級中等學校教師甄選 答案為 B。GTD 與 No Show 資料通常屬訂房相關作業；全套房型態為 All Suites；財務、人事獨立但掛連鎖品牌且受總公司稽核，符合 Franchise 特徵。",
+    "sequence": 2019,
+    "promptPreview": "小白是一家飯店的員工，他的工作內容包含將 GTD 及 No Show 的資料轉交財務部作帳，飯店內所有的客房都有1～2 間臥室外加一個小客廳的配備，非常適合親子旅遊， 而旅館本身的財務、人事完全獨立，僅掛這間連鎖旅館的商標，總公司會常派人不定期抽驗，符合繼續續約，反之可能終止契約，請問以下何者正確？"
   }
 }

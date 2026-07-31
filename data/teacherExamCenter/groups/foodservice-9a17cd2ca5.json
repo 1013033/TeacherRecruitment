@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-9a17cd2ca5",
     "subject": "foodservice",
@@ -23,7 +23,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 1,
+    "sampleQuestion": "服務人員於 Gueridon Service 中會進行以下各種服務方式，請針對下列各式服務方式列舉一道經典菜餚。 (1) Flambé (2) Carving (3) Making (4) Tossing (5) Slicing (6) Filleting"
   },
   "questions": [
     {

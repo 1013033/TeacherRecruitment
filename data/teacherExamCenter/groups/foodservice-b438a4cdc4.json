@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "foodservice-b438a4cdc4",
     "subject": "foodservice",
@@ -46,7 +46,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 15,
+    "sampleQuestion": "下述西餐傳統菜單（classic menu），請依上菜順序排列 甲、Hors D'oeuvre Froid；乙、Rôti；丙、Potage；丁、Poisson；戊、Entremets；己、Sorbets；庚、Entree Chaude"
   },
   "questions": [
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-question-fixes-d4af7828a0",
+  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
   "concept": {
     "id": "tourism-hospitality-620022b1ce",
     "subject": "tourism-hospitality",
@@ -30,7 +30,9 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 5,
+    "sampleQuestion": "麵包直接法配方中，已知水用量為 360g，理想水溫為 5°C，自來水溫為 20°C，該日室溫為 28°C，冰用量為："
   },
   "questions": [
     {
@@ -270,7 +272,7 @@
       "schoolName": "115??",
       "questionNumber": 15,
       "questionType": "single-choice",
-      "prompt": "原配方可製作24個、每個麵糰重65公克的餐包。若規格不變，欲製作40個餐 包，配方材料的換算倍數約為多少？",
+      "prompt": "原配方可製作24個、每個麵糰重65公克的餐包。若規格不變，欲製作40個餐包，配方材料的換算倍數約為多少？",
       "options": [
         {
           "id": "A",
@@ -339,8 +341,9 @@
       "flags": [
         "taxonomy-auto-initial-high"
       ],
-      "searchText": "原配方可製作24個、每個麵糰重65公克的餐包。若規格不變,欲製作40個餐 包,配方材料的換算倍數約為多少? 1.25倍 1.67倍 2.40倍 2.67倍 觀光餐旅業導論 [烘焙] - [烘焙─計算題] 烘焙─計算題",
-      "sequence": 3483
+      "searchText": "原配方可製作24個、每個麵糰重65公克的餐包。若規格不變，欲製作40個餐包，配方材料的換算倍數約為多少？ A 1.25倍 B 1.67倍 C 2.40倍 D 2.67倍 B 觀光餐旅業導論 [烘焙] - [烘焙─計算題] 烘焙─計算題 115?? 答案與詳細解析待人工審核。",
+      "sequence": 3483,
+      "promptPreview": "原配方可製作24個、每個麵糰重65公克的餐包。若規格不變，欲製作40個餐包，配方材料的換算倍數約為多少？"
     }
   ]
 }
