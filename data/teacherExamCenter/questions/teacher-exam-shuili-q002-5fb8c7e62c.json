@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q002-5fb8c7e62c",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 2 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-178",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 2,
+    "questionType": "single-choice",
+    "prompt": "下列何者最符合一般「紅燒」技法的烹調特性?",
+    "options": [
+      {
+        "id": "A",
+        "text": "原料不經調色,只用清水蒸熟"
+      },
+      {
+        "id": "B",
+        "text": "原料經煎、炸或煸炒後,加入醬油、糖及湯汁燒至入味"
+      },
+      {
+        "id": "C",
+        "text": "原料以大量冷油長時間浸泡至熟"
+      },
+      {
+        "id": "D",
+        "text": "原料完全不加湯汁,以鹽乾炒至焦香"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[中餐] - [B中餐─油溫&火侯]",
+    "conceptId": "tourism-hospitality-3871d7169b",
+    "conceptLabel": "B中餐─油溫&火侯",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "B中餐─油溫&火侯",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "錯誤原因待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "中餐",
+          "locator": "B中餐─油溫&火侯",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "下列何者最符合一般「紅燒」技法的烹調特性? 原料不經調色,只用清水蒸熟 原料經煎、炸或煸炒後,加入醬油、糖及湯汁燒至入味 原料以大量冷油長時間浸泡至熟 原料完全不加湯汁,以鹽乾炒至焦香 觀光餐旅業導論 [中餐] - [B中餐─油溫&火侯] B中餐─油溫&火侯",
+    "sequence": 3470
+  }
+}

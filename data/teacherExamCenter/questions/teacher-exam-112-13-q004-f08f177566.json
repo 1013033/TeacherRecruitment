@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-evening-reviewed-2d788a2c06",
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
   "question": {
     "id": "teacher-exam-112-13-q004-f08f177566",
     "sourceYear": 112,
@@ -13,7 +13,14 @@
     "questionType": "essay",
     "questionGroupId": "112-jiaqi-air-ticket-group",
     "questionGroupTitle": "112 家齊航空行程與電子機票題組",
-    "images": [{ "id": "112-jiaqi-air-ticket", "src": "data/teacherExamCenter/images/112-jiaqi-air-ticket.jpeg", "alt": "112 家齊題組共用航空行程與電子機票圖片", "caption": "第 1–10 題共用資料" }],
+    "images": [
+      {
+        "id": "112-jiaqi-air-ticket",
+        "src": "data/teacherExamCenter/images/112-jiaqi-air-ticket.jpeg",
+        "alt": "112 家齊題組共用航空行程與電子機票圖片",
+        "caption": "第 1–10 題共用資料"
+      }
+    ],
     "prompt": "訂位代碼",
     "options": [],
     "subject": "tourism-hospitality",

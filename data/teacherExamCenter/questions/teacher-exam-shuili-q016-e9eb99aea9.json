@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q016-e9eb99aea9",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 16 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-2091",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 16,
+    "questionType": "single-choice",
+    "prompt": "判斷麵包最後發酵狀態時,以手指輕壓麵糰,凹痕明顯且幾乎不回復,麵糰稍 受震動即可能塌陷。此狀態最可能為何?",
+    "options": [
+      {
+        "id": "A",
+        "text": "尚未開始發酵"
+      },
+      {
+        "id": "B",
+        "text": "發酵不足"
+      },
+      {
+        "id": "C",
+        "text": "發酵過度"
+      },
+      {
+        "id": "D",
+        "text": "攪拌不足"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[烘焙] - [烘焙─產品分析]",
+    "conceptId": "tourism-hospitality-4355b7f8c4",
+    "conceptLabel": "烘焙─產品分析",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "烘焙",
+        "locator": "烘焙─產品分析",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "錯誤原因待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "烘焙",
+          "locator": "烘焙─產品分析",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "判斷麵包最後發酵狀態時,以手指輕壓麵糰,凹痕明顯且幾乎不回復,麵糰稍 受震動即可能塌陷。此狀態最可能為何? 尚未開始發酵 發酵不足 發酵過度 攪拌不足 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析",
+    "sequence": 3484
+  }
+}

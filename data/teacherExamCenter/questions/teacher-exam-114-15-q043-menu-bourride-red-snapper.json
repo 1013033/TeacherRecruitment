@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-evening-reviewed-2d788a2c06",
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
   "question": {
     "id": "teacher-exam-114-15-q043-menu-bourride-red-snapper",
     "sourceYear": 114,
@@ -33,20 +33,20 @@
     "answer": "C",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
-    "conceptId": "foodservice-a0c78a2070",
-    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+    "unit": "[CH6 餐桌布置與擺設] - [6-2 A 西餐餐桌擺設]",
+    "conceptId": "foodservice-63231f4097",
+    "conceptLabel": "6-2 A 西餐餐桌擺設",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH8 餐飲服務",
-        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=80, second=44。"
+        "chapter": "CH6 餐桌布置與擺設",
+        "locator": "6-2 A 西餐餐桌擺設",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-2 A 西餐餐桌擺設"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 C。此題需參照共同菜單資訊作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-29",
@@ -54,19 +54,19 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH8 餐飲服務",
-          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=80, second=44。"
+          "chapter": "CH6 餐桌布置與擺設",
+          "locator": "6-2 A 西餐餐桌擺設",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-2 A 西餐餐桌擺設"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-07-31T06:59:43.629Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-split-question-group",
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150731-morning"
     ],
-    "searchText": "請問上述菜單,左右兩側餐具(由右到左)應該怎麼擺設? Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader Clear Spoon、Fish Knife、Fish Fork、Butter Spreader Clear Spoon、Table Knife、Table Fork、Butter Spreader 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 答案為 C。此題需參照共同菜單資訊作答。",
+    "searchText": "請問上述菜單,左右兩側餐具(由右到左)應該怎麼擺設? Cream Soup Spoon、Fish Knife、Fish Fork、Butter Spreader Cream Soup Spoon、Table Knife、Table Fork、Butter Spreader Clear Spoon、Fish Knife、Fish Fork、Butter Spreader Clear Spoon、Table Knife、Table Fork、Butter Spreader 餐飲服務技術 [CH6 餐桌布置與擺設] - [6-2 A 西餐餐桌擺設] 6-2 A 西餐餐桌擺設 答案為 C。此題需參照共同菜單資訊作答。",
     "sequence": 2330.3
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-evening-reviewed-2d788a2c06",
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
   "concept": {
     "id": "tourism-hospitality-dd3d631b1a",
     "subject": "tourism-hospitality",
@@ -949,7 +949,14 @@
       "questionType": "essay",
       "questionGroupId": "112-jiaqi-air-ticket-group",
       "questionGroupTitle": "112 家齊航空行程與電子機票題組",
-      "images": [{ "id": "112-jiaqi-air-ticket", "src": "data/teacherExamCenter/images/112-jiaqi-air-ticket.jpeg", "alt": "112 家齊題組共用航空行程與電子機票圖片", "caption": "第 1–10 題共用資料" }],
+      "images": [
+        {
+          "id": "112-jiaqi-air-ticket",
+          "src": "data/teacherExamCenter/images/112-jiaqi-air-ticket.jpeg",
+          "alt": "112 家齊題組共用航空行程與電子機票圖片",
+          "caption": "第 1–10 題共用資料"
+        }
+      ],
       "prompt": "請問以此行程，可以判斷適用第幾航權？請解釋此航權，並說明為什麼？",
       "options": [],
       "subject": "tourism-hospitality",

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q044-cd216aef48",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 44 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-5456",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 44,
+    "questionType": "single-choice",
+    "prompt": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合,製成麵糊,在 烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化 劑?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Roux"
+      },
+      {
+        "id": "B",
+        "text": "Liaison"
+      },
+      {
+        "id": "C",
+        "text": "Corn starch"
+      },
+      {
+        "id": "D",
+        "text": "Beurre manie"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[西餐] - [E西餐─稠化劑]",
+    "conceptId": "tourism-hospitality-aea578d6f0",
+    "conceptLabel": "E西餐─稠化劑",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "E西餐─稠化劑",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "西餐",
+          "locator": "E西餐─稠化劑",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "稠化劑是將醬汁稠化重要的成份,「用等分量的麵粉、奶油混合,製成麵糊,在 烹調結束前若發現稠度不夠時可用來微調醬汁濃度」,指的是下列那一個稠化 劑? Roux Liaison Corn starch Beurre manie 觀光餐旅業導論 [西餐] - [E西餐─稠化劑] E西餐─稠化劑",
+    "sequence": 3512
+  }
+}

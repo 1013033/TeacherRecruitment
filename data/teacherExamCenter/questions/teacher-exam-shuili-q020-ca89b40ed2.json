@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q020-ca89b40ed2",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 20 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-2489",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 20,
+    "questionType": "single-choice",
+    "prompt": "若CCP超過臨界界限,首先應採取何種措施?",
+    "options": [
+      {
+        "id": "A",
+        "text": "忽略即可"
+      },
+      {
+        "id": "B",
+        "text": "執行矯正措施"
+      },
+      {
+        "id": "C",
+        "text": "立即出貨"
+      },
+      {
+        "id": "D",
+        "text": "更改產品名稱。"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點]",
+    "conceptId": "tourism-hospitality-177db66f12",
+    "conceptLabel": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "HACCP",
+        "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "錯誤原因待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "HACCP",
+          "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "若CCP超過臨界界限,首先應採取何種措施? 忽略即可 執行矯正措施 立即出貨 更改產品名稱。 觀光餐旅業導論 [HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點] HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+    "sequence": 3488
+  }
+}

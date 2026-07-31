@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q046-60f9db43a6",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 46 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-5753",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 46,
+    "questionType": "single-choice",
+    "prompt": "中式點心的分類中,蔥油餅、餡餅、燒賣等是屬於下列那一種?",
+    "options": [
+      {
+        "id": "A",
+        "text": "發麵類"
+      },
+      {
+        "id": "B",
+        "text": "冷水麵類"
+      },
+      {
+        "id": "C",
+        "text": "油酥皮類"
+      },
+      {
+        "id": "D",
+        "text": "燙麵類"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[中式麵食] - [A中式麵食類別]",
+    "conceptId": "tourism-hospitality-db59d72979",
+    "conceptLabel": "A中式麵食類別",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "中式麵食",
+        "locator": "A中式麵食類別",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "中式麵食",
+          "locator": "A中式麵食類別",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "中式點心的分類中,蔥油餅、餡餅、燒賣等是屬於下列那一種? 發麵類 冷水麵類 油酥皮類 燙麵類 觀光餐旅業導論 [中式麵食] - [A中式麵食類別] A中式麵食類別",
+    "sequence": 3514
+  }
+}

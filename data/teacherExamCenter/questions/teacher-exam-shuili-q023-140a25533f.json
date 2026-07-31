@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q023-140a25533f",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 23 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-2751",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 23,
+    "questionType": "single-choice",
+    "prompt": "建立CCP時最常使用的工具為:",
+    "options": [
+      {
+        "id": "A",
+        "text": "財務報表"
+      },
+      {
+        "id": "B",
+        "text": "CCP決策樹"
+      },
+      {
+        "id": "C",
+        "text": "生產排程"
+      },
+      {
+        "id": "D",
+        "text": "銷售紀錄"
+      }
+    ],
+    "answer": "B",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點]",
+    "conceptId": "tourism-hospitality-177db66f12",
+    "conceptLabel": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "HACCP",
+        "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "錯誤原因待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "HACCP",
+          "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "建立CCP時最常使用的工具為: 財務報表 CCP決策樹 生產排程 銷售紀錄 觀光餐旅業導論 [HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點] HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+    "sequence": 3491
+  }
+}

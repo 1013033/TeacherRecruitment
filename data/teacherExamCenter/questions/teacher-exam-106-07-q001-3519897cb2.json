@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-evening-reviewed-2d788a2c06",
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
   "question": {
     "id": "teacher-exam-106-07-q001-3519897cb2",
     "sourceYear": 106,
@@ -24,11 +24,11 @@
         "source": "manual",
         "chapter": "CH3 餐飲業",
         "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=234, second=44。"
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "每日營業額為 168,000 元。計算方式：150 席 × (1.2 + 2) × 350 元 = 168,000 元。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -38,14 +38,14 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=234, second=44。"
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-07-31T06:59:43.629Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150731-morning"
     ],
     "searchText": "新開幕的天空餐廳,空間寬敞明亮,擁有 150 席座位數,提供每份 350 元的各式套餐組合;每日的桌次周轉率(Turn Over Rate)午餐時段為 1.2,晚餐時段為 2,請問該餐廳每日的營業額為多少元?\n\n計算方式:\n總周轉率 = 1.2 + 2 = 3.2 次\n總客數 = 150 席 × 3.2 = 480 人次\n每日營業額 = 480 人次 × 350 元 = 168,000 元。 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate) 每日營業額為 168,000 元。計算方式:150 席 × (1.2 + 2) × 350 元 = 168,000 元。",
     "sequence": 1124

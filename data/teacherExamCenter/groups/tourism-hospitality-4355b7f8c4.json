@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-evening-reviewed-2d788a2c06",
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
   "concept": {
     "id": "tourism-hospitality-4355b7f8c4",
     "subject": "tourism-hospitality",
@@ -9,9 +9,13 @@
     "label": "烘焙─產品分析",
     "description": "",
     "questionIds": [
-      "teacher-exam-108-09-q001-e0a033e5de"
+      "teacher-exam-108-09-q001-e0a033e5de",
+      "teacher-exam-shuili-q013-190b9f17be",
+      "teacher-exam-shuili-q016-e9eb99aea9",
+      "teacher-exam-shuili-q050-d7c19a681f"
     ],
     "years": [
+      115,
       108
     ],
     "publisherBasis": [
@@ -23,7 +27,9 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0
+    "unresolvedCount": 0,
+    "questionCount": 4,
+    "sampleQuestion": "麵糊的溫度及比重是製作蛋糕成敗的兩大因素,請說明？"
   },
   "questions": [
     {
@@ -72,6 +78,252 @@
       ],
       "searchText": "麵糊的溫度及比重是製作蛋糕成敗的兩大因素,請說明? 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析 本題依題幹與選項判斷,核心考點落在「[餐飲服務技術 第二章 餐廳設備與器具] - [烘焙食品、材料與製程基礎]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第一章 餐廳服務基本觀念,定位:第一章 餐廳服務基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第七章 餐飲禮儀,定位:第七章 餐飲禮儀;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第七章 餐飲禮儀,定位:第七章 餐飲禮儀;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《111年6月餐飲服務技術》第七章 餐飲禮儀,定位:第七章 餐飲禮儀;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《111年6月餐飲服務技術-章節分類》第七章 餐飲禮儀,定位:第七章 餐飲禮儀;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "sequence": 1485
+    },
+    {
+      "id": "teacher-exam-shuili-q013-190b9f17be",
+      "sourceYear": 115,
+      "sourceLabel": "115 ?? 13 ?",
+      "sourceFile": "水里.md",
+      "sourceLocator": "水里.md#offset-1698",
+      "paperTitle": "水里教師甄試題",
+      "schoolName": "115??",
+      "questionNumber": 13,
+      "questionType": "single-choice",
+      "prompt": "烘焙實習工場欲同時烘烤多盤大小一致的餐包,並希望各層產品受熱較均勻。 下列哪一種烤爐最適合此項需求?",
+      "options": [
+        {
+          "id": "A",
+          "text": "蒸氣鍋爐"
+        },
+        {
+          "id": "B",
+          "text": "熱風循環烤爐"
+        },
+        {
+          "id": "C",
+          "text": "微波爐"
+        },
+        {
+          "id": "D",
+          "text": "上火烤爐"
+        }
+      ],
+      "answer": "B",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[烘焙] - [烘焙─產品分析]",
+      "conceptId": "tourism-hospitality-4355b7f8c4",
+      "conceptLabel": "烘焙─產品分析",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "烘焙",
+          "locator": "烘焙─產品分析",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=medium，仍待人工審核。"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "答案與詳細解析待人工審核。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "B",
+            "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+          },
+          {
+            "optionId": "C",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "D",
+            "explanation": "錯誤原因待人工審核。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "烘焙",
+            "locator": "烘焙─產品分析",
+            "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=medium，仍待人工審核。"
+          }
+        ],
+        "updatedAt": "2026-07-31T07:22:06.020Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "taxonomy-auto-initial-medium"
+      ],
+      "searchText": "烘焙實習工場欲同時烘烤多盤大小一致的餐包,並希望各層產品受熱較均勻。 下列哪一種烤爐最適合此項需求? 蒸氣鍋爐 熱風循環烤爐 微波爐 上火烤爐 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析",
+      "sequence": 3481
+    },
+    {
+      "id": "teacher-exam-shuili-q016-e9eb99aea9",
+      "sourceYear": 115,
+      "sourceLabel": "115 ?? 16 ?",
+      "sourceFile": "水里.md",
+      "sourceLocator": "水里.md#offset-2091",
+      "paperTitle": "水里教師甄試題",
+      "schoolName": "115??",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "判斷麵包最後發酵狀態時,以手指輕壓麵糰,凹痕明顯且幾乎不回復,麵糰稍 受震動即可能塌陷。此狀態最可能為何?",
+      "options": [
+        {
+          "id": "A",
+          "text": "尚未開始發酵"
+        },
+        {
+          "id": "B",
+          "text": "發酵不足"
+        },
+        {
+          "id": "C",
+          "text": "發酵過度"
+        },
+        {
+          "id": "D",
+          "text": "攪拌不足"
+        }
+      ],
+      "answer": "C",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[烘焙] - [烘焙─產品分析]",
+      "conceptId": "tourism-hospitality-4355b7f8c4",
+      "conceptLabel": "烘焙─產品分析",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "烘焙",
+          "locator": "烘焙─產品分析",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "答案與詳細解析待人工審核。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "B",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "C",
+            "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+          },
+          {
+            "optionId": "D",
+            "explanation": "錯誤原因待人工審核。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "烘焙",
+            "locator": "烘焙─產品分析",
+            "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+          }
+        ],
+        "updatedAt": "2026-07-31T07:22:06.020Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "taxonomy-auto-initial-high"
+      ],
+      "searchText": "判斷麵包最後發酵狀態時,以手指輕壓麵糰,凹痕明顯且幾乎不回復,麵糰稍 受震動即可能塌陷。此狀態最可能為何? 尚未開始發酵 發酵不足 發酵過度 攪拌不足 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析",
+      "sequence": 3484
+    },
+    {
+      "id": "teacher-exam-shuili-q050-d7c19a681f",
+      "sourceYear": 115,
+      "sourceLabel": "115 ?? 50 ?",
+      "sourceFile": "水里.md",
+      "sourceLocator": "水里.md#offset-6263",
+      "paperTitle": "水里教師甄試題",
+      "schoolName": "115??",
+      "questionNumber": 50,
+      "questionType": "single-choice",
+      "prompt": "蛋糕常見的失敗原因,下列那些選項是錯誤的 甲、表面顏色太深是糖量過高,上火太強 乙、外觀狀況底部凹入,是因為底火太強,泡打粉用量過多 丙、內部組織有水線是因為水量過少、打發不足 丁、體積過小是因為攪拌過度,麵糊放置過久",
+      "options": [
+        {
+          "id": "A",
+          "text": "乙、丙"
+        },
+        {
+          "id": "B",
+          "text": "甲、丁"
+        },
+        {
+          "id": "C",
+          "text": "甲、丙"
+        },
+        {
+          "id": "D",
+          "text": "乙、丁"
+        }
+      ],
+      "answer": "A",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[烘焙] - [烘焙─產品分析]",
+      "conceptId": "tourism-hospitality-4355b7f8c4",
+      "conceptLabel": "烘焙─產品分析",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "烘焙",
+          "locator": "烘焙─產品分析",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "答案與詳細解析待人工審核。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+          },
+          {
+            "optionId": "B",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "C",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "D",
+            "explanation": "錯誤原因待人工審核。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "烘焙",
+            "locator": "烘焙─產品分析",
+            "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+          }
+        ],
+        "updatedAt": "2026-07-31T07:22:06.020Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "taxonomy-auto-initial-high"
+      ],
+      "searchText": "蛋糕常見的失敗原因,下列那些選項是錯誤的 甲、表面顏色太深是糖量過高,上火太強 乙、外觀狀況底部凹入,是因為底火太強,泡打粉用量過多 丙、內部組織有水線是因為水量過少、打發不足 丁、體積過小是因為攪拌過度,麵糊放置過久 乙、丙 甲、丁 甲、丙 乙、丁 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析",
+      "sequence": 3518
     }
   ]
 }

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q038-7f74adb548",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 38 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-4396",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 38,
+    "questionType": "single-choice",
+    "prompt": "烹調的初處理可以縮短烹調時間,去除食材本身的異味,最常使用的「水煮」 與「焯水」有其不同的作用。以下對此二種前處理介紹說明何者是正確的?",
+    "options": [
+      {
+        "id": "A",
+        "text": "「水煮」比「焯水」花費的時間短,因為水煮是要將食材殺菁。"
+      },
+      {
+        "id": "B",
+        "text": "「焯水」必須於水滾後放入食材,保持大大加熱,時間須久一點"
+      },
+      {
+        "id": "C",
+        "text": "「水煮」要讓食材煮到熟,所以只能使用熱水煮,不可用冷水煮"
+      },
+      {
+        "id": "D",
+        "text": "「焯水」大多用於去除血水與殺菁,也稱為「川燙」"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[中餐] - [B中餐─油溫&火侯]",
+    "conceptId": "tourism-hospitality-3871d7169b",
+    "conceptLabel": "B中餐─油溫&火侯",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "B中餐─油溫&火侯",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=medium，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "中餐",
+          "locator": "B中餐─油溫&火侯",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=medium，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-medium"
+    ],
+    "searchText": "烹調的初處理可以縮短烹調時間,去除食材本身的異味,最常使用的「水煮」 與「焯水」有其不同的作用。以下對此二種前處理介紹說明何者是正確的? 「水煮」比「焯水」花費的時間短,因為水煮是要將食材殺菁。 「焯水」必須於水滾後放入食材,保持大大加熱,時間須久一點 「水煮」要讓食材煮到熟,所以只能使用熱水煮,不可用冷水煮 「焯水」大多用於去除血水與殺菁,也稱為「川燙」 觀光餐旅業導論 [中餐] - [B中餐─油溫&火侯] B中餐─油溫&火侯",
+    "sequence": 3506
+  }
+}

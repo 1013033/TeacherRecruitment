@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q041-40cd4d9a8c",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 41 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-4920",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 41,
+    "questionType": "single-choice",
+    "prompt": "那一種香草植物有舒緩消化系統與去除口中異味作用,常適合加入沙拉,略有 大茴香的氣味?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tarragon"
+      },
+      {
+        "id": "B",
+        "text": "Mint"
+      },
+      {
+        "id": "C",
+        "text": "Dill"
+      },
+      {
+        "id": "D",
+        "text": "Thyme"
+      }
+    ],
+    "answer": "C",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[西餐] - [G香料]",
+    "conceptId": "tourism-hospitality-8b532ad0ce",
+    "conceptLabel": "G香料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "G香料",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "錯誤原因待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "西餐",
+          "locator": "G香料",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "那一種香草植物有舒緩消化系統與去除口中異味作用,常適合加入沙拉,略有 大茴香的氣味? Tarragon Mint Dill Thyme 觀光餐旅業導論 [西餐] - [G香料] G香料",
+    "sequence": 3509
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "question": {
+    "id": "teacher-exam-shuili-q010-2ea52f9994",
+    "sourceYear": 115,
+    "sourceLabel": "115 ?? 10 ?",
+    "sourceFile": "水里.md",
+    "sourceLocator": "水里.md#offset-1293",
+    "paperTitle": "水里教師甄試題",
+    "schoolName": "115??",
+    "questionNumber": 10,
+    "questionType": "single-choice",
+    "prompt": "下列哪一組最符合傳統「Fines herbes」細香草組合?",
+    "options": [
+      {
+        "id": "A",
+        "text": "迷迭香、鼠尾草、月桂葉、百里香"
+      },
+      {
+        "id": "B",
+        "text": "孜然、胡荽籽、肉桂、丁香"
+      },
+      {
+        "id": "C",
+        "text": "羅勒、奧勒岡、迷迭香、薰衣草"
+      },
+      {
+        "id": "D",
+        "text": "巴西里、細香蔥、龍蒿、山蘿蔔葉"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[西餐] - [G香料]",
+    "conceptId": "tourism-hospitality-8b532ad0ce",
+    "conceptLabel": "G香料",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "G香料",
+        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "答案與詳細解析待人工審核。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "B",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "C",
+          "explanation": "錯誤原因待人工審核。"
+        },
+        {
+          "optionId": "D",
+          "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "西餐",
+          "locator": "G香料",
+          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        }
+      ],
+      "updatedAt": "2026-07-31T07:22:06.020Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "taxonomy-auto-initial-high"
+    ],
+    "searchText": "下列哪一組最符合傳統「Fines herbes」細香草組合? 迷迭香、鼠尾草、月桂葉、百里香 孜然、胡荽籽、肉桂、丁香 羅勒、奧勒岡、迷迭香、薰衣草 巴西里、細香蔥、龍蒿、山蘿蔔葉 觀光餐旅業導論 [西餐] - [G香料] G香料",
+    "sequence": 3478
+  }
+}
