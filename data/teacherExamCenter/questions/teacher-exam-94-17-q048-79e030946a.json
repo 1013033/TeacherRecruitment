@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "dataVersion": "teacher-exam-afternoon-reviewed-82f946df3a",
   "question": {
     "id": "teacher-exam-94-17-q048-79e030946a",
     "sourceYear": 94,
@@ -33,20 +33,20 @@
     "answer": "D",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH4 營業前的準備工作與營業後的善後工作] - [4-3布巾類整理與準備]",
-    "conceptId": "foodservice-dd5e5aff27",
-    "conceptLabel": "4-3布巾類整理與準備",
+    "unit": "[CH2 餐廳設備與器具] - [2-4 A 布巾種類與規格]",
+    "conceptId": "foodservice-de6623c873",
+    "conceptLabel": "2-4 A 布巾種類與規格",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH4 營業前的準備工作與營業後的善後工作",
-        "locator": "4-3布巾類整理與準備",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=16。"
+        "chapter": "CH2 餐廳設備與器具",
+        "locator": "2-4 A 布巾種類與規格",
+        "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：2-4 A 布巾種類與規格"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 D。Silence Pad 指墊布；原本誤接在 D 選項後方的第 49 題內容已移除。",
       "optionExplanations": [
         {
@@ -98,20 +98,20 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH4 營業前的準備工作與營業後的善後工作",
-          "locator": "4-3布巾類整理與準備",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=28, second=16。"
+          "chapter": "CH2 餐廳設備與器具",
+          "locator": "2-4 A 布巾種類與規格",
+          "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：2-4 A 布巾種類與規格"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z",
+      "updatedAt": "2026-07-31T13:30:04.188Z",
       "generatedAt": "2026-07-28",
       "model": "manual-correction"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150731-afternoon"
     ],
-    "searchText": "有關布巾類中「Silence Pad」是: 口布 頂檯布 服務臂巾 墊布。 餐飲服務技術 [CH4 營業前的準備工作與營業後的善後工作] - [4-3布巾類整理與準備] 4-3布巾類整理與準備 答案為 D。Silence Pad 指墊布;原本誤接在 D 選項後方的第 49 題內容已移除。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。",
+    "searchText": "有關布巾類中「Silence Pad」是: 口布 頂檯布 服務臂巾 墊布。 餐飲服務技術 [CH2 餐廳設備與器具] - [2-4 A 布巾種類與規格] 2-4 A 布巾種類與規格 答案為 D。Silence Pad 指墊布;原本誤接在 D 選項後方的第 49 題內容已移除。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「D」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「D」。",
     "sequence": 2574
   }
 }

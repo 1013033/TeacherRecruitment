@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "dataVersion": "teacher-exam-afternoon-reviewed-82f946df3a",
   "question": {
     "id": "teacher-exam-shuili-q003-fe292f0113",
     "sourceYear": 115,
@@ -33,20 +33,20 @@
     "answer": "B",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[中餐] - [A中餐─豬肉]",
-    "conceptId": "tourism-hospitality-b53dfddfad",
-    "conceptLabel": "A中餐─豬肉",
+    "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
+    "conceptId": "tourism-hospitality-e7483426e2",
+    "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "中餐",
-        "locator": "A中餐─豬肉",
-        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 E1 中國─菜系(菜餚)",
+        "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：3-2 E1 中國─菜系(菜餚)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案與詳細解析待人工審核。",
       "optionExplanations": [
         {
@@ -69,18 +69,19 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "中餐",
-          "locator": "A中餐─豬肉",
-          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+          "chapter": "CH3 餐飲業",
+          "locator": "3-2 E1 中國─菜系(菜餚)",
+          "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：3-2 E1 中國─菜系(菜餚)"
         }
       ],
-      "updatedAt": "2026-07-31T07:22:06.020Z"
+      "updatedAt": "2026-07-31T13:30:04.188Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "taxonomy-auto-initial-high"
+      "taxonomy-auto-initial-high",
+      "human-reviewed-1150731-afternoon"
     ],
-    "searchText": "「回鍋肉」之所以稱為「回鍋」,主要是因為下列何種操作特徵? 同一鍋油重複使用兩次 肉先經煮製,再切片回鍋炒製及調味 肉片炒熟後必須重新冷藏 將菜餚倒出後,再把空鍋加熱一次 觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉",
+    "searchText": "「回鍋肉」之所以稱為「回鍋」,主要是因為下列何種操作特徵? 同一鍋油重複使用兩次 肉先經煮製,再切片回鍋炒製及調味 肉片炒熟後必須重新冷藏 將菜餚倒出後,再把空鍋加熱一次 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚) 答案與詳細解析待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
     "sequence": 3471
   }
 }

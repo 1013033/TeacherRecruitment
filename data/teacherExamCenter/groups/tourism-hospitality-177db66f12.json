@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-morning-reviewed-f65d6064ea",
+  "dataVersion": "teacher-exam-afternoon-reviewed-82f946df3a",
   "concept": {
     "id": "tourism-hospitality-177db66f12",
     "subject": "tourism-hospitality",
@@ -26,7 +26,6 @@
       "teacher-exam-shuili-q021-0b4ce97ed1",
       "teacher-exam-shuili-q022-f5f65563f6",
       "teacher-exam-shuili-q023-140a25533f",
-      "teacher-exam-shuili-q031-638c7bd73e",
       "teacher-exam-shuili-q032-abfb6eabda",
       "teacher-exam-shuili-q034-107691f5d3"
     ],
@@ -50,10 +49,8 @@
         "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點"
       }
     ],
-    "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 20,
-    "sampleQuestion": "請簡述何謂 HACCP？\n2. 請簡述服務櫃的功能為何？\n3. 請依酒的製造法簡述酒品的分類？\n4. 請簡述為何狂牛症之牛肉具有健康安全性的疑慮？ 2"
+    "reviewStatus": "needs-review",
+    "unresolvedCount": 0
   },
   "questions": [
     {
@@ -1339,88 +1336,6 @@
       ],
       "searchText": "建立CCP時最常使用的工具為: 財務報表 CCP決策樹 生產排程 銷售紀錄 觀光餐旅業導論 [HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點] HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
       "sequence": 3491
-    },
-    {
-      "id": "teacher-exam-shuili-q031-638c7bd73e",
-      "sourceYear": 115,
-      "sourceLabel": "115 ?? 31 ?",
-      "sourceFile": "水里.md",
-      "sourceLocator": "水里.md#offset-3485",
-      "paperTitle": "水里教師甄試題",
-      "schoolName": "115??",
-      "questionNumber": 31,
-      "questionType": "single-choice",
-      "prompt": "湯品保溫時,最重要的目的為:",
-      "options": [
-        {
-          "id": "A",
-          "text": "維持食品安全及品質"
-        },
-        {
-          "id": "B",
-          "text": "節省能源"
-        },
-        {
-          "id": "C",
-          "text": "增加重量"
-        },
-        {
-          "id": "D",
-          "text": "提高售價"
-        }
-      ],
-      "answer": "A",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點]",
-      "conceptId": "tourism-hospitality-177db66f12",
-      "conceptLabel": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "HACCP",
-          "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
-          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=medium，仍待人工審核。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "答案與詳細解析待人工審核。",
-        "optionExplanations": [
-          {
-            "optionId": "A",
-            "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
-          },
-          {
-            "optionId": "B",
-            "explanation": "錯誤原因待人工審核。"
-          },
-          {
-            "optionId": "C",
-            "explanation": "錯誤原因待人工審核。"
-          },
-          {
-            "optionId": "D",
-            "explanation": "錯誤原因待人工審核。"
-          }
-        ],
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "HACCP",
-            "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
-            "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=medium，仍待人工審核。"
-          }
-        ],
-        "updatedAt": "2026-07-31T07:22:06.020Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "taxonomy-auto-initial-medium"
-      ],
-      "searchText": "湯品保溫時,最重要的目的為: 維持食品安全及品質 節省能源 增加重量 提高售價 觀光餐旅業導論 [HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點] HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
-      "sequence": 3499
     },
     {
       "id": "teacher-exam-shuili-q032-abfb6eabda",
