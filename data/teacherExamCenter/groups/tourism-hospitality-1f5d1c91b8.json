@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "concept": {
     "id": "tourism-hospitality-1f5d1c91b8",
     "subject": "tourism-hospitality",
@@ -9,6 +9,7 @@
     "label": "6-4 E2 航空公司代碼",
     "description": "",
     "questionIds": [
+      "teacher-exam-100-01-q004-343cffdbda",
       "teacher-exam-100-01-q033-63d51297be",
       "teacher-exam-100-01-q020-2cdef451b2",
       "teacher-exam-100-01-q033-aa6d269f0e",
@@ -60,15 +61,104 @@
         "source": "manual",
         "chapter": "CH6 觀光餐旅相關產業",
         "locator": "6-4 E2 航空公司代碼",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=132, second=88。"
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：6-4 E2 航空公司代碼"
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 28,
-    "sampleQuestion": "旅客在國際機場內需要航空公司提供轉機接待服務，稱為甚麼？"
+    "unresolvedCount": 0
   },
   "questions": [
+    {
+      "id": "teacher-exam-100-01-q004-343cffdbda",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 4 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-4781",
+      "paperTitle": "一、選擇題（共四十題，每題二分，請將答案寫在答案紙上）",
+      "schoolName": "100 學年度餐旅群教師甄試試題彙編",
+      "questionNumber": 4,
+      "questionType": "single-choice",
+      "prompt": "下列哪一個不是亞洲國家的航空公司？",
+      "options": [
+        {
+          "id": "A",
+          "text": "TG"
+        },
+        {
+          "id": "B",
+          "text": "AC"
+        },
+        {
+          "id": "C",
+          "text": "AI"
+        },
+        {
+          "id": "D",
+          "text": "KA。"
+        }
+      ],
+      "answer": "B",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼]",
+      "conceptId": "tourism-hospitality-1f5d1c91b8",
+      "conceptLabel": "6-4 E2 航空公司代碼",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH6 觀光餐旅相關產業",
+          "locator": "6-4 E2 航空公司代碼",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：6-4 E2 航空公司代碼"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】觀光餐旅業導論 / 加盟連鎖 / 加盟連鎖。全華單元無法承接,需進一步確認 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】本題考核的專有名詞、法規或實務操作:亞洲國家航空公司的識別 【詳細解析】此題考核的是對亞洲航空公司代碼的識別能力。選項 B 的 AC 是澳洲航空(Qantas Airways)的代碼,而非亞洲國家的航空公司。其他選項 TG、AI 和 KA 分別代表泰國航空(Thai Airways)、阿聯酋航空(Emirates)和卡塔爾航空(Qatar Airways),都是亞洲國家的航空公司。 【錯誤選項錯在哪】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【叮嚀】提醒考生注意不同航空公司代碼的識別,尤其是來自不同地區的航空公司。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B：AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C：AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D：KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": true,
+            "explanation": "AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": false,
+            "explanation": "KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH6 觀光餐旅相關產業",
+            "locator": "6-4 E2 航空公司代碼",
+            "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：6-4 E2 航空公司代碼"
+          }
+        ],
+        "updatedAt": "2026-08-01T12:47:57.918Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "human-reviewed-1150801-daytime"
+      ],
+      "searchText": "下列哪一個不是亞洲國家的航空公司? TG AC AI KA。 觀光餐旅業導論 [CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼] 6-4 E2 航空公司代碼 【問題分類】觀光餐旅業導論 / 加盟連鎖 / 加盟連鎖。全華單元無法承接,需進一步確認 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】本題考核的專有名詞、法規或實務操作:亞洲國家航空公司的識別 【詳細解析】此題考核的是對亞洲航空公司代碼的識別能力。選項 B 的 AC 是澳洲航空(Qantas Airways)的代碼,而非亞洲國家的航空公司。其他選項 TG、AI 和 KA 分別代表泰國航空(Thai Airways)、阿聯酋航空(Emirates)和卡塔爾航空(Qatar Airways),都是亞洲國家的航空公司。 【錯誤選項錯在哪】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【叮嚀】提醒考生注意不同航空公司代碼的識別,尤其是來自不同地區的航空公司。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 B:AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 C:AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 D:KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 TG 是泰國航空(Thai Airways)的代碼,屬於亞洲國家的航空公司。 AC 是澳洲航空(Qantas Airways)的代碼,不是亞洲國家的航空公司。 AI 是阿聯酋航空(Emirates)的代碼,屬於亞洲國家的航空公司。 KA 是卡塔爾航空(Qatar Airways)的代碼,屬於亞洲國家的航空公司。",
+      "sequence": 29,
+      "aiClassificationUnit": {
+        "sourceType": "ai-unit-generated",
+        "nonChwa": true,
+        "label": "AI 分類單元，非全華版本"
+      }
+    },
     {
       "id": "teacher-exam-100-01-q033-63d51297be",
       "sourceYear": 100,

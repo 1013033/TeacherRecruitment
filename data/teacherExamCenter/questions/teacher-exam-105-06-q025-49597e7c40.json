@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-105-06-q025-49597e7c40",
     "sourceYear": 105,
@@ -33,20 +33,20 @@
     "answer": "D",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
-    "conceptId": "tourism-hospitality-04466494a5",
-    "conceptLabel": "3-5 D 西餐烹調法",
+    "unit": "[觀光餐旅英語會話] - [C判讀]",
+    "conceptId": "tourism-hospitality-5ef8b3e9d2",
+    "conceptLabel": "C判讀",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-5 D 西餐烹調法",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=34, second=34。"
+        "chapter": "觀光餐旅英語會話",
+        "locator": "C判讀",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：C判讀"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 D。已移除誤併大題標題。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -54,18 +54,18 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-5 D 西餐烹調法",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=34, second=34。"
+          "chapter": "觀光餐旅英語會話",
+          "locator": "C判讀",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：C判讀"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150801-daytime"
     ],
-    "searchText": "He owes a large ______ of money to the hotel. total cash bill sum 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法 答案為 D。已移除誤併大題標題。",
+    "searchText": "He owes a large ______ of money to the hotel. total cash bill sum 觀光餐旅業導論 [觀光餐旅英語會話] - [C判讀] C判讀 答案為 D。已移除誤併大題標題。",
     "sequence": 1022
   }
 }

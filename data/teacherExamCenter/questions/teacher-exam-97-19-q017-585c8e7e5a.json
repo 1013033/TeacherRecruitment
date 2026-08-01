@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-97-19-q017-585c8e7e5a",
     "sourceYear": 97,
@@ -41,11 +41,11 @@
         "source": "manual",
         "chapter": "CH3 餐飲業",
         "locator": "3-2 E1 中國─菜系(菜餚)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：3-2 E1 中國─菜系(菜餚)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 1（五花肉）。",
       "optionExplanations": [
         {
@@ -70,16 +70,15 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-2 E1 中國─菜系(菜餚)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：3-2 E1 中國─菜系(菜餚)"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-numeric-choice-restore",
-      "latest-taxonomy-auto-low",
-      "latest-taxonomy-low-confidence"
+      "human-reviewed-1150801-daytime"
     ],
     "searchText": "「粉蒸肉」之材料宜用 五花肉 里脊肉 梅花肉 腰裏肉 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚) 本題原始試題以數字編號呈現選項,標準答案為 1(五花肉)。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。 此選項不符合本題標準答案;本題答案為 1。",
     "sequence": 3087,

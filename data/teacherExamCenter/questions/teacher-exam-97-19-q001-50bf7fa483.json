@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-97-19-q001-50bf7fa483",
     "sourceYear": 97,
@@ -16,39 +16,39 @@
     "answer": "1:B、2:E、3:F、4:A、5:J、6:C、7:D、8:H、9:I、10:G",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
-    "conceptId": "foodservice-a0c78a2070",
-    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+    "unit": "[CH2 餐廳設備與器具] - [2-1 餐廳設備]",
+    "conceptId": "foodservice-beeaf5e21e",
+    "conceptLabel": "2-1 餐廳設備",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH8 餐飲服務",
-        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=48, second=32。"
+        "chapter": "CH2 餐廳設備與器具",
+        "locator": "2-1 餐廳設備",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：CH2 綜合題─餐廳設備與器具"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 1:B、2:E、3:F、4:A、5:J、6:C、7:D、8:H、9:I、10:G。",
       "optionExplanations": [],
       "references": [
         {
           "source": "manual",
-          "chapter": "CH8 餐飲服務",
-          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=48, second=32。"
+          "chapter": "CH2 餐廳設備與器具",
+          "locator": "2-1 餐廳設備",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：CH2 綜合題─餐廳設備與器具"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z",
+      "updatedAt": "2026-08-01T12:47:57.918Z",
       "generatedAt": "2026-07-28",
       "model": "manual-correction"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150801-daytime"
     ],
-    "searchText": "二、配合題:請填入適當的答案。\n\n| 代號 | 說明 |\n| --- | --- |\n| A | 中餐擺在客人面前裝菜用的碟子。 |\n| B | 茶杯、冰杯、餵菜盤、醬瓶。 |\n| C | 中餐用來裝盛羹湯類的容器。 |\n| D | 客人用餐時,用來擦嘴及防止衣服弄髒之用。 |\n| E | 用來擱置筷子,有時會與湯匙架連成一座。 |\n| F | 自助餐或酒會時,裝熱菜保溫之用。 |\n| G | 矮胖型的平底杯,又稱為 Rock Glass。 |\n| H | 杯身寬口,杯身為半圓形的高腳杯。 |\n| I | 淺身寬口,杯身為倒三角形的高腳杯。 |\n| J | 桌上擺設用,可展示兼定位用。 |\n\n| 題號 | 名稱 |\n| --- | --- |\n| 1 | 中凹餐具 |\n| 2 | 筷架 |\n| 3 | Chafing Dish |\n| 4 | 骨盤 |\n| 5 | 展示盤 |\n| 6 | 水盤 |\n| 7 | 口布 |\n| 8 | 香檳酒杯 |\n| 9 | 雞尾酒杯 |\n| 10 | 老式酒杯 | 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 答案為 1:B、2:E、3:F、4:A、5:J、6:C、7:D、8:H、9:I、10:G。",
+    "searchText": "二、配合題:請填入適當的答案。\n\n| 代號 | 說明 |\n| --- | --- |\n| A | 中餐擺在客人面前裝菜用的碟子。 |\n| B | 茶杯、冰杯、餵菜盤、醬瓶。 |\n| C | 中餐用來裝盛羹湯類的容器。 |\n| D | 客人用餐時,用來擦嘴及防止衣服弄髒之用。 |\n| E | 用來擱置筷子,有時會與湯匙架連成一座。 |\n| F | 自助餐或酒會時,裝熱菜保溫之用。 |\n| G | 矮胖型的平底杯,又稱為 Rock Glass。 |\n| H | 杯身寬口,杯身為半圓形的高腳杯。 |\n| I | 淺身寬口,杯身為倒三角形的高腳杯。 |\n| J | 桌上擺設用,可展示兼定位用。 |\n\n| 題號 | 名稱 |\n| --- | --- |\n| 1 | 中凹餐具 |\n| 2 | 筷架 |\n| 3 | Chafing Dish |\n| 4 | 骨盤 |\n| 5 | 展示盤 |\n| 6 | 水盤 |\n| 7 | 口布 |\n| 8 | 香檳酒杯 |\n| 9 | 雞尾酒杯 |\n| 10 | 老式酒杯 | 餐飲服務技術 [CH2 餐廳設備與器具] - [2-1 餐廳設備] 2-1 餐廳設備 答案為 1:B、2:E、3:F、4:A、5:J、6:C、7:D、8:H、9:I、10:G。",
     "sequence": 2836
   }
 }

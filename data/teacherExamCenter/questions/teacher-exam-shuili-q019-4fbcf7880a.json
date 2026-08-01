@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-shuili-q019-4fbcf7880a",
     "sourceYear": 115,
@@ -42,11 +42,11 @@
         "source": "manual",
         "chapter": "HACCP",
         "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
-        "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案與詳細解析待人工審核。",
       "optionExplanations": [
         {
@@ -71,16 +71,17 @@
           "source": "manual",
           "chapter": "HACCP",
           "locator": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
-          "note": "依「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」進行自動初步分類；confidence=high，仍待人工審核。"
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點"
         }
       ],
-      "updatedAt": "2026-07-31T07:22:06.020Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "taxonomy-auto-initial-high"
+      "taxonomy-auto-initial-high",
+      "human-reviewed-1150801-daytime"
     ],
-    "searchText": "臨界界限(Critical Limit)是指: 生產目標 品質目標 可接受與不可接受之分界值 銷售目標。 觀光餐旅業導論 [HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點] HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+    "searchText": "臨界界限(Critical Limit)是指: 生產目標 品質目標 可接受與不可接受之分界值 銷售目標。 觀光餐旅業導論 [HACCP] - [HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點] HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點 答案與詳細解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。",
     "sequence": 3487
   }
 }

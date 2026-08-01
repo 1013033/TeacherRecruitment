@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-114-15-q023-210b6205a3",
     "sourceYear": 114,
@@ -12,7 +12,24 @@
     "questionNumber": 23,
     "questionType": "single-choice",
     "prompt": "飲料系列以「是否含有咖啡因」來分類，請問「花草茶飲」、「果粒茶飲」、「果乾水」、「水果茶系列」、「養生調味茶飲」、「紅酒香料包茶」，以上 6 種茶飲系列中，有幾種含有咖啡因？",
-    "options": [{"id":"A","text":"1 種"},{"id":"B","text":"2 種"},{"id":"C","text":"3 種"},{"id":"D","text":"4 種"}],
+    "options": [
+      {
+        "id": "A",
+        "text": "1 種"
+      },
+      {
+        "id": "B",
+        "text": "2 種"
+      },
+      {
+        "id": "C",
+        "text": "3 種"
+      },
+      {
+        "id": "D",
+        "text": "4 種"
+      }
+    ],
     "answer": "C",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",

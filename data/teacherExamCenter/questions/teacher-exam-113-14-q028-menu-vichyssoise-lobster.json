@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-113-14-q028-menu-vichyssoise-lobster",
     "sourceYear": 113,
@@ -42,11 +42,11 @@
         "source": "manual",
         "chapter": "CH5 菜單與飲料單",
         "locator": "5-1 E 宗教菜單禁忌",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=192, second=68。"
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：5-1 E 宗教菜單禁忌"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 A。此題需參照共同菜單資訊作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-29",
@@ -56,15 +56,15 @@
           "source": "manual",
           "chapter": "CH5 菜單與飲料單",
           "locator": "5-1 E 宗教菜單禁忌",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=192, second=68。"
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：5-1 E 宗教菜單禁忌"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-split-question-group",
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150801-daytime"
     ],
     "searchText": "請問上述菜單較可能是哪一個宗教食用? Catholicism Muslim Hindu Mormonism 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 A。此題需參照共同菜單資訊作答。",
     "sequence": 2023.2

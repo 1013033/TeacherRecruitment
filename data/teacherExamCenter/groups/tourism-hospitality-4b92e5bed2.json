@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "concept": {
     "id": "tourism-hospitality-4b92e5bed2",
     "subject": "tourism-hospitality",
@@ -11,8 +11,10 @@
     "questionIds": [
       "teacher-exam-109-10-q005-4832ac70b3",
       "teacher-exam-94-17-q034-39e55274fa",
+      "teacher-exam-97-19-q027-11bc3ce60f",
       "teacher-exam-97-19-q028-1dbc44d7ea",
       "teacher-exam-97-19-q029-7325e940fa",
+      "teacher-exam-97-19-q030-88363f676c",
       "teacher-exam-99-21-q019-0e1ed55156",
       "teacher-exam-shuili-q046-60f9db43a6"
     ],
@@ -32,9 +34,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 6,
-    "sampleQuestion": "下列有關於中式點心的敘述，何者為非？"
+    "unresolvedCount": 0
   },
   "questions": [
     {
@@ -210,6 +210,89 @@
       "sequence": 2560
     },
     {
+      "id": "teacher-exam-97-19-q027-11bc3ce60f",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 27 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-28581",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
+      "questionNumber": 27,
+      "questionType": "single-choice",
+      "prompt": "發酵麵食組織柔軟，與添加下列何種原料無關",
+      "options": [
+        {
+          "id": "1",
+          "text": "酵母"
+        },
+        {
+          "id": "2",
+          "text": "油脂"
+        },
+        {
+          "id": "3",
+          "text": "水"
+        },
+        {
+          "id": "4",
+          "text": "奶粉"
+        }
+      ],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[西餐] - [A中式麵食類別]",
+      "conceptId": "tourism-hospitality-4b92e5bed2",
+      "conceptLabel": "A中式麵食類別",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "西餐",
+          "locator": "A中式麵食類別",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：A中式麵食類別"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 4（奶粉）。",
+        "optionExplanations": [
+          {
+            "optionId": "1",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "2",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "3",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "4",
+            "explanation": "此選項為本題標準答案。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "西餐",
+            "locator": "A中式麵食類別",
+            "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：A中式麵食類別"
+          }
+        ],
+        "updatedAt": "2026-08-01T12:47:57.918Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-numeric-choice-restore",
+        "human-reviewed-1150801-daytime"
+      ],
+      "searchText": "發酵麵食組織柔軟,與添加下列何種原料無關 酵母 油脂 水 奶粉 觀光餐旅業導論 [西餐] - [A中式麵食類別] A中式麵食類別 本題原始試題以數字編號呈現選項,標準答案為 4(奶粉)。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項為本題標準答案。",
+      "sequence": 3097,
+      "answer": "4"
+    },
+    {
       "id": "teacher-exam-97-19-q028-1dbc44d7ea",
       "sourceYear": 97,
       "sourceLabel": "97 年第 28 題",
@@ -374,6 +457,89 @@
       "searchText": "兩相好屬於下列何種麵食? 冷水麵食 燙麵食 發酵麵食 發粉麵食 觀光餐旅業導論 [西餐] - [A中式麵食類別] A中式麵食類別 本題原始試題以數字編號呈現選項,標準答案為 3(發酵麵食)。 此選項不符合本題標準答案;本題答案為 3。 此選項不符合本題標準答案;本題答案為 3。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 3。",
       "sequence": 3099,
       "answer": "3"
+    },
+    {
+      "id": "teacher-exam-97-19-q030-88363f676c",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 30 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-28715",
+      "paperTitle": "未標示試卷",
+      "schoolName": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
+      "questionNumber": 30,
+      "questionType": "single-choice",
+      "prompt": "下列何種產品屬於發粉麵食？",
+      "options": [
+        {
+          "id": "1",
+          "text": "貓耳朵"
+        },
+        {
+          "id": "2",
+          "text": "千層酥"
+        },
+        {
+          "id": "3",
+          "text": "燒餅"
+        },
+        {
+          "id": "4",
+          "text": "馬拉糕"
+        }
+      ],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[西餐] - [A中式麵食類別]",
+      "conceptId": "tourism-hospitality-4b92e5bed2",
+      "conceptLabel": "A中式麵食類別",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "西餐",
+          "locator": "A中式麵食類別",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：A中式麵食類別"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 4（馬拉糕）。",
+        "optionExplanations": [
+          {
+            "optionId": "1",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "2",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "3",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "4",
+            "explanation": "此選項為本題標準答案。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "西餐",
+            "locator": "A中式麵食類別",
+            "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：A中式麵食類別"
+          }
+        ],
+        "updatedAt": "2026-08-01T12:47:57.918Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-numeric-choice-restore",
+        "human-reviewed-1150801-daytime"
+      ],
+      "searchText": "下列何種產品屬於發粉麵食? 貓耳朵 千層酥 燒餅 馬拉糕 觀光餐旅業導論 [西餐] - [A中式麵食類別] A中式麵食類別 本題原始試題以數字編號呈現選項,標準答案為 4(馬拉糕)。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項為本題標準答案。",
+      "sequence": 3100,
+      "answer": "4"
     },
     {
       "id": "teacher-exam-99-21-q019-0e1ed55156",

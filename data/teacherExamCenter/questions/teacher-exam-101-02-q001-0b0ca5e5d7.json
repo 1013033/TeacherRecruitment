@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-101-02-q001-0b0ca5e5d7",
     "sourceYear": 101,
@@ -31,22 +31,22 @@
       }
     ],
     "answer": "A",
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務技術",
-    "unit": "[CH7 餐飲禮儀] - [7-2 B1牛排熟度]",
-    "conceptId": "foodservice-c1d8b7ee69",
-    "conceptLabel": "7-2 B1牛排熟度",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[CH5 咖啡的認識與調製] - [5-2 B2-1咖啡豆精緻過程(烘焙)]",
+    "conceptId": "beverage-53faba3e66",
+    "conceptLabel": "5-2 B2-1咖啡豆精緻過程(烘焙)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH7 餐飲禮儀",
-        "locator": "7-2 B1牛排熟度",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=112。"
+        "chapter": "CH5 咖啡的認識與調製",
+        "locator": "5-2 B2-1咖啡豆精緻過程(烘焙)",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：5-2 B2-1咖啡豆精緻過程(烘焙)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "【問題分類】飲料實務 / CH05 咖啡與咖啡飲品調製 / 冰蜂蜜肉桂 Ice Honey Cinnamon Latte。題目涉及咖啡與咖啡飲品調製,屬於飲料實務範疇。 【分類來源】全華/人工分類單元 【核心觀念】咖啡烘焙程度由深至淺排列 【詳細解析】正確答案為 A: French Roast → High Roast → Medium Roast → Cinnamon Roast。在咖啡烘焙過程中,French Roast 為最深的烘焙程度,接著是 High Roast、Medium Roast 和最後是 Cinnamon Roast(肉桂烘焙),其烘焙程度較淺。 【錯誤選項錯在哪】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:High Roast → Medium Roast C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:City Roast → Light Roast D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:Italian Roast → High Roast 【叮嚀】注意咖啡烘焙的程度排序,通常從最深到最淺依次為 French Roast、High Roast、Medium Roast 和 Light Roast。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節 咖啡烘焙原理 235;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：此選項正確地排列了咖啡的烘焙程度由深至淺。 B：此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C：此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D：此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。\n\n【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製，定位：咖啡烘焙原理；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
@@ -76,18 +76,18 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH7 餐飲禮儀",
-          "locator": "7-2 B1牛排熟度",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=112。"
+          "chapter": "CH5 咖啡的認識與調製",
+          "locator": "5-2 B2-1咖啡豆精緻過程(烘焙)",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：5-2 B2-1咖啡豆精緻過程(烘焙)"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150801-daytime"
     ],
-    "searchText": "咖啡烘焙程度由深至淺排列,何者正確? French Roast → High Roast → Medium Roast → Cinnamon Roast High Roast → Medium Roast → Light Roast → Cinnamon Roast High Roast → City Roast → Cinnamon Roast → Light Roast French Roast → Italian Roast → High Roast → Cinnamon Roast。 餐飲服務技術 [CH7 餐飲禮儀] - [7-2 B1牛排熟度] 7-2 B1牛排熟度 【問題分類】飲料實務 / CH05 咖啡與咖啡飲品調製 / 冰蜂蜜肉桂 Ice Honey Cinnamon Latte。題目涉及咖啡與咖啡飲品調製,屬於飲料實務範疇。 【分類來源】全華/人工分類單元 【核心觀念】咖啡烘焙程度由深至淺排列 【詳細解析】正確答案為 A: French Roast → High Roast → Medium Roast → Cinnamon Roast。在咖啡烘焙過程中,French Roast 為最深的烘焙程度,接著是 High Roast、Medium Roast 和最後是 Cinnamon Roast(肉桂烘焙),其烘焙程度較淺。 【錯誤選項錯在哪】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:High Roast → Medium Roast C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:City Roast → Light Roast D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:Italian Roast → High Roast 【叮嚀】注意咖啡烘焙的程度排序,通常從最深到最淺依次為 French Roast、High Roast、Medium Roast 和 Light Roast。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節 咖啡烘焙原理 235;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。\n\n【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項正確地排列了咖啡的烘焙程度由深至淺。 此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。",
+    "searchText": "咖啡烘焙程度由深至淺排列,何者正確? French Roast → High Roast → Medium Roast → Cinnamon Roast High Roast → Medium Roast → Light Roast → Cinnamon Roast High Roast → City Roast → Cinnamon Roast → Light Roast French Roast → Italian Roast → High Roast → Cinnamon Roast。 飲料實務 [CH5 咖啡的認識與調製] - [5-2 B2-1咖啡豆精緻過程(烘焙)] 5-2 B2-1咖啡豆精緻過程(烘焙) 【問題分類】飲料實務 / CH05 咖啡與咖啡飲品調製 / 冰蜂蜜肉桂 Ice Honey Cinnamon Latte。題目涉及咖啡與咖啡飲品調製,屬於飲料實務範疇。 【分類來源】全華/人工分類單元 【核心觀念】咖啡烘焙程度由深至淺排列 【詳細解析】正確答案為 A: French Roast → High Roast → Medium Roast → Cinnamon Roast。在咖啡烘焙過程中,French Roast 為最深的烘焙程度,接著是 High Roast、Medium Roast 和最後是 Cinnamon Roast(肉桂烘焙),其烘焙程度較淺。 【錯誤選項錯在哪】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:High Roast → Medium Roast C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:City Roast → Light Roast D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 修正說法:正確排列應為:Italian Roast → High Roast 【叮嚀】注意咖啡烘焙的程度排序,通常從最深到最淺依次為 French Roast、High Roast、Medium Roast 和 Light Roast。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第三節 咖啡烘焙原理 235;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項正確地排列了咖啡的烘焙程度由深至淺。 B:此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 C:此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 D:此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。\n\n【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡烘焙原理;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項正確地排列了咖啡的烘焙程度由深至淺。 此選項中的 High Roast 排在 Medium Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 此選項中的 City Roast 排在 Cinnamon Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。 此選項中的 Italian Roast 排在 High Roast 之前,錯誤地將烘焙程度由深至淺的順序打亂。",
     "sequence": 354
   }
 }

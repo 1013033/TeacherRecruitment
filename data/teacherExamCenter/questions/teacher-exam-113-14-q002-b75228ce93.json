@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-113-14-q002-b75228ce93",
     "sourceYear": 113,
@@ -34,22 +34,22 @@
         "text": "答案：E"
       }
     ],
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務技術",
-    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
-    "conceptId": "foodservice-a0c78a2070",
-    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH4 旅宿業] - [4-1 D 旅館產品層次]",
+    "conceptId": "tourism-hospitality-8a16addca3",
+    "conceptLabel": "4-1 D 旅館產品層次",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH8 餐飲服務",
-        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=134。"
+        "chapter": "CH4 旅宿業",
+        "locator": "4-1 D 旅館產品層次",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-1 D 旅館產品層次"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 1:B、2:A、3:C、4:D、5:E。已將原本混在 E 選項後方的服務項目整理成表格。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -57,18 +57,18 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH8 餐飲服務",
-          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=168, second=134。"
+          "chapter": "CH4 旅宿業",
+          "locator": "4-1 D 旅館產品層次",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-1 D 旅館產品層次"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150801-daytime"
     ],
-    "searchText": "下列 1~5 項為某頂級旅館目前及未來可能提供的服務,請分別判斷這些服務屬於哪一個產品層次,並填入正確答案。\n\n(A) 核心產品 (B) 基本產品 (C) 期望產品 (D) 附加產品 (E) 潛在產品\n\n| 題號 | 服務內容 |\n| --- | --- |\n| (1) | 提供顧客乾淨舒適的「客房」及「餐廳」 |\n| (2) | 滿足顧客「乾淨安全舒適的客房」、「衛生安全的餐飲」的需求。 |\n| (3) | 提供豐盛自助早餐、無邊際游泳池、多樣健身設備及精品店。 |\n| (4) | 提供迎賓水果及小點心、24 小時管家服務、快速入住或退房服務,讓客人有賓至如歸的感受 |\n| (5) | 未來可能會推出「高級管家」從飯店業走入豪宅,幫忙打理豪宅生活,享有飯店式服務的尊榮專屬服務。 | 答案:B 答案:A 答案:C 答案:D 答案:E 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 答案為 1:B、2:A、3:C、4:D、5:E。已將原本混在 E 選項後方的服務項目整理成表格。",
+    "searchText": "下列 1~5 項為某頂級旅館目前及未來可能提供的服務,請分別判斷這些服務屬於哪一個產品層次,並填入正確答案。\n\n(A) 核心產品 (B) 基本產品 (C) 期望產品 (D) 附加產品 (E) 潛在產品\n\n| 題號 | 服務內容 |\n| --- | --- |\n| (1) | 提供顧客乾淨舒適的「客房」及「餐廳」 |\n| (2) | 滿足顧客「乾淨安全舒適的客房」、「衛生安全的餐飲」的需求。 |\n| (3) | 提供豐盛自助早餐、無邊際游泳池、多樣健身設備及精品店。 |\n| (4) | 提供迎賓水果及小點心、24 小時管家服務、快速入住或退房服務,讓客人有賓至如歸的感受 |\n| (5) | 未來可能會推出「高級管家」從飯店業走入豪宅,幫忙打理豪宅生活,享有飯店式服務的尊榮專屬服務。 | 答案:B 答案:A 答案:C 答案:D 答案:E 觀光餐旅業導論 [CH4 旅宿業] - [4-1 D 旅館產品層次] 4-1 D 旅館產品層次 答案為 1:B、2:A、3:C、4:D、5:E。已將原本混在 E 選項後方的服務項目整理成表格。",
     "sequence": 2039,
     "answer": "1:B、2:A、3:C、4:D、5:E"
   }

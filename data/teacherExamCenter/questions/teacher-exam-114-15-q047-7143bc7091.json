@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-114-15-q047-7143bc7091",
     "sourceYear": 114,
@@ -12,7 +12,24 @@
     "questionNumber": 47,
     "questionType": "single-choice",
     "prompt": "請問子、丑、寅、卯、辰應該填入什麼對應的文字？",
-    "options": [{"id":"A","text":"子：順時針；丑：逆時針；寅：逆時針；卯：逆時針；辰：逆時針"},{"id":"B","text":"子：順時針；丑：逆時針；寅：逆時針；卯：逆時針；辰：順時針"},{"id":"C","text":"子：逆時針；丑：順時針；寅：順時針；卯：順時針；辰：順時針"},{"id":"D","text":"子：逆時針；丑：順時針；寅：順時針；卯：順時針；辰：逆時針"}],
+    "options": [
+      {
+        "id": "A",
+        "text": "子：順時針；丑：逆時針；寅：逆時針；卯：逆時針；辰：逆時針"
+      },
+      {
+        "id": "B",
+        "text": "子：順時針；丑：逆時針；寅：逆時針；卯：逆時針；辰：順時針"
+      },
+      {
+        "id": "C",
+        "text": "子：逆時針；丑：順時針；寅：順時針；卯：順時針；辰：順時針"
+      },
+      {
+        "id": "D",
+        "text": "子：逆時針；丑：順時針；寅：順時針；卯：順時針；辰：逆時針"
+      }
+    ],
     "answer": "B",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-113-14-q026-597b2826c6",
     "sourceYear": 113,
@@ -15,20 +15,28 @@
     "options": [],
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "[CH7混合性飲料調製] - [7-1混合性飲料的種類]",
-    "conceptId": "beverage-0cbfec7015",
-    "conceptLabel": "7-1混合性飲料的種類",
-    "relatedConceptIds": [],
+    "unit": "[CH7 混合性飲料調製] - [7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡]",
+    "conceptId": "beverage-aaa906a274",
+    "conceptLabel": "7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡",
+    "relatedConceptIds": [
+      "beverage-90c4d2bcc0"
+    ],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH7混合性飲料調製",
-        "locator": "7-1混合性飲料的種類",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=126, second=122。"
+        "chapter": "CH7 混合性飲料調製",
+        "locator": "7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡；6-1 A2-5葡萄品種"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 酒的分類與製程",
+        "locator": "6-1 A2-5葡萄品種",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡；6-1 A2-5葡萄品種"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案依序為 27:A、D、E；28:B、F、H；29:C、J；30:A、K；31:E、H；32:E、H；33:I、L；34:D、G；35:A、L；36:C、F；37:D。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -36,19 +44,24 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH7混合性飲料調製",
-          "locator": "7-1混合性飲料的種類",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=126, second=122。"
+          "chapter": "CH7 混合性飲料調製",
+          "locator": "7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡；6-1 A2-5葡萄品種"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH6 酒的分類與製程",
+          "locator": "6-1 A2-5葡萄品種",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡；6-1 A2-5葡萄品種"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high",
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150801-daytime"
     ],
-    "searchText": "請依題目提供的 A-L 選項進行分類。\n\n二、請將以下烘焙產品 (A-L) 進行品項分類:\n\n| 產品種類 | 27. Italian Bread | 28. Pâtisserie |\n| --- | --- | --- |\n| 正確編號 | | |\n\n正確編號\nA. Ciabatta\nB. Profiterole\nC. Boule\nD. Focaccia\nE. Laugenbrezel\nF. Brownie\nG. Croissant\nH. Flan\nI. Baguette\nJ. Mestemacher\nK. Brioche\nL. Bagel\n\n三、請將以下雞尾酒 (A-L) 依六大基酒進行分類:\n\n| 基酒名稱 | 29. Gin | 30. Whiskey | 31. Rum |\n| --- | --- | --- | --- |\n| 正確編號 | | | |\n\nA. Manhattan\nB. Bloody Mary\nC. Gibson\nD. Brandy Alexander\nE. Cuba Libre\nF. Sidecar\nG. Cosmopolitan\nH. Daiquiri\nI. Margarita\nJ. Tom Collins\nK. Godfather\nL. Paloma\n\n四、請將以下葡萄品種 (A-L) 進行主要產地分類:\n\n| 產地名稱 | 32. Italy | 33. Germany | 34. Australia |\n| --- | --- | --- | --- |\n| 正確編號 | | | |\n\nA. Tempranillo\nB. Arinto\nC. Malbec\nD. Syrah/Shiraz\nE. Nebbiolo\nF. Garnacha\nG. Semillon\nH. Sangiovese\nI. Muller Thurgau\nJ. Chenin Blanc\nK. Touriga Nacional\nL. Riesling\n\n五、請將以下各國特色咖啡 (A-L) 依添加材料進行分類:\n\n| 材料名稱 | 35. Egg | 36. Spice | 37. Cheese |\n| --- | --- | --- | --- |\n| 正確編號 | | | |\n\nA. Mazagran\nB. Flat White\nC. Café de Olla\nD. Kaffeost\nE. Irish Coffee\nF. Türk Kahvesi\nG. Frappé\nH. Espresso Romano\nI. Café Bombón\nJ. Cà Phê Trứng\nK. Carajillo\nL. Norwegian Egg Coffee 飲料實務 [CH7混合性飲料調製] - [7-1混合性飲料的種類] 7-1混合性飲料的種類 答案依序為 27:A、D、E;28:B、F、H;29:C、J;30:A、K;31:E、H;32:E、H;33:I、L;34:D、G;35:A、L;36:C、F;37:D。",
+    "searchText": "請依題目提供的 A-L 選項進行分類。\n\n二、請將以下烘焙產品 (A-L) 進行品項分類:\n\n| 產品種類 | 27. Italian Bread | 28. Pâtisserie |\n| --- | --- | --- |\n| 正確編號 | | |\n\n正確編號\nA. Ciabatta\nB. Profiterole\nC. Boule\nD. Focaccia\nE. Laugenbrezel\nF. Brownie\nG. Croissant\nH. Flan\nI. Baguette\nJ. Mestemacher\nK. Brioche\nL. Bagel\n\n三、請將以下雞尾酒 (A-L) 依六大基酒進行分類:\n\n| 基酒名稱 | 29. Gin | 30. Whiskey | 31. Rum |\n| --- | --- | --- | --- |\n| 正確編號 | | | |\n\nA. Manhattan\nB. Bloody Mary\nC. Gibson\nD. Brandy Alexander\nE. Cuba Libre\nF. Sidecar\nG. Cosmopolitan\nH. Daiquiri\nI. Margarita\nJ. Tom Collins\nK. Godfather\nL. Paloma\n\n四、請將以下葡萄品種 (A-L) 進行主要產地分類:\n\n| 產地名稱 | 32. Italy | 33. Germany | 34. Australia |\n| --- | --- | --- | --- |\n| 正確編號 | | | |\n\nA. Tempranillo\nB. Arinto\nC. Malbec\nD. Syrah/Shiraz\nE. Nebbiolo\nF. Garnacha\nG. Semillon\nH. Sangiovese\nI. Muller Thurgau\nJ. Chenin Blanc\nK. Touriga Nacional\nL. Riesling\n\n五、請將以下各國特色咖啡 (A-L) 依添加材料進行分類:\n\n| 材料名稱 | 35. Egg | 36. Spice | 37. Cheese |\n| --- | --- | --- | --- |\n| 正確編號 | | | |\n\nA. Mazagran\nB. Flat White\nC. Café de Olla\nD. Kaffeost\nE. Irish Coffee\nF. Türk Kahvesi\nG. Frappé\nH. Espresso Romano\nI. Café Bombón\nJ. Cà Phê Trứng\nK. Carajillo\nL. Norwegian Egg Coffee 飲料實務 [CH7 混合性飲料調製] - [7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡] 7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡 答案依序為 27:A、D、E;28:B、F、H;29:C、J;30:A、K;31:E、H;32:E、H;33:I、L;34:D、G;35:A、L;36:C、F;37:D。",
     "sequence": 2137,
     "readingPassage": null,
     "answer": "27:A、D、E、28:B、F、H、29:C、J、30:A、K、31:E、H、32:E、H、33:I、L、34:D、G、35:A、L、36:C、F、37:D"

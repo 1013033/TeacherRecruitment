@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
+  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
     "id": "teacher-exam-105-06-q003-e009572d6d",
     "sourceYear": 105,
@@ -15,20 +15,20 @@
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[客房(舊課綱)] - [A客房清潔]",
-    "conceptId": "tourism-hospitality-b551ee61f4",
-    "conceptLabel": "A客房清潔",
+    "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+    "conceptId": "tourism-hospitality-07e9d19483",
+    "conceptLabel": "4-4 B 房務部",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "客房(舊課綱)",
-        "locator": "A客房清潔",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=100, second=100。"
+        "chapter": "CH4 旅宿業",
+        "locator": "4-4 B 房務部",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 B 房務部"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題為房務部職務與工作職責配對題，已整理為表格格式。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -36,19 +36,18 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "客房(舊課綱)",
-          "locator": "A客房清潔",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=100, second=100。"
+          "chapter": "CH4 旅宿業",
+          "locator": "4-4 B 房務部",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 B 房務部"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T12:47:57.918Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high",
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150801-daytime"
     ],
-    "searchText": "下列房務部從業人員與其工作職責,試配對之。\n\n| 代號 | 房務部從業人員 | 題號 | 工作職責 |\n| --- | --- | --- | --- |\n| A | Floor Captain | (1) | 提供物品設施及迎賓禮品之請購建議或盤點工作。 |\n| B | Room Center Supervisor | (2) | Turn-down Service 房間數約 50-60 間。 |\n| C | Linen Room Supervisor | (3) | 依據清理程序完成 12-16 間客房的清潔工作。 |\n| D | Housekeeping Office Clerk | (4) | 審核冰箱飲料帳的銷售回報表及申領單。 |\n| E | Housekeeping Supervisor | (5) | 督導外包廠商執行契約所訂定之工作內容。 |\n| F | Housekeeper | (6) | 規定使用洗衣劑的類別、劑量和清洗方式。 |\n| G | Seamstress | (7) | 管理樓層通用鑰匙之取用與收回。 |\n| H | Night Cleaner | (8) | 修改或更新不合尺寸之布巾品類。 |\n| I | Laundry Room Captain | (9) | 制定報廢布巾管理、住客衣物送洗的流程。 |\n| J | Housekeeping Manager | (10) | 記錄 C/O Rm、OK Rm,核對後報知前檯櫃檯。 | 觀光餐旅業導論 [客房(舊課綱)] - [A客房清潔] A客房清潔 本題為房務部職務與工作職責配對題,已整理為表格格式。",
+    "searchText": "下列房務部從業人員與其工作職責,試配對之。\n\n| 代號 | 房務部從業人員 | 題號 | 工作職責 |\n| --- | --- | --- | --- |\n| A | Floor Captain | (1) | 提供物品設施及迎賓禮品之請購建議或盤點工作。 |\n| B | Room Center Supervisor | (2) | Turn-down Service 房間數約 50-60 間。 |\n| C | Linen Room Supervisor | (3) | 依據清理程序完成 12-16 間客房的清潔工作。 |\n| D | Housekeeping Office Clerk | (4) | 審核冰箱飲料帳的銷售回報表及申領單。 |\n| E | Housekeeping Supervisor | (5) | 督導外包廠商執行契約所訂定之工作內容。 |\n| F | Housekeeper | (6) | 規定使用洗衣劑的類別、劑量和清洗方式。 |\n| G | Seamstress | (7) | 管理樓層通用鑰匙之取用與收回。 |\n| H | Night Cleaner | (8) | 修改或更新不合尺寸之布巾品類。 |\n| I | Laundry Room Captain | (9) | 制定報廢布巾管理、住客衣物送洗的流程。 |\n| J | Housekeeping Manager | (10) | 記錄 C/O Rm、OK Rm,核對後報知前檯櫃檯。 | 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部 本題為房務部職務與工作職責配對題,已整理為表格格式。",
     "sequence": 1026
   }
 }
