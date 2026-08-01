@@ -2592,11 +2592,14 @@
       "flags": [
         "manual-split-question-group",
         "latest-taxonomy-auto-high",
-        "latest-taxonomy-auto-medium"
+        "latest-taxonomy-auto-medium",
+        "manual-question-group-1150801"
       ],
-      "searchText": "請問以上菜單會使用到那些器具,請選出正確選項? 請依照以下所提供之菜單訊息,回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate Soup Bowl、Round Plate、Snifter、Divided Dish 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 B。此題需參照共同菜單資訊作答。",
+      "searchText": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問以上菜單會使用到那些器具，請選出正確選項？ Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate Soup Bowl、Round Plate、Snifter、Divided Dish 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 B。此題需參照共同菜單資訊作答。",
       "sequence": 2023,
-      "readingPassage": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw"
+      "readingPassage": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw",
+      "questionGroupId": "113-national-menu-vichyssoise-lobster-group",
+      "questionGroupTitle": "113 全國菜單題組 26-28"
     },
     {
       "id": "teacher-exam-113-14-q028-menu-vichyssoise-lobster",
@@ -2661,10 +2664,14 @@
       "reviewStatus": "approved",
       "flags": [
         "manual-split-question-group",
-        "human-reviewed-1150801-daytime"
+        "human-reviewed-1150801-daytime",
+        "manual-question-group-1150801"
       ],
-      "searchText": "請問上述菜單較可能是哪一個宗教食用? Catholicism Muslim Hindu Mormonism 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 A。此題需參照共同菜單資訊作答。",
-      "sequence": 2023.2
+      "searchText": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問上述菜單較可能是哪一個宗教食用？ Catholicism Muslim Hindu Mormonism 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 A。此題需參照共同菜單資訊作答。",
+      "sequence": 2023.2,
+      "questionGroupId": "113-national-menu-vichyssoise-lobster-group",
+      "questionGroupTitle": "113 全國菜單題組 26-28",
+      "readingPassage": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw"
     },
     {
       "id": "teacher-exam-113-14-q002-c5a88dafa5",

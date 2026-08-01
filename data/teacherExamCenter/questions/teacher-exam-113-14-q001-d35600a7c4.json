@@ -10,7 +10,7 @@
     "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
     "schoolName": "113年公立高級中等學校教師甄選",
     "questionNumber": 1,
-    "questionType": "short-answer",
+    "questionType": "comprehensive",
     "prompt": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns.",
     "options": [
       {
@@ -86,9 +86,10 @@
     "flags": [
       "manual-format-fix",
       "manual-image-source",
-      "latest-taxonomy-auto-high"
+      "latest-taxonomy-auto-high",
+      "manual-question-type-matching-1150801"
     ],
-    "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns. egg sandwich scones butter and jam small cakes Madeleines Victoria Sponge finger sandwiches tarts small savories Mini grilled chicken quiche 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人 本題為英式下午茶三層點心架配對題,請依圖片中的 3rd Course、2nd Course、1st Course 欄位填入對應代號。\n3rd Course:D、E、F、H\n2nd Course:B、C、H\n1st Course:A、G、I、J",
+    "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns.  3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J egg sandwich scones butter and jam small cakes Madeleines Victoria Sponge finger sandwiches tarts small savories Mini grilled chicken quiche 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人",
     "sequence": 2038,
     "answer": "3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
     "images": [

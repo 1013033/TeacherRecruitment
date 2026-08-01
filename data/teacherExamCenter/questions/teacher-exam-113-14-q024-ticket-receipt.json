@@ -2,35 +2,35 @@
   "schemaVersion": 1,
   "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
   "question": {
-    "id": "teacher-exam-113-14-q023-221f733419",
+    "id": "teacher-exam-113-14-q024-ticket-receipt",
     "sourceYear": 113,
-    "sourceLabel": "113 年第 23 題（電子機票題組）",
+    "sourceLabel": "113 年第 24 題（電子機票題組）",
     "sourceFile": "113年教師甄試題目.md",
     "sourceLocator": "113年教師甄試題目.md#offset-6104",
     "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
     "schoolName": "113年公立高級中等學校教師甄選",
-    "questionNumber": 23,
+    "questionNumber": 24,
     "questionType": "single-choice",
-    "prompt": "請問這張機票的目前去程的訂位狀況為？",
+    "prompt": "請問這張機票的效期多長？",
     "options": [
       {
         "id": "A",
-        "text": "限空位搭乘"
+        "text": "30 天"
       },
       {
         "id": "B",
-        "text": "機位確定"
+        "text": "5 個月"
       },
       {
         "id": "C",
-        "text": "機位候補"
+        "text": "7 個月"
       },
       {
         "id": "D",
-        "text": "不佔位子。"
+        "text": "1 年。"
       }
     ],
-    "answer": "A",
+    "answer": "C",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
     "unit": "[CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼]",
@@ -47,12 +47,12 @@
     ],
     "explanation": {
       "status": "approved",
-      "answerExplanation": "此題依電子機票資訊判讀，答案為 A。",
+      "answerExplanation": "此題依電子機票資訊判讀，答案為 C。",
       "optionExplanations": [
         {
           "optionId": "A",
-          "isCorrect": true,
-          "explanation": "此選項為正確答案。"
+          "isCorrect": false,
+          "explanation": "此選項不符合題幹資訊。"
         },
         {
           "optionId": "B",
@@ -61,8 +61,8 @@
         },
         {
           "optionId": "C",
-          "isCorrect": false,
-          "explanation": "此選項不符合題幹資訊。"
+          "isCorrect": true,
+          "explanation": "此選項為正確答案。"
         },
         {
           "optionId": "D",
@@ -86,8 +86,8 @@
       "manual-content-fix-1150801",
       "split-ticket-question-group"
     ],
-    "searchText": "請問這張機票的目前去程的訂位狀況為？ 限空位搭乘 機位確定 機位候補 不佔位子。 請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024 觀光餐旅業導論 [CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼] 6-4 E2 航空公司代碼",
-    "sequence": 2020,
+    "searchText": "請問這張機票的效期多長？ 30 天 5 個月 7 個月 1 年。 請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024 觀光餐旅業導論 [CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼] 6-4 E2 航空公司代碼",
+    "sequence": 2021,
     "readingPassage": "請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024",
     "questionGroupId": "113-national-ticket-receipt-group",
     "questionGroupTitle": "113 全國電子機票題組"
