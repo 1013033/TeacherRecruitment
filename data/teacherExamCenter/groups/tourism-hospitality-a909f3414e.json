@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-a909f3414e",
     "subject": "tourism-hospitality",
@@ -9,12 +9,12 @@
     "label": "6-4 F 搭機",
     "description": "",
     "questionIds": [
-      "teacher-exam-101-02-q001-d93200ae56",
-      "teacher-exam-114-15-q026-d201291bf8"
+      "teacher-exam-114-15-q026-d201291bf8",
+      "teacher-exam-101-02-q001-d93200ae56"
     ],
     "years": [
-      114,
-      101
+      101,
+      114
     ],
     "publisherBasis": [
       {
@@ -46,6 +46,12 @@
         "chapter": "CH3 餐飲業",
         "locator": "3-4 D1 組織編制─外場",
         "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：6-4 F 搭機；4-3 D 各式旅館；4-3 G 客房分類；6-1 A2-2雪莉酒─索雷亞系統(Solera System)；3-4 D1 組織編制─外場"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 F 搭機",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-4 F 搭機"
       }
     ],
     "reviewStatus": "approved",

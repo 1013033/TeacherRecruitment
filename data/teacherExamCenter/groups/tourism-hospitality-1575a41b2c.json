@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-1575a41b2c",
     "subject": "tourism-hospitality",
@@ -14,8 +14,8 @@
       "teacher-exam-115-16-q028-90ab948a98"
     ],
     "years": [
-      115,
-      114
+      114,
+      115
     ],
     "publisherBasis": [
       {
@@ -23,6 +23,18 @@
         "chapter": "CH1 觀光餐旅業基本觀念",
         "locator": "1-5 B 交通部觀光署",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=256, second=224。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 觀光餐旅業基本觀念",
+        "locator": "1-5 B 交通部觀光署",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 觀光餐旅業基本觀念",
+        "locator": "1-5 B 交通部觀光署",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
     "reviewStatus": "needs-review",

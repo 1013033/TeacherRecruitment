@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-2948a03787",
     "subject": "tourism-hospitality",
@@ -13,8 +13,8 @@
       "teacher-exam-115-16-q022-5f23e4838f"
     ],
     "years": [
-      115,
-      109
+      109,
+      115
     ],
     "publisherBasis": [
       {
@@ -22,12 +22,16 @@
         "chapter": "時事(法規、時事、政策、標章)",
         "locator": "A13國家公園法",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=20, second=20。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "A13國家公園法",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "Let's café 旗艦店，是以咖啡館為主，以超商為輔的複合式咖啡館，請問是由哪一家超商所發起？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

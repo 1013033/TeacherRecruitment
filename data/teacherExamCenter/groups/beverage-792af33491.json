@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "beverage-792af33491",
     "subject": "beverage",
@@ -10,17 +10,35 @@
     "description": "",
     "questionIds": [
       "teacher-exam-101-02-q003-6af4e94e54",
-      "teacher-exam-108-09-q022-abf159f704",
       "teacher-exam-112-13-q001-8abb088b2f",
+      "teacher-exam-108-09-q022-abf159f704",
       "teacher-exam-115-16-q045-9711bba4a5"
     ],
     "years": [
-      115,
-      112,
+      101,
       108,
-      101
+      112,
+      115
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH7 混合性飲料調製",
+        "locator": "7-2 C 雞尾酒的材料",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-2 C 雞尾酒的材料"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 混合性飲料調製",
+        "locator": "7-2 C 雞尾酒的材料",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-2 C 雞尾酒的材料"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 混合性飲料調製",
+        "locator": "7-2 C 雞尾酒的材料",
+        "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：7-2 C雞尾酒的材料"
+      },
       {
         "source": "manual",
         "chapter": "CH7 混合性飲料調製",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "foodservice-014a8b464e",
     "subject": "foodservice",
@@ -9,14 +9,14 @@
     "label": "2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)",
     "description": "",
     "questionIds": [
-      "teacher-exam-100-01-q013-f669d450ae",
+      "teacher-exam-97-19-q039-892db9e1f0",
       "teacher-exam-104-05-q006-d5e5e4148e",
-      "teacher-exam-97-19-q039-892db9e1f0"
+      "teacher-exam-100-01-q013-f669d450ae"
     ],
     "years": [
-      104,
+      97,
       100,
-      97
+      104
     ],
     "publisherBasis": [
       {
@@ -24,12 +24,22 @@
         "chapter": "CH2 餐廳設備與器具",
         "locator": "2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)",
         "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH2 餐廳設備與器具",
+        "locator": "2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH2 餐廳設備與器具",
+        "locator": "2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)"
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 3,
-    "sampleQuestion": "下列有關餐廳中餐具及杯皿的敘述，何者正確？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

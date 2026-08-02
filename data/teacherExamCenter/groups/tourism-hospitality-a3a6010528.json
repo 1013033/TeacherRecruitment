@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-a3a6010528",
     "subject": "tourism-hospitality",
@@ -13,8 +13,8 @@
       "teacher-exam-108-09-q010-b0f799e831"
     ],
     "years": [
-      108,
-      107
+      107,
+      108
     ],
     "publisherBasis": [
       {
@@ -22,12 +22,16 @@
         "chapter": "CH3 餐飲業",
         "locator": "3-2 H2 台灣─菜餚(客家菜)",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=20, second=20。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 H2 台灣─菜餚(客家菜)",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "我國飲料店品牌發展年代，請依在臺灣設立年份由前至後排列。甲、星巴客；乙、羅多倫咖啡；丙、春水堂；丁、怡客咖啡；戊、西雅圖咖啡"
+    "unresolvedCount": 0
   },
   "questions": [
     {

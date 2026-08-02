@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-c43db25e8e",
     "subject": "tourism-hospitality",
@@ -9,14 +9,14 @@
     "label": "H 中餐─食用色素",
     "description": "",
     "questionIds": [
+      "teacher-exam-shuili-q049-a4d2393e14",
       "teacher-exam-104-05-q036-664c9f8365",
-      "teacher-exam-97-19-q002-05788343f0",
-      "teacher-exam-shuili-q049-a4d2393e14"
+      "teacher-exam-97-19-q002-05788343f0"
     ],
     "years": [
-      115,
+      97,
       104,
-      97
+      115
     ],
     "publisherBasis": [
       {
@@ -24,12 +24,22 @@
         "chapter": "中餐",
         "locator": "H 中餐─食用色素",
         "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：H 中餐─食用色素"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "H 中餐─食用色素",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：H 中餐─食用色素"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "H 中餐─食用色素",
+        "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：H 中餐─食用色素"
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 3,
-    "sampleQuestion": "關於食用色素的敘述，下列何者正確？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

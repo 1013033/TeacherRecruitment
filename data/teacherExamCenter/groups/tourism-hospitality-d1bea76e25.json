@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-d1bea76e25",
     "subject": "tourism-hospitality",
@@ -9,14 +9,14 @@
     "label": "3-4F廚房格局",
     "description": "",
     "questionIds": [
-      "teacher-exam-102-03-q005-de91f86e1e",
       "teacher-exam-103-04-q049-02b13d4911",
-      "teacher-exam-106-07-q001-8ffea57447"
+      "teacher-exam-106-07-q001-8ffea57447",
+      "teacher-exam-102-03-q005-de91f86e1e"
     ],
     "years": [
-      106,
+      102,
       103,
-      102
+      106
     ],
     "publisherBasis": [
       {
@@ -24,6 +24,18 @@
         "chapter": "CH3 餐飲業",
         "locator": "3-4F廚房格局",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=136, second=44。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4F廚房格局",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=136, second=60。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4F廚房格局",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=136, second=88。"
       }
     ],
     "reviewStatus": "needs-review",

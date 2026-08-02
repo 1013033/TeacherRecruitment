@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "foodservice-0da4d7a389",
     "subject": "foodservice",
@@ -9,12 +9,14 @@
     "label": "10-3 A 下午茶服務流程",
     "description": "",
     "questionIds": [
+      "teacher-exam-113-14-q001-d35600a7c4",
       "teacher-exam-110-11-q035-9dd3e48879",
       "teacher-exam-112-13-q007-0c0e02a6bf"
     ],
     "years": [
+      110,
       112,
-      110
+      113
     ],
     "publisherBasis": [
       {
@@ -22,12 +24,22 @@
         "chapter": "CH10 餐廳服務流程",
         "locator": "10-3 A 下午茶服務流程",
         "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：10-3 A 下午茶服務流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH10 餐廳服務流程",
+        "locator": "10-3 A 下午茶服務流程",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：10-3 A 下午茶服務流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH10 餐廳服務流程",
+        "locator": "10-3 A 下午茶服務流程",
+        "note": "依人工審核整理檔「待審核-1150802白天-紅字分類整理.md」套用分類；分類限定於「1150802_.md」。 原始人工分類：10-3 A 下午茶服務流程"
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "下午茶供應時間通常為14:00~17:00，正式英式下午茶通常會使用High Tier Stand盛裝食物，試問哪些餐點會放於中間層？"
+    "unresolvedCount": 0
   },
   "questions": [
     {
@@ -166,6 +178,107 @@
       ],
       "searchText": "英國人飲茶是從早到晚的事情，最重視的是喝 Afternoon Tea，其可分為「Low Tea」和「High Tea」，請分別說明兩者之意涵。   餐飲服務技術 [CH10 餐廳服務流程] - [10-3 A 下午茶服務流程] 10-3 A 下午茶服務流程",
       "sequence": 1942
+    },
+    {
+      "id": "teacher-exam-113-14-q001-d35600a7c4",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 1 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-9560",
+      "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+      "schoolName": "113年公立高級中等學校教師甄選",
+      "questionNumber": 1,
+      "questionType": "comprehensive",
+      "prompt": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns.",
+      "options": [
+        {
+          "id": "A",
+          "text": "egg sandwich"
+        },
+        {
+          "id": "B",
+          "text": "scones"
+        },
+        {
+          "id": "C",
+          "text": "butter and jam"
+        },
+        {
+          "id": "D",
+          "text": "small cakes"
+        },
+        {
+          "id": "E",
+          "text": "Madeleines"
+        },
+        {
+          "id": "F",
+          "text": "Victoria Sponge"
+        },
+        {
+          "id": "G",
+          "text": "finger sandwiches"
+        },
+        {
+          "id": "H",
+          "text": "tarts"
+        },
+        {
+          "id": "I",
+          "text": "small savories"
+        },
+        {
+          "id": "J",
+          "text": "Mini grilled chicken quiche"
+        }
+      ],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH10 餐廳服務流程] - [10-3 A 下午茶服務流程]",
+      "conceptId": "foodservice-0da4d7a389",
+      "conceptLabel": "10-3 A 下午茶服務流程",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH10 餐廳服務流程",
+          "locator": "10-3 A 下午茶服務流程",
+          "note": "依人工審核整理檔「待審核-1150802白天-紅字分類整理.md」套用分類；分類限定於「1150802_.md」。 原始人工分類：10-3 A 下午茶服務流程"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題為英式下午茶三層點心架配對題，請依圖片中的 3rd Course、2nd Course、1st Course 欄位填入對應代號。\n3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH10 餐廳服務流程",
+            "locator": "10-3 A 下午茶服務流程",
+            "note": "依人工審核整理檔「待審核-1150802白天-紅字分類整理.md」套用分類；分類限定於「1150802_.md」。 原始人工分類：10-3 A 下午茶服務流程"
+          }
+        ],
+        "updatedAt": "2026-08-02T13:40:00Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-format-fix",
+        "manual-image-source",
+        "latest-taxonomy-auto-high",
+        "manual-question-type-matching-1150801",
+        "manual-reviewed-1150802-day"
+      ],
+      "searchText": "This is a 3-tier sandwich stand for a formal British afternoon tea. Please match the right snacks to the right columns.  3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J egg sandwich scones butter and jam small cakes Madeleines Victoria Sponge finger sandwiches tarts small savories Mini grilled chicken quiche 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人",
+      "sequence": 2038,
+      "answer": "3rd Course：D、E、F、H\n2nd Course：B、C、H\n1st Course：A、G、I、J",
+      "images": [
+        {
+          "id": "afternoon-tea-stand",
+          "src": "data/teacherExamCenter/images/113-1-afternoon-tea-stand.png",
+          "alt": "Three-tier sandwich stand for formal British afternoon tea with 1st Course, 2nd Course, and 3rd Course columns.",
+          "caption": "Formal British afternoon tea three-tier stand"
+        }
+      ]
     }
   ]
 }

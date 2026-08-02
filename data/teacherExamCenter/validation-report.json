@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
-  "generatedAt": "2026-08-02T02:55:48.444Z",
-  "sourceQuestionCount": 3517,
-  "parsedQuestionCount": 3517,
-  "emittedQuestionCount": 3517,
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "generatedAt": "2026-08-02T14:44:16.925Z",
+  "sourceQuestionCount": 3527,
+  "parsedQuestionCount": 3527,
+  "emittedQuestionCount": 3527,
   "unresolvedQuestionCount": 0,
   "errors": [],
   "files": [
@@ -3727,12 +3727,41 @@
     {
       "fileName": "teacherExamCenterOverrides.json#additionalQuestions",
       "sourceYear": 0,
-      "sourceHash": "dc57155468",
-      "sourceQuestionCount": 1,
-      "parsedQuestionCount": 1,
+      "sourceHash": "58fbb35abc",
+      "sourceQuestionCount": 11,
+      "parsedQuestionCount": 11,
       "unresolvedQuestionCount": 0,
       "questionIds": [
-        "teacher-exam-112-jiaqi-fill-q001-beef-cuts"
+        "teacher-exam-112-jiaqi-fill-q001-beef-cuts",
+        "teacher-exam-111-national-fill-q005-champagne-grapes",
+        "teacher-exam-111-taoyuan-fill-q001-crs",
+        "teacher-exam-111-taoyuan-fill-q002-coffee-species",
+        "teacher-exam-111-taoyuan-fill-q003-first-chain-hotel",
+        "teacher-exam-111-taoyuan-fill-q004-service-characteristics",
+        "teacher-exam-111-taoyuan-fill-q005-menu-types",
+        "teacher-exam-111-taoyuan-fill-q006-ota",
+        "teacher-exam-111-guanxi-short-q004-local-specialty-lesson-plan",
+        "teacher-exam-111-taoyuan-short-q001-ai-big-data",
+        "teacher-exam-111-taoyuan-short-q002-english-reservation-dialogue"
+      ],
+      "unresolvedIds": []
+    },
+    {
+      "fileName": "teacherExamCenterOverrides.json#additionalQuestions",
+      "sourceYear": 0,
+      "sourceHash": "3f48662d85",
+      "sourceQuestionCount": 8,
+      "parsedQuestionCount": 8,
+      "unresolvedQuestionCount": 0,
+      "questionIds": [
+        "teacher-exam-112-jiaqi-fill-q001-beef-cuts",
+        "teacher-exam-111-national-fill-q005-champagne-grapes",
+        "teacher-exam-111-taoyuan-fill-q001-crs",
+        "teacher-exam-111-taoyuan-fill-q002-coffee-species",
+        "teacher-exam-111-taoyuan-fill-q003-first-chain-hotel",
+        "teacher-exam-111-taoyuan-fill-q004-service-characteristics",
+        "teacher-exam-111-taoyuan-fill-q005-menu-types",
+        "teacher-exam-111-taoyuan-fill-q006-ota"
       ],
       "unresolvedIds": []
     }
@@ -3741,53 +3770,23 @@
   "subjectCounts": [
     {
       "id": "tourism-hospitality",
-      "label": "觀光餐旅概論",
-      "questionCount": 187
+      "label": "觀光餐旅業導論",
+      "questionCount": 2194
     },
     {
       "id": "foodservice",
-      "label": "餐飲服務實務",
-      "questionCount": 511
+      "label": "餐飲服務技術",
+      "questionCount": 698
     },
     {
       "id": "beverage",
       "label": "飲料實務",
-      "questionCount": 808
-    },
-    {
-      "id": "lodging",
-      "label": "旅館實務",
-      "questionCount": 413
-    },
-    {
-      "id": "travel-agency",
-      "label": "旅行業與航空票務",
-      "questionCount": 333
+      "questionCount": 631
     },
     {
       "id": "culinary",
-      "label": "中西餐烹調",
-      "questionCount": 289
-    },
-    {
-      "id": "baking",
-      "label": "烘焙實務",
-      "questionCount": 0
-    },
-    {
-      "id": "english-service",
-      "label": "餐旅英文與服務溝通",
+      "label": "中西餐烹調實務",
       "questionCount": 4
-    },
-    {
-      "id": "law-current-affairs",
-      "label": "觀光法規與時事",
-      "questionCount": 8
-    },
-    {
-      "id": "other",
-      "label": "其他",
-      "questionCount": 932
     }
   ],
   "answerPrefixAudit": {
@@ -3803,20 +3802,20 @@
     "missing": [],
     "mismatches": []
   },
-  "missingAnswerCount": 696,
+  "missingAnswerCount": 603,
   "missingAnswerSamples": [
     {
       "id": "teacher-exam-100-01-q001-3c23160ec6",
       "sourceLabel": "100 年第 1 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "93 年觀光局國際宣傳 Logo 為「Taiwan Touch Your Heart」（附圖一），請問該圖中，Taiwan 各個字母或彼此間象徵意義為何？ （10 分） 2. 麥當勞餐廳由 Ray A. Kroc 於 1955 年在美國芝加",
+      "promptPreview": "93 年觀光局國際宣傳 Logo 為「Taiwan Touch Your Heart」（附圖一），請問該圖中，Taiwan 各個字母或彼此間象徵意義為何？\n2. 麥當勞餐廳由 Ray A. Kroc 於 1955 年在美國芝加哥創立，他的經",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-100-01-q005-e0da2948a3",
       "sourceLabel": "100 年第 5 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "「食品良好衛生規範」所稱之有效殺菌，已明確敘明的殺菌方式共有五種，請寫出這五種之名稱及方式？ （10 分）",
+      "promptPreview": "「食品良好衛生規範」所稱之有效殺菌，已明確敘明的殺菌方式共有五種，請寫出這五種之名稱及方式？",
       "questionType": "essay"
     },
     {
@@ -3830,28 +3829,28 @@
       "id": "teacher-exam-100-01-q001-502ab228dd",
       "sourceLabel": "100 年第 1 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "What does the waiter recommend? 2. What kind of fishes does the Niçoise salad have? 3. What kind of glasses should the w",
+      "promptPreview": "What does the waiter recommend?\n2. What kind of fishes does the Niçoise salad have?\n3. What kind of glasses should the w",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-100-01-q008-507a036ccf",
       "sourceLabel": "100 年第 8 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "請將下列英文翻譯成適當的中文 （6 分） We will be landing shortly, so please raise your tray tables and put your seats on upright position",
+      "promptPreview": "請將下列英文翻譯成適當的中文 We will be landing shortly, so please raise your tray tables and put your seats on upright position. Than",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-100-01-q001-d8b89e4666",
       "sourceLabel": "100 年第 1 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "請建議觀光局如何將「旅行台灣、感動100」的觀光政策，與陸客自由行的活動加以整合，進行行銷推廣，以增進來台自由行陸客的深度旅遊。 2. 請說明餐旅教育如何落實政府節能省碳計畫的永續校園推動計畫？",
+      "promptPreview": "請建議觀光局如何將「旅行台灣、感動100」的觀光政策，與陸客自由行的活動加以整合，進行行銷推廣，以增進來台自由行陸客的深度旅遊。\n2. 請說明餐旅教育如何落實政府節能省碳計畫的永續校園推動計畫？",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-100-01-q001-5a7648e5c4",
       "sourceLabel": "100 年第 1 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "請解釋何謂餐旅業所稱之「內隱服務（Implicit Service）」？並舉例說明之。 2. 請敘述台灣餐飲小吃業發展的困境，以及如何因應。 3. 請解釋何謂「一鄉鎮一特產（One Town One Product, OTOP）」？並請舉例",
+      "promptPreview": "請解釋何謂餐旅業所稱之「內隱服務（Implicit Service）」？並舉例說明之。\n2. 請敘述台灣餐飲小吃業發展的困境，以及如何因應。\n3. 請解釋何謂「一鄉鎮一特產（One Town One Product, OTOP）」？並請舉例",
       "questionType": "essay"
     },
     {
@@ -3893,7 +3892,7 @@
       "id": "teacher-exam-100-01-q001-0dce0effa1",
       "sourceLabel": "100 年第 1 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "Job Description 2. Grid Organization 3. Incentive Tour 4. Solera System",
+      "promptPreview": "Job Description\n2. Grid Organization\n3. Incentive Tour\n4. Solera System",
       "questionType": "essay"
     },
     {
@@ -3907,14 +3906,14 @@
       "id": "teacher-exam-100-01-q001-37fbaa7541",
       "sourceLabel": "100 年第 1 題",
       "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "promptPreview": "美國農業部對於美國牛肉共分為八個等級，除了常見的 Prime 極品級、Choice 特選級及 Select 上選級，尚有哪五個等級？請依等級由高到低，將英文及中文一一列出。 2. 請由客人一進門至離開餐廳描述西餐服務流程，其中，客人還點了曼",
+      "promptPreview": "美國農業部對於美國牛肉共分為八個等級，除了常見的 Prime 極品級、Choice 特選級及 Select 上選級，尚有哪五個等級？請依等級由高到低，將英文及中文一一列出。\n2. 請由客人一進門至離開餐廳描述西餐服務流程，其中，客人還點了曼",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-101-02-q001-f2d4100670",
       "sourceLabel": "101 年第 1 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "promptPreview": "You may have to fill out registration card when you check in a hotel. 2. 酒吧專業術語中，攪拌法所需器皿『刻度調酒杯』和『隔冰器』的英文分別是 Mixing Glass",
+      "promptPreview": "You may have to fill out registration card when you check in a hotel.\n2. 酒吧專業術語中，攪拌法所需器皿『刻度調酒杯』和『隔冰器』的英文分別是 Mixing Glass",
       "questionType": "essay"
     },
     {
@@ -3970,35 +3969,35 @@
       "id": "teacher-exam-101-02-q001-258fa25efb",
       "sourceLabel": "101 年第 1 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "promptPreview": "此酒有豐富濃郁的口感且帶有一種迷人的芳香。（4分）",
+      "promptPreview": "此酒有豐富濃郁的口感且帶有一種迷人的芳香。",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-101-02-q002-a603bee9dc",
       "sourceLabel": "101 年第 2 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "promptPreview": "你喜歡先上哪一道菜？北京烤鴨或是中式牛排？（4分）",
+      "promptPreview": "你喜歡先上哪一道菜？北京烤鴨或是中式牛排？",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-101-02-q003-f56f59e044",
       "sourceLabel": "101 年第 3 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "promptPreview": "The museum is famous for its magnificent architecture.（3分）",
+      "promptPreview": "The museum is famous for its magnificent architecture.",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-101-02-q004-50291b7966",
       "sourceLabel": "101 年第 4 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "promptPreview": "We only have a deluxe double for NT$4,600 per night available.（3分）",
+      "promptPreview": "We only have a deluxe double for NT$4,600 per night available.",
       "questionType": "essay"
     },
     {
       "id": "teacher-exam-101-02-q001-d93200ae56",
       "sourceLabel": "101 年第 1 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "promptPreview": "FAM Tour： 2. Jet Lag： 3. Parador： 4. Studio Room： 5. Cream Down： 6. Solera System： 7. Sommelier：",
+      "promptPreview": "FAM Tour：\n2. Jet Lag：\n3. Parador：\n4. Studio Room：\n5. Cream Down：\n6. Solera System：\n7. Sommelier：",
       "questionType": "essay"
     },
     {
@@ -4012,78 +4011,3016 @@
       "id": "teacher-exam-101-02-q003-d2b0c3e664",
       "sourceLabel": "101 年第 3 題",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "promptPreview": "請說明旅館的不同計價方式。（16分）",
+      "promptPreview": "請說明旅館的不同計價方式。",
       "questionType": "essay"
     }
   ],
   "conceptCounts": [
     {
-      "id": "tourism-hospitality-fundamentals",
-      "label": "觀光餐旅產業、行銷與永續",
-      "questionCount": 187,
-      "reviewStatus": "draft"
+      "id": "tourism-hospitality-f5ef069148",
+      "label": "1-1 A 定義",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
     },
     {
-      "id": "foodservice-operations",
-      "label": "餐飲服務、菜單與營運管理",
-      "questionCount": 511,
-      "reviewStatus": "draft"
+      "id": "tourism-hospitality-5f5fdb468b",
+      "label": "1-1 B 字源",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-9258e42637",
+      "label": "1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2e21a10b4a",
+      "label": "1-2 B 經濟部商業司分類",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-7fdecd5574",
+      "label": "1-3 A 觀光餐旅業的特性",
+      "questionCount": 30,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-6b74875f64",
+      "label": "1-3 A1 標準作業流程（SOP）",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-180f521a63",
+      "label": "1-3 B 關鍵時刻(Moment of Truth,MOT)",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-60ca2dd445",
+      "label": "1-4 A 發展影響(經濟、文化、社會、環境)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-a81a6e6e44",
+      "label": "1-4觀光餐旅業發展的影響",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-590e1a18db",
+      "label": "1-5 A 主管機關",
+      "questionCount": 33,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-1575a41b2c",
+      "label": "1-5 B 交通部觀光署",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-5ca0b17a43",
+      "label": "1-5 B1國家級風景特定區",
+      "questionCount": 26,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-d40827c385",
+      "label": "1-5 B3駐外辦事處",
+      "questionCount": 25,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-e9eaea8bb8",
+      "label": "2-1 A 身心條件",
+      "questionCount": 7,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-7704eeaac9",
+      "label": "2-1觀光餐旅從業人員的身心條件",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-155fe9707b",
+      "label": "2-2 A 職場倫理",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-e69246b881",
+      "label": "3-1 C 餐飲商品",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-5bcc341716",
+      "label": "3-1 D 餐飲業特性",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-319014f626",
+      "label": "3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)",
+      "questionCount": 34,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-780937edab",
+      "label": "3-1餐飲業的定義與特性",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-5d4ffaab8e",
+      "label": "3-2 綜合題─餐飲業的發展過程",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-040675bef2",
+      "label": "3-2 A 外國─餐飲業的發展",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2c5387446e",
+      "label": "3-2 B 外國─各國代表菜餚",
+      "questionCount": 16,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ae88a7bd02",
+      "label": "3-2 C 中國─餐飲業的發展",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-c981d95e0a",
+      "label": "3-2 E 中國─菜系",
+      "questionCount": 136,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-e7483426e2",
+      "label": "3-2 E1 中國─菜系(菜餚)",
+      "questionCount": 46,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-a259dd8f16",
+      "label": "3-2 F 台灣─餐飲業的發展",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-cb0f3de40d",
+      "label": "3-2 F 餐飲業的定義與特性(綜合題)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-a84a99133f",
+      "label": "3-2 F1 台灣─餐飲業的發展（麥當勞QSCV）",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-cd7bf3a73a",
+      "label": "3-2 G 台灣─地方特產",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-cc5098081e",
+      "label": "3-2 H1 台灣─菜餚(台菜、小吃)",
+      "questionCount": 16,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-a3a6010528",
+      "label": "3-2 H2 台灣─菜餚(客家菜)",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-be41d51d7c",
+      "label": "3-2 I 米其林",
+      "questionCount": 29,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-06a2546375",
+      "label": "3-2 J世界飲食文化",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-85506903d5",
+      "label": "3-3 C 餐廳種類及服務型態",
+      "questionCount": 51,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-bdc5b7fe40",
+      "label": "3-3 D餐廳服務比重",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-5a39e78564",
+      "label": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-64dbb8f4d6",
+      "label": "3-3 E經營方式分類(獨立餐廳、連鎖餐廳)",
+      "questionCount": 10,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-18f9277664",
+      "label": "3-4 綜合題─餐飲業的組織與部門",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-8f174591fd",
+      "label": "3-4 A 餐飲業的組織─組織設計原則",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-8c93c51d3e",
+      "label": "3-4 A1餐飲業的組織─組織設計原則（工作設計）",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-3643b953de",
+      "label": "3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-4eb07ab3a1",
+      "label": "3-4 C 餐飲業部門",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-9628be07c3",
+      "label": "3-4 D 組織編制",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b3eac34eec",
+      "label": "3-4 D1 組織編制─外場",
+      "questionCount": 28,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-f94d4a0951",
+      "label": "3-4 D1 組織編制─外場",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b08896b2e1",
+      "label": "3-4 D1組織編制─外場",
+      "questionCount": 40,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-d992ad23bb",
+      "label": "3-4 D2 組織編制─內場",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-033fb45803",
+      "label": "3-4 D2-1 組織編制─內場(西餐)",
+      "questionCount": 24,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-44539030b4",
+      "label": "3-4 D2-2 組織編制─內場(中餐)",
+      "questionCount": 13,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-9d8b4cc607",
+      "label": "3-4 E 餐廳格局",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-069b1647ee",
+      "label": "3-4 F 廚房格局",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-749cfadc32",
+      "label": "3-4 F1工作三角形",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-e554289b70",
+      "label": "3-4 G 分區設計",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-d1bea76e25",
+      "label": "3-4F廚房格局",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-1516e6e064",
+      "label": "3-4H倉庫",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-0e37951a9f",
+      "label": "3-5 A 消毒/殺菌法",
+      "questionCount": 14,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-a02c984b49",
+      "label": "3-5 B 食品中毒/食物中毒",
+      "questionCount": 47,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-a6e711bd91",
+      "label": "3-5 C 中餐烹調法",
+      "questionCount": 13,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-04466494a5",
+      "label": "3-5 D 西餐烹調法",
+      "questionCount": 39,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-930c200eef",
+      "label": "3-5 E 刀具",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-effebda9e8",
+      "label": "3-5 F 餐飲成本分類",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-d55f8ce9e5",
+      "label": "3-5 G 餐飲成本公式及計算(計算題)",
+      "questionCount": 52,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-bd0763fff8",
+      "label": "3-5 H 廚房標準化作業流程",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-eb3bbc7711",
+      "label": "3-5 I 物料管理",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-7590413bc0",
+      "label": "3-5 J 人力資源管理",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-f515452e46",
+      "label": "3-5餐飲業的經營理念",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-8a16addca3",
+      "label": "4-1 D 旅館產品層次",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-5d5de2da4e",
+      "label": "4-1 E 旅館業特性",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-a0dc7ce2e4",
+      "label": "4-2 E 台灣─旅宿業的發展",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-910956778d",
+      "label": "4-3 C 旅館的分類",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-82d3167907",
+      "label": "4-3 D 各式旅館",
+      "questionCount": 41,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-3e72e549aa",
+      "label": "4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c3ba42aa22",
+      "label": "4-3 F 床鋪分類",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-71f89ec13c",
+      "label": "4-3 G 客房分類",
+      "questionCount": 15,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-75039bb088",
+      "label": "4-3 H 綜合題─客房",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-e73b89e1b8",
+      "label": "4-4 A 客務部",
+      "questionCount": 22,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-07e9d19483",
+      "label": "4-4 B 房務部",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-6ac6108f92",
+      "label": "4-4 C 後勤單位",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-30ccee39e7",
+      "label": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "questionCount": 16,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-64091e725c",
+      "label": "4-5 旅宿業的經營理念",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-8ea88a0535",
+      "label": "4-5 A 房租價目表",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b9d3246fd4",
+      "label": "4-5 B 旅館房租計價方式",
+      "questionCount": 8,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-eeb358cfac",
+      "label": "4-5 B1 旅館房租計價方式(房租&早餐)",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c787a8af4b",
+      "label": "4-5 B1旅館房租計價方式(房租&早餐)",
+      "questionCount": 14,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-4c408c5168",
+      "label": "4-5 B2 旅館房租計價方式(房租種類)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ba536e3f92",
+      "label": "4-5 B2 旅館房租計價方式（房租種類）",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-1fa571cce4",
+      "label": "4-5 B2旅館房租計價方式(房租種類)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-4cfd20d198",
+      "label": "4-5 B3 旅館房租計價方式(延遲退房)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-4cb5acc4f7",
+      "label": "4-5 B3旅館房租計價方式(延遲退房)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-16412ef0b8",
+      "label": "4-5 D 訂房",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-ddc8b7d46d",
+      "label": "4-5 E 旅館業專業術語",
+      "questionCount": 53,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-03659037c6",
+      "label": "4-5 E 專有名詞",
+      "questionCount": 4,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-681217b091",
+      "label": "4-5 F 旅宿業經營方式",
+      "questionCount": 13,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-caf2972a27",
+      "label": "4-5 G 連鎖旅館─國內",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2ffa834df4",
+      "label": "4-5 H 連鎖旅館─國外",
+      "questionCount": 15,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-15fa319ae0",
+      "label": "4-5 M 民宿管理辦法",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-63a7df4a31",
+      "label": "4-5 N 旅宿業相關計算",
+      "questionCount": 17,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-f92608d8d3",
+      "label": "5-1 C 觀光構成要素",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-e229eff5f8",
+      "label": "5-1 D 觀光系統",
+      "questionCount": 8,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-f0f664d326",
+      "label": "5-1 E 觀光種類",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-3ad31687f6",
+      "label": "5-1 F 特性",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-5e52ae397a",
+      "label": "5-2 A 外國─旅行業的發展",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-e3bd89b1c9",
+      "label": "5-2 C 台灣旅行業發展",
+      "questionCount": 21,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-136c58bdad",
+      "label": "5-2 E 綜合題─旅行業的發展過程",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-842cc64efa",
+      "label": "5-3 A1 台灣旅行業分類(綜合、甲種、乙種)",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-99d605acba",
+      "label": "5-3 A2 日本旅行業分類",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-592ae065f9",
+      "label": "5-3 A3 觀光產業區分",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ad0815007d",
+      "label": "5-3 B 資本額、註冊費、保證金、履約保證保險、永久基金、聯合基金",
+      "questionCount": 11,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-733d2892a2",
+      "label": "5-3 C 旅行業申請籌設、註冊、開業",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-e8426d32f5",
+      "label": "5-3 E 旅行業─業務內容分類",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-d414e90fbc",
+      "label": "5-4 A 旅行業的組織 (OO 部)",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-73fa5cb2ac",
+      "label": "5-4 B旅行業經理人",
+      "questionCount": 103,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-451c8fd778",
+      "label": "5-4 C 導遊人員",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-744165eb37",
+      "label": "5-5 綜合題(旅行業的經營理念)",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-910b1c7296",
+      "label": "5-5 B 團體全備旅遊(團體全備旅遊、獎勵旅遊、特殊性團體全備旅遊)",
+      "questionCount": 4,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-5a17cb529d",
+      "label": "5-5 B 團體全備旅遊（團體全備旅遊、獎勵旅遊、特殊興趣團體全備旅遊）",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2cc51c8069",
+      "label": "5-5 D 團體作業流程",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-504a22bd66",
+      "label": "5-5 E綜合題─PVT",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-825a7edb51",
+      "label": "5-5 F 護照",
+      "questionCount": 23,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-7a3cd04fa7",
+      "label": "5-5 G 簽證",
+      "questionCount": 42,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-146d940116",
+      "label": "5-5 H 機票(機票代碼、種類)",
+      "questionCount": 39,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-fd814fa86c",
+      "label": "5-5 I 聯營航空/航空聯盟",
+      "questionCount": 8,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-17efd9ec1b",
+      "label": "5-5 J 空運行李",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ab39e611e7",
+      "label": "5-5 K 飛行行程種類",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-243182534e",
+      "label": "5-5 L 聯檢程序(CIQ)",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-96fb5ec988",
+      "label": "5-5 O 責任保險",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-2bd4395292",
+      "label": "5-5 P 旅遊預警 / 旅遊警示(灰、黃、橙、紅)",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-82a41c952b",
+      "label": "5-5 R專有名詞",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-5124f7fd38",
+      "label": "6-1 A 台灣好樂園",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-0b8bc876ae",
+      "label": "6-1 B 外國─觀光遊樂業的發展",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-9998113a59",
+      "label": "6-1 E 台灣─觀光遊樂業的發展",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-cfe9930682",
+      "label": "6-1觀光遊樂產業",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-4ef53150c2",
+      "label": "6-2 會議展覽業",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-f252e8856d",
+      "label": "6-2 A會議展覽業(特性)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-437b1b82ec",
+      "label": "6-2 B MICE",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ad2b179a42",
+      "label": "6-3 A博弈娛樂業(特性)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-cff1cd88ac",
+      "label": "6-3 B 外國─博弈娛樂業",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ef696f3235",
+      "label": "6-3 B博弈娛樂業(種類)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-9ba7abe7e0",
+      "label": "6-3 C博弈娛樂業(外國)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-dfc93be9ca",
+      "label": "6-3 E博弈娛樂業(綜合題)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-a3aeece290",
+      "label": "6-4 A 陸上運輸業",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b6628bd03f",
+      "label": "6-4 B 水上運輸業",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-dd3d631b1a",
+      "label": "6-4 D 航空運輸組織─國際民航組織 ICAO(航空運輸九大航權)",
+      "questionCount": 17,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-16c841859e",
+      "label": "6-4 E 國際航空運輸協會 IATA(航空運輸三大區域、航空公司代碼)",
+      "questionCount": 4,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-b2ec50f276",
+      "label": "6-4 E1 航空運輸三大區域(TC1、TC2、TC3)",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-1f5d1c91b8",
+      "label": "6-4 E2 航空公司代碼",
+      "questionCount": 28,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-cd0bc848ab",
+      "label": "6-4 E3 城市代碼 / 機場代碼",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-793c1f979e",
+      "label": "6-4 E3城市代碼/ 機場代碼",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-a909f3414e",
+      "label": "6-4 F 搭機",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-12dad29b0d",
+      "label": "6-4 F1 飛機飛行時間",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-747c3cc092",
+      "label": "6-4 H 全球配銷系統 GDS",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-8ba62ace50",
+      "label": "6-4 I 銀行清帳計畫 BSP",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c47aa8fbaf",
+      "label": "6-4交通運輸業",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-c1b995c6f4",
+      "label": "6-4F搭機",
+      "questionCount": 6,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-606d2924e0",
+      "label": "6-4G 航空電腦訂位系統 CRS",
+      "questionCount": 7,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-34e6921f2c",
+      "label": "7-2 C 行銷發展",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-a683437fcc",
+      "label": "7-2 E 目標市場(無差異行銷、差異化行銷、集中式行銷、個人化行銷)",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-2822bfd128",
+      "label": "7-2 E SWOT 分析",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-0028abdb48",
+      "label": "7-2 F 行銷環境─PEST",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-4c7d72a4db",
+      "label": "7-2G 觀光餐旅業行銷意涵與演進（綜合題）",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-20a7411759",
+      "label": "7-3 A 4P(產品─產品生命週期 PLC、價格─訂價策略、通路、促銷)",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-08592627c0",
+      "label": "7-3 A 4P─產品(Product)、價格(Price)、通路(Place)、促銷(Promotion)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-f11a644627",
+      "label": "7-3 A1產品（Product）─產品生命週期 PLC",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-e7fa1dc43c",
+      "label": "7-3 A2價格（Price）─訂價策略",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-8f37b95587",
+      "label": "7-3 A4 促銷(Promotion)",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ad4c4f493d",
+      "label": "7-3 C 8P",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-47407a1655",
+      "label": "7-3觀光餐旅業行銷組合策略",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-0b95f63eff",
+      "label": "7-4 A 公共關係",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-f365b2f8b3",
+      "label": "7-4 B 店內個人推銷(向上、向下、交叉、整組)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c754cb37a2",
+      "label": "8-3 A 未來發展趨勢",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-b2de11e578",
+      "label": "8-3觀光餐旅業未來發展趨勢",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-d2e3bc182d",
+      "label": "烘焙─材料特性",
+      "questionCount": 16,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-91c1f43724",
+      "label": "烘焙─乳酪",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-620022b1ce",
+      "label": "烘焙─計算題",
+      "questionCount": 8,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-a07f6fa363",
+      "label": "烘焙─食品添加物",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-3e59ee0e90",
+      "label": "烘焙─粉類",
+      "questionCount": 7,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-430ca84969",
+      "label": "烘焙─專有名詞",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c1fd173e3c",
+      "label": "烘焙─產品",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-4355b7f8c4",
+      "label": "烘焙─產品分析",
+      "questionCount": 7,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-ddcd0e2ccb",
+      "label": "烘焙─酵母",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2d6d9836fd",
+      "label": "A10導遊人員管理規則",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-4c5acfec5a",
+      "label": "A12食農教育法",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2948a03787",
+      "label": "A13國家公園法",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-1aa22bf72a",
+      "label": "A14菸酒管理法施行細則",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-593857adf3",
+      "label": "A15星級旅館評鑑作業要點",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-9575abc5eb",
+      "label": "A16入境旅客攜帶行李物品報驗稅放辦法",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-adbefe74c6",
+      "label": "A1食品安全衛生管理法",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c3ae7a7d8d",
+      "label": "A2食品安全衛生管理法",
+      "questionCount": 9,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-e9009f52fd",
+      "label": "A3促進民間參與公共建設法",
+      "questionCount": 8,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-7a711116cd",
+      "label": "A4旅館業管理規則",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ae76543820",
+      "label": "A5觀光旅館業管理規則",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c4d11186c2",
+      "label": "A6觀光旅館建築及設備標準",
+      "questionCount": 11,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-cefbefb74a",
+      "label": "A7民宿管理辦法",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-0877b673d1",
+      "label": "A8旅行業管理規則",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-7f70cddff5",
+      "label": "A9領隊人員管理規則",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-4b92e5bed2",
+      "label": "A中式麵食類別",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b53dfddfad",
+      "label": "A中餐─豬肉",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-34aa25d08f",
+      "label": "A法規",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-b551ee61f4",
+      "label": "A客房清潔",
+      "questionCount": 22,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-3f0448a64f",
+      "label": "A英翻中",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-7ee2af8990",
+      "label": "A綜合題─航空類",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-3871d7169b",
+      "label": "B中餐─油溫&火侯",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ff65d95c34",
+      "label": "B中翻英",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2cf8972b4f",
+      "label": "B中翻英",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-799a4e5a25",
+      "label": "B西餐─調味蔬菜(Mirepoix)",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-0a946cd768",
+      "label": "B客房設備",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-007fc8d5d8",
+      "label": "B客房設備 / 備品",
+      "questionCount": 15,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-0914598db9",
+      "label": "C 中餐─刀法",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-5bd39225d4",
+      "label": "C1 Tourism 2020-臺灣永續觀光發展策略",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-80316ca511",
+      "label": "C2 Tourism 2025—臺灣觀光邁向 2025 方案",
+      "questionCount": 25,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-f14838f72c",
+      "label": "C3 Tourism 2030-臺灣觀光邁向 2030 方案(115-119 年)",
+      "questionCount": 3,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-4dc320ef4b",
+      "label": "C4 Taiwan Tourism 2030 觀光政策白皮書",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-135ad7b6fc",
+      "label": "C5旅行台灣 感動100",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-6e8ac2ac06",
+      "label": "C6臺灣2050淨零轉型",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-8585cef7be",
+      "label": "C7臺灣永續發展目標(SDGS)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b0a26a1873",
+      "label": "C8觀光拔尖領航方案",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-595b571192",
+      "label": "C西餐─刀工",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-5ef8b3e9d2",
+      "label": "C判讀",
+      "questionCount": 43,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-1c6284bc75",
+      "label": "C政策",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-5234c74233",
+      "label": "C旅館鑰匙",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-7d4397d0ed",
+      "label": "D 中餐─材料特性",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ee6eebcf6a",
+      "label": "D1西餐─牛肉部位",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-407a1aeaa2",
+      "label": "D1Muslim Friendly Restaurant標章",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ce3c5ed1b2",
+      "label": "D2西餐─牛排名稱",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b3341cd9a0",
+      "label": "D3西餐─牛肉等級",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-fa23baa4dd",
+      "label": "D床鋪整理",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-d0a7a881a8",
+      "label": "D整段英文寫作",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-e215126a88",
+      "label": "E 中餐─漲發法",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-f8bb09a2ca",
+      "label": "E1原住民",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-b9e24b16d1",
+      "label": "E1餐飲業投保保險",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-aea578d6f0",
+      "label": "E西餐─稠化劑",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-80d0e0ec48",
+      "label": "E保險",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-98656a8a9f",
+      "label": "E網站",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-673cc7e347",
+      "label": "F 中餐─米",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-6cb5e17fae",
+      "label": "F1西餐─醬汁(Sauce)",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-d9c3d08b6f",
+      "label": "F1國內旅遊定型化契約",
+      "questionCount": 2,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-f297f9495d",
+      "label": "F2西餐─五大母醬(Mother Sauce)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ade080a7f2",
+      "label": "F2國外旅遊定型化契約",
+      "questionCount": 6,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-60d2b3f965",
+      "label": "F3旅遊定型化契約書",
+      "questionCount": 9,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-5968ae16ee",
+      "label": "G 中餐─蔬菜",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-9472e29168",
+      "label": "G西餐─香料",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-c43db25e8e",
+      "label": "H 中餐─食用色素",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-980e8800b7",
+      "label": "H西餐─高湯",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-177db66f12",
+      "label": "HACCP (Hazard Analysis and Critical Control Point)危害分析與重要管制點",
+      "questionCount": 18,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "tourism-hospitality-aad98cc7cb",
+      "label": "I 中餐─使用器皿",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-1feb2655d3",
+      "label": "I西餐─擺盤",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-6017417106",
+      "label": "J 中餐─維生素",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-2c2845c286",
+      "label": "J西餐─湯品",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-ec06772f22",
+      "label": "K中餐─調味料",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-3f953774ea",
+      "label": "K西餐─設備",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-31f13ab157",
+      "label": "L中餐─製品(麵粉、豆)",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-fe784142f8",
+      "label": "L西餐─魚",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-00e98718e6",
+      "label": "M中餐─設備",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-41878e2e84",
+      "label": "M西餐─乳酪",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-af2b987114",
+      "label": "N中餐─魚",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-61df6c7934",
+      "label": "N西餐─三明治",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-3f1aa0ccc0",
+      "label": "O西餐─專業術語",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-7cf4601851",
+      "label": "P西餐─食材保存",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-098d5e7541",
+      "label": "Q西餐─沙拉",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-6e8da2ebc1",
+      "label": "R西餐─蔬菜",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-7388322570",
+      "label": "S西餐─菜餚",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "tourism-hospitality-fb40a6c5ff",
+      "label": "T西餐─調味料",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-fdd2ed66a0",
+      "label": "1-1 A 構成要素",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-da02b1c9af",
+      "label": "1-1 B 特性",
+      "questionCount": 8,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-7402f5274f",
+      "label": "1-1餐飲商品",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-231c4524f9",
+      "label": "1-2 A 行走",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-856517667e",
+      "label": "1-2 D 介紹",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-148c2b1ab5",
+      "label": "1-2 G 握手",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-573e2885d0",
+      "label": "1-2 H 乘車",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-e9cbb423c3",
+      "label": "1-2 K 綜合題─基本服務禮儀",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-ea614cd5fa",
+      "label": "10-1 A 中餐服務流程",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-d3c9352ba8",
+      "label": "10-1 A 中餐服務標準流程",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-2f6b5a3349",
+      "label": "10-1中餐廳服務流程",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-666c9352be",
+      "label": "10-2 A 西餐服務流程",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-0da4d7a389",
+      "label": "10-3 A 下午茶服務流程",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-26504c5396",
+      "label": "10-3 A 下午茶服務標準流程",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-830c5d2fed",
+      "label": "10-4 A 宴會廳服務流程",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-23b37a50e3",
+      "label": "11-1 A 顧客抱怨類型與處理步驟",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-98b5de98a0",
+      "label": "11-2 B 意外與緊急事件應變流程",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-912eace118",
+      "label": "11-2 B1火災",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-beeaf5e21e",
+      "label": "2-1 餐廳設備",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-65b7e47511",
+      "label": "2-1 A 餐桌",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-500fe1d2fb",
+      "label": "2-1 B 轉檯",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-0fcf0a9b6e",
+      "label": "2-1 C 桌椅",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-e0ecafd156",
+      "label": "2-1 E 各式服務車",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-476779ffa4",
+      "label": "2-1 G 餐廳設備",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-b6ebc46203",
+      "label": "2-2 A 金屬類(凹形餐具、扁平餐具)",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-9b205291c8",
+      "label": "2-2 B 瓷器類(西式、中式)",
+      "questionCount": 14,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-62132f46f5",
+      "label": "2-2 C 玻璃類(平底、有腳、啤酒、香檳、葡萄酒、造型)",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-014a8b464e",
+      "label": "2-2 D 綜合題─餐廳器具(金屬類、瓷器類、玻璃類)",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-a195abe25f",
+      "label": "2-2A1洗指盅 / 洗手盅(Finger Bowl)",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-699c39de87",
+      "label": "2-3 A 金屬類(不鏽鋼、鍍銀)",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-ecba1a61e4",
+      "label": "2-3 B 瓷器類",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-de6623c873",
+      "label": "2-4 A 布巾種類與規格",
+      "questionCount": 11,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-200df61b04",
+      "label": "3-2 A檯布鋪設(方檯布、圓桌檯布─推拉、拉鋪、撒網、長檯布、檯心布)",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-35a2ce151b",
+      "label": "3-2 B桌裙鋪設",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-fef68dab16",
+      "label": "3-3 A 口布折疊技法(二、三、四、六摺、對角)",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-777091b7af",
+      "label": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-4bf23ec584",
+      "label": "3-5 A 持盤技巧",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-250c389c97",
+      "label": "3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)",
+      "questionCount": 6,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-d3ccba295a",
+      "label": "3-6 A 操作方法(雙手─左叉右匙;單手─手握法、指握法)",
+      "questionCount": 7,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-899e57f69f",
+      "label": "3-6 B 服務叉匙使用情境與技巧",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-ca1cbe011c",
+      "label": "4-1 A 營業前準備工作(Mise en Place)",
+      "questionCount": 8,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-8157e04657",
+      "label": "4-1 B 餐廳環境的清潔維護工作(House Work)",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-e2ce1e6558",
+      "label": "4-1 C 服務區準備(Service Mise en Place)&用餐區準備(Guest Mise en Place)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-01c9285b61",
+      "label": "4-1 D 服務前會議(Briefing)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-6dd1275469",
+      "label": "4-1 E 餐廳環境清潔與整理(綜合題)",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-ffadbd8b69",
+      "label": "4-2 A 工作檯擺設與整理",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-ccd0bd3aa2",
+      "label": "4-4 A 三槽式餐具洗滌",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-7d25b072f6",
+      "label": "4-4 C 殘留物試驗",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-2cd91242bf",
+      "label": "4-4 E 垃圾分類 環保6R",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-76d66dd20c",
+      "label": "4-4 F 資源回收與塑膠材質回收標誌",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-8de4377a1c",
+      "label": "4-4餐務整理與換場作業",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-28cdb6f038",
+      "label": "5-1 B 菜單種類",
+      "questionCount": 16,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-a9acecdda9",
+      "label": "5-1 C 早餐認識",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-a464648187",
+      "label": "5-1 C1 早餐認識─蛋",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-c3049c78d2",
+      "label": "5-1 C2 早餐認識─美式、歐陸式、英式",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-744dfb139d",
+      "label": "5-1 E 宗教菜單禁忌",
+      "questionCount": 46,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-d961a4b78d",
+      "label": "5-1 E1 宗教菜單禁忌(素食)",
+      "questionCount": 12,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-516b6dbd01",
+      "label": "5-1 F 各國料理特色",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-b438a4cdc4",
+      "label": "5-2 A 傳統西式菜單結構",
+      "questionCount": 30,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-a8b12703fb",
+      "label": "5-2 B 中式菜單結構",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-47d4fcdb99",
+      "label": "5-2 C 日式菜單結構(日本料理)",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-ffb78c6c1d",
+      "label": "5-2 D 菜單工程",
+      "questionCount": 7,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-9b9b785dd1",
+      "label": "5-3 A 飲料單與酒單之功能與結構",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-64c7970815",
+      "label": "6-1 A 中餐餐桌擺設",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-3b24c231a3",
+      "label": "6-1~6-3綜合題─餐桌擺設",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-63231f4097",
+      "label": "6-2 A 西餐餐桌擺設",
+      "questionCount": 43,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-496b7a8412",
+      "label": "7-1 A 中餐席次安排原則(方桌、長桌、圓桌)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-5898a96ad0",
+      "label": "7-1 B 西餐席次安排原則(方桌、長桌、圓桌、ㄇ字形、一字形、T字形、E字形、鐵板燒)",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-e02963bc76",
+      "label": "7-1 C 綜合題─席次安排",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-b04dcb1d1a",
+      "label": "7-2 A 中餐用餐禮儀",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-82c459ed11",
+      "label": "7-2 B 西餐用餐禮儀",
+      "questionCount": 14,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-048a51ccc8",
+      "label": "7-2 B1 牛排熟度",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-c1d8b7ee69",
+      "label": "7-2 B1牛排熟度",
+      "questionCount": 13,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-0c8b2a30ee",
+      "label": "7-2 C 日本料理用餐禮儀",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-d3748f6b63",
+      "label": "7-2 D 綜合題─用餐禮儀",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-1ca67990b2",
+      "label": "7-2用餐禮儀",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-9a17cd2ca5",
+      "label": "8-1 餐桌服務",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-8c7e668dac",
+      "label": "8-1 A 服務原則",
+      "questionCount": 7,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-a5d5f0e0a0",
+      "label": "8-1 B 餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-4923175334",
+      "label": "8-1 B 餐桌服務（美式、英式、法式、旁桌、俄式、中式）",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-bacf5403a4",
+      "label": "8-1 B1 餐桌服務(旁桌服務技巧)",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-32b64ec107",
+      "label": "8-1 B1餐桌服務(旁桌服務技巧)",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-260c297d50",
+      "label": "8-1 B2餐桌服務(旁桌服務技巧─Tossing凱薩沙拉)",
+      "questionCount": 39,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-a0c78a2070",
+      "label": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+      "questionCount": 93,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-14fa144293",
+      "label": "8-4 A 客房餐飲服務(Room Service)",
+      "questionCount": 23,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "foodservice-242c4c7cfb",
+      "label": "9-1 A 餐前酒種類與服務技巧",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-41a6a7ed2a",
+      "label": "9-2 A 葡萄酒開瓶器使用",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-9b08cd49cb",
+      "label": "9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程",
+      "questionCount": 21,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-186985396a",
+      "label": "9-2 C 品酒步驟與要領",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-cc3336b8cc",
+      "label": "9-2 D 葡萄酒與餐食搭配原則",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-972ca68c4c",
+      "label": "9-2 E酒類與餐食搭配原則",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-54d4fa9ec6",
+      "label": "9-3 A 餐後酒種類與服務技巧",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-551928cbdc",
+      "label": "9-4 B 紹興酒服務",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "foodservice-28c6a8f183",
+      "label": "9-4E 酒類服務(綜合題)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-61adf817a8",
+      "label": "1-1 A2 酒精",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-89d6ccd050",
+      "label": "1-1 B1 有無酒精性",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-92ccc4fcc6",
+      "label": "1-1 B1 有無酒精性",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-e5fa725094",
+      "label": "1-1 B1 有無酒精性",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-89f3711aa7",
+      "label": "1-1 B2 有無咖啡因",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-ce3317ff16",
+      "label": "1-1 B5 調配飲料",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-f4047c2b3c",
+      "label": "1-1 B6 咖啡因含量",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-3b37490b9a",
+      "label": "1-1 B6 咖啡因含量",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-b37fdbe420",
+      "label": "1-1 B6 咖啡因含量",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-330d0350d2",
+      "label": "1-4 B 吧檯設備",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-aa0bd7f722",
+      "label": "1-4 C 吧檯種類",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4ef8b0dc50",
+      "label": "2-1 A 飲料調製的器具",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-0d20940743",
+      "label": "2-2 A3 花草茶",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-b1d60ccd69",
+      "label": "2-2 A4 花果茶",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-f3114815b1",
+      "label": "2-2 B 果汁",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-e58b9ec6ca",
+      "label": "2-2 B 飲料調製的杯子",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4e387547e3",
+      "label": "2-2 C 糖 / 糖漿",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-2688505743",
+      "label": "2-2 D 蔬果生鮮食材",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-1c65695edf",
+      "label": "2-3 A 飲料調製方法",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-bf7efedc4a",
+      "label": "2-3 A4漂浮法(Float)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-5c77e0ffc8",
+      "label": "2-3 C 度量衡",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-f1b069c6b6",
+      "label": "2-3 C 度量衡",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-e6594fa950",
+      "label": "3-1 D 礦泉水(Mineral Water)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-e66ff2153f",
+      "label": "3-1 E 冰沙",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-5256f039fd",
+      "label": "3-1 F 乳品飲料",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-48105008c2",
+      "label": "3-1 F 乳品飲料",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-8d7b88e77b",
+      "label": "3-1綜合題─包裝飲料的認識",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-73c6067494",
+      "label": "3-2 A 台灣特有飲料",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-66003768f2",
+      "label": "3-2 A 台灣特有飲料",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-c503a26cb2",
+      "label": "3-3 A 飲料調製",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-217a5763b6",
+      "label": "3-3 A1 乳品飲料調製",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-0ec3c56071",
+      "label": "3-3 A7 茶的調製",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-002e034f64",
+      "label": "4-1 A 茶的起源歷史與發展",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-d7751a1851",
+      "label": "4-1 A2西方茶葉歷史",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-1ed02bb59b",
+      "label": "4-2 A1茶樹的栽種",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-57446b2977",
+      "label": "4-2 A2茶樹的生長環境",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-11f2f31be5",
+      "label": "4-2 B 茶樹的品種",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-9e8b5cf78b",
+      "label": "4-2 B1 大葉種&小葉種",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-13d657b095",
+      "label": "4-2 B3 台灣茶改場培育之茶樹品種(台茶O號)",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-eaab75d2ff",
+      "label": "4-2 B3 台灣茶改場培育之茶樹品種(台茶O號)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-8174418af8",
+      "label": "4-2 C 茶葉的分類與特性",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-e1bad85bfd",
+      "label": "4-2 C2-1 不發酵茶",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-cef94bcbc2",
+      "label": "4-2 C2-1 不發酵茶",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-fa76624229",
+      "label": "4-2 C2-2 部分發酵茶",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-b88545fe65",
+      "label": "4-2 C2-2 部分發酵茶",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-fe313b58fd",
+      "label": "4-2 C2-3 全發酵茶",
+      "questionCount": 17,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-22ed50bd0a",
+      "label": "4-2 C2-4 後發酵茶",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-0b00dff88e",
+      "label": "4-2 C2茶葉四大分類",
+      "questionCount": 16,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-d68a607aec",
+      "label": "4-2 C2茶葉四大分類",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-000a0679fb",
+      "label": "4-2 C2茶葉四大分類",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-89184abb47",
+      "label": "4-2 D 台灣茶區分布",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-b4c7e8affe",
+      "label": "4-2 D 台灣茶區分布",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-46541a77ad",
+      "label": "4-3 A 茶葉的製程",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-706913bf9d",
+      "label": "4-3 A 茶葉的製程",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-9a1e3b9d9e",
+      "label": "4-3 A 茶葉的製程",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-8adb85be31",
+      "label": "4-3 D 茶的成分",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-6a9afb5181",
+      "label": "4-4 A 泡茶要素",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-f40764872f",
+      "label": "4-4 B 泡茶器具",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4405024715",
+      "label": "4-4茶的沖泡方法及調製",
+      "questionCount": 1,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "beverage-a0d0b5b3c8",
+      "label": "5-2 A2生長環境",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-3a96d4a9d6",
+      "label": "5-2 B 咖啡豆",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-b047eaa29e",
+      "label": "5-2 B1咖啡豆品種(阿拉比卡Arabica、羅姆斯達Robusta、利比利卡Liberica)",
+      "questionCount": 5,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "beverage-4ae820854d",
+      "label": "5-2 B2-1咖啡豆精緻過程（研磨）",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-53faba3e66",
+      "label": "5-2 B2-1咖啡豆精緻過程(烘焙)",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-9be51b8f91",
+      "label": "5-2 B2咖啡豆精緻過程",
+      "questionCount": 7,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-d38c8d3199",
+      "label": "5-2 B2咖啡豆精緻過程",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-9d0c98dcdb",
+      "label": "5-2 C單品咖啡",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-13d3bd985d",
+      "label": "5-2 C單品咖啡",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-86ba6cb072",
+      "label": "5-2 C單品咖啡產區(中南美洲、阿拉伯非洲、東南亞)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-718cfee2c9",
+      "label": "5-2 C單品咖啡產區(中南美洲、阿拉伯非洲、東南亞)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-5312ab0255",
+      "label": "5-2 C單品咖啡產區（中南美洲、阿拉伯非洲、東南亞）",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4b0ae14cc7",
+      "label": "5-2 F咖啡的成分",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-65d22abc3f",
+      "label": "5-3 B 烘焙階段",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-33e5e4c446",
+      "label": "5-4 A 咖啡萃取",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-bd1caab305",
+      "label": "5-5 A咖啡沖煮方法",
+      "questionCount": 24,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-3c36f0dcb9",
+      "label": "5-5 A咖啡沖煮方法",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-2d4d69b1d8",
+      "label": "5-5 A咖啡沖煮方法",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-f88682aa49",
+      "label": "5-5 B 特調咖啡基底(普通咖啡、義式濃縮咖啡)",
+      "questionCount": 19,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4f7d9e6670",
+      "label": "5-5 B 特調咖啡基底(普通咖啡、義式濃縮咖啡)",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-ef77a8c296",
+      "label": "6-1 A 釀造酒",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-38fd346715",
+      "label": "6-1 A1-1啤酒品牌",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-44c5403a4b",
+      "label": "6-1 A1-2啤酒發酵法",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4cd4cdddb7",
+      "label": "6-1 A1啤酒(Beer)",
+      "questionCount": 13,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-6635612910",
+      "label": "6-1 A2-1強化葡萄酒",
+      "questionCount": 8,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-b063dfa39e",
+      "label": "6-1 A2-2雪莉酒─索雷亞系統(Solera System)",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-cb4551f27a",
+      "label": "6-1 A2-3氣泡酒&香檳酒",
+      "questionCount": 25,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-37e7020cd8",
+      "label": "6-1 A2-4各國葡萄酒分級",
+      "questionCount": 6,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-a892741dd4",
+      "label": "6-1 A2-4各國葡萄酒分級",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-a9e5066c4b",
+      "label": "6-1 A2-5葡萄品種",
+      "questionCount": 19,
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "beverage-5aaf5a3f20",
+      "label": "6-1 A2-6 薄酒萊新酒(Beaujolais Nouveau)",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-61f54a61d2",
+      "label": "6-1 A2-6 薄酒萊新酒(Beaujolais Nouveau)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-aa0814987a",
+      "label": "6-1 A2葡萄酒(Wine)",
+      "questionCount": 20,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-9e0a013e48",
+      "label": "6-1 A2葡萄酒(Wine)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-6f739f3062",
+      "label": "6-1 A2葡萄酒（Wine）",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-03e76d9cae",
+      "label": "6-1 A3清酒",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-302117da91",
+      "label": "6-1 A4國產─釀造酒",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-938c4034c0",
+      "label": "6-1~6-3(綜合題─釀造酒、蒸餾酒、合成酒)",
+      "questionCount": 9,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4a86edd3c3",
+      "label": "6-1~6-3(綜合題─釀造酒、蒸餾酒、合成酒)",
+      "questionCount": 14,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-9dc87300b9",
+      "label": "6-1～6-3（綜合題─釀造酒、蒸餾酒、合成酒）",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-aa8a4f71ad",
+      "label": "6-2 A 蒸餾酒─六大基酒",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-ce4d12e74b",
+      "label": "6-2 A 蒸餾酒─六大基酒",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-a6dca84a5c",
+      "label": "6-2 A1琴酒(Gin)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-d73a205611",
+      "label": "6-2 A2伏特加(Vodka)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-c1d2114d88",
+      "label": "6-2 A2伏特加(Vodka)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-6cbe3caab3",
+      "label": "6-2 A3蘭姆酒(Rum)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-2e3e692211",
+      "label": "6-2 A3蘭姆酒(Rum)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-72f88bedd2",
+      "label": "6-2 A4特吉拉 / 龍舌蘭(Tequila)",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-516376b6bb",
+      "label": "6-2 A4特吉拉 / 龍舌蘭(Tequila)",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-77c17a118c",
+      "label": "6-2 A5威士忌(Whisky / Whiskey)",
+      "questionCount": 26,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4d91dd0b0d",
+      "label": "6-2 A6白蘭地(Brandy)",
+      "questionCount": 21,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-c7a68340f5",
+      "label": "6-2 A6白蘭地(Brandy)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-7e7d76b27c",
+      "label": "6-2 C 蒸餾酒(綜合題)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-194f104f51",
+      "label": "6-2 C 蒸餾酒(綜合題)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-1d97e8f0cf",
+      "label": "6-3 A香甜酒 / 再製酒 / 合成酒(Liqueur)",
+      "questionCount": 12,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-e36ef66032",
+      "label": "6-3 A香甜酒 / 再製酒 / 合成酒(Liqueur)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-d55e127612",
+      "label": "6-3 B國產─合成酒",
+      "questionCount": 5,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4ea20c7e8b",
+      "label": "7-1 B雞尾酒的種類",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-f5029dd457",
+      "label": "7-1 B雞尾酒的種類",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-5277f9e707",
+      "label": "7-1 C 雞尾酒的原則",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-3ff81ef4bb",
+      "label": "7-1 C 雞尾酒的原則",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-4d5a58fa8c",
+      "label": "7-1 D 雞尾酒的裝飾物",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-3b829dc939",
+      "label": "7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-aaa906a274",
+      "label": "7-2 B 雞尾酒的基酒─六大基酒、香甜酒、葡萄酒、義式咖啡",
+      "questionCount": 10,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-792af33491",
+      "label": "7-2 C 雞尾酒的材料",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-20dbd0a612",
+      "label": "7-2 D 雞尾酒的杯子",
+      "questionCount": 4,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-5b117c3377",
+      "label": "7-2 D 雞尾酒的杯子",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-0b4bcd5557",
+      "label": "7-2 E 雞尾酒的裝飾物",
+      "questionCount": 11,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-823748e36d",
+      "label": "7-2 E 雞尾酒的裝飾物",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-7005810daa",
+      "label": "7-2(綜合題─有酒精性雞尾酒)",
+      "questionCount": 30,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-2e4636b057",
+      "label": "7-2(綜合題─有酒精性雞尾酒)",
+      "questionCount": 2,
+      "reviewStatus": "approved"
     },
     {
       "id": "coffee-and-tea",
-      "label": "咖啡、茶與非酒精飲料",
-      "questionCount": 366,
-      "reviewStatus": "draft"
+      "label": "咖啡研磨設備",
+      "questionCount": 1,
+      "reviewStatus": "approved"
     },
     {
-      "id": "wine-and-spirits",
-      "label": "酒類、葡萄酒與烈酒",
-      "questionCount": 352,
-      "reviewStatus": "draft"
+      "id": "beverage-8b2fe7b2c2",
+      "label": "飲料實務綜合題",
+      "questionCount": 1,
+      "reviewStatus": "approved"
     },
     {
-      "id": "cocktails-and-bar",
-      "label": "雞尾酒、吧檯器具與調製",
-      "questionCount": 90,
-      "reviewStatus": "draft"
+      "id": "beverage-4c83cb71bc",
+      "label": "綜合題─酒類知識",
+      "questionCount": 1,
+      "reviewStatus": "approved"
     },
     {
-      "id": "hotel-rooms-and-reservations",
-      "label": "旅館客房、訂房與房務",
-      "questionCount": 413,
-      "reviewStatus": "draft"
+      "id": "beverage-6308a04871",
+      "label": "綜合題─酒類知識",
+      "questionCount": 2,
+      "reviewStatus": "approved"
     },
     {
-      "id": "travel-agency-and-airline",
-      "label": "旅行業、航空票務與入出境",
-      "questionCount": 333,
-      "reviewStatus": "draft"
+      "id": "beverage-9fcd235bc3",
+      "label": "綜合題─無酒精飲料知識",
+      "questionCount": 3,
+      "reviewStatus": "approved"
     },
     {
-      "id": "culinary-food-production",
-      "label": "烹調法、醬汁與食材處理",
-      "questionCount": 289,
-      "reviewStatus": "draft"
+      "id": "beverage-6536ca8bad",
+      "label": "A17風景特定區管理規則",
+      "questionCount": 1,
+      "reviewStatus": "approved"
     },
     {
-      "id": "hospitality-english",
-      "label": "餐旅英文情境與服務對話",
-      "questionCount": 4,
-      "reviewStatus": "draft"
+      "id": "beverage-4a9b08749d",
+      "label": "A18發展觀光條例",
+      "questionCount": 3,
+      "reviewStatus": "approved"
     },
     {
-      "id": "law-and-current-affairs",
-      "label": "觀光法規、國際組織與時事",
-      "questionCount": 8,
-      "reviewStatus": "draft"
+      "id": "beverage-307fb2be4a",
+      "label": "A19食品良好衛生規範準則",
+      "questionCount": 1,
+      "reviewStatus": "approved"
     },
     {
-      "id": "other-needs-review",
-      "label": "其他：待人工審核",
-      "questionCount": 932,
-      "reviewStatus": "needs-review"
+      "id": "beverage-ef5a10c06c",
+      "label": "A2旅行業接待大陸地區人民來臺觀光旅遊團品質注意事項",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-70223d7dc4",
+      "label": "B中翻英",
+      "questionCount": 3,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-2350005e86",
+      "label": "B時事",
+      "questionCount": 1,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "beverage-d206c8a16d",
+      "label": "C4 Taiwan Tourism 2030 觀光政策白皮書",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "culinary-dcd620a683",
+      "label": "O中餐─海鮮",
+      "questionCount": 2,
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "culinary-8bb2e5f84a",
+      "label": "P中餐─其他材料",
+      "questionCount": 2,
+      "reviewStatus": "approved"
     }
-  ],
-  "questionCount": 3516,
-  "conceptCount": 387
+  ]
 }

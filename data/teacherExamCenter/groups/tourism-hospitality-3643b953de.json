@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-3643b953de",
     "subject": "tourism-hospitality",
@@ -11,16 +11,16 @@
     "questionIds": [
       "teacher-exam-101-02-q002-d559759314",
       "teacher-exam-103-04-q044-a61aea29f3",
-      "teacher-exam-104-05-q005-e28defbda4",
       "teacher-exam-113-14-q031-acf2cabf96",
-      "teacher-exam-96-18-q016-4504e5f340"
+      "teacher-exam-96-18-q016-4504e5f340",
+      "teacher-exam-104-05-q005-e28defbda4"
     ],
     "years": [
-      113,
-      104,
-      103,
+      96,
       101,
-      96
+      103,
+      104,
+      113
     ],
     "publisherBasis": [
       {
@@ -28,12 +28,34 @@
         "chapter": "CH3 餐飲業",
         "locator": "3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)",
         "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)；3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-4 B 組織結構分類(簡單型、功能型、矩陣型、產品型)"
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 5,
-    "sampleQuestion": "Grid Organization ：網狀組織／矩陣組織"
+    "unresolvedCount": 0
   },
   "questions": [
     {

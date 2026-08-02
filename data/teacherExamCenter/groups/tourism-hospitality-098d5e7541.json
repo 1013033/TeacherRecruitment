@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-098d5e7541",
     "subject": "tourism-hospitality",
@@ -10,17 +10,35 @@
     "description": "",
     "questionIds": [
       "teacher-exam-101-02-q013-abccbbd756",
+      "teacher-exam-109-10-q009-32d542d875",
       "teacher-exam-104-05-q019-f3e65b0d09",
-      "teacher-exam-105-06-q007-2b40412e94",
-      "teacher-exam-109-10-q009-32d542d875"
+      "teacher-exam-105-06-q007-2b40412e94"
     ],
     "years": [
-      109,
-      105,
+      101,
       104,
-      101
+      105,
+      109
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "Q西餐─沙拉",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：Q西餐─沙拉"
+      },
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "Q西餐─沙拉",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：Q西餐─沙拉"
+      },
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "Q西餐─沙拉",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：Q西餐─沙拉"
+      },
       {
         "source": "manual",
         "chapter": "西餐",

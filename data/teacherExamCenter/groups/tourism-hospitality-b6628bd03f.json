@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-b6628bd03f",
     "subject": "tourism-hospitality",
@@ -9,16 +9,28 @@
     "label": "6-4 B 水上運輸業",
     "description": "",
     "questionIds": [
-      "teacher-exam-107-08-q032-4cb7d334be",
       "teacher-exam-113-14-q036-a10f0d425c",
-      "teacher-exam-114-15-q021-0a139b9046"
+      "teacher-exam-114-15-q021-0a139b9046",
+      "teacher-exam-107-08-q032-4cb7d334be"
     ],
     "years": [
-      114,
+      107,
       113,
-      107
+      114
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 B 水上運輸業",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-4 B 水上運輸業"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 B 水上運輸業",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-4 B 水上運輸業"
+      },
       {
         "source": "manual",
         "chapter": "CH6 觀光餐旅相關產業",
@@ -27,9 +39,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 3,
-    "sampleQuestion": "關於「Cruise ship」的敘述下列何者正確？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

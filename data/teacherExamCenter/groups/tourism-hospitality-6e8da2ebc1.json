@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-6e8da2ebc1",
     "subject": "tourism-hospitality",
@@ -9,14 +9,14 @@
     "label": "R西餐─蔬菜",
     "description": "",
     "questionIds": [
-      "teacher-exam-104-05-q007-24c22916f4",
+      "teacher-exam-99-21-q006-c97b42b1bc",
       "teacher-exam-109-10-q002-ab6ac569b4",
-      "teacher-exam-99-21-q006-c97b42b1bc"
+      "teacher-exam-104-05-q007-24c22916f4"
     ],
     "years": [
-      109,
+      99,
       104,
-      99
+      109
     ],
     "publisherBasis": [
       {
@@ -24,6 +24,18 @@
         "chapter": "西餐",
         "locator": "R西餐─蔬菜",
         "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：R西餐─蔬菜"
+      },
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "R西餐─蔬菜",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：R西餐─蔬菜"
+      },
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "R西餐─蔬菜",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：R西餐─蔬菜"
       }
     ],
     "reviewStatus": "approved",

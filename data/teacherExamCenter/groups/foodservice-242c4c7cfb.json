@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "foodservice-242c4c7cfb",
     "subject": "foodservice",
@@ -9,12 +9,12 @@
     "label": "9-1 A 餐前酒種類與服務技巧",
     "description": "",
     "questionIds": [
-      "teacher-exam-101-02-q003-f4580080d8",
-      "teacher-exam-115-16-q019-69b179aac5"
+      "teacher-exam-115-16-q019-69b179aac5",
+      "teacher-exam-101-02-q003-f4580080d8"
     ],
     "years": [
-      115,
-      101
+      101,
+      115
     ],
     "publisherBasis": [
       {
@@ -22,6 +22,12 @@
         "chapter": "CH9 飲料服務",
         "locator": "9-1 A 餐前酒種類與服務技巧",
         "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：9-1 A 餐前酒種類與服務技巧"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH9 飲料服務",
+        "locator": "9-1 A 餐前酒種類與服務技巧",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：9-1 A 餐前酒種類與服務技巧"
       }
     ],
     "reviewStatus": "approved",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "foodservice-32b64ec107",
     "subject": "foodservice",
@@ -9,19 +9,43 @@
     "label": "8-1 B1餐桌服務(旁桌服務技巧)",
     "description": "",
     "questionIds": [
-      "teacher-exam-105-06-q019-1b99b048ed",
       "teacher-exam-108-09-q005-0ed02b30e4",
       "teacher-exam-108-09-q006-404a95611a",
+      "teacher-exam-105-06-q019-1b99b048ed",
       "teacher-exam-111-12-q018-f21fd4e343",
       "teacher-exam-113-14-q029-8ee77d925b"
     ],
     "years": [
-      113,
-      111,
+      105,
       108,
-      105
+      111,
+      113
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B1餐桌服務(旁桌服務技巧)",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B1餐桌服務(旁桌服務技巧)",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=172, second=108。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B1餐桌服務(旁桌服務技巧)",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH8 餐飲服務",
+        "locator": "8-1 B1餐桌服務(旁桌服務技巧)",
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+      },
       {
         "source": "manual",
         "chapter": "CH8 餐飲服務",

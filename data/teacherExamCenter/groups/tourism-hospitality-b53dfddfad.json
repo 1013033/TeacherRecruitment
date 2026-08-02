@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-b53dfddfad",
     "subject": "tourism-hospitality",
@@ -9,26 +9,68 @@
     "label": "A中餐─豬肉",
     "description": "",
     "questionIds": [
-      "teacher-exam-108-09-q002-75dfed4c04",
-      "teacher-exam-109-10-q001-4c00d2f6fa",
       "teacher-exam-113-14-q014-c15a9265bb",
-      "teacher-exam-113-14-q005-376d01ab95",
+      "teacher-exam-108-09-q002-75dfed4c04",
+      "teacher-exam-99-21-q003-ab39ca543a",
+      "teacher-exam-97-19-q016-4b02480677",
       "teacher-exam-94-17-q037-b9f4d37276",
       "teacher-exam-96-18-q002-172b4fb128",
-      "teacher-exam-97-19-q035-d70e30daa7",
-      "teacher-exam-97-19-q016-4b02480677",
-      "teacher-exam-99-21-q003-ab39ca543a"
+      "teacher-exam-113-14-q005-376d01ab95",
+      "teacher-exam-109-10-q001-4c00d2f6fa",
+      "teacher-exam-97-19-q035-d70e30daa7"
     ],
     "years": [
-      113,
-      109,
-      108,
-      99,
-      97,
+      94,
       96,
-      94
+      97,
+      99,
+      108,
+      109,
+      113
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "A中餐─豬肉",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "A中餐─豬肉",
+        "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：A中餐─豬肉"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "A中餐─豬肉",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "A中餐─豬肉",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "A中餐─豬肉",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "A中餐─豬肉",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+      },
+      {
+        "source": "manual",
+        "chapter": "中餐",
+        "locator": "A中餐─豬肉",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+      },
       {
         "source": "manual",
         "chapter": "中餐",
@@ -37,9 +79,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 9,
-    "sampleQuestion": "豬肉依其各部位的不同，區分為肩胛部、背脊部、後腿部、腹脇部，請解釋各部位內的肉品，每一部位至少舉例出2種？"
+    "unresolvedCount": 0
   },
   "questions": [
     {
@@ -137,6 +177,54 @@
       "sequence": 1598
     },
     {
+      "id": "teacher-exam-113-14-q005-376d01ab95",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 5 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-34075",
+      "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+      "schoolName": "國立臺南家齊高級中等學校",
+      "questionNumber": 5,
+      "questionType": "term-explanation",
+      "prompt": "老鼠肉",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[中餐] - [A中餐─豬肉]",
+      "conceptId": "tourism-hospitality-b53dfddfad",
+      "conceptLabel": "A中餐─豬肉",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "中餐",
+          "locator": "A中餐─豬肉",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第三章 餐飲業] - [第三章 餐飲業]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "中餐",
+            "locator": "A中餐─豬肉",
+            "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+          }
+        ],
+        "updatedAt": "2026-07-31T06:59:43.629Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "human-reviewed-1150731-morning",
+        "manual-question-type-term-explanation-1150801"
+      ],
+      "searchText": "老鼠肉  觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉",
+      "sequence": 2183
+    },
+    {
       "id": "teacher-exam-113-14-q014-c15a9265bb",
       "sourceYear": 113,
       "sourceLabel": "113 年 / 桃園市立高級中等學校",
@@ -185,54 +273,6 @@
       "sequence": 2125,
       "answer": "豬前腿接近里肌的一塊部位肉",
       "promptPreview": "太興肉為何種部位的肉？"
-    },
-    {
-      "id": "teacher-exam-113-14-q005-376d01ab95",
-      "sourceYear": 113,
-      "sourceLabel": "113 年第 5 題",
-      "sourceFile": "113年教師甄試題目.md",
-      "sourceLocator": "113年教師甄試題目.md#offset-34075",
-      "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
-      "schoolName": "國立臺南家齊高級中等學校",
-      "questionNumber": 5,
-      "questionType": "term-explanation",
-      "prompt": "老鼠肉",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[中餐] - [A中餐─豬肉]",
-      "conceptId": "tourism-hospitality-b53dfddfad",
-      "conceptLabel": "A中餐─豬肉",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "中餐",
-          "locator": "A中餐─豬肉",
-          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
-        }
-      ],
-      "explanation": {
-        "status": "approved",
-        "answerExplanation": "名詞解釋題：「老鼠肉」。",
-        "optionExplanations": [],
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "中餐",
-            "locator": "A中餐─豬肉",
-            "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
-          }
-        ],
-        "updatedAt": "2026-07-31T06:59:43.629Z"
-      },
-      "reviewStatus": "approved",
-      "flags": [
-        "human-reviewed-1150731-morning",
-        "manual-question-type-term-explanation-1150801"
-      ],
-      "searchText": "老鼠肉  觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉",
-      "sequence": 2183
     },
     {
       "id": "teacher-exam-94-17-q037-b9f4d37276",
@@ -368,6 +408,89 @@
       "sequence": 2719
     },
     {
+      "id": "teacher-exam-97-19-q016-4b02480677",
+      "sourceYear": 97,
+      "sourceLabel": "97 年第 16 題",
+      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
+      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-28043",
+      "paperTitle": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
+      "schoolName": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
+      "questionNumber": 16,
+      "questionType": "single-choice",
+      "prompt": "豬肉屠體中，肉質最柔嫩的部位是",
+      "options": [
+        {
+          "id": "1",
+          "text": "里脊肉"
+        },
+        {
+          "id": "2",
+          "text": "胛心肉"
+        },
+        {
+          "id": "3",
+          "text": "後腿肉"
+        },
+        {
+          "id": "4",
+          "text": "腰裡肉"
+        }
+      ],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[中餐] - [A中餐─豬肉]",
+      "conceptId": "tourism-hospitality-b53dfddfad",
+      "conceptLabel": "A中餐─豬肉",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "中餐",
+          "locator": "A中餐─豬肉",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 4（腰裡肉）。",
+        "optionExplanations": [
+          {
+            "optionId": "1",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "2",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "3",
+            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
+          },
+          {
+            "optionId": "4",
+            "explanation": "此選項為本題標準答案。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "中餐",
+            "locator": "A中餐─豬肉",
+            "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
+          }
+        ],
+        "updatedAt": "2026-07-31T06:59:43.629Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-numeric-choice-restore",
+        "human-reviewed-1150731-morning"
+      ],
+      "searchText": "豬肉屠體中,肉質最柔嫩的部位是 里脊肉 胛心肉 後腿肉 腰裡肉 觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉 本題原始試題以數字編號呈現選項,標準答案為 4(腰裡肉)。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項為本題標準答案。",
+      "sequence": 3086,
+      "answer": "4"
+    },
+    {
       "id": "teacher-exam-97-19-q035-d70e30daa7",
       "sourceYear": 97,
       "sourceLabel": "97 年第 35 題",
@@ -452,89 +575,6 @@
       ],
       "searchText": "食用未經煮熟的豬肉,最易感染何種寄生蟲? 旋毛蟲 線蟲 肺吸蟲 無鉤絛蟲 觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「A」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項符合題幹所問的正確答案「A」。 B:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 C:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項符合題幹所問的正確答案「A」。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「A」,需回到題幹關鍵詞與教材小節判斷。",
       "sequence": 2930
-    },
-    {
-      "id": "teacher-exam-97-19-q016-4b02480677",
-      "sourceYear": 97,
-      "sourceLabel": "97 年第 16 題",
-      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
-      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-28043",
-      "paperTitle": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
-      "schoolName": "國立淡水高級商工職業學校 97 學年度第一次教師甄選試題餐飲科",
-      "questionNumber": 16,
-      "questionType": "single-choice",
-      "prompt": "豬肉屠體中，肉質最柔嫩的部位是",
-      "options": [
-        {
-          "id": "1",
-          "text": "里脊肉"
-        },
-        {
-          "id": "2",
-          "text": "胛心肉"
-        },
-        {
-          "id": "3",
-          "text": "後腿肉"
-        },
-        {
-          "id": "4",
-          "text": "腰裡肉"
-        }
-      ],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[中餐] - [A中餐─豬肉]",
-      "conceptId": "tourism-hospitality-b53dfddfad",
-      "conceptLabel": "A中餐─豬肉",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "中餐",
-          "locator": "A中餐─豬肉",
-          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
-        }
-      ],
-      "explanation": {
-        "status": "approved",
-        "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 4（腰裡肉）。",
-        "optionExplanations": [
-          {
-            "optionId": "1",
-            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
-          },
-          {
-            "optionId": "2",
-            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
-          },
-          {
-            "optionId": "3",
-            "explanation": "此選項不符合本題標準答案；本題答案為 4。"
-          },
-          {
-            "optionId": "4",
-            "explanation": "此選項為本題標準答案。"
-          }
-        ],
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "中餐",
-            "locator": "A中餐─豬肉",
-            "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：A中餐─豬肉"
-          }
-        ],
-        "updatedAt": "2026-07-31T06:59:43.629Z"
-      },
-      "reviewStatus": "approved",
-      "flags": [
-        "manual-numeric-choice-restore",
-        "human-reviewed-1150731-morning"
-      ],
-      "searchText": "豬肉屠體中,肉質最柔嫩的部位是 里脊肉 胛心肉 後腿肉 腰裡肉 觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉 本題原始試題以數字編號呈現選項,標準答案為 4(腰裡肉)。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項為本題標準答案。",
-      "sequence": 3086,
-      "answer": "4"
     },
     {
       "id": "teacher-exam-99-21-q003-ab39ca543a",

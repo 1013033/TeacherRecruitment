@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-b2ec50f276",
     "subject": "tourism-hospitality",
@@ -9,20 +9,44 @@
     "label": "6-4 E1 航空運輸三大區域(TC1、TC2、TC3)",
     "description": "",
     "questionIds": [
-      "teacher-exam-100-01-q032-e4dc978a29",
-      "teacher-exam-103-04-q014-1e93baf39d",
       "teacher-exam-104-05-q002-5638425379",
+      "teacher-exam-100-01-q032-e4dc978a29",
       "teacher-exam-105-06-q014-b205c5c2ab",
-      "teacher-exam-109-10-q002-94346f6aae"
+      "teacher-exam-109-10-q002-94346f6aae",
+      "teacher-exam-103-04-q014-1e93baf39d"
     ],
     "years": [
-      109,
-      105,
-      104,
+      100,
       103,
-      100
+      104,
+      105,
+      109
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 E1 航空運輸三大區域(TC1、TC2、TC3)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-4 E1 航空運輸三大區域(TC1、TC2、TC3)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 E1 航空運輸三大區域(TC1、TC2、TC3)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-4 E1 航空運輸三大區域(TC1、TC2、TC3)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 E1 航空運輸三大區域(TC1、TC2、TC3)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-4 E1 航空運輸三大區域(TC1、TC2、TC3)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 E1 航空運輸三大區域(TC1、TC2、TC3)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-4 E1 航空運輸三大區域(TC1、TC2、TC3)"
+      },
       {
         "source": "manual",
         "chapter": "CH6 觀光餐旅相關產業",
@@ -31,9 +55,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 5,
-    "sampleQuestion": "關於國際航空運輸協會（International Air Transport Association）制定的三大飛航區（TC1、TC2、TC3）的敘述，哪個國家屬於 TC1？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "beverage-44c5403a4b",
     "subject": "beverage",
@@ -14,11 +14,23 @@
       "teacher-exam-97-19-q049-8a5793286b"
     ],
     "years": [
-      115,
+      97,
       108,
-      97
+      115
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH6 酒的分類與製程**",
+        "locator": "6-1 A1-2啤酒發酵法",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-1 A1-2啤酒發酵法"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 酒的分類與製程**",
+        "locator": "6-1 A1-2啤酒發酵法",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-1 A1-2啤酒發酵法"
+      },
       {
         "source": "manual",
         "chapter": "CH6 酒的分類與製程**",
@@ -27,9 +39,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 3,
-    "sampleQuestion": "台灣啤酒是屬於上層發酵的淡啤酒。"
+    "unresolvedCount": 0
   },
   "questions": [
     {

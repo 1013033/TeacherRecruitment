@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-f365b2f8b3",
     "subject": "tourism-hospitality",
@@ -9,12 +9,12 @@
     "label": "7-4 B 店內個人推銷(向上、向下、交叉、整組)",
     "description": "",
     "questionIds": [
-      "teacher-exam-111-12-q022-ca02ec64fe",
-      "teacher-exam-115-16-q003-b84f2a31b9"
+      "teacher-exam-115-16-q003-b84f2a31b9",
+      "teacher-exam-111-12-q022-ca02ec64fe"
     ],
     "years": [
-      115,
-      111
+      111,
+      115
     ],
     "publisherBasis": [
       {
@@ -22,6 +22,12 @@
         "chapter": "CH7 觀光餐旅行銷",
         "locator": "7-4 B 店內個人推銷(向上、向下、交叉、整組)",
         "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-4 B 店內個人推銷(向上、向下、交叉、整組)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-4 B 店內個人推銷(向上、向下、交叉、整組)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：7-4 B 店內個人推銷(向上、向下、交叉、整組)"
       }
     ],
     "reviewStatus": "approved",

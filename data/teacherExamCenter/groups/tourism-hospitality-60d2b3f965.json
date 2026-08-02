@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-60d2b3f965",
     "subject": "tourism-hospitality",
@@ -10,24 +10,24 @@
     "description": "",
     "questionIds": [
       "teacher-exam-100-01-q035-6234e1c895",
-      "teacher-exam-101-02-q011-fa23683d15",
+      "teacher-exam-99-21-q005-4d6771c477",
       "teacher-exam-107-08-q009-b13de5c175",
-      "teacher-exam-111-12-q040-e66d185934",
-      "teacher-exam-96-18-q022-40b50b0e7b",
+      "teacher-exam-101-02-q011-fa23683d15",
       "teacher-exam-96-18-q028-bc763b7d2d",
       "teacher-exam-97-19-q023-fc7be9eb3f",
       "teacher-exam-98-20-q003-118d1d8133",
-      "teacher-exam-99-21-q005-4d6771c477"
+      "teacher-exam-96-18-q022-40b50b0e7b",
+      "teacher-exam-111-12-q040-e66d185934"
     ],
     "years": [
-      111,
-      107,
-      101,
-      100,
-      99,
-      98,
+      96,
       97,
-      96
+      98,
+      99,
+      100,
+      101,
+      107,
+      111
     ],
     "publisherBasis": [
       {
@@ -35,12 +35,52 @@
         "chapter": "時事(法規、時事、政策、標章)",
         "locator": "F3旅遊定型化契約書",
         "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F3旅遊定型化契約書",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=52, second=52。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F3旅遊定型化契約書",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=216, second=172。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F3旅遊定型化契約書",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=324, second=224。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F3旅遊定型化契約書",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=44, second=28。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F3旅遊定型化契約書",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=212, second=208。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F3旅遊定型化契約書",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=52, second=52。"
+      },
+      {
+        "source": "manual",
+        "chapter": "時事(法規、時事、政策、標章)",
+        "locator": "F3旅遊定型化契約書",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=176, second=164。"
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 9,
-    "sampleQuestion": "旅客參加旅遊活動，已繳交全部團費計 20,000 元（其中包含旅遊費用 15,000 元與行政規費 5,000 元），出發日前一星期旅行社通知旅客由於人數不足無法成行。依據交通部觀光局所制訂「旅遊定型化契約書範本」之條例，若相關行政手續等規費已完全代繳，原則上旅行社得返還旅客之費用為何？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

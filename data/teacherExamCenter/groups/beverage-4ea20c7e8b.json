@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "beverage-4ea20c7e8b",
     "subject": "beverage",
@@ -9,14 +9,20 @@
     "label": "7-1 B雞尾酒的種類",
     "description": "",
     "questionIds": [
-      "teacher-exam-102-03-q011-32337dad38",
-      "teacher-exam-105-06-q015-6465cbaf83"
+      "teacher-exam-105-06-q015-6465cbaf83",
+      "teacher-exam-102-03-q011-32337dad38"
     ],
     "years": [
-      105,
-      102
+      102,
+      105
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH7 混合性飲料調製",
+        "locator": "7-1 B雞尾酒的種類",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：7-1 B雞尾酒的種類"
+      },
       {
         "source": "manual",
         "chapter": "CH7 混合性飲料調製",

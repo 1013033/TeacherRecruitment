@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "question": {
     "id": "teacher-exam-100-01-q027-3e6f41f832",
     "sourceYear": 100,
@@ -31,22 +31,22 @@
       }
     ],
     "answer": "D",
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
-    "conceptId": "tourism-hospitality-04466494a5",
-    "conceptLabel": "3-5 D 西餐烹調法",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH9 飲料服務] - [9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程]",
+    "conceptId": "foodservice-9b08cd49cb",
+    "conceptLabel": "9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-5 D 西餐烹調法",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=174, second=72。"
+        "chapter": "CH9 飲料服務",
+        "locator": "9-2 B 葡萄酒（紅酒、白酒、氣泡酒、香檳酒）服務流程",
+        "note": "依人工審核整理檔「待審核-1150802白天-紅字分類整理.md」套用分類；分類限定於「1150802_.md」。 原始人工分類：9-2 B 葡萄酒（紅酒、白酒、氣泡酒、香檳酒）服務流程"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "【問題分類】飲料實務 / 的專有名詞、法規或實務操作 單元下的核心概念或主題名稱 / 的專有名詞、法規或實務操作 單元下的核心概念或主題名稱。分類理由;若為 AI 分類單元,說明全華單元無法承接的理由 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】本題考核的專有名詞、法規或實務操作 【詳細解析】此題考核的是不同酒款適宜的飲用溫度。薄酒萊新酒(Beaujolais Nouveau)通常在發酵後立即裝瓶,因此其口感清新,適合冰鎮後飲用;氣泡葡萄酒(Sparkling Wine)如香檳等需要保持一定的溫度以維持其泡沫和風味,一般建議冰鎮後飲用;波爾多紅酒(Bordeaux red wine)則是成熟且單寧豐富的酒款,適宜室溫下品嚐。因此,由低至高的排列順序為:甲、丙、乙。 【錯誤選項錯在哪】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 修正說法:甲、丙、乙 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 修正說法:甲、丙、乙 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 修正說法:乙、丙、甲 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 修正說法:丙、甲、乙 【叮嚀】提醒考生注意不同酒款的適宜飲用溫度,尤其是薄酒萊新酒和氣泡葡萄酒需要冰鎮後飲用。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一節飲料的定義與分類;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第七章 混合性飲料調製,定位:飲料的定義與分類;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B：此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C：此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D：此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。\n\n【參考書依據】主要參考《飲料實務-章節分類》第一章 飲務的作業規範，定位：第一章 飲務的作業規範；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "optionExplanations": [
         {
@@ -77,16 +77,17 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-5 D 西餐烹調法",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=174, second=72。"
+          "chapter": "CH9 飲料服務",
+          "locator": "9-2 B 葡萄酒（紅酒、白酒、氣泡酒、香檳酒）服務流程",
+          "note": "依人工審核整理檔「待審核-1150802白天-紅字分類整理.md」套用分類；分類限定於「1150802_.md」。 原始人工分類：9-2 B 葡萄酒（紅酒、白酒、氣泡酒、香檳酒）服務流程"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-02T13:40:00Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "latest-taxonomy-auto-high",
+      "manual-reviewed-1150802-day"
     ],
     "searchText": "下列各款酒,其飲用的適宜溫度由低至高的排列順序為何?甲:薄酒萊新酒(Beaujolais Nouveau) 乙:波爾多紅酒(Bordeaux red wine) 丙:氣泡葡萄酒(sparkling wine) 甲、乙、丙 甲、丙、乙 乙、丙、甲 丙、甲、乙。 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法 【問題分類】飲料實務 / 的專有名詞、法規或實務操作 單元下的核心概念或主題名稱 / 的專有名詞、法規或實務操作 單元下的核心概念或主題名稱。分類理由;若為 AI 分類單元,說明全華單元無法承接的理由 【分類來源】AI 分類單元,非全華版本(新建) 【核心觀念】本題考核的專有名詞、法規或實務操作 【詳細解析】此題考核的是不同酒款適宜的飲用溫度。薄酒萊新酒(Beaujolais Nouveau)通常在發酵後立即裝瓶,因此其口感清新,適合冰鎮後飲用;氣泡葡萄酒(Sparkling Wine)如香檳等需要保持一定的溫度以維持其泡沫和風味,一般建議冰鎮後飲用;波爾多紅酒(Bordeaux red wine)則是成熟且單寧豐富的酒款,適宜室溫下品嚐。因此,由低至高的排列順序為:甲、丙、乙。 【錯誤選項錯在哪】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 修正說法:甲、丙、乙 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 修正說法:甲、丙、乙 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 修正說法:乙、丙、甲 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 修正說法:丙、甲、乙 【叮嚀】提醒考生注意不同酒款的適宜飲用溫度,尤其是薄酒萊新酒和氣泡葡萄酒需要冰鎮後飲用。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一節飲料的定義與分類;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第七章 混合性飲料調製,定位:飲料的定義與分類;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 B:此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 C:此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 D:此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。\n\n【參考書依據】主要參考《飲料實務-章節分類》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項將薄酒萊新酒(Beaujolais Nouveau)放在最底層,但其適宜溫度應該是冰鎮後飲用。 此選項正確地將薄酒萊新酒(Beaujolais Nouveau)放在冰鎮後飲用的位置,氣泡葡萄酒(Sparkling Wine)放在冰鎮後飲用的位置,波爾多紅酒(Bordeaux red wine)放在室溫下品嚐的位置。 此選項將波爾多紅酒(Bordeaux red wine)放在冰鎮後飲用的位置,但其適宜溫度應該是室溫下品嚐。 此選項將氣泡葡萄酒(Sparkling Wine)放在最底層,但其適宜溫度應該是冰鎮後飲用。",
     "sequence": 52,

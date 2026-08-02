@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-749cfadc32",
     "subject": "tourism-hospitality",
@@ -10,15 +10,27 @@
     "description": "",
     "questionIds": [
       "teacher-exam-101-02-q026-05f15b3c36",
-      "teacher-exam-102-03-q009-65a0ce8e87",
-      "teacher-exam-113-14-q027-7d16de52f7"
+      "teacher-exam-113-14-q027-7d16de52f7",
+      "teacher-exam-102-03-q009-65a0ce8e87"
     ],
     "years": [
-      113,
+      101,
       102,
-      101
+      113
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4 F1工作三角形",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：3-4 F1工作三角形"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-4 F1工作三角形",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：3-4 F1工作三角形"
+      },
       {
         "source": "manual",
         "chapter": "CH3 餐飲業",

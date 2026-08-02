@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-0b95f63eff",
     "subject": "tourism-hospitality",
@@ -9,14 +9,20 @@
     "label": "7-4 A 公共關係",
     "description": "",
     "questionIds": [
-      "teacher-exam-100-01-q036-18cc734400",
-      "teacher-exam-112-13-q010-f1b4bde9ff"
+      "teacher-exam-112-13-q010-f1b4bde9ff",
+      "teacher-exam-100-01-q036-18cc734400"
     ],
     "years": [
-      112,
-      100
+      100,
+      112
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-4 A 公共關係",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=136, second=96。"
+      },
       {
         "source": "manual",
         "chapter": "CH7 觀光餐旅行銷",
@@ -25,9 +31,7 @@
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "觀光產業人員要求應變能力要高，善於運用相關方法讓顧客驚喜滿意進而提高營業額度。這是觀光產業在公共關係中的何種特性？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

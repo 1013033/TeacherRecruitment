@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "foodservice-899e57f69f",
     "subject": "foodservice",
@@ -13,10 +13,16 @@
       "teacher-exam-110-11-q027-6917260244"
     ],
     "years": [
-      110,
-      105
+      105,
+      110
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH3 基本服務技巧",
+        "locator": "3-6 B 服務叉匙使用情境與技巧",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-6 B 服務叉匙使用情境與技巧"
+      },
       {
         "source": "manual",
         "chapter": "CH3 基本服務技巧",
@@ -25,9 +31,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "以下使用服務叉匙的方式何者正確？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-2cc51c8069",
     "subject": "tourism-hospitality",
@@ -10,26 +10,68 @@
     "description": "",
     "questionIds": [
       "teacher-exam-100-01-q006-084a62577f",
-      "teacher-exam-102-03-q016-0afed5356e",
       "teacher-exam-104-05-q007-3742b97756",
-      "teacher-exam-106-07-q036-bb54b40bc2",
+      "teacher-exam-99-21-q007-1043bf8314",
       "teacher-exam-96-18-q004-bd02f41e45",
       "teacher-exam-96-18-q027-f8fef77447",
       "teacher-exam-97-19-q018-c214b99f2c",
       "teacher-exam-97-19-q019-76adc09d56",
       "teacher-exam-97-19-q022-418bfafd8e",
-      "teacher-exam-99-21-q007-1043bf8314"
+      "teacher-exam-102-03-q016-0afed5356e",
+      "teacher-exam-106-07-q036-bb54b40bc2"
     ],
     "years": [
-      106,
-      104,
-      102,
-      100,
-      99,
+      96,
       97,
-      96
+      99,
+      100,
+      102,
+      104,
+      106
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 D 團體作業流程",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：5-5 D 團體作業流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 D 團體作業流程",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：5-5 D 團體作業流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 D 團體作業流程",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：5-5 D 團體作業流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 D 團體作業流程",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：5-5 D 團體作業流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 D 團體作業流程",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：5-5 D 團體作業流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 D 團體作業流程",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：5-5 D 團體作業流程"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH5 旅行業",
+        "locator": "5-5 D 團體作業流程",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：5-5 D 團體作業流程"
+      },
       {
         "source": "manual",
         "chapter": "CH5 旅行業",
@@ -38,9 +80,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 10,
-    "sampleQuestion": "旅行業團體作業流程中，負責簽訂旅遊契約、舉辦說明會，是屬於哪一個作業流程？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

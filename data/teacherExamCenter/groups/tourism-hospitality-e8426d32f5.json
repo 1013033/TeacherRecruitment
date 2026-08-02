@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "concept": {
+    "id": "tourism-hospitality-e8426d32f5",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[5-3 旅行業的類別與旅行社的種類] - [5-3 E 旅行業─業務內容分類]",
+    "label": "5-3 E 旅行業─業務內容分類",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-111-taoyuan-fill-q006-ota"
+    ],
+    "years": [
+      111
+    ],
+    "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "5-3 旅行業的類別與旅行社的種類",
+        "locator": "5-3 E 旅行業─業務內容分類",
+        "note": "依使用者指定補正 111 年填充題題型與題幹。"
+      }
+    ],
+    "reviewStatus": "needs-review",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-111-taoyuan-fill-q006-ota",
+      "sourceYear": 111,
+      "sourceLabel": "111 年桃園填充題第 6 題",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#manual-fill-in-teacher-exam-111-taoyuan-fill-q006-ota",
+      "paperTitle": "填充題",
+      "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+      "questionNumber": 6,
+      "questionType": "fill-in",
+      "prompt": "網路旅行社(OTA)之英文全名為 ___Online Travel Agen___",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[5-3 旅行業的類別與旅行社的種類] - [5-3 E 旅行業─業務內容分類]",
+      "conceptId": "tourism-hospitality-e8426d32f5",
+      "conceptLabel": "5-3 E 旅行業─業務內容分類",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "5-3 旅行業的類別與旅行社的種類",
+          "locator": "5-3 E 旅行業─業務內容分類",
+          "note": "依使用者指定補正 111 年填充題題型與題幹。"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "依使用者提供之填充題題幹補入，答案已以底線標示於題幹中。",
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "5-3 旅行業的類別與旅行社的種類",
+            "locator": "5-3 E 旅行業─業務內容分類",
+            "note": "依使用者指定補正 111 年填充題題型與題幹。"
+          }
+        ],
+        "updatedAt": "2026-08-02T13:57:55Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "manual-supplement",
+        "manual-fill-in-added-111",
+        "needs-manual-review"
+      ],
+      "sequence": 1802,
+      "searchText": "網路旅行社(OTA)之英文全名為 ___Online Travel Agen___ 5-3 E 旅行業─業務內容分類 [5-3 旅行業的類別與旅行社的種類] - [5-3 E 旅行業─業務內容分類]"
+    }
+  ]
+}

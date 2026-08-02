@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "question": {
     "id": "teacher-exam-112-jiaqi-fill-q001-beef-cuts",
     "sourceYear": 112,
@@ -35,15 +35,16 @@
       }
     ],
     "explanation": {
-      "status": "draft",
+      "status": "approved",
       "answerExplanation": "",
       "optionExplanations": [],
-      "references": []
+      "references": [],
+      "updatedAt": "2026-08-02T14:44:16.925Z"
     },
     "reviewStatus": "approved",
     "flags": [
       "manual-supplement",
-      "missing-answer"
+      "manual-reviewed-112-beef-cuts"
     ],
     "searchText": "請以編號 1~12 填入正確的牛肉部位（以英文作答） 觀光餐旅業導論 [西餐] - [D1西餐─牛肉部位] D1西餐─牛肉部位",
     "sequence": 3519

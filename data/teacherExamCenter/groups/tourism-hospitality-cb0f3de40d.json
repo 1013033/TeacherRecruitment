@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-cb0f3de40d",
     "subject": "tourism-hospitality",
@@ -9,14 +9,20 @@
     "label": "3-2 F 餐飲業的定義與特性(綜合題)",
     "description": "",
     "questionIds": [
-      "teacher-exam-106-07-q018-23b79ded3f",
-      "teacher-exam-113-14-q020-45c1769c4f"
+      "teacher-exam-113-14-q020-45c1769c4f",
+      "teacher-exam-106-07-q018-23b79ded3f"
     ],
     "years": [
-      113,
-      106
+      106,
+      113
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-2 F 餐飲業的定義與特性(綜合題)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-2 F 餐飲業的定義與特性(綜合題)"
+      },
       {
         "source": "manual",
         "chapter": "CH3 餐飲業",
@@ -25,9 +31,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "下列有關於餐旅商品的概念，何者為正確？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-c47aa8fbaf",
     "subject": "tourism-hospitality",
@@ -13,8 +13,8 @@
       "teacher-exam-113-14-q041-254cb3a07c"
     ],
     "years": [
-      113,
-      111
+      111,
+      113
     ],
     "publisherBasis": [
       {
@@ -22,12 +22,16 @@
         "chapter": "CH6 觀光餐旅相關產業",
         "locator": "6-4交通運輸業",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=212, second=132。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4交通運輸業",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=212, second=192。"
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "觀光產業包含的範圍非常廣泛，主要的行業包含下面哪一個？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

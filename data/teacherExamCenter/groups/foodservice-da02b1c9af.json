@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "foodservice-da02b1c9af",
     "subject": "foodservice",
@@ -10,22 +10,22 @@
     "description": "",
     "questionIds": [
       "teacher-exam-110-11-q016-d4a60879f4",
-      "teacher-exam-111-12-q008-43cf1f66ad",
-      "teacher-exam-113-14-q033-580943c0b4",
+      "teacher-exam-98-20-q003-f37052c05b",
+      "teacher-exam-99-21-q009-f405d827ef",
+      "teacher-exam-96-18-q013-41b69c2431",
       "teacher-exam-94-17-q003-08cbb3dc1d",
       "teacher-exam-94-17-q044-0a50e8c353",
-      "teacher-exam-96-18-q013-41b69c2431",
-      "teacher-exam-98-20-q003-f37052c05b",
-      "teacher-exam-99-21-q009-f405d827ef"
+      "teacher-exam-113-14-q033-580943c0b4",
+      "teacher-exam-111-12-q008-43cf1f66ad"
     ],
     "years": [
-      113,
-      111,
-      110,
-      99,
-      98,
+      94,
       96,
-      94
+      98,
+      99,
+      110,
+      111,
+      113
     ],
     "publisherBasis": [
       {
@@ -33,6 +33,48 @@
         "chapter": "CH1 餐廳服務基本觀念",
         "locator": "1-1 B 特性",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=92, second=84。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 B 特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=94, second=84。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 B 特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=98, second=90。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 B 特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=92, second=84。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 B 特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=88, second=84。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 B 特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=88, second=84。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 B 特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=92, second=84。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH1 餐廳服務基本觀念",
+        "locator": "1-1 B 特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=140, second=124。"
       }
     ],
     "reviewStatus": "needs-review",

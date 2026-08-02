@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-780937edab",
     "subject": "tourism-hospitality",
@@ -21,12 +21,16 @@
         "chapter": "CH3 餐飲業",
         "locator": "3-1餐飲業的定義與特性",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=52, second=52。"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 餐飲業",
+        "locator": "3-1餐飲業的定義與特性",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=52, second=52。"
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "「無現金支付」對餐飲業的主要影響是？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

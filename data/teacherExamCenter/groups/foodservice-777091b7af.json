@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "foodservice-777091b7af",
     "subject": "foodservice",
@@ -9,19 +9,19 @@
     "label": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
     "description": "",
     "questionIds": [
-      "teacher-exam-100-01-q014-d46d6595db",
-      "teacher-exam-103-04-q015-6119c7d6cd",
-      "teacher-exam-106-07-q009-ac239eedd7",
       "teacher-exam-111-12-q013-59d2541d7e",
+      "teacher-exam-103-04-q015-6119c7d6cd",
+      "teacher-exam-100-01-q014-d46d6595db",
+      "teacher-exam-106-07-q009-ac239eedd7",
       "teacher-exam-97-19-q012-51fb3f59cf",
       "teacher-exam-97-19-q046-4910cdcab0"
     ],
     "years": [
-      111,
-      106,
-      103,
+      97,
       100,
-      97
+      103,
+      106,
+      111
     ],
     "publisherBasis": [
       {
@@ -29,12 +29,40 @@
         "chapter": "CH3 基本服務技巧",
         "locator": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
         "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-3 B 口布應用分類(顧客用、服勤用、觀賞用)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 基本服務技巧",
+        "locator": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
+        "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：3-3 B 口布應用分類(顧客用、服勤用、觀賞用)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 基本服務技巧",
+        "locator": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-3 B 口布應用分類(顧客用、服勤用、觀賞用)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 基本服務技巧",
+        "locator": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-3 B 口布應用分類(顧客用、服勤用、觀賞用)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 基本服務技巧",
+        "locator": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-3 B 口布應用分類(顧客用、服勤用、觀賞用)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH3 基本服務技巧",
+        "locator": "3-3 B 口布應用分類(顧客用、服勤用、觀賞用)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 B 口布應用分類(顧客用、服勤用、觀賞用)"
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 6,
-    "sampleQuestion": "某餐廳應用三種口布摺疊，包括甲：「大蓮花」、乙：「小蓮花」、丙：「野玫瑰」下列關於這三種口布功能的說明，何者正確？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

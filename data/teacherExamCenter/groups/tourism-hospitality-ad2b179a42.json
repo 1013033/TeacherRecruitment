@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-ad2b179a42",
     "subject": "tourism-hospitality",
@@ -13,10 +13,16 @@
       "teacher-exam-112-13-q015-243daf01ee"
     ],
     "years": [
-      112,
-      110
+      110,
+      112
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-3 A博弈娛樂業(特性)",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-3 A博弈娛樂業(特性)"
+      },
       {
         "source": "manual",
         "chapter": "CH6 觀光餐旅相關產業",
@@ -25,9 +31,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "請寫出「Gaming Entertainment Industry」（博奕娛樂產業）特性、優點、缺點。 特性：結合觀光、住宿、餐飲、表演與大型賭場設施，具高度資本密集、高利潤及嚴格政府特許管制的綜合娛樂產業。 優點：能吸引大量國際觀光客、創造龐大就業機會、增加政府稅收，並帶動周邊餐旅與會展產業的經濟繁榮。 缺點：容易衍"
+    "unresolvedCount": 0
   },
   "questions": [
     {

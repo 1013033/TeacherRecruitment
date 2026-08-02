@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "beverage-2e4636b057",
     "subject": "beverage",
@@ -9,14 +9,20 @@
     "label": "7-2(綜合題─有酒精性雞尾酒)",
     "description": "",
     "questionIds": [
-      "teacher-exam-113-14-q017-34c5aa09cf",
-      "teacher-exam-114-15-q001-68609a09dd"
+      "teacher-exam-114-15-q001-68609a09dd",
+      "teacher-exam-113-14-q017-34c5aa09cf"
     ],
     "years": [
-      114,
-      113
+      113,
+      114
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH7 混合性飲料調製**",
+        "locator": "7-2(綜合題─有酒精性雞尾酒)",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：7-2(綜合題─有酒精性雞尾酒)"
+      },
       {
         "source": "manual",
         "chapter": "CH7 混合性飲料調製**",
@@ -25,9 +31,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 2,
-    "sampleQuestion": "關於雞尾酒名稱及使用基酒、杯器皿、裝飾物的組合，下列何者錯誤？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

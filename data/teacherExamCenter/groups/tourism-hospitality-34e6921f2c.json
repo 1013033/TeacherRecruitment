@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-34e6921f2c",
     "subject": "tourism-hospitality",
@@ -9,30 +9,72 @@
     "label": "7-2 C 行銷發展",
     "description": "",
     "questionIds": [
-      "teacher-exam-101-02-q036-5109a680da",
-      "teacher-exam-103-04-q026-8d753524e6",
       "teacher-exam-109-10-q014-e3b8586de9",
       "teacher-exam-110-11-q026-0030453464",
-      "teacher-exam-113-14-q045-cd9ae04c68",
-      "teacher-exam-114-15-q025-439be8a690",
-      "teacher-exam-115-16-q017-343e2fe6ae",
-      "teacher-exam-94-17-q028-4eeed9fc1c",
+      "teacher-exam-97-19-q023-38b3d10f93",
+      "teacher-exam-103-04-q026-8d753524e6",
+      "teacher-exam-101-02-q036-5109a680da",
       "teacher-exam-96-18-q019-f565a17df5",
-      "teacher-exam-97-19-q023-38b3d10f93"
+      "teacher-exam-114-15-q025-439be8a690",
+      "teacher-exam-94-17-q028-4eeed9fc1c",
+      "teacher-exam-115-16-q017-343e2fe6ae",
+      "teacher-exam-113-14-q045-cd9ae04c68"
     ],
     "years": [
-      115,
-      114,
-      113,
-      110,
-      109,
-      103,
-      101,
-      97,
+      94,
       96,
-      94
+      97,
+      101,
+      103,
+      109,
+      110,
+      113,
+      114,
+      115
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-2 C 行銷發展",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：7-2 C 行銷發展"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-2 C 行銷發展",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：7-2 C 行銷發展"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-2 C 行銷發展",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：7-2 C 行銷發展"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-2 C 行銷發展",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：7-2 C 行銷發展"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-2 C 行銷發展",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：7-2 C 行銷發展"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-2 C 行銷發展",
+        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：7-2 C 行銷發展"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-2 C 行銷發展",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：7-2 C 行銷發展"
+      },
       {
         "source": "manual",
         "chapter": "CH7 觀光餐旅行銷",
@@ -41,9 +83,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 10,
-    "sampleQuestion": "餐旅業注意到選用低污染物料、不過度包裝等環保議題，是指行銷發展的哪一階段？"
+    "unresolvedCount": 0
   },
   "questions": [
     {

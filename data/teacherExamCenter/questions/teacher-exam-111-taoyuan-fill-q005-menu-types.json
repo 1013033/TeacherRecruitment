@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "question": {
+    "id": "teacher-exam-111-taoyuan-fill-q005-menu-types",
+    "sourceYear": 111,
+    "sourceLabel": "111 年桃園填充題第 5 題",
+    "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+    "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#manual-fill-in-teacher-exam-111-taoyuan-fill-q005-menu-types",
+    "paperTitle": "填充題",
+    "schoolName": "桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科）",
+    "questionNumber": 5,
+    "questionType": "fill-in",
+    "prompt": "set menu 指的是 ___套餐菜單___；ａla carte 指的是___單點菜單___",
+    "options": [],
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH5 菜單與飲料單] - [5-1 B 菜單種類]",
+    "conceptId": "foodservice-28cdb6f038",
+    "conceptLabel": "5-1 B 菜單種類",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH5 菜單與飲料單",
+        "locator": "5-1 B 菜單種類",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：5-1 B 菜單種類"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH5 菜單與飲料單",
+        "locator": "5-1 B 菜單種類",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：5-1 B 菜單種類"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "依使用者提供之填充題題幹補入，答案已以底線標示於題幹中。",
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH5 菜單與飲料單",
+          "locator": "5-1 B 菜單種類",
+          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：5-1 B 菜單種類"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH5 菜單與飲料單",
+          "locator": "5-1 B 菜單種類",
+          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：5-1 B 菜單種類"
+        }
+      ],
+      "updatedAt": "2026-08-02T13:57:55Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "manual-supplement",
+      "manual-fill-in-added-111",
+      "needs-manual-review"
+    ],
+    "sequence": 1801,
+    "searchText": "set menu 指的是 ___套餐菜單___；ａla carte 指的是___單點菜單___ 5-1 B 菜單種類 [CH5 菜單與飲料單] - [5-1 B 菜單種類]"
+  }
+}

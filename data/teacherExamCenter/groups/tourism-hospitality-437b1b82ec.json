@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "tourism-hospitality-437b1b82ec",
     "subject": "tourism-hospitality",
@@ -9,20 +9,20 @@
     "label": "6-2 B MICE",
     "description": "",
     "questionIds": [
-      "teacher-exam-104-05-q004-660cd1e585",
-      "teacher-exam-109-10-q006-614d5eaa2a",
       "teacher-exam-112-13-q003-cd96e8750e",
-      "teacher-exam-94-17-q008-6a5434278c",
       "teacher-exam-97-19-q005-d717bad3c0",
-      "teacher-exam-98-20-q008-16a7a1bcb0"
+      "teacher-exam-109-10-q006-614d5eaa2a",
+      "teacher-exam-104-05-q004-660cd1e585",
+      "teacher-exam-98-20-q008-16a7a1bcb0",
+      "teacher-exam-94-17-q008-6a5434278c"
     ],
     "years": [
-      112,
-      109,
-      104,
-      98,
+      94,
       97,
-      94
+      98,
+      104,
+      109,
+      112
     ],
     "publisherBasis": [
       {
@@ -30,6 +30,36 @@
         "chapter": "CH6 觀光餐旅相關產業",
         "locator": "6-2 B MICE",
         "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：6-2 B MICE"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-2 B MICE",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-2 B MICE"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-2 B MICE",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：6-2 B MICE"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-2 B MICE",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：6-2 B MICE"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-2 B MICE",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：6-2 B MICE"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-2 B MICE",
+        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：6-2 B MICE"
       }
     ],
     "reviewStatus": "approved",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
   "concept": {
     "id": "beverage-72f88bedd2",
     "subject": "beverage",
@@ -10,18 +10,42 @@
     "description": "",
     "questionIds": [
       "teacher-exam-100-01-q017-68cf0bb814",
-      "teacher-exam-104-05-q032-94adcff8aa",
       "teacher-exam-105-06-q010-e439287db3",
+      "teacher-exam-104-05-q032-94adcff8aa",
       "teacher-exam-106-07-q067-811e814826",
       "teacher-exam-106-07-q082-2586e528c4"
     ],
     "years": [
-      106,
-      105,
+      100,
       104,
-      100
+      105,
+      106
     ],
     "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH6 酒的分類與製程**",
+        "locator": "6-2 A4特吉拉 / 龍舌蘭(Tequila)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-2 A4特吉拉 / 龍舌蘭(Tequila)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 酒的分類與製程**",
+        "locator": "6-2 A4特吉拉 / 龍舌蘭(Tequila)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-2 A4特吉拉 / 龍舌蘭(Tequila)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 酒的分類與製程**",
+        "locator": "6-2 A4特吉拉 / 龍舌蘭(Tequila)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-2 A4特吉拉 / 龍舌蘭(Tequila)"
+      },
+      {
+        "source": "manual",
+        "chapter": "CH6 酒的分類與製程**",
+        "locator": "6-2 A4特吉拉 / 龍舌蘭(Tequila)",
+        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-2 A4特吉拉 / 龍舌蘭(Tequila)"
+      },
       {
         "source": "manual",
         "chapter": "CH6 酒的分類與製程**",
@@ -30,9 +54,7 @@
       }
     ],
     "reviewStatus": "approved",
-    "unresolvedCount": 0,
-    "questionCount": 5,
-    "sampleQuestion": "墨西哥政府規定，只有在 Jalisco 州的 Tequila 鎮所產的 Tequila 才允許冠以 Tequila 之名，其他龍舌蘭所製成的蒸餾酒則稱為"
+    "unresolvedCount": 0
   },
   "questions": [
     {
