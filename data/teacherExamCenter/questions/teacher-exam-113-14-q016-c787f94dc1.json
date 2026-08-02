@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-113-14-q016-c787f94dc1",
     "sourceYear": 113,
-    "sourceLabel": "113 年第 17-18 題（填空題組）",
+    "sourceLabel": "113 年第 17 題（填空題組）",
     "sourceFile": "113年教師甄試題目.md",
     "sourceLocator": "113年教師甄試題目.md#offset-28752",
     "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
     "schoolName": "新北市公立高級中等學校",
     "questionNumber": 17,
-    "questionType": "short-answer",
-    "prompt": "第 17-18 題：Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar\n\n17. All the drinks in the ___________ are complimentary.\n18. Ben exchanged his US dollars for the local _________ after he arrived in Mumbai.",
+    "questionType": "fill-in",
+    "prompt": "All the drinks in the ___________ are complimentary.",
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
@@ -28,8 +28,8 @@
       }
     ],
     "explanation": {
-      "status": "needs-review",
-      "answerExplanation": "答案為 17:minibar、18:currency。",
+      "status": "approved",
+      "answerExplanation": "本題依題組提供字庫填入，答案為 minibar。",
       "optionExplanations": [],
       "references": [
         {
@@ -39,17 +39,20 @@
           "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=58, second=34。"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z",
-      "generatedAt": "2026-07-28",
-      "model": "manual-correction"
+      "updatedAt": "2026-08-01T00:00:00.000Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-restore-fill-in-blank-group",
-      "latest-taxonomy-auto-high"
+      "latest-taxonomy-auto-high",
+      "manual-content-fix-1150801",
+      "split-fill-in-question-group"
     ],
-    "searchText": "第 17-18 題:Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar\n\n17. All the drinks in the ___________ are complimentary.\n18. Ben exchanged his US dollars for the local _________ after he arrived in Mumbai. 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法 答案為 17:minibar、18:currency。",
+    "searchText": "All the drinks in the ___________ are complimentary. 第 17-18 題：Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar minibar 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法",
     "sequence": 2142,
-    "answer": "17:minibar、18:currency"
+    "answer": "minibar",
+    "readingPassage": "第 17-18 題：Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar",
+    "questionGroupId": "113-new-taipei-fill-in-blank-17-18",
+    "questionGroupTitle": "113 新北填空題組 17-18"
   }
 }

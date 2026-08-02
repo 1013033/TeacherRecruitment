@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-113-14-q003-d81accf5d7",
     "sourceYear": 113,
@@ -10,8 +10,8 @@
     "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
     "schoolName": "國立臺南家齊高級中等學校",
     "questionNumber": 3,
-    "questionType": "essay",
-    "prompt": "請將以下編號 A-F 的乳酪進行分類 1.Fresh Cheese 2.Soft Cheese 3.Semi Hard Cheese 4.Hard Cheese 請填入下述編號",
+    "questionType": "fill-in",
+    "prompt": "請將以下編號A-F的乳酪進行分類\n\nA. Chevre Cheese\nB. Blue Cheese\nC. Ricotta\nE. Maribo\nF. Gruyere\nD. Cheddar\n\n| 1.Fresh Cheese | 2.Soft Cheese | 3.Semi Hard Cheese | 4.Hard Cheese |\n| --- | --- | --- | --- |\n| _____ | _____ | _____ | _____ |",
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
@@ -43,9 +43,10 @@
     },
     "reviewStatus": "needs-review",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "latest-taxonomy-auto-high",
+      "manual-question-type-fill-in-1150801"
     ],
-    "searchText": "請將以下編號 A-F 的乳酪進行分類 1.Fresh Cheese 2.Soft Cheese 3.Semi Hard Cheese 4.Hard Cheese 請填入下述編號 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人 本題依題幹與選項判斷,核心考點落在「[第三章 餐飲業] - [第三章 餐飲業]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+    "searchText": "請將以下編號A-F的乳酪進行分類\n\nA. Chevre Cheese\nB. Blue Cheese\nC. Ricotta\nE. Maribo\nF. Gruyere\nD. Cheddar\n\n| 1.Fresh Cheese | 2.Soft Cheese | 3.Semi Hard Cheese | 4.Hard Cheese |\n| --- | --- | --- | --- |\n| _____ | _____ | _____ | _____ |   觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人",
     "sequence": 2174
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-113-14-q005-58bbf58503",
     "sourceYear": 113,
@@ -10,7 +10,7 @@
     "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
     "schoolName": "國立臺南家齊高級中等學校",
     "questionNumber": 5,
-    "questionType": "essay",
+    "questionType": "fill-in",
     "prompt": "請寫出下列代表菜色屬於哪一個中國菜系（在答案欄中填寫菜系代號即可）\n\n| 代表菜色 | 答案 |\n| --- | --- |\n| 左宗棠雞 |  |\n| 鹽焗雞 |  |\n| 京都排骨 |  |\n| 蜜汁火方 |  |\n\n中國菜系及代號：A 四川菜、B 湖南菜、C 廣東菜、D 京魯菜、E 江浙菜",
     "options": [],
     "subject": "tourism-hospitality",
@@ -44,9 +44,10 @@
     "reviewStatus": "approved",
     "flags": [
       "manual-restore-table-question",
-      "human-reviewed-1150731-afternoon"
+      "human-reviewed-1150731-afternoon",
+      "manual-question-type-fill-in-1150801"
     ],
-    "searchText": "請寫出下列代表菜色屬於哪一個中國菜系(在答案欄中填寫菜系代號即可)\n\n| 代表菜色 | 答案 |\n| --- | --- |\n| 左宗棠雞 | |\n| 鹽焗雞 | |\n| 京都排骨 | |\n| 蜜汁火方 | |\n\n中國菜系及代號:A 四川菜、B 湖南菜、C 廣東菜、D 京魯菜、E 江浙菜 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系 此題已依原始試題修正題幹格式,解析需重新檢核。",
+    "searchText": "請寫出下列代表菜色屬於哪一個中國菜系（在答案欄中填寫菜系代號即可）\n\n| 代表菜色 | 答案 |\n| --- | --- |\n| 左宗棠雞 |  |\n| 鹽焗雞 |  |\n| 京都排骨 |  |\n| 蜜汁火方 |  |\n\n中國菜系及代號：A 四川菜、B 湖南菜、C 廣東菜、D 京魯菜、E 江浙菜   觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系",
     "sequence": 2176
   }
 }

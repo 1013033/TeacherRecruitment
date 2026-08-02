@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-97-19-q034-a382301e95",
     "sourceYear": 97,
@@ -30,22 +30,22 @@
         "text": "炒青菜(Sauted vegetables)"
       }
     ],
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-    "conceptId": "tourism-hospitality-e7483426e2",
-    "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH2 餐廳設備與器具] - [2-3 A 金屬類(不鏽鋼、鍍銀)]",
+    "conceptId": "foodservice-699c39de87",
+    "conceptLabel": "2-3 A 金屬類(不鏽鋼、鍍銀)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-2 E1 中國─菜系(菜餚)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=108, second=54。"
+        "chapter": "CH2 餐廳設備與器具",
+        "locator": "2-3 A 金屬類(不鏽鋼、鍍銀)",
+        "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：2-3 A 金屬類(不鏽鋼、鍍銀)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 3（水波蛋(Poached egg)）。",
       "optionExplanations": [
         {
@@ -68,19 +68,19 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 E1 中國─菜系(菜餚)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=108, second=54。"
+          "chapter": "CH2 餐廳設備與器具",
+          "locator": "2-3 A 金屬類(不鏽鋼、鍍銀)",
+          "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：2-3 A 金屬類(不鏽鋼、鍍銀)"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-02T02:32:37.277Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-numeric-choice-restore",
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150801-evening"
     ],
-    "searchText": "下列哪道菜不可盛裝於銀器? 胡蘿蔔濃湯(Crecy) 烤牛排(Roasted beef) 水波蛋(Poached egg) 炒青菜(Sauted vegetables) 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚) 本題原始試題以數字編號呈現選項,標準答案為 3(水波蛋(Poached egg))。 此選項不符合本題標準答案;本題答案為 3。 此選項不符合本題標準答案;本題答案為 3。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 3。",
+    "searchText": "下列哪道菜不可盛裝於銀器? 胡蘿蔔濃湯(Crecy) 烤牛排(Roasted beef) 水波蛋(Poached egg) 炒青菜(Sauted vegetables) 餐飲服務技術 [CH2 餐廳設備與器具] - [2-3 A 金屬類(不鏽鋼、鍍銀)] 2-3 A 金屬類(不鏽鋼、鍍銀) 本題原始試題以數字編號呈現選項,標準答案為 3(水波蛋(Poached egg))。 此選項不符合本題標準答案;本題答案為 3。 此選項不符合本題標準答案;本題答案為 3。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 3。",
     "sequence": 3104,
     "answer": "3"
   }

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "question": {
+    "id": "teacher-exam-112-jiaqi-fill-q001-beef-cuts",
+    "sourceYear": 112,
+    "sourceLabel": "112 年第 1 題（填充題）",
+    "sourceFile": "112餐旅群教師甄試合併檔 (列印) 20頁.md",
+    "sourceLocator": "manual-supplement#112-jiaqi-fill-q001",
+    "paperTitle": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "schoolName": "國立臺南家齊高級中等學校 112學年度第1次餐飲管理科專任教師甄選初試筆試試題",
+    "questionNumber": 1,
+    "questionType": "fill-in",
+    "prompt": "請以編號 1~12 填入正確的牛肉部位（以英文作答）",
+    "options": [],
+    "images": [
+      {
+        "id": "112-jiaqi-beef-cuts",
+        "src": "data/teacherExamCenter/images/112-jiaqi-beef-cuts.jpeg",
+        "alt": "112 家齊填充題牛肉部位編號圖"
+      }
+    ],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[西餐] - [D1西餐─牛肉部位]",
+    "conceptId": "tourism-hospitality-ee6eebcf6a",
+    "conceptLabel": "D1西餐─牛肉部位",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "D1西餐─牛肉部位",
+        "note": "依題幹與牛肉部位編號圖人工補入遺漏題目。"
+      }
+    ],
+    "explanation": {
+      "status": "draft",
+      "answerExplanation": "",
+      "optionExplanations": [],
+      "references": []
+    },
+    "reviewStatus": "approved",
+    "flags": [
+      "manual-supplement",
+      "missing-answer"
+    ],
+    "searchText": "請以編號 1~12 填入正確的牛肉部位（以英文作答） 觀光餐旅業導論 [西餐] - [D1西餐─牛肉部位] D1西餐─牛肉部位",
+    "sequence": 3519
+  }
+}

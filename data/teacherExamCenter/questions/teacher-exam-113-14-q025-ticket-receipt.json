@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "question": {
+    "id": "teacher-exam-113-14-q025-ticket-receipt",
+    "sourceYear": 113,
+    "sourceLabel": "113 年第 25 題（電子機票題組）",
+    "sourceFile": "113年教師甄試題目.md",
+    "sourceLocator": "113年教師甄試題目.md#offset-6104",
+    "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
+    "schoolName": "113年公立高級中等學校教師甄選",
+    "questionNumber": 25,
+    "questionType": "single-choice",
+    "prompt": "請問此班航空公司正在執行第幾航權？",
+    "options": [
+      {
+        "id": "A",
+        "text": "第五航權"
+      },
+      {
+        "id": "B",
+        "text": "第七航權"
+      },
+      {
+        "id": "C",
+        "text": "第八航權"
+      },
+      {
+        "id": "D",
+        "text": "第九航權。"
+      }
+    ],
+    "answer": "D",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼]",
+    "conceptId": "tourism-hospitality-1f5d1c91b8",
+    "conceptLabel": "6-4 E2 航空公司代碼",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "CH6 觀光餐旅相關產業",
+        "locator": "6-4 E2 航空公司代碼",
+        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=198, second=188。"
+      }
+    ],
+    "explanation": {
+      "status": "approved",
+      "answerExplanation": "此題依電子機票資訊判讀，答案為 D。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": false,
+          "explanation": "此選項不符合題幹資訊。"
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": "此選項不符合題幹資訊。"
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": "此選項不符合題幹資訊。"
+        },
+        {
+          "optionId": "D",
+          "isCorrect": true,
+          "explanation": "此選項為正確答案。"
+        }
+      ],
+      "references": [
+        {
+          "source": "manual",
+          "chapter": "CH6 觀光餐旅相關產業",
+          "locator": "6-4 E2 航空公司代碼",
+          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=198, second=188。"
+        }
+      ],
+      "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    "reviewStatus": "approved",
+    "flags": [
+      "latest-taxonomy-auto-high",
+      "manual-content-fix-1150801",
+      "split-ticket-question-group"
+    ],
+    "searchText": "請問此班航空公司正在執行第幾航權？ 第五航權 第七航權 第八航權 第九航權。 請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024 觀光餐旅業導論 [CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼] 6-4 E2 航空公司代碼",
+    "sequence": 2022,
+    "readingPassage": "請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024",
+    "questionGroupId": "113-national-ticket-receipt-group",
+    "questionGroupTitle": "113 全國電子機票題組"
+  }
+}

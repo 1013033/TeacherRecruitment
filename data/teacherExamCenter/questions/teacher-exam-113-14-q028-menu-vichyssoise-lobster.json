@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-113-14-q028-menu-vichyssoise-lobster",
     "sourceYear": 113,
@@ -64,9 +64,13 @@
     "reviewStatus": "approved",
     "flags": [
       "manual-split-question-group",
-      "human-reviewed-1150801-daytime"
+      "human-reviewed-1150801-daytime",
+      "manual-question-group-1150801"
     ],
-    "searchText": "請問上述菜單較可能是哪一個宗教食用? Catholicism Muslim Hindu Mormonism 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 A。此題需參照共同菜單資訊作答。",
-    "sequence": 2023.2
+    "searchText": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問上述菜單較可能是哪一個宗教食用？ Catholicism Muslim Hindu Mormonism 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 A。此題需參照共同菜單資訊作答。",
+    "sequence": 2023.2,
+    "questionGroupId": "113-national-menu-vichyssoise-lobster-group",
+    "questionGroupTitle": "113 全國菜單題組 26-28",
+    "readingPassage": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw"
   }
 }

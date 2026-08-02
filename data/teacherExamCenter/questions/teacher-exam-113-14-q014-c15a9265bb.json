@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-113-14-q014-c15a9265bb",
     "sourceYear": 113,
@@ -10,7 +10,7 @@
     "paperTitle": "113年公立高級中等學校教師甄選",
     "schoolName": "桃園市立高級中等學校",
     "questionNumber": 14,
-    "questionType": "essay",
+    "questionType": "fill-in",
     "prompt": "太興肉為何種部位的肉？",
     "options": [],
     "subject": "tourism-hospitality",
@@ -43,9 +43,10 @@
     },
     "reviewStatus": "approved",
     "flags": [
-      "human-reviewed-1150731-morning"
+      "human-reviewed-1150731-morning",
+      "manual-question-type-fill-in-1150801"
     ],
-    "searchText": "太興肉為何種部位的肉？ 豬前腿接近里肌的一塊部位肉 觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉 桃園市立高級中等學校",
+    "searchText": "太興肉為何種部位的肉？  豬前腿接近里肌的一塊部位肉 觀光餐旅業導論 [中餐] - [A中餐─豬肉] A中餐─豬肉",
     "sequence": 2125,
     "answer": "豬前腿接近里肌的一塊部位肉",
     "promptPreview": "太興肉為何種部位的肉？"

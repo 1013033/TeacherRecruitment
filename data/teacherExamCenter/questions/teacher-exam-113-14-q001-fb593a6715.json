@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-113-14-q001-fb593a6715",
     "sourceYear": 113,
@@ -10,7 +10,7 @@
     "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
     "schoolName": "新北市公立高級中等學校",
     "questionNumber": 1,
-    "questionType": "short-answer",
+    "questionType": "translation",
     "prompt": "請寫出下列「專有名詞」英翻中：\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano |  |\n| 2 | Grappa / Marc |  |\n| 3 | Noble Rot |  |\n| 4 | Balut |  |\n| 5 | Palmier |  |\n| 6 | Bouillabaisse |  |\n| 7 | Macadamia Nut |  |\n| 8 | Prosciutto |  |\n| 9 | Calculation Sheet |  |\n| 10 | crème anglaise |  |\n| 11 | Ultra-fine Sugar |  |\n| 12 | Dates（提示：一種食材） |  |",
     "options": [],
     "subject": "tourism-hospitality",
@@ -46,9 +46,10 @@
     "reviewStatus": "needs-review",
     "flags": [
       "latest-taxonomy-auto-high",
-      "latest-taxonomy-auto-medium"
+      "latest-taxonomy-auto-medium",
+      "manual-question-type-translation-1150801"
     ],
-    "searchText": "請寫出下列「專有名詞」英翻中：\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano |  |\n| 2 | Grappa / Marc |  |\n| 3 | Noble Rot |  |\n| 4 | Balut |  |\n| 5 | Palmier |  |\n| 6 | Bouillabaisse |  |\n| 7 | Macadamia Nut |  |\n| 8 | Prosciutto |  |\n| 9 | Calculation Sheet |  |\n| 10 | crème anglaise |  |\n| 11 | Ultra-fine Sugar |  |\n| 12 | Dates（提示：一種食材） |  | 1. 義大利香草酒\n2. 渣釀白蘭地\n3. 貴腐菌\n4. 鴨仔蛋\n5. 法式蝴蝶酥\n6. 馬賽魚湯\n7. 夏威夷豆\n8. 生火腿\n9. 團體簽認單\n10. 英式蛋奶醬\n11. 特砂糖\n12. 椰棗 觀光餐旅業導論 [CH4 旅宿業] - [4-5 E 專有名詞] 4-5 E 專有名詞 新北市公立高級中等學校",
+    "searchText": "請寫出下列「專有名詞」英翻中：\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano |  |\n| 2 | Grappa / Marc |  |\n| 3 | Noble Rot |  |\n| 4 | Balut |  |\n| 5 | Palmier |  |\n| 6 | Bouillabaisse |  |\n| 7 | Macadamia Nut |  |\n| 8 | Prosciutto |  |\n| 9 | Calculation Sheet |  |\n| 10 | crème anglaise |  |\n| 11 | Ultra-fine Sugar |  |\n| 12 | Dates（提示：一種食材） |  |  1. 義大利香草酒\n2. 渣釀白蘭地\n3. 貴腐菌\n4. 鴨仔蛋\n5. 法式蝴蝶酥\n6. 馬賽魚湯\n7. 夏威夷豆\n8. 生火腿\n9. 團體簽認單\n10. 英式蛋奶醬\n11. 特砂糖\n12. 椰棗 觀光餐旅業導論 [CH4 旅宿業] - [4-5 E 專有名詞] 4-5 E 專有名詞",
     "sequence": 2116,
     "answer": "1. 義大利香草酒\n2. 渣釀白蘭地\n3. 貴腐菌\n4. 鴨仔蛋\n5. 法式蝴蝶酥\n6. 馬賽魚湯\n7. 夏威夷豆\n8. 生火腿\n9. 團體簽認單\n10. 英式蛋奶醬\n11. 特砂糖\n12. 椰棗",
     "promptPreview": "請寫出下列「專有名詞」英翻中： | 題號 | 英文名稱 | 中文名稱 | | --- | --- | --- | | 1 | Galliano | | | 2 | Grappa / Marc | | | 3 | Noble Rot | | | 4 | Balut | | | 5 | Palmier | | | 6 | "

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "concept": {
     "id": "tourism-hospitality-930c200eef",
     "subject": "tourism-hospitality",
@@ -9,25 +9,115 @@
     "label": "3-5 E 刀具",
     "description": "",
     "questionIds": [
+      "teacher-exam-100-01-q010-252ea02434",
       "teacher-exam-104-05-q005-5632c55386"
     ],
     "years": [
-      104
+      104,
+      100
     ],
     "publisherBasis": [
       {
         "source": "manual",
         "chapter": "CH3 餐飲業",
         "locator": "3-5 E 刀具",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=88, second=24。"
+        "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：3-5 E 刀具"
       }
     ],
     "reviewStatus": "needs-review",
-    "unresolvedCount": 0,
-    "questionCount": 1,
-    "sampleQuestion": "Cleaver 指的是何種刀具"
+    "unresolvedCount": 0
   },
   "questions": [
+    {
+      "id": "teacher-exam-100-01-q010-252ea02434",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 10 題",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-10052",
+      "paperTitle": "一、選擇題（25 題）50%",
+      "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+      "questionNumber": 10,
+      "questionType": "single-choice",
+      "prompt": "下列何種廚房設備也有人稱之為「水牛斧刀」（Buffalo Chopper）？",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food Mixer"
+        },
+        {
+          "id": "B",
+          "text": "Food Blender"
+        },
+        {
+          "id": "C",
+          "text": "Food Processor"
+        },
+        {
+          "id": "D",
+          "text": "Food Cutter。"
+        }
+      ],
+      "answer": "D",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH3 餐飲業] - [3-5 E 刀具]",
+      "conceptId": "tourism-hospitality-930c200eef",
+      "conceptLabel": "3-5 E 刀具",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-5 E 刀具",
+          "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：3-5 E 刀具"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "【問題分類】觀光餐旅業導論 / CH03 餐飲業 / 廚房設計。全華單元無法承接,題目與全華教材內容無直接對應。 【分類來源】全華/人工分類單元 【核心觀念】Buffalo Chopper(水牛斧刀) 【詳細解析】「水牛斧刀」(Buffalo Chopper)是一種大型的食品加工機器,常被用於商業廚房中進行大塊食材的切割和處理。在選項中,Food Processor(食品加工機)最符合這個描述,因為它通常具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。因此,正確答案是 D 选项:Food Cutter( FOOD CUTTER 是一個錯誤的選項,應該為 Food Processor)。 【錯誤選項錯在哪】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 修正說法:無需修正 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 修正說法:無需修正 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 修正說法:無需修正 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 修正說法:FOOD CUTTER 应為 Food Processor。 【叮嚀】注意題目中的「水牛斧刀」(Buffalo Chopper)是一種特定的食品加工機器,而不是普通的切割工具。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B：Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C：Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D：FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "isCorrect": false,
+            "explanation": "Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。",
+            "correctedStatement": "無需修正"
+          },
+          {
+            "optionId": "B",
+            "isCorrect": false,
+            "explanation": "Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。",
+            "correctedStatement": "無需修正"
+          },
+          {
+            "optionId": "C",
+            "isCorrect": false,
+            "explanation": "Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。",
+            "correctedStatement": "無需修正"
+          },
+          {
+            "optionId": "D",
+            "isCorrect": true,
+            "explanation": "FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。",
+            "correctedStatement": "FOOD CUTTER 应為 Food Processor。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-5 E 刀具",
+            "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：3-5 E 刀具"
+          }
+        ],
+        "updatedAt": "2026-08-02T02:32:37.277Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "human-reviewed-1150801-evening"
+      ],
+      "searchText": "下列何種廚房設備也有人稱之為「水牛斧刀」(Buffalo Chopper)? Food Mixer Food Blender Food Processor Food Cutter。 觀光餐旅業導論 [CH3 餐飲業] - [3-5 E 刀具] 3-5 E 刀具 【問題分類】觀光餐旅業導論 / CH03 餐飲業 / 廚房設計。全華單元無法承接,題目與全華教材內容無直接對應。 【分類來源】全華/人工分類單元 【核心觀念】Buffalo Chopper(水牛斧刀) 【詳細解析】「水牛斧刀」(Buffalo Chopper)是一種大型的食品加工機器,常被用於商業廚房中進行大塊食材的切割和處理。在選項中,Food Processor(食品加工機)最符合這個描述,因為它通常具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。因此,正確答案是 D 选项:Food Cutter( FOOD CUTTER 是一個錯誤的選項,應該為 Food Processor)。 【錯誤選項錯在哪】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 修正說法:無需修正 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 修正說法:無需修正 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 修正說法:無需修正 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 修正說法:FOOD CUTTER 应為 Food Processor。 【叮嚀】注意題目中的「水牛斧刀」(Buffalo Chopper)是一種特定的食品加工機器,而不是普通的切割工具。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 B:Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 C:Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 D:FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 Food Mixer 主要功能是混合和打勻食材,並非用於切割大塊食材。 Food Blender 主要功能是將食材打成液體或糊狀,並非用於切割大塊食材。 Food Processor 具有多種功能,包括切碎、磨碎和混合等,可以類比於「水牛斧刀」的功能。 FOOD CUTTER 是一個錯誤的選項,正確應該是 Food Processor。",
+      "sequence": 76
+    },
     {
       "id": "teacher-exam-104-05-q005-5632c55386",
       "sourceYear": 104,

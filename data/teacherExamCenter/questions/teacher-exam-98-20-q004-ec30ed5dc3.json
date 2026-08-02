@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-98-20-q004-ec30ed5dc3",
     "sourceYear": 98,
@@ -30,42 +30,40 @@
         "text": "依食物種類而異。"
       }
     ],
-    "subject": "beverage",
-    "subjectLabel": "飲料實務",
-    "unit": "[CH7混合性飲料調製] - [7-1混合性飲料的種類]",
-    "conceptId": "beverage-0cbfec7015",
-    "conceptLabel": "7-1混合性飲料的種類",
+    "subject": "foodservice",
+    "subjectLabel": "餐飲服務技術",
+    "unit": "[CH10 餐廳服務流程] - [10-4 A 宴會廳服務流程]",
+    "conceptId": "foodservice-830c5d2fed",
+    "conceptLabel": "10-4 A 宴會廳服務流程",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH7混合性飲料調製",
-        "locator": "7-1混合性飲料的種類",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=48, second=44。"
+        "chapter": "CH10 餐廳服務流程",
+        "locator": "10-4 A 宴會廳服務流程",
+        "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：10-4 A 宴會廳服務流程"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "此題已依原始試題修正為選擇題格式，解析需重新檢核。",
       "optionExplanations": [],
       "references": [
         {
           "source": "manual",
-          "chapter": "CH7混合性飲料調製",
-          "locator": "7-1混合性飲料的種類",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=48, second=44。"
+          "chapter": "CH10 餐廳服務流程",
+          "locator": "10-4 A 宴會廳服務流程",
+          "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：10-4 A 宴會廳服務流程"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-02T02:32:37.277Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-restore-numeric-choice",
-      "latest-taxonomy-auto-low",
-      "latest-taxonomy-low-confidence",
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150801-evening"
     ],
-    "searchText": "最適宜雞尾酒會(Cocktail Party)供應之食物大小規格為何? 可一口食用者 越大塊越實際 越小越精緻 依食物種類而異。 飲料實務 [CH7混合性飲料調製] - [7-1混合性飲料的種類] 7-1混合性飲料的種類 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
+    "searchText": "最適宜雞尾酒會(Cocktail Party)供應之食物大小規格為何? 可一口食用者 越大塊越實際 越小越精緻 依食物種類而異。 餐飲服務技術 [CH10 餐廳服務流程] - [10-4 A 宴會廳服務流程] 10-4 A 宴會廳服務流程 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
     "sequence": 3289.02,
     "answer": "1"
   }

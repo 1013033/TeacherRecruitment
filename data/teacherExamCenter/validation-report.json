@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-manual-fixes-e2e499b738",
-  "generatedAt": "2026-08-01T00:00:00.000+08:00",
-  "sourceQuestionCount": 3485,
-  "parsedQuestionCount": 3485,
-  "emittedQuestionCount": 3485,
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
+  "generatedAt": "2026-08-02T02:55:48.444Z",
+  "sourceQuestionCount": 3517,
+  "parsedQuestionCount": 3517,
+  "emittedQuestionCount": 3517,
   "unresolvedQuestionCount": 0,
   "errors": [],
   "files": [
@@ -3723,6 +3723,18 @@
         "teacher-exam-99-21-q002-ba703ae212"
       ],
       "unresolvedIds": []
+    },
+    {
+      "fileName": "teacherExamCenterOverrides.json#additionalQuestions",
+      "sourceYear": 0,
+      "sourceHash": "dc57155468",
+      "sourceQuestionCount": 1,
+      "parsedQuestionCount": 1,
+      "unresolvedQuestionCount": 0,
+      "questionIds": [
+        "teacher-exam-112-jiaqi-fill-q001-beef-cuts"
+      ],
+      "unresolvedIds": []
     }
   ],
   "unresolved": [],
@@ -3791,7 +3803,7 @@
     "missing": [],
     "mismatches": []
   },
-  "missingAnswerCount": 695,
+  "missingAnswerCount": 696,
   "missingAnswerSamples": [
     {
       "id": "teacher-exam-100-01-q001-3c23160ec6",

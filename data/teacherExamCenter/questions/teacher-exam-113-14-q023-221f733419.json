@@ -1,19 +1,36 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-daytime-reviewed-3d5140e99d",
+  "dataVersion": "teacher-exam-utf8-fix-720ce6a11a",
   "question": {
     "id": "teacher-exam-113-14-q023-221f733419",
     "sourceYear": 113,
-    "sourceLabel": "113 年第 23-25 題（電子機票題組）",
+    "sourceLabel": "113 年第 23 題（電子機票題組）",
     "sourceFile": "113年教師甄試題目.md",
     "sourceLocator": "113年教師甄試題目.md#offset-6104",
     "paperTitle": "113年公立高級中等學校教師甄選餐飲管理科／觀光事業科試題",
     "schoolName": "113年公立高級中等學校教師甄選",
     "questionNumber": 23,
-    "questionType": "short-answer",
-    "prompt": "23. 請問這張機票的目前去程的訂位狀況為？\n(A) 限空位搭乘\n(B) 機位確定\n(C) 機位候補\n(D) 不佔位子。\n\n24. 請問這張機票的效期多長？\n(A) 30 天\n(B) 5 個月\n(C) 7 個月\n(D) 1 年。\n\n25. 請問此班航空公司正在執行第幾航權？\n(A) 第五航權\n(B) 第七航權\n(C) 第八航權\n(D) 第九航權。",
-    "options": [],
-    "answer": "23:A、24:C、25:D",
+    "questionType": "single-choice",
+    "prompt": "請問這張機票的目前去程的訂位狀況為？",
+    "options": [
+      {
+        "id": "A",
+        "text": "限空位搭乘"
+      },
+      {
+        "id": "B",
+        "text": "機位確定"
+      },
+      {
+        "id": "C",
+        "text": "機位候補"
+      },
+      {
+        "id": "D",
+        "text": "不佔位子。"
+      }
+    ],
+    "answer": "A",
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
     "unit": "[CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼]",
@@ -29,11 +46,30 @@
       }
     ],
     "explanation": {
-      "status": "needs-review",
-      "answerExplanation": "此題組共用電子機票資訊作答，答案為 23:A、24:C、25:D。",
-      "optionExplanations": [],
-      "generatedAt": "2026-07-28",
-      "model": "manual-correction",
+      "status": "approved",
+      "answerExplanation": "此題依電子機票資訊判讀，答案為 A。",
+      "optionExplanations": [
+        {
+          "optionId": "A",
+          "isCorrect": true,
+          "explanation": "此選項為正確答案。"
+        },
+        {
+          "optionId": "B",
+          "isCorrect": false,
+          "explanation": "此選項不符合題幹資訊。"
+        },
+        {
+          "optionId": "C",
+          "isCorrect": false,
+          "explanation": "此選項不符合題幹資訊。"
+        },
+        {
+          "optionId": "D",
+          "isCorrect": false,
+          "explanation": "此選項不符合題幹資訊。"
+        }
+      ],
       "references": [
         {
           "source": "manual",
@@ -42,14 +78,18 @@
           "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=198, second=188。"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-01T00:00:00.000Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "latest-taxonomy-auto-high",
+      "manual-content-fix-1150801",
+      "split-ticket-question-group"
     ],
-    "searchText": "23. 請問這張機票的目前去程的訂位狀況為?\n(A) 限空位搭乘\n(B) 機位確定\n(C) 機位候補\n(D) 不佔位子。\n\n24. 請問這張機票的效期多長?\n(A) 30 天\n(B) 5 個月\n(C) 7 個月\n(D) 1 年。\n\n25. 請問此班航空公司正在執行第幾航權?\n(A) 第五航權\n(B) 第七航權\n(C) 第八航權\n(D) 第九航權。 請依照以下所提供之電子機票訊息,回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket:6168981433273\nTicket Issue Date:9 APR 2024\nIssuing Airline:Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB:01 APR 2024 NVA:01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB:01 APR 2024 NVA:01 NOV 2024 觀光餐旅業導論 [CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼] 6-4 E2 航空公司代碼 此題組共用電子機票資訊作答,答案為 23:A、24:C、25:D。",
+    "searchText": "請問這張機票的目前去程的訂位狀況為？ 限空位搭乘 機位確定 機位候補 不佔位子。 請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024 觀光餐旅業導論 [CH6 觀光餐旅相關產業] - [6-4 E2 航空公司代碼] 6-4 E2 航空公司代碼",
     "sequence": 2020,
-    "readingPassage": "請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024"
+    "readingPassage": "請依照以下所提供之電子機票訊息，回答第 23-25 題。\nPassenger Ticket Receipt\nCHEN/MING JU\nE-ticket：6168981433273\nTicket Issue Date：9 APR 2024\nIssuing Airline：Thai Airways\nFlight Details\nDeparting Arriving\nThai Airways ROM/VCE 09APR2024 0810 09APR2024 1950 TG026 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024\nThai Airways VCE/ROM 15APR2024 1620 15APR2024 1715 TG325 Class C Status SA Free Baggage 30kg NVB：01 APR 2024 NVA：01 NOV 2024",
+    "questionGroupId": "113-national-ticket-receipt-group",
+    "questionGroupTitle": "113 全國電子機票題組"
   }
 }
