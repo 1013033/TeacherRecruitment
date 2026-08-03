@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-114-15-q041-menu-bourride-red-snapper",
     "sourceYear": 114,
@@ -42,11 +42,11 @@
         "source": "manual",
         "chapter": "CH5 菜單與飲料單",
         "locator": "5-2 A 傳統西式菜單結構",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=356, second=108。"
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：5-2 A 傳統西式菜單結構"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 D。此題需參照共同菜單資訊作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-29",
@@ -56,15 +56,15 @@
           "source": "manual",
           "chapter": "CH5 菜單與飲料單",
           "locator": "5-2 A 傳統西式菜單結構",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=356, second=108。"
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：5-2 A 傳統西式菜單結構"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-split-question-group",
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150803-daytime"
     ],
     "searchText": "請問以上餐點如以傳統西式菜單結構來看,以下哪一個選項未出現? Digestif Entrée Potage Entremets 餐飲服務技術 [CH5 菜單與飲料單] - [5-2 A 傳統西式菜單結構] 5-2 A 傳統西式菜單結構 答案為 D。此題需參照共同菜單資訊作答。",
     "sequence": 2330.1

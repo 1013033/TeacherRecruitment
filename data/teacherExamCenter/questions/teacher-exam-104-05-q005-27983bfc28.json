@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-104-05-q005-27983bfc28",
     "sourceYear": 104,
@@ -15,39 +15,39 @@
     "options": [],
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH7 餐飲禮儀] - [7-2用餐禮儀]",
-    "conceptId": "foodservice-1ca67990b2",
-    "conceptLabel": "7-2用餐禮儀",
+    "unit": "[CH7 餐飲禮儀] - [7-1 A 中餐席次安排原則(方桌、長桌、圓桌)]",
+    "conceptId": "foodservice-496b7a8412",
+    "conceptLabel": "7-1 A 中餐席次安排原則(方桌、長桌、圓桌)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
         "chapter": "CH7 餐飲禮儀",
-        "locator": "7-2用餐禮儀",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=132, second=56。"
+        "locator": "7-1 A 中餐席次安排原則(方桌、長桌、圓桌)",
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：7-1 A 中餐席次安排原則(方桌、長桌、圓桌)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "此題已依原始試題修正題幹或圖片格式，解析需重新檢核。",
       "optionExplanations": [],
       "references": [
         {
           "source": "manual",
           "chapter": "CH7 餐飲禮儀",
-          "locator": "7-2用餐禮儀",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=132, second=56。"
+          "locator": "7-1 A 中餐席次安排原則(方桌、長桌、圓桌)",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：7-1 A 中餐席次安排原則(方桌、長桌、圓桌)"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-image-source",
       "manual-reclassify-seating-etiquette",
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150803-daytime"
     ],
-    "searchText": "小明跟著爸爸、媽媽和爺爺到中餐廳用餐,爺爺的座位應安排在圖中的哪個位置最符合用餐禮儀? 餐飲服務技術 [CH7 餐飲禮儀] - [7-2用餐禮儀] 7-2用餐禮儀 此題已依原始試題修正題幹或圖片格式,解析需重新檢核。",
+    "searchText": "小明跟著爸爸、媽媽和爺爺到中餐廳用餐,爺爺的座位應安排在圖中的哪個位置最符合用餐禮儀? 餐飲服務技術 [CH7 餐飲禮儀] - [7-1 A 中餐席次安排原則(方桌、長桌、圓桌)] 7-1 A 中餐席次安排原則(方桌、長桌、圓桌) 此題已依原始試題修正題幹或圖片格式,解析需重新檢核。",
     "sequence": 826,
     "answer": "(5) 主位（上席）",
     "images": [

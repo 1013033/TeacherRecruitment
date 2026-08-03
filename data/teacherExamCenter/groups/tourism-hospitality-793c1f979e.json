@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "tourism-hospitality-793c1f979e",
     "subject": "tourism-hospitality",
@@ -9,44 +9,20 @@
     "label": "6-4 E3城市代碼/ 機場代碼",
     "description": "",
     "questionIds": [
-      "teacher-exam-105-06-q001-489938457f",
-      "teacher-exam-107-08-q007-0bf4ba1149",
       "teacher-exam-102-03-q008-1c7afee92a",
       "teacher-exam-104-05-q001-f4a5c432fe",
+      "teacher-exam-105-06-q001-489938457f",
+      "teacher-exam-107-08-q007-0bf4ba1149",
       "teacher-exam-113-14-q013-9ef1af69e1"
     ],
     "years": [
-      102,
-      104,
-      105,
+      113,
       107,
-      113
+      105,
+      104,
+      102
     ],
     "publisherBasis": [
-      {
-        "source": "manual",
-        "chapter": "CH6 觀光餐旅相關產業",
-        "locator": "6-4 E3城市代碼/ 機場代碼",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH6 觀光餐旅相關產業",
-        "locator": "6-4 E3城市代碼/ 機場代碼",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH6 觀光餐旅相關產業",
-        "locator": "6-4 E3城市代碼/ 機場代碼",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH6 觀光餐旅相關產業",
-        "locator": "6-4 E3城市代碼/ 機場代碼",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=56, second=28。"
-      },
       {
         "source": "manual",
         "chapter": "CH6 觀光餐旅相關產業",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "beverage-e36ef66032",
     "subject": "beverage",
@@ -9,12 +9,12 @@
     "label": "6-3 A香甜酒 / 再製酒 / 合成酒(Liqueur)",
     "description": "",
     "questionIds": [
-      "teacher-exam-108-09-q001-83dc916962",
-      "teacher-exam-103-04-q009-80fe87b173"
+      "teacher-exam-103-04-q009-80fe87b173",
+      "teacher-exam-108-09-q001-83dc916962"
     ],
     "years": [
-      103,
-      108
+      108,
+      103
     ],
     "publisherBasis": [
       {
@@ -22,12 +22,6 @@
         "chapter": "CH6 酒的分類與製程",
         "locator": "6-3 A香甜酒 / 再製酒 / 合成酒(Liqueur)",
         "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：6-3 A香甜酒 / 再製酒 / 合成酒(Liqueur)"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH6 酒的分類與製程",
-        "locator": "6-3 A香甜酒 / 再製酒 / 合成酒(Liqueur)",
-        "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：6-3 A香甜酒/再製酒 /合成酒(Liqueur)"
       }
     ],
     "reviewStatus": "approved",

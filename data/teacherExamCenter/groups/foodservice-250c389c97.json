@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "foodservice-250c389c97",
     "subject": "foodservice",
@@ -10,19 +10,19 @@
     "description": "",
     "questionIds": [
       "teacher-exam-100-01-q016-ffe7d84798",
+      "teacher-exam-102-03-q003-1e49e05a9d",
       "teacher-exam-104-05-q008-eab5127ebf",
       "teacher-exam-105-06-q015-9ce161dbe9",
-      "teacher-exam-99-21-q001-5d16a0c395",
       "teacher-exam-97-19-q007-96c9cf30da",
-      "teacher-exam-102-03-q003-1e49e05a9d"
+      "teacher-exam-99-21-q001-5d16a0c395"
     ],
     "years": [
-      97,
-      99,
-      100,
-      102,
+      105,
       104,
-      105
+      102,
+      100,
+      99,
+      97
     ],
     "publisherBasis": [
       {
@@ -30,36 +30,6 @@
         "chapter": "CH3 基本服務技巧",
         "locator": "3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)",
         "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH3 基本服務技巧",
-        "locator": "3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)",
-        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH3 基本服務技巧",
-        "locator": "3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)",
-        "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH3 基本服務技巧",
-        "locator": "3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)",
-        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH3 基本服務技巧",
-        "locator": "3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)",
-        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH3 基本服務技巧",
-        "locator": "3-5 B 收拾殘盤 3S(刮除 Scrape → 堆疊 Stack → 分類 Separate)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=56, second=56。"
       }
     ],
     "reviewStatus": "needs-review",

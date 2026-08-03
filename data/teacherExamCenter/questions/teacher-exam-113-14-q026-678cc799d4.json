@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-113-14-q026-678cc799d4",
     "sourceYear": 113,
@@ -33,20 +33,20 @@
     "answer": "B",
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
-    "conceptId": "foodservice-744dfb139d",
-    "conceptLabel": "5-1 E 宗教菜單禁忌",
+    "unit": "[CH6 餐桌布置與擺設] - [6-2 A 西餐餐桌擺設]",
+    "conceptId": "foodservice-63231f4097",
+    "conceptLabel": "6-2 A 西餐餐桌擺設",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH5 菜單與飲料單",
-        "locator": "5-1 E 宗教菜單禁忌",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=166, second=166。"
+        "chapter": "CH6 餐桌布置與擺設",
+        "locator": "6-2 A 西餐餐桌擺設",
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-2 A 西餐餐桌擺設"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 B。此題需參照共同菜單資訊作答。",
       "optionExplanations": [],
       "generatedAt": "2026-07-29",
@@ -54,21 +54,20 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH5 菜單與飲料單",
-          "locator": "5-1 E 宗教菜單禁忌",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=166, second=166。"
+          "chapter": "CH6 餐桌布置與擺設",
+          "locator": "6-2 A 西餐餐桌擺設",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-2 A 西餐餐桌擺設"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-split-question-group",
-      "latest-taxonomy-auto-high",
-      "latest-taxonomy-auto-medium",
-      "manual-question-group-1150801"
+      "manual-question-group-1150801",
+      "human-reviewed-1150803-daytime"
     ],
-    "searchText": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw 請問以上菜單會使用到那些器具，請選出正確選項？ Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate Soup Bowl、Round Plate、Snifter、Divided Dish 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 答案為 B。此題需參照共同菜單資訊作答。",
+    "searchText": "請問以上菜單會使用到那些器具,請選出正確選項? 請依照以下所提供之菜單訊息,回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw Shallow Bowl、Dinner Plate、Cocktail Glass、Side Plate Soup Plate、Dinner Plate、Old Fashioned Glass、Salad Plate Soup Bowl & Saucer、Ramekin、Collin Glass、Dessert Plate Soup Bowl、Round Plate、Snifter、Divided Dish 餐飲服務技術 [CH6 餐桌布置與擺設] - [6-2 A 西餐餐桌擺設] 6-2 A 西餐餐桌擺設 答案為 B。此題需參照共同菜單資訊作答。",
     "sequence": 2023,
     "readingPassage": "請依照以下所提供之菜單訊息，回答第 26-28 題。\nVichyssoise、Lobster、Caipirinha、Cole Slaw",
     "questionGroupId": "113-national-menu-vichyssoise-lobster-group",

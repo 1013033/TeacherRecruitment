@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "tourism-hospitality-f14838f72c",
     "subject": "tourism-hospitality",
@@ -14,8 +14,8 @@
       "teacher-exam-115-16-q024-9e52e6691a"
     ],
     "years": [
-      114,
-      115
+      115,
+      114
     ],
     "publisherBasis": [
       {
@@ -23,18 +23,6 @@
         "chapter": "時事(法規、時事、政策、標章)",
         "locator": "C3 Tourism 2030-臺灣觀光邁向 2030 方案(115-119 年)",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=306, second=252。"
-      },
-      {
-        "source": "manual",
-        "chapter": "時事(法規、時事、政策、標章)",
-        "locator": "C3 Tourism 2030-臺灣觀光邁向 2030 方案(115-119 年)",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "時事(法規、時事、政策、標章)",
-        "locator": "C3 Tourism 2030-臺灣觀光邁向 2030 方案(115-119 年)",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
     "reviewStatus": "needs-review",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-104-05-q002-2f0eecb4d8",
     "sourceYear": 104,
@@ -15,20 +15,20 @@
     "options": [],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
-    "conceptId": "tourism-hospitality-04466494a5",
-    "conceptLabel": "3-5 D 西餐烹調法",
+    "unit": "[觀光餐旅英語會話] - [A英翻中]",
+    "conceptId": "tourism-hospitality-3f0448a64f",
+    "conceptLabel": "A英翻中",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-5 D 西餐烹調法",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=120, second=42。"
+        "chapter": "觀光餐旅英語會話",
+        "locator": "A英翻中",
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：A英翻中"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題為英翻中，已移除題尾誤接的頁碼與准考證欄。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -36,18 +36,18 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-5 D 西餐烹調法",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=120, second=42。"
+          "chapter": "觀光餐旅英語會話",
+          "locator": "A英翻中",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：A英翻中"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150803-daytime"
     ],
-    "searchText": "英翻中:\nThere are many cherished natural resources and traditional folk customs in Taiwan, these unique characteristics make Taiwan become one of the popular tourist attractions for foreign tourists. 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法 本題為英翻中,已移除題尾誤接的頁碼與准考證欄。",
+    "searchText": "英翻中:\nThere are many cherished natural resources and traditional folk customs in Taiwan, these unique characteristics make Taiwan become one of the popular tourist attractions for foreign tourists. 觀光餐旅業導論 [觀光餐旅英語會話] - [A英翻中] A英翻中 本題為英翻中,已移除題尾誤接的頁碼與准考證欄。",
     "sequence": 604
   }
 }

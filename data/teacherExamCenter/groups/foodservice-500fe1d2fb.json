@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "foodservice-500fe1d2fb",
     "subject": "foodservice",
@@ -10,13 +10,13 @@
     "description": "",
     "questionIds": [
       "teacher-exam-100-01-q015-13213eea81",
-      "teacher-exam-98-20-q037-8d589c0e32",
-      "teacher-exam-102-03-q016-cbff665dbe"
+      "teacher-exam-102-03-q016-cbff665dbe",
+      "teacher-exam-98-20-q037-8d589c0e32"
     ],
     "years": [
-      98,
+      102,
       100,
-      102
+      98
     ],
     "publisherBasis": [
       {
@@ -24,18 +24,6 @@
         "chapter": "CH2 餐廳設備與器具",
         "locator": "2-1 B 轉檯",
         "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：2-1 B 轉檯"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH2 餐廳設備與器具",
-        "locator": "2-1 B 轉檯",
-        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：2-1 B 轉檯"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH2 餐廳設備與器具",
-        "locator": "2-1 B 轉檯",
-        "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：2-1 B 轉檯"
       }
     ],
     "reviewStatus": "approved",

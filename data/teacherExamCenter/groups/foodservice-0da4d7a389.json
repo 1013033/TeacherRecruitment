@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "foodservice-0da4d7a389",
     "subject": "foodservice",
@@ -9,14 +9,14 @@
     "label": "10-3 A 下午茶服務流程",
     "description": "",
     "questionIds": [
-      "teacher-exam-113-14-q001-d35600a7c4",
       "teacher-exam-110-11-q035-9dd3e48879",
-      "teacher-exam-112-13-q007-0c0e02a6bf"
+      "teacher-exam-112-13-q007-0c0e02a6bf",
+      "teacher-exam-113-14-q001-d35600a7c4"
     ],
     "years": [
-      110,
+      113,
       112,
-      113
+      110
     ],
     "publisherBasis": [
       {
@@ -24,18 +24,6 @@
         "chapter": "CH10 餐廳服務流程",
         "locator": "10-3 A 下午茶服務流程",
         "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：10-3 A 下午茶服務流程"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH10 餐廳服務流程",
-        "locator": "10-3 A 下午茶服務流程",
-        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：10-3 A 下午茶服務流程"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH10 餐廳服務流程",
-        "locator": "10-3 A 下午茶服務流程",
-        "note": "依人工審核整理檔「待審核-1150802白天-紅字分類整理.md」套用分類；分類限定於「1150802_.md」。 原始人工分類：10-3 A 下午茶服務流程"
       }
     ],
     "reviewStatus": "approved",

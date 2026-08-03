@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "tourism-hospitality-96fb5ec988",
     "subject": "tourism-hospitality",
@@ -13,8 +13,8 @@
       "teacher-exam-111-12-q001-2221547821"
     ],
     "years": [
-      101,
-      111
+      111,
+      101
     ],
     "publisherBasis": [
       {
@@ -22,12 +22,6 @@
         "chapter": "CH5 旅行業",
         "locator": "5-5 O 責任保險",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=156, second=108。"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH5 旅行業",
-        "locator": "5-5 O 責任保險",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=140, second=92。"
       }
     ],
     "reviewStatus": "needs-review",

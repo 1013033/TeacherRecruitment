@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "tourism-hospitality-99d605acba",
     "subject": "tourism-hospitality",
@@ -9,12 +9,12 @@
     "label": "5-3 A2 日本旅行業分類",
     "description": "",
     "questionIds": [
-      "teacher-exam-97-19-q054-f5dc1a7fb6",
-      "teacher-exam-101-02-q033-f0f6b2f277"
+      "teacher-exam-101-02-q033-f0f6b2f277",
+      "teacher-exam-97-19-q054-f5dc1a7fb6"
     ],
     "years": [
-      97,
-      101
+      101,
+      97
     ],
     "publisherBasis": [
       {
@@ -22,12 +22,6 @@
         "chapter": "CH5 旅行業",
         "locator": "5-3 A2 日本旅行業分類",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=40, second=40。"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH5 旅行業",
-        "locator": "5-3 A2 日本旅行業分類",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
     "reviewStatus": "needs-review",

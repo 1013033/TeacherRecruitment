@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-98-20-q013-b051540469",
     "sourceYear": 98,
@@ -32,38 +32,38 @@
     ],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH4 旅宿業] - [4-5 D 訂房]",
-    "conceptId": "tourism-hospitality-16412ef0b8",
-    "conceptLabel": "4-5 D 訂房",
+    "unit": "[CH4 旅宿業] - [4-5 I 帳務及付款]",
+    "conceptId": "tourism-hospitality-3132177775",
+    "conceptLabel": "4-5 I 帳務及付款",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
         "chapter": "CH4 旅宿業",
-        "locator": "4-5 D 訂房",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=84, second=36。"
+        "locator": "4-5 I 帳務及付款",
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：4-5 I 帳務及付款"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "此題已依原始試題修正為選擇題格式，解析需重新檢核。",
       "optionExplanations": [],
       "references": [
         {
           "source": "manual",
           "chapter": "CH4 旅宿業",
-          "locator": "4-5 D 訂房",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=84, second=36。"
+          "locator": "4-5 I 帳務及付款",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：4-5 I 帳務及付款"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-restore-numeric-choice",
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150803-daytime"
     ],
-    "searchText": "合約公司訂房後預付款或定金之付款方式是: 透過本地旅行社 公司帳 員工掛帳 由預定住客付現。 觀光餐旅業導論 [CH4 旅宿業] - [4-5 D 訂房] 4-5 D 訂房 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
+    "searchText": "合約公司訂房後預付款或定金之付款方式是: 透過本地旅行社 公司帳 員工掛帳 由預定住客付現。 觀光餐旅業導論 [CH4 旅宿業] - [4-5 I 帳務及付款] 4-5 I 帳務及付款 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
     "sequence": 3289.11,
     "answer": "1"
   }

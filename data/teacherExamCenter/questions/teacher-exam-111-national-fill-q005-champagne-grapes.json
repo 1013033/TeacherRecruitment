@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-111-national-fill-q005-champagne-grapes",
     "sourceYear": 111,
@@ -15,50 +15,39 @@
     "options": [],
     "subject": "beverage",
     "subjectLabel": "飲料實務",
-    "unit": "[CH6 酒的分類與製程**] - [6-1 A2-5葡萄品種]",
-    "conceptId": "beverage-a9e5066c4b",
+    "unit": "[CH6 酒的分類與製程] - [6-1 A2-5葡萄品種]",
+    "conceptId": "beverage-90c4d2bcc0",
     "conceptLabel": "6-1 A2-5葡萄品種",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH6 酒的分類與製程**",
+        "chapter": "CH6 酒的分類與製程",
         "locator": "6-1 A2-5葡萄品種",
-        "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：6-1 A2-5葡萄品種"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH6 酒的分類與製程**",
-        "locator": "6-1 A2-5葡萄品種",
-        "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-1 A2-5葡萄品種"
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-1 A2-5葡萄品種"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "依使用者提供之填充題題幹補入，答案已以底線標示於題幹中。",
       "references": [
         {
           "source": "manual",
-          "chapter": "CH6 酒的分類與製程**",
+          "chapter": "CH6 酒的分類與製程",
           "locator": "6-1 A2-5葡萄品種",
-          "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：6-1 A2-5葡萄品種"
-        },
-        {
-          "source": "manual",
-          "chapter": "CH6 酒的分類與製程**",
-          "locator": "6-1 A2-5葡萄品種",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-1 A2-5葡萄品種"
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-1 A2-5葡萄品種"
         }
       ],
-      "updatedAt": "2026-08-02T13:57:55Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-supplement",
       "manual-fill-in-added-111",
-      "needs-manual-review"
+      "needs-manual-review",
+      "human-reviewed-1150803-daytime"
     ],
     "sequence": 1726,
-    "searchText": "釀製「酒中之王」的三種法定葡萄品種為： ___黑皮諾(Pinot Noir)___、 ___皮諾‧莫尼耶(PinotMeunier)___、___夏多內(Chardonnay)___ 6-1 A2-5葡萄品種 [CH6 酒的分類與製程] - [6-1 A2-5葡萄品種]"
+    "searchText": "釀製「酒中之王」的三種法定葡萄品種為: ___黑皮諾(Pinot Noir)___、 ___皮諾‧莫尼耶(PinotMeunier)___、___夏多內(Chardonnay)___ 飲料實務 [CH6 酒的分類與製程] - [6-1 A2-5葡萄品種] 6-1 A2-5葡萄品種 依使用者提供之填充題題幹補入,答案已以底線標示於題幹中。"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "foodservice-048a51ccc8",
     "subject": "foodservice",
@@ -9,20 +9,14 @@
     "label": "7-2 B1 牛排熟度",
     "description": "",
     "questionIds": [
-      "teacher-exam-99-21-q074-9dc955b4d3",
-      "teacher-exam-111-12-q001-a14f8ac4c5"
+      "teacher-exam-111-12-q001-a14f8ac4c5",
+      "teacher-exam-99-21-q074-9dc955b4d3"
     ],
     "years": [
-      99,
-      111
+      111,
+      99
     ],
     "publisherBasis": [
-      {
-        "source": "manual",
-        "chapter": "CH7 餐飲禮儀",
-        "locator": "7-2 B1 牛排熟度",
-        "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：7-2 B1 牛排熟度"
-      },
       {
         "source": "manual",
         "chapter": "CH7 餐飲禮儀",

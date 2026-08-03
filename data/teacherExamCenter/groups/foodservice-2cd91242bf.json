@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "foodservice-2cd91242bf",
     "subject": "foodservice",
@@ -9,16 +9,16 @@
     "label": "4-4 E 垃圾分類 環保6R",
     "description": "",
     "questionIds": [
-      "teacher-exam-115-16-q003-692ac99d09",
       "teacher-exam-101-02-q018-8ecf45131f",
-      "teacher-exam-99-21-q018-6b8a23e632",
-      "teacher-exam-104-05-q001-dbecd2f1c1"
+      "teacher-exam-104-05-q001-dbecd2f1c1",
+      "teacher-exam-115-16-q003-692ac99d09",
+      "teacher-exam-99-21-q018-6b8a23e632"
     ],
     "years": [
-      99,
-      101,
+      115,
       104,
-      115
+      101,
+      99
     ],
     "publisherBasis": [
       {
@@ -26,24 +26,6 @@
         "chapter": "CH4 營業前的準備工作與營業後的善後工作",
         "locator": "4-4 E 垃圾分類 環保6R",
         "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：4-4 E 垃圾分類 環保6R"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH4 營業前的準備工作與營業後的善後工作",
-        "locator": "4-4 E 垃圾分類 環保6R",
-        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：4-4 E 垃圾分類 環保6R"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH4 營業前的準備工作與營業後的善後工作",
-        "locator": "4-4 E 垃圾分類 環保6R",
-        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：4-4 E 垃圾分類 環保6R"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH4 營業前的準備工作與營業後的善後工作",
-        "locator": "4-4 E 垃圾分類 環保6R",
-        "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：4-4 E 垃圾分類 環保6R"
       }
     ],
     "reviewStatus": "approved",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "tourism-hospitality-a683437fcc",
     "subject": "tourism-hospitality",
@@ -9,14 +9,14 @@
     "label": "7-2 E 目標市場(無差異行銷、差異化行銷、集中式行銷、個人化行銷)",
     "description": "",
     "questionIds": [
-      "teacher-exam-97-19-q018-e168eac6e8",
       "teacher-exam-111-12-q012-80711a6442",
-      "teacher-exam-113-14-q048-fa88086487"
+      "teacher-exam-113-14-q048-fa88086487",
+      "teacher-exam-97-19-q018-e168eac6e8"
     ],
     "years": [
-      97,
+      113,
       111,
-      113
+      97
     ],
     "publisherBasis": [
       {
@@ -24,18 +24,6 @@
         "chapter": "CH7 觀光餐旅行銷",
         "locator": "7-2 E 目標市場(無差異行銷、差異化行銷、集中式行銷、個人化行銷)",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=264, second=104。"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH7 觀光餐旅行銷",
-        "locator": "7-2 E 目標市場(無差異行銷、差異化行銷、集中式行銷、個人化行銷)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=260, second=100。"
-      },
-      {
-        "source": "manual",
-        "chapter": "CH7 觀光餐旅行銷",
-        "locator": "7-2 E 目標市場(無差異行銷、差異化行銷、集中式行銷、個人化行銷)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=96, second=56。"
       }
     ],
     "reviewStatus": "needs-review",

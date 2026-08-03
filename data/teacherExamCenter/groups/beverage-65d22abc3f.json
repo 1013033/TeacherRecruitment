@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "beverage-65d22abc3f",
     "subject": "beverage",
@@ -9,9 +9,11 @@
     "label": "5-3 B 烘焙階段",
     "description": "",
     "questionIds": [
-      "teacher-exam-111-12-q010-f46dc73a2d"
+      "teacher-exam-111-12-q010-f46dc73a2d",
+      "teacher-exam-shuili-q017-4aac0fdb0c"
     ],
     "years": [
+      115,
       111
     ],
     "publisherBasis": [
@@ -74,6 +76,89 @@
       "searchText": "111-10Caramelization <BR>\n焦糖化反應。 飲料實務 [CH5 咖啡的認識與調製] - [5-3 B 烘焙階段] 5-3 B 烘焙階段 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [餐飲業的發展過程 壹、外國餐飲業的發展]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第二節餐飲業的發展過程 壹、外國餐飲業的發展;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:餐飲業的發展過程 壹、外國餐飲業的發展;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:餐飲業的發展過程 壹、外國餐飲業的發展;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:餐飲業的發展過程 壹、外國餐飲業的發展;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:餐飲業的發展過程 壹、外國餐飲業的發展;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來，定位：餐飲業的發展過程 壹、外國餐飲業的發展；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "sequence": 1791,
       "updatedAt": "2026-08-02T14:06:23.723Z"
+    },
+    {
+      "id": "teacher-exam-shuili-q017-4aac0fdb0c",
+      "sourceYear": 115,
+      "sourceLabel": "115 ?? 17 ?",
+      "sourceFile": "水里.md",
+      "sourceLocator": "水里.md#offset-2210",
+      "paperTitle": "水里教師甄試題",
+      "schoolName": "115??",
+      "questionNumber": 17,
+      "questionType": "single-choice",
+      "prompt": "美拉德反應(Maillard Reaction)主要發生於？",
+      "options": [
+        {
+          "id": "A",
+          "text": "還原糖與蛋白質胺基反應"
+        },
+        {
+          "id": "B",
+          "text": "脂肪氧化"
+        },
+        {
+          "id": "C",
+          "text": "水分蒸發"
+        },
+        {
+          "id": "D",
+          "text": "澱粉糊化"
+        }
+      ],
+      "answer": "A",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH5 咖啡的認識與調製] - [5-3 B 烘焙階段]",
+      "conceptId": "beverage-65d22abc3f",
+      "conceptLabel": "5-3 B 烘焙階段",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH5 咖啡的認識與調製",
+          "locator": "5-3 B 烘焙階段",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：5-3 B 烘焙階段"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "答案與詳細解析待人工審核。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+          },
+          {
+            "optionId": "B",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "C",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "D",
+            "explanation": "錯誤原因待人工審核。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH5 咖啡的認識與調製",
+            "locator": "5-3 B 烘焙階段",
+            "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：5-3 B 烘焙階段"
+          }
+        ],
+        "updatedAt": "2026-08-03T13:00:48.565Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "taxonomy-auto-initial-high",
+        "human-reviewed-1150803-daytime"
+      ],
+      "searchText": "美拉德反應(Maillard Reaction)主要發生於? 還原糖與蛋白質胺基反應 脂肪氧化 水分蒸發 澱粉糊化 飲料實務 [CH5 咖啡的認識與調製] - [5-3 B 烘焙階段] 5-3 B 烘焙階段 答案與詳細解析待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
+      "sequence": 3485
     }
   ]
 }

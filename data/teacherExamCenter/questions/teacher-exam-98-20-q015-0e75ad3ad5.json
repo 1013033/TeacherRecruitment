@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-98-20-q015-0e75ad3ad5",
     "sourceYear": 98,
@@ -32,38 +32,38 @@
     ],
     "subject": "foodservice",
     "subjectLabel": "餐飲服務技術",
-    "unit": "[CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)]",
-    "conceptId": "foodservice-a0c78a2070",
-    "conceptLabel": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
+    "unit": "[CH9 飲料服務] - [9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程]",
+    "conceptId": "foodservice-9b08cd49cb",
+    "conceptLabel": "9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH8 餐飲服務",
-        "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=108。"
+        "chapter": "CH9 飲料服務",
+        "locator": "9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程",
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "此題已依原始試題修正為選擇題格式，解析需重新檢核。",
       "optionExplanations": [],
       "references": [
         {
           "source": "manual",
-          "chapter": "CH8 餐飲服務",
-          "locator": "8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=112, second=108。"
+          "chapter": "CH9 飲料服務",
+          "locator": "9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-restore-numeric-choice",
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150803-daytime"
     ],
-    "searchText": "下列哪一種酒的適飲溫度最低? 紅酒 甜白酒 玫瑰紅酒 不甜的干白酒。 餐飲服務技術 [CH8 餐飲服務] - [8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式)] 8-1 B餐桌服務(美式、英式、法式、旁桌、俄式、中式) 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
+    "searchText": "下列哪一種酒的適飲溫度最低? 紅酒 甜白酒 玫瑰紅酒 不甜的干白酒。 餐飲服務技術 [CH9 飲料服務] - [9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程] 9-2 B 葡萄酒(紅酒、白酒、氣泡酒、香檳酒)服務流程 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
     "sequence": 3289.13,
     "answer": "2"
   }

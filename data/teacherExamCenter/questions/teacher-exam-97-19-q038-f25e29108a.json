@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "question": {
     "id": "teacher-exam-97-19-q038-f25e29108a",
     "sourceYear": 97,
@@ -32,20 +32,20 @@
     ],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
-    "conceptId": "tourism-hospitality-c981d95e0a",
-    "conceptLabel": "3-2 E 中國─菜系",
+    "unit": "[西餐] - [S西餐─菜餚]",
+    "conceptId": "tourism-hospitality-7388322570",
+    "conceptLabel": "S西餐─菜餚",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH3 餐飲業",
-        "locator": "3-2 E 中國─菜系",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
+        "chapter": "西餐",
+        "locator": "S西餐─菜餚",
+        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：S西餐─菜餚"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題原始選項為數字編號。答案為 4（羊肉）。",
       "optionExplanations": [
         {
@@ -72,20 +72,19 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 E 中國─菜系",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=low, score=12, second=12。"
+          "chapter": "西餐",
+          "locator": "S西餐─菜餚",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：S西餐─菜餚"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-03T13:00:48.565Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-numeric-choice-restore",
-      "latest-taxonomy-auto-low",
-      "latest-taxonomy-low-confidence"
+      "human-reviewed-1150803-daytime"
     ],
-    "searchText": "愛爾蘭燉肉(Irish stew)是用那種主材料烹調的? 豬肉 牛肉 鹿肉 羊肉 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系 本題原始選項為數字編號。答案為 4(羊肉)。 不符合本題標準答案。 不符合本題標準答案。 不符合本題標準答案。 為本題標準答案。",
+    "searchText": "愛爾蘭燉肉(Irish stew)是用那種主材料烹調的? 豬肉 牛肉 鹿肉 羊肉 觀光餐旅業導論 [西餐] - [S西餐─菜餚] S西餐─菜餚 本題原始選項為數字編號。答案為 4(羊肉)。 不符合本題標準答案。 不符合本題標準答案。 不符合本題標準答案。 為本題標準答案。",
     "sequence": 3108,
     "answer": "4"
   }

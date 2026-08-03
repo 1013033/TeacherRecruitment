@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
+  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
   "concept": {
     "id": "tourism-hospitality-ade080a7f2",
     "subject": "tourism-hospitality",
@@ -9,20 +9,20 @@
     "label": "F2國外旅遊定型化契約",
     "description": "",
     "questionIds": [
-      "teacher-exam-114-15-q015-2368d8ef32",
-      "teacher-exam-107-08-q001-9a313be053",
-      "teacher-exam-97-19-q040-3380ea7d49",
       "teacher-exam-101-02-q014-fc0ce488bd",
+      "teacher-exam-107-08-q001-9a313be053",
       "teacher-exam-111-12-q008-e30bc9ad21",
-      "teacher-exam-112-13-q016-41dbfd8253"
+      "teacher-exam-112-13-q016-41dbfd8253",
+      "teacher-exam-114-15-q015-2368d8ef32",
+      "teacher-exam-97-19-q040-3380ea7d49"
     ],
     "years": [
-      97,
-      101,
-      107,
-      111,
+      114,
       112,
-      114
+      111,
+      107,
+      101,
+      97
     ],
     "publisherBasis": [
       {
@@ -30,36 +30,6 @@
         "chapter": "時事(法規、時事、政策、標章)",
         "locator": "F2國外旅遊定型化契約",
         "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=330, second=306。"
-      },
-      {
-        "source": "manual",
-        "chapter": "時事(法規、時事、政策、標章)",
-        "locator": "F2國外旅遊定型化契約",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 1721 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "時事(法規、時事、政策、標章)",
-        "locator": "F2國外旅遊定型化契約",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "時事(法規、時事、政策、標章)",
-        "locator": "F2國外旅遊定型化契約",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "時事(法規、時事、政策、標章)",
-        "locator": "F2國外旅遊定型化契約",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-      },
-      {
-        "source": "manual",
-        "chapter": "時事(法規、時事、政策、標章)",
-        "locator": "F2國外旅遊定型化契約",
-        "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：F2國外旅遊定型化契約"
       }
     ],
     "reviewStatus": "needs-review",
