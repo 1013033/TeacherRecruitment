@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
+  "dataVersion": "teacher-exam-1150804-evening-reviewed-60335079d2",
   "concept": {
     "id": "tourism-hospitality-606d2924e0",
     "subject": "tourism-hospitality",
@@ -32,7 +32,7 @@
         "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：6-4G 航空電腦訂位系統 CRS"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
@@ -322,42 +322,31 @@
           "source": "manual",
           "chapter": "CH6 觀光餐旅相關產業",
           "locator": "6-4G 航空電腦訂位系統 CRS",
-          "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：6-4G 航空電腦訂位系統 CRS"
-        },
-        {
-          "source": "manual",
-          "chapter": "CH6 觀光餐旅相關產業",
-          "locator": "6-4G 航空電腦訂位系統 CRS",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-4G 航空電腦訂位系統 CRS"
+          "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：6-4G 航空電腦訂位系統 CRS"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "依使用者提供之填充題題幹補入，答案已以底線標示於題幹中。",
         "references": [
           {
             "source": "manual",
             "chapter": "CH6 觀光餐旅相關產業",
             "locator": "6-4G 航空電腦訂位系統 CRS",
-            "note": "依人工審核整理檔「尚未審核過的題目V1-題目分類整理.md」套用主要分類；分類限定於「三科目錄(含細節)代碼115.07.29.md」。原始人工分類：6-4G 航空電腦訂位系統 CRS"
-          },
-          {
-            "source": "manual",
-            "chapter": "CH6 觀光餐旅相關產業",
-            "locator": "6-4G 航空電腦訂位系統 CRS",
-            "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：6-4G 航空電腦訂位系統 CRS"
+            "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：6-4G 航空電腦訂位系統 CRS"
           }
         ],
-        "updatedAt": "2026-08-02T13:57:55Z"
+        "updatedAt": "2026-08-04T13:24:54.847Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "manual-supplement",
         "manual-fill-in-added-111",
-        "needs-manual-review"
+        "needs-manual-review",
+        "human-reviewed-1150804-evening"
       ],
       "sequence": 1797,
-      "searchText": "目前國內常見之三種航空電腦訂位系統(Computer Reservation System, CRS)為__Abacus___、Amadeus與Galileo。 6-4G 航空電腦訂位系統 CRS [CH6 觀光餐旅相關產業] - [6-4G 航空電腦訂位系統 CRS]"
+      "searchText": "目前國內常見之三種航空電腦訂位系統(Computer Reservation System, CRS)為__Abacus___、Amadeus與Galileo。 觀光餐旅業導論 [CH6 觀光餐旅相關產業] - [6-4G 航空電腦訂位系統 CRS] 6-4G 航空電腦訂位系統 CRS 依使用者提供之填充題題幹補入,答案已以底線標示於題幹中。"
     },
     {
       "id": "teacher-exam-96-18-q001-02329a7598",

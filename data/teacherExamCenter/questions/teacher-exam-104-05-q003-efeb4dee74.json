@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
+  "dataVersion": "teacher-exam-1150804-evening-reviewed-60335079d2",
   "question": {
     "id": "teacher-exam-104-05-q003-efeb4dee74",
     "sourceYear": 104,
@@ -28,20 +28,20 @@
     ],
     "subject": "tourism-hospitality",
     "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH5 旅行業] - [5-5 H 機票(機票代碼、種類)]",
-    "conceptId": "tourism-hospitality-146d940116",
-    "conceptLabel": "5-5 H 機票(機票代碼、種類)",
+    "unit": "[觀光餐旅英語會話] - [C判讀]",
+    "conceptId": "tourism-hospitality-5ef8b3e9d2",
+    "conceptLabel": "C判讀",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH5 旅行業",
-        "locator": "5-5 H 機票(機票代碼、種類)",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=112。"
+        "chapter": "觀光餐旅英語會話",
+        "locator": "C判讀",
+        "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：C判讀"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "答案為 1:B、2:D、3:D。已將對話、空格與選項對應整理成可讀題組格式。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -49,18 +49,18 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH5 旅行業",
-          "locator": "5-5 H 機票(機票代碼、種類)",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=208, second=112。"
+          "chapter": "觀光餐旅英語會話",
+          "locator": "C判讀",
+          "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：C判讀"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-04T13:24:54.847Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150804-evening"
     ],
-    "searchText": "以下對話,請在空格內選出正確的選項。\n\nVisitor: Do you have double rooms for about 28 people?\nClerk: For what date, sir?\nVisitor: (1) ______.\nClerk: Just a moment, please.\nVisitor: Thank You.\nClerk: Sir, double rooms for 28 people starting September 30 are no problem.\nVisitor: Great. Please (2) ______ the rooms for me.\nClerk: OK. Mr. Lin, (3) ______.\nVisitor: I see. Thank you.\nClerk: The checking in time is 1:00 p.m.\n\n註:選項對應\n(1) (B) Two nights, starting from September 30.\n(2) (D) reserve\n(3) (D) Here is your reservation receipt 答案:B 答案:D 答案:D 觀光餐旅業導論 [CH5 旅行業] - [5-5 H 機票(機票代碼、種類)] 5-5 H 機票(機票代碼、種類) 答案為 1:B、2:D、3:D。已將對話、空格與選項對應整理成可讀題組格式。",
+    "searchText": "以下對話,請在空格內選出正確的選項。\n\nVisitor: Do you have double rooms for about 28 people?\nClerk: For what date, sir?\nVisitor: (1) ______.\nClerk: Just a moment, please.\nVisitor: Thank You.\nClerk: Sir, double rooms for 28 people starting September 30 are no problem.\nVisitor: Great. Please (2) ______ the rooms for me.\nClerk: OK. Mr. Lin, (3) ______.\nVisitor: I see. Thank you.\nClerk: The checking in time is 1:00 p.m.\n\n註:選項對應\n(1) (B) Two nights, starting from September 30.\n(2) (D) reserve\n(3) (D) Here is your reservation receipt 答案:B 答案:D 答案:D 觀光餐旅業導論 [觀光餐旅英語會話] - [C判讀] C判讀 答案為 1:B、2:D、3:D。已將對話、空格與選項對應整理成可讀題組格式。",
     "sequence": 599,
     "answer": "1:B、2:D、3:D"
   }

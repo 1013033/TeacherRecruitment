@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
+  "dataVersion": "teacher-exam-1150804-evening-reviewed-60335079d2",
   "question": {
     "id": "teacher-exam-115-16-q001-0ebca4f68f",
     "sourceYear": 115,
@@ -13,22 +13,22 @@
     "questionType": "translation",
     "prompt": "Mr. and Mrs. Chen invited Mr. and Mrs. Lin to a French bistro that combines modern elegance with a modern bistro atmosphere.\nPlease translate the following set menu into Chinese.\n\n| No. | Original | Chinese |\n| --- | --- | --- |\n| 1 | Focaccia | |\n| 2 | Cole Slaw | |\n| 3 | Prosciutto Crudo | |\n| 4 | Cioppino | |\n| 5 | Italian Nebbiolo | |\n| 6 | Sauteed Beef Stroganoff with Spinach Spaetzle | |\n| 7 | Schwarzwälder Kirschtorte | |\n| 8 | Affogato | |",
     "options": [],
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務技術",
-    "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
-    "conceptId": "foodservice-744dfb139d",
-    "conceptLabel": "5-1 E 宗教菜單禁忌",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[西餐] - [S西餐─菜餚]",
+    "conceptId": "tourism-hospitality-7388322570",
+    "conceptLabel": "S西餐─菜餚",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH5 菜單與飲料單",
-        "locator": "5-1 E 宗教菜單禁忌",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=64, second=54。"
+        "chapter": "西餐",
+        "locator": "S西餐─菜餚",
+        "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：S西餐─菜餚"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題為菜單英翻中，已整理為 No./Original/Chinese 表格並移除誤接的下一大題標題。",
       "optionExplanations": [],
       "generatedAt": "2026-07-28",
@@ -36,18 +36,18 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH5 菜單與飲料單",
-          "locator": "5-1 E 宗教菜單禁忌",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=64, second=54。"
+          "chapter": "西餐",
+          "locator": "S西餐─菜餚",
+          "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：S西餐─菜餚"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-04T13:24:54.847Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high"
+      "human-reviewed-1150804-evening"
     ],
-    "searchText": "Mr. and Mrs. Chen invited Mr. and Mrs. Lin to a French bistro that combines modern elegance with a modern bistro atmosphere.\nPlease translate the following set menu into Chinese.\n\n| No. | Original | Chinese |\n| --- | --- | --- |\n| 1 | Focaccia | |\n| 2 | Cole Slaw | |\n| 3 | Prosciutto Crudo | |\n| 4 | Cioppino | |\n| 5 | Italian Nebbiolo | |\n| 6 | Sauteed Beef Stroganoff with Spinach Spaetzle | |\n| 7 | Schwarzwälder Kirschtorte | |\n| 8 | Affogato | | 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 本題為菜單英翻中,已整理為 No./Original/Chinese 表格並移除誤接的下一大題標題。",
+    "searchText": "Mr. and Mrs. Chen invited Mr. and Mrs. Lin to a French bistro that combines modern elegance with a modern bistro atmosphere.\nPlease translate the following set menu into Chinese.\n\n| No. | Original | Chinese |\n| --- | --- | --- |\n| 1 | Focaccia | |\n| 2 | Cole Slaw | |\n| 3 | Prosciutto Crudo | |\n| 4 | Cioppino | |\n| 5 | Italian Nebbiolo | |\n| 6 | Sauteed Beef Stroganoff with Spinach Spaetzle | |\n| 7 | Schwarzwälder Kirschtorte | |\n| 8 | Affogato | | 觀光餐旅業導論 [西餐] - [S西餐─菜餚] S西餐─菜餚 本題為菜單英翻中,已整理為 No./Original/Chinese 表格並移除誤接的下一大題標題。",
     "sequence": 2443
   }
 }

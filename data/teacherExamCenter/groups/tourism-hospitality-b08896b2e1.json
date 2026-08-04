@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150803-daytime-reviewed-0c1dec9f5d",
+  "dataVersion": "teacher-exam-1150804-evening-reviewed-60335079d2",
   "concept": {
     "id": "tourism-hospitality-b08896b2e1",
     "subject": "tourism-hospitality",
@@ -10,7 +10,6 @@
     "description": "",
     "questionIds": [
       "teacher-exam-100-01-q006-da3c957d94",
-      "teacher-exam-101-02-q016-9a78f92543",
       "teacher-exam-101-02-q039-3b1ba428f6",
       "teacher-exam-101-02-q001-c019dc45ad",
       "teacher-exam-101-02-q011-f06eef5841",
@@ -139,73 +138,6 @@
         "nonChwa": true,
         "label": "AI 分類單元，非全華版本"
       }
-    },
-    {
-      "id": "teacher-exam-101-02-q016-9a78f92543",
-      "sourceYear": 101,
-      "sourceLabel": "101 年第 16 題",
-      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
-      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-2220",
-      "paperTitle": "第一部分：選擇題（每題2分，共40分）",
-      "schoolName": "未標示學校",
-      "questionNumber": 16,
-      "questionType": "single-choice",
-      "prompt": "下列何者屬我國國籍航空公司推出的自由行套裝產品？甲、Discovery Tour 乙、Dynasty Package 丙、Evasion 丁、Royal Orchid Holiday",
-      "options": [
-        {
-          "id": "A",
-          "text": "甲、丁"
-        },
-        {
-          "id": "B",
-          "text": "乙、丙"
-        },
-        {
-          "id": "C",
-          "text": "甲、丙"
-        },
-        {
-          "id": "D",
-          "text": "乙、丁。"
-        }
-      ],
-      "answer": "B",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-4 D1組織編制─外場]",
-      "conceptId": "tourism-hospitality-b08896b2e1",
-      "conceptLabel": "3-4 D1組織編制─外場",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-4 D1組織編制─外場",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=114, second=104。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "答案為 B。已移除 D 選項尾端誤併頁碼。",
-        "optionExplanations": [],
-        "generatedAt": "2026-07-28",
-        "model": "manual-correction",
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "CH3 餐飲業",
-            "locator": "3-4 D1組織編制─外場",
-            "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=114, second=104。"
-          }
-        ],
-        "updatedAt": "2026-07-29T16:46:06.977Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-auto-high"
-      ],
-      "searchText": "下列何者屬我國國籍航空公司推出的自由行套裝產品?甲、Discovery Tour 乙、Dynasty Package 丙、Evasion 丁、Royal Orchid Holiday 甲、丁 乙、丙 甲、丙 乙、丁。 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D1組織編制─外場] 3-4 D1組織編制─外場 答案為 B。已移除 D 選項尾端誤併頁碼。",
-      "sequence": 176
     },
     {
       "id": "teacher-exam-101-02-q039-3b1ba428f6",
