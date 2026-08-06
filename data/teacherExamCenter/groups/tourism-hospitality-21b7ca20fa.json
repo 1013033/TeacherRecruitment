@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-1150805-daytime-reviewed-ad373d26b6",
+  "concept": {
+    "id": "tourism-hospitality-21b7ca20fa",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[HACCP] - [O食品相關]",
+    "label": "O食品相關",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-shuili-q018-4bcdfd8d2a"
+    ],
+    "years": [
+      115
+    ],
+    "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "HACCP",
+        "locator": "O食品相關",
+        "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：O食品相關"
+      }
+    ],
+    "reviewStatus": "approved",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-shuili-q018-4bcdfd8d2a",
+      "sourceYear": 115,
+      "sourceLabel": "115 ?? 18 ?",
+      "sourceFile": "水里.md",
+      "sourceLocator": "水里.md#offset-2311",
+      "paperTitle": "水里教師甄試題",
+      "schoolName": "115??",
+      "questionNumber": 18,
+      "questionType": "single-choice",
+      "prompt": "下列何者不屬於食品危害種類？",
+      "options": [
+        {
+          "id": "A",
+          "text": "生物性危害"
+        },
+        {
+          "id": "B",
+          "text": "化學性危害"
+        },
+        {
+          "id": "C",
+          "text": "物理性危害"
+        },
+        {
+          "id": "D",
+          "text": "經濟性危害"
+        }
+      ],
+      "answer": "D",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[HACCP] - [O食品相關]",
+      "conceptId": "tourism-hospitality-21b7ca20fa",
+      "conceptLabel": "O食品相關",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "HACCP",
+          "locator": "O食品相關",
+          "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：O食品相關"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "答案與詳細解析待人工審核。",
+        "optionExplanations": [
+          {
+            "optionId": "A",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "B",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "C",
+            "explanation": "錯誤原因待人工審核。"
+          },
+          {
+            "optionId": "D",
+            "explanation": "來源試題標示為正確答案；內容解析待人工審核。"
+          }
+        ],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "HACCP",
+            "locator": "O食品相關",
+            "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：O食品相關"
+          }
+        ],
+        "updatedAt": "2026-08-06T12:59:27.537Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "taxonomy-auto-initial-high",
+        "human-reviewed-1150805-daytime"
+      ],
+      "searchText": "下列何者不屬於食品危害種類? 生物性危害 化學性危害 物理性危害 經濟性危害 觀光餐旅業導論 [HACCP] - [O食品相關] O食品相關 答案與詳細解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。",
+      "sequence": 3486
+    }
+  ]
+}

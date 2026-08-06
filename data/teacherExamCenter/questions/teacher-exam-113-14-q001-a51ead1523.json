@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150804-evening-reviewed-60335079d2",
+  "dataVersion": "teacher-exam-1150805-daytime-reviewed-ad373d26b6",
   "question": {
     "id": "teacher-exam-113-14-q001-a51ead1523",
     "sourceYear": 113,
@@ -13,40 +13,40 @@
     "questionType": "term-explanation",
     "prompt": "Amylo：",
     "options": [],
-    "subject": "tourism-hospitality",
-    "subjectLabel": "觀光餐旅業導論",
-    "unit": "[CH5 旅行業] - [5-4 B旅行業經理人]",
-    "conceptId": "tourism-hospitality-73fa5cb2ac",
-    "conceptLabel": "5-4 B旅行業經理人",
+    "subject": "beverage",
+    "subjectLabel": "飲料實務",
+    "unit": "[CH6 酒的分類與製程] - [6-2 C 蒸餾酒(綜合題)]",
+    "conceptId": "beverage-194f104f51",
+    "conceptLabel": "6-2 C 蒸餾酒(綜合題)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH5 旅行業",
-        "locator": "5-4 B旅行業經理人",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=56, second=32。"
+        "chapter": "CH6 酒的分類與製程",
+        "locator": "6-2 C 蒸餾酒(綜合題)",
+        "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：6-2 C 蒸餾酒(綜合題)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "名詞解釋題：「Amylo」。",
       "optionExplanations": [],
       "references": [
         {
           "source": "manual",
-          "chapter": "CH5 旅行業",
-          "locator": "5-4 B旅行業經理人",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=56, second=32。"
+          "chapter": "CH6 酒的分類與製程",
+          "locator": "6-2 C 蒸餾酒(綜合題)",
+          "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：6-2 C 蒸餾酒(綜合題)"
         }
       ],
-      "updatedAt": "2026-08-01T00:00:00.000Z"
+      "updatedAt": "2026-08-06T12:59:27.537Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
-      "latest-taxonomy-auto-high",
-      "manual-question-type-term-explanation-1150801"
+      "manual-question-type-term-explanation-1150801",
+      "human-reviewed-1150805-daytime"
     ],
-    "searchText": "Amylo： 觀光餐旅業導論 [CH5 旅行業] - [5-4 B旅行業經理人] 5-4 B旅行業經理人",
+    "searchText": "Amylo: 飲料實務 [CH6 酒的分類與製程] - [6-2 C 蒸餾酒(綜合題)] 6-2 C 蒸餾酒(綜合題) 名詞解釋題:「Amylo」。",
     "sequence": 2181
   }
 }

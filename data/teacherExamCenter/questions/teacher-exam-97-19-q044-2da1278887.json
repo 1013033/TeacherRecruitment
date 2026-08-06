@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150804-evening-reviewed-60335079d2",
+  "dataVersion": "teacher-exam-1150805-daytime-reviewed-ad373d26b6",
   "question": {
     "id": "teacher-exam-97-19-q044-2da1278887",
     "sourceYear": 97,
@@ -30,22 +30,22 @@
         "text": "漢堡王"
       }
     ],
-    "subject": "foodservice",
-    "subjectLabel": "餐飲服務技術",
-    "unit": "[CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌]",
-    "conceptId": "foodservice-744dfb139d",
-    "conceptLabel": "5-1 E 宗教菜單禁忌",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[CH7 觀光餐旅行銷] - [7-3 A4 促銷(Promotion)]",
+    "conceptId": "tourism-hospitality-8f37b95587",
+    "conceptLabel": "7-3 A4 促銷(Promotion)",
     "relatedConceptIds": [],
     "classificationBasis": [
       {
         "source": "manual",
-        "chapter": "CH5 菜單與飲料單",
-        "locator": "5-1 E 宗教菜單禁忌",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=64, second=60。"
+        "chapter": "CH7 觀光餐旅行銷",
+        "locator": "7-3 A4 促銷(Promotion)",
+        "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：7-3 A4 促銷(Promotion)"
       }
     ],
     "explanation": {
-      "status": "needs-review",
+      "status": "approved",
       "answerExplanation": "本題原始試題以數字編號呈現選項，標準答案為 4（漢堡王）。",
       "optionExplanations": [
         {
@@ -68,19 +68,19 @@
       "references": [
         {
           "source": "manual",
-          "chapter": "CH5 菜單與飲料單",
-          "locator": "5-1 E 宗教菜單禁忌",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=medium, score=64, second=60。"
+          "chapter": "CH7 觀光餐旅行銷",
+          "locator": "7-3 A4 促銷(Promotion)",
+          "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：7-3 A4 促銷(Promotion)"
         }
       ],
-      "updatedAt": "2026-07-29T16:46:06.977Z"
+      "updatedAt": "2026-08-06T12:59:27.537Z"
     },
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "flags": [
       "manual-numeric-choice-restore",
-      "latest-taxonomy-auto-medium"
+      "human-reviewed-1150805-daytime"
     ],
-    "searchText": "下列何者曾經提出「烤的比煎的好」的廣告來攻擊競爭者? 麥當勞 溫蒂 肯德基 漢堡王 餐飲服務技術 [CH5 菜單與飲料單] - [5-1 E 宗教菜單禁忌] 5-1 E 宗教菜單禁忌 本題原始試題以數字編號呈現選項,標準答案為 4(漢堡王)。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項為本題標準答案。",
+    "searchText": "下列何者曾經提出「烤的比煎的好」的廣告來攻擊競爭者? 麥當勞 溫蒂 肯德基 漢堡王 觀光餐旅業導論 [CH7 觀光餐旅行銷] - [7-3 A4 促銷(Promotion)] 7-3 A4 促銷(Promotion) 本題原始試題以數字編號呈現選項,標準答案為 4(漢堡王)。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項不符合本題標準答案;本題答案為 4。 此選項為本題標準答案。",
     "sequence": 3114,
     "answer": "4"
   }
