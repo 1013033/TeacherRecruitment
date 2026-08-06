@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150805-daytime-reviewed-ad373d26b6",
+  "dataVersion": "teacher-exam-1150805-split-reviewed-a415ed25ec",
   "concept": {
     "id": "tourism-hospitality-82d3167907",
     "subject": "tourism-hospitality",
@@ -51,7 +51,11 @@
       "teacher-exam-98-20-q002-638bcecd5e",
       "teacher-exam-98-20-q025-9bd2a0ba99",
       "teacher-exam-99-21-q001-ef622a5e26",
-      "teacher-exam-99-21-q001-f12830701b"
+      "teacher-exam-99-21-q001-f12830701b",
+      "teacher-exam-99-21-q002-a16a965619",
+      "teacher-exam-99-21-q003-3d1cf7a355",
+      "teacher-exam-99-21-q004-0b6121c9eb",
+      "teacher-exam-101-02-q003-aac720259c"
     ],
     "years": [
       115,
@@ -76,7 +80,7 @@
         "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：4-3 D 各式旅館"
       }
     ],
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "unresolvedCount": 0
   },
   "questions": [
@@ -529,14 +533,14 @@
     {
       "id": "teacher-exam-101-02-q002-aecc0bfbcb",
       "sourceYear": 101,
-      "sourceLabel": "101 年第 2 題",
+      "sourceLabel": "101 年第 2 題（由合併題組拆分）",
       "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
       "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-13146",
       "paperTitle": "四、簡答題，共5題，每題10分，共50分",
       "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
       "questionNumber": 2,
       "questionType": "essay",
-      "prompt": "請問 Parador、Boutique Hotel 分別是指什麼？\n3. 請你教學生正確的長托盤肩托法，詳述之。",
+      "prompt": "請問 Parador、Boutique Hotel 分別是指什麼？",
       "options": [],
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
@@ -553,24 +557,18 @@
         }
       ],
       "explanation": {
-        "status": "approved",
-        "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第三章 餐飲業] - [第三章 餐飲業]」。標準答案為「(1)H、(2)H、(3)I、(4)I、(5)N、(6)I、(7)R、(8)G、(9)R、(10)R」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "status": "needs-review",
+        "answerExplanation": "",
         "optionExplanations": [],
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "CH4 旅宿業",
-            "locator": "4-3 D 各式旅館",
-            "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：4-3 D 各式旅館"
-          }
-        ],
-        "updatedAt": "2026-07-30T15:06:21.134Z"
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
       },
-      "reviewStatus": "approved",
+      "reviewStatus": "needs-review",
       "flags": [
-        "human-reviewed-1150730-evening"
+        "split-merged-question-group-1150805",
+        "needs-review"
       ],
-      "searchText": "請問 Parador、Boutique Hotel 分別是指什麼?\n3. 請你教學生正確的長托盤肩托法,詳述之。 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館 本題依題幹與選項判斷,核心考點落在「[第三章 餐飲業] - [第三章 餐飲業]」。標準答案為「(1)H、(2)H、(3)I、(4)I、(5)N、(6)I、(7)R、(8)G、(9)R、(10)R」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "searchText": "請問 Parador、Boutique Hotel 分別是指什麼? 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館",
       "sequence": 298
     },
     {
@@ -3167,14 +3165,14 @@
     {
       "id": "teacher-exam-99-21-q001-f12830701b",
       "sourceYear": 99,
-      "sourceLabel": "99 年第 1 題",
+      "sourceLabel": "99 年第 1 題（由合併題組拆分）",
       "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
       "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-17991",
       "paperTitle": "二、餐飲相關專業名詞翻譯（每題二分，共十五題）",
       "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
       "questionNumber": 1,
       "questionType": "essay",
-      "prompt": "Decant ：換瓶、過酒\n2. Vermouth：苦艾酒\n3. Yochtel：快艇旅館\n4. Dill：小茴香",
+      "prompt": "Decant ：換瓶、過酒",
       "options": [],
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
@@ -3191,25 +3189,183 @@
         }
       ],
       "explanation": {
-        "status": "approved",
-        "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "status": "needs-review",
+        "answerExplanation": "",
         "optionExplanations": [],
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "CH4 旅宿業",
-            "locator": "4-3 D 各式旅館",
-            "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-1 A2葡萄酒(Wine) 6-1 A2葡萄酒(Wine) 4-3 D 各式旅館 G西餐─香料"
-          }
-        ],
-        "updatedAt": "2026-08-03T13:00:48.565Z"
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
       },
-      "reviewStatus": "approved",
+      "reviewStatus": "needs-review",
       "flags": [
-        "human-reviewed-1150803-daytime"
+        "split-merged-question-group-1150805",
+        "needs-review"
       ],
-      "searchText": "Decant :換瓶、過酒\n2. Vermouth:苦艾酒\n3. Yochtel:快艇旅館\n4. Dill:小茴香 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "searchText": "Decant :換瓶、過酒 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館",
       "sequence": 3472
+    },
+    {
+      "id": "teacher-exam-99-21-q002-a16a965619",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 2 題（由合併題組拆分）",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-17991;split=99-2",
+      "paperTitle": "二、餐飲相關專業名詞翻譯（每題二分，共十五題）",
+      "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+      "questionNumber": 2,
+      "questionType": "essay",
+      "prompt": "Vermouth：苦艾酒",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH4 旅宿業] - [4-3 D 各式旅館]",
+      "conceptId": "tourism-hospitality-82d3167907",
+      "conceptLabel": "4-3 D 各式旅館",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH4 旅宿業",
+          "locator": "4-3 D 各式旅館",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-1 A2葡萄酒(Wine) 6-1 A2葡萄酒(Wine) 4-3 D 各式旅館 G西餐─香料"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "Vermouth:苦艾酒 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館",
+      "sequence": 3544
+    },
+    {
+      "id": "teacher-exam-99-21-q003-3d1cf7a355",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 3 題（由合併題組拆分）",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-17991;split=99-3",
+      "paperTitle": "二、餐飲相關專業名詞翻譯（每題二分，共十五題）",
+      "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "Yochtel：快艇旅館",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH4 旅宿業] - [4-3 D 各式旅館]",
+      "conceptId": "tourism-hospitality-82d3167907",
+      "conceptLabel": "4-3 D 各式旅館",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH4 旅宿業",
+          "locator": "4-3 D 各式旅館",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-1 A2葡萄酒(Wine) 6-1 A2葡萄酒(Wine) 4-3 D 各式旅館 G西餐─香料"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "Yochtel:快艇旅館 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館",
+      "sequence": 3545
+    },
+    {
+      "id": "teacher-exam-99-21-q004-0b6121c9eb",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 4 題（由合併題組拆分）",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-17991;split=99-4",
+      "paperTitle": "二、餐飲相關專業名詞翻譯（每題二分，共十五題）",
+      "schoolName": "國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答",
+      "questionNumber": 4,
+      "questionType": "essay",
+      "prompt": "Dill：小茴香",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH4 旅宿業] - [4-3 D 各式旅館]",
+      "conceptId": "tourism-hospitality-82d3167907",
+      "conceptLabel": "4-3 D 各式旅館",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH4 旅宿業",
+          "locator": "4-3 D 各式旅館",
+          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：6-1 A2葡萄酒(Wine) 6-1 A2葡萄酒(Wine) 4-3 D 各式旅館 G西餐─香料"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "Dill:小茴香 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館",
+      "sequence": 3546
+    },
+    {
+      "id": "teacher-exam-101-02-q003-aac720259c",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 3 題（由合併題組拆分）",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-13146;split=101-3",
+      "paperTitle": "四、簡答題，共5題，每題10分，共50分",
+      "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "請你教學生正確的長托盤肩托法，詳述之。",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH4 旅宿業] - [4-3 D 各式旅館]",
+      "conceptId": "tourism-hospitality-82d3167907",
+      "conceptLabel": "4-3 D 各式旅館",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH4 旅宿業",
+          "locator": "4-3 D 各式旅館",
+          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：4-3 D 各式旅館"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "請你教學生正確的長托盤肩托法,詳述之。 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館",
+      "sequence": 3575
     }
   ]
 }

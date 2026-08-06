@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-1150805-split-reviewed-a415ed25ec",
+  "question": {
+    "id": "teacher-exam-100-01-q002-27743edc36",
+    "sourceYear": 100,
+    "sourceLabel": "100 年第 2 題（由合併題組拆分）",
+    "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+    "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-17218;split=100-2",
+    "paperTitle": "三、問答題：每題 5 分共佔 10%",
+    "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+    "questionNumber": 2,
+    "questionType": "essay",
+    "prompt": "請由客人一進門至離開餐廳描述西餐服務流程，其中，客人還點了曼哈頓（Manhattan）、波爾多紅酒搭配餐點飲用。",
+    "options": [],
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[西餐] - [D3西餐─牛肉等級]",
+    "conceptId": "tourism-hospitality-b3341cd9a0",
+    "conceptLabel": "D3西餐─牛肉等級",
+    "relatedConceptIds": [],
+    "classificationBasis": [
+      {
+        "source": "manual",
+        "chapter": "西餐",
+        "locator": "D3西餐─牛肉等級",
+        "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：D3西餐─牛肉等級"
+      }
+    ],
+    "explanation": {
+      "status": "needs-review",
+      "answerExplanation": "",
+      "optionExplanations": [],
+      "references": [],
+      "updatedAt": "2026-08-06T13:29:49.624Z"
+    },
+    "reviewStatus": "needs-review",
+    "flags": [
+      "split-merged-question-group-1150805",
+      "needs-review"
+    ],
+    "searchText": "請由客人一進門至離開餐廳描述西餐服務流程,其中,客人還點了曼哈頓(Manhattan)、波爾多紅酒搭配餐點飲用。 觀光餐旅業導論 [西餐] - [D3西餐─牛肉等級] D3西餐─牛肉等級",
+    "aiClassificationUnit": {
+      "sourceType": "ai-unit-generated",
+      "nonChwa": true,
+      "label": "AI 分類單元，非全華版本"
+    },
+    "sequence": 3558
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150805-daytime-reviewed-ad373d26b6",
+  "dataVersion": "teacher-exam-1150805-split-reviewed-a415ed25ec",
   "concept": {
     "id": "beverage-e6594fa950",
     "subject": "beverage",
@@ -9,7 +9,11 @@
     "label": "3-1 D 礦泉水(Mineral Water)",
     "description": "",
     "questionIds": [
-      "teacher-exam-108-09-q001-874bad3d7e"
+      "teacher-exam-108-09-q001-874bad3d7e",
+      "teacher-exam-108-09-q002-d9a018614c",
+      "teacher-exam-108-09-q003-6fc5a0d77a",
+      "teacher-exam-108-09-q004-8cb6136942",
+      "teacher-exam-108-09-q005-1ae692d684"
     ],
     "years": [
       108
@@ -34,21 +38,21 @@
         "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
       }
     ],
-    "reviewStatus": "approved",
+    "reviewStatus": "needs-review",
     "unresolvedCount": 0
   },
   "questions": [
     {
       "id": "teacher-exam-108-09-q001-874bad3d7e",
       "sourceYear": 108,
-      "sourceLabel": "108 年第 1 題",
+      "sourceLabel": "108 年第 1 題（由合併題組拆分）",
       "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
       "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8804",
       "paperTitle": "三、填充題:(每個答案1分,共20分)",
       "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
       "questionNumber": 1,
       "questionType": "essay",
-      "prompt": "葡萄酒的澀味主要是來自於葡萄所含的(單寧)成分。\n2. 法國沛綠雅(Perrier)天然氣泡礦泉水，素有(水中香檳)之美稱。\n3. 法國的白蘭地以干邑區及(雅馬邑)區最為知名。\n4. (紅心橄欖)是馬丁尼的招牌裝飾物；(小洋蔥珠)則是吉普森的特殊裝飾物。\n5. 雞尾酒的六大基酒是指:威士忌、白蘭地、(蘭姆酒)、(特吉拉)、伏特加與(琴酒)。",
+      "prompt": "葡萄酒的澀味主要是來自於葡萄所含的(單寧)成分。",
       "options": [],
       "subject": "beverage",
       "subjectLabel": "飲料實務",
@@ -80,37 +84,243 @@
         }
       ],
       "explanation": {
-        "status": "approved",
-        "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [1. (A) 2. (A) 3. (A) 4. (C) 5. (A) 6. (D) 7. (B)]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第四節1. (A) 2. (A) 3. (A) 4. (C) 5. (A) 6. (D) 7. (B);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《飲料實務-章節分類》第六章 酒的分類與製程，定位：第六章 酒的分類與製程；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "status": "needs-review",
+        "answerExplanation": "",
         "optionExplanations": [],
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "CH3 飲品的認識與調製**",
-            "locator": "3-1 D 礦泉水(Mineral Water)",
-            "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
-          },
-          {
-            "source": "manual",
-            "chapter": "CH7 混合性飲料調製**",
-            "locator": "7-2 E 雞尾酒的裝飾物",
-            "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
-          },
-          {
-            "source": "manual",
-            "chapter": "CH6 酒的分類與製程**",
-            "locator": "6-2 A 蒸餾酒─六大基酒",
-            "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
-          }
-        ],
-        "updatedAt": "2026-07-31T06:59:43.629Z"
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
       },
-      "reviewStatus": "approved",
+      "reviewStatus": "needs-review",
       "flags": [
-        "human-reviewed-1150731-morning"
+        "split-merged-question-group-1150805",
+        "needs-review"
       ],
-      "searchText": "葡萄酒的澀味主要是來自於葡萄所含的(單寧)成分。\n2. 法國沛綠雅(Perrier)天然氣泡礦泉水,素有(水中香檳)之美稱。\n3. 法國的白蘭地以干邑區及(雅馬邑)區最為知名。\n4. (紅心橄欖)是馬丁尼的招牌裝飾物;(小洋蔥珠)則是吉普森的特殊裝飾物。\n5. 雞尾酒的六大基酒是指:威士忌、白蘭地、(蘭姆酒)、(特吉拉)、伏特加與(琴酒)。 飲料實務 [CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)] 3-1 D 礦泉水(Mineral Water) 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [1. (A) 2. (A) 3. (A) 4. (C) 5. (A) 6. (D) 7. (B)]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第四節1. (A) 2. (A) 3. (A) 4. (C) 5. (A) 6. (D) 7. (B);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一章 飲務的作業規範;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《飲料實務》第六章 酒的分類與製程,定位:第六章 酒的分類與製程(頁 26);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《飲料實務-章節分類》第六章 酒的分類與製程,定位:第六章 酒的分類與製程;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "searchText": "葡萄酒的澀味主要是來自於葡萄所含的(單寧)成分。 飲料實務 [CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)] 3-1 D 礦泉水(Mineral Water)",
       "sequence": 1469
+    },
+    {
+      "id": "teacher-exam-108-09-q002-d9a018614c",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 2 題（由合併題組拆分）",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8804;split=108-2",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 2,
+      "questionType": "essay",
+      "prompt": "法國沛綠雅(Perrier)天然氣泡礦泉水，素有(水中香檳)之美稱。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)]",
+      "conceptId": "beverage-e6594fa950",
+      "conceptLabel": "3-1 D 礦泉水(Mineral Water)",
+      "relatedConceptIds": [
+        "beverage-0b4bcd5557",
+        "beverage-aa8a4f71ad"
+      ],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH3 飲品的認識與調製**",
+          "locator": "3-1 D 礦泉水(Mineral Water)",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH7 混合性飲料調製**",
+          "locator": "7-2 E 雞尾酒的裝飾物",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH6 酒的分類與製程**",
+          "locator": "6-2 A 蒸餾酒─六大基酒",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "法國沛綠雅(Perrier)天然氣泡礦泉水,素有(水中香檳)之美稱。 飲料實務 [CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)] 3-1 D 礦泉水(Mineral Water)",
+      "sequence": 3594
+    },
+    {
+      "id": "teacher-exam-108-09-q003-6fc5a0d77a",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 3 題（由合併題組拆分）",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8804;split=108-3",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "法國的白蘭地以干邑區及(雅馬邑)區最為知名。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)]",
+      "conceptId": "beverage-e6594fa950",
+      "conceptLabel": "3-1 D 礦泉水(Mineral Water)",
+      "relatedConceptIds": [
+        "beverage-0b4bcd5557",
+        "beverage-aa8a4f71ad"
+      ],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH3 飲品的認識與調製**",
+          "locator": "3-1 D 礦泉水(Mineral Water)",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH7 混合性飲料調製**",
+          "locator": "7-2 E 雞尾酒的裝飾物",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH6 酒的分類與製程**",
+          "locator": "6-2 A 蒸餾酒─六大基酒",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "法國的白蘭地以干邑區及(雅馬邑)區最為知名。 飲料實務 [CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)] 3-1 D 礦泉水(Mineral Water)",
+      "sequence": 3595
+    },
+    {
+      "id": "teacher-exam-108-09-q004-8cb6136942",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 4 題（由合併題組拆分）",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8804;split=108-4",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 4,
+      "questionType": "essay",
+      "prompt": "(紅心橄欖)是馬丁尼的招牌裝飾物；(小洋蔥珠)則是吉普森的特殊裝飾物。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)]",
+      "conceptId": "beverage-e6594fa950",
+      "conceptLabel": "3-1 D 礦泉水(Mineral Water)",
+      "relatedConceptIds": [
+        "beverage-0b4bcd5557",
+        "beverage-aa8a4f71ad"
+      ],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH3 飲品的認識與調製**",
+          "locator": "3-1 D 礦泉水(Mineral Water)",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH7 混合性飲料調製**",
+          "locator": "7-2 E 雞尾酒的裝飾物",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH6 酒的分類與製程**",
+          "locator": "6-2 A 蒸餾酒─六大基酒",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "(紅心橄欖)是馬丁尼的招牌裝飾物;(小洋蔥珠)則是吉普森的特殊裝飾物。 飲料實務 [CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)] 3-1 D 礦泉水(Mineral Water)",
+      "sequence": 3596
+    },
+    {
+      "id": "teacher-exam-108-09-q005-1ae692d684",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 5 題（由合併題組拆分）",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8804;split=108-5",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 5,
+      "questionType": "essay",
+      "prompt": "雞尾酒的六大基酒是指:威士忌、白蘭地、(蘭姆酒)、(特吉拉)、伏特加與(琴酒)。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)]",
+      "conceptId": "beverage-e6594fa950",
+      "conceptLabel": "3-1 D 礦泉水(Mineral Water)",
+      "relatedConceptIds": [
+        "beverage-0b4bcd5557",
+        "beverage-aa8a4f71ad"
+      ],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH3 飲品的認識與調製**",
+          "locator": "3-1 D 礦泉水(Mineral Water)",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH7 混合性飲料調製**",
+          "locator": "7-2 E 雞尾酒的裝飾物",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        },
+        {
+          "source": "manual",
+          "chapter": "CH6 酒的分類與製程**",
+          "locator": "6-2 A 蒸餾酒─六大基酒",
+          "note": "依人工審核整理檔「已分類試題整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：3-1 D 礦泉水(Mineral Water)；7-2 E 雞尾酒的裝飾物；6-2 A 蒸餾酒─六大基酒"
+        }
+      ],
+      "explanation": {
+        "status": "needs-review",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [],
+        "updatedAt": "2026-08-06T13:29:49.624Z"
+      },
+      "reviewStatus": "needs-review",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "needs-review"
+      ],
+      "searchText": "雞尾酒的六大基酒是指:威士忌、白蘭地、(蘭姆酒)、(特吉拉)、伏特加與(琴酒)。 飲料實務 [CH3 飲品的認識與調製**] - [3-1 D 礦泉水(Mineral Water)] 3-1 D 礦泉水(Mineral Water)",
+      "sequence": 3597
     }
   ]
 }
