@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "vocational-exam-c6c8f7f884",
-  "generatedAt": "2026-07-29T02:20:34.895Z",
+  "dataVersion": "vocational-exam-c9717cb47f",
+  "generatedAt": "2026-08-06T14:04:32.672Z",
   "sourceQuestionCount": 2542,
   "parsedQuestionCount": 2542,
   "unresolvedQuestionCount": 70,
@@ -3971,12 +3971,12 @@
     {
       "id": "tourism-hospitality",
       "label": "觀光餐旅業導論",
-      "questionCount": 300
+      "questionCount": 153
     },
     {
       "id": "foodservice",
       "label": "餐飲服務技術",
-      "questionCount": 915
+      "questionCount": 674
     },
     {
       "id": "beverage",
@@ -4017,68 +4017,79 @@
       "id": "other",
       "label": "其他",
       "questionCount": 0
+    },
+    {
+      "id": "uncategorized",
+      "label": "????",
+      "questionCount": 388
     }
   ],
   "conceptCounts": [
     {
       "id": "tourism-hospitality-fundamentals",
       "label": "觀光餐旅業基本觀念、特性與發展",
-      "questionCount": 300,
+      "questionCount": 153,
       "reviewStatus": "needs-review"
     },
     {
       "id": "foodservice-table-service",
       "label": "餐桌擺設、上餐撤餐與服務流程",
-      "questionCount": 513,
+      "questionCount": 272,
       "reviewStatus": "needs-review"
     },
     {
       "id": "foodservice-operations",
       "label": "餐飲營運、成本與人力管理",
       "questionCount": 402,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
     },
     {
       "id": "beverage-coffee-tea",
       "label": "茶、咖啡與非酒精飲料",
       "questionCount": 227,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
     },
     {
       "id": "beverage-wine-bar",
       "label": "酒類、雞尾酒與吧檯實務",
       "questionCount": 202,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
     },
     {
       "id": "lodging-hotel-operations",
       "label": "旅館客房、訂房與房務管理",
       "questionCount": 397,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
     },
     {
       "id": "travel-agency-operations",
       "label": "旅行業、航空票務與旅遊產品",
       "questionCount": 282,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
     },
     {
       "id": "culinary-food-production",
       "label": "食材、衛生與中西餐烹調法",
       "questionCount": 142,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
     },
     {
       "id": "baking-production",
       "label": "烘焙原料、製程與品質判斷",
       "questionCount": 46,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
     },
     {
       "id": "law-current-affairs",
       "label": "觀光餐旅法規、組織與時事",
       "questionCount": 31,
-      "reviewStatus": "draft"
+      "reviewStatus": "needs-review"
+    },
+    {
+      "id": "uncategorized",
+      "label": "????",
+      "questionCount": 388,
+      "reviewStatus": "needs-review"
     }
   ]
 }
