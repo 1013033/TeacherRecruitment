@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
-  "generatedAt": "2026-08-07T13:56:55.194Z",
-  "questionCount": 3621,
-  "conceptCount": 599,
+  "dataVersion": "teacher-exam-1150808-reviewed-batch-226d5de1cb",
+  "generatedAt": "2026-08-08T00:00:00.000+08:00",
+  "questionCount": 3622,
+  "conceptCount": 596,
   "unresolvedQuestionCount": 0,
   "subjects": [
     {
       "id": "tourism-hospitality",
       "label": "觀光餐旅業導論",
-      "questionCount": 2285
+      "questionCount": 2284
     },
     {
       "id": "foodservice",
       "label": "餐飲服務技術",
-      "questionCount": 634
+      "questionCount": 635
     },
     {
       "id": "beverage",
       "label": "飲料實務",
-      "questionCount": 698
+      "questionCount": 699
     },
     {
       "id": "culinary",
@@ -434,32 +434,6 @@
       "sampleQuestion": "服務員要讓消費者覺得所接受的服務不比別人差，應該採取下列何種措施？"
     },
     {
-      "id": "tourism-hospitality-5bcc341716",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[3-1 餐飲業的定義與特性] - [3-1 D 餐飲業特性]",
-      "label": "3-1 D 餐飲業特性",
-      "description": "",
-      "questionIds": [
-        "teacher-exam-94-17-q048-1f0b7c2e7f"
-      ],
-      "years": [
-        94
-      ],
-      "publisherBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-1 D 餐飲業特性",
-          "note": "依人工審核整理檔「待審核-1150802白天-紅字分類整理.md」套用分類；分類限定於「1150802_.md」。 原始人工分類：3-1 D 餐飲業特性"
-        }
-      ],
-      "reviewStatus": "approved",
-      "unresolvedCount": 0,
-      "questionCount": 1,
-      "sampleQuestion": "餐飲業在餐飲銷售量方面，不受到下列何者特性之限制？"
-    },
-    {
       "id": "tourism-hospitality-a259dd8f16",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
@@ -523,7 +497,8 @@
       "label": "3-4 綜合題─餐飲業的組織與部門",
       "description": "",
       "questionIds": [
-        "teacher-exam-113-14-q047-6adb608d9c"
+        "teacher-exam-113-14-q047-6adb608d9c",
+        "teacher-exam-113-14-q011-7ff2b881a4"
       ],
       "years": [
         113
@@ -538,7 +513,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 1,
+      "questionCount": 2,
       "sampleQuestion": "格局設計的基本原則，下列敘述何者正確？"
     },
     {
@@ -551,7 +526,6 @@
       "questionIds": [
         "teacher-exam-100-01-q004-ac7c16818e",
         "teacher-exam-101-02-q001-e0c0abcd9f",
-        "teacher-exam-109-10-q005-c5d504a52e",
         "teacher-exam-109-10-q003-9309129f0c",
         "teacher-exam-111-12-q036-7d255b56a3",
         "teacher-exam-99-21-q012-5faea2ab88"
@@ -573,7 +547,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 6,
+      "questionCount": 5,
       "sampleQuestion": "請解釋「工作說明書（Job Description）」。"
     },
     {
@@ -1733,7 +1707,8 @@
       "questionIds": [
         "teacher-exam-111-12-q005-b5aaac908d",
         "teacher-exam-94-17-q013-1c145dcaa7",
-        "teacher-exam-101-02-q004-609e7325c0"
+        "teacher-exam-101-02-q004-609e7325c0",
+        "teacher-exam-94-17-q003-08cbb3dc1d"
       ],
       "years": [
         111,
@@ -1750,7 +1725,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 3,
+      "questionCount": 4,
       "sampleQuestion": "111-5Artificial Marbling Beef <BR>\n答：組合肉／重組牛肉。"
     },
     {
@@ -2779,11 +2754,14 @@
         "teacher-exam-94-17-q012-e54e00b5c3",
         "teacher-exam-96-18-q006-08d9c32cf2",
         "teacher-exam-99-21-q020-7a8f33ffb9",
-        "teacher-exam-99-21-q001-901fcd538f"
+        "teacher-exam-99-21-q001-901fcd538f",
+        "teacher-exam-104-05-q019-f6201d3411",
+        "teacher-exam-110-11-q005-fee8f8f496"
       ],
       "years": [
         113,
         112,
+        110,
         104,
         101,
         100,
@@ -2801,7 +2779,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 13,
+      "questionCount": 15,
       "sampleQuestion": "交通部觀光局日前所公佈之第一、二波旅館星級評鑑名單中，下列何者非列為五星級旅館？"
     },
     {
@@ -4674,7 +4652,9 @@
         "teacher-exam-115-16-q015-16fa8bed7e",
         "teacher-exam-115-16-q040-671b8db0e7",
         "teacher-exam-97-19-q036-6ec85a6104",
-        "teacher-exam-98-20-q020-cc341da585"
+        "teacher-exam-98-20-q020-cc341da585",
+        "teacher-exam-113-14-q016-c787f94dc1",
+        "teacher-exam-113-14-q018-fill-in-blank-words"
       ],
       "years": [
         115,
@@ -4701,7 +4681,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 60,
+      "questionCount": 62,
       "sampleQuestion": "Dialogs: Waiter: Would you like to order now, MS.? Guest: I can't decide. What do you recommend? Waiter: The Niçoise salad is very popular. Guest: What's Niçois"
     },
     {
@@ -4752,7 +4732,8 @@
         "teacher-exam-113-14-q011-cf148fa4ae",
         "teacher-exam-113-14-q041-254cb3a07c",
         "teacher-exam-96-18-q020-a709ee7c88",
-        "teacher-exam-98-20-q016-e21dcc1811"
+        "teacher-exam-98-20-q016-e21dcc1811",
+        "teacher-exam-111-12-q012-familymart-group"
       ],
       "years": [
         113,
@@ -4771,7 +4752,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 8,
+      "questionCount": 9,
       "sampleQuestion": "Which of the following is included in an all-inclusive package tour?"
     },
     {
@@ -4908,7 +4889,21 @@
         "teacher-exam-98-20-q021-68d0345689",
         "teacher-exam-98-20-q028-1ab5ddcc26",
         "teacher-exam-99-21-q001-f11eedd1ad",
-        "teacher-exam-103-04-q005-01e0b075b0"
+        "teacher-exam-103-04-q005-01e0b075b0",
+        "teacher-exam-94-17-q048-1f0b7c2e7f",
+        "teacher-exam-102-03-q017-fdb65bd863",
+        "teacher-exam-110-11-q016-d4a60879f4",
+        "teacher-exam-113-14-q033-580943c0b4",
+        "teacher-exam-96-18-q013-41b69c2431",
+        "teacher-exam-97-19-q023-4cdd622493",
+        "teacher-exam-98-20-q003-f37052c05b",
+        "teacher-exam-99-21-q009-f405d827ef",
+        "teacher-exam-113-14-q020-45c1769c4f",
+        "teacher-exam-94-17-q036-d81e3994e9",
+        "teacher-exam-96-18-q003-1149f8326b",
+        "teacher-exam-97-19-q035-d91fcf68fb",
+        "teacher-exam-99-21-q016-adeac7c776",
+        "teacher-exam-101-02-q005-886b0ded0c"
       ],
       "years": [
         115,
@@ -4916,15 +4911,18 @@
         113,
         112,
         111,
+        110,
         109,
         105,
         104,
         103,
+        102,
         101,
         99,
         98,
         97,
-        96
+        96,
+        94
       ],
       "publisherBasis": [
         {
@@ -4936,7 +4934,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 33,
+      "questionCount": 47,
       "sampleQuestion": "旅行業遊程服務是一種無法事先品嘗或觸摸的商品，此種特質稱為"
     },
     {
@@ -5117,7 +5115,6 @@
         "teacher-exam-104-05-q029-9981b3f68f",
         "teacher-exam-106-07-q031-60ba8b778f",
         "teacher-exam-106-07-q005-8da7383e8d",
-        "teacher-exam-111-12-q002-24af9b945b",
         "teacher-exam-114-15-q022-fb5314fdc5",
         "teacher-exam-115-16-q023-821d7c099c",
         "teacher-exam-94-17-q010-a2c53f2aaa",
@@ -5128,7 +5125,6 @@
       "years": [
         115,
         114,
-        111,
         106,
         104,
         102,
@@ -5146,8 +5142,8 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 13,
-      "sampleQuestion": "下列有關國家公園的描述何者正確？"
+      "questionCount": 12,
+      "sampleQuestion": "下列有關國家風景區的描述何者正確？"
     },
     {
       "id": "tourism-hospitality-d40827c385",
@@ -5157,7 +5153,6 @@
       "label": "1-5 B3駐外辦事處",
       "description": "",
       "questionIds": [
-        "teacher-exam-105-06-q007-75a0221037",
         "teacher-exam-106-07-q009-196426e7c1",
         "teacher-exam-111-12-q048-7574ba6548",
         "teacher-exam-112-13-q002-6f91d2512f",
@@ -5169,7 +5164,6 @@
         112,
         111,
         106,
-        105,
         94
       ],
       "publisherBasis": [
@@ -5182,8 +5176,8 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 6,
-      "sampleQuestion": "外交部領事事務局未在何處設有辦事處供民眾申請護照？"
+      "questionCount": 5,
+      "sampleQuestion": "下列何者非為交通部觀光局駐外辦事處所在地？"
     },
     {
       "id": "tourism-hospitality-fca2900d59",
@@ -5423,44 +5417,6 @@
       "sampleQuestion": "依據餐飲商品構成要素的分類，下列敘述何者正確？"
     },
     {
-      "id": "tourism-hospitality-dda1813952",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "label": "3-1 D 餐飲業特性",
-      "description": "",
-      "questionIds": [
-        "teacher-exam-102-03-q017-fdb65bd863",
-        "teacher-exam-110-11-q016-d4a60879f4",
-        "teacher-exam-113-14-q033-580943c0b4",
-        "teacher-exam-96-18-q013-41b69c2431",
-        "teacher-exam-97-19-q023-4cdd622493",
-        "teacher-exam-98-20-q003-f37052c05b",
-        "teacher-exam-99-21-q009-f405d827ef"
-      ],
-      "years": [
-        113,
-        110,
-        102,
-        99,
-        98,
-        97,
-        96
-      ],
-      "publisherBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-1 D 餐飲業特性",
-          "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：3-1 D 餐飲業特性"
-        }
-      ],
-      "reviewStatus": "approved",
-      "unresolvedCount": 0,
-      "questionCount": 7,
-      "sampleQuestion": "下列何者是餐飲服務業的特質？"
-    },
-    {
       "id": "tourism-hospitality-319014f626",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
@@ -5559,14 +5515,19 @@
         "teacher-exam-97-19-q002-3eb37165db",
         "teacher-exam-97-19-q010-efc4d0134d",
         "teacher-exam-97-19-q019-d40c7fb92a",
-        "teacher-exam-99-21-q010-ab62f8f258"
+        "teacher-exam-99-21-q010-ab62f8f258",
+        "teacher-exam-98-20-q006-3cdc677f36",
+        "teacher-exam-115-16-q002-d911005138",
+        "teacher-exam-109-10-q009-e12bdeaabe"
       ],
       "years": [
         115,
         114,
         113,
+        109,
         106,
         99,
+        98,
         97
       ],
       "publisherBasis": [
@@ -5579,7 +5540,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 9,
+      "questionCount": 12,
       "sampleQuestion": "下列各式餐飲業的發展，請按其年份由前至後排列。甲、歐洲第一家公共餐飲屋 乙、英國牛津的咖啡屋 丙、美國第一家法式餐廳 Delmonico 丁、布朗傑製作恢復之神的湯："
     },
     {
@@ -5604,7 +5565,6 @@
         "teacher-exam-113-14-q029-ef8f847528",
         "teacher-exam-97-19-q029-9c43f2177f",
         "teacher-exam-97-19-q037-7e85870101",
-        "teacher-exam-98-20-q006-3cdc677f36",
         "teacher-exam-98-20-q029-1b223fcf0b",
         "teacher-exam-99-21-q005-aed3efd4e8",
         "teacher-exam-99-21-q006-44439bf2ae",
@@ -5612,7 +5572,8 @@
         "teacher-exam-99-21-q005-c9ca4b53fb",
         "teacher-exam-101-02-q006-f4a38fe039",
         "teacher-exam-104-05-q003-5b1872e7e1",
-        "teacher-exam-112-13-q003-a6e9cbd03b"
+        "teacher-exam-112-13-q003-a6e9cbd03b",
+        "teacher-exam-111-12-q015-familymart-group"
       ],
       "years": [
         113,
@@ -5731,10 +5692,12 @@
         "teacher-exam-97-19-q005-d6d51c7dd6",
         "teacher-exam-97-19-q015-ec632c2d34",
         "teacher-exam-97-19-q016-28f9619346",
-        "teacher-exam-99-21-q018-001a7d847c",
         "teacher-exam-shuili-q005-aabd318b27",
         "teacher-exam-shuili-q006-93d7c500b9",
-        "teacher-exam-shuili-q007-8fe4c9f92a"
+        "teacher-exam-shuili-q007-8fe4c9f92a",
+        "teacher-exam-111-12-q005-6541dcb0da",
+        "teacher-exam-100-01-q001-1396f85cd4",
+        "teacher-exam-97-19-q052-4eed2f5601"
       ],
       "years": [
         115,
@@ -5751,7 +5714,6 @@
         102,
         101,
         100,
-        99,
         97,
         96,
         94
@@ -5766,7 +5728,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 57,
+      "questionCount": 59,
       "sampleQuestion": "在中國八大菜系中，下列有關各菜系與著名的菜餚之組合，何者正確？甲、廣東菜：左宗棠雞 乙、四川菜：魚香茄子 丙、福建菜：佛跳牆 丁、江浙菜：東坡肉 戊、湖南菜：京都排骨"
     },
     {
@@ -5777,15 +5739,8 @@
       "label": "3-2 E1 中國─菜系(菜餚)",
       "description": "",
       "questionIds": [
-        "teacher-exam-100-01-q001-1396f85cd4",
         "teacher-exam-101-02-q010-b513eb2c71",
         "teacher-exam-109-10-q005-17d5113188",
-        "teacher-exam-111-12-q011-c2a46c3913",
-        "teacher-exam-111-12-q012-familymart-group",
-        "teacher-exam-111-12-q013-familymart-group",
-        "teacher-exam-111-12-q014-familymart-group",
-        "teacher-exam-111-12-q015-familymart-group",
-        "teacher-exam-111-12-q005-6541dcb0da",
         "teacher-exam-111-12-q008-43cf1f66ad",
         "teacher-exam-111-12-q022-2a59052c5c",
         "teacher-exam-112-13-q018-afcc4df08e",
@@ -5795,7 +5750,6 @@
         "teacher-exam-115-16-q014-375ae8a4f2",
         "teacher-exam-94-17-q019-0a1b280b67",
         "teacher-exam-97-19-q051-1b24b505e2",
-        "teacher-exam-97-19-q052-4eed2f5601",
         "teacher-exam-97-19-q006-134d5c84bd",
         "teacher-exam-97-19-q011-3efcbb65fc",
         "teacher-exam-97-19-q017-585c8e7e5a",
@@ -5803,7 +5757,8 @@
         "teacher-exam-99-21-q001-78372cf9f1",
         "teacher-exam-99-21-q002-101b1a436f",
         "teacher-exam-shuili-q001-6acfd67ca8",
-        "teacher-exam-shuili-q003-fe292f0113"
+        "teacher-exam-shuili-q003-fe292f0113",
+        "teacher-exam-99-21-q018-001a7d847c"
       ],
       "years": [
         115,
@@ -5812,7 +5767,6 @@
         111,
         109,
         101,
-        100,
         99,
         97,
         94
@@ -5827,8 +5781,8 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 27,
-      "sampleQuestion": "精彩饗宴飲食集團於 2011 年 4 月甫開幕的「精彩食譜」餐廳，主打「中華大江南北菜色」。請問，該店菜單中有一道「蔥烤鯽魚」是屬於哪一菜系的菜色？"
+      "questionCount": 20,
+      "sampleQuestion": "名菜荔甫扣肉中的「荔甫」是："
     },
     {
       "id": "tourism-hospitality-7c4ea7284e",
@@ -5839,23 +5793,17 @@
       "description": "",
       "questionIds": [
         "teacher-exam-103-04-q006-275c1ceaf8",
-        "teacher-exam-104-05-q033-f8699487e6",
         "teacher-exam-104-05-q038-1d44c7b2c0",
         "teacher-exam-104-05-q001-b2f2a397e3",
         "teacher-exam-105-06-q001-d14d88263c",
         "teacher-exam-105-06-q003-db69a66bd3",
         "teacher-exam-107-08-q003-27cf50ea75",
-        "teacher-exam-109-10-q009-e12bdeaabe",
         "teacher-exam-111-12-q011-b7a1b59739",
-        "teacher-exam-115-16-q002-d911005138",
         "teacher-exam-94-17-q001-4488f43fe2",
-        "teacher-exam-97-19-q027-df836fd68d",
-        "teacher-exam-97-19-q001-999c168f33"
+        "teacher-exam-97-19-q027-df836fd68d"
       ],
       "years": [
-        115,
         111,
-        109,
         107,
         105,
         104,
@@ -5873,7 +5821,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 13,
+      "questionCount": 9,
       "sampleQuestion": "有關於台灣西餐廳的發展史，下列敘述何者正確？"
     },
     {
@@ -5884,11 +5832,9 @@
       "label": "3-2 F 餐飲業的定義與特性(綜合題)",
       "description": "",
       "questionIds": [
-        "teacher-exam-106-07-q018-23b79ded3f",
-        "teacher-exam-113-14-q020-45c1769c4f"
+        "teacher-exam-106-07-q018-23b79ded3f"
       ],
       "years": [
-        113,
         106
       ],
       "publisherBasis": [
@@ -5901,7 +5847,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 2,
+      "questionCount": 1,
       "sampleQuestion": "下列有關於餐旅商品的概念，何者為正確？"
     },
     {
@@ -5933,11 +5879,11 @@
       "sampleQuestion": "美國麥當勞所創立的提供標準化飲食與快速服務的 Q. S. C. V. 下列何者錯誤？"
     },
     {
-      "id": "tourism-hospitality-4590812365",
+      "id": "tourism-hospitality-871cd42b97",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 F2 台灣─餐飲業的發展(綠色餐飲)]",
-      "label": "3-2 F2 台灣─餐飲業的發展(綠色餐飲)",
+      "unit": "[CH3 餐飲業] - [3-2 F1 台灣─餐飲業的發展（綠色餐飲）]",
+      "label": "3-2 F1 台灣─餐飲業的發展（綠色餐飲）",
       "description": "",
       "questionIds": [
         "teacher-exam-113-14-q022-0d4cb8b67c"
@@ -5949,8 +5895,8 @@
         {
           "source": "manual",
           "chapter": "CH3 餐飲業",
-          "locator": "3-2 F2 台灣─餐飲業的發展(綠色餐飲)",
-          "note": "依人工審核整理檔「待審核-1150805白天-整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150805白天.md」。原始人工分類：3-2 F2 台灣─餐飲業的發展(綠色餐飲)"
+          "locator": "3-2 F1 台灣─餐飲業的發展（綠色餐飲）",
+          "note": "依「1150807與1150808白天分類單元差異對照表-忽略Markdown格式.md」及「好幾科 黃底 目錄(含細節)代碼 1150808白天.md」更新分類代碼；原分類：3-2 F2 台灣─餐飲業的發展(綠色餐飲)；新分類：3-2 F1 台灣─餐飲業的發展（綠色餐飲）"
         }
       ],
       "reviewStatus": "approved",
@@ -5997,7 +5943,6 @@
         "teacher-exam-106-07-q060-ed5fc5d0a5",
         "teacher-exam-112-13-q003-83990d82b4",
         "teacher-exam-113-14-q001-2cbd814dc3",
-        "teacher-exam-114-15-q004-ab96862d21",
         "teacher-exam-114-15-q035-93e88fe0ec",
         "teacher-exam-115-16-q029-c7e42b1b8d",
         "teacher-exam-97-19-q006-7ae726171f",
@@ -6024,7 +5969,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 9,
+      "questionCount": 8,
       "sampleQuestion": "台灣小吃蚵仔煎所加的醬料是？"
     },
     {
@@ -6272,25 +6217,20 @@
       "description": "",
       "questionIds": [
         "teacher-exam-100-01-q003-691bacc08d",
-        "teacher-exam-101-02-q018-80b2eb2924",
-        "teacher-exam-101-02-q031-96de5d4de9",
-        "teacher-exam-101-02-q009-84a10c1190",
         "teacher-exam-105-06-q002-a4a7bd435c",
         "teacher-exam-109-10-q001-63436ee472",
         "teacher-exam-111-12-q031-c3e6d2b723",
         "teacher-exam-111-12-q040-be40b97f08",
         "teacher-exam-113-14-q043-c47710b2c5",
         "teacher-exam-113-14-q019-2fb86464f1",
-        "teacher-exam-97-19-q040-d4bf92718e"
+        "teacher-exam-111-12-q011-c2a46c3913"
       ],
       "years": [
         113,
         111,
         109,
         105,
-        101,
-        100,
-        97
+        100
       ],
       "publisherBasis": [
         {
@@ -6302,7 +6242,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 11,
+      "questionCount": 8,
       "sampleQuestion": "請解釋「加盟連鎖（Franchising）」餐廳。"
     },
     {
@@ -6651,7 +6591,6 @@
       "description": "",
       "questionIds": [
         "teacher-exam-100-01-q022-10d7e5db56",
-        "teacher-exam-103-04-q046-bd640c467b",
         "teacher-exam-104-05-q001-f43d646d90",
         "teacher-exam-104-05-q007-211a4e5aae",
         "teacher-exam-105-06-q004-b71fe1ab9c",
@@ -6663,7 +6602,6 @@
         111,
         105,
         104,
-        103,
         100,
         97,
         96
@@ -6678,7 +6616,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 8,
+      "questionCount": 7,
       "sampleQuestion": "西餐發展歷史中，最早建立廚房人員編制制度的人物是："
     },
     {
@@ -6714,7 +6652,8 @@
         "teacher-exam-97-19-q021-617385ce7d",
         "teacher-exam-98-20-q010-0a436084f2",
         "teacher-exam-98-20-q011-631ca79837",
-        "teacher-exam-101-02-q002-7070146501"
+        "teacher-exam-101-02-q002-7070146501",
+        "teacher-exam-101-02-q008-109080a715"
       ],
       "years": [
         114,
@@ -6738,7 +6677,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 26,
+      "questionCount": 27,
       "sampleQuestion": "「Sous Chef」指的是哪一種職位："
     },
     {
@@ -6753,7 +6692,6 @@
         "teacher-exam-100-01-q014-8392b736e9",
         "teacher-exam-100-01-q024-57c5bc5409",
         "teacher-exam-100-01-q004-1beea3a925",
-        "teacher-exam-101-02-q008-109080a715",
         "teacher-exam-101-02-q007-c5f0c1612a",
         "teacher-exam-104-05-q005-44e8e954cf",
         "teacher-exam-104-05-q033-45866a94a4",
@@ -6762,7 +6700,8 @@
         "teacher-exam-113-14-q026-16fb49147c",
         "teacher-exam-115-16-q035-2e0d84a776",
         "teacher-exam-94-17-q036-dffcd22b1a",
-        "teacher-exam-98-20-q005-1dfe8a4918"
+        "teacher-exam-98-20-q005-1dfe8a4918",
+        "teacher-exam-103-04-q046-bd640c467b"
       ],
       "years": [
         115,
@@ -6770,6 +6709,7 @@
         108,
         105,
         104,
+        103,
         101,
         100,
         98,
@@ -6799,14 +6739,12 @@
         "teacher-exam-101-02-q028-d8af1e5f73",
         "teacher-exam-106-07-q053-71cbbf03cc",
         "teacher-exam-109-10-q010-eb38799caf",
-        "teacher-exam-113-14-q011-7ff2b881a4",
         "teacher-exam-97-19-q009-b6b6cb4ce5",
         "teacher-exam-98-20-q001-4ffa149d36",
         "teacher-exam-98-20-q007-d63ca60471",
         "teacher-exam-98-20-q007-31ac62d78d"
       ],
       "years": [
-        113,
         109,
         106,
         101,
@@ -6823,7 +6761,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 8,
+      "questionCount": 7,
       "sampleQuestion": "餐廳之安全門平時應"
     },
     {
@@ -6961,32 +6899,6 @@
       "sampleQuestion": "餐廳倉庫的位置應距離下列那兩個地方越近越好？"
     },
     {
-      "id": "tourism-hospitality-fd3a5e7152",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-4 H 倉庫]",
-      "label": "3-4 H 倉庫",
-      "description": "",
-      "questionIds": [
-        "teacher-exam-113-14-q020-a744820695"
-      ],
-      "years": [
-        113
-      ],
-      "publisherBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-4 H 倉庫",
-          "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：3-4 H 倉庫"
-        }
-      ],
-      "reviewStatus": "approved",
-      "unresolvedCount": 0,
-      "questionCount": 1,
-      "sampleQuestion": "關於倉儲設計的原則，下列何者錯誤？"
-    },
-    {
       "id": "tourism-hospitality-0e37951a9f",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
@@ -7114,11 +7026,13 @@
         "teacher-exam-shuili-q002-5fb8c7e62c",
         "teacher-exam-shuili-q034-107691f5d3",
         "teacher-exam-shuili-q038-7f74adb548",
-        "teacher-exam-99-21-q004-e1f3e0ca07"
+        "teacher-exam-99-21-q004-e1f3e0ca07",
+        "teacher-exam-111-national-term-q002-korean-frying"
       ],
       "years": [
         115,
         114,
+        111,
         108,
         106,
         99,
@@ -7136,7 +7050,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 16,
+      "questionCount": 17,
       "sampleQuestion": "阿奇師在美食節目中介紹某道年菜的做法：「……………將材料烹煮好，再於鍋中勾芡，讓這道年菜起鍋後能帶有少許芡汁……………」。根據上述，此道年菜較有可能採用下列哪一種烹調方法？"
     },
     {
@@ -7159,8 +7073,6 @@
         "teacher-exam-109-10-q008-df4e21b3ac",
         "teacher-exam-109-10-q010-af405db848",
         "teacher-exam-111-12-q001-d0138a57c5",
-        "teacher-exam-113-14-q016-c787f94dc1",
-        "teacher-exam-113-14-q018-fill-in-blank-words",
         "teacher-exam-113-14-q036-efd9271c14",
         "teacher-exam-114-15-q030-bdfd6db51f",
         "teacher-exam-114-15-q034-197964ebf8",
@@ -7179,7 +7091,8 @@
         "teacher-exam-shuili-q009-2740c843b6",
         "teacher-exam-shuili-q011-0700177c92",
         "teacher-exam-shuili-q043-0a6d54412a",
-        "teacher-exam-98-20-q003-426ccefa51"
+        "teacher-exam-98-20-q003-426ccefa51",
+        "teacher-exam-111-12-q014-familymart-group"
       ],
       "years": [
         115,
@@ -7204,7 +7117,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 33,
+      "questionCount": 32,
       "sampleQuestion": "清炸薯條的烹飪過程是下列何項？"
     },
     {
@@ -7311,7 +7224,6 @@
         "teacher-exam-113-14-q010-e08b042951",
         "teacher-exam-113-14-q008-50307d34a1",
         "teacher-exam-114-15-q028-766bab20b9",
-        "teacher-exam-114-15-q044-e1796365e3",
         "teacher-exam-115-16-q001-f822a9b643",
         "teacher-exam-94-17-q020-ca27dcd2cf",
         "teacher-exam-94-17-q013-ae91a80805",
@@ -7367,7 +7279,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 54,
+      "questionCount": 53,
       "sampleQuestion": "一份披薩的食材成本佔 25%，若總材料費共計 50 元，則其售價為何？"
     },
     {
@@ -7431,7 +7343,6 @@
         "teacher-exam-114-15-q017-ebc6fc349d",
         "teacher-exam-115-16-q020-fa7efc7892",
         "teacher-exam-94-17-q001-350703f8ae",
-        "teacher-exam-94-17-q003-08cbb3dc1d",
         "teacher-exam-94-17-q004-1c78e3355b",
         "teacher-exam-94-17-q047-b311e01309",
         "teacher-exam-94-17-q005-213d2c3710",
@@ -7443,7 +7354,8 @@
         "teacher-exam-98-20-q010-b0b885d9db",
         "teacher-exam-98-20-q005-a93db76fe3",
         "teacher-exam-98-20-q023-1a574e68a9",
-        "teacher-exam-98-20-q007-ce08a7a7d7"
+        "teacher-exam-98-20-q007-ce08a7a7d7",
+        "teacher-exam-113-14-q020-a744820695"
       ],
       "years": [
         115,
@@ -7615,40 +7527,6 @@
       "unresolvedCount": 0,
       "questionCount": 1,
       "sampleQuestion": "下列 1～5 項為某頂級旅館目前及未來可能提供的服務，請分別判斷這些服務屬於哪一個產品層次，並填入正確答案。\n\n(A) 核心產品　(B) 基本產品　(C) 期望產品　(D) 附加產品　(E) 潛在產品\n\n| 題號 | 服務內容 |\n| --- | --- |\n| (1) | 提供顧客乾淨舒適的「客房」及「餐廳」 |\n|"
-    },
-    {
-      "id": "tourism-hospitality-5d5de2da4e",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-1 E 旅館業特性]",
-      "label": "4-1 E 旅館業特性",
-      "description": "",
-      "questionIds": [
-        "teacher-exam-94-17-q036-d81e3994e9",
-        "teacher-exam-96-18-q003-1149f8326b",
-        "teacher-exam-97-19-q035-d91fcf68fb",
-        "teacher-exam-99-21-q016-adeac7c776",
-        "teacher-exam-101-02-q005-886b0ded0c"
-      ],
-      "years": [
-        101,
-        99,
-        97,
-        96,
-        94
-      ],
-      "publisherBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH4 旅宿業",
-          "locator": "4-1 E 旅館業特性",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：4-1 E 旅館業特性"
-        }
-      ],
-      "reviewStatus": "approved",
-      "unresolvedCount": 0,
-      "questionCount": 5,
-      "sampleQuestion": "旅館商品的特性，下列何者有誤？"
     },
     {
       "id": "tourism-hospitality-42df6edddd",
@@ -7827,7 +7705,9 @@
         "teacher-exam-98-20-q025-9bd2a0ba99",
         "teacher-exam-99-21-q001-ef622a5e26",
         "teacher-exam-99-21-q003-3d1cf7a355",
-        "teacher-exam-101-02-q003-647cc8f550"
+        "teacher-exam-101-02-q003-647cc8f550",
+        "teacher-exam-106-07-q008-555276a9b6",
+        "teacher-exam-106-07-q017-b7df72ff61"
       ],
       "years": [
         115,
@@ -7854,7 +7734,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 44,
+      "questionCount": 46,
       "sampleQuestion": "以下何者為鄰近海濱或游泳池邊的房間？"
     },
     {
@@ -7865,16 +7745,13 @@
       "label": "4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)",
       "description": "",
       "questionIds": [
-        "teacher-exam-104-05-q019-f6201d3411",
         "teacher-exam-104-05-q014-74d9d2344a",
         "teacher-exam-106-07-q014-c45c1d9870",
         "teacher-exam-108-09-q020-57137ee537",
-        "teacher-exam-110-11-q005-fee8f8f496",
         "teacher-exam-97-19-q035-78be4163f0",
         "teacher-exam-98-20-q008-4bfcc1c0e8"
       ],
       "years": [
-        110,
         108,
         106,
         104,
@@ -7891,8 +7768,8 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 7,
-      "sampleQuestion": "以下有關我國旅館的等級評鑑制度，何者正確？"
+      "questionCount": 5,
+      "sampleQuestion": "世界各國旅館的分級普遍以星級表示，二星所表示的是指"
     },
     {
       "id": "tourism-hospitality-c3ba42aa22",
@@ -7949,8 +7826,6 @@
         "teacher-exam-104-05-q013-d7adfc5149",
         "teacher-exam-104-05-q016-b99fc10cc8",
         "teacher-exam-105-06-q021-7dfa336a99",
-        "teacher-exam-106-07-q008-555276a9b6",
-        "teacher-exam-106-07-q017-b7df72ff61",
         "teacher-exam-109-10-q022-dcb384497d",
         "teacher-exam-113-14-q007-11ed578d75",
         "teacher-exam-96-18-q022-a7eae61719",
@@ -7967,7 +7842,6 @@
       "years": [
         113,
         109,
-        106,
         105,
         104,
         101,
@@ -7987,7 +7861,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 19,
+      "questionCount": 17,
       "sampleQuestion": "家庭旅遊之旅客要求安排兩個相連的房間住宿，中間需有可相通的房門，此類型房間稱之為："
     },
     {
@@ -8049,15 +7923,24 @@
         "teacher-exam-99-21-q021-49736f1bd9",
         "teacher-exam-99-21-q022-eb187c82b2",
         "teacher-exam-99-21-q023-1c8b0e6f94",
-        "teacher-exam-108-09-q004-a0c0c4e713"
+        "teacher-exam-108-09-q004-a0c0c4e713",
+        "teacher-exam-101-02-q017-d59b23e6c1",
+        "teacher-exam-102-03-q017-dadd944d5b",
+        "teacher-exam-113-14-q028-9647171797",
+        "teacher-exam-105-06-q009-4596c961b4",
+        "teacher-exam-100-01-q003-28c4bc5f75",
+        "teacher-exam-111-12-q037-5480fe4244"
       ],
       "years": [
         115,
+        113,
         111,
         109,
         108,
         106,
+        105,
         104,
+        102,
         101,
         100,
         99,
@@ -8073,7 +7956,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 26,
+      "questionCount": 32,
       "sampleQuestion": "旅客在國際機場內需要航空公司提供轉機接待服務，稱為甚麼？"
     },
     {
@@ -8094,15 +7977,30 @@
         "teacher-exam-99-21-q001-5d16a0c395",
         "teacher-exam-99-21-q007-b6e83be579",
         "teacher-exam-99-21-q011-7dffdeef5f",
-        "teacher-exam-109-10-q005-965fee6794"
+        "teacher-exam-109-10-q005-965fee6794",
+        "teacher-exam-106-07-q005-2d198bfa0c",
+        "teacher-exam-101-02-q008-75d9e7e978",
+        "teacher-exam-108-09-q001-4f95261067",
+        "teacher-exam-108-09-q006-b74c71bab8",
+        "teacher-exam-105-06-q008-cfee98db7d",
+        "teacher-exam-104-05-q010-00aef125b4",
+        "teacher-exam-104-05-q018-9b30a4e99a",
+        "teacher-exam-113-14-q008-20908656ab",
+        "teacher-exam-107-08-q040-1b54b02342",
+        "teacher-exam-115-16-q010-b581ee7b3d",
+        "teacher-exam-104-05-q017-882a349a11"
       ],
       "years": [
+        115,
         113,
         109,
         108,
+        107,
+        106,
         105,
         104,
         102,
+        101,
         99
       ],
       "publisherBasis": [
@@ -8115,7 +8013,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 11,
+      "questionCount": 22,
       "sampleQuestion": "下列哪些人員屬於「Housekeeping Department」之組織編制？ 甲、Sewer 乙、Porter 丙、Linen Staff 丁、Room Maid 戊、Florist 己、Room Clerk Agent"
     },
     {
@@ -8189,49 +8087,26 @@
       "description": "",
       "questionIds": [
         "teacher-exam-100-01-q031-aeb32571ea",
-        "teacher-exam-100-01-q003-28c4bc5f75",
-        "teacher-exam-101-02-q017-d59b23e6c1",
         "teacher-exam-101-02-q008-3fa20dadb0",
         "teacher-exam-101-02-q016-3514dd1337",
-        "teacher-exam-101-02-q008-75d9e7e978",
         "teacher-exam-101-02-q040-409a11c774",
-        "teacher-exam-102-03-q017-dadd944d5b",
         "teacher-exam-104-05-q052-d61fd029a3",
-        "teacher-exam-104-05-q018-9b30a4e99a",
-        "teacher-exam-104-05-q017-882a349a11",
-        "teacher-exam-104-05-q010-00aef125b4",
-        "teacher-exam-105-06-q008-cfee98db7d",
-        "teacher-exam-105-06-q009-4596c961b4",
         "teacher-exam-106-07-q033-64ae70b949",
-        "teacher-exam-106-07-q005-2d198bfa0c",
-        "teacher-exam-107-08-q040-1b54b02342",
-        "teacher-exam-108-09-q001-4f95261067",
-        "teacher-exam-108-09-q006-b74c71bab8",
         "teacher-exam-109-10-q008-79b7685e32",
-        "teacher-exam-111-12-q037-5480fe4244",
-        "teacher-exam-113-14-q008-20908656ab",
         "teacher-exam-113-14-q020-41dc5a2a1f",
         "teacher-exam-113-14-q036-a884937d7e",
-        "teacher-exam-113-14-q028-9647171797",
         "teacher-exam-114-15-q002-04b6d7ad84",
-        "teacher-exam-115-16-q010-b581ee7b3d",
         "teacher-exam-97-19-q012-f6126aa04f",
         "teacher-exam-99-21-q003-69faff89dc",
         "teacher-exam-99-21-q011-2fed9ca59e",
         "teacher-exam-99-21-q018-b9b49e54db"
       ],
       "years": [
-        115,
         114,
         113,
-        111,
         109,
-        108,
-        107,
         106,
-        105,
         104,
-        102,
         101,
         100,
         99,
@@ -8247,7 +8122,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 31,
+      "questionCount": 14,
       "sampleQuestion": "下列哪些部門，原則上屬於餐廳的前勤單位（the front of the house）？甲：宴會部 乙：廚房部 丙：飲務部 丁：餐務部"
     },
     {
@@ -8680,7 +8555,11 @@
         "teacher-exam-111-12-q026-e8bae9477a",
         "teacher-exam-97-19-q039-bace91da96",
         "teacher-exam-98-20-q002-2345186132",
-        "teacher-exam-104-05-q002-30485825ca"
+        "teacher-exam-104-05-q002-30485825ca",
+        "teacher-exam-97-19-q040-d4bf92718e",
+        "teacher-exam-101-02-q009-84a10c1190",
+        "teacher-exam-101-02-q018-80b2eb2924",
+        "teacher-exam-101-02-q031-96de5d4de9"
       ],
       "years": [
         111,
@@ -8703,7 +8582,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 14,
+      "questionCount": 18,
       "sampleQuestion": "業務聯盟台灣地區國際觀光旅館的發展趨勢，台北君悅飯店是採"
     },
     {
@@ -8983,10 +8862,12 @@
         "teacher-exam-109-10-q004-b10a1912d3",
         "teacher-exam-109-10-q004-59f7064ee6",
         "teacher-exam-112-13-q025-678461fe8c",
-        "teacher-exam-94-17-q002-6f61a9baca"
+        "teacher-exam-94-17-q002-6f61a9baca",
+        "teacher-exam-111-12-q002-24af9b945b"
       ],
       "years": [
         112,
+        111,
         109,
         107,
         106,
@@ -9005,7 +8886,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 14,
+      "questionCount": 15,
       "sampleQuestion": "下列何者是「永續觀光」的英文全名？"
     },
     {
@@ -9159,7 +9040,9 @@
         "teacher-exam-98-20-q007-c01cb6abed",
         "teacher-exam-98-20-q001-b749bbc14c",
         "teacher-exam-99-21-q016-d305cdc679",
-        "teacher-exam-99-21-q008-1479f80891"
+        "teacher-exam-99-21-q008-1479f80891",
+        "teacher-exam-104-05-q033-f8699487e6",
+        "teacher-exam-97-19-q001-999c168f33"
       ],
       "years": [
         114,
@@ -9188,7 +9071,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 39,
+      "questionCount": 41,
       "sampleQuestion": "下列何者不屬於觀光局規劃的台灣八大旗艦景點？"
     },
     {
@@ -9873,7 +9756,8 @@
         "teacher-exam-97-19-q045-53754355e4",
         "teacher-exam-98-20-q009-4d743d2104",
         "teacher-exam-98-20-q002-d4d9fd4830",
-        "teacher-exam-98-20-q041-36c84ffbbb"
+        "teacher-exam-98-20-q041-36c84ffbbb",
+        "teacher-exam-105-06-q007-75a0221037"
       ],
       "years": [
         114,
@@ -9897,7 +9781,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 15,
+      "questionCount": 16,
       "sampleQuestion": "現今外交部領事事務局所核發之「機器可判讀護照」是於民國何年起實施？"
     },
     {
@@ -11206,12 +11090,14 @@
         "teacher-exam-115-16-q017-343e2fe6ae",
         "teacher-exam-94-17-q028-4eeed9fc1c",
         "teacher-exam-96-18-q019-f565a17df5",
-        "teacher-exam-97-19-q023-38b3d10f93"
+        "teacher-exam-97-19-q023-38b3d10f93",
+        "teacher-exam-111-12-q013-familymart-group"
       ],
       "years": [
         115,
         114,
         113,
+        111,
         110,
         109,
         103,
@@ -11230,7 +11116,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 11,
+      "questionCount": 12,
       "sampleQuestion": "餐旅業注意到選用低污染物料、不過度包裝等環保議題，是指行銷發展的哪一階段？"
     },
     {
@@ -13071,7 +12957,8 @@
         "teacher-exam-109-10-q004-726e52bd93",
         "teacher-exam-96-18-q030-ea0e658dc9",
         "teacher-exam-99-21-q034-7cfb45cd5d",
-        "teacher-exam-99-21-q040-ed738086aa"
+        "teacher-exam-99-21-q040-ed738086aa",
+        "teacher-exam-109-10-q005-c5d504a52e"
       ],
       "years": [
         109,
@@ -13090,7 +12977,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 6,
+      "questionCount": 7,
       "sampleQuestion": "關於餐廳餐桌鋪設，下列敘述何者錯誤？"
     },
     {
@@ -18999,10 +18886,12 @@
         "teacher-exam-99-21-q001-f12830701b",
         "teacher-exam-99-21-q002-285d80df8e",
         "teacher-exam-99-21-q002-a16a965619",
-        "teacher-exam-104-05-q002-e71a8b6d54"
+        "teacher-exam-104-05-q002-e71a8b6d54",
+        "teacher-exam-111-national-term-q003-terroir"
       ],
       "years": [
         115,
+        111,
         108,
         104,
         99
@@ -19017,7 +18906,7 @@
       ],
       "reviewStatus": "approved",
       "unresolvedCount": 0,
-      "questionCount": 9,
+      "questionCount": 10,
       "sampleQuestion": "製作橡木桶的橡木，並不使用下列哪個國家或地區的橡木？"
     },
     {
@@ -20837,6 +20726,32 @@
       "unresolvedCount": 0,
       "questionCount": 2,
       "sampleQuestion": "通常用來製作「雪蛤膏」食材的哈士蟆是指雪蛤體內的"
+    },
+    {
+      "id": "tourism-hospitality-62c30ad391",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[時事(法規、時事、政策、標章)] - [B3日本旅遊新制]",
+      "label": "B3日本旅遊新制",
+      "description": "",
+      "questionIds": [
+        "teacher-exam-114-15-q004-ab96862d21"
+      ],
+      "years": [
+        114
+      ],
+      "publisherBasis": [
+        {
+          "source": "manual",
+          "chapter": "時事(法規、時事、政策、標章)",
+          "locator": "B3日本旅遊新制",
+          "note": "依本次人工審核需求調整題目內容或分類。"
+        }
+      ],
+      "reviewStatus": "approved",
+      "unresolvedCount": 0,
+      "questionCount": 1,
+      "sampleQuestion": "台灣各縣市、鄉鎮為發展當地特色，推銷農產品及塑造觀光形象，紛紛評選「三寶」做為地方特色，請寫出關廟、新竹、東港、岡山的「三寶」代表。 5.2025年台灣遊客至日本入境有了新制規定及旅遊注意事項，部分措施在2026年開始實施，請寫出日本入境通關新制、退稅新制及旅遊新制(含禁止事項)。"
     }
   ],
   "questions": [
@@ -22428,15 +22343,15 @@
       "promptPreview": "在大廳處理顧客疑問、抱怨，並代為購買車票、機票及劇票等事項的是：",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
+      "conceptId": "tourism-hospitality-e73b89e1b8",
+      "conceptLabel": "4-4 A 客務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "在大廳處理顧客疑問、抱怨,並代為購買車票、機票及劇票等事項的是: Greeter Information Clerk Bell Man Mail Clerk。 100 年第 3 題 一、選擇題(25 題)50% 國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "在大廳處理顧客疑問、抱怨，並代為購買車票、機票及劇票等事項的是： Greeter Information Clerk Bell Man Mail Clerk。 B 國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部"
     },
     {
       "id": "teacher-exam-100-01-q004-fe51514e37",
@@ -24096,15 +24011,15 @@
       "promptPreview": "精彩饗宴飲食集團於 2011 年 4 月甫開幕的「精彩食譜」餐廳，主打「中華大江南北菜色」。請問，該店菜單中有一道「蔥烤鯽魚」是屬於哪一菜系的菜色？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
+      "conceptId": "tourism-hospitality-c981d95e0a",
+      "conceptLabel": "3-2 E 中國─菜系",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-manual"
       ],
-      "searchText": "精彩饗宴飲食集團於 2011 年 4 月甫開幕的「精彩食譜」餐廳,主打「中華大江南北菜色」。請問,該店菜單中有一道「蔥烤鯽魚」是屬於哪一菜系的菜色? 京菜 浙菜 閩菜 湘菜。 100 年第 1 題 一、選擇題(1 題 1 分,共 20 分) 高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "精彩饗宴飲食集團於 2011 年 4 月甫開幕的「精彩食譜」餐廳，主打「中華大江南北菜色」。請問，該店菜單中有一道「蔥烤鯽魚」是屬於哪一菜系的菜色？ 京菜 浙菜 閩菜 湘菜。 B 高雄市 100 學年度市立高級中等學校聯合教師甄選觀光科試題 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系"
     },
     {
       "id": "teacher-exam-100-01-q002-e334411f72",
@@ -24929,15 +24844,15 @@
       "promptPreview": "下列哪一個單位不是隸屬於客房部門（Room Division）？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
+      "conceptId": "tourism-hospitality-e73b89e1b8",
+      "conceptLabel": "4-4 A 客務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "下列哪一個單位不是隸屬於客房部門(Room Division)? Room Service Concierge Front Desk Housekeeping。 101 年第 17 題 未標示試卷 未標示學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "下列哪一個單位不是隸屬於客房部門（Room Division）？ Room Service Concierge Front Desk Housekeeping。 A 未標示學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部"
     },
     {
       "id": "teacher-exam-101-02-q018-7858699f7c",
@@ -25518,7 +25433,7 @@
       "flags": [
         "latest-taxonomy-manual"
       ],
-      "searchText": "名菜荔甫扣肉中的「荔甫」是: 四川榨菜 山東白菜 金華火腿 廣西名芋。 1 101 年第 10 題 一、選擇題:(每題1分,共計40分) 國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "名菜荔甫扣肉中的「荔甫」是： 四川榨菜 山東白菜 金華火腿 廣西名芋。 D 國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
     },
     {
       "id": "teacher-exam-101-02-q011-73a19cafa4",
@@ -25695,15 +25610,15 @@
       "promptPreview": "旅館經營方式一般可分為自資自營、租賃經營、加盟連鎖與管理契約，此四種方式對業主（Owner）及經營者（Operator）均各有其優缺點。請問下列何者為租賃經營對業主的主要優點？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)]",
-      "conceptId": "tourism-hospitality-5a39e78564",
-      "conceptLabel": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
+      "unit": "[CH4 旅宿業] - [4-5 F 旅宿業經營方式]",
+      "conceptId": "tourism-hospitality-681217b091",
+      "conceptLabel": "4-5 F 旅宿業經營方式",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "旅館經營方式一般可分為自資自營、租賃經營、加盟連鎖與管理契約,此四種方式對業主(Owner)及經營者(Operator)均各有其優缺點。請問下列何者為租賃經營對業主的主要優點? 經營獨立,不需受限受制於他人 可享有全球性的訂房系統與行銷資源 不論旅館經營好壞,均有固定收益 可以共享堅強的品牌形象與經營口碑。 101 年第 18 題 未標示試卷 國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題 觀光餐旅業導論 [CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)] 3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)"
+      "searchText": "旅館經營方式一般可分為自資自營、租賃經營、加盟連鎖與管理契約，此四種方式對業主（Owner）及經營者（Operator）均各有其優缺點。請問下列何者為租賃經營對業主的主要優點？ 經營獨立，不需受限受制於他人 可享有全球性的訂房系統與行銷資源 不論旅館經營好壞，均有固定收益 可以共享堅強的品牌形象與經營口碑。 C 國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題 觀光餐旅業導論 [CH4 旅宿業] - [4-5 F 旅宿業經營方式] 4-5 F 旅宿業經營方式"
     },
     {
       "id": "teacher-exam-101-02-q019-4febde4887",
@@ -25995,15 +25910,15 @@
       "promptPreview": "下列飯店與品牌之關係，何者屬於會員連鎖（referral）之經營型態？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)]",
-      "conceptId": "tourism-hospitality-5a39e78564",
-      "conceptLabel": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
+      "unit": "[CH4 旅宿業] - [4-5 F 旅宿業經營方式]",
+      "conceptId": "tourism-hospitality-681217b091",
+      "conceptLabel": "4-5 F 旅宿業經營方式",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "下列飯店與品牌之關係,何者屬於會員連鎖(referral)之經營型態? 台北喜來登飯店與 Sheraton 台北君悅飯店與 Hyatt 台北六福皇宮與 Westin 台北亞都麗緻飯店與 The Leading Hotels of the World。 101 年第 31 題 未標示試卷 國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題 觀光餐旅業導論 [CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)] 3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)"
+      "searchText": "下列飯店與品牌之關係，何者屬於會員連鎖（referral）之經營型態？ 台北喜來登飯店與 Sheraton 台北君悅飯店與 Hyatt 台北六福皇宮與 Westin 台北亞都麗緻飯店與 The Leading Hotels of the World。 D 國立臺南家齊女中101年度教師甄試初試餐飲科筆試試題 觀光餐旅業導論 [CH4 旅宿業] - [4-5 F 旅宿業經營方式] 4-5 F 旅宿業經營方式"
     },
     {
       "id": "teacher-exam-101-02-q032-6444207751",
@@ -27545,15 +27460,15 @@
       "promptPreview": "Saute' Chef：熱炒廚師",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-4 D2-2 組織編制─內場(中餐)]",
-      "conceptId": "tourism-hospitality-44539030b4",
-      "conceptLabel": "3-4 D2-2 組織編制─內場(中餐)",
+      "unit": "[CH3 餐飲業] - [3-4 D2-1 組織編制─內場(西餐)]",
+      "conceptId": "tourism-hospitality-033fb45803",
+      "conceptLabel": "3-4 D2-1 組織編制─內場(西餐)",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "Saute' Chef:熱炒廚師 101 年第 8 題 二、請把下列專業名詞翻譯成中文,共10題,每題2分,共20分 國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D2-2 組織編制─內場(中餐)] 3-4 D2-2 組織編制─內場(中餐)"
+      "searchText": "Saute' Chef：熱炒廚師 國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D2-1 組織編制─內場(西餐)] 3-4 D2-1 組織編制─內場(西餐)"
     },
     {
       "id": "teacher-exam-101-02-q009-da81aa897a",
@@ -28516,15 +28431,15 @@
       "promptPreview": "下列何種一般住客服務是旅館免費提供的？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "下列何種一般住客服務是旅館免費提供的? baby-sitter service extra crib service valet service massage service 101 年第 8 題 未標示試卷 高雄市101學年度市立高級中等學校聯合教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "下列何種一般住客服務是旅館免費提供的？ baby-sitter service extra crib service valet service massage service B 高雄市101學年度市立高級中等學校聯合教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-101-02-q009-c4565399eb",
@@ -29209,15 +29124,15 @@
       "promptPreview": "下列飯店與品牌之關係，何者屬於會員連鎖（referral）之經營型態？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)]",
-      "conceptId": "tourism-hospitality-5a39e78564",
-      "conceptLabel": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
+      "unit": "[CH4 旅宿業] - [4-5 F 旅宿業經營方式]",
+      "conceptId": "tourism-hospitality-681217b091",
+      "conceptLabel": "4-5 F 旅宿業經營方式",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "下列飯店與品牌之關係,何者屬於會員連鎖(referral)之經營型態? 台北喜來登飯店與 Sheraton 台北君悅飯店與 Hyatt 台北六福皇宮與 Westin 台北亞都麗緻飯店與 The Leading Hotels of the World。 101 年第 9 題 一、選擇題:四選一,每題二分共佔90%。 國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷 觀光餐旅業導論 [CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)] 3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)"
+      "searchText": "下列飯店與品牌之關係，何者屬於會員連鎖（referral）之經營型態？ 台北喜來登飯店與 Sheraton 台北君悅飯店與 Hyatt 台北六福皇宮與 Westin 台北亞都麗緻飯店與 The Leading Hotels of the World。 D 國立金門高級農工職業學校101學年度第一次教師甄試餐飲科試卷 觀光餐旅業導論 [CH4 旅宿業] - [4-5 F 旅宿業經營方式] 4-5 F 旅宿業經營方式"
     },
     {
       "id": "teacher-exam-101-02-q010-01f3eb063f",
@@ -31227,15 +31142,15 @@
       "promptPreview": "下列何者是餐飲服務業的特質？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-dda1813952",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "下列何者是餐飲服務業的特質? 需求起伏小 服務項目單純化 商品容易儲存 品質管理不易。 102 年第 17 題 未標示試卷 國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題 觀光餐旅業導論 [CH3 餐飲業] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "下列何者是餐飲服務業的特質？ 需求起伏小 服務項目單純化 商品容易儲存 品質管理不易。 D 國立羅東高級商業職業學校 102 學年度教師甄選餐飲管理科筆試試題 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-102-03-q018-cb7e1ad12d",
@@ -32102,7 +32017,7 @@
       "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
       "questionNumber": 9,
       "questionType": "single-choice",
-      "promptPreview": "下列有關國家公園的描述何者正確？",
+      "promptPreview": "下列有關國家風景區的描述何者正確？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區]",
@@ -32113,7 +32028,7 @@
       "flags": [
         "latest-taxonomy-manual"
       ],
-      "searchText": "下列有關國家公園的描述何者正確? 關子嶺位於茂林國家風景區 參山國家風景區包含獅頭山、八卦山、梨山 馬祖國家風景區以閩南建築最有名 阿里山有三奇:日出、邵族、火車。 102 年第 9 題 未標示試卷 高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區] 1-5 B1國家級風景特定區"
+      "searchText": "下列有關國家公園的描述何者正確? 關子嶺位於茂林國家風景區 參山國家風景區包含獅頭山、八卦山、梨山 馬祖國家風景區以閩南建築最有名 阿里山有三奇:日出、邵族、火車。 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區] 1-5 B1國家級風景特定區 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。"
     },
     {
       "id": "teacher-exam-102-03-q010-e7e0af6c54",
@@ -32286,18 +32201,18 @@
       "schoolName": "高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案",
       "questionNumber": 17,
       "questionType": "single-choice",
-      "promptPreview": "關於旅館從業人員之職責，下列何者正確？ 甲、Front Desk Cashier：處理旅客 C/I、C/O 及排房 乙、Bellman：引導住客至客房 丙、Assistant Manager：又稱為 Complaint Manager 丁、",
+      "promptPreview": "關於旅館從業人員之職責，下列何者正確？ 甲、Front Desk Cashier：處理旅客 C/I、C/O 及排房 乙、Bellman：引導住客至客房 丙、Assistant Manager：又稱為 Complaint Manager 丁、GRO 為旅館夜間之負責人",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
+      "conceptId": "tourism-hospitality-e73b89e1b8",
+      "conceptLabel": "4-4 A 客務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "關於旅館從業人員之職責,下列何者正確? 甲、Front Desk Cashier:處理旅客 C/I、C/O 及排房 乙、Bellman:引導住客至客房 丙、Assistant Manager:又稱為 Complaint Manager 丁、GRO 為旅館夜間之負責人 乙丁 甲乙丙 乙丙 甲丙丁。 102 年第 17 題 未標示試卷 高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "關於旅館從業人員之職責，下列何者正確？ 甲、Front Desk Cashier：處理旅客 C/I、C/O 及排房 乙、Bellman：引導住客至客房 丙、Assistant Manager：又稱為 Complaint Manager 丁、GRO 為旅館夜間之負責人 乙丁 甲乙丙 乙丙 甲丙丁。 C 高雄市 102 學年度市立高級中等學校聯合教師甄選觀光事業科試題卷答案 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部"
     },
     {
       "id": "teacher-exam-102-03-q018-59a32ddced",
@@ -34000,16 +33915,16 @@
       "promptPreview": "廚房生產與作業管理的最高階管理者是？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-4 D2 組織編制─內場]",
-      "conceptId": "tourism-hospitality-d992ad23bb",
-      "conceptLabel": "3-4 D2 組織編制─內場",
+      "unit": "[CH3 餐飲業] - [3-4 D2-2 組織編制─內場(中餐)]",
+      "conceptId": "tourism-hospitality-44539030b4",
+      "conceptLabel": "3-4 D2-2 組織編制─內場(中餐)",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-auto-medium",
         "manual-reviewed-1150802-day"
       ],
-      "searchText": "廚房生產與作業管理的最高階管理者是? 餐廳經理 餐廳主任 行政主廚 主廚。 103 年第 46 題 未標示試卷 國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D2 組織編制─內場] 3-4 D2 組織編制─內場"
+      "searchText": "廚房生產與作業管理的最高階管理者是？ 餐廳經理 餐廳主任 行政主廚 主廚。 C 國立水里高級商工職業學校 103 學年度第一次教師甄試餐飲科筆試答案卷 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D2-2 組織編制─內場(中餐)] 3-4 D2-2 組織編制─內場(中餐)"
     },
     {
       "id": "teacher-exam-103-04-q047-8ae4ae341f",
@@ -34125,7 +34040,7 @@
       "flags": [
         "human-reviewed-1150730"
       ],
-      "searchText": "依據行政院主計處之「中華民國行業標準分類」,有關觀光餐旅相關行業之分類,下列敘述何者有誤? 會議及展覽服務業為N大類 餐館業為I大類 運動服務業為H大類 博弈業為R大類。 104 年第 1 題 一、單選題(每題2分,共30分) 未標示學校 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)"
+      "searchText": "依據行政院主計處之「中華民國行業標準分類」,有關觀光餐旅相關行業之分類,下列敘述何者有誤? 會議及展覽服務業為O大類 餐館業為I大類 運動服務業為H大類 博弈業為S大類。 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類) 本題依題幹與選項判斷,核心考點落在「[第六章 觀光餐旅相關產業] - [第六章 觀光餐旅相關產業]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業(頁 0);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業(頁 0);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第六章 觀光餐旅相關產業,定位:第六章 觀光餐旅相關產業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。"
     },
     {
       "id": "teacher-exam-104-05-q002-5638425379",
@@ -35503,15 +35418,15 @@
       "promptPreview": "下列何者不是觀光局規劃的台灣八大旗艦景點？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展]",
-      "conceptId": "tourism-hospitality-7c4ea7284e",
-      "conceptLabel": "3-2 F 台灣─餐飲業的發展",
+      "unit": "[CH5 旅行業] - [5-2 C 台灣旅行業發展]",
+      "conceptId": "tourism-hospitality-e3bd89b1c9",
+      "conceptLabel": "5-2 C 台灣旅行業發展",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "下列何者不是觀光局規劃的台灣八大旗艦景點? 合歡山 玉山 愛河 太魯閣。 104 年第 33 題 未標示試卷 國立光復高級商工職業學校104學年度教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展] 3-2 F 台灣─餐飲業的發展"
+      "searchText": "下列何者不是觀光局規劃的台灣八大旗艦景點？ 合歡山 玉山 愛河 太魯閣。 A 國立光復高級商工職業學校104學年度教師甄選 觀光餐旅業導論 [CH5 旅行業] - [5-2 C 台灣旅行業發展] 5-2 C 台灣旅行業發展"
     },
     {
       "id": "teacher-exam-104-05-q034-c36283ad88",
@@ -35684,7 +35599,7 @@
       "schoolName": "國立光復高級商工職業學校104學年度教師甄選",
       "questionNumber": 41,
       "questionType": "single-choice",
-      "promptPreview": "中式餐廳內場人員工作職掌，下列何者錯誤？",
+      "promptPreview": "西式餐廳內場人員工作職掌，下列何者錯誤？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH3 餐飲業] - [3-4 D2-1 組織編制─內場(西餐)]",
@@ -35695,7 +35610,7 @@
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "中式餐廳內場人員工作職掌,下列何者錯誤? 制定菜單研發新食譜 - executive chef 負責製備蔬菜類、冷菜類 - garde manger 負責烘焙產品、甜點製作 - rotisseur 魚、海鮮烹調工作 - poissonier。 104 年第 41 題 未標示試卷 國立光復高級商工職業學校104學年度教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D2-1 組織編制─內場(西餐)] 3-4 D2-1 組織編制─內場(西餐)"
+      "searchText": "西式餐廳內場人員工作職掌，下列何者錯誤？ 制定菜單研發新食譜 - executive chef 負責製備蔬菜類、冷菜類 - garde manger 負責烘焙產品、甜點製作 - rotisseur 魚、海鮮烹調工作 - poissonier。 C 國立光復高級商工職業學校104學年度教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-4 D2-1 組織編制─內場(西餐)] 3-4 D2-1 組織編制─內場(西餐)"
     },
     {
       "id": "teacher-exam-104-05-q042-1d2c401798",
@@ -37488,15 +37403,15 @@
       "promptPreview": "以下有關我國旅館的等級評鑑制度，何者正確？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)]",
-      "conceptId": "tourism-hospitality-3e72e549aa",
-      "conceptLabel": "4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)",
+      "unit": "[時事(法規、時事、政策、標章)] - [A15星級旅館評鑑作業要點]",
+      "conceptId": "tourism-hospitality-593857adf3",
+      "conceptLabel": "A15星級旅館評鑑作業要點",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "以下有關我國旅館的等級評鑑制度,何者正確? 600至749分核給五星級 由內政部營建署核發星級評鑑標誌 免費評鑑延至101年12月31日 星級評鑑每2年通盤辦理一次。 104 年第 19 題 未標示試卷 國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選 觀光餐旅業導論 [CH4 旅宿業] - [4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)] 4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)"
+      "searchText": "以下有關我國旅館的等級評鑑制度，何者正確？ 600至749分核給五星級 由內政部營建署核發星級評鑑標誌 免費評鑑延至101年12月31日 星級評鑑每2年通盤辦理一次。 C 國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選 觀光餐旅業導論 [時事(法規、時事、政策、標章)] - [A15星級旅館評鑑作業要點] A15星級旅館評鑑作業要點"
     },
     {
       "id": "teacher-exam-104-05-q020-587b08e350",
@@ -39015,15 +38930,15 @@
       "promptPreview": "在旅館中，執行客房樓層清潔的基層員工是",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "在旅館中,執行客房樓層清潔的基層員工是 公清員 (Public Area Cleaner) 房務員 (Housekeeper) 樓層領班 (Floor Captain) 布巾管理員 (Linen Staff)。 104 年第 18 題 未標示試卷 國立關西高中104學年度第一次教師甄試試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "在旅館中，執行客房樓層清潔的基層員工是 公清員 (Public Area Cleaner) 房務員 (Housekeeper) 樓層領班 (Floor Captain) 布巾管理員 (Linen Staff)。 B 國立關西高中104學年度第一次教師甄試試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-104-05-q019-83d6c7fb56",
@@ -40150,15 +40065,15 @@
       "promptPreview": "房客若要求加嬰兒床，則旅館的收費標準通常是酌收房價 (17) 免費或一定比例的服務費。",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "房客若要求加嬰兒床,則旅館的收費標準通常是酌收房價 (17) 免費或一定比例的服務費。 104 年第 17 題 未標示試卷 國立關西高中104學年度第一次教師甄試試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "房客若要求加嬰兒床，則旅館的收費標準通常是酌收房價 (17) 免費或一定比例的服務費。 國立關西高中104學年度第一次教師甄試試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-104-05-q018-fe9b0b8ad0",
@@ -42672,15 +42587,15 @@
       "promptPreview": "當員工發現旅館大廳有污穢物時，應通知旅館內哪一個部門前來清理？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "當員工發現旅館大廳有污穢物時,應通知旅館內哪一個部門前來清理? Engineering Department Front Office Department Housekeeping Department Food & Beverage Department 104 年第 10 題 未標示試卷 國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "當員工發現旅館大廳有污穢物時，應通知旅館內哪一個部門前來清理？ Engineering Department Front Office Department Housekeeping Department Food & Beverage Department C 國立高雄餐旅大學附屬餐旅高級中學104學年度教師甄選 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-104-05-q011-39fd7303e4",
@@ -43325,15 +43240,15 @@
       "promptPreview": "外交部領事事務局未在何處設有辦事處供民眾申請護照？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-5 B3駐外辦事處]",
-      "conceptId": "tourism-hospitality-d40827c385",
-      "conceptLabel": "1-5 B3駐外辦事處",
+      "unit": "[CH5 旅行業] - [5-5 F 護照]",
+      "conceptId": "tourism-hospitality-825a7edb51",
+      "conceptLabel": "5-5 F 護照",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-manual"
       ],
-      "searchText": "外交部領事事務局未在何處設有辦事處供民眾申請護照? 嘉義 台南 花蓮 台中。 105 年第 7 題 未標示試卷 105學年度公立高級中等學校教師甄選 餐飲管理科試題 / 觀光事業科試題 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 B3駐外辦事處] 1-5 B3駐外辦事處"
+      "searchText": "外交部領事事務局未在何處設有辦事處供民眾申請護照? 嘉義 台南 花蓮 台中。 觀光餐旅業導論 [CH5 旅行業] - [5-5 F 護照] 5-5 F 護照 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「B」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B」。 C:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 D:此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「B」。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「B」,需回到題幹關鍵詞與教材小節判斷。"
     },
     {
       "id": "teacher-exam-105-06-q008-3ff7c20452",
@@ -44852,15 +44767,15 @@
       "promptPreview": "有關 Extra Bed Service之敘述，下列何者正確？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "有關 Extra Bed Service之敘述,下列何者正確? 須由兩位服務人員同時進行操作,以求服務完整無誤 除 Baby Cot外,旅客要求服務時,需額外付費 旅客須於訂房時提出請求,入住後即無法提供服務 通常不需額外提供 Tooth Brush、Tooth Paste及Towel 等。 105 年第 8 題 國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部) 國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部) 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "有關 Extra Bed Service之敘述，下列何者正確？ 須由兩位服務人員同時進行操作，以求服務完整無誤 除 Baby Cot外，旅客要求服務時，需額外付費 旅客須於訂房時提出請求，入住後即無法提供服務 通常不需額外提供 Tooth Brush、Tooth Paste及Towel 等。 B 國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部) 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-105-06-q009-9f41112958",
@@ -45433,15 +45348,15 @@
       "promptPreview": "You may have to fill out the ______ when you check in?",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
+      "conceptId": "tourism-hospitality-e73b89e1b8",
+      "conceptLabel": "4-4 A 客務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "You may have to fill out the ______ when you check in? registration card Key card arriving list rooming list 105 年第 9 題 國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷 國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "You may have to fill out the ______ when you check in? registration card Key card arriving list rooming list A 國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部"
     },
     {
       "id": "teacher-exam-105-06-q010-5db1d8f621",
@@ -46862,7 +46777,7 @@
       "schoolName": "教育部受託辦理 106 學年度公立高級中等學校教師甄選",
       "questionNumber": 1,
       "questionType": "fill-in",
-      "promptPreview": "根據行政院主計總處中華民國行業標準分類，請寫出該大類其英文字母代碼。(例如：飛牛牧場：A 大類；101觀景台：  R 大類)\n長榮航空：___(1)___ 大類\n欣欣客運：___(2)____ 大類\n台北君悅酒店：___(3)____ 大類",
+      "promptPreview": "根據行政院主計總處中華民國行業標準分類，請寫出該大類其英文字母代碼。(例如：飛牛牧場：A 大類；101觀景台：  S 大類)\n長榮航空：___(1)___ 大類\n欣欣客運：___(2)____ 大類\n台北君悅酒店：___(3)____ 大類\n鼎王麻辣鍋：___(4)____大類\n雄獅旅行社：___(5)____大類\n樹也民宿：___(6)____大類\n麗寶樂園：___(7)____大類\n7-11超商：___(8)____大類\n福隆海水浴場：___(9)____大類\n故宮博物館：___(10)____大類",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)]",
@@ -46873,7 +46788,7 @@
       "flags": [
         "human-reviewed-1150730"
       ],
-      "searchText": "根據行政院主計總處中華民國行業標準分類,請寫出該大類其英文字母代碼。(例如:飛牛牧場:A 大類;101觀景台: R 大類)\n長榮航空:___(1)___ 大類\n欣欣客運:___(2)____ 大類\n台北君悅酒店:___(3)____ 大類\n鼎王麻辣鍋:___(4)____大類\n雄獅旅行社:___(5)____大類\n樹也民宿:___(6)____大類\n麗寶樂園:___(7)____大類\n7-11超商:___(8)____大類\n福隆海水浴場:___(9)____大類\n故宮博物館:___(10)____大類 106 年第 1 題 二、填充題(每格 1.5 分,共 18 分) 教育部受託辦理 106 學年度公立高級中等學校教師甄選 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)"
+      "searchText": "根據行政院主計總處中華民國行業標準分類,請寫出該大類其英文字母代碼。(例如:飛牛牧場:A 大類;101觀景台: S 大類) 長榮航空:___(1)___ 大類 欣欣客運:___(2)____ 大類 台北君悅酒店:___(3)____ 大類 鼎王麻辣鍋:___(4)____大類 雄獅旅行社:___(5)____大類 樹也民宿:___(6)____大類 麗寶樂園:___(7)____大類 7-11超商:___(8)____大類 福隆海水浴場:___(9)____大類 故宮博物館:___(10)____大類 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類) 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [旅行業的類別與旅行社的種類]」。標準答案為「(1)H、(2)H、(3)I、(4)I、(5)O、(6)I、(7)S、(8)G、(9)S、(10)S」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第三節旅行業的類別與旅行社的種類(頁 372);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅行業的類別與旅行社的種類(頁 372);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅行業的類別與旅行社的種類(頁 372);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅行業的類別與旅行社的種類(頁 372);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅行業的類別與旅行社的種類(頁 372);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅行業的類別與旅行社的種類(頁 372);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。"
     },
     {
       "id": "teacher-exam-106-07-q002-d3b0b9c477",
@@ -47716,7 +47631,7 @@
       "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選",
       "questionNumber": 7,
       "questionType": "essay",
-      "promptPreview": "Facilitating Goods：輔助性商品",
+      "promptPreview": "Facilitating Goods：促成商品",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH3 餐飲業] - [3-1 C 餐飲商品]",
@@ -47727,7 +47642,7 @@
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "Facilitating Goods:輔助性商品 106 年第 7 題 第三部分:請將以下專業名詞翻譯成中文(每題 1 分,共 20 分) 國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-1 C 餐飲商品] 3-1 C 餐飲商品"
+      "searchText": "Facilitating Goods：促成商品 國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-1 C 餐飲商品] 3-1 C 餐飲商品"
     },
     {
       "id": "teacher-exam-106-07-q008-555276a9b6",
@@ -47742,15 +47657,15 @@
       "promptPreview": "Efficiency Apartment：附廚房小公寓 / 效能公寓",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-3 G 客房分類]",
-      "conceptId": "tourism-hospitality-71f89ec13c",
-      "conceptLabel": "4-3 G 客房分類",
+      "unit": "[CH4 旅宿業] - [4-3 D 各式旅館]",
+      "conceptId": "tourism-hospitality-82d3167907",
+      "conceptLabel": "4-3 D 各式旅館",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "Efficiency Apartment:附廚房小公寓 / 效能公寓 106 年第 8 題 第三部分:請將以下專業名詞翻譯成中文(每題 1 分,共 20 分) 國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選 觀光餐旅業導論 [CH4 旅宿業] - [4-3 G 客房分類] 4-3 G 客房分類"
+      "searchText": "Efficiency Apartment：附廚房小公寓 / 效能公寓 國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館"
     },
     {
       "id": "teacher-exam-106-07-q009-951f905d4f",
@@ -47952,15 +47867,15 @@
       "promptPreview": "Floatel：水上旅館 / 船屋旅館",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-3 G 客房分類]",
-      "conceptId": "tourism-hospitality-71f89ec13c",
-      "conceptLabel": "4-3 G 客房分類",
+      "unit": "[CH4 旅宿業] - [4-3 D 各式旅館]",
+      "conceptId": "tourism-hospitality-82d3167907",
+      "conceptLabel": "4-3 D 各式旅館",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "Floatel:水上旅館 / 船屋旅館 106 年第 17 題 未標示試卷 國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選 觀光餐旅業導論 [CH4 旅宿業] - [4-3 G 客房分類] 4-3 G 客房分類"
+      "searchText": "Floatel：水上旅館 / 船屋旅館 國立高雄餐旅大學附屬餐旅高級中等學校 106 學年度教師甄選 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館"
     },
     {
       "id": "teacher-exam-106-07-q018-c25bdb9a08",
@@ -50587,15 +50502,15 @@
       "promptPreview": "關於住客服務，下列敘述何者有誤？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "關於住客服務,下列敘述何者有誤? Bunk Bed Service 提供 6 歲以下嬰幼兒使用,一般是免費提供。 Baby Sitter Service 屬房務部住客服務,保姆一次最多可照顧兩位幼童。 Valet Service 房客如未填 Laundry List,房務員不可收洗衣物。 Butler Service 工作包括 Unpacking Service、Laying Out Clothes。 106 年第 5 題 未標示試卷 高中部觀光科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "關於住客服務，下列敘述何者有誤？ Bunk Bed Service 提供 6 歲以下嬰幼兒使用，一般是免費提供。 Baby Sitter Service 屬房務部住客服務，保姆一次最多可照顧兩位幼童。 Valet Service 房客如未填 Laundry List，房務員不可收洗衣物。 Butler Service 工作包括 Unpacking Service、Laying Out Clothes。 A 高中部觀光科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-106-07-q006-ead76309a8",
@@ -52136,15 +52051,15 @@
       "promptPreview": "在一般住客客房服務中，請問以下之敘述，何者為正確？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "在一般住客客房服務中,請問以下之敘述,何者為正確? Baby-sitter Service 是針對六歲以下的嬰幼兒 Loaned Item Service 一般是免費的 Extra Bed Service 一般以一床為限 Baby Cot Service 一般是付費的。 107 年第 40 題 未標示試卷 未標示學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "在一般住客客房服務中，請問以下之敘述，何者為正確？ Baby-sitter Service 是針對六歲以下的嬰幼兒 Loaned Item Service 一般是免費的 Extra Bed Service 一般以一床為限 Baby Cot Service 一般是付費的。 B C 未標示學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-107-08-q001-be850fbc95",
@@ -55408,15 +55323,15 @@
       "promptPreview": "在一般飯店針對住客所提供之服務中，住客借用物品為常提供服務之一，請問其名稱為：",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "在一般飯店針對住客所提供之服務中,住客借用物品為常提供服務之一,請問其名稱為: Lost and Found Service Butler Service Message Service Loaned Item Service 108 年第 1 題 第一部份:選擇題(共計30分) 高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "在一般飯店針對住客所提供之服務中，住客借用物品為常提供服務之一，請問其名稱為： Lost and Found Service Butler Service Message Service Loaned Item Service D 高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-108-09-q002-f0555483ce",
@@ -55523,15 +55438,15 @@
       "promptPreview": "請問在飯店所提供的 Extra Bed Service中，下列何者屬之？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "請問在飯店所提供的 Extra Bed Service中,下列何者屬之? Turn-down Service Baby Cot Service Room Service Laundry & Pressing Service 108 年第 6 題 第一部份:選擇題(共計30分) 高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "請問在飯店所提供的 Extra Bed Service中，下列何者屬之？ Turn-down Service Baby Cot Service Room Service Laundry & Pressing Service B 高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-108-09-q007-512ee34e71",
@@ -57188,15 +57103,15 @@
       "promptPreview": "Molecular gastronomy：分子食物",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展]",
-      "conceptId": "tourism-hospitality-7c4ea7284e",
-      "conceptLabel": "3-2 F 台灣─餐飲業的發展",
+      "unit": "[CH3 餐飲業] - [3-2 A 外國─餐飲業的發展]",
+      "conceptId": "tourism-hospitality-040675bef2",
+      "conceptLabel": "3-2 A 外國─餐飲業的發展",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150805-daytime"
       ],
-      "searchText": "Molecular gastronomy:分子食物 109 年第 9 題 二、解釋名詞(共10題,每題3分) 國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告 觀光餐旅業導論 [CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展] 3-2 F 台灣─餐飲業的發展"
+      "searchText": "Molecular gastronomy：分子食物 國立羅東高級商業職業學校 109 學年度教師甄選餐飲管理科筆試試題測驗題答案公告 觀光餐旅業導論 [CH3 餐飲業] - [3-2 A 外國─餐飲業的發展] 3-2 A 外國─餐飲業的發展"
     },
     {
       "id": "teacher-exam-109-10-q010-af405db848",
@@ -57289,7 +57204,7 @@
       "flags": [
         "human-reviewed-1150730"
       ],
-      "searchText": "行政院主計處的行業標準分類中「旅行業」屬於何項分類中? 第 R 大類-藝術、娛樂及休閒服務業 第 I 大類-住宿及餐飲業 第 N 大類-支援服務業 第 H 大類-運輸、倉儲業。 109 年第 1 題 一、選擇題,每題1分,共22分。 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)"
+      "searchText": "行政院主計處的行業標準分類中「旅行業」屬於何項分類中? 第 S 大類-藝術、娛樂及休閒服務業 第 I 大類-住宿及餐飲業 第 O 大類-支援服務業 第 H 大類-運輸、倉儲業。 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類) 本題依題幹與選項判斷,核心考點落在「[第三章 餐飲業] - [第三章 餐飲業]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。"
     },
     {
       "id": "teacher-exam-109-10-q002-94346f6aae",
@@ -57404,7 +57319,7 @@
       "flags": [
         "human-reviewed-1150801-evening"
       ],
-      "searchText": "請問製作一盤「青椒肉片」使用豬肉片0.3斤,青椒0.2斤,這盤菜成本應為多少? 第 6、7 題之題組\n有一家餐廳的進貨量是青椒100斤,每斤40元,去蒂後、淨得青椒80斤。豬肉50斤,每斤90元,去肥油後,淨得瘦豬肉45斤。請回答下列問題: 25 30 35 40元。 109 年第 6 題(成本計算題組) 一、選擇題,每題1分,共22分。 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 觀光餐旅業導論 [CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)] 3-5 G 餐飲成本公式及計算(計算題)"
+      "searchText": "請問製作一盤「青椒肉片」使用豬肉片0.3斤，青椒0.2斤，這盤菜成本應為多少？ 25 30 35 40元。 D 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 觀光餐旅業導論 [CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)] 3-5 G 餐飲成本公式及計算(計算題)"
     },
     {
       "id": "teacher-exam-109-10-q007-cost-c4d13f0d8b",
@@ -57427,7 +57342,7 @@
       "flags": [
         "human-reviewed-1150801-evening"
       ],
-      "searchText": "假設這一盤菜的成本率設定為40%,請問這盤菜的售價應訂為? 第 6、7 題之題組\n有一家餐廳的進貨量是青椒100斤,每斤40元,去蒂後、淨得青椒80斤。豬肉50斤,每斤90元,去肥油後,淨得瘦豬肉45斤。請回答下列問題: 80 100 120 150元。 109 年第 7 題(成本計算題組) 一、選擇題,每題1分,共22分。 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 觀光餐旅業導論 [CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)] 3-5 G 餐飲成本公式及計算(計算題)"
+      "searchText": "假設這一盤菜的成本率設定為40%，請問這盤菜的售價應訂為？ 80 100 120 150元。 B 國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷 觀光餐旅業導論 [CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)] 3-5 G 餐飲成本公式及計算(計算題)"
     },
     {
       "id": "teacher-exam-109-10-q008-b9b4a46edc",
@@ -58413,7 +58328,7 @@
       "schoolName": "高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
       "questionNumber": 4,
       "questionType": "essay",
-      "promptPreview": "請說明下列四種餐旅業特性的意義及內涵： (1) Heterogeneity (2) Inseparability (3) Perishability (4) Sensitive",
+      "promptPreview": "請說明下列四種餐旅業特性的意義及內涵：\n(1) Heterogeneity (2) Inseparability (3) Perishability (4) Sensitive",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
@@ -58424,7 +58339,7 @@
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "請說明下列四種餐旅業特性的意義及內涵: (1) Heterogeneity (2) Inseparability (3) Perishability (4) Sensitive 109 年第 4 題 三、問答題(每題10分、共4題、共計40分) 高雄市109學年度市立高級中等學校聯合教師甄選觀光事業科試題卷 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
+      "searchText": "請說明下列四種餐旅業特性的意義及內涵: (1) Heterogeneity (2) Inseparability (3) Perishability (4) Sensitive 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [觀光餐旅業的特性]」。標準答案為「(1)H、(2)H、(3)I、(4)I、(5)N、(6)I、(7)R、(8)G、(9)R、(10)R」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第三節觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的特性(頁 24);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。"
     },
     {
       "id": "teacher-exam-109-10-q001-9521e69f3d",
@@ -58530,18 +58445,18 @@
       "questionNumber": 5,
       "questionType": "essay",
       "promptPreview": "Partition",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[3-4 餐飲業的組織與部門] - [3-4 A1餐飲業的組織─組織設計原則（工作設計）]",
-      "conceptId": "tourism-hospitality-8c93c51d3e",
-      "conceptLabel": "3-4 A1餐飲業的組織─組織設計原則（工作設計）",
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH2 餐廳設備與器具] - [2-1 G 餐廳設備]",
+      "conceptId": "foodservice-476779ffa4",
+      "conceptLabel": "2-1 G 餐廳設備",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-auto-high",
         "manual-reviewed-1150802-day"
       ],
-      "searchText": "Partition 109 年第 5 題 一、名詞解釋(每題3分,共30分) 國立頭城高級家事商業職業學校 109 學年度第 1 次教師甄選觀光事業科題目卷 觀光餐旅業導論 [3-4 餐飲業的組織與部門] - [3-4 A1餐飲業的組織─組織設計原則(工作設計)] 3-4 A1餐飲業的組織─組織設計原則(工作設計)"
+      "searchText": "Partition 國立頭城高級家事商業職業學校 109 學年度第 1 次教師甄選觀光事業科題目卷 餐飲服務技術 [CH2 餐廳設備與器具] - [2-1 G 餐廳設備] 2-1 G 餐廳設備"
     },
     {
       "id": "teacher-exam-109-10-q006-20fdfd97cf",
@@ -59205,15 +59120,15 @@
       "promptPreview": "許多餐廳透過網路邀請顧客在網路上留言，用消費時的好評價來換取價錢折扣或贈送餐點，請問這是餐飲業的哪一項銷售特性？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-dda1813952",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "許多餐廳透過網路邀請顧客在網路上留言,用消費時的好評價來換取價錢折扣或贈送餐點,請問這是餐飲業的哪一項銷售特性? 易變性 同時性 異質性 受時間限制性。 110 年第 16 題 未標示試卷 未標示學校 觀光餐旅業導論 [CH3 餐飲業] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "許多餐廳透過網路邀請顧客在網路上留言，用消費時的好評價來換取價錢折扣或贈送餐點，請問這是餐飲業的哪一項銷售特性？ 易變性 同時性 異質性 受時間限制性。 A 未標示學校 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-110-11-q017-3b2522bb27",
@@ -59760,15 +59675,15 @@
       "promptPreview": "依據台灣旅館星級評鑑，五星級為(1)751分以上、卓越五星為(2)851分以上。",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)]",
-      "conceptId": "tourism-hospitality-3e72e549aa",
-      "conceptLabel": "4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)",
+      "unit": "[時事(法規、時事、政策、標章)] - [A15星級旅館評鑑作業要點]",
+      "conceptId": "tourism-hospitality-593857adf3",
+      "conceptLabel": "A15星級旅館評鑑作業要點",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150731-afternoon"
       ],
-      "searchText": "依據台灣旅館星級評鑑,五星級為(1)751分以上、卓越五星為(2)851分以上。 110 年第 5 題 一、填充題(每格2分,共38分) 未標示學校 觀光餐旅業導論 [CH4 旅宿業] - [4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)] 4-3 E 各國旅館等級評鑑制度(台灣參照A15星級旅館評鑑作業要點)"
+      "searchText": "依據台灣旅館星級評鑑，五星級為(1)751分以上、卓越五星為(2)851分以上。 未標示學校 觀光餐旅業導論 [時事(法規、時事、政策、標章)] - [A15星級旅館評鑑作業要點] A15星級旅館評鑑作業要點"
     },
     {
       "id": "teacher-exam-110-11-q006-20123895b7",
@@ -60848,7 +60763,7 @@
       "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
       "questionNumber": 1,
       "questionType": "term-explanation",
-      "promptPreview": "111-1Turnover Rate（翻桌率／週轉率）<BR>\n答：指餐飲場所在特定營業時間內，桌子或座位被重複使用的次數，是用以評估餐廳營運效率與獲利能力的重要指標。\n111-2. 高麗炸 <BR>\n答：中菜烹調技法之一，將食材裹上以蛋白",
+      "promptPreview": "111-1Turnover Rate（翻桌率／週轉率）<BR>\n答：指餐飲場所在特定營業時間內，桌子或座位被重複使用的次數，是用以評估餐廳營運效率與獲利能力的重要指標。",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)]",
@@ -60860,7 +60775,7 @@
         "human-reviewed-1150731-morning",
         "manual-term-explanation-fix-111"
       ],
-      "searchText": "111-1Turnover Rate(翻桌率/週轉率)<BR>\n答:指餐飲場所在特定營業時間內,桌子或座位被重複使用的次數,是用以評估餐廳營運效率與獲利能力的重要指標。\n111-2. 高麗炸 <BR>\n答:中菜烹調技法之一,將食材裹上以蛋白打發成之雪泡糊(或蛋糊),入溫油中炸至膨鬆酥脆、色澤潔白如雪的烹調手法。\n3. Terroir(風土)<BR>\n答:法文原意,指影響農作物(如葡萄)風味的綜合自然環境因素,包含土壤、氣候、地形、日照及傳統人文技術等。 111 年第 1 題 二、解釋名詞(每題 3 分,共 9 分) 第一部分:教育部受託辦理 111 學年度公立高級中等學校教師甄選(餐飲管理科/觀光事業科試題) 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)"
+      "searchText": "111-1Turnover Rate（翻桌率／週轉率）<BR>\n答：指餐飲場所在特定營業時間內，桌子或座位被重複使用的次數，是用以評估餐廳營運效率與獲利能力的重要指標。 第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題） 觀光餐旅業導論 [CH3 餐飲業] - [3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)] 3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate)"
     },
     {
       "id": "teacher-exam-111-national-fill-q005-champagne-grapes",
@@ -60923,19 +60838,19 @@
       "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
       "questionNumber": 2,
       "questionType": "short-answer",
-      "promptPreview": "111-2成為一個負責任之永續旅遊者，從事登山旅遊時須瞭解「無痕山林」（LNT）概念，請問何謂無痕山林之七大行動準則？\n\n答：(1) 事前規劃與準備、(2) 在可承受地點宿營與活動、(3) 適當處理排泄物與垃圾、(4) 保持環境原貌不破壞、",
+      "promptPreview": "111-2成為一個負責任之永續旅遊者，從事登山旅遊時須瞭解「無痕山林」（LNT）概念，請問何謂無痕山林之七大行動準則？\n\n答：(1) 事前規劃與準備、(2) 在可承受地點宿營與活動、(3) 適當處理排泄物與垃圾、(4) 保持環境原貌不破壞、(5) 降低用火衝擊、(6) 尊重野生動植物、(7) 考量其他使用者。",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區]",
-      "conceptId": "tourism-hospitality-5ca0b17a43",
-      "conceptLabel": "1-5 B1國家級風景特定區",
+      "unit": "[CH5 旅行業] - [5-1 E 觀光種類]",
+      "conceptId": "tourism-hospitality-f0f664d326",
+      "conceptLabel": "5-1 E 觀光種類",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-auto-high",
         "manual-short-answer-fix-111"
       ],
-      "searchText": "111-2成為一個負責任之永續旅遊者,從事登山旅遊時須瞭解「無痕山林」(LNT)概念,請問何謂無痕山林之七大行動準則?\n\n答:(1) 事前規劃與準備、(2) 在可承受地點宿營與活動、(3) 適當處理排泄物與垃圾、(4) 保持環境原貌不破壞、(5) 降低用火衝擊、(6) 尊重野生動植物、(7) 考量其他使用者。 111 年第 2 題 三、問答題(每題 5 分,共 20 分) 第一部分:教育部受託辦理 111 學年度公立高級中等學校教師甄選(餐飲管理科/觀光事業科試題) 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-5 B1國家級風景特定區] 1-5 B1國家級風景特定區"
+      "searchText": "111-2成為一個負責任之永續旅遊者，從事登山旅遊時須瞭解「無痕山林」（LNT）概念，請問何謂無痕山林之七大行動準則？ 答：(1) 事前規劃與準備、(2) 在可承受地點宿營與活動、(3) 適當處理排泄物與垃圾、(4) 保持環境原貌不破壞、(5) 降低用火衝擊、(6) 尊重野生動植物、(7) 考量其他使用者。 觀光餐旅業導論 [CH5 旅行業] - [5-1 E 觀光種類] 5-1 E 觀光種類 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。"
     },
     {
       "id": "teacher-exam-111-12-q003-85112c724b",
@@ -61255,15 +61170,15 @@
       "promptPreview": "上述內容中所提的「Know-how」是指連鎖餐廳經營的：",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)]",
+      "conceptId": "tourism-hospitality-5a39e78564",
+      "conceptLabel": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-corrected-2026-07-31"
       ],
-      "searchText": "上述內容中所提的「Know-how」是指連鎖餐廳經營的: (閱讀下文,回答第 11-15 題)\n全家國際餐飲旗下有三個餐飲品牌:「沃克牛排」、「大戶屋」及「bb.q CHICKEN」,運用 FamilyMart 累積的經營 Know-how 和資源,開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌,讓消費者在外食有較多且安心的選擇。 標準作業流程 加盟方式 顧客管理 專業知識 111 全國第 11 題 一、單選題(每題 1 分,共 40 分) 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "上述內容中所提的「Know-how」是指連鎖餐廳經營的： 標準作業流程 加盟方式 顧客管理 專業知識 D 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)] 3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)"
     },
     {
       "id": "teacher-exam-111-12-q012-familymart-group",
@@ -61278,15 +61193,15 @@
       "promptPreview": "下列何行業非觀光餐旅業的範疇？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-1 A 定義]",
+      "conceptId": "tourism-hospitality-f5ef069148",
+      "conceptLabel": "1-1 A 定義",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-corrected-2026-07-31"
       ],
-      "searchText": "下列何行業非觀光餐旅業的範疇? (閱讀下文,回答第 11-15 題)\n全家國際餐飲旗下有三個餐飲品牌:「沃克牛排」、「大戶屋」及「bb.q CHICKEN」,運用 FamilyMart 累積的經營 Know-how 和資源,開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌,讓消費者在外食有較多且安心的選擇。 Disneyland Park bb.q CHICKEN Family Mart World Gym 111 全國第 12 題 一、單選題(每題 1 分,共 40 分) 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "下列何行業非觀光餐旅業的範疇？ Disneyland Park bb.q CHICKEN Family Mart World Gym C 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-1 A 定義] 1-1 A 定義"
     },
     {
       "id": "teacher-exam-111-12-q013-familymart-group",
@@ -61301,15 +61216,15 @@
       "promptPreview": "全家國際餐飲導入「健康」「無國界」的餐飲品牌提供給台灣的消費者，這是企業經營的哪種導向？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH7 觀光餐旅行銷] - [7-2 C 行銷發展]",
+      "conceptId": "tourism-hospitality-34e6921f2c",
+      "conceptLabel": "7-2 C 行銷發展",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-corrected-2026-07-31"
       ],
-      "searchText": "全家國際餐飲導入「健康」「無國界」的餐飲品牌提供給台灣的消費者,這是企業經營的哪種導向? (閱讀下文,回答第 11-15 題)\n全家國際餐飲旗下有三個餐飲品牌:「沃克牛排」、「大戶屋」及「bb.q CHICKEN」,運用 FamilyMart 累積的經營 Know-how 和資源,開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌,讓消費者在外食有較多且安心的選擇。 社會行銷導向 行銷導向 銷售導向 生產導向 111 全國第 13 題 一、單選題(每題 1 分,共 40 分) 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "全家國際餐飲導入「健康」「無國界」的餐飲品牌提供給台灣的消費者，這是企業經營的哪種導向？ 社會行銷導向 行銷導向 銷售導向 生產導向 A 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH7 觀光餐旅行銷] - [7-2 C 行銷發展] 7-2 C 行銷發展"
     },
     {
       "id": "teacher-exam-111-12-q014-familymart-group",
@@ -61324,15 +61239,15 @@
       "promptPreview": "製作沃克牛排的經典菜 Ribeye Top Cap Steak（老饕牛排），為下列何內場廚師的職責？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
+      "conceptId": "tourism-hospitality-04466494a5",
+      "conceptLabel": "3-5 D 西餐烹調法",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-corrected-2026-07-31"
       ],
-      "searchText": "製作沃克牛排的經典菜 Ribeye Top Cap Steak(老饕牛排),為下列何內場廚師的職責? (閱讀下文,回答第 11-15 題)\n全家國際餐飲旗下有三個餐飲品牌:「沃克牛排」、「大戶屋」及「bb.q CHICKEN」,運用 FamilyMart 累積的經營 Know-how 和資源,開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌,讓消費者在外食有較多且安心的選擇。 Rotisseur Grillardin Patissier Boulanger 111 全國第 14 題 一、單選題(每題 1 分,共 40 分) 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "製作沃克牛排的經典菜 Ribeye Top Cap Steak（老饕牛排），為下列何內場廚師的職責？ Rotisseur Grillardin Patissier Boulanger B 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法"
     },
     {
       "id": "teacher-exam-111-12-q015-familymart-group",
@@ -61347,15 +61262,15 @@
       "promptPreview": "在「大戶屋」的菜單中，應該看不到下列哪道菜？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH3 餐飲業] - [3-2 B 外國─各國代表菜餚]",
+      "conceptId": "tourism-hospitality-2c5387446e",
+      "conceptLabel": "3-2 B 外國─各國代表菜餚",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-corrected-2026-07-31"
       ],
-      "searchText": "在「大戶屋」的菜單中,應該看不到下列哪道菜? (閱讀下文,回答第 11-15 題)\n全家國際餐飲旗下有三個餐飲品牌:「沃克牛排」、「大戶屋」及「bb.q CHICKEN」,運用 FamilyMart 累積的經營 Know-how 和資源,開拓台灣餐飲版圖。未來將導入更多「健康」、「無國界」的餐飲品牌,讓消費者在外食有較多且安心的選擇。 蔬菜拌飯 親子丼飯 炸里肌肉排飯 鰻魚蓋飯 111 全國第 15 題 一、單選題(每題 1 分,共 40 分) 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "在「大戶屋」的菜單中，應該看不到下列哪道菜？ 蔬菜拌飯 親子丼飯 炸里肌肉排飯 鰻魚蓋飯 A 教育部受託辦理公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 B 外國─各國代表菜餚] 3-2 B 外國─各國代表菜餚"
     },
     {
       "id": "teacher-exam-111-12-q016-e354e42297",
@@ -62295,7 +62210,7 @@
       "schoolName": "第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試）",
       "questionNumber": 6,
       "questionType": "term-explanation",
-      "promptPreview": "111-6Inventory Turnover <BR>\n答：存貨週轉率。",
+      "promptPreview": "111-6.Inventory Turnover <BR>\n答：存貨週轉率。",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH3 餐飲業] - [3-5 I 物料管理]",
@@ -62307,7 +62222,7 @@
         "manual-term-explanation-fix-111",
         "human-reviewed-1150807"
       ],
-      "searchText": "111-6Inventory Turnover <BR>\n答:存貨週轉率。 111 年第 6 題 第二部分:解釋名詞(共 10 分) 第二部分:國立關西高級中學 111 學年度第 1 次教師甄選題目卷(餐飲管理科筆試) 觀光餐旅業導論 [CH3 餐飲業] - [3-5 I 物料管理] 3-5 I 物料管理"
+      "searchText": "111-6.Inventory Turnover <BR>\n答：存貨週轉率。 第二部分：國立關西高級中學 111 學年度第 1 次教師甄選題目卷（餐飲管理科筆試） 觀光餐旅業導論 [CH3 餐飲業] - [3-5 I 物料管理] 3-5 I 物料管理"
     },
     {
       "id": "teacher-exam-111-12-q007-103e9bed41",
@@ -62636,15 +62551,15 @@
       "promptPreview": "「龍岡米干節」為桃園市政府自民國 100 年起辦理之在地特色活動，請問「米干」為哪一地區之家常料理？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
+      "conceptId": "tourism-hospitality-c981d95e0a",
+      "conceptLabel": "3-2 E 中國─菜系",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150805-daytime"
       ],
-      "searchText": "「龍岡米干節」為桃園市政府自民國 100 年起辦理之在地特色活動,請問「米干」為哪一地區之家常料理? 雲南 河南 湖南 華南 山東 111 年第 5 題 未標示試卷 桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題(餐飲管理科) 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "「龍岡米干節」為桃園市政府自民國 100 年起辦理之在地特色活動，請問「米干」為哪一地區之家常料理？ 雲南 河南 湖南 華南 山東 A 桃園市立高級中等學校 111 學年度教師聯合甄選筆試試題（餐飲管理科） 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系"
     },
     {
       "id": "teacher-exam-111-taoyuan-fill-q003-first-chain-hotel",
@@ -64667,16 +64582,16 @@
       "promptPreview": "下列有關旅館「入住登記的準備工作」之業務內容，何者有誤？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
+      "conceptId": "tourism-hospitality-e73b89e1b8",
+      "conceptLabel": "4-4 A 客務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-auto-medium",
         "manual-reviewed-1150802-day"
       ],
-      "searchText": "下列有關旅館「入住登記的準備工作」之業務內容,何者有誤? 入住登記卡 紀錄分配客房 建立客人帳單 收取預付金並開立發票 111 年第 37 題 未標示試卷 新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "下列有關旅館「入住登記的準備工作」之業務內容，何者有誤？ 入住登記卡 紀錄分配客房 建立客人帳單 收取預付金並開立發票 D 新北市公立高級中等學校 111 學年度教師聯合甄選餐飲管理科試題 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部"
     },
     {
       "id": "teacher-exam-111-12-q038-d7b47f7867",
@@ -65141,7 +65056,7 @@
       "flags": [
         "human-reviewed-1150730"
       ],
-      "searchText": "近年來臺灣戶外休閒活動盛行,綜藝實境節目《光露營就很忙了》搭上流行風潮,記錄女明星露營遇到的有趣事情,請問「露營」為行政院主計處行業標準分類中的哪一類別? R大類-娛樂及休閒服務業 R大類-運動服務業 I大類-其他住宿業 I大類-短期住宿業。 112 年第 4 題 第一部分:選擇題(共40分) 第一部分:教育部受託辦理 112 學年度公立高級中等學校教師甄選 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)"
+      "searchText": "近年來臺灣戶外休閒活動盛行,綜藝實境節目《光露營就很忙了》搭上流行風潮,記錄女明星露營遇到的有趣事情,請問「露營」為行政院主計處行業標準分類中的哪一類別? S大類-娛樂及休閒服務業 S大類-運動服務業 I大類-其他住宿業 I大類-短期住宿業。 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類) 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [旅宿業的定義與特性]」。標準答案為「C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一節旅宿業的定義與特性;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅宿業的定義與特性;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅宿業的定義與特性;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅宿業的定義與特性;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅宿業的定義與特性;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 C:此選項符合題幹所問的正確答案「C」。 D:此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅宿業的定義與特性;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。 此選項符合題幹所問的正確答案「C」。 此選項不符合題幹所問的正確答案;本題答案為「C」,需回到題幹關鍵詞與教材小節判斷。"
     },
     {
       "id": "teacher-exam-112-13-q005-bb014b78f3",
@@ -67860,18 +67775,18 @@
       "schoolName": "113年公立高級中等學校教師甄選",
       "questionNumber": 20,
       "questionType": "single-choice",
-      "promptPreview": "星野集團旗下「虹夕諾雅谷關」度假酒店，位於臺中的雄偉群山環繞的山谷高地占地 7,500 坪的園區，為了營造遠離塵囂的感受，在園區內建造「水之庭園」包括64 棵臺灣香杉、9 棵臺灣二葉松，號稱奢華指數破表。有網友表示： 「入住之後映入眼前景色",
+      "promptPreview": "星野集團旗下「虹夕諾雅谷關」度假酒店，位於臺中的雄偉群山環繞的山谷高地占地 7,500 坪的園區，為了營造遠離塵囂的感受，在園區內建造「水之庭園」包括64 棵臺灣香杉、9 棵臺灣二葉松，號稱奢華指數破表。有網友表示： 「入住之後映入眼前景色有馬上一秒到日本的渡假氛圍」 ，請問以上敘述包含了那些商品特性及要素？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 F 餐飲業的定義與特性(綜合題)]",
-      "conceptId": "tourism-hospitality-cb0f3de40d",
-      "conceptLabel": "3-2 F 餐飲業的定義與特性(綜合題)",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "星野集團旗下「虹夕諾雅谷關」度假酒店,位於臺中的雄偉群山環繞的山谷高地占地 7,500 坪的園區,為了營造遠離塵囂的感受,在園區內建造「水之庭園」包括64 棵臺灣香杉、9 棵臺灣二葉松,號稱奢華指數破表。有網友表示: 「入住之後映入眼前景色有馬上一秒到日本的渡假氛圍」 ,請問以上敘述包含了那些商品特性及要素? Implicit Service/Multiplicity Explicit Service/Multiplicity Implicit Service/ Capital Intensive Explicit Service/Capital Intensive 113 年第 20 題 113年公立高級中等學校教師甄選餐飲管理科/觀光事業科試題 113年公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 F 餐飲業的定義與特性(綜合題)] 3-2 F 餐飲業的定義與特性(綜合題)"
+      "searchText": "星野集團旗下「虹夕諾雅谷關」度假酒店，位於臺中的雄偉群山環繞的山谷高地占地 7,500 坪的園區，為了營造遠離塵囂的感受，在園區內建造「水之庭園」包括64 棵臺灣香杉、9 棵臺灣二葉松，號稱奢華指數破表。有網友表示： 「入住之後映入眼前景色有馬上一秒到日本的渡假氛圍」 ，請問以上敘述包含了那些商品特性及要素？ Implicit Service/Multiplicity Explicit Service/Multiplicity Implicit Service/ Capital Intensive Explicit Service/Capital Intensive D 113年公立高級中等學校教師甄選 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-113-14-q021-d74f9fadf5",
@@ -68717,15 +68632,15 @@
       "promptPreview": "如果房客致電櫃檯抱怨隔壁客房內嬉鬧噪音太大，櫃檯接待員在第一時間應請下列何者去暸解勸說？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-evening"
       ],
-      "searchText": "如果房客致電櫃檯抱怨隔壁客房內嬉鬧噪音太大,櫃檯接待員在第一時間應請下列何者去暸解勸說? General Manager Floor Captain Receptionist Room Service Waiter 113 年第 8 題 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "如果房客致電櫃檯抱怨隔壁客房內嬉鬧噪音太大，櫃檯接待員在第一時間應請下列何者去暸解勸說？ General Manager Floor Captain Receptionist Room Service Waiter B 新北市公立高級中等學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-113-14-q009-7a291b4e7b",
@@ -68786,15 +68701,15 @@
       "promptPreview": "餐飲業格局的設計，下列敘述何者錯誤？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-4 E 餐廳格局]",
-      "conceptId": "tourism-hospitality-9d8b4cc607",
-      "conceptLabel": "3-4 E 餐廳格局",
+      "unit": "[3-4 餐飲業的組織與部門] - [3-4 綜合題─餐飲業的組織與部門]",
+      "conceptId": "tourism-hospitality-18f9277664",
+      "conceptLabel": "3-4 綜合題─餐飲業的組織與部門",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-evening"
       ],
-      "searchText": "餐飲業格局的設計,下列敘述何者錯誤? 廚房設計以島嶼式排列法最為經濟方便 工作三角形是指水槽、餐廳、爐檯,其三邊長度總和愈短愈好 要保持顧客、從業人員、食材進出行動路線的順暢 理想的廚房面積與供膳場所的比例為 1:3 113 年第 11 題 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 觀光餐旅業導論 [CH3 餐飲業] - [3-4 E 餐廳格局] 3-4 E 餐廳格局"
+      "searchText": "餐飲業格局的設計，下列敘述何者錯誤？ 廚房設計以島嶼式排列法最為經濟方便 工作三角形是指水槽、餐廳、爐檯，其三邊長度總和愈短愈好 要保持顧客、從業人員、食材進出行動路線的順暢 理想的廚房面積與供膳場所的比例為 1：3 B 新北市公立高級中等學校 觀光餐旅業導論 [3-4 餐飲業的組織與部門] - [3-4 綜合題─餐飲業的組織與部門] 3-4 綜合題─餐飲業的組織與部門"
     },
     {
       "id": "teacher-exam-113-14-q012-629c186eb4",
@@ -69293,15 +69208,15 @@
       "promptPreview": "許多餐廳透過網路邀請顧客在網路上留言，用消費時的好評價來換取價錢折扣或贈送餐點，請問這是餐飲業的哪一項銷售特性？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-dda1813952",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "許多餐廳透過網路邀請顧客在網路上留言,用消費時的好評價來換取價錢折扣或贈送餐點,請問這是餐飲業的哪一項銷售特性? 受時間限制性 同時性 異質性 易變性 113 年第 33 題 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 觀光餐旅業導論 [CH3 餐飲業] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "許多餐廳透過網路邀請顧客在網路上留言，用消費時的好評價來換取價錢折扣或贈送餐點，請問這是餐飲業的哪一項銷售特性？ 受時間限制性 同時性 異質性 易變性 D 新北市公立高級中等學校 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-113-14-q034-c6456f8729",
@@ -70368,9 +70283,9 @@
       "promptPreview": "113-22. _________________________________\n113-23. _________________________________\n113-24. ____________________________",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 F2 台灣─餐飲業的發展(綠色餐飲)]",
-      "conceptId": "tourism-hospitality-4590812365",
-      "conceptLabel": "3-2 F2 台灣─餐飲業的發展(綠色餐飲)",
+      "unit": "[CH3 餐飲業] - [3-2 F1 台灣─餐飲業的發展（綠色餐飲）]",
+      "conceptId": "tourism-hospitality-871cd42b97",
+      "conceptLabel": "3-2 F1 台灣─餐飲業的發展（綠色餐飲）",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
@@ -70378,7 +70293,7 @@
         "manual-content-fix-1150801",
         "human-reviewed-1150805-daytime"
       ],
-      "searchText": "113-22. _________________________________\n113-23. _________________________________\n113-24. _________________________________\n113-25. _________________________________\n113-26. _________________________________ 第 22-26 題:台灣綠色餐飲意識趨於成熟,全民對於「綠色餐廳」不再陌生。GDG 擴大〈綠食宣言〉的影響力,提倡綠色宣言以及綠色餐廳分級制。其中的六大綠食宣言有「優先採用有機友善食材」,請寫出其他五大綠食宣言。 113 年第 22-26 題(綠色餐飲題組) 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 觀光餐旅業導論 [CH3 餐飲業] - [3-2 F2 台灣─餐飲業的發展(綠色餐飲)] 3-2 F2 台灣─餐飲業的發展(綠色餐飲)"
+      "searchText": "113-22. _________________________________\n113-23. _________________________________\n113-24. _________________________________\n113-25. _________________________________\n113-26. _________________________________ 第 22-26 題:台灣綠色餐飲意識趨於成熟,全民對於「綠色餐廳」不再陌生。GDG 擴大〈綠食宣言〉的影響力,提倡綠色宣言以及綠色餐廳分級制。其中的六大綠食宣言有「優先採用有機友善食材」,請寫出其他五大綠食宣言。 113 年第 22-26 題(綠色餐飲題組) 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 觀光餐旅業導論 [CH3 餐飲業] - [3-2 F1 台灣─餐飲業的發展（綠色餐飲）] 3-2 F1 台灣─餐飲業的發展（綠色餐飲）"
     },
     {
       "id": "teacher-exam-113-14-q026-597b2826c6",
@@ -70417,9 +70332,9 @@
       "promptPreview": "All the drinks in the ___________ are complimentary.",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
-      "conceptId": "tourism-hospitality-04466494a5",
-      "conceptLabel": "3-5 D 西餐烹調法",
+      "unit": "[觀光餐旅英語會話] - [C判讀]",
+      "conceptId": "tourism-hospitality-5ef8b3e9d2",
+      "conceptLabel": "C判讀",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
@@ -70428,7 +70343,7 @@
         "manual-content-fix-1150801",
         "split-fill-in-question-group"
       ],
-      "searchText": "All the drinks in the ___________ are complimentary. 第 17-18 題:Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar 113 年第 17 題(填空題組) 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法"
+      "searchText": "All the drinks in the ___________ are complimentary. minibar 新北市公立高級中等學校 觀光餐旅業導論 [觀光餐旅英語會話] - [C判讀] C判讀"
     },
     {
       "id": "teacher-exam-113-14-q018-fill-in-blank-words",
@@ -70443,9 +70358,9 @@
       "promptPreview": "Ben exchanged his US dollars for the local _________ after he arrived in Mumbai.",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-5 D 西餐烹調法]",
-      "conceptId": "tourism-hospitality-04466494a5",
-      "conceptLabel": "3-5 D 西餐烹調法",
+      "unit": "[觀光餐旅英語會話] - [C判讀]",
+      "conceptId": "tourism-hospitality-5ef8b3e9d2",
+      "conceptLabel": "C判讀",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
@@ -70454,7 +70369,7 @@
         "manual-content-fix-1150801",
         "split-fill-in-question-group"
       ],
-      "searchText": "Ben exchanged his US dollars for the local _________ after he arrived in Mumbai. 第 17-18 題:Fill in the blanks using the words provided.\n\naccess、bistro、money、path、connive、currency、minibar 113 年第 18 題(填空題組) 新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題 新北市公立高級中等學校 觀光餐旅業導論 [CH3 餐飲業] - [3-5 D 西餐烹調法] 3-5 D 西餐烹調法"
+      "searchText": "Ben exchanged his US dollars for the local _________ after he arrived in Mumbai. currency 新北市公立高級中等學校 觀光餐旅業導論 [觀光餐旅英語會話] - [C判讀] C判讀"
     },
     {
       "id": "teacher-exam-113-14-q001-02049de088",
@@ -71852,15 +71767,15 @@
       "promptPreview": "關於倉儲設計的原則，下列何者錯誤？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-4 H 倉庫]",
-      "conceptId": "tourism-hospitality-fd3a5e7152",
-      "conceptLabel": "3-4 H 倉庫",
+      "unit": "[CH3 餐飲業] - [3-5 I 物料管理]",
+      "conceptId": "tourism-hospitality-9056cc016a",
+      "conceptLabel": "3-5 I 物料管理",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "關於倉儲設計的原則,下列何者錯誤? 較常用的品項,應放置於靠近入口的地方 倉儲面積,應占餐飲場所總面積至少二分之一 乾料庫房上下及其附近,應避免熱水及蒸汽管道 庫房內的乾料耗損量,通常為儲藏物品總價值的0.5% 113 年第 20 題 國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷 國立金門高級農工職業學校 觀光餐旅業導論 [CH3 餐飲業] - [3-4 H 倉庫] 3-4 H 倉庫"
+      "searchText": "關於倉儲設計的原則，下列何者錯誤？ 較常用的品項，應放置於靠近入口的地方 倉儲面積，應占餐飲場所總面積至少二分之一 乾料庫房上下及其附近，應避免熱水及蒸汽管道 庫房內的乾料耗損量，通常為儲藏物品總價值的0.5% B 國立金門高級農工職業學校 觀光餐旅業導論 [CH3 餐飲業] - [3-5 I 物料管理] 3-5 I 物料管理"
     },
     {
       "id": "teacher-exam-113-14-q021-169af22308",
@@ -72036,15 +71951,15 @@
       "promptPreview": "旅館客人住宿登記作業，首先應填寫以下何者？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
+      "conceptId": "tourism-hospitality-e73b89e1b8",
+      "conceptLabel": "4-4 A 客務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "旅館客人住宿登記作業,首先應填寫以下何者? Registration Card Reservation Card Credit card Service Card 113 年第 28 題 國立金門高級農工職業學校113學年度第一次教師甄選餐管科試卷 國立金門高級農工職業學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "旅館客人住宿登記作業，首先應填寫以下何者？ Registration Card Reservation Card Credit card Service Card A 國立金門高級農工職業學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部"
     },
     {
       "id": "teacher-exam-113-14-q029-1aa14d27f3",
@@ -73534,18 +73449,18 @@
       "schoolName": "114年公立高級中等學校教師甄選",
       "questionNumber": 4,
       "questionType": "short-answer",
-      "promptPreview": "台灣各縣市、鄉鎮為發展當地特色，推銷農產品及塑造觀光形象，紛紛評選「三寶」做為地方特色，請寫出關廟、新竹、東港、岡山的「三寶」代表。 5.2025年台灣遊客至日本入境有了新制規定及旅遊注意事項，部分措施在2026年開始實施，請寫出日本入境通",
+      "promptPreview": "台灣各縣市、鄉鎮為發展當地特色，推銷農產品及塑造觀光形象，紛紛評選「三寶」做為地方特色，請寫出關廟、新竹、東港、岡山的「三寶」代表。 5.2025年台灣遊客至日本入境有了新制規定及旅遊注意事項，部分措施在2026年開始實施，請寫出日本入境通關新制、退稅新制及旅遊新制(含禁止事項)。",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
+      "unit": "[時事(法規、時事、政策、標章)] - [B3日本旅遊新制]",
+      "conceptId": "tourism-hospitality-62c30ad391",
+      "conceptLabel": "B3日本旅遊新制",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "台灣各縣市、鄉鎮為發展當地特色,推銷農產品及塑造觀光形象,紛紛評選「三寶」做為地方特色,請寫出關廟、新竹、東港、岡山的「三寶」代表。 5.2025年台灣遊客至日本入境有了新制規定及旅遊注意事項,部分措施在2026年開始實施,請寫出日本入境通關新制、退稅新制及旅遊新制(含禁止事項)。 114 年第 4 題 114年公立高級中等學校教師甄選觀光事業科試題 114年公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)"
+      "searchText": "台灣各縣市、鄉鎮為發展當地特色，推銷農產品及塑造觀光形象，紛紛評選「三寶」做為地方特色，請寫出關廟、新竹、東港、岡山的「三寶」代表。 5.2025年台灣遊客至日本入境有了新制規定及旅遊注意事項，部分措施在2026年開始實施，請寫出日本入境通關新制、退稅新制及旅遊新制(含禁止事項)。 114年公立高級中等學校教師甄選 觀光餐旅業導論 [時事(法規、時事、政策、標章)] - [B3日本旅遊新制] B3日本旅遊新制"
     },
     {
       "id": "teacher-exam-114-15-q006-59c22eb7b6",
@@ -74217,29 +74132,6 @@
         "human-reviewed-1150730-evening"
       ],
       "searchText": "位於馬祖北竿的「漁村風味餐館」主打紅糟雞、淡菜湯與老酒麵線等地方特色餐點,共有 60 個座位。請根據 2025 年 7 月 1 日的營運資料,計算出當日的總營收及食物成本。\n\n2025 年 7 月 1 日營運數據\n\n| 項目 | 數值 |\n| --- | --- |\n| 座位數 | 60 個 |\n| 午餐平均 turnover rate | 1.5 |\n| 晚餐平均 turnover rate | 2.5 |\n| 客平均單價 | 220 元 |\n| 飲料成本 | 20% |\n| 食物成本 | 30% |\n| 人事成本 | 30% |\n| 其他間接費用 | 20% | 總營收 42,240 元,食物成本 10,560 元 總營收 42,240 元,食物成本 15,840 元 總營收 52,800 元,食物成本 15,840 元 總營收 52,800 元,食物成本 26,400 元 114 年第 28 題 國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷 國立馬祖高級中學 觀光餐旅業導論 [CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)] 3-5 G 餐飲成本公式及計算(計算題)"
-    },
-    {
-      "id": "teacher-exam-114-15-q044-e1796365e3",
-      "sourceYear": 114,
-      "sourceLabel": "114 年第 44 題",
-      "sourceFile": "114 教師甄試題目.md",
-      "sourceLocator": "114 教師甄試題目.md#offset-13775",
-      "paperTitle": "國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷",
-      "schoolName": "國立馬祖高級中學",
-      "questionNumber": 44,
-      "questionType": "single-choice",
-      "promptPreview": "其他間接費用 45. 20%",
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)]",
-      "conceptId": "tourism-hospitality-d55f8ce9e5",
-      "conceptLabel": "3-5 G 餐飲成本公式及計算(計算題)",
-      "reviewStatus": "approved",
-      "explanationStatus": "approved",
-      "flags": [
-        "human-reviewed-1150730-evening"
-      ],
-      "searchText": "其他間接費用 45. 20% 總營收 42,240 元,食物成本 10,560 元 總營收 42,240 元,食物成本 15,840 元 總營收 52,800 元,食物成本 15,840 元 總營收 52,800 元,食物成本 26,400 元 114 年第 44 題 國立馬祖高級中學114學年度第1次正式教師甄試餐飲管理科試題卷 國立馬祖高級中學 觀光餐旅業導論 [CH3 餐飲業] - [3-5 G 餐飲成本公式及計算(計算題)] 3-5 G 餐飲成本公式及計算(計算題)"
     },
     {
       "id": "teacher-exam-114-15-q029-942e632ccf",
@@ -76685,7 +76577,7 @@
       "schoolName": "115年公立高級中等學校教師甄選",
       "questionNumber": 26,
       "questionType": "multiple-choice",
-      "promptPreview": "「2026臺灣燈會」於嘉義盛大舉行，小旺想要規劃一天燈會快閃之旅，早上他就 （甲：搭乘高鐵從臺中到嘉義） ，隨後轉乘（乙：火車抵達市區租借共享單車） ，騎車前往第一站（丙：嘉義燈會主燈區參觀燈展） ，加入人潮與主燈拍照，結束後隨即前往（丁：",
+      "promptPreview": "「2026臺灣燈會」於嘉義盛大舉行，小旺想要規劃一天燈會快閃之旅，早上他就 （甲：搭乘高鐵從臺中到嘉義） ，隨後轉乘（乙：火車抵達市區租借共享單車） ，騎車前往第一站（丙：嘉義燈會主燈區參觀燈展） ，加入人潮與主燈拍照，結束後隨即前往（丁：文化路夜市吃了火雞肉飯及豆花） ，之後返回（戊：嘉義火車站） ，搭火車前到（己：7-11買了一杯咖啡）悠閒地返回臺中。請就上述行程內有出現的行政院主計處行業分類代碼，選擇正確答案？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)]",
@@ -76696,7 +76588,7 @@
       "flags": [
         "human-reviewed-1150730"
       ],
-      "searchText": "「2026臺灣燈會」於嘉義盛大舉行,小旺想要規劃一天燈會快閃之旅,早上他就 (甲:搭乘高鐵從臺中到嘉義) ,隨後轉乘(乙:火車抵達市區租借共享單車) ,騎車前往第一站(丙:嘉義燈會主燈區參觀燈展) ,加入人潮與主燈拍照,結束後隨即前往(丁:文化路夜市吃了火雞肉飯及豆花) ,之後返回(戊:嘉義火車站) ,搭火車前到(己:7-11買了一杯咖啡)悠閒地返回臺中。請就上述行程內有出現的行政院主計處行業分類代碼,選擇正確答案? 甲─H、丙─N、丁─G。 乙─N、戊─H、己─G。 甲─H、丙─R、丁─I。 乙─H、戊─H、己─I。 115 年第 26 題 115年公立高級中等學校教師甄選餐飲管理科試題 115年公立高級中等學校教師甄選 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)"
+      "searchText": "「2026臺灣燈會」於嘉義盛大舉行，小旺想要規劃一天燈會快閃之旅，早上他就 （甲：搭乘高鐵從臺中到嘉義） ，隨後轉乘（乙：火車抵達市區租借共享單車） ，騎車前往第一站（丙：嘉義燈會主燈區參觀燈展） ，加入人潮與主燈拍照，結束後隨即前往（丁：文化路夜市吃了火雞肉飯及豆花） ，之後返回（戊：嘉義火車站） ，搭火車前到（己：7-11買了一杯咖啡）悠閒地返回臺中。請就上述行程內有出現的行政院主計處行業分類代碼，選擇正確答案？ A 甲─H、丙─O、丁─G。 B 乙─O、戊─H、己─G。 C 甲─H、丙─S、丁─I。 D 乙─H、戊─H、己─I。 B、C 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-2 A 行政院行業分類(H大類、I大類、O大類、S大類)] 1-2 A 行政院行業分類(H大類、I大類、O大類、S大類) 115年公立高級中等學校教師甄選 本題依題幹與選項判斷,核心考點落在「[第一章 飲務的作業規範] - [咖啡歷史與發展趨勢 200]」。標準答案為「B、C」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B、C」。 C:此選項符合題幹所問的正確答案「B、C」。 D:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第一章 飲務的作業規範,定位:第一節咖啡歷史與發展趨勢 200(頁 6);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B、C」。 C:此選項符合題幹所問的正確答案「B、C」。 D:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡歷史與發展趨勢(頁 6);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B、C」。 C:此選項符合題幹所問的正確答案「B、C」。 D:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡歷史與發展趨勢(頁 6);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B、C」。 C:此選項符合題幹所問的正確答案「B、C」。 D:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡歷史與發展趨勢(頁 6);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【選項判斷】A:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 B:此選項符合題幹所問的正確答案「B、C」。 C:此選項符合題幹所問的正確答案「B、C」。 D:此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製,定位:咖啡歷史與發展趨勢(頁 6);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【選項判斷】A：此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。 B：此選項符合題幹所問的正確答案「B、C」。 C：此選項符合題幹所問的正確答案「B、C」。 D：此選項不符合題幹所問的正確答案;本題答案為「B、C」,需回到題幹關鍵詞與教材小節判斷。\n\n【參考書依據】主要參考《飲料實務》第五章 咖啡的認識與調製，定位：咖啡歷史與發展趨勢（頁 6）；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。"
     },
     {
       "id": "teacher-exam-115-16-q027-b60cda67db",
@@ -76941,15 +76833,15 @@
       "promptPreview": "Fusion Cuisine",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展]",
-      "conceptId": "tourism-hospitality-7c4ea7284e",
-      "conceptLabel": "3-2 F 台灣─餐飲業的發展",
+      "unit": "[CH3 餐飲業] - [3-2 A 外國─餐飲業的發展]",
+      "conceptId": "tourism-hospitality-040675bef2",
+      "conceptLabel": "3-2 A 外國─餐飲業的發展",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150805-daytime"
       ],
-      "searchText": "Fusion Cuisine 115 年第 2 題 115年公立高級中等學校教師甄選餐飲管理科試題 115年公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展] 3-2 F 台灣─餐飲業的發展"
+      "searchText": "Fusion Cuisine 115年公立高級中等學校教師甄選 觀光餐旅業導論 [CH3 餐飲業] - [3-2 A 外國─餐飲業的發展] 3-2 A 外國─餐飲業的發展"
     },
     {
       "id": "teacher-exam-115-16-q003-d9ffdd153b",
@@ -79018,12 +78910,12 @@
       "schoolName": "國立頭城高級家事商業職業學校",
       "questionNumber": 10,
       "questionType": "term-explanation",
-      "promptPreview": "Office clerk：（此為旅館業界常使用的專有名詞，請說明之）",
+      "promptPreview": "Office clerk：",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門]",
-      "conceptId": "tourism-hospitality-30ccee39e7",
-      "conceptLabel": "4-4 D綜合題─旅館從業人員、組織與部門",
+      "unit": "[CH4 旅宿業] - [4-4 B 房務部]",
+      "conceptId": "tourism-hospitality-07e9d19483",
+      "conceptLabel": "4-4 B 房務部",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
@@ -79031,7 +78923,7 @@
         "latest-taxonomy-low-confidence",
         "manual-reviewed-1150802-day"
       ],
-      "searchText": "Office clerk:(此為旅館業界常使用的專有名詞,請說明之) 115 年第 10 題 國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷 國立頭城高級家事商業職業學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 D綜合題─旅館從業人員、組織與部門] 4-4 D綜合題─旅館從業人員、組織與部門"
+      "searchText": "Office clerk： 國立頭城高級家事商業職業學校 觀光餐旅業導論 [CH4 旅宿業] - [4-4 B 房務部] 4-4 B 房務部"
     },
     {
       "id": "teacher-exam-115-16-q001-c0f8acd375",
@@ -79116,15 +79008,15 @@
       "promptPreview": "美國農業部證實有部分牛隻感染「狂牛症」後，即下令暫時禁止美國牛肉進口，國內餐飲業者必須另覓牛肉來源進行採購，以滿足消費者需求。此屬於採購作業的何種特性？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-5 I 物料管理]",
-      "conceptId": "tourism-hospitality-9056cc016a",
-      "conceptLabel": "3-5 I 物料管理",
+      "unit": "[西餐] - [D4西餐─牛肉]",
+      "conceptId": "tourism-hospitality-564688ad28",
+      "conceptLabel": "D4西餐─牛肉",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "美國農業部證實有部分牛隻感染「狂牛症」後,即下令暫時禁止美國牛肉進口,國內餐飲業者必須另覓牛肉來源進行採購,以滿足消費者需求。此屬於採購作業的何種特性? 管理性 技術性 政策性 區域性。 94 年第 3 題 教師甄選參考題目(餐飲管理科) 教師甄選參考題目(餐飲管理科) 觀光餐旅業導論 [CH3 餐飲業] - [3-5 I 物料管理] 3-5 I 物料管理"
+      "searchText": "美國農業部證實有部分牛隻感染「狂牛症」後，即下令暫時禁止美國牛肉進口，國內餐飲業者必須另覓牛肉來源進行採購，以滿足消費者需求。此屬於採購作業的何種特性？ 管理性 技術性 政策性 區域性。 C 教師甄選參考題目(餐飲管理科) 觀光餐旅業導論 [西餐] - [D4西餐─牛肉] D4西餐─牛肉"
     },
     {
       "id": "teacher-exam-94-17-q004-1c78e3355b",
@@ -81499,15 +81391,15 @@
       "promptPreview": "旅館商品的特性，下列何者有誤？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-1 E 旅館業特性]",
-      "conceptId": "tourism-hospitality-5d5de2da4e",
-      "conceptLabel": "4-1 E 旅館業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "旅館商品的特性,下列何者有誤? 綜合性 資本與勞力密集 產品可儲存性 服務性 94 年第 36 題 未標示試卷 國立新營高工職業學校95學年度教師甄選餐飲科試題 觀光餐旅業導論 [CH4 旅宿業] - [4-1 E 旅館業特性] 4-1 E 旅館業特性"
+      "searchText": "旅館商品的特性，下列何者有誤？ 綜合性 資本與勞力密集 產品可儲存性 服務性 C 國立新營高工職業學校95學年度教師甄選餐飲科試題 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-94-17-q039-70bbdacf54",
@@ -82446,16 +82338,16 @@
       "promptPreview": "餐飲業在餐飲銷售量方面，不受到下列何者特性之限制？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[3-1 餐飲業的定義與特性] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-5bcc341716",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-auto-high",
         "manual-reviewed-1150802-day"
       ],
-      "searchText": "餐飲業在餐飲銷售量方面,不受到下列何者特性之限制? 餐飲商品個別化 時間 座位數 餐廳的空間。 94 年第 48 題 未標示試卷 國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題 觀光餐旅業導論 [3-1 餐飲業的定義與特性] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "餐飲業在餐飲銷售量方面，不受到下列何者特性之限制？ 餐飲商品個別化 時間 座位數 餐廳的空間。 A 國立澎湖高級海事水產職業學校 95 學年度教師甄選餐飲管理科試題 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-94-17-q049-a43ba4ec82",
@@ -82838,15 +82730,15 @@
       "promptPreview": "下列何者不屬於旅館事業的特性？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-1 E 旅館業特性]",
-      "conceptId": "tourism-hospitality-5d5de2da4e",
-      "conceptLabel": "4-1 E 旅館業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "下列何者不屬於旅館事業的特性? 市場生命週期及變動性 資本密集且固定成本高 產品的不可儲存性 產品本身兼具實用、品味、格調及豪華。 96 年第 3 題 教師甄選參考題目(餐飲科) 教師甄選參考題目(餐飲科) 觀光餐旅業導論 [CH4 旅宿業] - [4-1 E 旅館業特性] 4-1 E 旅館業特性"
+      "searchText": "下列何者不屬於旅館事業的特性？ 市場生命週期及變動性 資本密集且固定成本高 產品的不可儲存性 產品本身兼具實用、品味、格調及豪華。 A 教師甄選參考題目(餐飲科) 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-96-18-q004-6000f770f4",
@@ -83714,7 +83606,7 @@
       "schoolName": "國立溪湖高中96學年度教師甄選觀光餐飲科試題",
       "questionNumber": 11,
       "questionType": "essay",
-      "promptPreview": "將豆腐兩面掛糊，用少量的油煎到兩面金黃色，再加調味料烹製成佳餚，此種烹調法通常稱為___鍋塌(豆腐)___；將生的易熟或已熟的食材，放入鐵鍋中，以糖、茶葉、米、木屑等加熱後產生的煙，使食物變成具有特殊香味和色澤的做法叫做：___燻___；將",
+      "promptPreview": "將豆腐兩面掛糊，用少量的油煎到兩面金黃色，再加調味料烹製成佳餚，此種烹調法通常稱為___鍋塌(豆腐)___；將生的易熟或已熟的食材，放入鐵鍋中，以糖、茶葉、米、木屑等加熱後產生的煙，使食物變成具有特殊香味和色澤的做法叫做：___燻___；將調好醃過的食物沾滿乾粉後，放入油鍋中炸熟，此種炸法稱為：___乾炸___。「先用油將材料滑油或炸熱，再加入配料拌炒，當材",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH3 餐飲業] - [3-5 C 中餐烹調法]",
@@ -83725,7 +83617,7 @@
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "將豆腐兩面掛糊,用少量的油煎到兩面金黃色,再加調味料烹製成佳餚,此種烹調法通常稱為___鍋塌(豆腐)___;將生的易熟或已熟的食材,放入鐵鍋中,以糖、茶葉、米、木屑等加熱後產生的煙,使食物變成具有特殊香味和色澤的做法叫做:___燻___;將調好醃過的食物沾滿乾粉後,放入油鍋中炸熟,此種炸法稱為:___乾炸___。「先用油將材料滑油或炸熱,再加入配料拌炒,當材料中水份被加熱蒸發後,食材變得乾皺縮,香氣四散」,此烹調方式稱為:___煸 96 年第 11 題 未標示試卷 國立溪湖高中96學年度教師甄選觀光餐飲科試題 觀光餐旅業導論 [CH3 餐飲業] - [3-5 C 中餐烹調法] 3-5 C 中餐烹調法"
+      "searchText": "將豆腐兩面掛糊，用少量的油煎到兩面金黃色，再加調味料烹製成佳餚，此種烹調法通常稱為___鍋塌(豆腐)___；將生的易熟或已熟的食材，放入鐵鍋中，以糖、茶葉、米、木屑等加熱後產生的煙，使食物變成具有特殊香味和色澤的做法叫做：___燻___；將調好醃過的食物沾滿乾粉後，放入油鍋中炸熟，此種炸法稱為：___乾炸___。「先用油將材料滑油或炸熱，再加入配料拌炒，當材料中水份被加熱蒸發後，食材變得乾皺縮，香氣四散」，此烹調方式稱為：___煸____________ 國立溪湖高中96學年度教師甄選觀光餐飲科試題 觀光餐旅業導論 [CH3 餐飲業] - [3-5 C 中餐烹調法] 3-5 C 中餐烹調法"
     },
     {
       "id": "teacher-exam-96-18-q012-df9fe26b52",
@@ -84339,15 +84231,15 @@
       "promptPreview": "餐飲業的特性中，在銷售方面的特性為：",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-dda1813952",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "餐飲業的特性中,在銷售方面的特性為: 標準食譜受時間的限制 以收現為主,資金週轉快 店址擇地力的正確性 營業時段有尖離峰之區別。 96 年第 13 題 未標示試卷 國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題 觀光餐旅業導論 [CH3 餐飲業] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "餐飲業的特性中，在銷售方面的特性為： 標準食譜受時間的限制 以收現為主，資金週轉快 店址擇地力的正確性 營業時段有尖離峰之區別。 B 國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-96-18-q014-0d6ef27442",
@@ -84613,7 +84505,7 @@
       "schoolName": "國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題",
       "questionNumber": 25,
       "questionType": "single-choice",
-      "promptPreview": "關於儲藏空間的規劃與設計原則，下列敘述何者正確？甲、一般肉類冷藏溫度須保持於7℃\\~10℃左右；乙、一般蔬果類食品冷藏溫度須保持於 12℃～15℃左右；丙、冷凍庫的冷凍溫度須保持於－18℃以下；丁、乾或食品應置房於離地面至少 20 公分左右",
+      "promptPreview": "關於儲藏空間的規劃與設計原則，下列敘述何者正確？甲、一般肉類冷藏溫度須保持於7℃~10℃左右；乙、一般蔬果類食品冷藏溫度須保持於 12℃～15℃左右；丙、冷凍庫的冷凍溫度須保持於－18℃以下；丁、乾或食品應置房於離地面至少 20 公分左右的存放架上",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[3-5 餐飲業的經營理念] - [3-5 I 物料管理]",
@@ -84625,7 +84517,7 @@
         "latest-taxonomy-auto-medium",
         "manual-reviewed-1150802-day"
       ],
-      "searchText": "關於儲藏空間的規劃與設計原則,下列敘述何者正確?甲、一般肉類冷藏溫度須保持於7°C\\~10°C左右;乙、一般蔬果類食品冷藏溫度須保持於 12°C~15°C左右;丙、冷凍庫的冷凍溫度須保持於-18°C以下;丁、乾或食品應置房於離地面至少 20 公分左右的存放架上 甲乙 甲丙 乙丙 丙丁。 96 年第 25 題 未標示試卷 國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題 觀光餐旅業導論 [3-5 餐飲業的經營理念] - [3-5 I 物料管理] 3-5 I 物料管理"
+      "searchText": "關於儲藏空間的規劃與設計原則，下列敘述何者正確？甲、一般肉類冷藏溫度須保持於7℃~10℃左右；乙、一般蔬果類食品冷藏溫度須保持於 12℃～15℃左右；丙、冷凍庫的冷凍溫度須保持於－18℃以下；丁、乾或食品應置房於離地面至少 20 公分左右的存放架上 甲乙 甲丙 乙丙 丙丁。 D 國立金門農工職業學校 96 學年度教師甄試餐飲管理科試題 觀光餐旅業導論 [3-5 餐飲業的經營理念] - [3-5 I 物料管理] 3-5 I 物料管理"
     },
     {
       "id": "teacher-exam-96-18-q026-9d3ecc5a4e",
@@ -87903,15 +87795,15 @@
       "promptPreview": "下列何者是決定餐飲服務品質的關鍵因素？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-dda1813952",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "下列何者是決定餐飲服務品質的關鍵因素? 地點 人 事 物 97 年第 23 題 二、單選題(1題1分,共76分) 臺北縣立高中職 97 學年度教師聯合甄選初試(筆試)試題卷 觀光餐旅業導論 [CH3 餐飲業] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "下列何者是決定餐飲服務品質的關鍵因素？ 地點 人 事 物 B 臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-97-19-q024-4dc2c633b8",
@@ -88573,15 +88465,15 @@
       "promptPreview": "「紅糟」主要是屬於下列哪一個菜系的調味材料？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
-      "conceptId": "tourism-hospitality-e7483426e2",
-      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
+      "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
+      "conceptId": "tourism-hospitality-c981d95e0a",
+      "conceptLabel": "3-2 E 中國─菜系",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-manual"
       ],
-      "searchText": "「紅糟」主要是屬於下列哪一個菜系的調味材料? 湖北 湖南 廣東 福建 97 年第 52 題 未標示試卷 臺北縣立高中職 97 學年度教師聯合甄選初試(筆試)試題卷 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
+      "searchText": "「紅糟」主要是屬於下列哪一個菜系的調味材料？ 湖北 湖南 廣東 福建 D 臺北縣立高中職 97 學年度教師聯合甄選初試（筆試）試題卷 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系"
     },
     {
       "id": "teacher-exam-97-19-q053-895757e558",
@@ -93578,15 +93470,15 @@
       "promptPreview": "旅館每逢觀光節慶，往往一房難求，但是客房數又不能夠因應需求而快速增加，或是因應成本而縮減。此為旅館商品之何者特性？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-1 E 旅館業特性]",
-      "conceptId": "tourism-hospitality-5d5de2da4e",
-      "conceptLabel": "4-1 E 旅館業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "旅館每逢觀光節慶,往往一房難求,但是客房數又不能夠因應需求而快速增加,或是因應成本而縮減。此為旅館商品之何者特性? 不可儲存性 資本密集 短期供給無彈性 需求服務彈性大。 97 年第 35 題 未標示試卷 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH4 旅宿業] - [4-1 E 旅館業特性] 4-1 E 旅館業特性"
+      "searchText": "旅館每逢觀光節慶，往往一房難求，但是客房數又不能夠因應需求而快速增加，或是因應成本而縮減。此為旅館商品之何者特性？ 不可儲存性 資本密集 短期供給無彈性 需求服務彈性大。 C 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-97-19-q036-835051876a",
@@ -93694,15 +93586,15 @@
       "promptPreview": "世界最佳旅館（Preferred Hotels & Resorts Worldwide），係屬於下列那一類型之加盟連鎖方式？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)]",
-      "conceptId": "tourism-hospitality-5a39e78564",
-      "conceptLabel": "3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)",
+      "unit": "[CH4 旅宿業] - [4-5 F 旅宿業經營方式]",
+      "conceptId": "tourism-hospitality-681217b091",
+      "conceptLabel": "4-5 F 旅宿業經營方式",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150801-daytime"
       ],
-      "searchText": "世界最佳旅館(Preferred Hotels & Resorts Worldwide),係屬於下列那一類型之加盟連鎖方式? 會員連鎖 加盟旅館 管理契約 夥伴關係。 97 年第 40 題 未標示試卷 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH3 餐飲業] - [3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)] 3-3 E 經營方式分類(獨立餐廳、連鎖餐廳)"
+      "searchText": "世界最佳旅館（Preferred Hotels & Resorts Worldwide），係屬於下列那一類型之加盟連鎖方式？ 會員連鎖 加盟旅館 管理契約 夥伴關係。 A 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH4 旅宿業] - [4-5 F 旅宿業經營方式] 4-5 F 旅宿業經營方式"
     },
     {
       "id": "teacher-exam-97-19-q041-141b2e6433",
@@ -94120,7 +94012,7 @@
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "下列旅館名稱,那一項並非民宿? Home Stay B&B Ranch Parador(註:原文為Parado)。 97 年第 58 題 未標示試卷 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館"
+      "searchText": "下列旅館名稱，那一項並非民宿？ Home Stay B&B Ranch Parador。 D 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH4 旅宿業] - [4-3 D 各式旅館] 4-3 D 各式旅館"
     },
     {
       "id": "teacher-exam-97-19-q059-1af2414bad",
@@ -94158,15 +94050,15 @@
       "promptPreview": "台灣八大旗艦景點 ：台北 101、故宮、日月潭、阿里山、玉山、愛河、太魯閣、墾丁。",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展]",
-      "conceptId": "tourism-hospitality-7c4ea7284e",
-      "conceptLabel": "3-2 F 台灣─餐飲業的發展",
+      "unit": "[CH5 旅行業] - [5-2 C 台灣旅行業發展]",
+      "conceptId": "tourism-hospitality-e3bd89b1c9",
+      "conceptLabel": "5-2 C 台灣旅行業發展",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150803-daytime"
       ],
-      "searchText": "台灣八大旗艦景點 :台北 101、故宮、日月潭、阿里山、玉山、愛河、太魯閣、墾丁。 97 年第 1 題 3. 簡答題:20 分(共 4 題,每題 5 分) 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH3 餐飲業] - [3-2 F 台灣─餐飲業的發展] 3-2 F 台灣─餐飲業的發展"
+      "searchText": "台灣八大旗艦景點 ：台北 101、故宮、日月潭、阿里山、玉山、愛河、太魯閣、墾丁。 光復商工教師甄選餐飲管理科 觀光餐旅業導論 [CH5 旅行業] - [5-2 C 台灣旅行業發展] 5-2 C 台灣旅行業發展"
     },
     {
       "id": "teacher-exam-97-19-q002-7f3d9cfaec",
@@ -95269,15 +95161,15 @@
       "promptPreview": "餐飲產品難以預先儲存，是屬於餐飲業之何種特性？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-dda1813952",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "餐飲產品難以預先儲存,是屬於餐飲業之何種特性? 銷售 生產 服務 規劃。 98 年第 3 題 一、選擇題(30%) 國立玉井高級工商職業學校 98 學年度第一次教師甄審餐飲管理科試卷 觀光餐旅業導論 [CH3 餐飲業] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "餐飲產品難以預先儲存，是屬於餐飲業之何種特性？ 銷售 生產 服務 規劃。 B 國立玉井高級工商職業學校 98 學年度第一次教師甄審餐飲管理科試卷 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-98-20-q004-fa1cfb11c9",
@@ -95709,15 +95601,15 @@
       "promptPreview": "西餐之母的稱號，主要是指何種菜餚？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 B 外國─各國代表菜餚]",
-      "conceptId": "tourism-hospitality-2c5387446e",
-      "conceptLabel": "3-2 B 外國─各國代表菜餚",
+      "unit": "[CH3 餐飲業] - [3-2 A 外國─餐飲業的發展]",
+      "conceptId": "tourism-hospitality-040675bef2",
+      "conceptLabel": "3-2 A 外國─餐飲業的發展",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "西餐之母的稱號,主要是指何種菜餚? 德國菜 義大利菜 瑞士菜 法國菜。 98 年第 6 題 一、單選題(45 題每題 2 分共 90 分) 國立金門高級農工職業學校(98)第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題:餐旅概論 觀光餐旅業導論 [CH3 餐飲業] - [3-2 B 外國─各國代表菜餚] 3-2 B 外國─各國代表菜餚"
+      "searchText": "西餐之母的稱號，主要是指何種菜餚？ 德國菜 義大利菜 瑞士菜 法國菜。 B 國立金門高級農工職業學校（98）第 1 次專任教師暨代理教師甄試餐飲管理科筆試試題：餐旅概論 觀光餐旅業導論 [CH3 餐飲業] - [3-2 A 外國─餐飲業的發展] 3-2 A 外國─餐飲業的發展"
     },
     {
       "id": "teacher-exam-98-20-q007-31ac62d78d",
@@ -98402,15 +98294,15 @@
       "promptPreview": "一地的旅館每逢觀光節慶，往往一房難求，但是客房數又不能夠因應需求而快速增加，或是因應成本而縮減，這種現象是旅館特性中的何者？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-1 E 旅館業特性]",
-      "conceptId": "tourism-hospitality-5d5de2da4e",
-      "conceptLabel": "4-1 E 旅館業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150730-evening"
       ],
-      "searchText": "一地的旅館每逢觀光節慶,往往一房難求,但是客房數又不能夠因應需求而快速增加,或是因應成本而縮減,這種現象是旅館特性中的何者? 不可儲存性 資本密集 短期供給無彈性 需求服務彈性大。 99 年第 16 題 一、單選題(80%) 國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題 觀光餐旅業導論 [CH4 旅宿業] - [4-1 E 旅館業特性] 4-1 E 旅館業特性"
+      "searchText": "一地的旅館每逢觀光節慶，往往一房難求，但是客房數又不能夠因應需求而快速增加，或是因應成本而縮減，這種現象是旅館特性中的何者？ 不可儲存性 資本密集 短期供給無彈性 需求服務彈性大。 C 國立臺南家齊女子高級中學 99 學年度第一次教師甄選餐飲管理科初試試題 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-99-21-q017-cb9dd05b03",
@@ -100325,15 +100217,15 @@
       "promptPreview": "上海菜系「貴妃雞」是使用雞的哪一個部位？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 E 中國─菜系]",
-      "conceptId": "tourism-hospitality-c981d95e0a",
-      "conceptLabel": "3-2 E 中國─菜系",
+      "unit": "[CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)]",
+      "conceptId": "tourism-hospitality-e7483426e2",
+      "conceptLabel": "3-2 E1 中國─菜系(菜餚)",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "latest-taxonomy-manual"
       ],
-      "searchText": "上海菜系「貴妃雞」是使用雞的哪一個部位? 雞胸 雞翅 雞腿 雞柳。 99 年第 18 題 未標示試卷 國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E 中國─菜系] 3-2 E 中國─菜系"
+      "searchText": "上海菜系「貴妃雞」是使用雞的哪一個部位？ 雞胸 雞翅 雞腿 雞柳。 B 國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷 觀光餐旅業導論 [CH3 餐飲業] - [3-2 E1 中國─菜系(菜餚)] 3-2 E1 中國─菜系(菜餚)"
     },
     {
       "id": "teacher-exam-99-21-q019-0e1ed55156",
@@ -100744,15 +100636,15 @@
       "promptPreview": "餐飲服務業之主要產品為無形的服務，因此顧客購買此產品之風險很高，今後餐飲業針對此產品的特性其有效因應之道為何？",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-1 D 餐飲業特性]",
-      "conceptId": "tourism-hospitality-dda1813952",
-      "conceptLabel": "3-1 D 餐飲業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "human-reviewed-1150804-evening"
       ],
-      "searchText": "餐飲服務業之主要產品為無形的服務,因此顧客購買此產品之風險很高,今後餐飲業針對此產品的特性其有效因應之道為何? 大量促銷、實施尖離峰差別定價 提升企業產品品牌形象,講究服務證據 建立標準化作業 SOP 加強餐廳內外部們溝通協調。 99 年第 9 題 一、單選題(每題二分,共四十分) 國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答 觀光餐旅業導論 [CH3 餐飲業] - [3-1 D 餐飲業特性] 3-1 D 餐飲業特性"
+      "searchText": "餐飲服務業之主要產品為無形的服務，因此顧客購買此產品之風險很高，今後餐飲業針對此產品的特性其有效因應之道為何？ 大量促銷、實施尖離峰差別定價 提升企業產品品牌形象，講究服務證據 建立標準化作業 SOP 加強餐廳內外部們溝通協調。 B 國立金門高級農工職業學校 99 學年度第一次教師甄選餐飲科試題解答 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-99-21-q010-ab62f8f258",
@@ -103580,16 +103472,16 @@
       "promptPreview": "Graveyard Shift：大夜班",
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-1 E 旅館業特性]",
-      "conceptId": "tourism-hospitality-5d5de2da4e",
-      "conceptLabel": "4-1 E 旅館業特性",
+      "unit": "[CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性]",
+      "conceptId": "tourism-hospitality-7fdecd5574",
+      "conceptLabel": "1-3 A 觀光餐旅業的特性",
       "reviewStatus": "approved",
       "explanationStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
         "human-reviewed-1150807"
       ],
-      "searchText": "Graveyard Shift:大夜班 101 年第 5 題(由合併題組拆分) 二、請把下列專業名詞翻譯成中文,共10題,每題2分,共20分 國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷 觀光餐旅業導論 [CH4 旅宿業] - [4-1 E 旅館業特性] 4-1 E 旅館業特性"
+      "searchText": "Graveyard Shift：大夜班 國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷 觀光餐旅業導論 [CH1 觀光餐旅業基本觀念] - [1-3 A 觀光餐旅業的特性] 1-3 A 觀光餐旅業的特性"
     },
     {
       "id": "teacher-exam-101-02-q006-f4a38fe039",
@@ -104964,6 +104856,56 @@
         "human-reviewed-1150807"
       ],
       "searchText": "Code-Sharing: 旅館業界常使用的專有名詞如下,請說明之 115 年第 5 題(由合併題組拆分) 國立頭城高級家事商業職業學校115學年度第1次教師甄選餐飲管理科題目卷 國立頭城高級家事商業職業學校 觀光餐旅業導論 [CH5 旅行業] - [5-5 I 聯營航空 / 航空聯盟] 5-5 I 聯營航空 / 航空聯盟"
+    },
+    {
+      "id": "teacher-exam-111-national-term-q002-korean-frying",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 2 題（名詞解釋）",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#manual-split-teacher-exam-111-national-term-q002-korean-frying",
+      "paperTitle": "二、解釋名詞（每題 3 分，共 9 分）",
+      "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+      "questionNumber": 2,
+      "questionType": "term-explanation",
+      "promptPreview": "111-2. 高麗炸<BR>\n答：中菜烹調技法之一，將食材裹上以蛋白打發成之雪泡糊（或蛋糊），入溫油中炸至膨鬆酥脆、色澤潔白如雪的烹調手法。",
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH3 餐飲業] - [3-5 C 中餐烹調法]",
+      "conceptId": "tourism-hospitality-a6e711bd91",
+      "conceptLabel": "3-5 C 中餐烹調法",
+      "reviewStatus": "approved",
+      "explanationStatus": "approved",
+      "flags": [
+        "human-reviewed-1150731-morning",
+        "manual-term-explanation-fix-111",
+        "manual-split-111-term-explanations"
+      ],
+      "searchText": "111-2. 高麗炸<BR>\n答：中菜烹調技法之一，將食材裹上以蛋白打發成之雪泡糊（或蛋糊），入溫油中炸至膨鬆酥脆、色澤潔白如雪的烹調手法。 第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題） 觀光餐旅業導論 [CH3 餐飲業] - [3-5 C 中餐烹調法] 3-5 C 中餐烹調法"
+    },
+    {
+      "id": "teacher-exam-111-national-term-q003-terroir",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 3 題（名詞解釋）",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#manual-split-teacher-exam-111-national-term-q003-terroir",
+      "paperTitle": "二、解釋名詞（每題 3 分，共 9 分）",
+      "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+      "questionNumber": 3,
+      "questionType": "term-explanation",
+      "promptPreview": "3. Terroir（風土）<BR>\n答：法文原意，指影響農作物（如葡萄）風味的綜合自然環境因素，包含土壤、氣候、地形、日照及傳統人文技術等。",
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH6 酒的分類與製程] - [6-1 A2葡萄酒(Wine)]",
+      "conceptId": "beverage-9e0a013e48",
+      "conceptLabel": "6-1 A2葡萄酒(Wine)",
+      "reviewStatus": "approved",
+      "explanationStatus": "approved",
+      "flags": [
+        "human-reviewed-1150731-morning",
+        "manual-term-explanation-fix-111",
+        "manual-split-111-term-explanations"
+      ],
+      "searchText": "3. Terroir（風土）<BR>\n答：法文原意，指影響農作物（如葡萄）風味的綜合自然環境因素，包含土壤、氣候、地形、日照及傳統人文技術等。 第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題） 飲料實務 [CH6 酒的分類與製程] - [6-1 A2葡萄酒(Wine)] 6-1 A2葡萄酒(Wine)"
     }
   ],
   "unresolved": []

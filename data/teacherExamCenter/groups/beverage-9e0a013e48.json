@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
+  "dataVersion": "teacher-exam-1150808-reviewed-batch-226d5de1cb",
   "concept": {
     "id": "beverage-9e0a013e48",
     "subject": "beverage",
@@ -17,10 +17,12 @@
       "teacher-exam-99-21-q001-f12830701b",
       "teacher-exam-99-21-q002-285d80df8e",
       "teacher-exam-99-21-q002-a16a965619",
-      "teacher-exam-104-05-q002-e71a8b6d54"
+      "teacher-exam-104-05-q002-e71a8b6d54",
+      "teacher-exam-111-national-term-q003-terroir"
     ],
     "years": [
       115,
+      111,
       108,
       104,
       99
@@ -542,6 +544,56 @@
       ],
       "searchText": "Sediments 飲料實務 [CH6 酒的分類與製程] - [6-1 A2葡萄酒(Wine)] 6-1 A2葡萄酒(Wine)",
       "sequence": 3579
+    },
+    {
+      "id": "teacher-exam-111-national-term-q003-terroir",
+      "sourceYear": 111,
+      "sourceLabel": "111 年第 3 題（名詞解釋）",
+      "sourceFile": "111餐旅群教師甄試合併檔 (列印) 29頁.md",
+      "sourceLocator": "111餐旅群教師甄試合併檔 (列印) 29頁.md#manual-split-teacher-exam-111-national-term-q003-terroir",
+      "paperTitle": "二、解釋名詞（每題 3 分，共 9 分）",
+      "schoolName": "第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題）",
+      "questionNumber": 3,
+      "questionType": "term-explanation",
+      "prompt": "3. Terroir（風土）<BR>\n答：法文原意，指影響農作物（如葡萄）風味的綜合自然環境因素，包含土壤、氣候、地形、日照及傳統人文技術等。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH6 酒的分類與製程] - [6-1 A2葡萄酒(Wine)]",
+      "conceptId": "beverage-9e0a013e48",
+      "conceptLabel": "6-1 A2葡萄酒(Wine)",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH6 酒的分類與製程",
+          "locator": "6-1 A2葡萄酒(Wine)",
+          "note": "依本次人工審核需求調整題目內容或分類。"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "法文原意，指影響農作物（如葡萄）風味的綜合自然環境因素，包含土壤、氣候、地形、日照及傳統人文技術等。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH6 酒的分類與製程",
+            "locator": "6-1 A2葡萄酒(Wine)",
+            "note": "依本次人工審核需求調整題目內容或分類。"
+          }
+        ],
+        "updatedAt": "2026-08-08T00:00:00.000+08:00"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "human-reviewed-1150731-morning",
+        "manual-term-explanation-fix-111",
+        "manual-split-111-term-explanations"
+      ],
+      "searchText": "3. Terroir（風土）<BR>\n答：法文原意，指影響農作物（如葡萄）風味的綜合自然環境因素，包含土壤、氣候、地形、日照及傳統人文技術等。 第一部分：教育部受託辦理 111 學年度公立高級中等學校教師甄選（餐飲管理科／觀光事業科試題） 飲料實務 [CH6 酒的分類與製程] - [6-1 A2葡萄酒(Wine)] 6-1 A2葡萄酒(Wine)",
+      "sequence": 1726.2,
+      "updatedAt": "2026-08-08T00:00:00.000+08:00"
     }
   ]
 }
