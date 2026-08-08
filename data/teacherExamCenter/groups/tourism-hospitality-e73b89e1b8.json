@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-e73b89e1b8",
     "subject": "tourism-hospitality",
@@ -34,13 +34,13 @@
       "teacher-exam-99-21-q021-49736f1bd9",
       "teacher-exam-99-21-q022-eb187c82b2",
       "teacher-exam-99-21-q023-1c8b0e6f94",
-      "teacher-exam-109-10-q005-3aa0795d0f",
-      "teacher-exam-109-10-q006-05c986b2af"
+      "teacher-exam-108-09-q004-a0c0c4e713"
     ],
     "years": [
       115,
       111,
       109,
+      108,
       106,
       104,
       101,
@@ -56,7 +56,7 @@
         "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：4-4 A 客務部"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
@@ -1086,41 +1086,33 @@
       "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
       "conceptId": "tourism-hospitality-e73b89e1b8",
       "conceptLabel": "4-4 A 客務部",
-      "relatedConceptIds": [
-        "tourism-hospitality-cf24eb976b",
-        "tourism-hospitality-073b922827"
-      ],
+      "relatedConceptIds": [],
       "classificationBasis": [
         {
           "source": "manual",
           "chapter": "CH4 旅宿業",
           "locator": "4-4 A 客務部",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
-        },
-        {
-          "source": "manual",
-          "chapter": "CH7 觀光餐旅行銷",
-          "locator": "7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
-        },
-        {
-          "source": "manual",
-          "chapter": "客房(舊課綱)",
-          "locator": "A課堂班級應營",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-4 A 客務部"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH4 旅宿業",
+            "locator": "4-4 A 客務部",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-4 A 客務部"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "旅館的服務中心又稱為 ABC 團隊,請寫出其 ABC 中英文全名: 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部",
       "sequence": 1601
@@ -2081,116 +2073,52 @@
       "sequence": 3366
     },
     {
-      "id": "teacher-exam-109-10-q005-3aa0795d0f",
-      "sourceYear": 109,
-      "sourceLabel": "109 年第 5 題（由合併題組拆分）",
-      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
-      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-10340;split=109-5",
+      "id": "teacher-exam-108-09-q004-a0c0c4e713",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 4 題（由合併題組拆分）",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-11806;split=108-4",
       "paperTitle": "未標示試卷",
-      "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
-      "questionNumber": 5,
+      "schoolName": "高雄市108學年度市立高級中等學校聯合教師甄選觀光事業科試題卷",
+      "questionNumber": 4,
       "questionType": "essay",
-      "prompt": "請說明餐旅行銷 STP 分析，並寫出其中英文全名？",
+      "prompt": "請畫出旅館客務部組織圖(Organization chart of Front Office department)及說明職掌。",
       "options": [],
       "subject": "tourism-hospitality",
       "subjectLabel": "觀光餐旅業導論",
       "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
       "conceptId": "tourism-hospitality-e73b89e1b8",
       "conceptLabel": "4-4 A 客務部",
-      "relatedConceptIds": [
-        "tourism-hospitality-cf24eb976b",
-        "tourism-hospitality-073b922827"
-      ],
+      "relatedConceptIds": [],
       "classificationBasis": [
         {
           "source": "manual",
           "chapter": "CH4 旅宿業",
           "locator": "4-4 A 客務部",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
-        },
-        {
-          "source": "manual",
-          "chapter": "CH7 觀光餐旅行銷",
-          "locator": "7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
-        },
-        {
-          "source": "manual",
-          "chapter": "客房(舊課綱)",
-          "locator": "A課堂班級應營",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-4 A 客務部"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH4 旅宿業",
+            "locator": "4-4 A 客務部",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-4 A 客務部"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
-      "searchText": "請說明餐旅行銷 STP 分析,並寫出其中英文全名? 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部",
-      "sequence": 3612
-    },
-    {
-      "id": "teacher-exam-109-10-q006-05c986b2af",
-      "sourceYear": 109,
-      "sourceLabel": "109 年第 6 題（由合併題組拆分）",
-      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
-      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-10340;split=109-6",
-      "paperTitle": "未標示試卷",
-      "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
-      "questionNumber": 6,
-      "questionType": "essay",
-      "prompt": "學習障礙學生通常都有學習低成就的狀況，進而引發學習動機低落或是產生一些行為問題。請問若你的導師班上有三位學習障礙學生，你有什麼具體的班級經營作為？",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-4 A 客務部]",
-      "conceptId": "tourism-hospitality-e73b89e1b8",
-      "conceptLabel": "4-4 A 客務部",
-      "relatedConceptIds": [
-        "tourism-hospitality-cf24eb976b",
-        "tourism-hospitality-073b922827"
-      ],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH4 旅宿業",
-          "locator": "4-4 A 客務部",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
-        },
-        {
-          "source": "manual",
-          "chapter": "CH7 觀光餐旅行銷",
-          "locator": "7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
-        },
-        {
-          "source": "manual",
-          "chapter": "客房(舊課綱)",
-          "locator": "A課堂班級應營",
-          "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用相關分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：4-4 A 客務部；7-2 D 目標行銷 / 餐旅行銷 STP(市場區隔、目標市場、市場定位)；A課堂班級應營"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "學習障礙學生通常都有學習低成就的狀況,進而引發學習動機低落或是產生一些行為問題。請問若你的導師班上有三位學習障礙學生,你有什麼具體的班級經營作為? 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部",
-      "sequence": 3613
+      "searchText": "請畫出旅館客務部組織圖(Organization chart of Front Office department)及說明職掌。 觀光餐旅業導論 [CH4 旅宿業] - [4-4 A 客務部] 4-4 A 客務部",
+      "sequence": 3600
     }
   ]
 }

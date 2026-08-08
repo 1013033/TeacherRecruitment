@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-cc5098081e",
     "subject": "tourism-hospitality",
@@ -9,7 +9,6 @@
     "label": "3-2 H1 台灣─菜餚(台菜、小吃)",
     "description": "",
     "questionIds": [
-      "teacher-exam-100-01-q001-5a7648e5c4",
       "teacher-exam-106-07-q060-ed5fc5d0a5",
       "teacher-exam-112-13-q003-83990d82b4",
       "teacher-exam-113-14-q001-2cbd814dc3",
@@ -17,15 +16,8 @@
       "teacher-exam-114-15-q035-93e88fe0ec",
       "teacher-exam-115-16-q029-c7e42b1b8d",
       "teacher-exam-97-19-q006-7ae726171f",
-      "teacher-exam-99-21-q001-37ec31d2f9",
-      "teacher-exam-99-21-q002-3d559430e6",
       "teacher-exam-99-21-q003-1e29d828de",
-      "teacher-exam-99-21-q004-e1f3e0ca07",
-      "teacher-exam-99-21-q005-a9e69fccc9",
-      "teacher-exam-100-01-q002-02d6a9c391",
-      "teacher-exam-100-01-q003-a8860df5ab",
-      "teacher-exam-100-01-q004-12a9ea7dea",
-      "teacher-exam-100-01-q005-206c30b094"
+      "teacher-exam-100-01-q002-02d6a9c391"
     ],
     "years": [
       115,
@@ -42,56 +34,13 @@
         "source": "manual",
         "chapter": "CH3 餐飲業",
         "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 937 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
-    {
-      "id": "teacher-exam-100-01-q001-5a7648e5c4",
-      "sourceYear": 100,
-      "sourceLabel": "100 年第 1 題（由合併題組拆分）",
-      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-11860",
-      "paperTitle": "二、問答題（5 題）20%",
-      "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
-      "questionNumber": 1,
-      "questionType": "essay",
-      "prompt": "請解釋何謂餐旅業所稱之「內隱服務（Implicit Service）」？並舉例說明之。",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 937 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-auto-high",
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "請解釋何謂餐旅業所稱之「內隱服務(Implicit Service)」?並舉例說明之。 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 92
-    },
     {
       "id": "teacher-exam-106-07-q060-ed5fc5d0a5",
       "sourceYear": 106,
@@ -671,90 +620,6 @@
       "sequence": 3126
     },
     {
-      "id": "teacher-exam-99-21-q001-37ec31d2f9",
-      "sourceYear": 99,
-      "sourceLabel": "99 年第 1 題（由合併題組拆分）",
-      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
-      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15443",
-      "paperTitle": "二、填充題：每格 3 分，共 30%",
-      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
-      "questionNumber": 1,
-      "questionType": "essay",
-      "prompt": "帶肉餡的長方形麵食，乾烙製成，其形狀似過去裝錢之錢袋的一種北京小吃稱為：褡褢火燒（或鍋貼等，依原卷標準）",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 4463 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "帶肉餡的長方形麵食,乾烙製成,其形狀似過去裝錢之錢袋的一種北京小吃稱為:褡褢火燒(或鍋貼等,依原卷標準) 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 3445
-    },
-    {
-      "id": "teacher-exam-99-21-q002-3d559430e6",
-      "sourceYear": 99,
-      "sourceLabel": "99 年第 2 題（由合併題組拆分）",
-      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
-      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15443;split=99-2",
-      "paperTitle": "二、填充題：每格 3 分，共 30%",
-      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
-      "questionNumber": 2,
-      "questionType": "essay",
-      "prompt": "以水母傘狀部分為原料，用明礬、鹽壓榨後去除水分再醃漬之乾製品稱為：海蜇皮",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 4463 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "以水母傘狀部分為原料,用明礬、鹽壓榨後去除水分再醃漬之乾製品稱為:海蜇皮 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 3535
-    },
-    {
       "id": "teacher-exam-99-21-q003-1e29d828de",
       "sourceYear": 99,
       "sourceLabel": "99 年第 3 題（由合併題組拆分）",
@@ -777,108 +642,30 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 4463 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-2 H1 台灣─菜餚(台菜、小吃)"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-2 H1 台灣─菜餚(台菜、小吃)"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
-        "latest-taxonomy-manual",
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "台式醬汁,多搭配海鮮沾食,由番茄醬、糖、醋、香油、醬油所調製而成的醬汁是:五味醬 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
       "sequence": 3536
-    },
-    {
-      "id": "teacher-exam-99-21-q004-e1f3e0ca07",
-      "sourceYear": 99,
-      "sourceLabel": "99 年第 4 題（由合併題組拆分）",
-      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
-      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15443;split=99-4",
-      "paperTitle": "二、填充題：每格 3 分，共 30%",
-      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
-      "questionNumber": 4,
-      "questionType": "essay",
-      "prompt": "材料醃過後沾麵粉、蛋液、麵包粉，再入油鍋炸，稱之為：吉列（Pané / Cutlet）",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 4463 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "材料醃過後沾麵粉、蛋液、麵包粉,再入油鍋炸,稱之為:吉列(Pané / Cutlet) 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 3537
-    },
-    {
-      "id": "teacher-exam-99-21-q005-a9e69fccc9",
-      "sourceYear": 99,
-      "sourceLabel": "99 年第 5 題（由合併題組拆分）",
-      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
-      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15443;split=99-5",
-      "paperTitle": "二、填充題：每格 3 分，共 30%",
-      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
-      "questionNumber": 5,
-      "questionType": "essay",
-      "prompt": "屬蕈類，有「廚房裡的鑽石」之美稱，為法國三大珍味之一：松露（Truffle）",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 4463 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "屬蕈類,有「廚房裡的鑽石」之美稱,為法國三大珍味之一:松露(Truffle) 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 3538
     },
     {
       "id": "teacher-exam-100-01-q002-02d6a9c391",
@@ -903,154 +690,30 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 937 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-2 H1 台灣─菜餚(台菜、小吃)"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-2 H1 台灣─菜餚(台菜、小吃)"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
-        "latest-taxonomy-auto-high",
-        "latest-taxonomy-manual",
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "請敘述台灣餐飲小吃業發展的困境,以及如何因應。 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
       "sequence": 3551
-    },
-    {
-      "id": "teacher-exam-100-01-q003-a8860df5ab",
-      "sourceYear": 100,
-      "sourceLabel": "100 年第 3 題（由合併題組拆分）",
-      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-11860;split=100-3",
-      "paperTitle": "二、問答題（5 題）20%",
-      "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
-      "questionNumber": 3,
-      "questionType": "essay",
-      "prompt": "請解釋何謂「一鄉鎮一特產（One Town One Product, OTOP）」？並請舉例說明之。",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 937 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-auto-high",
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "請解釋何謂「一鄉鎮一特產(One Town One Product, OTOP)」?並請舉例說明之。 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 3552
-    },
-    {
-      "id": "teacher-exam-100-01-q004-12a9ea7dea",
-      "sourceYear": 100,
-      "sourceLabel": "100 年第 4 題（由合併題組拆分）",
-      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-11860;split=100-4",
-      "paperTitle": "二、問答題（5 題）20%",
-      "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
-      "questionNumber": 4,
-      "questionType": "essay",
-      "prompt": "請說明如何提升台灣飲料店業的國際競爭力？",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 937 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-auto-high",
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "請說明如何提升台灣飲料店業的國際競爭力? 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 3553
-    },
-    {
-      "id": "teacher-exam-100-01-q005-206c30b094",
-      "sourceYear": 100,
-      "sourceLabel": "100 年第 5 題（由合併題組拆分）",
-      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
-      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-11860;split=100-5",
-      "paperTitle": "二、問答題（5 題）20%",
-      "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
-      "questionNumber": 5,
-      "questionType": "essay",
-      "prompt": "請說明餐飲業在營運時容易發生的問題有哪些？",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)]",
-      "conceptId": "tourism-hospitality-cc5098081e",
-      "conceptLabel": "3-2 H1 台灣─菜餚(台菜、小吃)",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-2 H1 台灣─菜餚(台菜、小吃)",
-          "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」未解析紅字段落第 937 段，比對題幹文字後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-auto-high",
-        "latest-taxonomy-manual",
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "請說明餐飲業在營運時容易發生的問題有哪些? 觀光餐旅業導論 [CH3 餐飲業] - [3-2 H1 台灣─菜餚(台菜、小吃)] 3-2 H1 台灣─菜餚(台菜、小吃)",
-      "sequence": 3554
     }
   ]
 }

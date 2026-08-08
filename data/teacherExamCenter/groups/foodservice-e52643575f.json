@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "foodservice-e52643575f",
     "subject": "foodservice",
@@ -9,9 +9,11 @@
     "label": "1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)",
     "description": "",
     "questionIds": [
+      "teacher-exam-100-01-q001-5a7648e5c4",
       "teacher-exam-96-18-q030-81f3a92876"
     ],
     "years": [
+      100,
       96
     ],
     "publisherBasis": [
@@ -19,13 +21,61 @@
         "source": "manual",
         "chapter": "CH1 餐廳服務基本觀念",
         "locator": "1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)",
-        "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)"
+        "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)"
       }
     ],
     "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
+    {
+      "id": "teacher-exam-100-01-q001-5a7648e5c4",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 1 題（由合併題組拆分）",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-11860",
+      "paperTitle": "二、問答題（5 題）20%",
+      "schoolName": "國立臺南家齊女中學 100 學年度第 1 次專任及代理教師甄試",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "請解釋何謂餐旅業所稱之「內隱服務（Implicit Service）」？並舉例說明之。",
+      "options": [],
+      "subject": "foodservice",
+      "subjectLabel": "餐飲服務技術",
+      "unit": "[CH1 餐廳服務基本觀念] - [1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)]",
+      "conceptId": "foodservice-e52643575f",
+      "conceptLabel": "1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH1 餐廳服務基本觀念",
+          "locator": "1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH1 餐廳服務基本觀念",
+            "locator": "1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "請解釋何謂餐旅業所稱之「內隱服務(Implicit Service)」?並舉例說明之。 餐飲服務技術 [CH1 餐廳服務基本觀念] - [1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)] 1-1 A構成要素(同觀光餐旅業導論3-1 C 餐飲商品)",
+      "sequence": 92
+    },
     {
       "id": "teacher-exam-96-18-q030-81f3a92876",
       "sourceYear": 96,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-7d4397d0ed",
     "subject": "tourism-hospitality",
@@ -16,11 +16,13 @@
       "teacher-exam-97-19-q005-c887634efc",
       "teacher-exam-97-19-q007-be7d6a1dba",
       "teacher-exam-97-19-q012-2ad98494f2",
-      "teacher-exam-97-19-q020-c890c8237a"
+      "teacher-exam-97-19-q020-c890c8237a",
+      "teacher-exam-99-21-q002-3d559430e6"
     ],
     "years": [
       111,
       101,
+      99,
       97,
       94
     ],
@@ -679,6 +681,54 @@
       "searchText": "製作蒸蛋時,添加何種調味料將導致其硬度增加? 蔗糖 鹽 醋 酒 觀光餐旅業導論 [中餐] - [D 中餐─材料特性] D 中餐─材料特性 本題原始試題以數字編號呈現選項,標準答案為 2(鹽)。 此選項不符合本題標準答案;本題答案為 2。 此選項為本題標準答案。 此選項不符合本題標準答案;本題答案為 2。 此選項不符合本題標準答案;本題答案為 2。",
       "sequence": 3090,
       "answer": "2"
+    },
+    {
+      "id": "teacher-exam-99-21-q002-3d559430e6",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 2 題（由合併題組拆分）",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15443;split=99-2",
+      "paperTitle": "二、填充題：每格 3 分，共 30%",
+      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+      "questionNumber": 2,
+      "questionType": "essay",
+      "prompt": "以水母傘狀部分為原料，用明礬、鹽壓榨後去除水分再醃漬之乾製品稱為：海蜇皮",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[中餐] - [D 中餐─材料特性]",
+      "conceptId": "tourism-hospitality-7d4397d0ed",
+      "conceptLabel": "D 中餐─材料特性",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "中餐",
+          "locator": "D 中餐─材料特性",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：D 中餐─材料特性"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "中餐",
+            "locator": "D 中餐─材料特性",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：D 中餐─材料特性"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "以水母傘狀部分為原料,用明礬、鹽壓榨後去除水分再醃漬之乾製品稱為:海蜇皮 觀光餐旅業導論 [中餐] - [D 中餐─材料特性] D 中餐─材料特性",
+      "sequence": 3535
     }
   ]
 }

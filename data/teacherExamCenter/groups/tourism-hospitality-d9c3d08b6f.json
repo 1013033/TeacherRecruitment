@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-d9c3d08b6f",
     "subject": "tourism-hospitality",
@@ -9,72 +9,23 @@
     "label": "F1國內旅遊定型化契約",
     "description": "",
     "questionIds": [
-      "teacher-exam-102-03-q001-1af5392d6a",
       "teacher-exam-114-15-q034-7f025c17cc"
     ],
     "years": [
-      114,
-      102
+      114
     ],
     "publisherBasis": [
       {
         "source": "manual",
         "chapter": "時事(法規、時事、政策、標章)",
         "locator": "F1國內旅遊定型化契約",
-        "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=52, second=28。"
+        "note": "依人工分類表「篩選題目輸出 2 115.07.29-紅字分類萃取.md」比對題號與題幹後套用；分類項目限定於「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」。"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
-    {
-      "id": "teacher-exam-102-03-q001-1af5392d6a",
-      "sourceYear": 102,
-      "sourceLabel": "102 年第 1 題",
-      "sourceFile": "102餐旅群教師甄試合併檔(列印) 10頁.md",
-      "sourceLocator": "102餐旅群教師甄試合併檔(列印) 10頁.md#offset-5712",
-      "paperTitle": "未標示試卷",
-      "schoolName": "教育部受託辦理 102 學年度公立高級中等學校教師甄選",
-      "questionNumber": 1,
-      "questionType": "essay",
-      "prompt": "國內旅遊 (Domestic Tourism)",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[時事(法規、時事、政策、標章)] - [F1國內旅遊定型化契約]",
-      "conceptId": "tourism-hospitality-d9c3d08b6f",
-      "conceptLabel": "F1國內旅遊定型化契約",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "時事(法規、時事、政策、標章)",
-          "locator": "F1國內旅遊定型化契約",
-          "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=52, second=28。"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第四章 旅宿業] - [旅遊]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅遊;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業,定位:旅行業與旅遊服務;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業,定位:旅行業與旅遊服務;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業，定位：旅行業與旅遊服務；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
-        "optionExplanations": [],
-        "references": [
-          {
-            "source": "manual",
-            "chapter": "時事(法規、時事、政策、標章)",
-            "locator": "F1國內旅遊定型化契約",
-            "note": "先清空既有分類後，使用「RAG/試題/最新分類_1150729/三科目錄(含細節)代碼115.07.29.md」內的合法分類項目進行受限文字比對；confidence=high, score=52, second=28。"
-          }
-        ],
-        "updatedAt": "2026-07-29T16:46:06.977Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "latest-taxonomy-auto-high"
-      ],
-      "searchText": "國內旅遊 (Domestic Tourism) 觀光餐旅業導論 [時事(法規、時事、政策、標章)] - [F1國內旅遊定型化契約] F1國內旅遊定型化契約 本題依題幹與選項判斷,核心考點落在「[第四章 旅宿業] - [旅遊]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第四章 旅宿業,定位:旅遊;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業,定位:旅行業與旅遊服務;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業,定位:旅行業與旅遊服務;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論》第五章 旅行業,定位:旅行業與旅遊服務;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
-      "sequence": 432
-    },
     {
       "id": "teacher-exam-114-15-q034-7f025c17cc",
       "sourceYear": 114,

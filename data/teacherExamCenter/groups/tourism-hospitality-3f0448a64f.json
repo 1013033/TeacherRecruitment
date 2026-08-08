@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-3f0448a64f",
     "subject": "tourism-hospitality",
@@ -15,17 +15,20 @@
       "teacher-exam-102-03-q002-55cf0d65b8",
       "teacher-exam-102-03-q003-80034c76a0",
       "teacher-exam-104-05-q002-2f0eecb4d8",
-      "teacher-exam-107-08-q002-558400fa02",
       "teacher-exam-107-08-q004-bb72d17131",
+      "teacher-exam-109-10-q002-22a3d0b390",
       "teacher-exam-110-11-q001-96a60dc2e2",
       "teacher-exam-111-12-q001-1f30ff67b1",
       "teacher-exam-113-14-q001-058aa27545",
+      "teacher-exam-113-14-q001-fb593a6715",
+      "teacher-exam-113-14-q004-d728320b44",
       "teacher-exam-107-08-q003-392deb7975"
     ],
     "years": [
       113,
       111,
       110,
+      109,
       107,
       104,
       102,
@@ -40,7 +43,7 @@
         "note": "依人工審核整理檔「1150801-晚上-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 晚上.md」。原始人工分類：A英翻中"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
@@ -336,47 +339,6 @@
       "sequence": 604
     },
     {
-      "id": "teacher-exam-107-08-q002-558400fa02",
-      "sourceYear": 107,
-      "sourceLabel": "107 年第 2 題（由合併題組拆分）",
-      "sourceFile": "107餐旅群教師甄試合併檔(列印) 6頁.md",
-      "sourceLocator": "107餐旅群教師甄試合併檔(列印) 6頁.md#offset-7326",
-      "paperTitle": "二、問答題（共45分）",
-      "schoolName": "未標示學校",
-      "questionNumber": 2,
-      "questionType": "essay",
-      "prompt": "交通部觀光局為提升新任稀少語別導遊接待服務經驗與技能及儲備接待稀少語別地區來臺團體旅客業務人才，特於105年訂定發布稀少語別隨團導遊或翻譯人員補助要點，其稀少語別係指？（每格2分，共14分）",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[觀光餐旅英語會話] - [A英翻中]",
-      "conceptId": "tourism-hospitality-3f0448a64f",
-      "conceptLabel": "A英翻中",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "觀光餐旅英語會話",
-          "locator": "A英翻中",
-          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：A英翻中"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "交通部觀光局為提升新任稀少語別導遊接待服務經驗與技能及儲備接待稀少語別地區來臺團體旅客業務人才,特於105年訂定發布稀少語別隨團導遊或翻譯人員補助要點,其稀少語別係指?(每格2分,共14分) 觀光餐旅業導論 [觀光餐旅英語會話] - [A英翻中] A英翻中",
-      "sequence": 1357
-    },
-    {
       "id": "teacher-exam-107-08-q004-bb72d17131",
       "sourceYear": 107,
       "sourceLabel": "107 年第 4 題",
@@ -422,6 +384,53 @@
       ],
       "searchText": "請將下列敘述翻譯成中文 Critics of tourism often point to large resort developments, particularly resort enclaves, as being major contributors to the negative impacts of tourism. Not only are they often out-of-scale with indigenous landscape and way of life, it is often argued, but they consume large quantities of capital which could be more usefully applied in other ways. 觀光餐旅業導論 [觀光餐旅英語會話] - [A英翻中] A英翻中 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「(1)H、(2)H、(3)I、(4)I、(5)N、(6)I、(7)R、(8)G、(9)R、(10)R」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
       "sequence": 1358
+    },
+    {
+      "id": "teacher-exam-109-10-q002-22a3d0b390",
+      "sourceYear": 109,
+      "sourceLabel": "109 年第 2 題",
+      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-3283",
+      "paperTitle": "二、簡答題（共16分）",
+      "schoolName": "未標示學校",
+      "questionNumber": 2,
+      "questionType": "essay",
+      "prompt": "觀餐旅業專業英文翻譯（請寫出中文）。\n\n| 專業英文 | 中文 | 專業英文 | 中文 |\n| --- | --- | --- | --- |\n| Luggage Rack | (1) | Bermuda Plan | (2) |\n| Linen Cart | (3) | Butcher | (4) |\n| Napkin Ring | (5) | Amusement Tourism | (6) |\n| Rectangular Tray | (7) | Salt Rimmed | (8) |\n| Reservation Supervisor | (9) | Lemon Spiral | (10) |",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[觀光餐旅英語會話] - [A英翻中]",
+      "conceptId": "tourism-hospitality-3f0448a64f",
+      "conceptLabel": "A英翻中",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "觀光餐旅英語會話",
+          "locator": "A英翻中",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念，定位：第一章 觀光餐旅業基本觀念；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "觀光餐旅英語會話",
+            "locator": "A英翻中",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "human-reviewed-1150807"
+      ],
+      "searchText": "觀餐旅業專業英文翻譯(請寫出中文)。\n\n| 專業英文 | 中文 | 專業英文 | 中文 |\n| --- | --- | --- | --- |\n| Luggage Rack | (1) | Bermuda Plan | (2) |\n| Linen Cart | (3) | Butcher | (4) |\n| Napkin Ring | (5) | Amusement Tourism | (6) |\n| Rectangular Tray | (7) | Salt Rimmed | (8) |\n| Reservation Supervisor | (9) | Lemon Spiral | (10) | 觀光餐旅業導論 [觀光餐旅英語會話] - [A英翻中] A英翻中 本題依題幹與選項判斷,核心考點落在「[第一章 觀光餐旅業基本觀念] - [第一章 觀光餐旅業基本觀念]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第一章 觀光餐旅業基本觀念,定位:第一章 觀光餐旅業基本觀念;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 1540
     },
     {
       "id": "teacher-exam-110-11-q001-96a60dc2e2",
@@ -567,6 +576,106 @@
       "sequence": 2045
     },
     {
+      "id": "teacher-exam-113-14-q001-fb593a6715",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 1-12 題（專有名詞英翻中題組）",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-24960",
+      "paperTitle": "新北市公立高級中等學校113學年度教師聯合甄選餐飲管理科試題",
+      "schoolName": "新北市公立高級中等學校",
+      "questionNumber": 1,
+      "questionType": "translation",
+      "prompt": "請寫出下列「專有名詞」英翻中：\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano |  |\n| 2 | Grappa / Marc |  |\n| 3 | Noble Rot |  |\n| 4 | Balut |  |\n| 5 | Palmier |  |\n| 6 | Bouillabaisse |  |\n| 7 | Macadamia Nut |  |\n| 8 | Prosciutto |  |\n| 9 | Calculation Sheet |  |\n| 10 | crème anglaise |  |\n| 11 | Ultra-fine Sugar |  |\n| 12 | Dates（提示：一種食材） |  |",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[觀光餐旅英語會話] - [A英翻中]",
+      "conceptId": "tourism-hospitality-3f0448a64f",
+      "conceptLabel": "A英翻中",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "觀光餐旅英語會話",
+          "locator": "A英翻中",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題為專有名詞英翻中，已依原卷整理為題號、英文名稱、中文名稱表格；已知答案：1 義大利香草酒、2 渣釀白蘭地、3 貴腐菌、4 鴨仔蛋、5 法式蝴蝶酥、11 特砂糖、12 椰棗。6-10 尚待補齊。",
+        "optionExplanations": [],
+        "generatedAt": "2026-07-28",
+        "model": "manual-correction",
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "觀光餐旅英語會話",
+            "locator": "A英翻中",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "manual-question-type-translation-1150801",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "請寫出下列「專有名詞」英翻中:\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Galliano | |\n| 2 | Grappa / Marc | |\n| 3 | Noble Rot | |\n| 4 | Balut | |\n| 5 | Palmier | |\n| 6 | Bouillabaisse | |\n| 7 | Macadamia Nut | |\n| 8 | Prosciutto | |\n| 9 | Calculation Sheet | |\n| 10 | crème anglaise | |\n| 11 | Ultra-fine Sugar | |\n| 12 | Dates(提示:一種食材) | | 觀光餐旅業導論 [觀光餐旅英語會話] - [A英翻中] A英翻中 本題為專有名詞英翻中,已依原卷整理為題號、英文名稱、中文名稱表格;已知答案:1 義大利香草酒、2 渣釀白蘭地、3 貴腐菌、4 鴨仔蛋、5 法式蝴蝶酥、11 特砂糖、12 椰棗。6-10 尚待補齊。",
+      "sequence": 2116,
+      "answer": "1. 義大利香草酒\n2. 渣釀白蘭地\n3. 貴腐菌\n4. 鴨仔蛋\n5. 法式蝴蝶酥\n6. 馬賽魚湯\n7. 夏威夷豆\n8. 生火腿\n9. 團體簽認單\n10. 英式蛋奶醬\n11. 特砂糖\n12. 椰棗",
+      "promptPreview": "請寫出下列「專有名詞」英翻中： | 題號 | 英文名稱 | 中文名稱 | | --- | --- | --- | | 1 | Galliano | | | 2 | Grappa / Marc | | | 3 | Noble Rot | | | 4 | Balut | | | 5 | Palmier | | | 6 | "
+    },
+    {
+      "id": "teacher-exam-113-14-q004-d728320b44",
+      "sourceYear": 113,
+      "sourceLabel": "113 年第 4 題",
+      "sourceFile": "113年教師甄試題目.md",
+      "sourceLocator": "113年教師甄試題目.md#offset-33373",
+      "paperTitle": "國立臺南家齊高級中等學校113學年度第1次餐飲科專任教師甄選初試筆試試題",
+      "schoolName": "國立臺南家齊高級中等學校",
+      "questionNumber": 4,
+      "questionType": "essay",
+      "prompt": "請寫出下列專業名詞之英翻中：\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Ravioli |  |\n| 2 | Aluminum |  |\n| 3 | Duplex Suite |  |\n| 4 | Bunk Bed |  |\n| 5 | Transient Hotel |  |\n| 6 | Serrated Knife |  |\n| 7 | Batonnet |  |\n| 8 | Fluid Ounce |  |\n| 9 | Familiarization Tour |  |\n| 10 | Braising |  |\n| 11 | Kaiseki Ryori |  |\n| 12 | Mise En Place |  |\n| 13 | Restricted Wine Menu |  |\n| 14 | Group Inclusive Tourist |  |\n| 15 | Complimentary |  |\n| 16 | Guarantee Reservation |  |\n| 17 | Valet parking servive |  |\n| 18 | Roux |  |\n| 19 | Minestrone |  |\n| 20 | Tourne knife |  |\n| A | Chevre Cheese |  |\n| B | Blue Cheese |  |\n| C | Ricotta |  |\n| D | Cheddar |  |\n| E | Maribo |  |\n| F | Gruyere |  |",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[觀光餐旅英語會話] - [A英翻中]",
+      "conceptId": "tourism-hospitality-3f0448a64f",
+      "conceptLabel": "A英翻中",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "觀光餐旅英語會話",
+          "locator": "A英翻中",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "本題依題幹與選項判斷,核心考點落在「[第三章 餐飲業] - [第三章 餐飲業]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題，解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業，定位：第三章 餐飲業；並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "觀光餐旅英語會話",
+            "locator": "A英翻中",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "human-reviewed-1150807"
+      ],
+      "searchText": "請寫出下列專業名詞之英翻中:\n\n| 題號 | 英文名稱 | 中文名稱 |\n| --- | --- | --- |\n| 1 | Ravioli | |\n| 2 | Aluminum | |\n| 3 | Duplex Suite | |\n| 4 | Bunk Bed | |\n| 5 | Transient Hotel | |\n| 6 | Serrated Knife | |\n| 7 | Batonnet | |\n| 8 | Fluid Ounce | |\n| 9 | Familiarization Tour | |\n| 10 | Braising | |\n| 11 | Kaiseki Ryori | |\n| 12 | Mise En Place | |\n| 13 | Restricted Wine Menu | |\n| 14 | Group Inclusive Tourist | |\n| 15 | Complimentary | |\n| 16 | Guarantee Reservation | |\n| 17 | Valet parking servive | |\n| 18 | Roux | |\n| 19 | Minestrone | |\n| 20 | Tourne knife | |\n| A | Chevre Cheese | |\n| B | Blue Cheese | |\n| C | Ricotta | |\n| D | Cheddar | |\n| E | Maribo | |\n| F | Gruyere | | 觀光餐旅業導論 [觀光餐旅英語會話] - [A英翻中] A英翻中 本題依題幹與選項判斷,核心考點落在「[第三章 餐飲業] - [第三章 餐飲業]」。標準答案為「未提供標準答案」。作答時應先抓出題幹關鍵詞,再對照參考書中相同章節的定義、流程或分類表。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論》第八章 觀光餐旅業的現況與未來,定位:觀光餐旅業的定義(頁 1);並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。 【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。 【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。\n\n【作答方向】本題非選擇題,解析重點在名詞定義、適用範圍與教材章節中的關鍵條列。\n\n【參考書依據】主要參考《觀光餐旅業導論-章節分類》第三章 餐飲業,定位:第三章 餐飲業;並以附件三本參考書的章節目錄與題目關鍵詞交叉比對科目邊界。",
+      "sequence": 2175,
+      "promptPreview": "請寫出下列專業名詞之英翻中： | 題號 | 英文名稱 | 中文名稱 | | --- | --- | --- | | 1 | Ravioli | | | 2 | Aluminum | | | 3 | Duplex Suite | | | 4 | Bunk Bed | | | 5 | Transient Hotel | |"
+    },
+    {
       "id": "teacher-exam-107-08-q003-392deb7975",
       "sourceYear": 107,
       "sourceLabel": "107 年第 3 題（由合併題組拆分）",
@@ -589,20 +698,27 @@
           "source": "manual",
           "chapter": "觀光餐旅英語會話",
           "locator": "A英翻中",
-          "note": "依人工審核整理檔「待審核-1150803白天-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150803 白天 (1).md」。原始人工分類：A英翻中"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "觀光餐旅英語會話",
+            "locator": "A英翻中",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A英翻中"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "請將下列敘述翻譯成中文 Before you begin planning an event, SWOT analysis usually must be implemented to underpin your decision making. SWOT analysis assists you in identifying the internal and external variables that may prevent the event from achieving maximum success. 觀光餐旅業導論 [觀光餐旅英語會話] - [A英翻中] A英翻中",
       "sequence": 3593

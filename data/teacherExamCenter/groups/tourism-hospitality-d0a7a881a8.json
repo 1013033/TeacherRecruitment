@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-d0a7a881a8",
     "subject": "tourism-hospitality",
@@ -13,8 +13,7 @@
       "teacher-exam-105-06-q001-d2a6f27d8a",
       "teacher-exam-107-08-q005-3cfe3f79fe",
       "teacher-exam-112-13-q003-aad7fc081b",
-      "teacher-exam-111-taoyuan-short-q002-english-reservation-dialogue",
-      "teacher-exam-105-06-q002-81f731cda4"
+      "teacher-exam-111-taoyuan-short-q002-english-reservation-dialogue"
     ],
     "years": [
       112,
@@ -30,7 +29,7 @@
         "note": "依人工審核整理檔「已分類試題整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.31早上.md」。原始人工分類：D整段英文寫作"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
@@ -104,20 +103,27 @@
           "source": "manual",
           "chapter": "觀光餐旅英語會話",
           "locator": "D整段英文寫作",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：D整段英文寫作"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：D整段英文寫作"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "觀光餐旅英語會話",
+            "locator": "D整段英文寫作",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：D整段英文寫作"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "餐旅英文寫作:請根據圖示以英文介紹『瑪格麗特』的調製方法。 觀光餐旅業導論 [觀光餐旅英語會話] - [D整段英文寫作] D整段英文寫作",
       "sequence": 1051
@@ -268,47 +274,6 @@
       ],
       "searchText": "111-2. 請設計一段在餐廳工作的同仁,接聽講英文的客人打電話來訂餐的對話。(對話中應該要涵蓋,1.接電話者要\n先要問候對方,例如早午晚安皆可,2. 接電話者要先自動報出餐廳的名稱,3.對話中要能確認用餐的日期、\n時間、人數,以及有沒有特殊的用餐需求,例如素食或是有甚麼特別的食物不吃的,4.要能展現訂餐的效率\n以及專業程度,5.其他自行設計能加分的對話) 觀光餐旅業導論 [觀光餐旅英語會話] - [D整段英文寫作] D整段英文寫作 答案與詳細解析待人工審核。",
       "sequence": 3522
-    },
-    {
-      "id": "teacher-exam-105-06-q002-81f731cda4",
-      "sourceYear": 105,
-      "sourceLabel": "105 年第 2 題（由合併題組拆分）",
-      "sourceFile": "105餐旅群教師甄試合併檔(列印) 25頁.md",
-      "sourceLocator": "105餐旅群教師甄試合併檔(列印) 25頁.md#offset-14677;split=105-2",
-      "paperTitle": "未標示試卷",
-      "schoolName": "國立高雄餐旅大學附屬餐旅高級中等學校 105 學年度教師甄選餐飲管理科試題卷(高中部)",
-      "questionNumber": 2,
-      "questionType": "essay",
-      "prompt": "請寫出紅葡萄酒的服務流程。",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[觀光餐旅英語會話] - [D整段英文寫作]",
-      "conceptId": "tourism-hospitality-d0a7a881a8",
-      "conceptLabel": "D整段英文寫作",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "觀光餐旅英語會話",
-          "locator": "D整段英文寫作",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：D整段英文寫作"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "請寫出紅葡萄酒的服務流程。 觀光餐旅業導論 [觀光餐旅英語會話] - [D整段英文寫作] D整段英文寫作",
-      "sequence": 3586
     }
   ]
 }

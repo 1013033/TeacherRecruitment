@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-overrides-ca0e8e6401",
-  "generatedAt": "2026-08-02T14:44:16.925Z",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
+  "generatedAt": "2026-08-07T13:59:33.891Z",
   "sourceQuestionCount": 3527,
   "parsedQuestionCount": 3527,
-  "emittedQuestionCount": 3527,
+  "emittedQuestionCount": 3524,
   "unresolvedQuestionCount": 0,
   "errors": [],
   "files": [
@@ -469,9 +469,6 @@
         "teacher-exam-102-03-q002-7050405f75",
         "teacher-exam-102-03-q003-0f96044051",
         "teacher-exam-102-03-q003-bf1d229222",
-        "teacher-exam-102-03-q001-1af5392d6a",
-        "teacher-exam-102-03-q002-f922a10b69",
-        "teacher-exam-102-03-q003-48b2927ed4",
         "teacher-exam-102-03-q004-e70a455fde",
         "teacher-exam-102-03-q001-b1dfb1b254",
         "teacher-exam-102-03-q002-d00554b06d",
@@ -540,7 +537,8 @@
         "teacher-exam-102-03-q019-84b6d1a5e3",
         "teacher-exam-102-03-q020-15214a4c67"
       ],
-      "unresolvedIds": []
+      "unresolvedIds": [],
+      "excludedQuestionCount": 3
     },
     {
       "fileName": "103餐旅群教師甄試合併檔(列印) 7頁.md",
@@ -7022,5 +7020,6 @@
       "questionCount": 2,
       "reviewStatus": "approved"
     }
-  ]
+  ],
+  "excludedQuestionCount": 3
 }

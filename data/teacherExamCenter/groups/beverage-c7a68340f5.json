@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "beverage-c7a68340f5",
     "subject": "beverage",
@@ -11,7 +11,8 @@
     "questionIds": [
       "teacher-exam-108-09-q033-fa1a65264c",
       "teacher-exam-97-19-q039-009a92cb2f",
-      "teacher-exam-98-20-q010-36afb7e6fe"
+      "teacher-exam-98-20-q010-36afb7e6fe",
+      "teacher-exam-108-09-q003-6fc5a0d77a"
     ],
     "years": [
       108,
@@ -226,6 +227,54 @@
       "searchText": "『X.O』代表酒類的 等級 種類 產地 廠牌。 飲料實務 [CH6 酒的分類與製程] - [6-2 A6白蘭地(Brandy)] 6-2 A6白蘭地(Brandy) 此題已依原始試題修正為選擇題格式,解析需重新檢核。",
       "sequence": 3289.08,
       "answer": "1"
+    },
+    {
+      "id": "teacher-exam-108-09-q003-6fc5a0d77a",
+      "sourceYear": 108,
+      "sourceLabel": "108 年第 3 題（由合併題組拆分）",
+      "sourceFile": "108餐旅群教師甄試合併檔(列印) 12頁.md",
+      "sourceLocator": "108餐旅群教師甄試合併檔(列印) 12頁.md#offset-8804;split=108-3",
+      "paperTitle": "三、填充題:(每個答案1分,共20分)",
+      "schoolName": "國立關西高級中學 108 學年度第1 次教師甄選題目試卷",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "法國的白蘭地以干邑區及(雅馬邑)區最為知名。",
+      "options": [],
+      "subject": "beverage",
+      "subjectLabel": "飲料實務",
+      "unit": "[CH6 酒的分類與製程] - [6-2 A6白蘭地(Brandy)]",
+      "conceptId": "beverage-c7a68340f5",
+      "conceptLabel": "6-2 A6白蘭地(Brandy)",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH6 酒的分類與製程",
+          "locator": "6-2 A6白蘭地(Brandy)",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：6-2 A6白蘭地(Brandy)"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH6 酒的分類與製程",
+            "locator": "6-2 A6白蘭地(Brandy)",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：6-2 A6白蘭地(Brandy)"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "法國的白蘭地以干邑區及(雅馬邑)區最為知名。 飲料實務 [CH6 酒的分類與製程] - [6-2 A6白蘭地(Brandy)] 6-2 A6白蘭地(Brandy)",
+      "sequence": 3595
     }
   ]
 }

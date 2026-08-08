@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-681217b091",
     "subject": "tourism-hospitality",
@@ -15,10 +15,10 @@
       "teacher-exam-102-03-q002-7050405f75",
       "teacher-exam-102-03-q003-0f96044051",
       "teacher-exam-104-05-q008-250f3057f5",
-      "teacher-exam-104-05-q001-03689133d2",
       "teacher-exam-104-05-q004-a8f662c917",
       "teacher-exam-104-05-q012-994b1fc55d",
       "teacher-exam-107-08-q025-f4929ba900",
+      "teacher-exam-109-10-q003-e9a422a113",
       "teacher-exam-111-12-q026-e8bae9477a",
       "teacher-exam-97-19-q039-bace91da96",
       "teacher-exam-98-20-q002-2345186132",
@@ -26,6 +26,7 @@
     ],
     "years": [
       111,
+      109,
       107,
       104,
       102,
@@ -42,7 +43,7 @@
         "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：4-5 F 旅宿業經營方式"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
@@ -446,47 +447,6 @@
       "sequence": 584
     },
     {
-      "id": "teacher-exam-104-05-q001-03689133d2",
-      "sourceYear": 104,
-      "sourceLabel": "104 年第 1 題（由合併題組拆分）",
-      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
-      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-21415",
-      "paperTitle": "四、問答題（每題10分，共30分）",
-      "schoolName": "高雄市立餐旅國民中學104學年度教師甄選",
-      "questionNumber": 1,
-      "questionType": "essay",
-      "prompt": "請解釋及說明旅行社產品部人員執掌 T/P、R/C、T/C、O/P？",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH4 旅宿業] - [4-5 F 旅宿業經營方式]",
-      "conceptId": "tourism-hospitality-681217b091",
-      "conceptLabel": "4-5 F 旅宿業經營方式",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH4 旅宿業",
-          "locator": "4-5 F 旅宿業經營方式",
-          "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：4-5 F 旅宿業經營方式"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "請解釋及說明旅行社產品部人員執掌 T/P、R/C、T/C、O/P? 觀光餐旅業導論 [CH4 旅宿業] - [4-5 F 旅宿業經營方式] 4-5 F 旅宿業經營方式",
-      "sequence": 757
-    },
-    {
       "id": "teacher-exam-104-05-q004-a8f662c917",
       "sourceYear": 104,
       "sourceLabel": "104 年第 4 題",
@@ -748,6 +708,54 @@
       "sequence": 1335
     },
     {
+      "id": "teacher-exam-109-10-q003-e9a422a113",
+      "sourceYear": 109,
+      "sourceLabel": "109 年第 3 題（由合併題組拆分）",
+      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-13899",
+      "paperTitle": "三、問答題（每題8分，共40分）",
+      "schoolName": "國立頭城高級家事商業職業學校 109 學年度第 1 次教師甄選觀光事業科題目卷",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "請說明下列旅館連鎖經營的方式，包括：Management Contract、Lease、Voluntary Chain、Franchise、Referral Chain。",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH4 旅宿業] - [4-5 F 旅宿業經營方式]",
+      "conceptId": "tourism-hospitality-681217b091",
+      "conceptLabel": "4-5 F 旅宿業經營方式",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH4 旅宿業",
+          "locator": "4-5 F 旅宿業經營方式",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-5 F 旅宿業經營方式"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH4 旅宿業",
+            "locator": "4-5 F 旅宿業經營方式",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-5 F 旅宿業經營方式"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "請說明下列旅館連鎖經營的方式,包括:Management Contract、Lease、Voluntary Chain、Franchise、Referral Chain。 觀光餐旅業導論 [CH4 旅宿業] - [4-5 F 旅宿業經營方式] 4-5 F 旅宿業經營方式",
+      "sequence": 1638
+    },
+    {
       "id": "teacher-exam-111-12-q026-e8bae9477a",
       "sourceYear": 111,
       "sourceLabel": "111 年第 26 題",
@@ -1003,20 +1011,27 @@
           "source": "manual",
           "chapter": "CH4 旅宿業",
           "locator": "4-5 F 旅宿業經營方式",
-          "note": "依人工審核整理檔「未審核 115.07.31下午 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 115.07.31下午.md」。原始人工分類：4-5 F 旅宿業經營方式"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-5 F 旅宿業經營方式"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH4 旅宿業",
+            "locator": "4-5 F 旅宿業經營方式",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：4-5 F 旅宿業經營方式"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "請說明及解釋 Management Contract 和 Franchise 之差異。 觀光餐旅業導論 [CH4 旅宿業] - [4-5 F 旅宿業經營方式] 4-5 F 旅宿業經營方式",
       "sequence": 3585

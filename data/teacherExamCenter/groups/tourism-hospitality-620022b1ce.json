@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-620022b1ce",
     "subject": "tourism-hospitality",
@@ -16,12 +16,14 @@
       "teacher-exam-112-13-q005-8e42b157df",
       "teacher-exam-113-14-q005-375a9ecf02",
       "teacher-exam-113-14-q001-93ec68645c",
-      "teacher-exam-shuili-q015-55b01ef673"
+      "teacher-exam-shuili-q015-55b01ef673",
+      "teacher-exam-109-10-q002-64d240e89f"
     ],
     "years": [
       115,
       113,
       112,
+      109,
       104,
       101
     ],
@@ -574,6 +576,54 @@
       "searchText": "原配方可製作24個、每個麵糰重65公克的餐包。若規格不變,欲製作40個餐包,配方材料的換算倍數約為多少? 1.25倍 1.67倍 2.40倍 2.67倍 觀光餐旅業導論 [烘焙] - [烘焙─計算題] 烘焙─計算題 答案與詳細解析待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
       "sequence": 3483,
       "promptPreview": "原配方可製作24個、每個麵糰重65公克的餐包。若規格不變，欲製作40個餐包，配方材料的換算倍數約為多少？"
+    },
+    {
+      "id": "teacher-exam-109-10-q002-64d240e89f",
+      "sourceYear": 109,
+      "sourceLabel": "109 年第 2 題（由合併題組拆分）",
+      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-9407;split=109-2",
+      "paperTitle": "二、簡答題，共30分。",
+      "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+      "questionNumber": 2,
+      "questionType": "essay",
+      "prompt": "阿德要用直接攪拌法做麵包，麵團的理想溫度為 25°C，室溫則為 27°C，麵粉溫度 23°C，機器使用後之摩擦增高溫為 21°C，那麼他要用幾度的水溫才適合？",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[烘焙] - [烘焙─計算題]",
+      "conceptId": "tourism-hospitality-620022b1ce",
+      "conceptLabel": "烘焙─計算題",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "烘焙",
+          "locator": "烘焙─計算題",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：烘焙─計算題"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "烘焙",
+            "locator": "烘焙─計算題",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：烘焙─計算題"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "阿德要用直接攪拌法做麵包,麵團的理想溫度為 25°C,室溫則為 27°C,麵粉溫度 23°C,機器使用後之摩擦增高溫為 21°C,那麼他要用幾度的水溫才適合? 觀光餐旅業導論 [烘焙] - [烘焙─計算題] 烘焙─計算題",
+      "sequence": 3601
     }
   ]
 }

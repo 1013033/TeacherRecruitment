@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-4355b7f8c4",
     "subject": "tourism-hospitality",
@@ -22,7 +22,8 @@
       "teacher-exam-113-14-q021-ebaa75a9cd",
       "teacher-exam-96-18-q009-cd7cdaf99a",
       "teacher-exam-shuili-q014-2307d7de44",
-      "teacher-exam-shuili-q050-d7c19a681f"
+      "teacher-exam-shuili-q050-d7c19a681f",
+      "teacher-exam-98-20-q002-d74026169b"
     ],
     "years": [
       115,
@@ -30,6 +31,7 @@
       109,
       108,
       104,
+      98,
       96
     ],
     "publisherBasis": [
@@ -1123,6 +1125,54 @@
       ],
       "searchText": "蛋糕常見的失敗原因,下列那些選項是錯誤的 甲、表面顏色太深是糖量過高,上火太強 乙、外觀狀況底部凹入,是因為底火太強,泡打粉用量過多 丙、內部組織有水線是因為水量過少、打發不足 丁、體積過小是因為攪拌過度,麵糊放置過久 乙、丙 甲、丁 甲、丙 乙、丁 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析 答案與詳細解析待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
       "sequence": 3518
+    },
+    {
+      "id": "teacher-exam-98-20-q002-d74026169b",
+      "sourceYear": 98,
+      "sourceLabel": "98 年第 2 題（由合併題組拆分）",
+      "sourceFile": "98餐旅群教師甄試合併檔(列印) 10頁.md",
+      "sourceLocator": "98餐旅群教師甄試合併檔(列印) 10頁.md#offset-6122;split=98-2",
+      "paperTitle": "三、問答題（45%）",
+      "schoolName": "國立玉井高級工商職業學校 98 學年度第一次教師甄審餐飲管理科試卷",
+      "questionNumber": 2,
+      "questionType": "essay",
+      "prompt": "衛生單位為保障消費者之權益，針對國內速食業者油炸油品質稽查輔導。試問衛生單位稽查輔導重點為何？",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[烘焙] - [烘焙─產品分析]",
+      "conceptId": "tourism-hospitality-4355b7f8c4",
+      "conceptLabel": "烘焙─產品分析",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "烘焙",
+          "locator": "烘焙─產品分析",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：烘焙─產品分析"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "烘焙",
+            "locator": "烘焙─產品分析",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：烘焙─產品分析"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "衛生單位為保障消費者之權益,針對國內速食業者油炸油品質稽查輔導。試問衛生單位稽查輔導重點為何? 觀光餐旅業導論 [烘焙] - [烘焙─產品分析] 烘焙─產品分析",
+      "sequence": 3532
     }
   ]
 }

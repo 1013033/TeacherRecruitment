@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-85506903d5",
     "subject": "tourism-hospitality",
@@ -40,7 +40,6 @@
       "teacher-exam-94-17-q002-cfd08c8cdd",
       "teacher-exam-94-17-q013-55a984bb0a",
       "teacher-exam-96-18-q009-1e178c7c1c",
-      "teacher-exam-97-19-q001-f90e3310d7",
       "teacher-exam-97-19-q007-d23640d8b0",
       "teacher-exam-97-19-q039-e76c18f0db",
       "teacher-exam-97-19-q042-081dd2ac7b",
@@ -51,11 +50,9 @@
       "teacher-exam-97-19-q003-c04881bcf4",
       "teacher-exam-99-21-q010-3b04da7d50",
       "teacher-exam-97-19-q002-a42022aaf0",
-      "teacher-exam-97-19-q003-7b9bef3900",
       "teacher-exam-97-19-q004-6584460ae9",
       "teacher-exam-97-19-q005-f68f140e02",
-      "teacher-exam-97-19-q006-14e37ef85d",
-      "teacher-exam-104-05-q002-e71a8b6d54"
+      "teacher-exam-97-19-q006-14e37ef85d"
     ],
     "years": [
       114,
@@ -83,7 +80,7 @@
         "note": "依人工審核整理檔「1150801-上午-試題分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150801 白天.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
       }
     ],
-    "reviewStatus": "needs-review",
+    "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
@@ -674,20 +671,27 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-3 C 餐廳種類及服務型態",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "Catering 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
       "sequence": 872
@@ -2655,47 +2659,6 @@
       "sequence": 2751
     },
     {
-      "id": "teacher-exam-97-19-q001-f90e3310d7",
-      "sourceYear": 97,
-      "sourceLabel": "97 年第 1 題（由合併題組拆分）",
-      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
-      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-2270",
-      "paperTitle": "一、填充題：（90%，每格 3 分）",
-      "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
-      "questionNumber": 1,
-      "questionType": "essay",
-      "prompt": "Table Service：餐桌服務",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-3 C 餐廳種類及服務型態]",
-      "conceptId": "tourism-hospitality-85506903d5",
-      "conceptLabel": "3-3 C 餐廳種類及服務型態",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "Table Service:餐桌服務 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
-      "sequence": 2814
-    },
-    {
       "id": "teacher-exam-97-19-q007-d23640d8b0",
       "sourceYear": 97,
       "sourceLabel": "97 年第 7 題",
@@ -3453,64 +3416,30 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-3 C 餐廳種類及服務型態",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "Semi Buffet Service:半自助式服務 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
       "sequence": 3524
-    },
-    {
-      "id": "teacher-exam-97-19-q003-7b9bef3900",
-      "sourceYear": 97,
-      "sourceLabel": "97 年第 3 題（由合併題組拆分）",
-      "sourceFile": "97餐旅群教師甄試合併檔(列印) 28頁.md",
-      "sourceLocator": "97餐旅群教師甄試合併檔(列印) 28頁.md#offset-2270;split=97-3",
-      "paperTitle": "一、填充題：（90%，每格 3 分）",
-      "schoolName": "國立臺南家齊女中 97 年第一次教師甄選餐飲科試題",
-      "questionNumber": 3,
-      "questionType": "essay",
-      "prompt": "Counter Service：櫃檯式服務",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-3 C 餐廳種類及服務型態]",
-      "conceptId": "tourism-hospitality-85506903d5",
-      "conceptLabel": "3-3 C 餐廳種類及服務型態",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "Counter Service:櫃檯式服務 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
-      "sequence": 3525
     },
     {
       "id": "teacher-exam-97-19-q004-6584460ae9",
@@ -3535,20 +3464,27 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-3 C 餐廳種類及服務型態",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "Fly Kitchen:空中廚房 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
       "sequence": 3526
@@ -3576,20 +3512,27 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-3 C 餐廳種類及服務型態",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "Take Out Service:外賣服務 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
       "sequence": 3527
@@ -3617,64 +3560,30 @@
           "source": "manual",
           "chapter": "CH3 餐飲業",
           "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
         }
       ],
       "explanation": {
-        "status": "needs-review",
+        "status": "approved",
         "answerExplanation": "",
         "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-3 C 餐廳種類及服務型態",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
       },
-      "reviewStatus": "needs-review",
+      "reviewStatus": "approved",
       "flags": [
         "split-merged-question-group-1150805",
-        "needs-review"
+        "human-reviewed-1150807"
       ],
       "searchText": "Delivery Service:外送服務 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
       "sequence": 3528
-    },
-    {
-      "id": "teacher-exam-104-05-q002-e71a8b6d54",
-      "sourceYear": 104,
-      "sourceLabel": "104 年第 2 題（由合併題組拆分）",
-      "sourceFile": "104餐旅群教師甄試合併檔(列印) 31頁.md",
-      "sourceLocator": "104餐旅群教師甄試合併檔(列印) 31頁.md#offset-32109;split=104-2",
-      "paperTitle": "二、解釋名詞，每題3分，共30分。",
-      "schoolName": "國立羅東高級商業職業學校104學年度教師甄選",
-      "questionNumber": 2,
-      "questionType": "essay",
-      "prompt": "Sediments",
-      "options": [],
-      "subject": "tourism-hospitality",
-      "subjectLabel": "觀光餐旅業導論",
-      "unit": "[CH3 餐飲業] - [3-3 C 餐廳種類及服務型態]",
-      "conceptId": "tourism-hospitality-85506903d5",
-      "conceptLabel": "3-3 C 餐廳種類及服務型態",
-      "relatedConceptIds": [],
-      "classificationBasis": [
-        {
-          "source": "manual",
-          "chapter": "CH3 餐飲業",
-          "locator": "3-3 C 餐廳種類及服務型態",
-          "note": "依人工審核整理檔「未審核 115.07.30晚上 題目分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼115.07.30 晚上.md」。原始人工分類：3-3 C 餐廳種類及服務型態"
-        }
-      ],
-      "explanation": {
-        "status": "needs-review",
-        "answerExplanation": "",
-        "optionExplanations": [],
-        "references": [],
-        "updatedAt": "2026-08-06T13:29:49.624Z"
-      },
-      "reviewStatus": "needs-review",
-      "flags": [
-        "split-merged-question-group-1150805",
-        "needs-review"
-      ],
-      "searchText": "Sediments 觀光餐旅業導論 [CH3 餐飲業] - [3-3 C 餐廳種類及服務型態] 3-3 C 餐廳種類及服務型態",
-      "sequence": 3579
     }
   ]
 }

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
+  "concept": {
+    "id": "tourism-hospitality-db59d72979",
+    "subject": "tourism-hospitality",
+    "subjectLabel": "觀光餐旅業導論",
+    "unit": "[中式麵食] - [A中式麵食類別]",
+    "label": "A中式麵食類別",
+    "description": "",
+    "questionIds": [
+      "teacher-exam-99-21-q001-37ec31d2f9"
+    ],
+    "years": [
+      99
+    ],
+    "publisherBasis": [
+      {
+        "source": "manual",
+        "chapter": "中式麵食",
+        "locator": "A中式麵食類別",
+        "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A中式麵食類別"
+      }
+    ],
+    "reviewStatus": "approved",
+    "unresolvedCount": 0
+  },
+  "questions": [
+    {
+      "id": "teacher-exam-99-21-q001-37ec31d2f9",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 1 題（由合併題組拆分）",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15443",
+      "paperTitle": "二、填充題：每格 3 分，共 30%",
+      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "帶肉餡的長方形麵食，乾烙製成，其形狀似過去裝錢之錢袋的一種北京小吃稱為：褡褢火燒（或鍋貼等，依原卷標準）",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[中式麵食] - [A中式麵食類別]",
+      "conceptId": "tourism-hospitality-db59d72979",
+      "conceptLabel": "A中式麵食類別",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "中式麵食",
+          "locator": "A中式麵食類別",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A中式麵食類別"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "中式麵食",
+            "locator": "A中式麵食類別",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：A中式麵食類別"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "帶肉餡的長方形麵食,乾烙製成,其形狀似過去裝錢之錢袋的一種北京小吃稱為:褡褢火燒(或鍋貼等,依原卷標準) 觀光餐旅業導論 [中式麵食] - [A中式麵食類別] A中式麵食類別",
+      "sequence": 3445
+    }
+  ]
+}

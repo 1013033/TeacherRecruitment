@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-22dd491a84",
     "subject": "tourism-hospitality",
@@ -9,11 +9,13 @@
     "label": "3-4 A1餐飲業的組織─組織設計原則(工作設計)",
     "description": "",
     "questionIds": [
+      "teacher-exam-100-01-q001-0dce0effa1",
       "teacher-exam-94-17-q040-1bba574f3b",
       "teacher-exam-97-19-q006-c0f4c94b59",
       "teacher-exam-97-19-q004-8c65b22e1a"
     ],
     "years": [
+      100,
       97,
       94
     ],
@@ -22,13 +24,61 @@
         "source": "manual",
         "chapter": "CH3 餐飲業",
         "locator": "3-4 A1餐飲業的組織─組織設計原則(工作設計)",
-        "note": "依人工審核整理檔「待審核-1150804晚上-紅字分類整理.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150804晚上.md」。原始人工分類：3-4 A1餐飲業的組織─組織設計原則(工作設計)"
+        "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-4 A1餐飲業的組織─組織設計原則(工作設計)"
       }
     ],
     "reviewStatus": "approved",
     "unresolvedCount": 0
   },
   "questions": [
+    {
+      "id": "teacher-exam-100-01-q001-0dce0effa1",
+      "sourceYear": 100,
+      "sourceLabel": "100 年第 1 題（由合併題組拆分）",
+      "sourceFile": "100餐旅群教師甄試合併檔(列印) 19頁.md",
+      "sourceLocator": "100餐旅群教師甄試合併檔(列印) 19頁.md#offset-17103",
+      "paperTitle": "二、解釋名詞：每題 2 分共占 10%",
+      "schoolName": "國立金門高級農工職業學校 100 學年度第一次教師甄選餐飲管理科試卷",
+      "questionNumber": 1,
+      "questionType": "essay",
+      "prompt": "Job Description",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH3 餐飲業] - [3-4 A1餐飲業的組織─組織設計原則(工作設計)]",
+      "conceptId": "tourism-hospitality-22dd491a84",
+      "conceptLabel": "3-4 A1餐飲業的組織─組織設計原則(工作設計)",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-4 A1餐飲業的組織─組織設計原則(工作設計)",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-4 A1餐飲業的組織─組織設計原則(工作設計)"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-4 A1餐飲業的組織─組織設計原則(工作設計)",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-4 A1餐飲業的組織─組織設計原則(工作設計)"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "Job Description 觀光餐旅業導論 [CH3 餐飲業] - [3-4 A1餐飲業的組織─組織設計原則(工作設計)] 3-4 A1餐飲業的組織─組織設計原則(工作設計)",
+      "sequence": 138
+    },
     {
       "id": "teacher-exam-94-17-q040-1bba574f3b",
       "sourceYear": 94,

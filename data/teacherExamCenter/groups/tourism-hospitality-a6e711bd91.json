@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-a6e711bd91",
     "subject": "tourism-hospitality",
@@ -23,13 +23,15 @@
       "teacher-exam-98-20-q038-7342d549dc",
       "teacher-exam-shuili-q002-5fb8c7e62c",
       "teacher-exam-shuili-q034-107691f5d3",
-      "teacher-exam-shuili-q038-7f74adb548"
+      "teacher-exam-shuili-q038-7f74adb548",
+      "teacher-exam-99-21-q004-e1f3e0ca07"
     ],
     "years": [
       115,
       114,
       108,
       106,
+      99,
       98,
       97,
       96
@@ -1251,6 +1253,54 @@
       ],
       "searchText": "烹調的初處理可以縮短烹調時間,去除食材本身的異味,最常使用的「水煮」 與「焯水」有其不同的作用。以下對此二種前處理介紹說明何者是正確的? 「水煮」比「焯水」花費的時間短,因為水煮是要將食材殺菁。 「焯水」必須於水滾後放入食材,保持大大加熱,時間須久一點 「水煮」要讓食材煮到熟,所以只能使用熱水煮,不可用冷水煮 「焯水」大多用於去除血水與殺菁,也稱為「川燙」 觀光餐旅業導論 [CH3 餐飲業] - [3-5 C 中餐烹調法] 3-5 C 中餐烹調法 答案與詳細解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 來源試題標示為正確答案;內容解析待人工審核。",
       "sequence": 3506
+    },
+    {
+      "id": "teacher-exam-99-21-q004-e1f3e0ca07",
+      "sourceYear": 99,
+      "sourceLabel": "99 年第 4 題（由合併題組拆分）",
+      "sourceFile": "99餐旅群教師甄試合併檔(列印) 14頁.md",
+      "sourceLocator": "99餐旅群教師甄試合併檔(列印) 14頁.md#offset-15443;split=99-4",
+      "paperTitle": "二、填充題：每格 3 分，共 30%",
+      "schoolName": "國立玉井工商 99 學年度第一次教師甄選餐飲管理科 試題卷",
+      "questionNumber": 4,
+      "questionType": "essay",
+      "prompt": "材料醃過後沾麵粉、蛋液、麵包粉，再入油鍋炸，稱之為：吉列（Pané / Cutlet）",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH3 餐飲業] - [3-5 C 中餐烹調法]",
+      "conceptId": "tourism-hospitality-a6e711bd91",
+      "conceptLabel": "3-5 C 中餐烹調法",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH3 餐飲業",
+          "locator": "3-5 C 中餐烹調法",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-5 C 中餐烹調法"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH3 餐飲業",
+            "locator": "3-5 C 中餐烹調法",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：3-5 C 中餐烹調法"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "材料醃過後沾麵粉、蛋液、麵包粉,再入油鍋炸,稱之為:吉列(Pané / Cutlet) 觀光餐旅業導論 [CH3 餐飲業] - [3-5 C 中餐烹調法] 3-5 C 中餐烹調法",
+      "sequence": 3537
     }
   ]
 }

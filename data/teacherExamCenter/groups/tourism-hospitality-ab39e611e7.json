@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-ab39e611e7",
     "subject": "tourism-hospitality",
@@ -13,11 +13,13 @@
       "teacher-exam-101-02-q009-be067553c9",
       "teacher-exam-101-02-q030-e92238e95d",
       "teacher-exam-108-09-q001-8d208da80d",
-      "teacher-exam-112-13-q008-ca6f859985"
+      "teacher-exam-112-13-q008-ca6f859985",
+      "teacher-exam-106-07-q003-7fc365b32d"
     ],
     "years": [
       112,
       108,
+      106,
       101,
       100
     ],
@@ -436,6 +438,54 @@
       ],
       "searchText": "「Journey」的種類與票價計算有關，請寫出常見的4種 Journey Type 的英文與中文。   觀光餐旅業導論 [CH5 旅行業] - [5-5 K 飛行行程種類] 5-5 K 飛行行程種類",
       "sequence": 1943
+    },
+    {
+      "id": "teacher-exam-106-07-q003-7fc365b32d",
+      "sourceYear": 106,
+      "sourceLabel": "106 年第 3 題（由合併題組拆分）",
+      "sourceFile": "106餐旅群教師甄試合併檔(列印) 27頁.md",
+      "sourceLocator": "106餐旅群教師甄試合併檔(列印) 27頁.md#offset-30618;split=106-3",
+      "paperTitle": "五、問答題（5 題，共 40 分）",
+      "schoolName": "高中部觀光科試題卷",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "台灣羽球世界球后戴資穎小姐，預計於 2017 年 6 月 18 日啟程前往澳洲參加澳洲羽球超級系列賽，搭乘 BR315 班機，台北（GMT+8）起飛時間為 23:00，到達布里斯本（GMT+10）時間為 09:50(+1)，請問其總飛行時間為多少？（5%）",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[CH5 旅行業] - [5-5 K 飛行行程種類]",
+      "conceptId": "tourism-hospitality-ab39e611e7",
+      "conceptLabel": "5-5 K 飛行行程種類",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "CH5 旅行業",
+          "locator": "5-5 K 飛行行程種類",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：5-5 K 飛行行程種類"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "CH5 旅行業",
+            "locator": "5-5 K 飛行行程種類",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：5-5 K 飛行行程種類"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "台灣羽球世界球后戴資穎小姐,預計於 2017 年 6 月 18 日啟程前往澳洲參加澳洲羽球超級系列賽,搭乘 BR315 班機,台北(GMT+8)起飛時間為 23:00,到達布里斯本(GMT+10)時間為 09:50(+1),請問其總飛行時間為多少?(5%) 觀光餐旅業導論 [CH5 旅行業] - [5-5 K 飛行行程種類] 5-5 K 飛行行程種類",
+      "sequence": 3590
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "teacher-exam-1150806-matsu-table-dd55bbb58f",
+  "dataVersion": "teacher-exam-1150807-corrections-24426457ba",
   "concept": {
     "id": "tourism-hospitality-2c2845c286",
     "subject": "tourism-hospitality",
@@ -20,13 +20,16 @@
       "teacher-exam-98-20-q015-cfbf5c2440",
       "teacher-exam-98-20-q025-0e02064485",
       "teacher-exam-98-20-q030-d890eee20a",
-      "teacher-exam-shuili-q031-638c7bd73e"
+      "teacher-exam-shuili-q031-638c7bd73e",
+      "teacher-exam-101-02-q003-47d1b90884",
+      "teacher-exam-109-10-q003-60ab1bb66c"
     ],
     "years": [
       115,
       109,
       103,
       102,
+      101,
       98,
       97,
       96
@@ -1046,6 +1049,102 @@
       ],
       "searchText": "湯品保溫時,最重要的目的為: 維持食品安全及品質 節省能源 增加重量 提高售價 觀光餐旅業導論 [西餐] - [J西餐─湯品] J西餐─湯品 答案與詳細解析待人工審核。 來源試題標示為正確答案;內容解析待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。 錯誤原因待人工審核。",
       "sequence": 3499
+    },
+    {
+      "id": "teacher-exam-101-02-q003-47d1b90884",
+      "sourceYear": 101,
+      "sourceLabel": "101 年第 3 題（由合併題組拆分）",
+      "sourceFile": "101餐旅群教師甄試合併檔(列印) 24頁.md",
+      "sourceLocator": "101餐旅群教師甄試合併檔(列印) 24頁.md#offset-12574;split=101-3",
+      "paperTitle": "二、請把下列專業名詞翻譯成中文，共10題，每題2分，共20分",
+      "schoolName": "國立嘉義高級家事職業學校 101學年度教師甄選餐飲管理科筆試試卷",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "Gazpacho：西班牙冷湯",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[西餐] - [J西餐─湯品]",
+      "conceptId": "tourism-hospitality-2c2845c286",
+      "conceptLabel": "J西餐─湯品",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "西餐",
+          "locator": "J西餐─湯品",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：J西餐─湯品"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "西餐",
+            "locator": "J西餐─湯品",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：J西餐─湯品"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "Gazpacho:西班牙冷湯 觀光餐旅業導論 [西餐] - [J西餐─湯品] J西餐─湯品",
+      "sequence": 3560
+    },
+    {
+      "id": "teacher-exam-109-10-q003-60ab1bb66c",
+      "sourceYear": 109,
+      "sourceLabel": "109 年第 3 題（由合併題組拆分）",
+      "sourceFile": "109餐旅群教師甄試合併檔(列印) 15頁.md",
+      "sourceLocator": "109餐旅群教師甄試合併檔(列印) 15頁.md#offset-9407;split=109-3",
+      "paperTitle": "二、簡答題，共30分。",
+      "schoolName": "國立臺南家齊高級中等學校 109 年第 1 次教師甄選餐飲科初試題目卷",
+      "questionNumber": 3,
+      "questionType": "essay",
+      "prompt": "請說明「consommé」與「purée」。",
+      "options": [],
+      "subject": "tourism-hospitality",
+      "subjectLabel": "觀光餐旅業導論",
+      "unit": "[西餐] - [J西餐─湯品]",
+      "conceptId": "tourism-hospitality-2c2845c286",
+      "conceptLabel": "J西餐─湯品",
+      "relatedConceptIds": [],
+      "classificationBasis": [
+        {
+          "source": "manual",
+          "chapter": "西餐",
+          "locator": "J西餐─湯品",
+          "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：J西餐─湯品"
+        }
+      ],
+      "explanation": {
+        "status": "approved",
+        "answerExplanation": "",
+        "optionExplanations": [],
+        "references": [
+          {
+            "source": "manual",
+            "chapter": "西餐",
+            "locator": "J西餐─湯品",
+            "note": "依人工審核整理檔「待審核-1150807.md」套用主要分類；分類限定於「好幾科 黃底 目錄(含細節)代碼 1150807.md」。原始人工分類：J西餐─湯品"
+          }
+        ],
+        "updatedAt": "2026-08-07T13:47:32.999Z"
+      },
+      "reviewStatus": "approved",
+      "flags": [
+        "split-merged-question-group-1150805",
+        "human-reviewed-1150807"
+      ],
+      "searchText": "請說明「consommé」與「purée」。 觀光餐旅業導論 [西餐] - [J西餐─湯品] J西餐─湯品",
+      "sequence": 3602
     }
   ]
 }
