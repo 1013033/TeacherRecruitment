@@ -1,0 +1,394 @@
+code,paper,level,parent_code,label,catalog_ref,sort_order,enabled
+p1-s-1,p1,subject,,觀光餐旅業導論,觀光餐旅業導論,1,TRUE
+p1-c-ch1,p1,chapter,p1-s-1,CH1 觀光餐旅業基本觀念,CH1,1,TRUE
+p1-s-1-1,p1,section,p1-c-ch1,1-1 觀光餐旅業的定義,1-1,1,TRUE
+p1-c-1-1-a,p1,concept,p1-s-1-1,1-1 A 定義,1-1 A,1,TRUE
+p1-c-1-1-b,p1,concept,p1-s-1-1,1-1 B 字源,1-1 B,2,TRUE
+p1-s-1-2,p1,section,p1-c-ch1,1-2 觀光餐旅業的範圍,1-2,2,TRUE
+p1-c-1-2-a,p1,concept,p1-s-1-2,1-2 A 行政院行業分類（H大類、I大類、O大類、S大類）,1-2 A,3,TRUE
+p1-c-1-2-b,p1,concept,p1-s-1-2,1-2 B 經濟部商業司分類,1-2 B,4,TRUE
+p1-s-1-3,p1,section,p1-c-ch1,1-3 觀光餐旅業的特性,1-3,3,TRUE
+p1-c-1-3-a,p1,concept,p1-s-1-3,1-3 A 觀光餐旅業的特性,1-3 A,5,TRUE
+p1-c-1-3-a1,p1,concept,p1-s-1-3,1-3 A1 標準作業流程（SOP）,1-3 A1,6,TRUE
+p1-c-1-3-b,p1,concept,p1-s-1-3,1-3 B 關鍵時刻（Moment of Truth，MOT）,1-3 B,7,TRUE
+p1-s-1-4,p1,section,p1-c-ch1,1-4 觀光餐旅業發展的影響,1-4,4,TRUE
+p1-c-1-4-a,p1,concept,p1-s-1-4,1-4 A 發展影響（經濟、文化、社會、環境）,1-4 A,8,TRUE
+p1-s-1-5,p1,section,p1-c-ch1,1-5 我國觀光餐旅主管機關,1-5,5,TRUE
+p1-c-1-5-a,p1,concept,p1-s-1-5,1-5 A 主管機關,1-5 A,9,TRUE
+p1-c-1-5-b,p1,concept,p1-s-1-5,1-5 B 交通部觀光署,1-5 B,10,TRUE
+p1-c-1-5-b1,p1,concept,p1-s-1-5,1-5 B1國家級風景特定區,1-5 B1,11,TRUE
+p1-c-1-5-b2,p1,concept,p1-s-1-5,1-5 B2各組室職掌,1-5 B2,12,TRUE
+p1-c-1-5-b3,p1,concept,p1-s-1-5,1-5 B3駐外辦事處,1-5 B3,13,TRUE
+p1-c-1-5-c,p1,concept,p1-s-1-5,1-5 C民間觀光組織,1-5 C,14,TRUE
+p1-c-1-5-d,p1,concept,p1-s-1-5,1-5 D 其他觀光組織,1-5 D,15,TRUE
+p1-c-ch2,p1,chapter,p1-s-1,CH2 觀光餐旅業之從業理念,CH2,2,TRUE
+p1-s-2-1,p1,section,p1-c-ch2,2-1 觀光餐旅從業人員的身心條件,2-1,6,TRUE
+p1-c-2-1-a,p1,concept,p1-s-2-1,2-1 A 身心條件,2-1 A,16,TRUE
+p1-s-2-2,p1,section,p1-c-ch2,2-2 觀光餐旅從業人員的職場倫理,2-2,7,TRUE
+p1-c-2-2-a,p1,concept,p1-s-2-2,2-2 A 職場倫理,2-2 A,17,TRUE
+p1-s-2-3,p1,section,p1-c-ch2,2-3 觀光餐旅從業人員的職涯規劃,2-3,8,TRUE
+p1-c-2-3-a,p1,concept,p1-s-2-3,2-3 A 職涯規劃,2-3 A,18,TRUE
+p1-c-ch3,p1,chapter,p1-s-1,CH3 餐飲業,CH3,3,TRUE
+p1-s-3-1,p1,section,p1-c-ch3,3-1 餐飲業的定義與特性,3-1,9,TRUE
+p1-c-3-1-a,p1,concept,p1-s-3-1,3-1 A 定義,3-1 A,19,TRUE
+p1-c-3-1-b,p1,concept,p1-s-3-1,3-1 B 字源,3-1 B,20,TRUE
+p1-c-3-1-c,p1,concept,p1-s-3-1,3-1 C 餐飲商品,3-1 C,21,TRUE
+p1-c-3-1-d,p1,concept,p1-s-3-1,3-1 D 餐飲業特性,3-1 D,22,TRUE
+p1-c-3-1-e,p1,concept,p1-s-3-1,3-1 E 轉桌率/翻桌率/翻檯率(Turnover Rate),3-1 E,23,TRUE
+p1-c-3-2-f,p1,concept,p1-s-3-1,3-2 F 餐飲業的定義與特性（綜合題）,3-2 F,24,TRUE
+p1-s-3-2,p1,section,p1-c-ch3,3-2 餐飲業的發展過程,3-2,10,TRUE
+p1-c-3-2-a,p1,concept,p1-s-3-2,3-2 A 外國─餐飲業的發展,3-2 A,25,TRUE
+p1-c-3-2-b,p1,concept,p1-s-3-2,3-2 B 外國─各國代表菜餚,3-2 B,26,TRUE
+p1-c-3-2-c,p1,concept,p1-s-3-2,3-2 C 中國─餐飲業的發展,3-2 C,27,TRUE
+p1-c-3-2-d,p1,concept,p1-s-3-2,3-2 D 中國─餐飲業的分類,3-2 D,28,TRUE
+p1-c-3-2-e,p1,concept,p1-s-3-2,3-2 E 中國─菜系,3-2 E,29,TRUE
+p1-c-3-2-e1,p1,concept,p1-s-3-2,3-2 E1 中國─菜系（菜餚）,3-2 E1,30,TRUE
+p1-c-3-2-f-2,p1,concept,p1-s-3-2,3-2 F 台灣─餐飲業的發展,3-2 F,31,TRUE
+p1-c-3-2-f1,p1,concept,p1-s-3-2,3-2 F1 台灣─餐飲業的發展（綠色餐飲）,3-2 F1,32,TRUE
+p1-c-3-2-g,p1,concept,p1-s-3-2,3-2 G 台灣─地方特產,3-2 G,33,TRUE
+p1-c-3-2-h,p1,concept,p1-s-3-2,3-2 H 台灣─菜餚,3-2 H,34,TRUE
+p1-c-3-2-h1,p1,concept,p1-s-3-2,3-2 H1 台灣─菜餚（台菜、小吃）,3-2 H1,35,TRUE
+p1-c-3-2-h2,p1,concept,p1-s-3-2,3-2 H2 台灣─菜餚（客家菜）,3-2 H2,36,TRUE
+p1-c-3-2-i,p1,concept,p1-s-3-2,3-2 I 米其林,3-2 I,37,TRUE
+p1-c-3-2-j,p1,concept,p1-s-3-2,3-2 J 世界飲食文化,3-2 J,38,TRUE
+p1-c-3-2,p1,concept,p1-s-3-2,3-2 綜合題─餐飲業的發展過程,3-2,39,TRUE
+p1-s-3-3,p1,section,p1-c-ch3,3-3 餐飲業的類別與餐廳種類,3-3,11,TRUE
+p1-c-3-3-a,p1,concept,p1-s-3-3,3-3 A 餐飲業的類別,3-3 A,40,TRUE
+p1-c-3-3-b,p1,concept,p1-s-3-3,3-3 B 經濟部商業發展署,3-3 B,41,TRUE
+p1-c-3-3-c,p1,concept,p1-s-3-3,3-3 C 餐廳種類及服務型態,3-3 C,42,TRUE
+p1-c-3-3-d,p1,concept,p1-s-3-3,3-3 D 餐廳服務比重,3-3 D,43,TRUE
+p1-c-3-3-e,p1,concept,p1-s-3-3,3-3 E 經營方式分類（獨立餐廳、連鎖餐廳）,3-3 E,44,TRUE
+p1-s-3-4,p1,section,p1-c-ch3,3-4 餐飲業的組織與部門,3-4,12,TRUE
+p1-c-3-4-a,p1,concept,p1-s-3-4,3-4 A 餐飲業的組織─組織設計原則,3-4 A,45,TRUE
+p1-c-3-4-a1,p1,concept,p1-s-3-4,3-4 A1餐飲業的組織─組織設計原則（工作設計）,3-4 A1,46,TRUE
+p1-c-3-4-b,p1,concept,p1-s-3-4,3-4 B 組織結構分類（簡單型、功能型、矩陣型、產品型）,3-4 B,47,TRUE
+p1-c-3-4-c,p1,concept,p1-s-3-4,3-4 C 餐飲業部門,3-4 C,48,TRUE
+p1-c-3-4-d,p1,concept,p1-s-3-4,3-4 D 組織編制,3-4 D,49,TRUE
+p1-c-3-4-d1,p1,concept,p1-s-3-4,3-4 D1 組織編制─外場,3-4 D1,50,TRUE
+p1-c-3-4-d2,p1,concept,p1-s-3-4,3-4 D2 組織編制─內場,3-4 D2,51,TRUE
+p1-c-3-4-d2-1,p1,concept,p1-s-3-4,3-4 D2-1 組織編制─內場（西餐）,3-4 D2-1,52,TRUE
+p1-c-3-4-d2-2,p1,concept,p1-s-3-4,3-4 D2-2 組織編制─內場（中餐）,3-4 D2-2,53,TRUE
+p1-c-3-4-e,p1,concept,p1-s-3-4,3-4 E 餐廳格局,3-4 E,54,TRUE
+p1-c-3-4-f,p1,concept,p1-s-3-4,3-4 F 廚房格局,3-4 F,55,TRUE
+p1-c-3-4-f1,p1,concept,p1-s-3-4,3-4 F1工作三角形,3-4 F1,56,TRUE
+p1-c-3-4-f2,p1,concept,p1-s-3-4,3-4 F2廚房設備標準,3-4 F2,57,TRUE
+p1-c-3-4-g,p1,concept,p1-s-3-4,3-4 G 分區設計,3-4 G,58,TRUE
+p1-c-3-4-h,p1,concept,p1-s-3-4,3-4 H 倉庫,3-4 H,59,TRUE
+p1-c-3-4,p1,concept,p1-s-3-4,3-4 綜合題─餐飲業的組織與部門,3-4,60,TRUE
+p1-s-3-5,p1,section,p1-c-ch3,3-5 餐飲業的經營理念,3-5,13,TRUE
+p1-c-3-5-a,p1,concept,p1-s-3-5,3-5 A 消毒/殺菌法,3-5 A,61,TRUE
+p1-c-3-5-b,p1,concept,p1-s-3-5,3-5 B 食品中毒/食物中毒,3-5 B,62,TRUE
+p1-c-3-5-c,p1,concept,p1-s-3-5,3-5 C 中餐烹調法,3-5 C,63,TRUE
+p1-c-3-5-d,p1,concept,p1-s-3-5,3-5 D 西餐烹調法,3-5 D,64,TRUE
+p1-c-3-5-e,p1,concept,p1-s-3-5,3-5 E 刀具,3-5 E,65,TRUE
+p1-c-3-5-f,p1,concept,p1-s-3-5,3-5 F 餐飲成本分類,3-5 F,66,TRUE
+p1-c-3-5-g,p1,concept,p1-s-3-5,3-5 G 餐飲成本公式及計算（計算題）,3-5 G,67,TRUE
+p1-c-3-5-h,p1,concept,p1-s-3-5,3-5 H 廚房標準化作業流程,3-5 H,68,TRUE
+p1-c-3-5-i,p1,concept,p1-s-3-5,3-5 I 物料管理,3-5 I,69,TRUE
+p1-c-3-5-j,p1,concept,p1-s-3-5,3-5 J 人力資源管理,3-5 J,70,TRUE
+p1-c-3-5-k,p1,concept,p1-s-3-5,3-5 K 餐飲業的經營理念（QSCV）,3-5 K,71,TRUE
+p1-c-ch4,p1,chapter,p1-s-1,CH4 旅宿業,CH4,4,TRUE
+p1-s-4-1,p1,section,p1-c-ch4,4-1 旅宿業的定義與特性,4-1,14,TRUE
+p1-c-4-1-a,p1,concept,p1-s-4-1,4-1 A 定義,4-1 A,72,TRUE
+p1-c-4-1-b,p1,concept,p1-s-4-1,4-1 B 字源,4-1 B,73,TRUE
+p1-c-4-1-c,p1,concept,p1-s-4-1,4-1 C 旅館商品,4-1 C,74,TRUE
+p1-c-4-1-d,p1,concept,p1-s-4-1,4-1 D 旅館產品層次,4-1 D,75,TRUE
+p1-c-4-1-e,p1,concept,p1-s-4-1,4-1 E 旅館業特性,4-1 E,76,TRUE
+p1-s-4-2,p1,section,p1-c-ch4,4-2 旅宿業的發展過程,4-2,15,TRUE
+p1-c-4-2-a,p1,concept,p1-s-4-2,4-2 A 外國─旅宿業的發展,4-2 A,77,TRUE
+p1-c-4-2-b,p1,concept,p1-s-4-2,4-2 B 外國─旅宿管理經營成功者,4-2 B,78,TRUE
+p1-c-4-2-c,p1,concept,p1-s-4-2,4-2 C 中國─旅宿業的發展,4-2 C,79,TRUE
+p1-c-4-2-d,p1,concept,p1-s-4-2,4-2 D 中國─旅宿業名稱,4-2 D,80,TRUE
+p1-c-4-2-e,p1,concept,p1-s-4-2,4-2 E 台灣─旅宿業的發展,4-2 E,81,TRUE
+p1-s-4-3,p1,section,p1-c-ch4,4-3 旅宿業的類別與客房種類,4-3,16,TRUE
+p1-c-4-3-a,p1,concept,p1-s-4-3,4-3 A 發展觀光條例,4-3 A,82,TRUE
+p1-c-4-3-b,p1,concept,p1-s-4-3,4-3 B 觀光旅館建築及設備標準,4-3 B,83,TRUE
+p1-c-4-3-c,p1,concept,p1-s-4-3,4-3 C 旅館的分類,4-3 C,84,TRUE
+p1-c-4-3-d,p1,concept,p1-s-4-3,4-3 D 各式旅館,4-3 D,85,TRUE
+p1-c-4-3-e,p1,concept,p1-s-4-3,4-3 E 各國旅館等級評鑑制度（台灣參照A15星級旅館評鑑作業要點）,4-3 E,86,TRUE
+p1-c-4-3-f,p1,concept,p1-s-4-3,4-3 F 床鋪分類,4-3 F,87,TRUE
+p1-c-4-3-g,p1,concept,p1-s-4-3,4-3 G 客房分類,4-3 G,88,TRUE
+p1-c-4-3-h,p1,concept,p1-s-4-3,4-3 H 綜合題─客房,4-3 H,89,TRUE
+p1-s-4-4,p1,section,p1-c-ch4,4-4 旅宿業的組織與部門,4-4,17,TRUE
+p1-c-4-4-a,p1,concept,p1-s-4-4,4-4 A 客務部,4-4 A,90,TRUE
+p1-c-4-4-b,p1,concept,p1-s-4-4,4-4 B 房務部,4-4 B,91,TRUE
+p1-c-4-4-b1,p1,concept,p1-s-4-4,4-4 B1房務部（開夜床服務turndown service）,4-4 B1,92,TRUE
+p1-c-4-4-c,p1,concept,p1-s-4-4,4-4 C 後勤單位,4-4 C,93,TRUE
+p1-c-4-4-d,p1,concept,p1-s-4-4,4-4 D綜合題─旅館從業人員、組織與部門,4-4 D,94,TRUE
+p1-s-4-5,p1,section,p1-c-ch4,4-5 旅宿業的經營理念,4-5,18,TRUE
+p1-c-4-5-a,p1,concept,p1-s-4-5,4-5 A 房租價目表,4-5 A,95,TRUE
+p1-c-4-5-b,p1,concept,p1-s-4-5,4-5 B 旅館房租計價方式,4-5 B,96,TRUE
+p1-c-4-5-b1,p1,concept,p1-s-4-5,4-5 B1 旅館房租計價方式（房租＆早餐）,4-5 B1,97,TRUE
+p1-c-4-5-b2,p1,concept,p1-s-4-5,4-5 B2 旅館房租計價方式（房租種類）,4-5 B2,98,TRUE
+p1-c-4-5-b3,p1,concept,p1-s-4-5,4-5 B3 旅館房租計價方式（延遲退房）,4-5 B3,99,TRUE
+p1-c-4-5-c,p1,concept,p1-s-4-5,4-5 C 特別租,4-5 C,100,TRUE
+p1-c-4-5-d,p1,concept,p1-s-4-5,4-5 D 訂房,4-5 D,101,TRUE
+p1-c-4-5-e,p1,concept,p1-s-4-5,4-5 E 旅館業專業術語,4-5 E,102,TRUE
+p1-c-4-5-f,p1,concept,p1-s-4-5,4-5 F 旅宿業經營方式,4-5 F,103,TRUE
+p1-c-4-5-g,p1,concept,p1-s-4-5,4-5 G 連鎖旅館─國內,4-5 G,104,TRUE
+p1-c-4-5-h,p1,concept,p1-s-4-5,4-5 H 連鎖旅館─國外,4-5 H,105,TRUE
+p1-c-4-5-i,p1,concept,p1-s-4-5,4-5 I 帳務及付款,4-5 I,106,TRUE
+p1-c-4-5-j,p1,concept,p1-s-4-5,4-5 J 觀光旅館業管理規則,4-5 J,107,TRUE
+p1-c-4-5-k,p1,concept,p1-s-4-5,4-5 K 旅館業管理規則,4-5 K,108,TRUE
+p1-c-4-5-l,p1,concept,p1-s-4-5,4-5 L 觀光旅館建築及設備標準,4-5 L,109,TRUE
+p1-c-4-5-m,p1,concept,p1-s-4-5,4-5 M 民宿管理辦法,4-5 M,110,TRUE
+p1-c-4-5-n,p1,concept,p1-s-4-5,4-5 N 旅宿業相關計算,4-5 N,111,TRUE
+p1-c-ch5,p1,chapter,p1-s-1,CH5 旅行業,CH5,5,TRUE
+p1-s-5-1,p1,section,p1-c-ch5,5-1 旅行業的定義與特性,5-1,19,TRUE
+p1-c-5-1-a,p1,concept,p1-s-5-1,5-1 A 定義,5-1 A,112,TRUE
+p1-c-5-1-b,p1,concept,p1-s-5-1,5-1 B 字源,5-1 B,113,TRUE
+p1-c-5-1-c,p1,concept,p1-s-5-1,5-1 C 觀光構成要素,5-1 C,114,TRUE
+p1-c-5-1-d,p1,concept,p1-s-5-1,5-1 D 觀光系統,5-1 D,115,TRUE
+p1-c-5-1-e,p1,concept,p1-s-5-1,5-1 E 觀光種類,5-1 E,116,TRUE
+p1-c-5-1-f,p1,concept,p1-s-5-1,5-1 F 特性,5-1 F,117,TRUE
+p1-s-5-2,p1,section,p1-c-ch5,5-2 旅行業的發展過程,5-2,20,TRUE
+p1-c-5-2-a,p1,concept,p1-s-5-2,5-2 A 外國─旅行業的發展,5-2 A,118,TRUE
+p1-c-5-2-b,p1,concept,p1-s-5-2,5-2 B 中國─旅遊活動,5-2 B,119,TRUE
+p1-c-5-2-c,p1,concept,p1-s-5-2,5-2 C 台灣旅行業發展,5-2 C,120,TRUE
+p1-c-5-2-d,p1,concept,p1-s-5-2,5-2 D 觀光政策,5-2 D,121,TRUE
+p1-c-5-2-e,p1,concept,p1-s-5-2,5-2 E 綜合題─旅行業的發展過程,5-2 E,122,TRUE
+p1-s-5-3,p1,section,p1-c-ch5,5-3 旅行業的類別與旅行社的種類,5-3,21,TRUE
+p1-s-5-4,p1,section,p1-c-ch5,5-4 旅行業的組織與部門,5-4,22,TRUE
+p1-c-5-4-a,p1,concept,p1-s-5-4,5-4 A 旅行業的組織 （OO 部）,5-4 A,123,TRUE
+p1-c-5-4-b,p1,concept,p1-s-5-4,5-4 B 旅行業經理人,5-4 B,124,TRUE
+p1-c-5-4-c,p1,concept,p1-s-5-4,5-4 C 導遊人員,5-4 C,125,TRUE
+p1-c-5-4-d,p1,concept,p1-s-5-4,5-4 D 領隊人員,5-4 D,126,TRUE
+p1-c-5-4-e,p1,concept,p1-s-5-4,5-4 E 綜合題─旅行業的組織與部門,5-4 E,127,TRUE
+p1-s-5-5,p1,section,p1-c-ch5,5-5 旅行業的經營理念,5-5,23,TRUE
+p1-c-ch6,p1,chapter,p1-s-1,CH6 觀光餐旅相關產業,CH6,6,TRUE
+p1-s-6-1,p1,section,p1-c-ch6,6-1 觀光遊樂產業,6-1,24,TRUE
+p1-c-6-1-a,p1,concept,p1-s-6-1,6-1 A 台灣好樂園,6-1 A,128,TRUE
+p1-c-6-1-b,p1,concept,p1-s-6-1,6-1 B 外國─觀光遊樂業的發展,6-1 B,129,TRUE
+p1-c-6-1-c,p1,concept,p1-s-6-1,6-1 C 世界迪士尼,6-1 C,130,TRUE
+p1-c-6-1-d,p1,concept,p1-s-6-1,6-1 D 世界環球主題樂園,6-1 D,131,TRUE
+p1-c-6-1-e,p1,concept,p1-s-6-1,6-1 E 台灣─觀光遊樂業的發展,6-1 E,132,TRUE
+p1-c-6-1-f,p1,concept,p1-s-6-1,6-1 F 觀光遊樂業管理規則,6-1 F,133,TRUE
+p1-s-6-2,p1,section,p1-c-ch6,6-2 會議展覽業,6-2,25,TRUE
+p1-c-6-2-a,p1,concept,p1-s-6-2,6-2 A會議展覽業（特性）,6-2 A,134,TRUE
+p1-c-6-2-b,p1,concept,p1-s-6-2,6-2 B MICE,6-2 B,135,TRUE
+p1-c-6-2-c,p1,concept,p1-s-6-2,6-2 C會議展覽業 （三大三高三優）,6-2 C,136,TRUE
+p1-c-6-2-d,p1,concept,p1-s-6-2,6-2 D 台灣─會議展覽業的發展,6-2 D,137,TRUE
+p1-s-6-3,p1,section,p1-c-ch6,6-3 博弈娛樂業,6-3,26,TRUE
+p1-c-6-3-a,p1,concept,p1-s-6-3,6-3 A博弈娛樂業（特性）,6-3 A,138,TRUE
+p1-c-6-3-b,p1,concept,p1-s-6-3,6-3 B博弈娛樂業（種類）,6-3 B,139,TRUE
+p1-c-6-3-c,p1,concept,p1-s-6-3,6-3 C博弈娛樂業（外國）,6-3 C,140,TRUE
+p1-c-6-3-d,p1,concept,p1-s-6-3,6-3 D博弈娛樂業（台灣）,6-3 D,141,TRUE
+p1-c-6-3-e,p1,concept,p1-s-6-3,6-3 E博弈娛樂業（綜合題）,6-3 E,142,TRUE
+p1-s-6-4,p1,section,p1-c-ch6,6-4 交通運輸業,6-4,27,TRUE
+p1-c-6-4-e1,p1,concept,p1-s-6-4,6-4 E1 航空運輸三大區域（TC1、TC2、TC3）,6-4 E1,143,TRUE
+p1-c-6-4-e2,p1,concept,p1-s-6-4,6-4 E2 航空公司代碼,6-4 E2,144,TRUE
+p1-c-6-4-e3,p1,concept,p1-s-6-4,6-4 E3 城市代碼 / 機場代碼,6-4 E3,145,TRUE
+p1-c-ch7,p1,chapter,p1-s-1,CH7 觀光餐旅行銷,CH7,7,TRUE
+p1-s-7-1,p1,section,p1-c-ch7,7-1 觀光餐旅業顧客消費行為概念,7-1,28,TRUE
+p1-c-7-1-a,p1,concept,p1-s-7-1,7-1 A 消費者決策模式,7-1 A,146,TRUE
+p1-c-7-1-b,p1,concept,p1-s-7-1,7-1 B 消費者購買行為,7-1 B,147,TRUE
+p1-s-7-2,p1,section,p1-c-ch7,7-2 觀光餐旅業行銷意涵與演進,7-2,29,TRUE
+p1-c-7-2-a,p1,concept,p1-s-7-2,7-2 A 定義,7-2 A,148,TRUE
+p1-c-7-2-b,p1,concept,p1-s-7-2,7-2 B 17項 SDGs,7-2 B,149,TRUE
+p1-c-7-2-c,p1,concept,p1-s-7-2,7-2 C 行銷發展,7-2 C,150,TRUE
+p1-c-7-2-d,p1,concept,p1-s-7-2,7-2 D 目標行銷 / 餐旅行銷 STP（市場區隔、目標市場、市場定位）,7-2 D,151,TRUE
+p1-c-7-2-d1,p1,concept,p1-s-7-2,7-2 D1 市場區隔（地理區隔、人口統計、心理統計、行為區隔）,7-2 D1,152,TRUE
+p1-c-7-2-d2,p1,concept,p1-s-7-2,7-2 D2 目標市場（無差異行銷、差異化行銷、集中式行銷、個人化行銷）,7-2 D2,153,TRUE
+p1-c-7-2-d3,p1,concept,p1-s-7-2,7-2 D3 市場定位,7-2 D3,154,TRUE
+p1-c-7-2-e,p1,concept,p1-s-7-2,7-2 E SWOT 分析,7-2 E,155,TRUE
+p1-c-7-2-f,p1,concept,p1-s-7-2,7-2 F 行銷環境─PEST,7-2 F,156,TRUE
+p1-c-7-2g,p1,concept,p1-s-7-2,7-2G 觀光餐旅業行銷意涵與演進（綜合題）,7-2G,157,TRUE
+p1-s-7-3,p1,section,p1-c-ch7,7-3 觀光餐旅業行銷組合策略（8P=4P+4P）,7-3,30,TRUE
+p1-c-7-3-a,p1,concept,p1-s-7-3,7-3 A 4P─產品（Product）、價格（Price）、通路（Place）、促銷（Promotion）,7-3 A,158,TRUE
+p1-c-7-3-a1,p1,concept,p1-s-7-3,7-3 A1產品（Product）─產品生命週期 PLC,7-3 A1,159,TRUE
+p1-c-7-3-a2,p1,concept,p1-s-7-3,7-3 A2價格（Price）─訂價策略,7-3 A2,160,TRUE
+p1-c-7-3-a3,p1,concept,p1-s-7-3,7-3 A3通路（Place）,7-3 A3,161,TRUE
+p1-c-7-3-a4,p1,concept,p1-s-7-3,7-3 A4 促銷（Promotion）,7-3 A4,162,TRUE
+p1-c-7-3-b,p1,concept,p1-s-7-3,7-3 B 4P 延伸（人員People、包裝Package、規劃Programming、夥伴Partnership）,7-3 B,163,TRUE
+p1-c-7-3-c,p1,concept,p1-s-7-3,7-3 C 8P,7-3 C,164,TRUE
+p1-c-7-3,p1,concept,p1-s-7-3,7-3綜合題─觀光餐旅業行銷組合策略,7-3,165,TRUE
+p1-s-7-4,p1,section,p1-c-ch7,7-4 公共關係與業務推廣,7-4,31,TRUE
+p1-c-7-4-a,p1,concept,p1-s-7-4,7-4 A 公共關係,7-4 A,166,TRUE
+p1-c-7-4-b,p1,concept,p1-s-7-4,7-4 B 店內個人推銷（向上、向下、交叉、整組）,7-4 B,167,TRUE
+p1-s-32,p1,section,p1-c-ch7,CH7 觀光餐旅行銷（綜合題）,,32,TRUE
+p1-c-168,p1,concept,p1-s-32,A觀光餐旅行銷（綜合題）,,168,TRUE
+p1-c-ch8,p1,chapter,p1-s-1,CH8 觀光餐旅業的現況與未來,CH8,8,TRUE
+p1-s-8-1,p1,section,p1-c-ch8,8-1 我國觀光餐旅業市場現況,8-1,33,TRUE
+p1-c-8-1-a,p1,concept,p1-s-8-1,8-1 A 市場現況,8-1 A,169,TRUE
+p1-s-8-2,p1,section,p1-c-ch8,8-2 觀光餐旅業當前面臨的課題,8-2,34,TRUE
+p1-c-8-2-a,p1,concept,p1-s-8-2,8-2 A 當前面臨課題,8-2 A,170,TRUE
+p1-s-8-3,p1,section,p1-c-ch8,8-3 觀光餐旅業未來發展趨勢,8-3,35,TRUE
+p1-c-8-3-a,p1,concept,p1-s-8-3,8-3 A 未來發展趨勢,8-3 A,171,TRUE
+p1-s-36,p1,section,p1-c-ch8,綜合題,,36,TRUE
+p1-c-172,p1,concept,p1-s-36,A綜合題─航空類,,172,TRUE
+p1-c-173,p1,concept,p1-s-36,B綜合題─古蹟,,173,TRUE
+p1-c-174,p1,concept,p1-s-36,C綜合題─世界旅遊,,174,TRUE
+p2-s-1,p2,subject,,餐飲服務技術,餐飲服務技術,1,TRUE
+p2-c-ch1,p2,chapter,p2-s-1,CH1 餐廳服務基本觀念,CH1,1,TRUE
+p2-s-1-1,p2,section,p2-c-ch1,1-1 餐飲商品,1-1,1,TRUE
+p2-c-1-1-a,p2,concept,p2-s-1-1,1-1 A構成要素（同觀光餐旅業導論3-1 C 餐飲商品）,1-1 A,1,TRUE
+p2-c-1-1-b,p2,concept,p2-s-1-1,1-1 B 特性,1-1 B,2,TRUE
+p2-c-1-1-c,p2,concept,p2-s-1-1,1-1 C 馬斯洛需求階層理論,1-1 C,3,TRUE
+p2-s-1-2,p2,section,p2-c-ch1,1-2 基本服務禮儀與儀態,1-2,2,TRUE
+p2-c-1-2-a,p2,concept,p2-s-1-2,1-2 A 行走,1-2 A,4,TRUE
+p2-c-1-2-b,p2,concept,p2-s-1-2,1-2 B 電梯,1-2 B,5,TRUE
+p2-c-1-2-c,p2,concept,p2-s-1-2,1-2 C 樓梯,1-2 C,6,TRUE
+p2-c-1-2-d,p2,concept,p2-s-1-2,1-2 D 介紹,1-2 D,7,TRUE
+p2-c-1-2-e,p2,concept,p2-s-1-2,1-2 E 名片,1-2 E,8,TRUE
+p2-c-1-2-f,p2,concept,p2-s-1-2,1-2 F 電話,1-2 F,9,TRUE
+p2-c-1-2-g,p2,concept,p2-s-1-2,1-2 G 握手,1-2 G,10,TRUE
+p2-c-1-2-h,p2,concept,p2-s-1-2,1-2 H 乘車,1-2 H,11,TRUE
+p2-c-1-2-i,p2,concept,p2-s-1-2,1-2 I 儀態,1-2 I,12,TRUE
+p2-c-1-2-j,p2,concept,p2-s-1-2,1-2 J 儀容,1-2 J,13,TRUE
+p2-c-1-2-k,p2,concept,p2-s-1-2,1-2 K 綜合題─基本服務禮儀,1-2 K,14,TRUE
+p2-s-1-3,p2,section,p2-c-ch1,1-3 餐廳服務人員的組織與工作職責,1-3,3,TRUE
+p2-c-1-3-a,p2,concept,p2-s-1-3,1-3 A 組織編制,1-3 A,15,TRUE
+p2-c-1-3-b,p2,concept,p2-s-1-3,1-3 B 各部門組織,1-3 B,16,TRUE
+p2-c-1-3-c,p2,concept,p2-s-1-3,1-3 C 工作職責─外場,1-3 C,17,TRUE
+p2-c-1-3-d,p2,concept,p2-s-1-3,1-3 D 工作職責─內場,1-3 D,18,TRUE
+p2-c-ch2,p2,chapter,p2-s-1,CH2 餐廳設備與器具,CH2,2,TRUE
+p2-s-2-1,p2,section,p2-c-ch2,2-1 餐廳設備,2-1,4,TRUE
+p2-c-2-1-a,p2,concept,p2-s-2-1,2-1 A 餐桌,2-1 A,19,TRUE
+p2-c-2-1-b,p2,concept,p2-s-2-1,2-1 B 轉檯,2-1 B,20,TRUE
+p2-c-2-1-c,p2,concept,p2-s-2-1,2-1 C 桌椅,2-1 C,21,TRUE
+p2-c-2-1-d,p2,concept,p2-s-2-1,2-1 D 服務架,2-1 D,22,TRUE
+p2-c-2-1-e,p2,concept,p2-s-2-1,2-1 E 各式服務車,2-1 E,23,TRUE
+p2-c-2-1-f,p2,concept,p2-s-2-1,2-1 F 其他推車,2-1 F,24,TRUE
+p2-c-2-1-g,p2,concept,p2-s-2-1,2-1 G 餐廳設備,2-1 G,25,TRUE
+p2-s-2-2,p2,section,p2-c-ch2,2-2 餐廳器具,2-2,5,TRUE
+p2-c-2-2-a,p2,concept,p2-s-2-2,2-2 A 金屬類（凹形餐具、扁平餐具）,2-2 A,26,TRUE
+p2-c-2-2a1,p2,concept,p2-s-2-2,2-2A1洗指盅 / 洗手盅（Finger Bowl）,2-2A1,27,TRUE
+p2-c-2-2-b,p2,concept,p2-s-2-2,2-2 B 瓷器類（西式、中式）,2-2 B,28,TRUE
+p2-c-2-2-c,p2,concept,p2-s-2-2,2-2 C 玻璃類（平底、有腳、啤酒、香檳、葡萄酒、造型）,2-2 C,29,TRUE
+p2-c-2-2-d,p2,concept,p2-s-2-2,2-2 D 綜合題─餐廳器具（金屬類、瓷器類、玻璃類）,2-2 D,30,TRUE
+p2-s-2-3,p2,section,p2-c-ch2,2-3 餐廳器具材質、特性及保養,2-3,6,TRUE
+p2-c-2-3-a,p2,concept,p2-s-2-3,2-3 A 金屬類（不鏽鋼、鍍銀）,2-3 A,31,TRUE
+p2-c-2-3-b,p2,concept,p2-s-2-3,2-3 B 瓷器類,2-3 B,32,TRUE
+p2-c-2-3-c,p2,concept,p2-s-2-3,2-3 C 玻璃類,2-3 C,33,TRUE
+p2-c-2-3-d,p2,concept,p2-s-2-3,2-3 D 綜合題─餐廳器具材質、特性及保養,2-3 D,34,TRUE
+p2-s-2-4,p2,section,p2-c-ch2,2-4 布巾的種類,2-4,7,TRUE
+p2-c-2-4-a,p2,concept,p2-s-2-4,2-4 A 布巾種類與規格,2-4 A,35,TRUE
+p2-c-ch3,p2,chapter,p2-s-1,CH3 基本服務技巧,CH3,3,TRUE
+p2-s-3-1,p2,section,p2-c-ch3,3-1 餐桌架設、拆除與收納,3-1,8,TRUE
+p2-c-3-1-a,p2,concept,p2-s-3-1,3-1 A 圓桌,3-1 A,36,TRUE
+p2-c-3-1-b,p2,concept,p2-s-3-1,3-1 B 方桌,3-1 B,37,TRUE
+p2-c-3-1-c,p2,concept,p2-s-3-1,3-1 C 長桌,3-1 C,38,TRUE
+p2-s-3-2,p2,section,p2-c-ch3,3-2 檯布鋪設及更換,3-2,9,TRUE
+p2-c-3-2-a,p2,concept,p2-s-3-2,3-2 A檯布鋪設（方檯布、圓桌檯布─推拉、拉鋪、撒網、長檯布、檯心布）,3-2 A,39,TRUE
+p2-c-3-2-b,p2,concept,p2-s-3-2,3-2 B桌裙鋪設,3-2 B,40,TRUE
+p2-s-3-3,p2,section,p2-c-ch3,3-3 餐巾摺疊技巧與應用,3-3,10,TRUE
+p2-c-3-3-a,p2,concept,p2-s-3-3,3-3 A 口布折疊技法（二、三、四、六摺、對角）,3-3 A,41,TRUE
+p2-c-3-3-b,p2,concept,p2-s-3-3,3-3 B 口布應用分類（顧客用、服勤用、觀賞用）,3-3 B,42,TRUE
+p2-s-3-4,p2,section,p2-c-ch3,3-4 托盤使用技巧,3-4,11,TRUE
+p2-c-3-4-a,p2,concept,p2-s-3-4,3-4 A 托盤分類,3-4 A,43,TRUE
+p2-c-3-4-b,p2,concept,p2-s-3-4,3-4 B 托盤使用技巧,3-4 B,44,TRUE
+p2-s-3-5,p2,section,p2-c-ch3,3-5 上餐與撤餐的持盤技巧,3-5,12,TRUE
+p2-c-3-5-a,p2,concept,p2-s-3-5,3-5 A 持盤技巧,3-5 A,45,TRUE
+p2-c-3-5-b,p2,concept,p2-s-3-5,3-5 B 收拾殘盤 3S（刮除 Scrape → 堆疊 Stack → 分類 Separate）,3-5 B,46,TRUE
+p2-s-3-6,p2,section,p2-c-ch3,3-6 服務叉匙的運用,3-6,13,TRUE
+p2-c-3-6-a,p2,concept,p2-s-3-6,3-6 A 操作方法（雙手─左叉右匙；單手─手握法、指握法）,3-6 A,47,TRUE
+p2-c-3-6-b,p2,concept,p2-s-3-6,3-6 B 服務叉匙使用情境與技巧,3-6 B,48,TRUE
+p2-c-ch4,p2,chapter,p2-s-1,CH4 營業前的準備工作與營業後的善後工作,CH4,4,TRUE
+p2-s-4-1,p2,section,p2-c-ch4,4-1 餐廳環境清潔與整理,4-1,14,TRUE
+p2-c-4-1-a,p2,concept,p2-s-4-1,4-1 A 營業前準備工作（Mise en Place）,4-1 A,49,TRUE
+p2-c-4-1-b,p2,concept,p2-s-4-1,4-1 B 餐廳環境的清潔維護工作（House Work）,4-1 B,50,TRUE
+p2-c-4-1-c,p2,concept,p2-s-4-1,4-1 C 服務區準備（Service Mise en Place）＆用餐區準備（Guest Mise en Place）,4-1 C,51,TRUE
+p2-c-4-1-d,p2,concept,p2-s-4-1,4-1 D 服務前會議（Briefing）,4-1 D,52,TRUE
+p2-c-4-1-e,p2,concept,p2-s-4-1,4-1 E 餐廳環境清潔與整理（綜合題）,4-1 E,53,TRUE
+p2-s-4-2,p2,section,p2-c-ch4,4-2 工作檯清潔與整理,4-2,15,TRUE
+p2-c-4-2-a,p2,concept,p2-s-4-2,4-2 A 工作檯擺設與整理,4-2 A,54,TRUE
+p2-s-4-3,p2,section,p2-c-ch4,4-3 布巾類整理與準備,4-3,16,TRUE
+p2-c-4-3-a,p2,concept,p2-s-4-3,4-3 A 布巾管理原則,4-3 A,55,TRUE
+p2-s-4-4,p2,section,p2-c-ch4,4-4 餐務整理與換場作業,4-4,17,TRUE
+p2-c-4-4-a,p2,concept,p2-s-4-4,4-4 A 三槽式餐具洗滌,4-4 A,56,TRUE
+p2-c-4-4-b,p2,concept,p2-s-4-4,4-4 B 消毒法,4-4 B,57,TRUE
+p2-c-4-4-c,p2,concept,p2-s-4-4,4-4 C 殘留物試驗,4-4 C,58,TRUE
+p2-c-4-4-d,p2,concept,p2-s-4-4,4-4 D 餐具擦拭,4-4 D,59,TRUE
+p2-c-4-4-e,p2,concept,p2-s-4-4,4-4 E 垃圾分類 環保6R,4-4 E,60,TRUE
+p2-c-4-4-f,p2,concept,p2-s-4-4,4-4 F 資源回收與塑膠材質回收標誌,4-4 F,61,TRUE
+p2-c-4-4-g,p2,concept,p2-s-4-4,4-4 G 廚餘處理,4-4 G,62,TRUE
+p2-c-ch5,p2,chapter,p2-s-1,CH5 菜單與飲料單,CH5,5,TRUE
+p2-s-5-1,p2,section,p2-c-ch5,5-1 菜單定義與種類,5-1,18,TRUE
+p2-c-5-1-a,p2,concept,p2-s-5-1,5-1 A 定義,5-1 A,63,TRUE
+p2-c-5-1-b,p2,concept,p2-s-5-1,5-1 B 菜單種類,5-1 B,64,TRUE
+p2-c-5-1-c,p2,concept,p2-s-5-1,5-1 C 早餐認識,5-1 C,65,TRUE
+p2-c-5-1-c1,p2,concept,p2-s-5-1,5-1 C1 早餐認識─蛋,5-1 C1,66,TRUE
+p2-c-5-1-c2,p2,concept,p2-s-5-1,5-1 C2 早餐認識─美式、歐陸式、英式,5-1 C2,67,TRUE
+p2-c-5-1-d,p2,concept,p2-s-5-1,5-1 D 用餐時間,5-1 D,68,TRUE
+p2-c-5-1-e,p2,concept,p2-s-5-1,5-1 E 宗教菜單禁忌,5-1 E,69,TRUE
+p2-c-5-1-e1,p2,concept,p2-s-5-1,5-1 E1 宗教菜單禁忌（素食）,5-1 E1,70,TRUE
+p2-c-5-1-f,p2,concept,p2-s-5-1,5-1 F 各國料理特色,5-1 F,71,TRUE
+p2-s-5-2,p2,section,p2-c-ch5,5-2 菜單功能與結構,5-2,19,TRUE
+p2-c-5-2-a,p2,concept,p2-s-5-2,5-2 A 傳統西式菜單結構,5-2 A,72,TRUE
+p2-c-5-2-b,p2,concept,p2-s-5-2,5-2 B 中式菜單結構,5-2 B,73,TRUE
+p2-c-5-2-c,p2,concept,p2-s-5-2,5-2 C 日式菜單結構（日本料理）,5-2 C,74,TRUE
+p2-c-5-2-d,p2,concept,p2-s-5-2,5-2 D 菜單工程,5-2 D,75,TRUE
+p2-s-5-3,p2,section,p2-c-ch5,5-3 飲料單、酒單功能與結構,5-3,20,TRUE
+p2-c-5-3-a,p2,concept,p2-s-5-3,5-3 A 飲料單與酒單之功能與結構,5-3 A,76,TRUE
+p2-c-ch6,p2,chapter,p2-s-1,CH6 餐桌布置與擺設,CH6,6,TRUE
+p2-s-6-1,p2,section,p2-c-ch6,6-1 中餐餐桌布置與擺設,6-1,21,TRUE
+p2-c-6-1-a,p2,concept,p2-s-6-1,6-1 A 中餐餐桌擺設,6-1 A,77,TRUE
+p2-s-6-2,p2,section,p2-c-ch6,6-2 西餐餐桌布置與擺設,6-2,22,TRUE
+p2-c-6-2-a,p2,concept,p2-s-6-2,6-2 A 西餐餐桌擺設,6-2 A,78,TRUE
+p2-s-6-3,p2,section,p2-c-ch6,6-3 主題式餐桌布置與擺設,6-3,23,TRUE
+p2-c-6-3-a,p2,concept,p2-s-6-3,6-3 A 主題式餐桌擺設設計與應用,6-3 A,79,TRUE
+p2-c-ch7,p2,chapter,p2-s-1,CH7 餐飲禮儀,CH7,7,TRUE
+p2-s-7-1,p2,section,p2-c-ch7,7-1 席次安排,7-1,24,TRUE
+p2-c-7-1-a,p2,concept,p2-s-7-1,7-1 A 中餐席次安排原則（方桌、長桌、圓桌）,7-1 A,80,TRUE
+p2-c-7-1-b,p2,concept,p2-s-7-1,7-1 B 西餐席次安排原則（方桌、長桌、圓桌、ㄇ字形、一字形、T字形、E字形、鐵板燒）,7-1 B,81,TRUE
+p2-c-7-1-c,p2,concept,p2-s-7-1,7-1 C 綜合題─席次安排,7-1 C,82,TRUE
+p2-s-7-2,p2,section,p2-c-ch7,7-2 用餐禮儀,7-2,25,TRUE
+p2-c-7-2-a,p2,concept,p2-s-7-2,7-2 A 中餐用餐禮儀,7-2 A,83,TRUE
+p2-c-7-2-b,p2,concept,p2-s-7-2,7-2 B 西餐用餐禮儀,7-2 B,84,TRUE
+p2-c-7-2-b1,p2,concept,p2-s-7-2,7-2 B1 牛排熟度,7-2 B1,85,TRUE
+p2-c-7-2-c,p2,concept,p2-s-7-2,7-2 C 日本料理用餐禮儀,7-2 C,86,TRUE
+p2-c-7-2-d,p2,concept,p2-s-7-2,7-2 D 綜合題─用餐禮儀,7-2 D,87,TRUE
+p2-c-ch8,p2,chapter,p2-s-1,CH8 餐飲服務,CH8,8,TRUE
+p2-s-8-1,p2,section,p2-c-ch8,8-1 餐桌服務,8-1,26,TRUE
+p2-c-8-1-a,p2,concept,p2-s-8-1,8-1 A 服務原則,8-1 A,88,TRUE
+p2-c-8-1-b,p2,concept,p2-s-8-1,8-1 B 餐桌服務（美式、英式、法式、旁桌、俄式、中式）,8-1 B,89,TRUE
+p2-c-8-1-b1,p2,concept,p2-s-8-1,8-1 B1 餐桌服務（旁桌服務技巧）,8-1 B1,90,TRUE
+p2-c-8-1-b2,p2,concept,p2-s-8-1,8-1 B2 餐桌服務（旁桌服務技巧─Tossing凱薩沙拉）,8-1 B2,91,TRUE
+p2-s-8-2,p2,section,p2-c-ch8,8-2 自助式服務,8-2,27,TRUE
+p2-c-8-2-a,p2,concept,p2-s-8-2,8-2 A 自助式服務型態與流程,8-2 A,92,TRUE
+p2-s-8-3,p2,section,p2-c-ch8,8-3 櫃檯式服務,8-3,28,TRUE
+p2-c-8-3-a,p2,concept,p2-s-8-3,8-3 A 櫃檯式服務型態與流程,8-3 A,93,TRUE
+p2-s-8-4,p2,section,p2-c-ch8,8-4 客房餐飲服務,8-4,29,TRUE
+p2-c-8-4-a,p2,concept,p2-s-8-4,8-4 A 客房餐飲服務（Room Service）,8-4 A,94,TRUE
+p2-s-8-5,p2,section,p2-c-ch8,8-5 其他餐飲服務,8-5,30,TRUE
+p2-c-8-5-a,p2,concept,p2-s-8-5,8-5 A 其他特殊餐飲服務型態,8-5 A,95,TRUE
+p2-c-ch9,p2,chapter,p2-s-1,CH9 飲料服務,CH9,9,TRUE
+p2-s-9-1,p2,section,p2-c-ch9,9-1 餐前酒服務,9-1,31,TRUE
+p2-c-9-1-a,p2,concept,p2-s-9-1,9-1 A 餐前酒種類與服務技巧,9-1 A,96,TRUE
+p2-s-9-2,p2,section,p2-c-ch9,9-2 餐中酒服務,9-2,32,TRUE
+p2-c-9-2-a,p2,concept,p2-s-9-2,9-2 A 葡萄酒開瓶器使用,9-2 A,97,TRUE
+p2-c-9-2-b,p2,concept,p2-s-9-2,9-2 B 葡萄酒（紅酒、白酒、氣泡酒、香檳酒）服務流程,9-2 B,98,TRUE
+p2-c-9-2-c,p2,concept,p2-s-9-2,9-2 C 品酒步驟與要領,9-2 C,99,TRUE
+p2-c-9-2-d,p2,concept,p2-s-9-2,9-2 D 葡萄酒與餐食搭配原則,9-2 D,100,TRUE
+p2-c-9-2-e,p2,concept,p2-s-9-2,9-2 E酒類與餐食搭配原則,9-2 E,101,TRUE
+p2-s-9-3,p2,section,p2-c-ch9,9-3 餐後酒服務,9-3,33,TRUE
+p2-c-9-3-a,p2,concept,p2-s-9-3,9-3 A 餐後酒種類與服務技巧,9-3 A,102,TRUE
+p2-s-9-4,p2,section,p2-c-ch9,9-4 其他飲料服務,9-4,34,TRUE
+p2-c-9-4-a,p2,concept,p2-s-9-4,9-4 A 烈酒與六大基酒服務,9-4 A,103,TRUE
+p2-c-9-4-b,p2,concept,p2-s-9-4,9-4 B 紹興酒服務,9-4 B,104,TRUE
+p2-c-9-4-c,p2,concept,p2-s-9-4,9-4 C 中式白酒服務,9-4 C,105,TRUE
+p2-c-9-4-d,p2,concept,p2-s-9-4,9-4 D 日本清酒服務,9-4 D,106,TRUE
+p2-c-9-4e,p2,concept,p2-s-9-4,9-4E 酒類服務（綜合題）,9-4E,107,TRUE
+p2-c-9-4f,p2,concept,p2-s-9-4,9-4F 其他飲料服務,9-4F,108,TRUE
+p2-c-ch10,p2,chapter,p2-s-1,CH10 餐廳服務流程,CH10,10,TRUE
+p2-s-10-1,p2,section,p2-c-ch10,10-1 中餐廳服務流程,10-1,35,TRUE
+p2-c-10-1-a,p2,concept,p2-s-10-1,10-1 A 中餐服務流程,10-1 A,109,TRUE
+p2-s-10-2,p2,section,p2-c-ch10,10-2 西餐廳服務流程,10-2,36,TRUE
+p2-c-10-2-a,p2,concept,p2-s-10-2,10-2 A 西餐服務流程,10-2 A,110,TRUE
+p2-s-10-3,p2,section,p2-c-ch10,10-3 下午茶服務流程,10-3,37,TRUE
+p2-c-10-3-a,p2,concept,p2-s-10-3,10-3 A 下午茶服務流程,10-3 A,111,TRUE
+p2-s-10-4,p2,section,p2-c-ch10,10-4 宴會廳服務流程,10-4,38,TRUE
+p2-c-10-4-a,p2,concept,p2-s-10-4,10-4 A 宴會廳服務流程,10-4 A,112,TRUE
+p2-c-ch11,p2,chapter,p2-s-1,CH11 餐廳顧客抱怨及緊急事件處理,CH11,11,TRUE
+p2-s-11-1,p2,section,p2-c-ch11,11-1 顧客抱怨與其他糾紛處理,11-1,39,TRUE
+p2-c-11-1-a,p2,concept,p2-s-11-1,11-1 A 顧客抱怨類型與處理步驟,11-1 A,113,TRUE
+p2-c-11-1-b,p2,concept,p2-s-11-1,11-1 B 消費糾紛處理原則,11-1 B,114,TRUE
+p2-s-11-2,p2,section,p2-c-ch11,11-2 餐廳客訴及緊急事件處理,11-2,40,TRUE
+p2-c-11-2-a,p2,concept,p2-s-11-2,11-2 A 客訴處理程序,11-2 A,115,TRUE
+p2-c-11-2-b,p2,concept,p2-s-11-2,11-2 B 意外與緊急事件應變流程,11-2 B,116,TRUE
+p2-c-11-2-b1,p2,concept,p2-s-11-2,11-2 B1火災,11-2 B1,117,TRUE
+p2-c-11-2-b2,p2,concept,p2-s-11-2,11-2 B2 消防法規相關,11-2 B2,118,TRUE
+p2-s-41,p2,section,p2-c-ch11,餐飲服務技術綜合題,,41,TRUE
+p2-c-119,p2,concept,p2-s-41,餐飲服務技術綜合題,,119,TRUE
+p2-c-120,p2,concept,p2-s-41,觀光餐旅業導論＆餐飲服務技術綜合題,,120,TRUE
+p2-s-2,p2,subject,,飲料實務,飲料實務,2,TRUE
